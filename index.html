@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tabelog Hyakumeiten Map</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+  <style>
+    #map {
+      height: 100vh;
+      width: 100%;
+    }
+  </style>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBAnv8QCfN2FcVTBuvsoWVB4VNKLLQX6hU&libraries=places"></script>
+</head>
+<body>
+  <div id="map"></div>
+  <script>
+    const mapData = [
+      // Replace these entries with real JSON output (from your script)
+      {
+        name: "一富士食堂",
+        place_id: "ChIJS0qyL9fmAGARAJ3zGa6ahh0"
+      },
+      // Add more entries here...
+    ];
+
+    function initMap() {
+      const map = new google.maps.Map(document.getElementById('map'), {
+        zoom: 6,
+        center: { lat: 35.6895, lng: 139.6917 }, // Center on Tokyo
+      });
+
+      const service = new google.maps.places.PlacesService(map);
+
+      mapData.forEach(place => {
+        const request = {
+          placeId: place.place_id,
+          fields: ['name', 'geometry', 'formatted_address', 'photos', 'rating', 'url']
+        };
+
+        service.getDetails(request, (result, status) => {
+          if (status === google.maps.places.PlacesServiceStatus.OK) {
+            const marker = new google.maps.Marker({
+              map,
+              position: result.geometry.location,
+              title: result.name
+            });
+
+            const infoWindow = new google.maps.InfoWindow({
+              content: `
+                <div>
+                  <h2>${result.name}</h2>
+                  <p>${result.formatted_address}</p>
+                  ${result.photos ? `<img src="${result.photos[0].getUrl()}" width="200">` : ''}
+                  ${result.rating ? `<p>Rating: ${result.rating}</p>` : ''}
+                  <a href="${result.url}" target="_blank">View on Google Maps</a>
+                </div>
+              `
+            });
+
+            marker.addListener('click', () => infoWindow.open(map, marker));
+          }
+        });
+      });
+    }
+
+    window.onload = initMap;
+  </script>
+</body>
+</html>
