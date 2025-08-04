@@ -1,40 +1,48 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Tabelog Hyakumeiten Map</title>
+  <title>Tabelog Soba Map</title>
   <meta charset="utf-8">
   <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
   <style>
-    #map {
-      height: 100vh;
-      width: 100%;
-    }
+    #map { height: 90vh; width: 100%; }
+    #filters { padding: 10px; }
   </style>
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBAnv8QCfN2FcVTBuvsoWVB4VNKLLQX6hU&libraries=places"></script>
 </head>
 <body>
+  <div id="filters">
+    <label><input type="checkbox" value="East" checked> East</label>
+    <label><input type="checkbox" value="West" checked> West</label>
+  </div>
   <div id="map"></div>
   <script>
     const mapData = [
-      // Replace these entries with real JSON output (from your script)
       {
-        name: "一富士食堂",
-        place_id: "ChIJS0qyL9fmAGARAJ3zGa6ahh0"
+        name: "Soba Restaurant East",
+        place_id: "ChIJS0qyL9fmAGARAJ3zGa6ahh0",
+        region: "East"
       },
-      // Add more entries here...
+      {
+        name: "Soba Restaurant West",
+        place_id: "ChIJz0xkMd_nAGARWZJNuN5ubGI",
+        region: "West"
+      }
     ];
+
+    const markersByRegion = {};
 
     function initMap() {
       const map = new google.maps.Map(document.getElementById('map'), {
         zoom: 6,
-        center: { lat: 35.6895, lng: 139.6917 }, // Center on Tokyo
+        center: { lat: 35.6895, lng: 139.6917 }
       });
 
       const service = new google.maps.places.PlacesService(map);
 
-      mapData.forEach(place => {
+      mapData.forEach(entry => {
         const request = {
-          placeId: place.place_id,
+          placeId: entry.place_id,
           fields: ['name', 'geometry', 'formatted_address', 'photos', 'rating', 'url']
         };
 
@@ -45,6 +53,11 @@
               position: result.geometry.location,
               title: result.name
             });
+
+            if (!markersByRegion[entry.region]) {
+              markersByRegion[entry.region] = [];
+            }
+            markersByRegion[entry.region].push(marker);
 
             const infoWindow = new google.maps.InfoWindow({
               content: `
@@ -62,9 +75,22 @@
           }
         });
       });
+
+      document.querySelectorAll('#filters input[type=checkbox]').forEach(checkbox => {
+        checkbox.addEventListener('change', () => {
+          const region = checkbox.value;
+          const visible = checkbox.checked;
+          if (markersByRegion[region]) {
+            markersByRegion[region].forEach(marker => {
+              marker.setVisible(visible);
+            });
+          }
+        });
+      });
     }
 
     window.onload = initMap;
   </script>
 </body>
 </html>
+
