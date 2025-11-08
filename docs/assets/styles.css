@@ -87,4 +87,11 @@ body{margin:0;background:var(--bg);color:var(--txt);font:14px/1.5 system-ui, -ap
   #locate { order: 4 }
 }
 
+/* flash highlight when jumping from map to card */
+.card.flash { animation: cardFlash 1200ms ease-out 1; }
+@keyframes cardFlash {
+  0% { box-shadow: 0 0 0 rgba(255,255,255,0); }
+  10% { box-shadow: 0 0 0 4px rgba(125, 211, 252, .75); }
+  100% { box-shadow: 0 0 0 rgba(255,255,255,0); }
+}
 
