@@ -118,9 +118,10 @@ body{margin:0;background:var(--bg);color:var(--txt);font:14px/1.5 system-ui, -ap
 }
 .back-to-top.show { opacity: 1; transform: translateY(0); }
 .back-to-top:hover { box-shadow: 0 10px 26px rgba(0,0,0,.35); }
-/* Header tray: height-based collapse so content below is pushed down */
+
+/* Header tray: height-based collapse so map sits below */
 .topbar {
-  --tray-peek: 36px;                 /* visible height when collapsed */
+  --tray-peek: 36px;                 /* visible height when collapsed (≈ handle height + 8px) */
   position: sticky;
   top: 0;
   z-index: 5000;
@@ -130,10 +131,13 @@ body{margin:0;background:var(--bg);color:var(--txt);font:14px/1.5 system-ui, -ap
   box-shadow: 0 2px 6px rgba(0,0,0,.2);
 }
 
-/* Expanded: header grows naturally, inner content visible */
-.topbar.expanded { height: auto; }
+/* Expanded header pushes the map down; we add bottom padding to make room for the handle */
+.topbar.expanded { 
+  height: auto;
+  padding-bottom: 36px;              /* reserve room so the handle doesn't overlap controls */
+}
 
-/* Collapsed: header height = peek only; inner hidden via max-height */
+/* Collapsed header shows only the handle area */
 .topbar.collapsed { height: var(--tray-peek); }
 
 .topbar-inner {
@@ -142,7 +146,7 @@ body{margin:0;background:var(--bg);color:var(--txt);font:14px/1.5 system-ui, -ap
   transition: max-height .22s ease, padding .22s ease;
 }
 
-/* When collapsed, fully tuck all controls (incl. Search Radius) */
+/* Fully tuck all controls (incl. Search Radius) when collapsed */
 .topbar.collapsed .topbar-inner {
   max-height: 0;
   padding-top: 0;
@@ -150,10 +154,10 @@ body{margin:0;background:var(--bg);color:var(--txt);font:14px/1.5 system-ui, -ap
   visibility: hidden;
 }
 
-/* Handle sits INSIDE the header, at the top center */
+/* Handle at the BOTTOM center of the tray */
 .tray-handle {
   position: absolute;
-  top: 4px;
+  bottom: 4px;                       /* <— moved from top to bottom */
   left: 50%;
   transform: translateX(-50%);
   width: 44px;
@@ -167,7 +171,8 @@ body{margin:0;background:var(--bg);color:var(--txt);font:14px/1.5 system-ui, -ap
   z-index: 5100;
 }
 
-/* Optional: tighten margins inside header rows so nothing pokes out */
+/* (Optional) tighten margins so panels don’t push into the handle zone */
 .topbar .radius,
 .topbar .cats,
-.topbar .sort-panel { margin: 0; }
+.topbar .sort-panel { margin-bottom: 6px; }
+
