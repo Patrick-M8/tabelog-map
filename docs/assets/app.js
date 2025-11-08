@@ -28,8 +28,10 @@ function haversine(lat1, lon1, lat2, lon2){
 function kmToM(km){ return km*1000; }
 function kmToMi(km){ return km*0.621371; }
 function miToKm(mi){ return mi/0.621371; }
-function escapeHtml(s){ return String(s||'').replace(/[&<>"']/g, m => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]); ) }
-function parseHash(){
+function escapeHtml(s) {
+  const map = { '&':'&amp;', '<':'&lt;', '>':'&gt;', '"':'&quot;', "'":'&#39;' };
+  return String(s ?? '').replace(/[&<>"']/g, ch => map[ch]);
+}
   const h = new URLSearchParams(location.hash.slice(1));
   return {
     sort: h.get('sort') || 'closing',
