@@ -1,26 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-build_geojson.py
-----------------
-Convert a repository organized as category_region_year JSON files into:
-  1) One GeoJSON per category (regions merged)
-  2) A tiny centroids index per category for fast "nearby" counts
-  3) A manifest linking categories to files and providing bboxes and total counts
-
-Designed for GitHub Pages hosting (static, cacheable, no server).
-
-Usage:
-  python build_geojson.py --in-root /path/to/root --out-dir ./out/geojson --version v2025 --centroid-max 4000
-
-Inputs:
-  - Scans recursively for *.json (expects the schema similar to your Tabelog+Google combined JSON).
-
-Outputs:
-  - out/geojson/<category_key>_<version>.min.geojson
-  - out/geojson/category_centroids.min.json
-  - out/geojson/manifest.json
-"""
 import argparse, json, re, sys, math, os
 from pathlib import Path
 from datetime import datetime
