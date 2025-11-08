@@ -1,4 +1,3 @@
-
 // Static, GitHub Pages–friendly client
 const MANIFEST_URL = 'geojson/manifest.json';
 const CENTROIDS_URL = 'geojson/category_centroids.min.json';
@@ -11,7 +10,7 @@ let manifest = null;
 let centroids = {};
 let map, markersLayer, myMarker = null, myRing = null;
 let currentSort = 'closing';
-let sortDir = 'asc';               // asc | desc (default per sort updated on click)
+let sortDir = 'asc';               // asc | desc (per sort)
 let selectedCats = new Set();
 let catsCache = new Map();
 let featuresAll = [];
@@ -68,7 +67,8 @@ function parseHash() {
     z: parseInt(h.get('z') || '13', 10),
     r: parseFloat(h.get('r') || String(DEFAULT_RADIUS_KM)),
     u: (h.get('u') || 'km'),
-    f: h.get('f') || '1'
+    f: h.get('f') || '1',
+    sb: h.get('sb') || '1' // sort panel open
   };
 }
 function writeHash(obj){
@@ -105,7 +105,7 @@ function initMap(state){
 
   markersLayer = L.layerGroup().addTo(map);
 
-  // No auto-fit on move/zoom. Only persist position/zoom + update counts.
+  // Persist position/zoom; NO auto-fit or ring snap.
   map.on('moveend', () => {
     const c = map.getCenter();
     writeHash({ lat: c.lat.toFixed(5), lng: c.lng.toFixed(5), z: map.getZoom() });
@@ -164,12 +164,42 @@ async function boot(){
     $('#filter-toggle').checked = onlyWithinRing;
     setSortUI(currentSort, sortDir);
 
-    await loadSelectedCategories();
-    refreshAll();
-  } catch (err){
-    showBanner('A runtime error occurred. Open DevTools console for details.');
-    console.error(err);
-  }
+    // sort-panel open/closed persistence
+    const sortPanel = $('#sort-panel');
+    if (sortPanel) {
+      sortPanel.open = (s.sb !== '0');
+      sortPanel.addEventListener('toggle', () => {
+        writeHash({ sb: sortPanel.open ? '1' : '0' });
+      });
+    }
+
+    // back-to-top behavior (list-aware)
+    const backTop = document.getElementById('backTop');
+    const listEl  = document.getElementById('list');
+    
+    if (backTop) {
+      const showHide = () => {
+        const scrolled = listEl ? listEl.scrollTop : window.scrollY;
+        backTop.classList.toggle('show', scrolled > 400);
+      };
+    
+      // click → scroll the list (or page) to top
+      backTop.addEventListener('click', () => {
+        if (listEl) listEl.scrollTo({ top: 0, behavior: 'smooth' });
+        else window.scrollTo({ top: 0, behavior: 'smooth' });
+      });
+    
+      // listen to the list if it scrolls; otherwise the window
+      if (listEl) {
+        listEl.addEventListener('scroll', showHide);
+      } else {
+        window.addEventListener('scroll', showHide);
+      }
+    
+      // initial state
+      showHide();
+    }
+
 }
 
 async function safeFetchJson(url){
@@ -189,9 +219,7 @@ function bindUI(){
   document.querySelectorAll('.sort-btn').forEach(btn => {
     btn.addEventListener('click', () => {
       const key = btn.dataset.sort;
-
       if (currentSort === key) {
-        // toggle direction
         sortDir = (sortDir === 'asc') ? 'desc' : 'asc';
       } else {
         currentSort = key;
@@ -259,6 +287,7 @@ function bindUI(){
     if(s.u && s.u !== units){ units = s.u; updateRadiusUI(); resizeRing(); }
     if(isFinite(s.r)){ radiusKm = (units === 'mi') ? miToKm(s.r) : s.r; updateRadiusUI(); resizeRing(); }
     if(s.f){ onlyWithinRing = (s.f !== '0'); const t = $('#filter-toggle'); if(t) t.checked = onlyWithinRing; }
+    const sortPanel = $('#sort-panel'); if (sortPanel && s.sb) sortPanel.open = (s.sb !== '0');
 
     if(s.cats && s.cats.length){
       const next = new Set(s.cats);
@@ -277,7 +306,7 @@ function bindUI(){
 
 function defaultDirFor(key){
   switch(key){
-    case 'closing':  return 'asc';  // closes soonest first
+    case 'closing':  return 'asc';  // soonest first
     case 'price':    return 'asc';  // cheapest first
     case 'distance': return 'asc';  // nearest first
     case 'rating_t': return 'desc'; // highest first
@@ -289,7 +318,6 @@ function setSortUI(key, dir){
   document.querySelectorAll('.sort-btn').forEach(b => {
     const active = (b.dataset.sort === key);
     b.setAttribute('aria-pressed', String(active));
-    // label arrow
     const base = b.textContent.replace(/ ▲| ▼/g,'').trim();
     if(active){
       b.textContent = `${base} ${dir === 'asc' ? '▲' : '▼'}`;
@@ -420,65 +448,69 @@ function refreshAll(){ filterByRing(); renderMap(); renderList(); }
 
 function renderMap(){
   markersLayer.clearLayers();
-  const bounds = [];
 
   filtered.forEach(f => {
     const [lng, lat] = f.geometry.coordinates;
-    const status = f.properties.hours.open_now.status;
+    const p = f.properties;
+    const status = p.hours?.open_now?.status;
     const color = status==='open' ? '#10b981' : (status==='closed' ? '#6b7280' : '#f59e0b');
 
     const fid = featureId(f);
-    const name = f.properties.name || f.properties.name_local || '(no name)';
+    const name = p.name || p.name_local || '(no name)';
+    const cuisines = (p.sub_categories || []).join(', ');
 
     const circle = L.circleMarker([lat, lng], {
-      radius: 7, weight:1, color: '#000',
-      fillColor: color, fillOpacity:0.9
+      radius: 7, weight:1, color: '#000', fillColor: color, fillOpacity:0.9
     });
 
-    // Clicking the marker scrolls the list
-    circle.on('click', () => scrollToCard(fid));
-    circle.bindPopup(`<strong>${escapeHtml(name)}</strong><br>${escapeHtml(f.properties.hours.today_compact || '')}`);
+    // Popup: clicking the NAME inside popup scrolls to the card
+    const html =
+      `<a href="#" class="popup-name" data-fid="${fid}">${escapeHtml(name)}</a>` +
+      (cuisines ? `<br><small>${escapeHtml(cuisines)}</small>` : '');
+
+    circle.bindPopup(html);
+    circle.on('popupopen', (e) => {
+      const el = e.popup.getElement()?.querySelector('a.popup-name');
+      if(el){
+        el.addEventListener('click', (ev) => {
+          ev.preventDefault();
+          scrollToCard(fid);
+          map.closePopup();
+        });
+      }
+    });
 
     circle.addTo(markersLayer);
-    bounds.push([lat, lng]);
   });
 
-  // No auto-fit (prevents snapping when zooming around)
+  // No auto-fit (no snapping on zoom/pan)
 }
 
 function sortFeatures(arr, key, dir){
-  const asc = (a,b) => a - b;
-  const desc = (a,b) => b - a;
-
   const cmpClosing = (A,B) => {
     const a = A.properties.sort_keys || {};
     const b = B.properties.sort_keys || {};
-    // open first
     const ao = a.open_rank || 0, bo = b.open_rank || 0;
-    if(bo !== ao) return bo - ao;  // higher open_rank first
+    if(bo !== ao) return bo - ao;  // open first
     const ac = Number.isFinite(a.closes_in_min) ? a.closes_in_min : 1e9;
     const bc = Number.isFinite(b.closes_in_min) ? b.closes_in_min : 1e9;
     return ac - bc; // soonest first
   };
-
   const cmpPrice = (A,B) => {
     const a = A.properties.sort_keys?.price_min ?? 1e9;
     const b = B.properties.sort_keys?.price_min ?? 1e9;
     return a - b; // cheap first
   };
-
   const cmpRatingT = (A,B) => {
     const a = parseFloat(A.properties.ratings?.tabelog?.score ?? 0) || 0;
     const b = parseFloat(B.properties.ratings?.tabelog?.score ?? 0) || 0;
     return b - a; // high first
   };
-
   const cmpRatingG = (A,B) => {
     const a = parseFloat(A.properties.ratings?.google?.score ?? 0) || 0;
     const b = parseFloat(B.properties.ratings?.google?.score ?? 0) || 0;
     return b - a; // high first
   };
-
   const cmpDistance = (A,B) => {
     const a = distanceFromUserMeters(A);
     const b = distanceFromUserMeters(B);
@@ -538,7 +570,7 @@ function renderCard(f){
   nm.textContent = p.name || p.name_local || '(no name)';
 
   // status pill
-  const on = p.hours.open_now || {};
+  const on = p.hours?.open_now || {};
   let label = 'Closed', cls='closed';
   if(on.status === 'open'){
     const parts=[];
@@ -550,7 +582,7 @@ function renderCard(f){
   st.textContent = label;
   st.classList.add('status', cls);
 
-  today.textContent = p.hours.today_compact || '';
+  today.textContent = p.hours?.today_compact || '';
 
   // chips: price / distance / subcats / policy
   const priceBucket = p.price?.bucket;
@@ -558,7 +590,6 @@ function renderCard(f){
     const chip = document.createElement('span'); chip.className='chip'; chip.textContent = '¥'.repeat(Math.min(priceBucket,5));
     chips.appendChild(chip);
   }
-  // distance chip
   const d = distanceFromUserMeters(f);
   if (Number.isFinite(d)) {
     const chip = document.createElement('span'); chip.className='chip';
@@ -580,7 +611,7 @@ function renderCard(f){
   const r2 = document.createElement('div'); r2.textContent = `Google ★ ${g?.score ?? '-' } (${g?.reviews ?? '-'})`;
   ratings.appendChild(r2);
 
-  // directions: English name ONLY (no coordinates)
+  // directions: English name ONLY
   const qName = encodeURIComponent(p.name || p.name_local || '');
   const gSearch = `https://www.google.com/maps/search/?api=1&query=${qName}`;
   if(p.urls?.tabelog){
@@ -623,3 +654,4 @@ function updateRadiusUI(){
 
 // ---- start ----
 document.addEventListener('DOMContentLoaded', boot);
+
