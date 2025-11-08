@@ -138,12 +138,13 @@
   // tray handle (ensures whole header content is tucked)
   function ensureTrayHandle(){
     const header = document.querySelector('.topbar');
-    const inner  = document.querySelector('.topbar-inner');
     if (!header) return;
-
-    // ensure CSS var for peek height exists (fallback 36px)
-    header.style.setProperty('--tray-peek', getComputedStyle(header).getPropertyValue('--tray-peek') || '36px');
-
+  
+    // default for safety
+    if (!getComputedStyle(header).getPropertyValue('--tray-peek').trim()) {
+      header.style.setProperty('--tray-peek', '36px');
+    }
+  
     let handle = document.getElementById('tray-handle');
     if (!handle) {
       handle = document.createElement('button');
@@ -152,23 +153,27 @@
       handle.type = 'button';
       handle.title = 'Show/Hide controls';
       handle.setAttribute('aria-expanded', 'true');
-      handle.innerHTML = '▾';
+      handle.textContent = '▾';
       header.appendChild(handle);
     }
+  
     const applyState = () => {
       const open = localStorage.getItem('tray_open') !== '0';
+      header.classList.toggle('expanded', open);
       header.classList.toggle('collapsed', !open);
-      if (inner) inner.classList.toggle('tray-hidden', !open); // <-- forces full tuck
       handle.setAttribute('aria-expanded', String(open));
-      handle.innerHTML = open ? '▾' : '▴';
+      handle.textContent = open ? '▾' : '▴';
     };
+  
     applyState();
+  
     handle.addEventListener('click', () => {
       const open = localStorage.getItem('tray_open') !== '0';
       localStorage.setItem('tray_open', open ? '0' : '1');
       applyState();
     });
   }
+
 
   // boot
   async function boot(){
