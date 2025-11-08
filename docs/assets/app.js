@@ -28,6 +28,7 @@
   let onlyWithinRing = true;
   const cardIndex = new Map();       // fid -> DOM element
   let anchorCenter = null;           // ring center ("home" for back-to-top)
+  let backTopManualHide = false;     // hides back-to-top until user scrolls/moves again
 
   // ---- Utils ----
   const $ = sel => document.querySelector(sel);
@@ -177,13 +178,14 @@
     });
   }
 
-  // ---- Categories overlay (portal out of tray when open) ----
+  // ---- Categories overlay (robust, no flash) ----
   function enableCategoriesOverlay(){
     const cats = document.getElementById('cats-panel');
     if(!cats) return;
     const header = document.querySelector('.topbar');
     const menu = cats.querySelector('.cats-menu');
-    if(!menu) return;
+    const summary = cats.querySelector('summary');
+    if(!menu || !summary) return;
 
     let isOverlay = false;
 
@@ -206,14 +208,34 @@
       isOverlay = false;
     }
 
-    cats.addEventListener('toggle', () => {
-      if (cats.open) { placeMenu(); } else { restoreMenu(); }
+    // Intercept summary click: manage open/close ourselves (prevents flash/auto-close)
+    summary.addEventListener('click', (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      const isOpen = cats.hasAttribute('open');
+      if (isOpen) {
+        cats.removeAttribute('open');
+        restoreMenu();
+      } else {
+        cats.setAttribute('open','');
+        placeMenu();
+      }
     });
 
+    // Click outside to close
+    document.addEventListener('click', (e) => {
+      if (!cats.hasAttribute('open')) return;
+      if (summary.contains(e.target)) return;
+      if (menu.contains(e.target)) return;
+      cats.removeAttribute('open');
+      restoreMenu();
+    });
+
+    // Keep overlay aligned if header height changes or viewport resizes
     ['resize', 'orientationchange'].forEach(ev =>
-      window.addEventListener(ev, () => { if (isOverlay) placeMenu(); })
+      window.addEventListener(ev, () => { if (isOverlay && cats.hasAttribute('open')) placeMenu(); })
     );
-    header.addEventListener('transitionend', () => { if (isOverlay) placeMenu(); });
+    header.addEventListener('transitionend', () => { if (isOverlay && cats.hasAttribute('open')) placeMenu(); });
   }
 
   // ---- Boot ----
@@ -228,7 +250,7 @@
     initMap(s);
     bindUI();
     ensureTrayHandle();
-    enableCategoriesOverlay(); // <-- now defined
+    enableCategoriesOverlay();
 
     // set ring at hash coords, geolocation, or map center
     if(isFinite(s.lat) && isFinite(s.lng)){
@@ -286,12 +308,19 @@
         // Scroll BOTH so it works regardless of which scroll container is active
         if (listEl) listEl.scrollTo({ top: 0, behavior: 'smooth' });
         window.scrollTo({ top: 0, behavior: 'smooth' });
+        // Hide immediately after click until user scrolls/moves again
+        backTopManualHide = true;
+        updateBackTopVisibility();
       });
 
-      const onListScroll = () => updateBackTopVisibility();
+      const onListScroll = () => {
+        if (listEl && listEl.scrollTop > 5) backTopManualHide = false;
+        updateBackTopVisibility();
+      };
       if (listEl) listEl.addEventListener('scroll', onListScroll);
       else window.addEventListener('scroll', onListScroll);
 
+      map.on('movestart', () => { backTopManualHide = false; updateBackTopVisibility(); });
       map.on('move', updateBackTopVisibility);
       map.on('moveend', updateBackTopVisibility);
 
@@ -398,10 +427,12 @@
     });
   }
 
-  // ---- Back-to-top visibility (list scroll OR map drift) ----
+  // ---- Back-to-top visibility (list scroll OR map drift), with manual hide ----
   function updateBackTopVisibility(){
     const backTop = document.getElementById('backTop');
     if(!backTop) return;
+
+    if (backTopManualHide) { backTop.classList.remove('show'); return; }
 
     const listEl  = document.getElementById('list');
     const listScrolled = listEl ? (listEl.scrollTop > 60) : (window.scrollY > 60);
@@ -773,4 +804,3 @@
   });
 
 })();
-
