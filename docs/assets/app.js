@@ -1,3 +1,4 @@
+// Hardened client for GitHub Pages
 const MANIFEST_URL = 'geojson/manifest.json';
 const CENTROIDS_URL = 'geojson/category_centroids.min.json';
 const DEFAULT_RADIUS_KM = 3;
@@ -238,5 +239,3 @@ function updateRadiusUI(){
   r.value = parseFloat(disp.toFixed(2));
 }
 document.addEventListener('DOMContentLoaded', boot);
-  """)
-
