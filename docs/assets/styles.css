@@ -98,7 +98,8 @@ body{margin:0;background:var(--bg);color:var(--txt);font:14px/1.5 system-ui, -ap
 /* Back-to-top: bigger, easy reach, opaque + hover */
 .back-to-top {
   position: fixed;
-  right: 20px;         /* not flush in the corner */
+  left: 20px;         /* not flush in the corner */
+  right: auto;
   bottom: 28px;
   width: 56px;
   height: 56px;
