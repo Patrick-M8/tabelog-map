@@ -16,11 +16,33 @@
   <header class="topbar">
     <div class="topbar-inner">
       <div class="brand">🍜 where to eat</div>
+
       <div class="controls">
-        <label class="select">
-          <span>Category</span>
-          <select id="cat"></select>
-        </label>
+        <!-- Categories (multi) -->
+        <details class="cats" id="cats-panel">
+          <summary id="cats-summary">Categories</summary>
+          <div class="cats-menu">
+            <div class="cats-actions">
+              <button type="button" id="cats-all">Select all</button>
+              <button type="button" id="cats-none">Clear</button>
+            </div>
+            <div id="cats-list" class="cats-list"><!-- checkboxes injected --></div>
+          </div>
+        </details>
+
+        <!-- Radius + units -->
+        <div class="radius">
+          <label>Radius
+            <input type="range" id="radius" min="0.5" max="10" step="0.5" value="3">
+            <span id="radius-val">3</span>
+            <select id="units">
+              <option value="km" selected>km</option>
+              <option value="mi">mi</option>
+            </select>
+          </label>
+        </div>
+
+        <!-- Sort & locate -->
         <div class="sorts">
           <button class="sort-btn" data-sort="closing" aria-pressed="true">Closing soon</button>
           <button class="sort-btn" data-sort="price">Price</button>
@@ -52,5 +74,8 @@
   </template>
 
   <script src="assets/app.js"></script>
+</body>
+</html>
+
 </body>
 </html>
