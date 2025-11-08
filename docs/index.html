@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Where to Eat — Tabelog + Google</title>
+  <link rel="stylesheet" href="assets/styles.css" />
+
+  <!-- Leaflet (pinned) -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+          integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <div class="brand">🍜 where to eat</div>
+      <div class="controls">
+        <label class="select">
+          <span>Category</span>
+          <select id="cat"></select>
+        </label>
+        <div class="sorts">
+          <button class="sort-btn" data-sort="closing" aria-pressed="true">Closing soon</button>
+          <button class="sort-btn" data-sort="price">Price</button>
+          <button id="locate" title="Use my location">📍</button>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main id="layout">
+    <div id="map"></div>
+    <section id="list" aria-live="polite"></section>
+  </main>
+
+  <template id="card-tpl">
+    <article class="card">
+      <div class="img" role="img" aria-label=""></div>
+      <div class="meta">
+        <div class="title-row">
+          <h3 class="name"></h3>
+          <div class="status"></div>
+        </div>
+        <div class="line today"></div>
+        <div class="chips"></div>
+        <div class="ratings"></div>
+        <div class="links"></div>
+      </div>
+    </article>
+  </template>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>
