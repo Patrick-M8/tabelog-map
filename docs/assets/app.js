@@ -232,26 +232,38 @@
       });
     }
 
-// Back-to-top: show if list scrolled OR map drifted from anchor
-    const backTop = document.getElementById('backTop');
-    const listEl  = document.getElementById('list');
-    if (backTop) {
-      backTop.addEventListener('click', () => {
-        if (listEl) listEl.scrollTo({ top: 0, behavior: 'smooth' });
-        else window.scrollTo({ top: 0, behavior: 'smooth' });
-      });
-    
-      const onListScroll = () => updateBackTopVisibility();
-      if (listEl) listEl.addEventListener('scroll', onListScroll);
-      else window.addEventListener('scroll', onListScroll);
-    
-      // Also react to map moves (fast feedback)
-      map.on('move', updateBackTopVisibility);
-      map.on('moveend', updateBackTopVisibility);
-    
-      // initial state
-      updateBackTopVisibility();
+  // Back-to-top: shows if list scrolled OR map drifted from anchor
+  const backTop = document.getElementById('backTop');
+  const listEl  = document.getElementById('list');
+  
+  function updateBackTopVisibility(){
+    if(!backTop) return;
+    const listScrolled = listEl ? (listEl.scrollTop > 60) : (window.scrollY > 60);
+    let mapDrifted = false;
+    if (map && anchorCenter){
+      const c = map.getCenter();
+      const d = haversine(c.lat, c.lng, anchorCenter.lat, anchorCenter.lng);
+      mapDrifted = d >= MAP_DRIFT_M;
     }
+    backTop.classList.toggle('show', listScrolled || mapDrifted);
+  }
+  
+  if (backTop){
+    backTop.addEventListener('click', () => {
+      // Scroll BOTH, so it works regardless of which one is actually scrolling
+      if (listEl) listEl.scrollTo({ top: 0, behavior: 'smooth' });
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  
+    const onListScroll = () => updateBackTopVisibility();
+    if (listEl) listEl.addEventListener('scroll', onListScroll);
+    else window.addEventListener('scroll', onListScroll);
+  
+    map.on('move', updateBackTopVisibility);
+    map.on('moveend', updateBackTopVisibility);
+  
+    updateBackTopVisibility();
+  }
 
 
     await loadSelectedCategories();
