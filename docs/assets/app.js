@@ -1,4 +1,5 @@
-// Hardened client for GitHub Pages
+
+// Static, GitHub Pages–friendly client
 const MANIFEST_URL = 'geojson/manifest.json';
 const CENTROIDS_URL = 'geojson/category_centroids.min.json';
 const DEFAULT_RADIUS_KM = 3;
@@ -7,23 +8,23 @@ const LO_SOON_M = 30;
 const MAX_ZOOM_ON_FLY = 16;
 
 let manifest = null;
-let centroids = {};                 // optional
+let centroids = {};
 let map, markersLayer, myMarker = null, myRing = null;
 let currentSort = 'closing';
+let sortDir = 'asc';               // asc | desc (default per sort updated on click)
 let selectedCats = new Set();
-let catsCache = new Map();          // key -> FeatureCollection
-let featuresAll = [];               // union of selected categories
-let filtered = [];                  // after ring filter (optional)
+let catsCache = new Map();
+let featuresAll = [];
+let filtered = [];
 let units = 'km';
 let radiusKm = DEFAULT_RADIUS_KM;
-let onlyWithinRing = true;          // <-- new: planning mode toggle
-let hasFitOnce = false;             // <-- new: no repeated snap
+let onlyWithinRing = true;
+const cardIndex = new Map();       // fid -> DOM element
 
 // ---- utils ----
 const $ = sel => document.querySelector(sel);
 const tpl = id => document.getElementById(id).content.firstElementChild.cloneNode(true);
 const toRad = d => d * Math.PI / 180;
-const clamp = (v, min, max) => Math.max(min, Math.min(max, v));
 function haversine(lat1, lon1, lat2, lon2){
   const R = 6371000;
   const dLat = toRad(lat2 - lat1), dLon = toRad(lon2 - lon1);
@@ -48,19 +49,26 @@ function distanceFromUserMeters(f){
   const [lng, lat] = f.geometry.coordinates;
   return haversine(u.lat, u.lng, lat, lng);
 }
+function featureId(f){
+  const p = f.properties;
+  const [lng, lat] = f.geometry.coordinates;
+  const base = p.uid || p.id || p.urls?.tabelog || p.name || `${lat},${lng}`;
+  return String(base).toLowerCase().replace(/[^a-z0-9]+/g,'_').slice(0,80);
+}
 
 // URL state
 function parseHash() {
   const h = new URLSearchParams(location.hash.slice(1));
   return {
     sort: h.get('sort') || 'closing',
+    sd: (h.get('sd') || ''), // asc|desc
     cats: (h.get('cats') || '').split(',').filter(Boolean),
     lat: parseFloat(h.get('lat')),
     lng: parseFloat(h.get('lng')),
     z: parseInt(h.get('z') || '13', 10),
     r: parseFloat(h.get('r') || String(DEFAULT_RADIUS_KM)),
     u: (h.get('u') || 'km'),
-    f: h.get('f') || '1'  // 1 = limit to radius, 0 = show all
+    f: h.get('f') || '1'
   };
 }
 function writeHash(obj){
@@ -92,19 +100,15 @@ function initMap(state){
 
   const lat = isFinite(state.lat) ? state.lat : 35.681236;
   const lng = isFinite(state.lng) ? state.lng : 139.767125;
-  const z   = isFinite(state.z)   ? clamp(state.z, 2, 19) : 13;
+  const z   = isFinite(state.z)   ? Math.max(2, Math.min(19, state.z)) : 13;
   map.setView([lat, lng], z);
 
   markersLayer = L.layerGroup().addTo(map);
 
-  // Do NOT auto-fit on every move; we only write hash and update counts.
+  // No auto-fit on move/zoom. Only persist position/zoom + update counts.
   map.on('moveend', () => {
     const c = map.getCenter();
     writeHash({ lat: c.lat.toFixed(5), lng: c.lng.toFixed(5), z: map.getZoom() });
-    if(!myMarker){
-      // If user hasn't located, ring follows the map center (planning baseline)
-      ensureRingAt(c.lat, c.lng, false);
-    }
     refreshNearbyCounts();
   });
 }
@@ -114,6 +118,7 @@ async function boot(){
   try {
     const s = parseHash();
     currentSort = s.sort || 'closing';
+    sortDir = (s.sd === 'asc' || s.sd === 'desc') ? s.sd : defaultDirFor(currentSort);
     units = (s.u === 'mi') ? 'mi' : 'km';
     radiusKm = isFinite(s.r) ? (s.u === 'mi' ? miToKm(s.r) : s.r) : DEFAULT_RADIUS_KM;
     onlyWithinRing = (s.f !== '0');
@@ -140,7 +145,6 @@ async function boot(){
     manifest = await safeFetchJson(MANIFEST_URL);
     if(!manifest || !Array.isArray(manifest.categories) || !manifest.categories.length){
       showBanner('Missing or empty geojson/manifest.json. Run your builder to create it.');
-      console.error('Manifest load failed or has no categories.', manifest);
       return;
     }
     centroids = await safeFetchJson(CENTROIDS_URL) || {}; // optional
@@ -156,9 +160,9 @@ async function boot(){
     }
 
     buildCategoriesPanel();
-    selectSortButton(currentSort);
     updateRadiusUI();
     $('#filter-toggle').checked = onlyWithinRing;
+    setSortUI(currentSort, sortDir);
 
     await loadSelectedCategories();
     refreshAll();
@@ -184,9 +188,17 @@ function bindUI(){
   // sort bar
   document.querySelectorAll('.sort-btn').forEach(btn => {
     btn.addEventListener('click', () => {
-      currentSort = btn.dataset.sort;
-      selectSortButton(currentSort);
-      writeHash({ sort: currentSort });
+      const key = btn.dataset.sort;
+
+      if (currentSort === key) {
+        // toggle direction
+        sortDir = (sortDir === 'asc') ? 'desc' : 'asc';
+      } else {
+        currentSort = key;
+        sortDir = defaultDirFor(key);
+      }
+      setSortUI(currentSort, sortDir);
+      writeHash({ sort: currentSort, sd: sortDir });
       renderList();
     });
   });
@@ -201,7 +213,6 @@ function bindUI(){
       refreshAll();
     }, err => {
       showBanner('Geolocation failed or was denied. Using map center.');
-      console.warn(err);
       const c = map.getCenter();
       ensureRingAt(c.lat, c.lng, false);
       refreshAll();
@@ -241,23 +252,51 @@ function bindUI(){
   // hash changes
   window.addEventListener('hashchange', () => {
     const s = parseHash();
-    if(s.sort && s.sort !== currentSort){ currentSort = s.sort; selectSortButton(currentSort); renderList(); }
-    if(s.u && s.u !== units){ units = s.u; updateRadiusUI(); resizeRing(); refreshAll(); }
-    if(isFinite(s.r)){ radiusKm = (units === 'mi') ? miToKm(s.r) : s.r; updateRadiusUI(); resizeRing(); refreshAll(); }
-    if(s.f){ onlyWithinRing = (s.f !== '0'); const t = $('#filter-toggle'); if(t) t.checked = onlyWithinRing; refreshAll(); }
+    if(s.sort && s.sort !== currentSort){ currentSort = s.sort; }
+    if(s.sd){ sortDir = (s.sd === 'asc' ? 'asc' : 'desc'); }
+    setSortUI(currentSort, sortDir);
+
+    if(s.u && s.u !== units){ units = s.u; updateRadiusUI(); resizeRing(); }
+    if(isFinite(s.r)){ radiusKm = (units === 'mi') ? miToKm(s.r) : s.r; updateRadiusUI(); resizeRing(); }
+    if(s.f){ onlyWithinRing = (s.f !== '0'); const t = $('#filter-toggle'); if(t) t.checked = onlyWithinRing; }
+
     if(s.cats && s.cats.length){
       const next = new Set(s.cats);
       if(diffSets(selectedCats, next)){
         selectedCats = next;
         buildCategoriesPanel();
         loadSelectedCategories().then(refreshAll);
+      } else {
+        refreshAll();
       }
+    } else {
+      refreshAll();
     }
   });
 }
 
-function selectSortButton(key){
-  document.querySelectorAll('.sort-btn').forEach(b => b.setAttribute('aria-pressed', String(b.dataset.sort === key)));
+function defaultDirFor(key){
+  switch(key){
+    case 'closing':  return 'asc';  // closes soonest first
+    case 'price':    return 'asc';  // cheapest first
+    case 'distance': return 'asc';  // nearest first
+    case 'rating_t': return 'desc'; // highest first
+    case 'rating_g': return 'desc'; // highest first
+    default:         return 'asc';
+  }
+}
+function setSortUI(key, dir){
+  document.querySelectorAll('.sort-btn').forEach(b => {
+    const active = (b.dataset.sort === key);
+    b.setAttribute('aria-pressed', String(active));
+    // label arrow
+    const base = b.textContent.replace(/ ▲| ▼/g,'').trim();
+    if(active){
+      b.textContent = `${base} ${dir === 'asc' ? '▲' : '▼'}`;
+    } else {
+      b.textContent = base;
+    }
+  });
 }
 function diffSets(a,b){
   if(a.size !== b.size) return true;
@@ -386,61 +425,77 @@ function renderMap(){
   filtered.forEach(f => {
     const [lng, lat] = f.geometry.coordinates;
     const status = f.properties.hours.open_now.status;
+    const color = status==='open' ? '#10b981' : (status==='closed' ? '#6b7280' : '#f59e0b');
+
+    const fid = featureId(f);
+    const name = f.properties.name || f.properties.name_local || '(no name)';
+
     const circle = L.circleMarker([lat, lng], {
       radius: 7, weight:1, color: '#000',
-      fillColor: status==='open' ? '#10b981' : (status==='closed' ? '#6b7280' : '#f59e0b'),
-      fillOpacity:0.9
+      fillColor: color, fillOpacity:0.9
     });
-    circle.bindPopup(`<strong>${escapeHtml(f.properties.name)}</strong><br>${escapeHtml(f.properties.hours.today_compact)}`);
+
+    // Clicking the marker scrolls the list
+    circle.on('click', () => scrollToCard(fid));
+    circle.bindPopup(`<strong>${escapeHtml(name)}</strong><br>${escapeHtml(f.properties.hours.today_compact || '')}`);
+
     circle.addTo(markersLayer);
     bounds.push([lat, lng]);
   });
 
-  // Only auto-fit once (prevents snapping when zooming around)
-  if(!hasFitOnce && bounds.length){
-    const b = L.latLngBounds(bounds);
-    map.fitBounds(b.pad(0.1), { maxZoom: 15 });
-    hasFitOnce = true;
-  }
+  // No auto-fit (prevents snapping when zooming around)
 }
 
-function sortFeatures(arr, key){
-  const byClosing = (a,b) => {
-    const ar=a.properties.sort_keys, br=b.properties.sort_keys;
-    const orank = (br.open_rank||0) - (ar.open_rank||0); if(orank) return orank;
-    const ac=ar.closes_in_min??1e9, bc=br.closes_in_min??1e9;
-    if(ac!==bc) return ac-bc;
-    const at=(a.properties.ratings.tabelog.score||0), bt=(b.properties.ratings.tabelog.score||0);
-    return bt-at;
+function sortFeatures(arr, key, dir){
+  const asc = (a,b) => a - b;
+  const desc = (a,b) => b - a;
+
+  const cmpClosing = (A,B) => {
+    const a = A.properties.sort_keys || {};
+    const b = B.properties.sort_keys || {};
+    // open first
+    const ao = a.open_rank || 0, bo = b.open_rank || 0;
+    if(bo !== ao) return bo - ao;  // higher open_rank first
+    const ac = Number.isFinite(a.closes_in_min) ? a.closes_in_min : 1e9;
+    const bc = Number.isFinite(b.closes_in_min) ? b.closes_in_min : 1e9;
+    return ac - bc; // soonest first
   };
-  const byPrice = (a,b) => {
-    const ap=a.properties.sort_keys.price_min??1e9, bp=b.properties.sort_keys.price_min??1e9;
-    if(ap!==bp) return ap-bp;
-    const at=(a.properties.ratings.tabelog.score||0), bt=(b.properties.ratings.tabelog.score||0);
-    return bt-at;
+
+  const cmpPrice = (A,B) => {
+    const a = A.properties.sort_keys?.price_min ?? 1e9;
+    const b = B.properties.sort_keys?.price_min ?? 1e9;
+    return a - b; // cheap first
   };
-  const byRatingT = (a,b) => {
-    const at=(a.properties.ratings.tabelog.score||0), bt=(b.properties.ratings.tabelog.score||0);
-    return bt-at;
+
+  const cmpRatingT = (A,B) => {
+    const a = parseFloat(A.properties.ratings?.tabelog?.score ?? 0) || 0;
+    const b = parseFloat(B.properties.ratings?.tabelog?.score ?? 0) || 0;
+    return b - a; // high first
   };
-  const byRatingG = (a,b) => {
-    const ag=(a.properties.ratings.google.score||0), bg=(b.properties.ratings.google.score||0);
-    return bg-ag;
+
+  const cmpRatingG = (A,B) => {
+    const a = parseFloat(A.properties.ratings?.google?.score ?? 0) || 0;
+    const b = parseFloat(B.properties.ratings?.google?.score ?? 0) || 0;
+    return b - a; // high first
   };
-  const byDistance = (a,b) => {
-    const da = distanceFromUserMeters(a);
-    const db = distanceFromUserMeters(b);
-    return da - db;
+
+  const cmpDistance = (A,B) => {
+    const a = distanceFromUserMeters(A);
+    const b = distanceFromUserMeters(B);
+    return a - b; // near first
   };
 
   const copy = [...arr];
+  let cmp;
   switch(key){
-    case 'price': copy.sort(byPrice); break;
-    case 'rating_t': copy.sort(byRatingT); break;
-    case 'rating_g': copy.sort(byRatingG); break;
-    case 'distance': copy.sort(byDistance); break;
-    default: copy.sort(byClosing);
+    case 'price':    cmp = cmpPrice;    break;
+    case 'rating_t': cmp = cmpRatingT;  break;
+    case 'rating_g': cmp = cmpRatingG;  break;
+    case 'distance': cmp = cmpDistance; break;
+    default:         cmp = cmpClosing;  break;
   }
+  copy.sort(cmp);
+  if (dir === 'desc') copy.reverse();
   return copy;
 }
 
@@ -448,8 +503,9 @@ function renderList(){
   const list = $('#list');
   if(!list) return;
   list.innerHTML = '';
+  cardIndex.clear();
 
-  const sorted = sortFeatures(filtered, currentSort);
+  const sorted = sortFeatures(filtered, currentSort, sortDir);
   if(!sorted.length){
     const msg = document.createElement('div');
     msg.style.cssText = 'padding:10px;color:#cbd5e1';
@@ -457,7 +513,13 @@ function renderList(){
     list.appendChild(msg);
     return;
   }
-  sorted.forEach(f => list.appendChild(renderCard(f)));
+  sorted.forEach(f => {
+    const node = renderCard(f);
+    const fid = featureId(f);
+    node.dataset.fid = fid;
+    cardIndex.set(fid, node);
+    list.appendChild(node);
+  });
 }
 
 function renderCard(f){
@@ -476,24 +538,32 @@ function renderCard(f){
   nm.textContent = p.name || p.name_local || '(no name)';
 
   // status pill
-  const on = p.hours.open_now;
+  const on = p.hours.open_now || {};
   let label = 'Closed', cls='closed';
   if(on.status === 'open'){
     const parts=[];
-    if(isFinite(on.lo_in_min) && on.lo_in_min>0) parts.push(`LO in ${on.lo_in_min}m`);
-    if(isFinite(on.closes_in_min)) parts.push(`Closes in ${on.closes_in_min}m`);
+    if(Number.isFinite(on.lo_in_min) && on.lo_in_min>0) parts.push(`LO in ${on.lo_in_min}m`);
+    if(Number.isFinite(on.closes_in_min)) parts.push(`Closes in ${on.closes_in_min}m`);
     label = parts.join(' · ') || 'Open';
-    cls = (isFinite(on.closes_in_min) && on.closes_in_min <= CLOSING_SOON_M) || (isFinite(on.lo_in_min) && on.lo_in_min <= LO_SOON_M) ? 'soon' : 'open';
+    cls = (Number.isFinite(on.closes_in_min) && on.closes_in_min <= CLOSING_SOON_M) || (Number.isFinite(on.lo_in_min) && on.lo_in_min <= LO_SOON_M) ? 'soon' : 'open';
   }
   st.textContent = label;
   st.classList.add('status', cls);
 
   today.textContent = p.hours.today_compact || '';
 
-  // chips
+  // chips: price / distance / subcats / policy
   const priceBucket = p.price?.bucket;
   if(priceBucket && priceBucket>0){
     const chip = document.createElement('span'); chip.className='chip'; chip.textContent = '¥'.repeat(Math.min(priceBucket,5));
+    chips.appendChild(chip);
+  }
+  // distance chip
+  const d = distanceFromUserMeters(f);
+  if (Number.isFinite(d)) {
+    const chip = document.createElement('span'); chip.className='chip';
+    const val = (units === 'mi') ? (d/1609.344) : (d/1000);
+    chip.textContent = (units === 'mi') ? `${val.toFixed(val<10?1:0)} mi` : `${val.toFixed(val<10?1:0)} km`;
     chips.appendChild(chip);
   }
   (p.sub_categories||[]).slice(0,2).forEach(sc => {
@@ -510,21 +580,9 @@ function renderCard(f){
   const r2 = document.createElement('div'); r2.textContent = `Google ★ ${g?.score ?? '-' } (${g?.reviews ?? '-'})`;
   ratings.appendChild(r2);
 
-  // distance chip (if we have a user/ring)
-  const d = distanceFromUserMeters(f);
-  if (isFinite(d)) {
-    const chip = document.createElement('span');
-    chip.className = 'chip';
-    // show in km/mi matching units
-    const val = (units === 'mi') ? (d/1609.344) : (d/1000);
-    chip.textContent = (units === 'mi') ? `${val.toFixed(val<10?1:0)} mi` : `${val.toFixed(val<10?1:0)} km`;
-    chips.appendChild(chip);
-  }
-
-  // directions: English name only (no coordinates)
+  // directions: English name ONLY (no coordinates)
   const qName = encodeURIComponent(p.name || p.name_local || '');
   const gSearch = `https://www.google.com/maps/search/?api=1&query=${qName}`;
-
   if(p.urls?.tabelog){
     const a = document.createElement('a'); a.href=p.urls.tabelog; a.target='_blank'; a.rel='noopener'; a.textContent='Tabelog';
     links.appendChild(a);
@@ -532,13 +590,23 @@ function renderCard(f){
   const b = document.createElement('a'); b.href=gSearch; b.target='_blank'; b.rel='noopener'; b.textContent='Directions';
   links.appendChild(b);
 
-  // click to fly
+  // click card -> fly to
   const [lng, lat] = f.geometry.coordinates;
   c.addEventListener('click', () => {
     map.flyTo([lat, lng], Math.max(MAX_ZOOM_ON_FLY, map.getZoom()));
   });
 
   return c;
+}
+
+// map → list jump
+function scrollToCard(fid){
+  const el = cardIndex.get(fid);
+  if(!el) return;
+  el.classList.remove('flash'); // retrigger animation
+  el.offsetWidth;               // force reflow
+  el.classList.add('flash');
+  el.scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
 
 function updateRadiusUI(){
