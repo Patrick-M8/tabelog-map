@@ -32,16 +32,19 @@ function escapeHtml(s) {
   const map = { '&':'&amp;', '<':'&lt;', '>':'&gt;', '"':'&quot;', "'":'&#39;' };
   return String(s ?? '').replace(/[&<>"']/g, ch => map[ch]);
 }
+function parseHash() {
   const h = new URLSearchParams(location.hash.slice(1));
   return {
     sort: h.get('sort') || 'closing',
     cats: (h.get('cats') || '').split(',').filter(Boolean),
-    lat: parseFloat(h.get('lat')), lng: parseFloat(h.get('lng')),
+    lat: parseFloat(h.get('lat')),
+    lng: parseFloat(h.get('lng')),
     z: parseInt(h.get('z') || '13', 10),
     r: parseFloat(h.get('r') || String(DEFAULT_RADIUS_KM)),
     u: (h.get('u') || 'km')
   };
 }
+
 function writeHash(obj){
   const h = new URLSearchParams(location.hash.slice(1));
   Object.entries(obj).forEach(([k,v]) => { if(v===null||v===undefined||v==='') h.delete(k); else h.set(k,v); });
