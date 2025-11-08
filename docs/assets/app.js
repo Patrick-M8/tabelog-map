@@ -1,4 +1,4 @@
-"""// Hardened client for GitHub Pages
+// Hardened client for GitHub Pages
 const MANIFEST_URL = 'geojson/manifest.json';
 const CENTROIDS_URL = 'geojson/category_centroids.min.json';
 const DEFAULT_RADIUS_KM = 3;
@@ -28,7 +28,7 @@ function haversine(lat1, lon1, lat2, lon2){
 function kmToM(km){ return km*1000; }
 function kmToMi(km){ return km*0.621371; }
 function miToKm(mi){ return mi/0.621371; }
-function escapeHtml(s){ return String(s||'').replace(/[&<>"']/g, m => ({'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;',\"'\":'&#39;'}[m]); ) }
+function escapeHtml(s){ return String(s||'').replace(/[&<>"']/g, m => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]); ) }
 function parseHash(){
   const h = new URLSearchParams(location.hash.slice(1));
   return {
@@ -239,4 +239,3 @@ function updateRadiusUI(){
   r.value = parseFloat(disp.toFixed(2));
 }
 document.addEventListener('DOMContentLoaded', boot);
-"""
