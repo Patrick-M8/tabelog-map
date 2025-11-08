@@ -1,8 +1,5 @@
 (function () {
-  if (window.__TBLG_APP_LOADED) {
-    console.warn('app.js already loaded — skipping second run');
-    return;
-  }
+  if (window.__TBLG_APP_LOADED) { console.warn('app.js already loaded — skipping'); return; }
   window.__TBLG_APP_LOADED = true;
 
   'use strict';
@@ -30,7 +27,7 @@
   let radiusKm = DEFAULT_RADIUS_KM;
   let onlyWithinRing = true;
   const cardIndex = new Map();       // fid -> DOM element
-  let anchorCenter = null;           // ring center ("home" for back-to-top visibility)
+  let anchorCenter = null;           // ring center ("home" for back-to-top)
 
   // ---- Utils ----
   const $ = sel => document.querySelector(sel);
@@ -147,7 +144,6 @@
     const header = document.querySelector('.topbar');
     if (!header) return;
 
-    // default CSS var for peek height
     if (!getComputedStyle(header).getPropertyValue('--tray-peek').trim()) {
       header.style.setProperty('--tray-peek', '36px');
     }
@@ -214,7 +210,6 @@
       if (cats.open) { placeMenu(); } else { restoreMenu(); }
     });
 
-    // Recompute on resize/orientation/tray animation
     ['resize', 'orientationchange'].forEach(ev =>
       window.addEventListener(ev, () => { if (isOverlay) placeMenu(); })
     );
@@ -233,7 +228,7 @@
     initMap(s);
     bindUI();
     ensureTrayHandle();
-    enableCategoriesOverlay();
+    enableCategoriesOverlay(); // <-- now defined
 
     // set ring at hash coords, geolocation, or map center
     if(isFinite(s.lat) && isFinite(s.lng)){
@@ -603,8 +598,6 @@
 
       markersLayer.addLayer(marker);
     });
-
-    // No auto-fit (prevents snapping on zoom/pan)
   }
 
   function sortFeatures(arr, key, dir){
@@ -755,8 +748,7 @@
   function scrollToCard(fid){
     const el = cardIndex.get(fid);
     if(!el) return;
-    el.classList.remove('flash');     // retrigger animation
-    /* reflow */ void el.offsetWidth;
+    el.classList.remove('flash'); void el.offsetWidth;
     el.classList.add('flash');
     el.scrollIntoView({ behavior: 'smooth', block: 'start' });
   }
@@ -781,3 +773,4 @@
   });
 
 })();
+
