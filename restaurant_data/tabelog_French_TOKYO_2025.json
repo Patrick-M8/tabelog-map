@@ -1,0 +1,4484 @@
+[
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "caillou",
+    "name_en": "caillou",
+    "area": "東京都 西小山駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131710/13279829/",
+    "rating": 4.08,
+    "review_count_tabelog": 211,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "French, Bistro",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 23:00 L.O. 22:00",
+        "dtl_text": "17:00 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.8,
+    "google_reviews": 57,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ97xHvZeLGGAR6NdZLDKyoCQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13279829-50d34675111a4dcb0fd77c931a9acfee8274d8eb091223ef0f2b1067be64908f.jpg",
+    "place_id": "ChIJ97xHvZeLGGAR6NdZLDKyoCQ",
+    "g_name": "カイユ",
+    "g_rating": 4.8,
+    "g_reviews": 57,
+    "g_address": "日本、〒152-0011 東京都目黒区原町１丁目７−９ ドゥーエ西小山 1F",
+    "lat": 35.6160994,
+    "lng": 139.6985252
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "ビストロ・シンバ",
+    "name_en": "bistrosimba",
+    "area": "東京都 新富町駅",
+    "url": "https://tabelog.com/tokyo/A1313/A131301/13186713/",
+    "rating": 3.79,
+    "review_count_tabelog": 421,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Bistro, French",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Wed - Sat": {},
+        "Sun": {}
+      },
+      "closed_on": "Mondays and Tuesdays (Not fixed)"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 265,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJCXD9zuGLGGARmTFihu5NI9M",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13186713-4600fda86190dd204729ba97d8c6768bd4e91a2868905dc9146346ad9008cc51.jpg",
+    "place_id": "ChIJCXD9zuGLGGARmTFihu5NI9M",
+    "g_name": "ビストロ シンバ",
+    "g_rating": 4.5,
+    "g_reviews": 265,
+    "g_address": "日本、〒104-0061 東京都中央区銀座１丁目２７−８",
+    "lat": 35.6727133,
+    "lng": 139.7720423
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "abysse",
+    "name_en": "abysse",
+    "area": "東京都 代官山駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130302/13232482/",
+    "rating": 3.86,
+    "review_count_tabelog": 270,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "18:00 - 23:59 L.O. Food 20:00",
+        "dtl_text": "18:00 - 23:59 L.O. Food 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.6,
+    "google_reviews": 283,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAAGOLGGARxWRVGcdrynM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13232482-287b0d0413853303aa5fca5b8e9aeeccb06a0373b7d19f003adad96ec1352505.jpg",
+    "place_id": "ChIJAQAAAGOLGGARxWRVGcdrynM",
+    "g_name": "abysse",
+    "g_rating": 4.6,
+    "g_reviews": 283,
+    "g_address": "日本、〒150-0021 東京都渋谷区恵比寿西１丁目３０−１２ EBISU-HILLS 1F",
+    "lat": 35.6484697,
+    "lng": 139.7056689
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "フランス料理 タンモア",
+    "name_en": "French Cuisine Tanmoa",
+    "area": "東京都 乃木坂駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13225590/",
+    "rating": 3.78,
+    "review_count_tabelog": 159,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri",
+        "dtl": "18:00 - 19:30",
+        "dtl_text": "18:00 - 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "12:00 - 13:00 18:00 - 19:30",
+        "dtl_text": "18:00 - 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.9,
+    "google_reviews": 61,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJuyXtYYiLGGAR7tVUyDqOZ4Q",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13225590-f658ce2df52a0b8efdaaf4c8e764fe211156a88bfff6cb45e57210d6afcb2ede.jpg",
+    "place_id": "ChIJuyXtYYiLGGAR7tVUyDqOZ4Q",
+    "g_name": "タンモア",
+    "g_rating": 4.9,
+    "g_reviews": 61,
+    "g_address": "日本、〒107-0052 東京都港区赤坂８丁目１３−１９ インペリアル赤坂壱番館 B109",
+    "lat": 35.6697663,
+    "lng": 139.7306121
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "レ セゾン",
+    "name_en": "Les Saisons",
+    "area": "東京都 日比谷駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130102/13002294/",
+    "rating": 4.27,
+    "review_count_tabelog": 960,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 L.O. 13:30 17:30 - 22:00 L.O. 20:30",
+        "dtl_text": "17:30 - 22:00 L.O. 20:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 454,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJT7wVXe6LGGAR53FVJzNY8gU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13002294-4516c5a55c228912e21203520a323bd57366208899d34683ebc45dc66467f246.jpg",
+    "place_id": "ChIJT7wVXe6LGGAR53FVJzNY8gU",
+    "g_name": "帝国ホテル 東京 レ セゾン",
+    "g_rating": 4.6,
+    "g_reviews": 454,
+    "g_address": "日本、〒100-8558 東京都千代田区内幸町１丁目１−１ 本館 中2階",
+    "lat": 35.6724056,
+    "lng": 139.7583398
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "前芝料理店",
+    "name_en": "Maeshiba Ryori Ten",
+    "area": "東京都 二子玉川駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131708/13266896/",
+    "rating": 3.74,
+    "review_count_tabelog": 105,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Sat, Sun, Public Holiday",
+        "dtl": "12:00 - 15:00 L.O. Food 13:30 Drinks 14:30 18:00 - 23:00 L.O. Food 20:30 Drinks 22:30",
+        "dtl_text": "18:00 - 23:00 L.O. Food 20:30 Drinks 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu, Fri",
+        "dtl": "18:00 - 23:00 L.O. Food 20:30 Drinks 22:30",
+        "dtl_text": "18:00 - 23:00 L.O. Food 20:30 Drinks 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays and occasionally on other days"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 102,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQCF5znnAGARS7p3qS5malM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13266896-f575a99a962b0129b51fba0509e3aaf4cfe652bc1fc9b8d58992222933a7ff28.jpg",
+    "place_id": "ChIJAQCF5znnAGARS7p3qS5malM",
+    "g_name": "前芝料理店",
+    "g_rating": 4.3,
+    "g_reviews": 102,
+    "g_address": "日本、〒158-0094 東京都世田谷区玉川４丁目７−５ ルミナス二子玉川 B１",
+    "lat": 35.6167811,
+    "lng": 139.6259037
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "unis",
+    "name_en": "unis",
+    "area": "東京都 虎ノ門ヒルズ駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130802/13253159/",
+    "rating": 4.13,
+    "review_count_tabelog": 261,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "￥50,000～￥59,999",
+    "sub_categories": "French, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri",
+        "dtl": "17:00 - 19:30 20:00 - 22:30",
+        "dtl_text": "20:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "12:00 - 15:00 17:00 - 20:00",
+        "dtl_text": "17:00 - 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.8,
+    "google_reviews": 64,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ44IQVrOLGGAR3UfhNRWIxi8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13253159-eb3286bc13940856701ccef2b194a32cca11031595c08af158e12b59ad827d7d.jpg",
+    "place_id": "ChIJ44IQVrOLGGAR3UfhNRWIxi8",
+    "g_name": "unis",
+    "g_rating": 4.8,
+    "g_reviews": 64,
+    "g_address": "日本、〒105-0001 東京都港区虎ノ門１丁目２３−３ ヒルズガーデンハウス 1階",
+    "lat": 35.6667774,
+    "lng": 139.7482183
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "Alchimiste",
+    "name_en": "Alchimiste",
+    "area": "東京都 白金台駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131602/13256112/",
+    "rating": 3.94,
+    "review_count_tabelog": 221,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri, Sat, Sun",
+        "dtl": "12:00 - 15:00 L.O. Food 12:15 18:00 - 22:30 L.O. Food 19:15",
+        "dtl_text": "18:00 - 22:30 L.O. Food 19:15"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "18:00 - 22:30 L.O. Food 19:15",
+        "dtl_text": "18:00 - 22:30 L.O. Food 19:15"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Irregular holidays, primarily around Wednesdays. Please check our website for updates."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 98,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJi45iWQqLGGARJix9-3OQLSY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13256112-3dd5ebe16fe5c097bb8b33b85ff83d79fb96c2acb64d8e3c471f1875c5143426.jpg",
+    "place_id": "ChIJi45iWQqLGGARJix9-3OQLSY",
+    "g_name": "アルシミスト",
+    "g_rating": 4.5,
+    "g_reviews": 98,
+    "g_address": "日本、〒108-0071 東京都港区白金台５丁目１７−１０",
+    "lat": 35.6375432,
+    "lng": 139.7231827
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "オマージュ",
+    "name_en": "Hommage",
+    "area": "東京都 浅草（つくばＥＸＰ）駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131102/13008700/",
+    "rating": 4.17,
+    "review_count_tabelog": 729,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 L.O. 12:30 18:00 - 22:30 L.O. 19:30",
+        "dtl_text": "18:00 - 22:30 L.O. 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays and Tuesdays (open on public holidays)"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 341,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJgfktRuqOGGARk_sG0F6OFKg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13008700-f5ecdb3c2e072fc8d402a16bf7962d6df1ad36cf3376d3aaa232bd28172c3615.jpg",
+    "place_id": "ChIJgfktRuqOGGARk_sG0F6OFKg",
+    "g_name": "オマージュ",
+    "g_rating": 4.5,
+    "g_reviews": 341,
+    "g_address": "日本、〒111-0032 東京都台東区浅草４丁目１０−５",
+    "lat": 35.7184635,
+    "lng": 139.7969914
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "TROMPETTE",
+    "name_en": "TROMPETTE",
+    "area": "東京都 小伝馬町駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130204/13211826/",
+    "rating": 3.77,
+    "review_count_tabelog": 337,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Bistro",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Day after public holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays and Tuesdays (Open on holidays, with a day off the following day)"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 136,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJzYmf6qyOGGARfU4OqN0mXz4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13211826-c926def036aad724558087ada6290eb458579ddc8a78e20378ee1272dda08f1f.jpg",
+    "place_id": "ChIJzYmf6qyOGGARfU4OqN0mXz4",
+    "g_name": "TROMPETTE",
+    "g_rating": 4.6,
+    "g_reviews": 136,
+    "g_address": "日本、〒103-0001 東京都中央区日本橋小伝馬町１７−４ 電気防災ビル 1F",
+    "lat": 35.6924658,
+    "lng": 139.7793498
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "Florilege",
+    "name_en": "Florilege",
+    "area": "東京都 神谷町駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130704/13289651/",
+    "rating": 4.16,
+    "review_count_tabelog": 268,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 15:00 L.O. 12:30 18:00 - 22:00 L.O. 18:30",
+        "dtl_text": "18:00 - 22:00 L.O. 18:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 630,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJhU8r4Ba6JhUR2uFksk0mpCg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13289651-555a74b09c89264ff5abc6693728fa2b28c19893e18c5816197b880be4e57f88.jpg",
+    "place_id": "ChIJhU8r4Ba6JhUR2uFksk0mpCg",
+    "g_name": "Florilège",
+    "g_rating": 4.4,
+    "g_reviews": 630,
+    "g_address": "日本、〒105-0001 東京都港区虎ノ門５丁目１０−７ 麻布台ヒルズ ガーデンプラザD 2F",
+    "lat": 35.661608,
+    "lng": 139.7434459
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "ラルジャン",
+    "name_en": "L'ARGENT",
+    "area": "東京都 虎ノ門駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130802/13288588/",
+    "rating": 4.03,
+    "review_count_tabelog": 158,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:30 18:00 - 22:30",
+        "dtl_text": "18:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "18:00 - 22:30",
+        "dtl_text": "18:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "One irregular day each month"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 138,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDXFH5MyLGGARMytSvZtzpvM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13288588-9fced7333d70d25317e98b335e88f70f04c7cd67d1dedd1d2a73e985525cdc44.jpg",
+    "place_id": "ChIJDXFH5MyLGGARMytSvZtzpvM",
+    "g_name": "L'ARGENT",
+    "g_rating": 4.6,
+    "g_reviews": 138,
+    "g_address": "日本、〒100-0013 東京都千代田区霞が関３丁目２−６ 東京倶楽部ビルディング 2F 霞ダイニング",
+    "lat": 35.6705256,
+    "lng": 139.7468514
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "apothéose",
+    "name_en": "Apotheose",
+    "area": "東京都 虎ノ門ヒルズ駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130802/13289349/",
+    "rating": 3.9,
+    "review_count_tabelog": 115,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "-",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 22:30",
+        "dtl_text": "18:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.8,
+    "google_reviews": 41,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJMWff46CLGGARtLaIj--0ZcU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13289349-3cf41740fbada24b67b8ca12c2fe82ed7e1552ab11f1c8fa48ef34a1c438efdb.jpg",
+    "place_id": "ChIJMWff46CLGGARtLaIj--0ZcU",
+    "g_name": "apothéose | アポテオーズ",
+    "g_rating": 4.8,
+    "g_reviews": 41,
+    "g_address": "日本、〒105-5549 東京都港区虎ノ門２丁目６−２ 虎ノ門ヒルズステーションタワー 49階",
+    "lat": 35.6675344,
+    "lng": 139.7468959
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "銀座 大石",
+    "name_en": "Ginza Ooishi",
+    "area": "東京都 銀座一丁目駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13238352/",
+    "rating": 4.44,
+    "review_count_tabelog": 765,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "￥40,000～￥49,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:00 - 20:00 20:30 - 23:00",
+        "dtl_text": "20:30 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "12:00 - 15:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 191,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ55k16DKLGGARhUiQUOcdtGQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13238352-46e452a535ac500e738e9cb9213eb05c0f2a196f983ca94c13007fa7daefdabe.jpg",
+    "place_id": "ChIJ55k16DKLGGARhUiQUOcdtGQ",
+    "g_name": "銀座 大石",
+    "g_rating": 4.6,
+    "g_reviews": 191,
+    "g_address": "日本、〒104-0061 東京都中央区銀座２丁目１０−１１ マロニエ通り銀座館 2階",
+    "lat": 35.6720566,
+    "lng": 139.7683007
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "Jfree",
+    "name_en": "Jfree",
+    "area": "東京都 飯田橋駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13279528/",
+    "rating": 3.93,
+    "review_count_tabelog": 147,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "French, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Public Holiday",
+        "dtl": "17:30 - 23:30",
+        "dtl_text": "17:30 - 23:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 34,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJB_eofbCNGGAR9irnB79qoD0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13279528-56137383bfffacefcc17cfea54bc01ee807f3a1eef06637296cd47cf7040779d.jpg",
+    "place_id": "ChIJB_eofbCNGGAR9irnB79qoD0",
+    "g_name": "Jfree",
+    "g_rating": 4,
+    "g_reviews": 34,
+    "g_address": "日本、〒162-0825 東京都新宿区神楽坂２丁目11−７ AY2ビル2 階S",
+    "lat": 35.7011862,
+    "lng": 139.7419712
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "AMOUR",
+    "name_en": "AMOUR",
+    "area": "東京都 恵比寿駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130302/13142028/",
+    "rating": 3.74,
+    "review_count_tabelog": 304,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri",
+        "dtl": "18:00 - 22:00 L.O. Food 19:00 Drinks 21:00",
+        "dtl_text": "18:00 - 22:00 L.O. Food 19:00 Drinks 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "12:00 - 15:00 L.O. Food 12:30 Drinks 14:00 18:00 - 22:00 L.O. Food 19:00 Drinks 21:00",
+        "dtl_text": "18:00 - 22:00 L.O. Food 19:00 Drinks 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "12:00 - 15:00 L.O. Food 12:30 Drinks 14:30 18:00 - 22:00 L.O. Food 19:00 Drinks 21:00",
+        "dtl_text": "18:00 - 22:00 L.O. Food 19:00 Drinks 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Approximately 6 to 8 days a month, mainly on Wednesdays (please inquire for details)."
+    },
+    "google_rating": 4.6,
+    "google_reviews": 148,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJLTh95UKLGGARaNNQTNyglXE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13142028-526ef0042cfb5202fb5bd3a307a05954893874fea74e3acf4f9d6a8e1a57079d.jpg",
+    "place_id": "ChIJLTh95UKLGGARaNNQTNyglXE",
+    "g_name": "AMOUR 東京恵比寿",
+    "g_rating": 4.6,
+    "g_reviews": 148,
+    "g_address": "日本、〒150-0012 東京都渋谷区広尾１丁目６−１３",
+    "lat": 35.6487515,
+    "lng": 139.7141497
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "ベージュ アラン・デュカス 東京",
+    "name_en": "BEIGE ALAIN DUCASSE TOKYO",
+    "area": "東京都 銀座一丁目駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13010470/",
+    "rating": 3.97,
+    "review_count_tabelog": 943,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:30 17:30 - 22:00 L.O. 20:00",
+        "dtl_text": "17:30 - 22:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Day after public holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Reservations can also be made by phone. Please feel free to contact us."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 606,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDxzYF-SLGGARQYB8-Z27qAI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13010470-cbccbba1aefb83ad27c6018f22875db4a325cabc9e65e13d60c5e15901362853.jpg",
+    "place_id": "ChIJDxzYF-SLGGARQYB8-Z27qAI",
+    "g_name": "ベージュ アラン・デュカス BEIGE Alain Ducasse",
+    "g_rating": 4.2,
+    "g_reviews": 606,
+    "g_address": "日本、〒104-0061 東京都中央区銀座３丁目５−３ シャネル銀座ビルディング 10F",
+    "lat": 35.6729966,
+    "lng": 139.7665258
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "recte",
+    "name_en": "recte",
+    "area": "東京都 代官山駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130303/13036041/",
+    "rating": 3.96,
+    "review_count_tabelog": 498,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 L.O. 12:30 18:00 - 22:00 L.O. 19:30",
+        "dtl_text": "18:00 - 22:00 L.O. 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays (including Wednesdays that are public holidays) and the first and third Thursdays of each month."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 161,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQDk7kOLGGARAXGoSRqBdfA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13036041-31b0fbd8bb89717bebb0dd6d8e5c20a0c7bc72f37d1cfeb1cad4dd266e2369d1.jpg",
+    "place_id": "ChIJAQDk7kOLGGARAXGoSRqBdfA",
+    "g_name": "recte",
+    "g_rating": 4.4,
+    "g_reviews": 161,
+    "g_address": "日本、〒150-0021 東京都渋谷区恵比寿西２丁目１７−５ サンビレッジ代官山 2F",
+    "lat": 35.6489302,
+    "lng": 139.7059561
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "Crony",
+    "name_en": "Crony",
+    "area": "東京都 赤羽橋駅",
+    "url": "https://tabelog.com/tokyo/A1314/A131401/13256097/",
+    "rating": 3.77,
+    "review_count_tabelog": 204,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (primarily on Sundays)"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 218,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJz29nSWWLGGARQibtSAIQLP0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13256097-f7cbc2b52fb681c6f952b23fa245c8de571c7980a70899cccdacc68ae0dcf357.jpg",
+    "place_id": "ChIJz29nSWWLGGARQibtSAIQLP0",
+    "g_name": "Crony",
+    "g_rating": 4.6,
+    "g_reviews": 218,
+    "g_address": "日本、〒106-0044 東京都港区東麻布１丁目２０−３",
+    "lat": 35.6557829,
+    "lng": 139.7432984
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "ボニュ",
+    "name_en": "Bon.nu",
+    "area": "東京都 参宮橋駅",
+    "url": "https://tabelog.com/tokyo/A1304/A130401/13184186/",
+    "rating": 4.23,
+    "review_count_tabelog": 331,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "￥50,000～￥59,999",
+    "sub_categories": "French, Cake",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 70,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQCMKs2MGGAR6HL5klkCPbc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13184186-b029630dd8d479ff56508fc3e92e2010eb8e85e7520743d1d530910e5b4607c2.jpg",
+    "place_id": "ChIJAQCMKs2MGGAR6HL5klkCPbc",
+    "g_name": "Bon.nu（ボニュ）",
+    "g_rating": 4.5,
+    "g_reviews": 70,
+    "g_address": "日本、〒151-0053 東京都渋谷区代々木４丁目２２−１７ クイーンズ代々木 1F",
+    "lat": 35.68126,
+    "lng": 139.6912718
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "アルゴリズム",
+    "name_en": "l'algorithm",
+    "area": "東京都 白金台駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131602/13213150/",
+    "rating": 3.97,
+    "review_count_tabelog": 485,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 15:00 L.O. 13:00 18:00 - 23:00 L.O. 20:00",
+        "dtl_text": "18:00 - 23:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 120,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJnXlf_A6LGGAR6VGsBAULeTM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13213150-130dd802cd727c1e733fad506ec9c3114a7d47f81a4fdb304cde1f41042dfdfd.jpg",
+    "place_id": "ChIJnXlf_A6LGGAR6VGsBAULeTM",
+    "g_name": "アルゴリズム",
+    "g_rating": 4.1,
+    "g_reviews": 120,
+    "g_address": "日本、〒108-0072 東京都港区白金６丁目５−３ さくら白金 102",
+    "lat": 35.6444094,
+    "lng": 139.7248096
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "レザンファン ギャテ",
+    "name_en": "Les Enfants Gâtés",
+    "area": "東京都 代官山駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130303/13039567/",
+    "rating": 3.7,
+    "review_count_tabelog": 685,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "French, Bistro",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 15:00 L.O. Food 13:30 17:30 - 22:00 L.O. Food 20:00",
+        "dtl_text": "17:30 - 22:00 L.O. Food 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "12:00 - 15:00 L.O. Food 13:30 18:00 - 22:00 L.O. Food 20:00",
+        "dtl_text": "18:00 - 22:00 L.O. Food 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (the following day if a holiday)"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 228,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2YGqPluLGGARFHzx03KOujo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13039567-c24e2026ef72100e3ddbcb1a4bc151daf8a93a1ef06cdf24887c0844294a6170.jpg",
+    "place_id": "ChIJ2YGqPluLGGARFHzx03KOujo",
+    "g_name": "レザンファン ギャテ",
+    "g_rating": 4.5,
+    "g_reviews": 228,
+    "g_address": "日本、〒150-0033 東京都渋谷区猿楽町２−３",
+    "lat": 35.6531157,
+    "lng": 139.7049453
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "シェ・イノ",
+    "name_en": "Chez Inno",
+    "area": "東京都 京橋駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130202/13000510/",
+    "rating": 4.41,
+    "review_count_tabelog": 1058,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 13:30 18:00 - 20:30",
+        "dtl_text": "18:00 - 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every Sunday, two Mondays each month, and during Year-end & New Year Holidays."
+    },
+    "google_rating": 4.6,
+    "google_reviews": 429,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ4sWQOOLGGARW3M1A4pP4yE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13000510-9999d184dc839a8b181b32d16df40bc0b50a9e2f64706903fd63b0ab8ae32d58.jpg",
+    "place_id": "ChIJJ4sWQOOLGGARW3M1A4pP4yE",
+    "g_name": "シェ・イノ",
+    "g_rating": 4.6,
+    "g_reviews": 429,
+    "g_address": "日本、〒104-0031 東京都中央区京橋２丁目４−１６ 明治京橋ビル １階",
+    "lat": 35.6767904,
+    "lng": 139.7688304
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "ルカンケ",
+    "name_en": "REQUINQUER",
+    "area": "東京都 白金台駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131602/13099717/",
+    "rating": 3.79,
+    "review_count_tabelog": 846,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "French, Wine bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 15:00 L.O. 13:00 18:00 - 22:00 L.O. 20:00",
+        "dtl_text": "18:00 - 22:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Closed every Monday, with an additional three irregular holidays each month. If a holiday falls on a Monday, the following Tuesday will be closed. Please check our website for updates regarding year-end, New Year, and summer holidays."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 222,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJtccVlASLGGARoUk3MeeAKQA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13099717-cfcb72cca4ee3f2d37ae1b02fdf17d8b62796b376c4d6898bca5ebb5703733ab.jpg",
+    "place_id": "ChIJtccVlASLGGARoUk3MeeAKQA",
+    "g_name": "フレンチレストラン ルカンケ（REQUINQUER)白金台",
+    "g_rating": 4.5,
+    "g_reviews": 222,
+    "g_address": "日本、〒108-0071 東京都港区白金台５丁目１７−１１ 白金台山田ビル 1F",
+    "lat": 35.6375912,
+    "lng": 139.7233024
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "ル スプートニク",
+    "name_en": "le sputnik",
+    "area": "東京都 六本木駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13184105/",
+    "rating": 3.82,
+    "review_count_tabelog": 443,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 15:30 L.O. 13:00 18:00 - 23:00 L.O. 19:30",
+        "dtl_text": "18:00 - 23:00 L.O. 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 244,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJn7oKV3iLGGARNXPGOjv-zJg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13184105-9ed1af312a2b3f13d9380d9d7d4bf6ff340eccbfc4d7b5dc74e4626ace2f4bea.jpg",
+    "place_id": "ChIJn7oKV3iLGGARNXPGOjv-zJg",
+    "g_name": "ル スプートニク",
+    "g_rating": 4.4,
+    "g_reviews": 244,
+    "g_address": "日本、〒106-0032 東京都港区六本木７丁目９−９",
+    "lat": 35.66442620000001,
+    "lng": 139.7298765
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "マダム・トキ",
+    "name_en": "Madame Toki",
+    "area": "東京都 代官山駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130303/13001707/",
+    "rating": 3.78,
+    "review_count_tabelog": 1222,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 15:00 L.O. 13:30 18:00 - 23:00 L.O. 20:00",
+        "dtl_text": "18:00 - 23:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "If Monday is a public holiday, we will operate as usual and take the following weekday off."
+    },
+    "google_rating": 4.6,
+    "google_reviews": 465,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-eB3mlGLGGARdRmtf9BZ10s",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13001707-1abb753ba65f0ec44d538712f4848839ce77000ac71d88bad62ed053ce261594.jpg",
+    "place_id": "ChIJ-eB3mlGLGGARdRmtf9BZ10s",
+    "g_name": "フレンチ レストランマダム・トキ 代官山",
+    "g_rating": 4.6,
+    "g_reviews": 465,
+    "g_address": "日本、〒150-0035 東京都渋谷区鉢山町１４−７",
+    "lat": 35.6508215,
+    "lng": 139.6970623
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "ウラノ",
+    "name_en": "URANO",
+    "area": "東京都 市ケ谷駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130904/13232449/",
+    "rating": 3.79,
+    "review_count_tabelog": 70,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 15:00 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.8,
+    "google_reviews": 29,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJhZ_M4hmNGGAR91NeU1RGI4o",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13232449-bbc3195b12fcbc024624dbbef064f47b813dcb281c78169f9e8a55d2631731e3.jpg",
+    "place_id": "ChIJhZ_M4hmNGGAR91NeU1RGI4o",
+    "g_name": "URANO",
+    "g_rating": 4.8,
+    "g_reviews": 29,
+    "g_address": "日本、〒102-0074 東京都千代田区九段南３丁目５−４ コーブ九段 1F",
+    "lat": 35.6922997,
+    "lng": 139.7426648
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "エスキス",
+    "name_en": "ESqUISSE",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13142530/",
+    "rating": 4.32,
+    "review_count_tabelog": 1093,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 13:00 18:00 - 20:00",
+        "dtl_text": "18:00 - 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The restaurant may take irregular holidays."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 492,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2Y7e7-WLGGARn2nDEZzmbb0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13142530-c8817c412a3b7fa34b231b12aea67d5e525fd3d0f5beb0ccde808afdb0065343.jpg",
+    "place_id": "ChIJ2Y7e7-WLGGARn2nDEZzmbb0",
+    "g_name": "エスキス",
+    "g_rating": 4.5,
+    "g_reviews": 492,
+    "g_address": "日本、〒104-0061 東京都中央区銀座５丁目４−６ ロイヤルクリスタル銀座 9F",
+    "lat": 35.6717161,
+    "lng": 139.7633311
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "ラ ターブル ドゥ ジョエル・ロブション",
+    "name_en": "LA TABLE de Joël Robuchon",
+    "area": "東京都 恵比寿駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130302/13010725/",
+    "rating": 3.74,
+    "review_count_tabelog": 960,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 15:00 L.O. Food 13:30 17:30 - 22:00 L.O. Food 20:00",
+        "dtl_text": "17:30 - 22:00 L.O. Food 20:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (according to Ebisu Garden Place schedule)"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 683,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJtxdIhBaLGGARvCnhexq9s74",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13010725-ca700cd68a83bfd51b03630a95cd16ec6291d3559fa60967a223b92309177a49.jpg",
+    "place_id": "ChIJtxdIhBaLGGARvCnhexq9s74",
+    "g_name": "ラ ターブル ドゥ ジョエル・ロブション",
+    "g_rating": 4.5,
+    "g_reviews": 683,
+    "g_address": "日本、〒153-0062 東京都目黒区三田１丁目１３−１ 恵比寿ガーデンプレイス内",
+    "lat": 35.6419144,
+    "lng": 139.7145374
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "Simplicité",
+    "name_en": "Simplicite",
+    "area": "東京都 代官山駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130303/13298935/",
+    "rating": 3.91,
+    "review_count_tabelog": 69,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "18:00 - 22:30",
+        "dtl_text": "18:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 15:00 18:00 - 22:30",
+        "dtl_text": "18:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.6,
+    "google_reviews": 180,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6q-LFuLGGARGTXzTuJkYtQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13298935-787fe50c0fc5138b953ead7b07b02a88413f26d734af209459b104b193250ee5.jpg",
+    "place_id": "ChIJq6q-LFuLGGARGTXzTuJkYtQ",
+    "g_name": "Simplicité サンプリシテ 代官山",
+    "g_rating": 4.6,
+    "g_reviews": 180,
+    "g_address": "日本、〒150-0021 東京都渋谷区恵比寿西２丁目１７−１３ SOPHIAS代官山 1Ｆ",
+    "lat": 35.649062,
+    "lng": 139.70541
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "CIRPAS",
+    "name_en": "CIRPAS",
+    "area": "東京都 白金台駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131602/13278638/",
+    "rating": 3.84,
+    "review_count_tabelog": 204,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥30,000～￥39,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 69,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJo8s-OqOLGGARArFFWR0r_H0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13278638-5b3dfff4b433ff412d145e715c983b6c3f65873dc2803ca51bf23b1bc8df6ac2.jpg",
+    "place_id": "ChIJo8s-OqOLGGARArFFWR0r_H0",
+    "g_name": "CIRPAS",
+    "g_rating": 4.4,
+    "g_reviews": 69,
+    "g_address": "日本、〒108-0071 東京都港区白金台４丁目２−７ bld桜なみき1F",
+    "lat": 35.6393592,
+    "lng": 139.7281112
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "エディション・コウジ シモムラ",
+    "name_en": "EdiTion Koji Shimomura",
+    "area": "東京都 六本木一丁目駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13042074/",
+    "rating": 4.07,
+    "review_count_tabelog": 696,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "French, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 15:15 L.O. Food 13:00 18:00 - 22:30 L.O. Food 19:00",
+        "dtl_text": "18:00 - 22:30 L.O. Food 19:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 298,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJd56XtISLGGARgym0xO42yCw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13042074-bec76ab414162f5a3fd7ddb5ea3a7b7678e2e6f1793c2f68d62b6dbd110c57bb.jpg",
+    "place_id": "ChIJd56XtISLGGARgym0xO42yCw",
+    "g_name": "エディション・コウジ シモムラ",
+    "g_rating": 4.4,
+    "g_reviews": 298,
+    "g_address": "日本、〒106-0032 東京都港区六本木３丁目１−１ 1F",
+    "lat": 35.6655427,
+    "lng": 139.7382225
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "KOTARO Hasegawa DOWNTOWN CUISINE",
+    "name_en": "KOTARO Hasegawa DOWNTOWN CUISINE",
+    "area": "東京都 新御徒町駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131101/13229542/",
+    "rating": 3.79,
+    "review_count_tabelog": 73,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Day before public holiday, Day after public holiday",
+        "dtl": "18:00 - 22:00 L.O. Food 19:30 Drinks 21:30",
+        "dtl_text": "18:00 - 22:00 L.O. Food 19:30 Drinks 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 41,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJcYWFmpKPGGARpFHkv7YRA_k",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13229542-2dfd6957620911db72aa1eaa0c8860a7aead00549fd37ba1abde1b3cb5cb86af.jpg",
+    "place_id": "ChIJcYWFmpKPGGARpFHkv7YRA_k",
+    "g_name": "Kotaro Hasegawa Downtown cuisine",
+    "g_rating": 4.6,
+    "g_reviews": 41,
+    "g_address": "日本、〒110-0016 東京都台東区台東４丁目２−１１",
+    "lat": 35.7057349,
+    "lng": 139.7811366
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "ラシェット・ブランシュ",
+    "name_en": "L’Assiette Blanche",
+    "area": "東京都 白金高輪駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131602/13004471/",
+    "rating": 3.88,
+    "review_count_tabelog": 358,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri, Sat, Sun",
+        "dtl": "12:00 - 15:00 L.O. Food 12:30 Drinks 14:30 18:00 - 22:00 L.O. Food 20:00 Drinks 21:30",
+        "dtl_text": "18:00 - 22:00 L.O. Food 20:00 Drinks 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "18:00 - 22:00 L.O. Food 20:00 Drinks 21:30",
+        "dtl_text": "18:00 - 22:00 L.O. Food 20:00 Drinks 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.7,
+    "google_reviews": 93,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ55BFMwiLGGARe4EOQl-_ejw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13004471-54651c0471a7564c2162d78a704442790a2b5214134fb8d2edab6163cdc9dd43.jpg",
+    "place_id": "ChIJ55BFMwiLGGARe4EOQl-_ejw",
+    "g_name": "ラシェット ブランシュ",
+    "g_rating": 4.7,
+    "g_reviews": 93,
+    "g_address": "日本、〒108-0072 東京都港区白金３丁目２−２ パール白金",
+    "lat": 35.6466138,
+    "lng": 139.731174
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "アン ファス",
+    "name_en": "EN FACE",
+    "area": "東京都 人形町駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130204/13238193/",
+    "rating": 3.89,
+    "review_count_tabelog": 392,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "French, Bistro",
+    "hours_raw": [],
+    "hours_notes_structured": null,
+    "google_rating": 4.7,
+    "google_reviews": 108,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJgZy7tReJGGARuNeWTz4wr94",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13238193-e842a51696828924956cea8a3865fef80bfdef73ccc165a7af4fb927dced07ff.jpg",
+    "place_id": "ChIJgZy7tReJGGARuNeWTz4wr94",
+    "g_name": "EN FACE",
+    "g_rating": 4.7,
+    "g_reviews": 108,
+    "g_address": "日本、〒103-0013 東京都中央区日本橋人形町２丁目１１−９",
+    "lat": 35.6853384,
+    "lng": 139.7844938
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "シャントレル",
+    "name_en": "Les Chanterelles",
+    "area": "東京都 代々木八幡駅",
+    "url": "https://tabelog.com/tokyo/A1318/A131810/13128296/",
+    "rating": 3.8,
+    "review_count_tabelog": 194,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "12:00 - 15:30 18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 115,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJi8ibh0nzGGAROe7T_49k4ck",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13128296-17f02c56ce15afa4a8846dbdd6589122a98d451a1f63da12d192ae58c7f0f0fd.jpg",
+    "place_id": "ChIJi8ibh0nzGGAROe7T_49k4ck",
+    "g_name": "Les Chanterelles",
+    "g_rating": 4.5,
+    "g_reviews": 115,
+    "g_address": "日本、〒151-0062 東京都渋谷区元代々木町２４−１ アヴニール元代々木 1F",
+    "lat": 35.6707494,
+    "lng": 139.685785
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "プレヴナンス",
+    "name_en": "Prevenance",
+    "area": "東京都 外苑前駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130603/13162493/",
+    "rating": 3.79,
+    "review_count_tabelog": 476,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays and Tuesdays (Tuesdays and Wednesdays are closed if a public holiday falls on a Monday.)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 123,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ46BM6JyMGGARJxU412-iNik",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13162493-7ea3500793d49843c75bd73c284d8dd8dce9b2202efde5adebbde4d6e9ff6ef7.jpg",
+    "place_id": "ChIJ46BM6JyMGGARJxU412-iNik",
+    "g_name": "プレヴナンス",
+    "g_rating": 4.3,
+    "g_reviews": 123,
+    "g_address": "日本、〒107-0062 東京都港区南青山２丁目１３−７ マトリス南青山ビル マトリス1F",
+    "lat": 35.6705461,
+    "lng": 139.7204449
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "キノシタ",
+    "name_en": "Kinoshita",
+    "area": "東京都 参宮橋駅",
+    "url": "https://tabelog.com/tokyo/A1318/A131810/13001058/",
+    "rating": 3.76,
+    "review_count_tabelog": 548,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "French, Bistro",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 15:00 L.O. 14:00 18:00 - 22:30 L.O. 21:00",
+        "dtl_text": "18:00 - 22:30 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Year-end & New Year Holidays"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 249,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJD_Eo_MyMGGARvoO1fJh3vDM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13001058-80fe7c854a51b6ca0242cc1758a87f9df76308edb74e4d9fbd766d059b7aa583.jpg",
+    "place_id": "ChIJD_Eo_MyMGGARvoO1fJh3vDM",
+    "g_name": "キノシタ",
+    "g_rating": 4.3,
+    "g_reviews": 249,
+    "g_address": "日本、〒151-0053 東京都渋谷区代々木３丁目３７−１ エステートビル 1F",
+    "lat": 35.6818746,
+    "lng": 139.693448
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "ラチュレ",
+    "name_en": "LATURE",
+    "area": "東京都 表参道駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130301/13198692/",
+    "rating": 4.25,
+    "review_count_tabelog": 2663,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 15:30 L.O. 13:30 18:00 - 23:00 L.O. 20:00",
+        "dtl_text": "18:00 - 23:00 L.O. 20:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (please check our website or Tabelog for details)"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 672,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5S6oA1-LGGAREG-V6VQQP_0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13198692-f2847a5ed8983151701e17a9b9bd435a3198e56471b01aa2e901dc04b761f3f9.jpg",
+    "place_id": "ChIJ5S6oA1-LGGAREG-V6VQQP_0",
+    "g_name": "LATURE（ラチュレ）",
+    "g_rating": 4.4,
+    "g_reviews": 672,
+    "g_address": "日本、〒150-0002 東京都渋谷区渋谷２丁目２−２ 青山ルカビル 地下１階",
+    "lat": 35.660762,
+    "lng": 139.708599
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "レストラン ラ フィネス",
+    "name_en": "La Fins",
+    "area": "東京都 新橋駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130103/13139171/",
+    "rating": 4.09,
+    "review_count_tabelog": 245,
+    "price_dinner": "￥60,000～￥79,999",
+    "price_lunch": "-",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "18:00 - 00:00 L.O. 19:00",
+        "dtl_text": "18:00 - 00:00 L.O. 19:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "18:00 - 00:00 L.O. 19:30",
+        "dtl_text": "18:00 - 00:00 L.O. 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 55,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJqzyHDeqLGGARu2WV5EE0CgQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13139171-044f62692ee8d0ce650687e038f4c32e5bfa34f49b1a1efb327e3dba06ba9662.jpg",
+    "place_id": "ChIJqzyHDeqLGGARu2WV5EE0CgQ",
+    "g_name": "La Fins",
+    "g_rating": 4.3,
+    "g_reviews": 55,
+    "g_address": "日本、〒105-0004 東京都港区新橋４丁目９−１ 新橋プラザビル B1F",
+    "lat": 35.66424689999999,
+    "lng": 139.7566606
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "レストラン アラジン",
+    "name_en": "Restaurant ALADDIN",
+    "area": "東京都 広尾駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130703/13004454/",
+    "rating": 3.77,
+    "review_count_tabelog": 530,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 13:30 L.O. 13:30 18:00 - 22:30 L.O. 20:00",
+        "dtl_text": "18:00 - 22:30 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays and Wednesdays (Open on holidays; please call us for confirmation as days off may shift accordingly.)"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 159,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJs1qA7BKLGGARjxN0ECfpfj0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13004454-febc7dbaa6996fe4101cb8226885fdaad0768acd5b7037e1dd5ab8977eb7ff5c.jpg",
+    "place_id": "ChIJs1qA7BKLGGARjxN0ECfpfj0",
+    "g_name": "Restaurant ALADDIN (レストラン アラジン)",
+    "g_rating": 4.5,
+    "g_reviews": 159,
+    "g_address": "日本、〒150-0013 東京都渋谷区恵比寿２丁目２２−１０ 広尾リバーサイドＧ G1F",
+    "lat": 35.6479178,
+    "lng": 139.7203196
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "ラ・ブランシュ",
+    "name_en": "La Blanche",
+    "area": "東京都 表参道駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130301/13002111/",
+    "rating": 4.02,
+    "review_count_tabelog": 539,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:00 L.O. 13:30 18:00 - 21:00 L.O. 20:00",
+        "dtl_text": "18:00 - 21:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.7,
+    "google_reviews": 147,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJWyTt9l6LGGARViDmY9O-UO4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13002111-651face93d6fb36710d841e103b8c512c238ba78c1c27316f5d7d8d864b789a3.jpg",
+    "place_id": "ChIJWyTt9l6LGGARViDmY9O-UO4",
+    "g_name": "ラ・ブランシュ",
+    "g_rating": 4.7,
+    "g_reviews": 147,
+    "g_address": "日本、〒150-0002 東京都渋谷区渋谷２丁目３−１",
+    "lat": 35.6599499,
+    "lng": 139.7088534
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "SEZANNE",
+    "name_en": "SEZANNE",
+    "area": "東京都 京橋駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130201/13256878/",
+    "rating": 4.47,
+    "review_count_tabelog": 469,
+    "price_dinner": "￥60,000～￥79,999",
+    "price_lunch": "￥60,000～￥79,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 13:30 18:00 - 20:00",
+        "dtl_text": "18:00 - 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "18:00 - 20:00",
+        "dtl_text": "18:00 - 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 298,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-4nJtO-LGGARLkDEsx6UD4g",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13256878-cb7d7cc21e9e6ffd82dea8bff84ad1be89c5b20e43b54254adbb3218a4a605e1.jpg",
+    "place_id": "ChIJ-4nJtO-LGGARLkDEsx6UD4g",
+    "g_name": "SÉZANNE",
+    "g_rating": 4.3,
+    "g_reviews": 298,
+    "g_address": "日本、〒100-6277 東京都千代田区丸の内１丁目１１−１",
+    "lat": 35.6780884,
+    "lng": 139.7668704
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "Takumi",
+    "name_en": "Takumi",
+    "area": "東京都 乃木坂駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13204624/",
+    "rating": 3.94,
+    "review_count_tabelog": 574,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 15:00 18:30 - 22:30",
+        "dtl_text": "18:30 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Tue - Sat": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 143,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVhh3qLGGARGTE1PDL6pck",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13204624-3440fe6e9a6f826689b2c3f6686ffc4565dbc64a27da1db2a7033c380cd37327.jpg",
+    "place_id": "ChIJVVVhh3qLGGARGTE1PDL6pck",
+    "g_name": "Takumi",
+    "g_rating": 4.5,
+    "g_reviews": 143,
+    "g_address": "日本、〒106-0031 東京都港区西麻布１丁目１１−１０ ビルマーサ 1F",
+    "lat": 35.6604087,
+    "lng": 139.7242556
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "naoto.K",
+    "name_en": "naoto.K",
+    "area": "東京都 小川町駅",
+    "url": "https://tabelog.com/tokyo/A1310/A131002/13261755/",
+    "rating": 3.92,
+    "review_count_tabelog": 95,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:30 - 22:00",
+        "dtl_text": "18:30 - 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 40,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJC-fH9HuNGGARVlh7vQw84LU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13261755-5468a99a03d3a1a9740ee51a794477c1957c5cdedd9854ca7456ce2979506601.jpg",
+    "place_id": "ChIJC-fH9HuNGGARVlh7vQw84LU",
+    "g_name": "naoto.K",
+    "g_rating": 4.6,
+    "g_reviews": 40,
+    "g_address": "日本、〒101-0054 東京都千代田区神田錦町２丁目１−１",
+    "lat": 35.6925097,
+    "lng": 139.7633621
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "レストラン ラフィナージュ",
+    "name_en": "Restaurant Raffinage",
+    "area": "東京都 東銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13227264/",
+    "rating": 4.13,
+    "review_count_tabelog": 315,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 15:00 L.O. 13:30 18:00 - 22:00 L.O. 19:30",
+        "dtl_text": "18:00 - 22:00 L.O. 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The third Tuesday of each month"
+    },
+    "google_rating": 4.7,
+    "google_reviews": 170,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJgeryPe-LGGARgCun_uVs3Nk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13227264-7e0533ad3b96c575e34698fa4bb14373936159b920f42f97ee3b87667f93fbce.jpg",
+    "place_id": "ChIJgeryPe-LGGARgCun_uVs3Nk",
+    "g_name": "ラフィナージュ",
+    "g_rating": 4.7,
+    "g_reviews": 170,
+    "g_address": "日本、〒104-0061 東京都中央区銀座５丁目９−１６",
+    "lat": 35.6701134,
+    "lng": 139.7650383
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "ラ・トゥーエル",
+    "name_en": "La Tourelle",
+    "area": "東京都 神楽坂駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13000457/",
+    "rating": 3.75,
+    "review_count_tabelog": 562,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 L.O. Food 13:00 Drinks 14:30 18:00 - 22:30 L.O. Food 20:00 Drinks 22:00",
+        "dtl_text": "18:00 - 22:30 L.O. Food 20:00 Drinks 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every Monday and the third Tuesday of each month (subject to change). If Monday is a public holiday, we will be open and close on the following Tuesday."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 142,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJV4u3sFCMGGARi6Qz_T07PHs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13000457-714a0e54db10156dfb82e116e3b4eeb9455962c0f099d346fa245420bfa9eb2d.jpg",
+    "place_id": "ChIJV4u3sFCMGGARi6Qz_T07PHs",
+    "g_name": "ラ・トゥーエル",
+    "g_rating": 4.4,
+    "g_reviews": 142,
+    "g_address": "日本、〒162-0825 東京都新宿区神楽坂６丁目８−ボルゴ 大ジメ ２Ｆ",
+    "lat": 35.7032263,
+    "lng": 139.7378909
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "ガストロノミー ジョエル・ロブション",
+    "name_en": "Gastronomy Joel Robuchon",
+    "area": "東京都 恵比寿駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130302/13009310/",
+    "rating": 4.41,
+    "review_count_tabelog": 2033,
+    "price_dinner": "￥100,000～",
+    "price_lunch": "￥30,000～￥39,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:30 - 22:00 L.O. Food 20:00",
+        "dtl_text": "17:30 - 22:00 L.O. Food 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 15:00 L.O. Food 13:00 18:00 - 22:00 L.O. Food 20:00",
+        "dtl_text": "18:00 - 22:00 L.O. Food 20:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (subject to Ebisu Garden Place schedule)"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 901,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGQRJhBaLGGAR5ZTJp9mQgtQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13009310-27229e2482ecf964c85d16a0a5703d95580aa04e1eb4faa142539a8d2ce628d5.jpg",
+    "place_id": "ChIJGQRJhBaLGGAR5ZTJp9mQgtQ",
+    "g_name": "ガストロノミー “ジョエル・ロブション”",
+    "g_rating": 4.5,
+    "g_reviews": 901,
+    "g_address": "日本、〒153-0062 東京都目黒区三田１丁目１３−１ 恵比寿ガーデンプレイス内",
+    "lat": 35.6419322,
+    "lng": 139.7145827
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "メゾン ポール・ボキューズ",
+    "name_en": "Maison Paul Bocuse",
+    "area": "東京都 代官山駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130303/13040327/",
+    "rating": 3.75,
+    "review_count_tabelog": 822,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 15:30 L.O. 13:30 18:00 - 22:30 L.O. 20:00",
+        "dtl_text": "18:00 - 22:30 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (rescheduled to the following day if it falls on a public holiday)"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 534,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJeYMRK06LGGARP_n9RQDDXWw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13040327-4396cc63f5ec9cb6bd7575a6d35355d77783454c7fee3f4d39e6299ee6fa9324.jpg",
+    "place_id": "ChIJeYMRK06LGGARP_n9RQDDXWw",
+    "g_name": "メゾン ポール・ボキューズ",
+    "g_rating": 4.4,
+    "g_reviews": 534,
+    "g_address": "日本、〒150-0033 東京都渋谷区猿楽町１７−１６ 代官山フォーラムＡＢ棟 B1F",
+    "lat": 35.6494433,
+    "lng": 139.6987057
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "レストラン マノワ",
+    "name_en": "Restaurant MANOIR",
+    "area": "東京都 広尾駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130302/13133477/",
+    "rating": 3.85,
+    "review_count_tabelog": 727,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "French, Restaurants",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "18:00 - 22:30 L.O. 20:00",
+        "dtl_text": "18:00 - 22:30 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Regular operations resume on January 6, 2026 (Tue)"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 224,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJIzR1r2yLGGARlsseCRlHdoE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13133477-5704e163cb8ebef75c9acf04f3d88cb3d423c237c460795a68f317958b9154b0.jpg",
+    "place_id": "ChIJIzR1r2yLGGARlsseCRlHdoE",
+    "g_name": "レストラン マノワ",
+    "g_rating": 4.6,
+    "g_reviews": 224,
+    "g_address": "日本、〒150-0012 東京都渋谷区広尾１丁目１０−６ プロスペクト グラーサ広尾 １階",
+    "lat": 35.6484184,
+    "lng": 139.7171969
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "ラ ペ",
+    "name_en": "La paix",
+    "area": "東京都 三越前駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130202/13173559/",
+    "rating": 3.94,
+    "review_count_tabelog": 647,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 12:30 L.O. 12:30 18:00 - 19:00 L.O. 19:00",
+        "dtl_text": "18:00 - 19:00 L.O. 19:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 298,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6dVNgFaJGGARe4Y9eEX_EdQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13173559-b6f9d4297694a230ecf209d4507c47672a61d55b428c626d3ba66032c8c4bfc9.jpg",
+    "place_id": "ChIJ6dVNgFaJGGARe4Y9eEX_EdQ",
+    "g_name": "ラペ La paix",
+    "g_rating": 4.5,
+    "g_reviews": 298,
+    "g_address": "日本、〒103-0022 東京都中央区日本橋室町１丁目９−４ Ｂ1Ｆ",
+    "lat": 35.6850961,
+    "lng": 139.7755719
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "ラ・マティエール",
+    "name_en": "La Matiere",
+    "area": "東京都 神楽坂駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13025251/",
+    "rating": 3.74,
+    "review_count_tabelog": 425,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 L.O. 13:30 18:00 - 22:00 L.O. 20:00",
+        "dtl_text": "18:00 - 22:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 172,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJr79lJ1eMGGARPdMVRrlwAaA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13025251-c3faa4dcc52d77701c7ef4f51886e732e182a84f1bb232bb3071757cd91e92dc.jpg",
+    "place_id": "ChIJr79lJ1eMGGARPdMVRrlwAaA",
+    "g_name": "ラ・マティエール",
+    "g_rating": 4.4,
+    "g_reviews": 172,
+    "g_address": "日本、〒162-0825 東京都新宿区神楽坂６丁目２９",
+    "lat": 35.7038248,
+    "lng": 139.7362929
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "トゥールダルジャン 東京",
+    "name_en": "TOUR D'ARGENT Tokyo",
+    "area": "東京都 赤坂見附駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130803/13000288/",
+    "rating": 3.91,
+    "review_count_tabelog": 697,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "17:30 - 22:30 L.O. Food 20:00",
+        "dtl_text": "17:30 - 22:30 L.O. Food 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 15:30 L.O. Food 13:30 17:30 - 22:30 L.O. Food 20:00",
+        "dtl_text": "17:30 - 22:30 L.O. Food 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays and Tuesdays"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 591,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ89uL5HyMGGARlpOzGKydhQI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13000288-82d656f77b15280b5768619d02ad8d994f1ce72571cd597b8adb7b9c232b9fa1.jpg",
+    "place_id": "ChIJ89uL5HyMGGARlpOzGKydhQI",
+    "g_name": "トゥールダルジャン 東京",
+    "g_rating": 4.6,
+    "g_reviews": 591,
+    "g_address": "日本、〒102-8578 東京都千代田区紀尾井町４−１ 東京 ザ・メイン ロビィ階",
+    "lat": 35.6809101,
+    "lng": 139.7340409
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "ナベノ-イズム",
+    "name_en": "Nabeno-Ism",
+    "area": "東京都 浅草（東武・都営・メトロ）駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131102/13194700/",
+    "rating": 4.2,
+    "review_count_tabelog": 703,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 15:00 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 395,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1UWreciOGGARNmJc4Z8sYN4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13194700-dd5abf2fd8d80d6040d16647155de86c662e939f89d2ea3e795899c22cbe1836.jpg",
+    "place_id": "ChIJ1UWreciOGGARNmJc4Z8sYN4",
+    "g_name": "Nabeno-Ism Tokyo",
+    "g_rating": 4.6,
+    "g_reviews": 395,
+    "g_address": "日本、〒111-0043 東京都台東区駒形２丁目１−１７",
+    "lat": 35.7068667,
+    "lng": 139.7954135
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "ロオジエ",
+    "name_en": "L'OSIER",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13002607/",
+    "rating": 4.43,
+    "review_count_tabelog": 1469,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 15:00 L.O. 12:30 17:30 - 22:00 L.O. 19:00",
+        "dtl_text": "17:30 - 22:00 L.O. 19:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Irregular holidays on public holidays, mid-August for summer, and year-end & New Year holidays."
+    },
+    "google_rating": 4.6,
+    "google_reviews": 738,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJBwTDyeiLGGAR6u34mg9lSEA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13002607-d28a4048a09773988fac3189922b86ff6198470186225bdfe5d5d0b62bc96fed.jpg",
+    "place_id": "ChIJBwTDyeiLGGAR6u34mg9lSEA",
+    "g_name": "ロオジエ",
+    "g_rating": 4.6,
+    "g_reviews": 738,
+    "g_address": "日本、〒104-0061 東京都中央区銀座７丁目５−５",
+    "lat": 35.6696422,
+    "lng": 139.7612296
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "アピシウス",
+    "name_en": "APICIUS",
+    "area": "東京都 日比谷駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130102/13000145/",
+    "rating": 4.31,
+    "review_count_tabelog": 1202,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 15:00 L.O. 13:00 17:30 - 23:00 L.O. 20:00",
+        "dtl_text": "17:30 - 23:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 477,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJjTpEJPCLGGARXkD2IPjNWk8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13000145-b0c5fad01b7cc9aa0a24f29a8db1447cdef9fe6041b9b59f7146615493695f18.jpg",
+    "place_id": "ChIJjTpEJPCLGGARXkD2IPjNWk8",
+    "g_name": "アピシウス",
+    "g_rating": 4.5,
+    "g_reviews": 477,
+    "g_address": "日本、〒100-0006 東京都千代田区有楽町１丁目９−４ B1",
+    "lat": 35.6752464,
+    "lng": 139.761106
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "銀座 レカン",
+    "name_en": "L'écrin Ginza",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13002444/",
+    "rating": 4.14,
+    "review_count_tabelog": 1025,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 L.O. Food 13:00 17:00 - 22:00 L.O. Food 20:00",
+        "dtl_text": "17:00 - 22:00 L.O. Food 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 369,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJbTG9KuSLGGARl_AJq51VXsE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13002444-c9fb939fb75fabb0e665a5954817368c1a2bc7c93f380e75fc88e7940e6621cf.jpg",
+    "place_id": "ChIJbTG9KuSLGGARl_AJq51VXsE",
+    "g_name": "銀座レカン",
+    "g_rating": 4.5,
+    "g_reviews": 369,
+    "g_address": "日本、〒104-0061 東京都中央区銀座４丁目５−５ ミキモト本店ビル B1F",
+    "lat": 35.6718734,
+    "lng": 139.7654112
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "a table",
+    "name_en": "à table",
+    "area": "東京都 末広町駅",
+    "url": "https://tabelog.com/tokyo/A1310/A131004/13156948/",
+    "rating": 3.82,
+    "review_count_tabelog": 364,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Bistro, French, Wine bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:30 - 22:30 L.O. Food 20:30 Drinks 21:00",
+        "dtl_text": "17:30 - 22:30 L.O. Food 20:30 Drinks 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 114,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJf8CVKx-MGGAR01m477-aaFY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13156948-b0fedad132a4f61c62a0ab19603a2b114e8a59abe9beaa8bbe20a7269f905864.jpg",
+    "place_id": "ChIJf8CVKx-MGGAR01m477-aaFY",
+    "g_name": "à table",
+    "g_rating": 4.4,
+    "g_reviews": 114,
+    "g_address": "日本、〒113-0034 東京都文京区湯島３丁目１−１ 木村ビル 1f",
+    "lat": 35.7030067,
+    "lng": 139.7679807
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "L'ETERRE",
+    "name_en": "L'ETERRE",
+    "area": "東京都 牛込神楽坂駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13281616/",
+    "rating": 3.98,
+    "review_count_tabelog": 126,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays and Tuesdays"
+    },
+    "google_rating": 4.7,
+    "google_reviews": 46,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJNeDOvSqNGGARalLZVJq62L4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13281616-df2f4ecb271f8fdca845cd592911b9aa7498c1c520560682dff19ffe71121a66.jpg",
+    "place_id": "ChIJNeDOvSqNGGARalLZVJq62L4",
+    "g_name": "レテール 牛込神楽坂",
+    "g_rating": 4.7,
+    "g_reviews": 46,
+    "g_address": "日本、〒162-0825 東京都新宿区神楽坂３丁目６−５３ とぎやレジデンス 2階",
+    "lat": 35.7004703,
+    "lng": 139.739637
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "NeMo",
+    "name_en": "NeMo",
+    "area": "東京都 表参道駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130602/13260539/",
+    "rating": 3.75,
+    "review_count_tabelog": 366,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 15:00 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (open on holidays, with a compensatory day off on the following Tuesday)"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 138,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJYZOf1P2LGGARI2qUrl8L2Ac",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13260539-0b4232b22fc490655cf8b43e4004ef315338250f2804dfc97e7a80fa21bd3f30.jpg",
+    "place_id": "ChIJYZOf1P2LGGARI2qUrl8L2Ac",
+    "g_name": "Restaurant NéMo",
+    "g_rating": 4.6,
+    "g_reviews": 138,
+    "g_address": "日本、〒107-0062 東京都港区南青山６丁目１５−４",
+    "lat": 35.6595001,
+    "lng": 139.7142316
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "レストラン ラリューム",
+    "name_en": "Restaurant Raryumu",
+    "area": "東京都 白金台駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131602/13224188/",
+    "rating": 3.8,
+    "review_count_tabelog": 357,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French, Wine bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:30 18:00 - 22:30",
+        "dtl_text": "18:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "February: 2, 9, 12, 16, 17, 18, 24"
+    },
+    "google_rating": 3.9,
+    "google_reviews": 101,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJsbUXwHCLGGARYMYU7qERNY8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13224188-d3711ff80cc54cc01928d41b01a9171162a80e365ff8804557a773e083c142db.jpg",
+    "place_id": "ChIJsbUXwHCLGGARYMYU7qERNY8",
+    "g_name": "レストラン ラリューム",
+    "g_rating": 3.9,
+    "g_reviews": 101,
+    "g_address": "日本、〒108-0071 東京都港区白金台４丁目９−２３ ＴＳＵＴＳＵＩ白金台ビル B1F",
+    "lat": 35.6384254,
+    "lng": 139.7233922
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "北島亭",
+    "name_en": "Kitajima Tei",
+    "area": "東京都 四ツ谷駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130902/13000945/",
+    "rating": 4.26,
+    "review_count_tabelog": 587,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 15:00 L.O. Food 12:30 Drinks 14:00 18:00 - 22:00 L.O. Food 19:00 Drinks 21:00",
+        "dtl_text": "18:00 - 22:00 L.O. Food 19:00 Drinks 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every Tuesday and Wednesday"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 256,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJD-3dWIuMGGARoyghgGInZKY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13000945-b93058e68e9003053113529f85e1ce73d24714d2e6a6329de731253a5e318cf1.jpg",
+    "place_id": "ChIJD-3dWIuMGGARoyghgGInZKY",
+    "g_name": "北島亭",
+    "g_rating": 4.6,
+    "g_reviews": 256,
+    "g_address": "日本、〒160-0008 東京都新宿区四谷三栄町１５−２ JHC BLDG 1F",
+    "lat": 35.6878821,
+    "lng": 139.7270239
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "CYCLE by Mauro Colagreco",
+    "name_en": "CYCLE",
+    "area": "東京都 大手町駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130201/13288151/",
+    "rating": 3.75,
+    "review_count_tabelog": 114,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "￥30,000～￥39,999",
+    "sub_categories": "French, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "17:00 - 23:00 L.O. 20:00",
+        "dtl_text": "17:00 - 23:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 15:00 L.O. 13:00 18:00 - 23:00 L.O. 20:00",
+        "dtl_text": "18:00 - 23:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.6,
+    "google_reviews": 54,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJT0lK9DSNGGARIoc0dYDKbYU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13288151-31b9b66a333f5837cdc08de0153d466776836f7c34817bf6429a5f095fbab44c.jpg",
+    "place_id": "ChIJT0lK9DSNGGARIoc0dYDKbYU",
+    "g_name": "CYCLE by Mauro Colagreco (スィークル)",
+    "g_rating": 4.6,
+    "g_reviews": 54,
+    "g_address": "日本、〒100-0004 東京都千代田区大手町１丁目２−１ Otemachi One 1階",
+    "lat": 35.6877931,
+    "lng": 139.7623496
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "Ata",
+    "name_en": "Ata",
+    "area": "東京都 代官山駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130303/13150975/",
+    "rating": 3.73,
+    "review_count_tabelog": 1052,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Bistro",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:00 - 02:00",
+        "dtl_text": "17:00 - 02:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 251,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJoz7BO1uLGGAR_UPv_6MxwVc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13150975-d28ef08c6e5e33b0d33980815884bbb52a92f1c183409c56bdd753ce0b8484df.jpg",
+    "place_id": "ChIJoz7BO1uLGGAR_UPv_6MxwVc",
+    "g_name": "Äta",
+    "g_rating": 4.1,
+    "g_reviews": 251,
+    "g_address": "日本、〒150-0033 東京都渋谷区猿楽町２−５",
+    "lat": 35.6529851,
+    "lng": 139.704827
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "ドミニク・ブシェ トーキョー",
+    "name_en": "Dominique Bouchet Tokyo",
+    "area": "東京都 銀座一丁目駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13183610/",
+    "rating": 3.95,
+    "review_count_tabelog": 410,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 15:30 L.O. Food 13:30 18:00 - 23:00 L.O. Food 20:00",
+        "dtl_text": "18:00 - 23:00 L.O. Food 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 270,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJM6mMWeaLGGARrm7FtLxwl10",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13183610-7f6c14088f84a89621609a79e171f11dfb0d0c13a651101367a9d912802f11cf.jpg",
+    "place_id": "ChIJM6mMWeaLGGARrm7FtLxwl10",
+    "g_name": "ドミニク・ブシェ トーキョー",
+    "g_rating": 4.5,
+    "g_reviews": 270,
+    "g_address": "日本、〒104-0061 東京都中央区銀座１丁目５−６ 銀座レンガ通り福神ビル ２F",
+    "lat": 35.6748081,
+    "lng": 139.7672959
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "グルマンディーズ",
+    "name_en": "Gourmandise",
+    "area": "東京都 広尾駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13190448/",
+    "rating": 4.47,
+    "review_count_tabelog": 379,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "-",
+    "sub_categories": "Bistro",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 03:00 L.O. 02:00",
+        "dtl_text": "18:00 - 03:00 L.O. 02:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.7,
+    "google_reviews": 72,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3V8gUXCLGGARaO61CK66UBk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13190448-5b45f46abdaffb5f834045e435e98b18be4515127753b450ac922817c990c4f6.jpg",
+    "place_id": "ChIJ3V8gUXCLGGARaO61CK66UBk",
+    "g_name": "グルマンディーズ",
+    "g_rating": 4.7,
+    "g_reviews": 72,
+    "g_address": "日本、〒106-0031 東京都港区西麻布３丁目１７−２３ プティコワン西麻布Bldg 2F",
+    "lat": 35.6580758,
+    "lng": 139.7239833
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "モノリス",
+    "name_en": "MONOLITH",
+    "area": "東京都 渋谷駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130301/13108686/",
+    "rating": 4.12,
+    "review_count_tabelog": 568,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 15:00 L.O. 13:00 18:00 - 22:30 L.O. 20:30",
+        "dtl_text": "18:00 - 22:30 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 199,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJe4M95V6LGGARX3AmUbtSwwM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13108686-980e7747c78bff3eb540e4d5a4f2b790d920611aa72c2e354837c43c93fb59c1.jpg",
+    "place_id": "ChIJe4M95V6LGGARX3AmUbtSwwM",
+    "g_name": "モノリス",
+    "g_rating": 4.2,
+    "g_reviews": 199,
+    "g_address": "日本、〒150-0002 東京都渋谷区渋谷２丁目６−１",
+    "lat": 35.660006,
+    "lng": 139.7082897
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "ソンブルイユ TOKYO",
+    "name_en": "SOMBREUIL TOKYO",
+    "area": "東京都 飯田橋駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13211031/",
+    "rating": 3.77,
+    "review_count_tabelog": 264,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "11:30 - 15:00 L.O. 13:00",
+        "dtl_text": "11:30 - 15:00 L.O. 13:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 15:00 L.O. 13:00 17:30 - 22:00 L.O. 19:00",
+        "dtl_text": "17:30 - 22:00 L.O. 19:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Monday evenings and Tuesdays (open on holidays)"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 294,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJl4L3VEKMGGARE_n5R1r39lY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13211031-ca7397e6141732163aa2c096327c66d4d32e82c4d19852ef34c53aca2a146adb.jpg",
+    "place_id": "ChIJl4L3VEKMGGARE_n5R1r39lY",
+    "g_name": "ソンブルイユ TOKYO",
+    "g_rating": 4.5,
+    "g_reviews": 294,
+    "g_address": "日本、〒102-0071 東京都千代田区富士見１丁目８−１２",
+    "lat": 35.6980134,
+    "lng": 139.7450152
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "ラミティエ",
+    "name_en": "L’AMITIE",
+    "area": "東京都 高田馬場駅",
+    "url": "https://tabelog.com/tokyo/A1305/A130503/13004131/",
+    "rating": 3.71,
+    "review_count_tabelog": 876,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Bistro, French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 22:30",
+        "dtl_text": "17:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 384,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJWYTlPjyNGGAR3Gtk2BMdyRc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13004131-c680238e79fb5764e63cf9d7d6d6e06d53254fe373722e922c9c6b68b1c871d4.jpg",
+    "place_id": "ChIJWYTlPjyNGGAR3Gtk2BMdyRc",
+    "g_name": "ラミティエ",
+    "g_rating": 4.5,
+    "g_reviews": 384,
+    "g_address": "日本、〒169-0075 東京都新宿区高田馬場２丁目９−１２",
+    "lat": 35.7121128,
+    "lng": 139.7079149
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "jinen.",
+    "name_en": "jinen.",
+    "area": "東京都 神泉駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130301/13263230/",
+    "rating": 3.94,
+    "review_count_tabelog": 181,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "French, Creative, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Tue - Sat": {}
+      },
+      "closed_on": "Sundays, Mondays, and public holidays"
+    },
+    "google_rating": 4.8,
+    "google_reviews": 59,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJI2ngTa-LGGARgphEHFJFzP0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13263230-e8dc9b0d649a3bc5cded3c9eea90e064f33cd854d18cd94d3b43fb90785faf55.jpg",
+    "place_id": "ChIJI2ngTa-LGGARgphEHFJFzP0",
+    "g_name": "jinen.",
+    "g_rating": 4.8,
+    "g_reviews": 59,
+    "g_address": "日本、〒150-0036 東京都渋谷区南平台町６−７",
+    "lat": 35.6541709,
+    "lng": 139.697497
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "L'éclaireur",
+    "name_en": "L’Eclaireur Restaurant",
+    "area": "東京都 代官山駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130303/13261607/",
+    "rating": 3.74,
+    "review_count_tabelog": 150,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "16:30 - 23:00 L.O. Food 20:00 Drinks 20:30",
+        "dtl_text": "16:30 - 23:00 L.O. Food 20:00 Drinks 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Fri, Sat, Sun",
+        "dtl": "12:00 - 16:00 L.O. Food 13:30 Drinks 14:00 18:00 - 23:00 L.O. Food 20:00 Drinks 21:00",
+        "dtl_text": "18:00 - 23:00 L.O. Food 20:00 Drinks 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 36,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJNdZfo0SLGGARdCfefT1Fb8g",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13261607-4231c5799412f845fe4f92932ebbc4ce9a0e4922eb6a4a44fe2e3d9d8ff54126.jpg",
+    "place_id": "ChIJNdZfo0SLGGARdCfefT1Fb8g",
+    "g_name": "レストラン レクレルール",
+    "g_rating": 4.4,
+    "g_reviews": 36,
+    "g_address": "日本、〒150-0034 東京都渋谷区代官山町６−６ SPT代官山ビルディング １F",
+    "lat": 35.6518072,
+    "lng": 139.7058148
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "Héritage by Kei Kobayashi",
+    "name_en": "Heritage by Kei Kobayashi",
+    "area": "東京都 六本木駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13293593/",
+    "rating": 4.0,
+    "review_count_tabelog": 178,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 16:00 L.O. 13:30 18:00 - 22:30 L.O. 20:00",
+        "dtl_text": "18:00 - 22:30 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.6,
+    "google_reviews": 246,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGUC_l3iLGGARJ0V_A5BfZJs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13293593-649708c483f8f6cf480282d91e2e6f5e5edcb72033e2b2e0fe708bac14af2118.jpg",
+    "place_id": "ChIJGUC_l3iLGGARJ0V_A5BfZJs",
+    "g_name": "Héritage by Kei Kobayashi(エリタージュ バイ ケイ コバヤシ)",
+    "g_rating": 4.6,
+    "g_reviews": 246,
+    "g_address": "日本、〒107-6245 東京都港区赤坂９丁目７−１ 東京ミッドタウン 45階",
+    "lat": 35.6662932,
+    "lng": 139.7312789
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "クラフタル",
+    "name_en": "CRAFTALE",
+    "area": "東京都 中目黒駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13186719/",
+    "rating": 3.72,
+    "review_count_tabelog": 540,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 L.O. 12:00 18:00 - 22:30 L.O. 19:00",
+        "dtl_text": "18:00 - 22:30 L.O. 19:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "18:00 - 22:30 L.O. 19:00",
+        "dtl_text": "18:00 - 22:30 L.O. 19:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 185,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJofSkdk6LGGARU2YzaVHpYBI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13186719-0fcd4a7c612381468d46bb0420526713c2e0969a3e8b7240a3c42d248bf27dfb.jpg",
+    "place_id": "ChIJofSkdk6LGGARU2YzaVHpYBI",
+    "g_name": "CRAFTALE クラフタル",
+    "g_rating": 4.4,
+    "g_reviews": 185,
+    "g_address": "日本、〒153-0042 東京都目黒区青葉台１丁目１６−１１",
+    "lat": 35.647421,
+    "lng": 139.696507
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "フロレゾン",
+    "name_en": "Floraison",
+    "area": "東京都 牛込神楽坂駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13234388/",
+    "rating": 3.87,
+    "review_count_tabelog": 292,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu",
+        "dtl": "18:00 - 23:00 L.O. Food 20:00 Drinks 22:00",
+        "dtl_text": "18:00 - 23:00 L.O. Food 20:00 Drinks 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "12:00 - 15:00 L.O. Food 13:00 Drinks 14:30 18:00 - 23:00 L.O. Food 20:00 Drinks 22:00",
+        "dtl_text": "18:00 - 23:00 L.O. Food 20:00 Drinks 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Fri, Sat",
+        "dtl": "12:00 - 15:00 L.O. Food 13:00 Drinks 14:00 18:00 - 23:00 L.O. Food 20:00 Drinks 22:00",
+        "dtl_text": "18:00 - 23:00 L.O. Food 20:00 Drinks 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 74,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJIyUPJCuNGGARABENY7H-Q5s",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13234388-d0c51faae00821aa22e746ff0ae41fed6726dcf10cf59ce84a82dd0809f4a8e1.jpg",
+    "place_id": "ChIJIyUPJCuNGGARABENY7H-Q5s",
+    "g_name": "フロレゾン",
+    "g_rating": 4.6,
+    "g_reviews": 74,
+    "g_address": "日本、〒162-0825 東京都新宿区神楽坂３丁目６−２９ MIビル 2F",
+    "lat": 35.7009032,
+    "lng": 139.7400912
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "ラトリエ ドゥ ジョエル・ロブション",
+    "name_en": "L'ATELIER de Joel Robuchon",
+    "area": "東京都 六本木駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13005334/",
+    "rating": 3.81,
+    "review_count_tabelog": 1217,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 16:00 L.O. Food 14:30 18:00 - 22:00 L.O. Food 20:30",
+        "dtl_text": "18:00 - 22:00 L.O. Food 20:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Year-end & New Year Holidays"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 1150,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJK0TdDneLGGARW8iHQb4cVzE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13005334-c7a50a4774d89534aec80e5509c577089b8447ef299df77b2982048be7007fdb.jpg",
+    "place_id": "ChIJK0TdDneLGGARW8iHQb4cVzE",
+    "g_name": "ラトリエ ドゥ ジョエル・ロブション",
+    "g_rating": 4.4,
+    "g_reviews": 1150,
+    "g_address": "日本、〒106-0032 東京都港区六本木６丁目１０−１ 六本木ヒルズ ヒルサイド 2F",
+    "lat": 35.66011659999999,
+    "lng": 139.7294315
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "ル・ブルギニオン",
+    "name_en": "Le Bourguignon",
+    "area": "東京都 六本木駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13005328/",
+    "rating": 3.96,
+    "review_count_tabelog": 696,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 L.O. 12:30 18:00 - 22:00 L.O. 19:30",
+        "dtl_text": "18:00 - 22:00 L.O. 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The second and fourth Tuesdays of each month."
+    },
+    "google_rating": 4.6,
+    "google_reviews": 282,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJdVd2oPGGHWARK4TJHMQOAeE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13005328-89fd3eb156d651fc6edd76516d40c95e5518c60cfa01ba9761002be076f23b8f.jpg",
+    "place_id": "ChIJdVd2oPGGHWARK4TJHMQOAeE",
+    "g_name": "ル ブルギニオン",
+    "g_rating": 4.6,
+    "g_reviews": 282,
+    "g_address": "日本、〒106-0031 東京都港区西麻布３丁目３−１",
+    "lat": 35.6582879,
+    "lng": 139.7273482
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "渡辺料理店",
+    "name_en": "Watanabe Ryouri-mise",
+    "area": "東京都 門前仲町駅",
+    "url": "https://tabelog.com/tokyo/A1313/A131303/13274535/",
+    "rating": 4.15,
+    "review_count_tabelog": 398,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Bistro, French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "17:00 - 23:00 L.O. Food 21:00",
+        "dtl_text": "17:00 - 23:00 L.O. Food 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 117,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJt1Ye_LKJGGARa4q6npADXx4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13274535-094e1aff2be34b18dbef72c15e9f306d8d9f2ccbac38ab0601dedf2959438b4e.jpg",
+    "place_id": "ChIJt1Ye_LKJGGARa4q6npADXx4",
+    "g_name": "渡辺料理店",
+    "g_rating": 4.6,
+    "g_reviews": 117,
+    "g_address": "日本、〒135-0047 東京都江東区富岡１丁目２−９",
+    "lat": 35.6711342,
+    "lng": 139.7962245
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "ラトラス",
+    "name_en": "L’Atlas",
+    "area": "東京都 神楽坂駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13059639/",
+    "rating": 3.71,
+    "review_count_tabelog": 390,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:30 L.O. 13:00 18:30 - 22:30 L.O. 21:00",
+        "dtl_text": "18:30 - 22:30 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The first Tuesday of each month"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 164,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJV4u3sFCMGGARTUp8semXjFQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13059639-b3ce3c94273da475c0898251a4081e9318413f540b98eafece526b8ee91e673a.jpg",
+    "place_id": "ChIJV4u3sFCMGGARTUp8semXjFQ",
+    "g_name": "L’Atlas",
+    "g_rating": 4.4,
+    "g_reviews": 164,
+    "g_address": "日本、〒162-0825 東京都新宿区神楽坂６丁目８−９５ ボルゴ大〆2°",
+    "lat": 35.703402,
+    "lng": 139.7379511
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "カンテサンス",
+    "name_en": "Quintessence",
+    "area": "東京都 北品川駅",
+    "url": "https://tabelog.com/tokyo/A1314/A131405/13159567/",
+    "rating": 4.5,
+    "review_count_tabelog": 1808,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 23:30",
+        "dtl_text": "17:00 - 23:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Two shifts": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 825,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8T36HxCLGGARvpARPDyaKLA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13159567-13c18a2d6e20005605b5cc2876c3b597cd5956691e98142c776c2adc2d01c744.jpg",
+    "place_id": "ChIJ8T36HxCLGGARvpARPDyaKLA",
+    "g_name": "カンテサンス",
+    "g_rating": 4.5,
+    "g_reviews": 825,
+    "g_address": "日本、〒140-0001 東京都品川区北品川６丁目７−２９",
+    "lat": 35.6239372,
+    "lng": 139.7331094
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "フィリップ・ミル 東京",
+    "name_en": "Philippe Mille Tokyo",
+    "area": "東京都 乃木坂駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13205772/",
+    "rating": 3.75,
+    "review_count_tabelog": 631,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:30 L.O. 14:00 17:30 - 23:00 L.O. 21:00",
+        "dtl_text": "17:30 - 23:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every Tuesday (rescheduled to the following day if it falls on a public holiday)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 263,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6y57w3iLGGAR5GwVFY6SHQA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13205772-b403f206f631d310fa88ad710e9273cc57d5d4150cb55be5189e1f0521c4a405.jpg",
+    "place_id": "ChIJ6y57w3iLGGAR5GwVFY6SHQA",
+    "g_name": "フィリップ・ミル 東京",
+    "g_rating": 4.3,
+    "g_reviews": 263,
+    "g_address": "日本、〒107-0052 東京都港区赤坂９丁目７−４ 東京ミッドタウン ガーデンテラス4F",
+    "lat": 35.6667697,
+    "lng": 139.7306514
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "フランス料理 エステール by アラン・デュカス",
+    "name_en": "ESTERRE",
+    "area": "東京都 大手町駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130201/13239843/",
+    "rating": 3.77,
+    "review_count_tabelog": 250,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 13:30 L.O. 13:30 18:00 - 22:00 L.O. 20:00",
+        "dtl_text": "18:00 - 22:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 135,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJvdCFOViNGGARX8UQQd7MBmg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13239843-e7908a563b749e1172baeb1eea063d6c0fd76fa6e352fe12fcc0958b647010b7.jpg",
+    "place_id": "ChIJvdCFOViNGGARX8UQQd7MBmg",
+    "g_name": "エステール by アラン・デュカス",
+    "g_rating": 4.4,
+    "g_reviews": 135,
+    "g_address": "日本、〒100-0005 東京都千代田区丸の内１丁目１−１ パレスホテル東京 6階",
+    "lat": 35.6845001,
+    "lng": 139.7612211
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "レストラン リューズ",
+    "name_en": "Restaurant Ryuzu",
+    "area": "東京都 六本木駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13122126/",
+    "rating": 4.24,
+    "review_count_tabelog": 888,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 15:00 L.O. Food 13:00 18:00 - 22:30 L.O. Food 20:00",
+        "dtl_text": "18:00 - 22:30 L.O. Food 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed; the restaurant also has two long-term closures each year."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 440,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGcAHwYKLGGARdXaJAZ9g4S4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13122126-710741632cfbac04213be1f53e6f1acc87aa80fbf950d33dae985323118c38fc.jpg",
+    "place_id": "ChIJGcAHwYKLGGARdXaJAZ9g4S4",
+    "g_name": "Restaurant Ryuzu",
+    "g_rating": 4.5,
+    "g_reviews": 440,
+    "g_address": "日本、〒106-0032 東京都港区六本木４丁目２−３５ Vort六本木Dual's B1F",
+    "lat": 35.6647551,
+    "lng": 139.7334715
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "l'elan",
+    "name_en": "l'elan",
+    "area": "東京都 明治神宮前駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130601/13243117/",
+    "rating": 3.81,
+    "review_count_tabelog": 63,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Public Holiday, Day before public holiday",
+        "dtl": "18:00 - 20:30",
+        "dtl_text": "18:00 - 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun, Day after public holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (the following Tuesday if a public holiday falls on Monday)"
+    },
+    "google_rating": 4.8,
+    "google_reviews": 37,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJlSwXD5yNGGAR7IGdG0ASpLs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13243117-9ac67d7f650472d5508656c1c0e1e98ffeded07f1d87a69bd52cfff7235c1fc0.jpg",
+    "place_id": "ChIJlSwXD5yNGGAR7IGdG0ASpLs",
+    "g_name": "l’élan (レラン)",
+    "g_rating": 4.8,
+    "g_reviews": 37,
+    "g_address": "日本、〒150-0001 東京都渋谷区神宮前５丁目１０−１ GYRE 4F",
+    "lat": 35.6674536,
+    "lng": 139.7068537
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "Alternative",
+    "name_en": "Alternative",
+    "area": "東京都 広尾駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131602/13263812/",
+    "rating": 3.79,
+    "review_count_tabelog": 77,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 15:00 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.7,
+    "google_reviews": 27,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJh0wZM3qLGGARGRoGP37ynTo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13263812-10cedf627406164828c6a668f98094b945fd0d2352bceefa86f26226d2b895d8.jpg",
+    "place_id": "ChIJh0wZM3qLGGARGRoGP37ynTo",
+    "g_name": "オルタナティヴ",
+    "g_rating": 4.7,
+    "g_reviews": 27,
+    "g_address": "日本、〒108-0072 東京都港区白金５丁目１２−２４ T-building 1階",
+    "lat": 35.6453218,
+    "lng": 139.7236697
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "au deco",
+    "name_en": "au deco",
+    "area": "東京都 広尾駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130703/13232146/",
+    "rating": 3.74,
+    "review_count_tabelog": 186,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon - Sat": {}
+      },
+      "closed_on": "Sundays, the second Monday, and the fourth Monday of each month."
+    },
+    "google_rating": 4.7,
+    "google_reviews": 55,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJS3hdF6-LGGARGR_d5IukAJQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13232146-ff94dad64f7e5f391dd9b96dac8a8792378c93bdc7585007d4bda737494afaba.jpg",
+    "place_id": "ChIJS3hdF6-LGGARGR_d5IukAJQ",
+    "g_name": "au deco",
+    "g_rating": 4.7,
+    "g_reviews": 55,
+    "g_address": "日本、〒150-0013 東京都渋谷区恵比寿２丁目２３−３",
+    "lat": 35.6476269,
+    "lng": 139.720273
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "sincere",
+    "name_en": "sincere",
+    "area": "東京都 北参道駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130901/13194253/",
+    "rating": 4.23,
+    "review_count_tabelog": 592,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 20:30",
+        "dtl_text": "18:00 - 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every other Monday (1st, 3rd, and 5th)"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 233,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJXfAVBLmMGGARVMUiNhNEcNg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13194253-068302c43de3be974f6f2b416c12b3d370595fd11b68554d67d8a4d6120baf28.jpg",
+    "place_id": "ChIJXfAVBLmMGGARVMUiNhNEcNg",
+    "g_name": "Sincere",
+    "g_rating": 4.4,
+    "g_reviews": 233,
+    "g_address": "日本、〒151-0051 東京都渋谷区千駄ケ谷３丁目７−１３ 原宿東急アパートメント B1F",
+    "lat": 35.676892,
+    "lng": 139.704306
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "ジョンティ アッシュ",
+    "name_en": "Jonty Ash",
+    "area": "東京都 白金台駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131602/13056132/",
+    "rating": 3.81,
+    "review_count_tabelog": 398,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "French, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 15:00 L.O. 13:00 18:00 - 22:30 L.O. 20:00",
+        "dtl_text": "18:00 - 22:30 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays and Wednesdays (excluding public holidays)"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 154,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJsXuPmQSLGGARnzbKzzaZjWM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13056132-cd4d76dbc27c52076d3ecd4da52880a8d1d93eb848f9ac78c6bc7705b4593017.jpg",
+    "place_id": "ChIJsXuPmQSLGGARnzbKzzaZjWM",
+    "g_name": "ジョンティ・アッシュ",
+    "g_rating": 4.5,
+    "g_reviews": 154,
+    "g_address": "日本、〒108-0071 東京都港区白金台５丁目１８−１７ GOLD FOREST 2F",
+    "lat": 35.63717800000001,
+    "lng": 139.723344
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "ル・マンジュ・トゥー",
+    "name_en": "Le Mange-Tout",
+    "area": "東京都 牛込神楽坂駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13000469/",
+    "rating": 4.0,
+    "review_count_tabelog": 320,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:30 - 21:00",
+        "dtl_text": "18:30 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 122,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJURqme1iMGGARNsIhwcD6nHo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13000469-b7c8552fc8becfd344ea59393e4a2801f840eecce8b6e83f83814f70562c56b1.jpg",
+    "place_id": "ChIJURqme1iMGGARNsIhwcD6nHo",
+    "g_name": "ル・マンジュ・トゥー（Le Mange-Tout）",
+    "g_rating": 4.5,
+    "g_reviews": 122,
+    "g_address": "日本、〒162-0837 東京都新宿区納戸町２２",
+    "lat": 35.6980459,
+    "lng": 139.7323999
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "レストランひらまつ 広尾",
+    "name_en": "Restaurant Hiramatsu Hiroo",
+    "area": "東京都 広尾駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130703/13001590/",
+    "rating": 3.74,
+    "review_count_tabelog": 545,
+    "price_dinner": "￥60,000～￥79,999",
+    "price_lunch": "￥30,000～￥39,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 15:30 L.O. Food 14:00 18:00 - 00:00 L.O. Food 21:30",
+        "dtl_text": "18:00 - 00:00 L.O. Food 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every Monday and Tuesday (will be rescheduled to the following day if a holiday falls on these days)"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 242,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3bA6v3KLGGAR7echfNibZDA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13001590-db97d612938a069a2e21dfc52061e3c77fe0291823a68640a76782b412816c5b.jpg",
+    "place_id": "ChIJ3bA6v3KLGGAR7echfNibZDA",
+    "g_name": "レストランひらまつ 広尾",
+    "g_rating": 4.6,
+    "g_reviews": 242,
+    "g_address": "日本、〒106-0047 東京都港区南麻布５丁目１５−１３",
+    "lat": 35.6510004,
+    "lng": 139.7229152
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "L'Octave Hayato KOBAYASHI",
+    "name_en": "L'Octave -Hayato KOBAYASHI-",
+    "area": "東京都 北参道駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130901/13186978/",
+    "rating": 3.8,
+    "review_count_tabelog": 185,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 47,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ02olwL6MGGARuo9YSm0tcnE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13186978-a73bab588dfc052c6a959509e011b55f8306cd6202a67e6237f9c788315d3218.jpg",
+    "place_id": "ChIJ02olwL6MGGARuo9YSm0tcnE",
+    "g_name": "L'Octave -Hayato KOBAYASHI-",
+    "g_rating": 4.4,
+    "g_reviews": 47,
+    "g_address": "日本、〒151-0051 東京都渋谷区千駄ケ谷３丁目３０−９ モデ リア ブリュット 101",
+    "lat": 35.6775801,
+    "lng": 139.7077013
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "パトゥ",
+    "name_en": "Patous",
+    "area": "東京都 六本木一丁目駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13249638/",
+    "rating": 3.98,
+    "review_count_tabelog": 139,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "French, European",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri",
+        "dtl": "18:00 - 20:00",
+        "dtl_text": "18:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "12:00 - 13:00 18:00 - 20:00",
+        "dtl_text": "18:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.7,
+    "google_reviews": 41,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJw5UEYCWLGGAR3Y1Ho30nAow",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13249638-6b8b743abd2d342d89d9b6dea2197f426cf4c30b830060fed5b12c78e6510de7.jpg",
+    "place_id": "ChIJw5UEYCWLGGAR3Y1Ho30nAow",
+    "g_name": "パトゥ",
+    "g_rating": 4.7,
+    "g_reviews": 41,
+    "g_address": "日本、〒106-0041 東京都港区麻布台３丁目４−１４ 麻布台マンション 103",
+    "lat": 35.6604609,
+    "lng": 139.7392264
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "AZUR et MASA UEKI",
+    "name_en": "French Restaurant AZUR et MASA UEKI",
+    "area": "東京都 乃木坂駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13206559/",
+    "rating": 4.09,
+    "review_count_tabelog": 580,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "12:00 - 15:00 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "12:00 - 15:00 18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Day after public holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.7,
+    "google_reviews": 191,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJj6lP03qLGGARIGiXq2yaCzM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13206559-021c9a6687201609f28b76220c9906c2ceba342ff891848f2084c6786c879fc4.jpg",
+    "place_id": "ChIJj6lP03qLGGARIGiXq2yaCzM",
+    "g_name": "AZUR et MASA UEKI",
+    "g_rating": 4.7,
+    "g_reviews": 191,
+    "g_address": "日本、〒106-0031 東京都港区西麻布２丁目２４−７ MAビルディング 1F",
+    "lat": 35.6610987,
+    "lng": 139.7218902
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "レフェルヴェソンス",
+    "name_en": "L’Effervescence",
+    "area": "東京都 表参道駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130602/13116356/",
+    "rating": 4.45,
+    "review_count_tabelog": 1650,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "￥50,000～￥59,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu, Fri, Sat",
+        "dtl": "11:30 - 15:30 18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Dinner service only on Tuesdays and Wednesdays."
+    },
+    "google_rating": 4.6,
+    "google_reviews": 893,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJV7oGAWWLGGARslO9OGTuG-A",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13116356-c5c6536501483364c418d1570cd87d585ac53bbc476c56646110bb0b929bf298.jpg",
+    "place_id": "ChIJV7oGAWWLGGARslO9OGTuG-A",
+    "g_name": "レフェルヴェソンス",
+    "g_rating": 4.6,
+    "g_reviews": 893,
+    "g_address": "日本、〒106-0031 東京都港区西麻布２丁目２６−４",
+    "lat": 35.6602554,
+    "lng": 139.7194158
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "コントワール ミサゴ",
+    "name_en": "Comptoir Misago",
+    "area": "東京都 広尾駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130703/13114321/",
+    "rating": 3.75,
+    "review_count_tabelog": 341,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "French, Bistro, Wine bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 23:00 L.O. 21:00",
+        "dtl_text": "17:00 - 23:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 88,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ72dvnGWLGGARlphVFDWf67M",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13114321-524d0f0a4a6b930ec363e957384126b6e6517109aa9a015a0ac79fa2b5c32710.jpg",
+    "place_id": "ChIJ72dvnGWLGGARlphVFDWf67M",
+    "g_name": "コントワール ミサゴ",
+    "g_rating": 4.5,
+    "g_reviews": 88,
+    "g_address": "日本、〒106-0031 東京都港区西麻布４丁目１７−２２ アビターレ西麻布 2F",
+    "lat": 35.6586631,
+    "lng": 139.7189076
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "L'EAU",
+    "name_en": "L'EAU",
+    "area": "東京都 外苑前駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130603/13228902/",
+    "rating": 3.76,
+    "review_count_tabelog": 417,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "French, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 15:00 L.O. 13:00 18:00 - 22:00 L.O. 19:00",
+        "dtl_text": "18:00 - 22:00 L.O. 19:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays and Tuesdays (closed the following business day if a holiday falls on a Monday or Tuesday)"
+    },
+    "google_rating": 3.6,
+    "google_reviews": 209,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJe9PgEpyMGGARbT5Ej0VIUzI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13228902-518f30095de76a40c833b5b290a8a75078313b184ff57950f7506fb5b80f3bfd.jpg",
+    "place_id": "ChIJe9PgEpyMGGARbT5Ej0VIUzI",
+    "g_name": "外苑前駅",
+    "g_rating": 3.6,
+    "g_reviews": 209,
+    "g_address": "日本、〒107-0061 東京都港区北青山２丁目７−１６",
+    "lat": 35.6706165,
+    "lng": 139.7180621
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "レストラン・サカキ",
+    "name_en": "RESTAURANT SAKAKI",
+    "area": "東京都 宝町駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130202/13002443/",
+    "rating": 3.72,
+    "review_count_tabelog": 1632,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "French, Yoshoku (Japanese style western cuisine), Sweets",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 14:30 L.O. 13:30 18:00 - 22:00 L.O. 20:00",
+        "dtl_text": "18:00 - 22:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "18:00 - 22:00 L.O. 20:00",
+        "dtl_text": "18:00 - 22:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 861,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJc2XjQuKLGGAR_ZxIyDPQGr0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13002443-720431cfe556106aacb7ba952903e9c1d4327e1288f769fe346e3459f076dc77.jpg",
+    "place_id": "ChIJc2XjQuKLGGAR_ZxIyDPQGr0",
+    "g_name": "Sakaki",
+    "g_rating": 4.3,
+    "g_reviews": 861,
+    "g_address": "日本、〒104-0031 東京都中央区京橋２丁目１２−１２ サカキビル 1F",
+    "lat": 35.6760207,
+    "lng": 139.7714495
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "シェ オリビエ",
+    "name_en": "Chez Olivier",
+    "area": "東京都 市ケ谷駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130904/13097060/",
+    "rating": 3.74,
+    "review_count_tabelog": 270,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 14:30 L.O. Food 13:00 Drinks 14:00 17:30 - 22:00 L.O. Food 20:00 Drinks 22:00",
+        "dtl_text": "17:30 - 22:00 L.O. Food 20:00 Drinks 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 241,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJS7K7SWaMGGAR1iNGLScnIIc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13097060-d75b74164468ee2514b50d02a6a985e7465d9eed66fb0a87918cd62dcb2e46a8.jpg",
+    "place_id": "ChIJS7K7SWaMGGAR1iNGLScnIIc",
+    "g_name": "シェ オリビエ",
+    "g_rating": 4.6,
+    "g_reviews": 241,
+    "g_address": "日本、〒102-0074 東京都千代田区九段南４丁目１−１０ グランドメゾン九段南 1F",
+    "lat": 35.6916057,
+    "lng": 139.7411799
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "ASAHINA Gastronome",
+    "name_en": "ASAHINA Gastronome",
+    "area": "東京都 茅場町駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130203/13227385/",
+    "rating": 4.25,
+    "review_count_tabelog": 563,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri",
+        "dtl": "18:00 - 22:30",
+        "dtl_text": "18:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "12:00 - 15:30 18:00 - 22:30",
+        "dtl_text": "18:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.7,
+    "google_reviews": 189,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ84HCEdGJGGARt4OCbIlmfjg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13227385-5f4dafbd6e5291d8d72e94562f06d035c4252a369d3883f114f0770c1cd5ff5e.jpg",
+    "place_id": "ChIJ84HCEdGJGGARt4OCbIlmfjg",
+    "g_name": "アサヒナガストロノーム",
+    "g_rating": 4.7,
+    "g_reviews": 189,
+    "g_address": "日本、〒103-0026 東京都中央区日本橋兜町１−４ 日本橋兜町Ｍ－ＳＱＵＡＲＥ 1F",
+    "lat": 35.6827081,
+    "lng": 139.7793239
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "ラ・ボンヌターブル",
+    "name_en": "LA BONNE TABLE",
+    "area": "東京都 三越前駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130202/13166325/",
+    "rating": 3.77,
+    "review_count_tabelog": 1353,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "French, Bistro, Wine bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:30 L.O. 13:30 18:00 - 23:00 L.O. 20:00",
+        "dtl_text": "18:00 - 23:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 476,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJqX0WqVWJGGARjgFlM_FELSg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13166325-f78643fe41aa62bfe7a78db3602918d07a40daff6cf085e27fa30c31efc3e952.jpg",
+    "place_id": "ChIJqX0WqVWJGGARjgFlM_FELSg",
+    "g_name": "ラ・ボンヌターブル",
+    "g_rating": 4.4,
+    "g_reviews": 476,
+    "g_address": "日本、〒103-0022 東京都中央区日本橋室町２丁目３−１ コレド室町2 1F",
+    "lat": 35.6866993,
+    "lng": 139.7748402
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "TOKYO",
+    "name": "シグネチャー",
+    "name_en": "SIGNATURE",
+    "area": "東京都 三越前駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130202/13020360/",
+    "rating": 3.74,
+    "review_count_tabelog": 559,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 187,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9fcZgFWJGGARUY_LcB45_JA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_tokyo/13020360-5bcde798c7edcfb01d3e148f41f8a3fdc6bccc02f620eeb38f6e6d0e1671ad3f.jpg",
+    "place_id": "ChIJ9fcZgFWJGGARUY_LcB45_JA",
+    "g_name": "シグネチャー",
+    "g_rating": 4.5,
+    "g_reviews": 187,
+    "g_address": "日本、〒103-8328 東京都中央区日本橋室町２丁目１−１",
+    "lat": 35.6870537,
+    "lng": 139.7731467
+  }
+]

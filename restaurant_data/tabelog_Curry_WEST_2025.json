@@ -1,0 +1,4742 @@
+[
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "サトナカ",
+    "name_en": "Satonaka",
+    "area": "兵庫県 貿易センター駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280102/28035822/",
+    "rating": 3.68,
+    "review_count_tabelog": 418,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 14:30 L.O. 14:00 17:00 - 19:30 L.O. 19:00",
+        "dtl_text": "17:00 - 19:30 L.O. 19:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays and public holidays, with temporary closures from September 20 to September 23, 2025."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 171,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJM0ZrVPGOAGAR6zN39CDox98",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/28035822-d0468bcd989ee5fa05165f7c36aa9852422b2b7aa30079412afbf528e3a66921.jpg",
+    "place_id": "ChIJM0ZrVPGOAGAR6zN39CDox98",
+    "g_name": "サトナカ",
+    "g_rating": 4.3,
+    "g_reviews": 171,
+    "g_address": "日本、〒651-0085 兵庫県神戸市中央区八幡通１丁目１−２１",
+    "lat": 34.6920281,
+    "lng": 135.2006744
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "辛来飯",
+    "name_en": "Curry Rice",
+    "area": "大阪府 堺筋本町駅",
+    "url": "https://tabelog.com/osaka/A2701/A270106/27000068/",
+    "rating": 3.7,
+    "review_count_tabelog": 718,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Chinese, Izakaya (Japanese style tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "09:00 - 14:30 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Curry only": {},
+        "Chinese Izakaya & Curry": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 347,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0_A6pCHnAGARp_4VOlcQBg4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27000068-aac1be0f5305b03b19399eaa03974dc130ba77bb9b2828742abe07caf4ee0ba8.jpg",
+    "place_id": "ChIJ0_A6pCHnAGARp_4VOlcQBg4",
+    "g_name": "カレーショップ 辛来飯 カーライス",
+    "g_rating": 4.2,
+    "g_reviews": 347,
+    "g_address": "日本、〒541-0052 大阪府大阪市中央区安土町１丁目５−３ ループビル ２F",
+    "lat": 34.6844815,
+    "lng": 135.5083722
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "まんねんカレー",
+    "name_en": "Mannen Curry",
+    "area": "大阪府 谷町四丁目駅",
+    "url": "https://tabelog.com/osaka/A2701/A270104/27081491/",
+    "rating": 3.64,
+    "review_count_tabelog": 569,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 15:00 17:30 - 23:00",
+        "dtl_text": "17:30 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 541,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJz3ypMSTnAGARMH35aYNesoU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27081491-60c7cbfe08a7ceae0dd08f069d48e9ae9bfae0ed2c81d20acb96927c67948ccf.jpg",
+    "place_id": "ChIJz3ypMSTnAGARMH35aYNesoU",
+    "g_name": "まんねんカレー",
+    "g_rating": 4.1,
+    "g_reviews": 541,
+    "g_address": "日本、〒540-0025 大阪府大阪市中央区徳井町２丁目４−３ 双葉グランドプラザ 101",
+    "lat": 34.6842561,
+    "lng": 135.5130046
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "ガネーシュ N",
+    "name_en": "Ganesh N",
+    "area": "大阪府 大阪天満宮駅",
+    "url": "https://tabelog.com/osaka/A2701/A270103/27065938/",
+    "rating": 3.71,
+    "review_count_tabelog": 866,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Indian curry, Curry, Indian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 17:00 - 20:00",
+        "dtl_text": "17:00 - 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (open on public holidays) + Not fixed"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 377,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJlVis3tvmAGAR3Z0U4VaMpeg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27065938-f0241e12be46cdda5e720da5ef5ca8b96efb0dc4dc185878684774b6401789af.jpg",
+    "place_id": "ChIJlVis3tvmAGAR3Z0U4VaMpeg",
+    "g_name": "ガネーシュN",
+    "g_rating": 4.2,
+    "g_reviews": 377,
+    "g_address": "日本、〒530-0041 大阪府大阪市北区天神橋１丁目１０−１８",
+    "lat": 34.694072,
+    "lng": 135.5125489
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "辛激屋",
+    "name_en": "Shigeki Ya",
+    "area": "大阪府 長堀橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270201/27011492/",
+    "rating": 3.68,
+    "review_count_tabelog": 600,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 17:00",
+        "dtl_text": "11:00 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 253,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJqbKbmRfnAGARPIl28eo62SU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27011492-36e1c2a6377fd4beda63c5bd78b1b816c9ca608675fc38d1dfc406bbe60e3b09.jpg",
+    "place_id": "ChIJqbKbmRfnAGARPIl28eo62SU",
+    "g_name": "カレーハウス辛激屋",
+    "g_rating": 4.3,
+    "g_reviews": 253,
+    "g_address": "日本、〒542-0081 大阪府大阪市中央区南船場２丁目５−２１",
+    "lat": 34.6758954,
+    "lng": 135.5044495
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "カマル",
+    "name_en": "kamal",
+    "area": "京都府 烏丸御池駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260202/26019639/",
+    "rating": 3.68,
+    "review_count_tabelog": 805,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 15:00 L.O. 14:30 17:00 - 22:00 L.O. 21:30",
+        "dtl_text": "17:00 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 22:00 L.O. 21:30",
+        "dtl_text": "11:30 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 456,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJxYepgoQIAWARPxmrDOSRZX0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/26019639-a8a3da2eba5b69a1f7f8862792ed79b08e00ffa7810359dff345a5558f1c0ebe.jpg",
+    "place_id": "ChIJxYepgoQIAWARPxmrDOSRZX0",
+    "g_name": "カマル",
+    "g_rating": 4.1,
+    "g_reviews": 456,
+    "g_address": "日本、〒604-8131 京都府京都市中京区菱屋町３２−１ 三条東洞院東入ル",
+    "lat": 35.0085321,
+    "lng": 135.7612247
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "スパイスカリー バビルの塔",
+    "name_en": "Spice Curry Babiru no To",
+    "area": "大阪府 谷町四丁目駅",
+    "url": "https://tabelog.com/osaka/A2701/A270104/27064588/",
+    "rating": 3.7,
+    "review_count_tabelog": 635,
+    "price_dinner": "～￥999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Indian curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 15:00",
+        "dtl_text": "11:30 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.9,
+    "google_reviews": 291,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJhag-OiTnAGARuk_aJKjQIX4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27064588-25e13f8bc9897ec97d9a9c5f2028d9500c93f2d3d9983031d1375be656073768.jpg",
+    "place_id": "ChIJhag-OiTnAGARuk_aJKjQIX4",
+    "g_name": "バビルの塔",
+    "g_rating": 3.9,
+    "g_reviews": 291,
+    "g_address": "日本、〒540-0025 大阪府大阪市中央区徳井町２丁目４−５ エクセル内本町ハイツ １F",
+    "lat": 34.6842112,
+    "lng": 135.5127307
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "スパイスカレー43",
+    "name_en": "Spice curry 43",
+    "area": "大阪府 阿波座駅",
+    "url": "https://tabelog.com/osaka/A2701/A270106/27090129/",
+    "rating": 3.63,
+    "review_count_tabelog": 256,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri",
+        "dtl": "11:30 - 14:30 L.O. Food 14:15",
+        "dtl_text": "11:30 - 14:30 L.O. Food 14:15",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 15:00 L.O. Food 14:30",
+        "dtl_text": "11:30 - 15:00 L.O. Food 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 136,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__97sP7mAGAR0dZhI8Drbtc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27090129-2df34d9a872fedd4dcfff3e615794aa18c7fbdac726d3b1b40f19eb9b2dd4ba3.jpg",
+    "place_id": "ChIJ__97sP7mAGAR0dZhI8Drbtc",
+    "g_name": "スパイスカレー43",
+    "g_rating": 4.2,
+    "g_reviews": 136,
+    "g_address": "日本、〒550-0004 大阪府大阪市西区靱本町２丁目５−２",
+    "lat": 34.6836694,
+    "lng": 135.4915439
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "curry restaurant BRUNO HEP NAVIO店",
+    "name_en": "curry restaurant BRUNO Hep Navio Ten",
+    "area": "大阪府 梅田駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27001963/",
+    "rating": 3.67,
+    "review_count_tabelog": 1157,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 22:30 L.O. 21:00",
+        "dtl_text": "11:00 - 22:30 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Reservations may not be available on Saturdays, Sundays, public holidays, year-end & New Year holidays, and during busy periods."
+    },
+    "google_rating": 4,
+    "google_reviews": 325,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJCZ4PDJPmAGAR7ae2SMyutio",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27001963-d954353f52abab7d7d0e1bc01b1d599b6e5d6087463070cd31d597474b7aef6a.jpg",
+    "place_id": "ChIJCZ4PDJPmAGAR7ae2SMyutio",
+    "g_name": "ブルーノ HEPナビオ店",
+    "g_rating": 4,
+    "g_reviews": 325,
+    "g_address": "日本、〒530-0017 大阪府大阪市北区角田町７−１０ HEP ナビオ 7F",
+    "lat": 34.7030842,
+    "lng": 135.4999131
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "バンブルビー",
+    "name_en": "Bumble Bee",
+    "area": "大阪府 本町駅",
+    "url": "https://tabelog.com/osaka/A2701/A270106/27007862/",
+    "rating": 3.69,
+    "review_count_tabelog": 736,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 16:00",
+        "dtl_text": "11:00 - 16:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.9,
+    "google_reviews": 224,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJS-FBrv3mAGARBKPB59WH2Cg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27007862-d8ddf572bdef67a168d385be1bad157d2d67b188f5936d12d12655597812faf8.jpg",
+    "place_id": "ChIJS-FBrv3mAGARBKPB59WH2Cg",
+    "g_name": "バンブルビー",
+    "g_rating": 3.9,
+    "g_reviews": 224,
+    "g_address": "日本、〒550-0005 大阪府大阪市西区西本町１丁目１４−２ 住吉ビル 1階",
+    "lat": 34.682763,
+    "lng": 135.494069
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "旧ヤム鐵道",
+    "name_en": "Kyu Yamu Tetsudo",
+    "area": "大阪府 大阪駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27084538/",
+    "rating": 3.72,
+    "review_count_tabelog": 2734,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 21:30 L.O. 21:00",
+        "dtl_text": "11:00 - 21:30 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (following the schedule of LUCUA Osaka)"
+    },
+    "google_rating": 4,
+    "google_reviews": 759,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJjWZqxo3mAGARlVCLqnuB-nQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27084538-608604695c51cbcb642c3bf43a04169dc06ac7ae8cd9be26bbc4461b93c9f641.jpg",
+    "place_id": "ChIJjWZqxo3mAGARlVCLqnuB-nQ",
+    "g_name": "旧ヤム鐡道",
+    "g_rating": 4,
+    "g_reviews": 759,
+    "g_address": "日本、〒530-0001 大阪府大阪市北区梅田３丁目１−３ バルチカ B2F",
+    "lat": 34.7033399,
+    "lng": 135.4962687
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "ヤドカリー 天満橋本店",
+    "name_en": "Yado Curry Tenmabashi Honten",
+    "area": "大阪府 天満橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270104/27072330/",
+    "rating": 3.64,
+    "review_count_tabelog": 382,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:40 - 15:00",
+        "dtl_text": "11:40 - 15:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 185,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQQF0wCjnAGARG219tVRNbC0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27072330-1bdda5f60a1bcae958bd0d7c87f54a7c7dc77b36cec2ed7bf84a3459f66cfe35.jpg",
+    "place_id": "ChIJQQF0wCjnAGARG219tVRNbC0",
+    "g_name": "本格スパイスカレー ヤドカリー NO1天満橋本店",
+    "g_rating": 4.1,
+    "g_reviews": 185,
+    "g_address": "日本、〒540-0012 大阪府大阪市中央区谷町１丁目５−１１ キャッスルリバー 地下1階",
+    "lat": 34.6880055,
+    "lng": 135.5169649
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "ボタ",
+    "name_en": "Buttah",
+    "area": "大阪府 長堀橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270201/27000588/",
+    "rating": 3.65,
+    "review_count_tabelog": 327,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Cafe, Dining bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 15:30 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "12:00 - 15:30",
+        "dtl_text": "12:00 - 15:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon, Tue, Thu - Sun": {}
+      },
+      "closed_on": "Wednesdays"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 176,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDXbdWhbnAGARqRPwdRtmVZ4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27000588-e7b4cef0c764c1e23cb657e21574d0020b1c67e87953441029b22f0e17a9ff11.jpg",
+    "place_id": "ChIJDXbdWhbnAGARqRPwdRtmVZ4",
+    "g_name": "カフェ＆カレー ボタ",
+    "g_rating": 4.5,
+    "g_reviews": 176,
+    "g_address": "日本、〒542-0083 大阪府大阪市中央区東心斎橋１丁目８−２０",
+    "lat": 34.6739053,
+    "lng": 135.5044719
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "ハイダル",
+    "name_en": "HYDER",
+    "area": "福岡県 桜坂駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400104/40025012/",
+    "rating": 3.62,
+    "review_count_tabelog": 231,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Soup Curry, South Asian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.6,
+    "google_reviews": 298,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJT4pkS9WTQTURAk6ECrIFpgU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/40025012-e31c8386ef6b76508bf10543a8db38fb2f7a30f775b63fc1d96cba525b382081.jpg",
+    "place_id": "ChIJT4pkS9WTQTURAk6ECrIFpgU",
+    "g_name": "ハイダル",
+    "g_rating": 4.6,
+    "g_reviews": 298,
+    "g_address": "日本、〒810-0023 福岡県福岡市中央区警固２丁目９−１０ コーポ山崎 1F",
+    "lat": 33.582598,
+    "lng": 130.3893138
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "あいまい",
+    "name_en": "Aimai",
+    "area": "大阪府 大阪天満宮駅",
+    "url": "https://tabelog.com/osaka/A2701/A270103/27082162/",
+    "rating": 3.63,
+    "review_count_tabelog": 289,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Fri",
+        "dtl": "11:00 - 13:30",
+        "dtl_text": "11:00 - 13:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "11:00 - 13:30 18:00 - 19:00",
+        "dtl_text": "18:00 - 19:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Thu, Sat, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesday, Thursday, Saturday, Sunday, and public holidays"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 130,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5QVVndvmAGAR65qSQizILLA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27082162-0a34809d4c754f7add70d837b4a56d7d2ac6103b8305cd7055be963867d74421.jpg",
+    "place_id": "ChIJ5QVVndvmAGAR65qSQizILLA",
+    "g_name": "あいまい カレー",
+    "g_rating": 4.3,
+    "g_reviews": 130,
+    "g_address": "日本、〒530-0041 大阪府大阪市北区天神橋２丁目２−２８ 永井ビル 2階",
+    "lat": 34.69556499999999,
+    "lng": 135.5116646
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "渡邊カリー 心斎橋店",
+    "name_en": "Watanabe Curry Shinsaibashi Ten",
+    "area": "大阪府 心斎橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270201/27104341/",
+    "rating": 3.64,
+    "review_count_tabelog": 478,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 14:30 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Public Holiday",
+        "dtl": "11:30 - 16:00",
+        "dtl_text": "11:30 - 16:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.9,
+    "google_reviews": 305,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJA0zwqSznAGAREoAyqL4bUIU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27104341-8835eb0ca0a625c2d3bb3c2e5c1a1a843e27f0bdd657cdee37f721bd64fb19f0.jpg",
+    "place_id": "ChIJA0zwqSznAGAREoAyqL4bUIU",
+    "g_name": "渡邊咖喱 心斎橋店",
+    "g_rating": 3.9,
+    "g_reviews": 305,
+    "g_address": "日本、〒542-0081 大阪府大阪市中央区南船場３丁目８−１１ 元村ビル 202 心斎橋",
+    "lat": 34.67763240000001,
+    "lng": 135.5015137
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "アングル",
+    "name_en": "Angle",
+    "area": "兵庫県 塚口（阪急）駅",
+    "url": "https://tabelog.com/hyogo/A2803/A280304/28000142/",
+    "rating": 3.69,
+    "review_count_tabelog": 1328,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 23:00",
+        "dtl_text": "11:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "11:00 - 22:00",
+        "dtl_text": "11:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 898,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJeVDqByrwAGARw5eFs17NEzg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/28000142-4be1d8cdbd972dbd88542f34f9ef6af21b921cd006b1d88e61c589822e3ecaf9.jpg",
+    "place_id": "ChIJeVDqByrwAGARw5eFs17NEzg",
+    "g_name": "シチュー&カレー アングル",
+    "g_rating": 4.2,
+    "g_reviews": 898,
+    "g_address": "日本、〒661-0012 兵庫県尼崎市南塚口町２丁目１",
+    "lat": 34.7516593,
+    "lng": 135.4162949
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "スパイスカリーて",
+    "name_en": "Spice Curry Te",
+    "area": "大阪府 心斎橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270201/27094910/",
+    "rating": 3.66,
+    "review_count_tabelog": 456,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:30 18:30 - 21:00",
+        "dtl_text": "18:30 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (please check our social media for updates)"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 100,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGVcumjrnAGAR9ET_LQyeqXs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27094910-27be7a0b8fdbed8107c28fc3feebb17a0e241fdc6b189df5c605e12186ec1f2f.jpg",
+    "place_id": "ChIJGVcumjrnAGAR9ET_LQyeqXs",
+    "g_name": "スパイスカリーて",
+    "g_rating": 4.6,
+    "g_reviews": 100,
+    "g_address": "日本、〒542-0081 大阪府大阪市中央区南船場３丁目１−１６ 日宝ラッキービル ２階",
+    "lat": 34.6779215,
+    "lng": 135.5024982
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "スパイスチャンバー",
+    "name_en": "SPICE CHAMBER",
+    "area": "京都府 四条（京都市営）駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260201/26015938/",
+    "rating": 3.7,
+    "review_count_tabelog": 882,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Indian curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 15:00 18:00 - 21:00 L.O. 20:45",
+        "dtl_text": "18:00 - 21:00 L.O. 20:45",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Public Holiday",
+        "dtl": "11:30 - 15:00",
+        "dtl_text": "11:30 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Temporary closures may occur (please refer to the business calendar on our website)."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 753,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJG2pw55sIAWAR8Mludq26HyU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/26015938-e7ee62b5717e27f3c10e05c95b921f206048db92dc6fb5bf770fccf38b83452e.jpg",
+    "place_id": "ChIJG2pw55sIAWAR8Mludq26HyU",
+    "g_name": "スパイスチャンバー",
+    "g_rating": 4.5,
+    "g_reviews": 753,
+    "g_address": "日本、〒600-8422 京都府京都市下京区室町通綾小路下る白楽天町５０２",
+    "lat": 35.0023346,
+    "lng": 135.7580549
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "アイリッシュ カレー 中津店",
+    "name_en": "IRISH CURRY Nakatsu Ten",
+    "area": "大阪府 中津（大阪メトロ）駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27017872/",
+    "rating": 3.67,
+    "review_count_tabelog": 565,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Pub, European",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri",
+        "dtl": "11:30 - 14:30 17:30 - 21:00",
+        "dtl_text": "17:30 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Sat",
+        "dtl": "11:30 - 14:30",
+        "dtl_text": "11:30 - 14:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 305,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJaQWni5rmAGARol7nx1womew",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27017872-d6adc0a247519767c5ec27d65ceeab697b61ecb59f3d9167c59002995aea88a0.jpg",
+    "place_id": "ChIJaQWni5rmAGARol7nx1womew",
+    "g_name": "アイリッシュカレー",
+    "g_rating": 4.3,
+    "g_reviews": 305,
+    "g_address": "日本、〒531-0072 大阪府大阪市北区豊崎３丁目６−１１",
+    "lat": 34.7108682,
+    "lng": 135.4991309
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "コロンビアエイト 堺筋本町店",
+    "name_en": "Columbia8  Sakaisuji Honmachi Ten",
+    "area": "大阪府 堺筋本町駅",
+    "url": "https://tabelog.com/osaka/A2701/A270106/27050088/",
+    "rating": 3.7,
+    "review_count_tabelog": 840,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Indian curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Sat",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Thu, Fri",
+        "dtl": "11:00 - 15:00 17:30 - 22:00 L.O. Food 21:30",
+        "dtl_text": "17:30 - 22:00 L.O. Food 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 405,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJF9MdlCLnAGARlJabnT2S-Bo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27050088-0e29c3a8b2b479987cf69aa2d4a924b115a28771c25e4ec73f406ec805fecbe6.jpg",
+    "place_id": "ChIJF9MdlCLnAGARlJabnT2S-Bo",
+    "g_name": "Columbia8 堺筋本町店",
+    "g_rating": 4.3,
+    "g_reviews": 405,
+    "g_address": "日本、〒541-0058 大阪府大阪市中央区南久宝寺町１丁目９−２",
+    "lat": 34.679395,
+    "lng": 135.507232
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "アフターグロウ",
+    "name_en": "Afterglow",
+    "area": "福岡県 六本松駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400105/40039440/",
+    "rating": 3.61,
+    "review_count_tabelog": 347,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Sat, Sun",
+        "dtl": "11:30 - 14:30 L.O. Food 14:00",
+        "dtl_text": "11:30 - 14:30 L.O. Food 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu, Fri",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 362,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJOe7wFcmTQTUR7hYNNEoV27E",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/40039440-c27556540994e6627ffc37523a28db6bca23b11c00db7dd847a703f03bcce719.jpg",
+    "place_id": "ChIJOe7wFcmTQTUR7hYNNEoV27E",
+    "g_name": "アフターグロウ",
+    "g_rating": 4.3,
+    "g_reviews": 362,
+    "g_address": "日本、〒810-0045 福岡県福岡市中央区草香江１丁目８−２５",
+    "lat": 33.5826253,
+    "lng": 130.3738391
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "はぐ寧",
+    "name_en": "Hagu Ne",
+    "area": "大阪府 天神橋筋六丁目駅",
+    "url": "https://tabelog.com/osaka/A2701/A270103/27113334/",
+    "rating": 3.65,
+    "review_count_tabelog": 193,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Cafeteria, Tempura",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "12:00 - 14:30 L.O. 14:00",
+        "dtl_text": "12:00 - 14:30 L.O. 14:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Public Holiday",
+        "dtl": "12:00 - 15:30 L.O. 15:00",
+        "dtl_text": "12:00 - 15:30 L.O. 15:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Guerrilla Opening Days": {}
+      },
+      "closed_on": "Please check X or Instagram for our operating days."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 86,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJD8bc1onnAGARf9s5Ughhbvg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27113334-43848fcfc345a132a915d30170c601e957cdad256d403ada7b735f52c91ed245.jpg",
+    "place_id": "ChIJD8bc1onnAGARf9s5Ughhbvg",
+    "g_name": "はぐ寧",
+    "g_rating": 4.3,
+    "g_reviews": 86,
+    "g_address": "日本、〒530-0021 大阪府大阪市北区浮田１丁目２−１６",
+    "lat": 34.7091455,
+    "lng": 135.509403
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "curry bar nidomi",
+    "name_en": "curry bar nidomi",
+    "area": "大阪府 谷町四丁目駅",
+    "url": "https://tabelog.com/osaka/A2701/A270104/27062194/",
+    "rating": 3.81,
+    "review_count_tabelog": 861,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Dining bar, Sri Lankan",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 15:00 L.O. 14:30 18:00 - 21:00 L.O. 20:30",
+        "dtl_text": "18:00 - 21:00 L.O. 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 543,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJd-wxYCTnAGAR2qjA2IGNHdY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27062194-04c1d3b3151d99adb5abf3e24cfaf9e7449fdcc0c5395e758ea46899094e622b.jpg",
+    "place_id": "ChIJd-wxYCTnAGAR2qjA2IGNHdY",
+    "g_name": "curry bar nidomi",
+    "g_rating": 4.3,
+    "g_reviews": 543,
+    "g_address": "日本、〒540-0028 大阪府大阪市中央区常盤町２丁目４−９ エクセル第六ビル 2F",
+    "lat": 34.6824814,
+    "lng": 135.5121423
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "SAVOY",
+    "name_en": "SAVOY",
+    "area": "兵庫県 神戸三宮（阪急）駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280101/28000095/",
+    "rating": 3.72,
+    "review_count_tabelog": 1610,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "10:30 - 15:30",
+        "dtl_text": "10:30 - 15:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "10:30 - 19:00",
+        "dtl_text": "10:30 - 19:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 605,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJlXCWRfuOAGARtoXYx5IDqQU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/28000095-9e15717a5db500b9b655213c9772c35bbaf1411985bd993020a303da8ef0223b.jpg",
+    "place_id": "ChIJlXCWRfuOAGARtoXYx5IDqQU",
+    "g_name": "サヴォイ",
+    "g_rating": 4.1,
+    "g_reviews": 605,
+    "g_address": "日本、〒650-0021 兵庫県神戸市中央区三宮町１丁目９ センタープラザ東館 B１F",
+    "lat": 34.691911,
+    "lng": 135.1927693
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "はらいそ スパークル",
+    "name_en": "Haraiso Sparkle",
+    "area": "大阪府 肥後橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270102/27100346/",
+    "rating": 3.64,
+    "review_count_tabelog": 341,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Izakaya (Japanese style tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed",
+        "dtl": "11:00 - 15:00 L.O. 14:30 18:00 - 23:00 L.O. 22:00",
+        "dtl_text": "18:00 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu, Fri",
+        "dtl": "11:00 - 15:00 L.O. 14:30 18:00 - 23:30 L.O. 23:00",
+        "dtl_text": "18:00 - 23:30 L.O. 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Public Holiday",
+        "dtl": "11:00 - 15:00 L.O. 14:30",
+        "dtl_text": "11:00 - 15:00 L.O. 14:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 181,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJhZGG3vrmAGARd6iDJBxENQE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27100346-96f59ec0852bd7d70163b029b13e581517026da2c912264b8ba7a5d687b9f745.jpg",
+    "place_id": "ChIJhZGG3vrmAGARd6iDJBxENQE",
+    "g_name": "スパイス居酒屋 はらいそSparkle",
+    "g_rating": 4.3,
+    "g_reviews": 181,
+    "g_address": "日本、〒550-0002 大阪府大阪市西区江戸堀１丁目９−１３",
+    "lat": 34.6886613,
+    "lng": 135.4958997
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "ラヴィリンス",
+    "name_en": "Labyrinth",
+    "area": "大阪府 西大橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270201/27051602/",
+    "rating": 3.7,
+    "review_count_tabelog": 718,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Asian, Ethnic",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri",
+        "dtl": "11:30 - 14:00 18:00 - 20:00",
+        "dtl_text": "18:00 - 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "18:00 - 20:00",
+        "dtl_text": "18:00 - 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon, Thu, Fri": {},
+        "Mon, Thu - Sun": {}
+      },
+      "closed_on": "Not fixed (Please contact us by phone for inquiries)"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 244,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJt2m_oQTnAGARsAVEghX3514",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27051602-26c02c761597438ece500d4400ac4a05cb5aa3f1b7c63418847ac4ce9541b7e0.jpg",
+    "place_id": "ChIJt2m_oQTnAGARsAVEghX3514",
+    "g_name": "カレー&スパイス創作料理 ラヴィリンス",
+    "g_rating": 4.1,
+    "g_reviews": 244,
+    "g_address": "日本、〒550-0013 大阪府大阪市西区新町１丁目２０−１",
+    "lat": 34.6770508,
+    "lng": 135.4958741
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "カレーや マドラス",
+    "name_en": "Curry Ya Madras",
+    "area": "大阪府 恵美須町駅",
+    "url": "https://tabelog.com/osaka/A2701/A270206/27001518/",
+    "rating": 3.66,
+    "review_count_tabelog": 841,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu",
+        "dtl": "11:00 - 19:00",
+        "dtl_text": "11:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Fri, Sat, Sun",
+        "dtl": "11:00 - 20:00",
+        "dtl_text": "11:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 1420,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKxKdU13nAGARP9aHoSgZeZU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27001518-492e6803080707c357d684d1e2e751d360687efee5e2e7064359454915901181.jpg",
+    "place_id": "ChIJKxKdU13nAGARP9aHoSgZeZU",
+    "g_name": "カレーや マドラス 日本橋本店",
+    "g_rating": 4.4,
+    "g_reviews": 1420,
+    "g_address": "日本、〒556-0005 大阪府大阪市浪速区日本橋４丁目３−１２",
+    "lat": 34.6598519,
+    "lng": 135.5066483
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "ヴァスコ・ダ・ガマ 本店",
+    "name_en": "Vasco Da Gama Hon Ten",
+    "area": "大阪府 高槻駅",
+    "url": "https://tabelog.com/osaka/A2706/A270604/27059288/",
+    "rating": 3.66,
+    "review_count_tabelog": 765,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 14:30 17:30 - 21:00",
+        "dtl_text": "17:30 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:30 - 14:30",
+        "dtl_text": "11:30 - 14:30"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 505,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3RbvbbcCAWARcl0E7luyBA4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27059288-11d20aa73d3a11f816a923c377b61182c11543cf063938a9a83b3d792f9c4429.jpg",
+    "place_id": "ChIJ3RbvbbcCAWARcl0E7luyBA4",
+    "g_name": "ヴァスコ・ダ・ガマ 本店",
+    "g_rating": 4.2,
+    "g_reviews": 505,
+    "g_address": "日本、〒569-1123 大阪府高槻市芥川町１丁目２",
+    "lat": 34.85228,
+    "lng": 135.6157905
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "Ghar",
+    "name_en": "Ghar",
+    "area": "大阪府 肥後橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270102/27066220/",
+    "rating": 4.02,
+    "review_count_tabelog": 1273,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Curry, Indian, Indian curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 17:00",
+        "dtl_text": "11:30 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (please check Twitter for updates)"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 542,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJU0FtFPvmAGARlwrbXH7FfUw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27066220-17d57a34e2603776c28b22b205f5d2737c77b4270c74cf47b2723ca22eac9b79.jpg",
+    "place_id": "ChIJU0FtFPvmAGARlwrbXH7FfUw",
+    "g_name": "CURRY家 Ghar",
+    "g_rating": 4.4,
+    "g_reviews": 542,
+    "g_address": "日本、〒550-0003 大阪府大阪市西区京町堀１丁目９−１０",
+    "lat": 34.6872658,
+    "lng": 135.4954047
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "唯我独尊",
+    "name_en": "Yuiga Dokuson",
+    "area": "大阪府 岸和田駅",
+    "url": "https://tabelog.com/osaka/A2705/A270502/27043570/",
+    "rating": 3.65,
+    "review_count_tabelog": 604,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 21:00",
+        "dtl_text": "11:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 475,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJOah9-uLFAGARPmTHRM79nm4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27043570-6cd01c17b9160fff7497ffe255ad42736a068c8d302ad4796367f9e9c0428bd7.jpg",
+    "place_id": "ChIJOah9-uLFAGARPmTHRM79nm4",
+    "g_name": "唯我独尊 岸和田店",
+    "g_rating": 4.3,
+    "g_reviews": 475,
+    "g_address": "日本、〒596-0054 大阪府岸和田市宮本町４１−１ ツキシロビル",
+    "lat": 34.4593755,
+    "lng": 135.3763334
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "ボタニカリー",
+    "name_en": "BOTANI:CURRY",
+    "area": "大阪府 本町駅",
+    "url": "https://tabelog.com/osaka/A2701/A270102/27073555/",
+    "rating": 3.9,
+    "review_count_tabelog": 1381,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Curry, Indian curry",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed; currently open 1 to 2 days a week. Please check our Twitter and Instagram for updates on business and closure days."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 605,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6ynEDOPmAGARgbczU4CIyqo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27073555-eb7880cadface6f8b4e00d187555381b4901ebd6a8fc634d1052addaad987c0c.jpg",
+    "place_id": "ChIJ6ynEDOPmAGARgbczU4CIyqo",
+    "g_name": "ボタニカリー(カレー専門店)",
+    "g_rating": 4.3,
+    "g_reviews": 605,
+    "g_address": "日本、〒541-0048 大阪府大阪市中央区瓦町４丁目５−３ NIPPO 西本町ビル 日宝西本町ビル1F",
+    "lat": 34.6863791,
+    "lng": 135.4989462
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "さぼてん食堂",
+    "name_en": "Saboten Shokudo",
+    "area": "大阪府 肥後橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270102/27080580/",
+    "rating": 3.7,
+    "review_count_tabelog": 953,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 15:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 441,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJI_39efrmAGAR64qOxf5Eb80",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27080580-a2b237b12b4623bbd4d7fae6818de1164764a3a70beac98a0e8e1d0aaa2a5997.jpg",
+    "place_id": "ChIJI_39efrmAGAR64qOxf5Eb80",
+    "g_name": "さぼてん食堂",
+    "g_rating": 4.1,
+    "g_reviews": 441,
+    "g_address": "日本、〒550-0002 大阪府大阪市西区江戸堀１丁目２３−１２ Boo 高木ビル 1F",
+    "lat": 34.6894553,
+    "lng": 135.4940059
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "アンナプルナ",
+    "name_en": "ANNAPURNA",
+    "area": "大阪府 大阪天満宮駅",
+    "url": "https://tabelog.com/osaka/A2701/A270103/27042046/",
+    "rating": 3.63,
+    "review_count_tabelog": 249,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Indian curry, Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 102,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJN_6I78TmAGARjKK-S_wy6Do",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27042046-66fad8653057336a34b0ef0a977553f4426614f4c2419874c2caaa3d502ec431.jpg",
+    "place_id": "ChIJN_6I78TmAGARjKK-S_wy6Do",
+    "g_name": "アンナプルナ",
+    "g_rating": 4.2,
+    "g_reviews": 102,
+    "g_address": "日本、〒530-0036 大阪府大阪市北区与力町２−１０",
+    "lat": 34.6999413,
+    "lng": 135.5127673
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "カレーダイヤ",
+    "name_en": "Curry Daiya",
+    "area": "大阪府 千林大宮駅",
+    "url": "https://tabelog.com/osaka/A2701/A270304/27014328/",
+    "rating": 3.61,
+    "review_count_tabelog": 400,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Steak, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00",
+        "dtl_text": "11:30 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every 2nd and 4th Tuesday"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 270,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJxxa4O2XhAGARTGJPxjJ8yQE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27014328-c4e67bfa080d5d6470b77c63e039e48a3790c7fb2672285c08e989d3e116b566.jpg",
+    "place_id": "ChIJxxa4O2XhAGARTGJPxjJ8yQE",
+    "g_name": "カレーダイヤ",
+    "g_rating": 4.3,
+    "g_reviews": 270,
+    "g_address": "日本、〒535-0002 大阪府大阪市旭区大宮２丁目２７−１７",
+    "lat": 34.72381440000001,
+    "lng": 135.5489061
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "カレー コンドル",
+    "name_en": "curry condor",
+    "area": "大阪府 西大橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270201/27059870/",
+    "rating": 3.62,
+    "review_count_tabelog": 445,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 16:00 L.O. Food 15:30 18:00 - 22:00 L.O. Food 21:30",
+        "dtl_text": "18:00 - 22:00 L.O. Food 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:30 - 20:00 L.O. Food 19:30",
+        "dtl_text": "11:30 - 20:00 L.O. Food 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.7,
+    "google_reviews": 174,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGwq7qAXnAGARuzTPD175Idc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27059870-f6982ec57f59f50b9f0c641687c8502446028230054fdf357dcd248e756e485d.jpg",
+    "place_id": "ChIJGwq7qAXnAGARuzTPD175Idc",
+    "g_name": "カレーコンドル(Curry Condor)",
+    "g_rating": 3.7,
+    "g_reviews": 174,
+    "g_address": "日本、〒550-0014 大阪府大阪市西区北堀江１丁目１６−１６",
+    "lat": 34.673826,
+    "lng": 135.4942503
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "スパイスカリー ハルモニア",
+    "name_en": "Spice Curry Harmonia",
+    "area": "大阪府 天満駅",
+    "url": "https://tabelog.com/osaka/A2701/A270103/27103594/",
+    "rating": 3.67,
+    "review_count_tabelog": 284,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Indian curry",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed. Please check our Twitter for confirmation: @curryharmonia"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 262,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__8L6cbmAGAR5dt4TFg3dsA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27103594-788153111d31dc484abb9e0ea3f2f571382d33fc69716162281c519757355d66.jpg",
+    "place_id": "ChIJ__8L6cbmAGAR5dt4TFg3dsA",
+    "g_name": "スパイスカリー ハルモニア",
+    "g_rating": 4.4,
+    "g_reviews": 262,
+    "g_address": "日本、〒530-0041 大阪府大阪市北区天神橋４丁目２−７ 天満松栄会館 106",
+    "lat": 34.70414480000001,
+    "lng": 135.51232
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "シナジー",
+    "name_en": "Synergy",
+    "area": "大阪府 北新地駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27074379/",
+    "rating": 3.71,
+    "review_count_tabelog": 843,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 14:00",
+        "dtl_text": "11:30 - 14:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 228,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9S8ICvLmAGARhzjhvxWfwg8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27074379-747e148686698a44d137f0b50ef462be434150ec70d434fe690a0208a757fe63.jpg",
+    "place_id": "ChIJ9S8ICvLmAGARhzjhvxWfwg8",
+    "g_name": "Spices Curry Synergy シナジー",
+    "g_rating": 4.3,
+    "g_reviews": 228,
+    "g_address": "日本、〒530-0003 大阪府大阪市北区堂島１丁目５−３５ 堂島レジャービル 2F",
+    "lat": 34.6963504,
+    "lng": 135.4968863
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "梨花食堂 天満本店",
+    "name_en": "Rika Shokudo Tenma Honten",
+    "area": "大阪府 天満駅",
+    "url": "https://tabelog.com/osaka/A2701/A270103/27004781/",
+    "rating": 3.67,
+    "review_count_tabelog": 493,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:30 - 15:00",
+        "dtl_text": "10:30 - 15:00"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJyWA0fsfmAGARDAbnrGdXwBM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27004781-71ee28f032169ea4dff548872068425686f5a074a3dd8b401688a318c1f17bcf.jpg",
+    "place_id": "ChIJyWA0fsfmAGARDAbnrGdXwBM",
+    "g_name": "梨花食堂",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "日本、〒530-0033 大阪府大阪市北区池田町８−１１ 天満パールビル",
+    "lat": 34.707448,
+    "lng": 135.5132446
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "ナミニノカレー",
+    "name_en": "Naminino Curry",
+    "area": "大阪府 天神橋筋六丁目駅",
+    "url": "https://tabelog.com/osaka/A2701/A270103/27096795/",
+    "rating": 3.68,
+    "review_count_tabelog": 436,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:11 - 15:15",
+        "dtl_text": "11:11 - 15:15",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays and Tuesdays (open on public holidays)"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 196,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVUBCrzmAGARojnkm6N5ny8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27096795-dff44df1212af4624e6df757a30dea03cfd1c8360ce5acce891e959baaf2c022.jpg",
+    "place_id": "ChIJVVUBCrzmAGARojnkm6N5ny8",
+    "g_name": "ナミニノカレー",
+    "g_rating": 4.1,
+    "g_reviews": 196,
+    "g_address": "日本、〒530-0041 大阪府大阪市北区天神橋７丁目３−８ 天六センタービル 3F",
+    "lat": 34.7117998,
+    "lng": 135.5110326
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "アアベルカレー",
+    "name_en": "Aabel Curry",
+    "area": "大阪府 九条（大阪メトロ）駅",
+    "url": "https://tabelog.com/osaka/A2701/A270401/27091414/",
+    "rating": 3.66,
+    "review_count_tabelog": 451,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Indian curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "12:00 - 15:00 L.O. 14:30",
+        "dtl_text": "12:00 - 15:00 L.O. 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sat, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 264,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-9nBikvmAGARXgCzVoa2nxU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27091414-5598078734a985603579509fc619e55c4c95d3798c92f839684ed16b0a4a0cd6.jpg",
+    "place_id": "ChIJ-9nBikvmAGARXgCzVoa2nxU",
+    "g_name": "アアベルカレー",
+    "g_rating": 4.3,
+    "g_reviews": 264,
+    "g_address": "日本、〒550-0027 大阪府大阪市西区九条１丁目２５−９",
+    "lat": 34.6745981,
+    "lng": 135.4732302
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "あきらカレー",
+    "name_en": "Akira Curry",
+    "area": "大阪府 肥後橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270102/27109182/",
+    "rating": 3.68,
+    "review_count_tabelog": 375,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Izakaya (Japanese style tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu",
+        "dtl": "11:30 - 14:00",
+        "dtl_text": "11:30 - 14:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Fri",
+        "dtl": "18:00 - 00:00",
+        "dtl_text": "18:00 - 00:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:30 - 14:00 18:00 - 00:00",
+        "dtl_text": "18:00 - 00:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 139,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJS5wH_-LnAGARdTeqvMSBay0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27109182-08d05dd4398a903bdb1f1ebed0c69c7259efdbd06d233c3b72e29833b4db78dd.jpg",
+    "place_id": "ChIJS5wH_-LnAGARdTeqvMSBay0",
+    "g_name": "あきらカレー",
+    "g_rating": 4.3,
+    "g_reviews": 139,
+    "g_address": "日本、〒550-0003 大阪府大阪市西区京町堀１丁目１２−６",
+    "lat": 34.6872122,
+    "lng": 135.4953093
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "カンテグランデカレー サン広場店",
+    "name_en": "Cantegrande Curry San Hiroba Ten",
+    "area": "大阪府 梅田駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27091267/",
+    "rating": 3.72,
+    "review_count_tabelog": 1486,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 22:00 L.O. 21:30",
+        "dtl_text": "11:00 - 22:00 L.O. 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.9,
+    "google_reviews": 625,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAA95LmAGARsj7njBq0Zqo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27091267-f8d2f54c262fab09cf1f4f0ea5eab089da114a36d4eb518073c8095e4ad3f7d4.jpg",
+    "place_id": "ChIJAQAA95LmAGARsj7njBq0Zqo",
+    "g_name": "カンテグランデカレー サン広場店",
+    "g_rating": 3.9,
+    "g_reviews": 625,
+    "g_address": "日本、〒530-0017 大阪府大阪市北区角田町８−４７ B1 阪急サン広場",
+    "lat": 34.7035582,
+    "lng": 135.4990608
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "らくしゅみ",
+    "name_en": "Lakshmi",
+    "area": "大阪府 西大橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270201/27004574/",
+    "rating": 3.64,
+    "review_count_tabelog": 381,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Indian, Nepalese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 15:00 L.O. Food 14:30",
+        "dtl_text": "11:30 - 15:00 L.O. Food 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Occasional temporary closures"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 129,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJD5lNmQTnAGARaLOCmZvsSSY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27004574-b6933f91e3fe528ecff32ec9691c95005ad72ec58f7d8b4fb0466d39a2fcc9b5.jpg",
+    "place_id": "ChIJD5lNmQTnAGARaLOCmZvsSSY",
+    "g_name": "らくしゅみ",
+    "g_rating": 4.2,
+    "g_reviews": 129,
+    "g_address": "日本、〒550-0013 大阪府大阪市西区新町１丁目２０−１７",
+    "lat": 34.6770415,
+    "lng": 135.4957073
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "BOTANI：CURRY 梅田店",
+    "name_en": "BOTANI: Curry Umeda Ten",
+    "area": "大阪府 大阪梅田（阪神）駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27125687/",
+    "rating": 3.81,
+    "review_count_tabelog": 1449,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:30",
+        "dtl_text": "11:00 - 15:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 453,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJoXu2_rHnAGARyIDST5Xc1KQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27125687-ff395fe204ab23017d4841912097d4977764374c2129b66d49f0331f13162e6b.jpg",
+    "place_id": "ChIJoXu2_rHnAGARyIDST5Xc1KQ",
+    "g_name": "ボタニカリー梅田店",
+    "g_rating": 4.2,
+    "g_reviews": 453,
+    "g_address": "日本、〒530-0001 大阪府大阪市北区梅田１丁目１３−１３ ９階",
+    "lat": 34.7012247,
+    "lng": 135.4983775
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "谷口カレー",
+    "name_en": "Taniguchi Curry",
+    "area": "大阪府 北浜駅",
+    "url": "https://tabelog.com/osaka/A2701/A270102/27088233/",
+    "rating": 3.67,
+    "review_count_tabelog": 474,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 15:00",
+        "dtl_text": "11:30 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 262,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9d2EkSDnAGARxIzhQjDJmmA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27088233-bf49b87f38c007764370356e130fd217aed7d94a7d62fdf32e73e1952cdf16d9.jpg",
+    "place_id": "ChIJ9d2EkSDnAGARxIzhQjDJmmA",
+    "g_name": "谷口カレー",
+    "g_rating": 4.3,
+    "g_reviews": 262,
+    "g_address": "日本、〒541-0046 大阪府大阪市中央区平野町１丁目２−１",
+    "lat": 34.6871319,
+    "lng": 135.509406
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "モリ商店",
+    "name_en": "Mori Shoten",
+    "area": "大阪府 なにわ橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270103/27046303/",
+    "rating": 3.66,
+    "review_count_tabelog": 319,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 14:30 18:00 - 19:30",
+        "dtl_text": "18:00 - 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Public Holiday",
+        "dtl": "11:30 - 14:30",
+        "dtl_text": "11:30 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon - Fri": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 74,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJX2sBM-jmAGAR6Y8h-sYbqgA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27046303-a44988341deb675e8139f1b0b860b74ec5f446c4486f0447304ed6c9df690f46.jpg",
+    "place_id": "ChIJX2sBM-jmAGAR6Y8h-sYbqgA",
+    "g_name": "モリ商店",
+    "g_rating": 4,
+    "g_reviews": 74,
+    "g_address": "日本、〒530-0047 大阪府大阪市北区西天満４丁目３−９ 和光ビル",
+    "lat": 34.6971538,
+    "lng": 135.5055041
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "ノムソン カリー",
+    "name_en": "NOMSON CURRY",
+    "area": "大阪府 四天王寺前夕陽ケ丘駅",
+    "url": "https://tabelog.com/osaka/A2701/A270202/27086130/",
+    "rating": 3.66,
+    "review_count_tabelog": 490,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Curry, Cafe, Kissa (Japanese coffee shop)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 16:00",
+        "dtl_text": "11:30 - 16:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Temporary closures announced via social media."
+    },
+    "google_rating": 3.5,
+    "google_reviews": 87,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJQvjkFnnAGARyDr9oF1_FsA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27086130-a0a15f03440dcf5ba547df839d1d91e93f576c641632debbd992645ab35c4252.jpg",
+    "place_id": "ChIJJQvjkFnnAGARyDr9oF1_FsA",
+    "g_name": "四天王寺前夕陽ヶ丘駅",
+    "g_rating": 3.5,
+    "g_reviews": 87,
+    "g_address": "５-１８ 六万体町 天王寺区 大阪市 大阪府 543-0074 日本",
+    "lat": 34.65831000000001,
+    "lng": 135.514163
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "カリー＆ナイス カトゥール",
+    "name_en": "Curry & Nice Katool",
+    "area": "大阪府 北浜駅",
+    "url": "https://tabelog.com/osaka/A2701/A270104/27118198/",
+    "rating": 3.67,
+    "review_count_tabelog": 356,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Fri, Sat",
+        "dtl": "11:15 - 14:30 18:30 - 20:30",
+        "dtl_text": "18:30 - 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "11:15 - 14:30",
+        "dtl_text": "11:15 - 14:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (please check our social media for updates)"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 178,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJRUqeDzHnAGARsbioFiXcogc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27118198-e3b7c68880226ff5e44523253626ae2133ff1e2b9b62db674b3b0579b0c1e53b.jpg",
+    "place_id": "ChIJRUqeDzHnAGARsbioFiXcogc",
+    "g_name": "CURRY＆NICE カトゥール",
+    "g_rating": 4.4,
+    "g_reviews": 178,
+    "g_address": "日本、〒540-0039 大阪府大阪市中央区東高麗橋２−１ ルート中の島ビル 2F",
+    "lat": 34.6890127,
+    "lng": 135.5115063
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "Sion",
+    "name_en": "Sion",
+    "area": "兵庫県 西元町駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280102/28037333/",
+    "rating": 3.62,
+    "review_count_tabelog": 382,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 14:30 L.O. 14:00",
+        "dtl_text": "11:30 - 14:30 L.O. 14:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "11:30 - 14:30 L.O. 14:00 18:00 - 20:00 L.O. 19:30",
+        "dtl_text": "18:00 - 20:00 L.O. 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 328,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJvcp7egSPAGARIBHYA6Rdxog",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/28037333-8934ce2e21ee2f5b83aab47429291a8be2b400d48f693fc901499c2697adfd48.jpg",
+    "place_id": "ChIJvcp7egSPAGARIBHYA6Rdxog",
+    "g_name": "Sion",
+    "g_rating": 4.3,
+    "g_reviews": 328,
+    "g_address": "日本、〒650-0022 兵庫県神戸市中央区元町通５丁目２ １８yuzenビル １階",
+    "lat": 34.6847189,
+    "lng": 135.1817275
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "スパイスカリー 大陸",
+    "name_en": "Spice Curry Tairiku",
+    "area": "大阪府 新福島駅",
+    "url": "https://tabelog.com/osaka/A2701/A270108/27093666/",
+    "rating": 3.7,
+    "review_count_tabelog": 975,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 21:00 L.O. Food 20:30",
+        "dtl_text": "11:00 - 21:00 L.O. Food 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "11:00 - 20:00 L.O. 19:30",
+        "dtl_text": "11:00 - 20:00 L.O. 19:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 578,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJd1QB1tHnAGARprPfuYSmysM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27093666-3ccfbad49bbe0255130bebf6fa249cdada8f5e7baf54f42ac53c1ea2300d4f51.jpg",
+    "place_id": "ChIJd1QB1tHnAGARprPfuYSmysM",
+    "g_name": "スパイスカリー大陸",
+    "g_rating": 4.2,
+    "g_reviews": 578,
+    "g_address": "日本、〒553-0003 大阪府大阪市福島区福島２丁目９−２３",
+    "lat": 34.6946616,
+    "lng": 135.4865649
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "お出汁とスパイス 元祖 エレクトロニカレー",
+    "name_en": "Odashi to Spice Ganso Electroni Curry",
+    "area": "大阪府 京橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270107/27107380/",
+    "rating": 3.66,
+    "review_count_tabelog": 505,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 15:30 L.O. 15:00 18:00 - 21:30 L.O. 21:00",
+        "dtl_text": "18:00 - 21:30 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 327,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJbwYhaxbhAGARYyqumSghE88",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27107380-c6540b7ccdebecac4d1c0ade0062d97410486d4b547f612c020f00b132a94c44.jpg",
+    "place_id": "ChIJbwYhaxbhAGARYyqumSghE88",
+    "g_name": "お出汁とスパイス 元祖エレクトロニカレー",
+    "g_rating": 4.3,
+    "g_reviews": 327,
+    "g_address": "日本、〒534-0027 大阪府大阪市都島区中野町３丁目５−１３",
+    "lat": 34.7020979,
+    "lng": 135.5282183
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "太陽カレー",
+    "name_en": "Taiyo Curry",
+    "area": "京都府 西院（京福）駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260401/26022669/",
+    "rating": 3.65,
+    "review_count_tabelog": 506,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:00 - 14:30",
+        "dtl_text": "11:00 - 14:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "■We may be open on public holidays. Please confirm via our social media."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 480,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ60X2p0oGAWARdzE3-rU_MZc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/26022669-b1598e71cd7b0c1e432a10d249c75c53ff0a9c660720cd68a322011f0365fa18.jpg",
+    "place_id": "ChIJ60X2p0oGAWARdzE3-rU_MZc",
+    "g_name": "太陽カレー",
+    "g_rating": 4.5,
+    "g_reviews": 480,
+    "g_address": "日本、〒604-8847 京都府京都市中京区壬生西土居ノ内町１９ ボイスビル ２F",
+    "lat": 35.0034661,
+    "lng": 135.7331051
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "SOMA",
+    "name_en": "SOMA",
+    "area": "大阪府 中津（阪急）駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27065233/",
+    "rating": 3.88,
+    "review_count_tabelog": 893,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Sat",
+        "dtl": "12:00 - 15:00",
+        "dtl_text": "12:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Fri, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Occasional temporary closures."
+    },
+    "google_rating": 3.4,
+    "google_reviews": 190,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJnQLkMITmAGARBfbB2M5UsZE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27065233-4ea53969926ebcf457f19578cb160759e52bce18835b9e105c201f92cf8537e4.jpg",
+    "place_id": "ChIJnQLkMITmAGARBfbB2M5UsZE",
+    "g_name": "中津駅（阪急）",
+    "g_rating": 3.4,
+    "g_reviews": 190,
+    "g_address": "日本、〒531-0071 大阪府大阪市北区中津３丁目１",
+    "lat": 34.709857,
+    "lng": 135.4924379
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "カルダモン．",
+    "name_en": "Cardamom.",
+    "area": "大阪府 天神橋筋六丁目駅",
+    "url": "https://tabelog.com/osaka/A2701/A270103/27004332/",
+    "rating": 3.7,
+    "review_count_tabelog": 1280,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Curry, Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "11:30 - 15:00 L.O. Food 14:50",
+        "dtl_text": "11:30 - 15:00 L.O. Food 14:50"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu",
+        "dtl": "11:30 - 15:00 L.O. Food 14:50 17:30 - 20:30 L.O. Food 20:20",
+        "dtl_text": "17:30 - 20:30 L.O. Food 20:20"
+      },
+      {
+        "list_context": "main",
+        "title": "Fri",
+        "dtl": "11:30 - 15:00 L.O. Food 14:20 17:30 - 20:30 L.O. Food 20:20",
+        "dtl_text": "17:30 - 20:30 L.O. Food 20:20"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 16:00 L.O. Food 15:50",
+        "dtl_text": "11:30 - 16:00 L.O. Food 15:50"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 926,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJIWsx1rjmAGARR7IjY9_RdDE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27004332-003b63c97bc43756a4bd9e5c8a774f1b4b66f2097182dd48914f25d8d0a987a6.jpg",
+    "place_id": "ChIJIWsx1rjmAGARR7IjY9_RdDE",
+    "g_name": "本格カレー カルダモン.",
+    "g_rating": 4.2,
+    "g_reviews": 926,
+    "g_address": "日本、〒530-0041 大阪府大阪市北区天神橋６丁目５−３",
+    "lat": 34.7088642,
+    "lng": 135.5114594
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "GARAM",
+    "name_en": "GARAM",
+    "area": "福岡県 渡辺通駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400103/40032412/",
+    "rating": 3.88,
+    "review_count_tabelog": 407,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Indian curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat",
+        "dtl": "12:00 - 15:00 L.O. Food 15:00",
+        "dtl_text": "12:00 - 15:00 L.O. Food 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 369,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJPwazSJmRQTUR1chXOnT5MGc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/40032412-355004ee4fbf615d95298c1ce0af6c6834be7b0806c6308e080faa594a045345.jpg",
+    "place_id": "ChIJPwazSJmRQTUR1chXOnT5MGc",
+    "g_name": "GARAM",
+    "g_rating": 4.5,
+    "g_reviews": 369,
+    "g_address": "日本、〒810-0011 福岡県福岡市中央区高砂１丁目７−４",
+    "lat": 33.5810127,
+    "lng": 130.4067621
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "マジックスパイス なにわ店",
+    "name_en": "Magic Spice Naniwa Ten",
+    "area": "大阪府 ＪＲ難波駅",
+    "url": "https://tabelog.com/osaka/A2701/A270206/27004092/",
+    "rating": 3.62,
+    "review_count_tabelog": 605,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry, Indonesian, Creative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri",
+        "dtl": "11:30 - 15:00 17:30 - 23:00 L.O. 22:30",
+        "dtl_text": "17:30 - 23:00 L.O. 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 23:00 L.O. 22:30",
+        "dtl_text": "11:30 - 23:00 L.O. 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 828,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJF5BHlgvnAGARKCpP9PJIOO4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27004092-7c6978d2a395fa654f54e3f397fddae843c94bfa46abc36d0ca8fa4538891ba1.jpg",
+    "place_id": "ChIJF5BHlgvnAGARKCpP9PJIOO4",
+    "g_name": "マジックスパイス なにわ店",
+    "g_rating": 4.2,
+    "g_reviews": 828,
+    "g_address": "日本、〒556-0023 大阪府大阪市浪速区稲荷１丁目１０−２０",
+    "lat": 34.6647277,
+    "lng": 135.4910218
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "カレー専門店 ビィヤント",
+    "name_en": "Curry Senmon Ten Biyanto",
+    "area": "京都府 神宮丸太町駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260302/26001075/",
+    "rating": 3.65,
+    "review_count_tabelog": 490,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 15:00 L.O. Food 14:50 17:30 - 21:00 L.O. Food 20:30",
+        "dtl_text": "17:30 - 21:00 L.O. Food 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "11:00 - 16:00 L.O. 15:45",
+        "dtl_text": "11:00 - 16:00 L.O. 15:45",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 583,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJCTs76fAIAWAR_tP7I4DMR5g",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/26001075-a3f3edd10562726371b9c9daf465f5f6c445d07b2472f02091a69ea18483e7c1.jpg",
+    "place_id": "ChIJCTs76fAIAWAR_tP7I4DMR5g",
+    "g_name": "カレー専門店 ビィヤント",
+    "g_rating": 4.3,
+    "g_reviews": 583,
+    "g_address": "日本、〒606-8391 京都府京都市左京区聖護院西町１２",
+    "lat": 35.0192112,
+    "lng": 135.7786374
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "和レー屋 南船場ゴヤクラ",
+    "name_en": "Wareya Minamisemba Goyakura",
+    "area": "大阪府 松屋町駅",
+    "url": "https://tabelog.com/osaka/A2701/A270201/27015562/",
+    "rating": 3.66,
+    "review_count_tabelog": 482,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri",
+        "dtl": "11:30 - 15:00",
+        "dtl_text": "11:30 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "12:00 - 15:00",
+        "dtl_text": "12:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Weekdays": {},
+        "Sat, Sun & Public Holidays": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 190,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJjcT43jznAGARJ3qLJbszfK8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27015562-4890a55f8c3f78f99315302878a5b4ada617f491db5ea998a8b64b77322747c9.jpg",
+    "place_id": "ChIJjcT43jznAGARJ3qLJbszfK8",
+    "g_name": "和レー屋 南船場ゴヤクラ",
+    "g_rating": 4.2,
+    "g_reviews": 190,
+    "g_address": "日本、〒542-0081 大阪府大阪市中央区南船場１丁目７−８",
+    "lat": 34.6776751,
+    "lng": 135.5089212
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "ガネーシュ m 北浜店",
+    "name_en": "Ganesh m Kitahama Ten",
+    "area": "大阪府 北浜駅",
+    "url": "https://tabelog.com/osaka/A2701/A270102/27083172/",
+    "rating": 3.66,
+    "review_count_tabelog": 423,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00",
+        "dtl_text": "11:30 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays and Wednesdays."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 190,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-eMfcN_mAGAR2gwsTNX53m8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27083172-ff6458b03a474df02d170342f1ab0c1ce84e7aa8debb8eedcee41f345341e236.jpg",
+    "place_id": "ChIJ-eMfcN_mAGAR2gwsTNX53m8",
+    "g_name": "ガネーシュm 北浜",
+    "g_rating": 4.3,
+    "g_reviews": 190,
+    "g_address": "日本、〒541-0045 大阪府大阪市中央区道修町１丁目１−６ １階",
+    "lat": 34.6885504,
+    "lng": 135.5093177
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "Mカッセ",
+    "name_en": "M Kasse",
+    "area": "大阪府 粉浜駅",
+    "url": "https://tabelog.com/osaka/A2701/A270404/27120447/",
+    "rating": 3.83,
+    "review_count_tabelog": 321,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 L.O. Food 14:30",
+        "dtl_text": "11:30 - 15:00 L.O. Food 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 223,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJa4uwV9rdAGAR5kx20CBQPmQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27120447-ad3f1f3ca06c2935206a0c8f4427ded6645e933707666af8507577b9324c11a4.jpg",
+    "place_id": "ChIJa4uwV9rdAGAR5kx20CBQPmQ",
+    "g_name": "Mカッセ",
+    "g_rating": 4.4,
+    "g_reviews": 223,
+    "g_address": "日本、〒558-0051 大阪府大阪市住吉区東粉浜３丁目２２−９ 西尾第一ビル １階 102",
+    "lat": 34.6179121,
+    "lng": 135.4919507
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "カシミール",
+    "name_en": "Kashmir",
+    "area": "大阪府 北浜駅",
+    "url": "https://tabelog.com/osaka/A2701/A270102/27003694/",
+    "rating": 3.74,
+    "review_count_tabelog": 926,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "13:00 - 16:00",
+        "dtl_text": "13:00 - 16:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sat, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 297,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJj9FSPt_mAGARrutDQZrMbs8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27003694-6cc217d81929191d7e0305b85116070d310b2dc259120cc629401f8757918cb1.jpg",
+    "place_id": "ChIJj9FSPt_mAGARrutDQZrMbs8",
+    "g_name": "カシミール",
+    "g_rating": 4,
+    "g_reviews": 297,
+    "g_address": "日本、〒540-0039 大阪府大阪市中央区東高麗橋６−２",
+    "lat": 34.6895239,
+    "lng": 135.5100877
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "マダム・カリー",
+    "name_en": "Madam Curry",
+    "area": "大阪府 北浜駅",
+    "url": "https://tabelog.com/osaka/A2701/A270102/27050578/",
+    "rating": 3.65,
+    "review_count_tabelog": 342,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Dining bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 15:00",
+        "dtl_text": "11:30 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.9,
+    "google_reviews": 111,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJOepAl-DmAGARWF1XWiFvHjk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27050578-2fa5407730dc3ee010fb9197230cb8e7619431e30487a31ac4bbd7862148b1d8.jpg",
+    "place_id": "ChIJOepAl-DmAGARWF1XWiFvHjk",
+    "g_name": "マダム・カリー",
+    "g_rating": 3.9,
+    "g_reviews": 111,
+    "g_address": "日本、〒541-0043 大阪府大阪市中央区高麗橋２丁目２−２ 日宝北浜ビル 1F",
+    "lat": 34.6893655,
+    "lng": 135.5056725
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "札幌スープカレーJACK 新町店",
+    "name_en": "Sapporo Soup Curry JACK Shin Machi Ten",
+    "area": "大阪府 西長堀駅",
+    "url": "https://tabelog.com/osaka/A2701/A270105/27108418/",
+    "rating": 3.65,
+    "review_count_tabelog": 501,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry, Curry, Cafeteria",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 22:00",
+        "dtl_text": "11:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 489,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5VwsqT3nAGAR-KOaYR5xQN8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27108418-43f368de0444735cda4a66426b81396fbd26bbaa5ff99a4bb5d4838e23da9861.jpg",
+    "place_id": "ChIJ5VwsqT3nAGAR-KOaYR5xQN8",
+    "g_name": "札幌スープカレー JACK 新町店",
+    "g_rating": 4.4,
+    "g_reviews": 489,
+    "g_address": "日本、〒550-0013 大阪府大阪市西区新町３丁目８−９",
+    "lat": 34.6770816,
+    "lng": 135.48905
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "白銀亭",
+    "name_en": "Hakugin Tei",
+    "area": "大阪府 本町駅",
+    "url": "https://tabelog.com/osaka/A2701/A270106/27012545/",
+    "rating": 3.7,
+    "review_count_tabelog": 1374,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:45 - 16:00",
+        "dtl_text": "11:45 - 16:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 635,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJwY-22h3nAGARjbjQX4av4ZM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27012545-24c56241b29cfaebff5b660e993aac9aee7b2264a16e27a120604186cde1607a.jpg",
+    "place_id": "ChIJwY-22h3nAGARjbjQX4av4ZM",
+    "g_name": "白銀亭 イトゥビル店",
+    "g_rating": 4.2,
+    "g_reviews": 635,
+    "g_address": "日本、〒541-0054 大阪府大阪市中央区南本町３丁目６−１４ イトゥビル 地下2階 Itoh Bldg. B2F",
+    "lat": 34.6825349,
+    "lng": 135.5011098
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "カレーショップMASARA",
+    "name_en": "Curry Shop MASARA",
+    "area": "大阪府 梅田駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27007871/",
+    "rating": 3.63,
+    "review_count_tabelog": 656,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 22:45",
+        "dtl_text": "12:00 - 22:45"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "There will be a break in service during the day."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 233,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJwZjEZZLmAGARXJfN0PEV_aM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27007871-48f9ed603b66afcf354bef2b83b1bab92ca3992f09b09008592036484983de6b.jpg",
+    "place_id": "ChIJwZjEZZLmAGARXJfN0PEV_aM",
+    "g_name": "カレーショップ マサラ",
+    "g_rating": 4.2,
+    "g_reviews": 233,
+    "g_address": "日本、〒530-0017 大阪府大阪市北区角田町９−１６",
+    "lat": 34.7032051,
+    "lng": 135.4980701
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "ムジャラ",
+    "name_en": "Mujara",
+    "area": "京都府 四条大宮駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260203/26027864/",
+    "rating": 3.63,
+    "review_count_tabelog": 368,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 15:00 L.O. Food 14:30",
+        "dtl_text": "11:30 - 15:00 L.O. Food 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 433,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJx7_e6JgIAWARgbowRK3v2Vs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/26027864-c4b10f20b318d55fc6f7cf5c1e81056d32c4d7e03582c832fa5ada9212e30511.jpg",
+    "place_id": "ChIJx7_e6JgIAWARgbowRK3v2Vs",
+    "g_name": "SPICE CURRY ムジャラ",
+    "g_rating": 4.5,
+    "g_reviews": 433,
+    "g_address": "日本、〒600-8388 京都府京都市下京区坊門町８３２ イツワマンション 1F",
+    "lat": 35.0001325,
+    "lng": 135.7478991
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "百薫香辛食堂",
+    "name_en": "Hyakka Koushin Shokudo",
+    "area": "大阪府 本町駅",
+    "url": "https://tabelog.com/osaka/A2701/A270106/27117152/",
+    "rating": 3.7,
+    "review_count_tabelog": 602,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "11:30 - 14:30",
+        "dtl_text": "11:30 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 207,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_ybF5zHnAGARPOs7IIBDanU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27117152-93f3ee6c09521db4ee94823e4978c8e79a8587373ac001752738d35bd93e416b.jpg",
+    "place_id": "ChIJ_ybF5zHnAGARPOs7IIBDanU",
+    "g_name": "百薫香辛食堂",
+    "g_rating": 4.3,
+    "g_reviews": 207,
+    "g_address": "日本、〒541-0054 大阪府大阪市中央区南本町３丁目５−５ プラスB 2F",
+    "lat": 34.6828244,
+    "lng": 135.5013793
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "スパイスアンドカレー黄金の風",
+    "name_en": "Spice and Curry Ougon no Kaze",
+    "area": "大阪府 南森町駅",
+    "url": "https://tabelog.com/osaka/A2701/A270103/27122031/",
+    "rating": 3.63,
+    "review_count_tabelog": 190,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 15:00 L.O. 14:30",
+        "dtl_text": "11:30 - 15:00 L.O. 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 116,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJjVWjAC7nAGARAvrSwbh2G88",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27122031-9923c15c07596a1aa37f2002a3223f00032b6e3737e9a48bc03959b5ff699804.jpg",
+    "place_id": "ChIJjVWjAC7nAGARAvrSwbh2G88",
+    "g_name": "スパイスアンドカレー 黄金の風",
+    "g_rating": 4.5,
+    "g_reviews": 116,
+    "g_address": "日本、〒530-0041 大阪府大阪市北区天神橋３丁目３−18 1 階奥",
+    "lat": 34.7004652,
+    "lng": 135.5114122
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "スパイスカレー旬香唐",
+    "name_en": "Spice Curry Shunka To",
+    "area": "大阪府 西中島南方駅",
+    "url": "https://tabelog.com/osaka/A2701/A270301/27098909/",
+    "rating": 3.65,
+    "review_count_tabelog": 313,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Wed, Thu": {}
+      },
+      "closed_on": "Sundays (for more details, please refer to our Facebook)."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 272,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGT-CVCXkAGARq-JN-LYur-E",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27098909-4fb893cd79f9374627011650257c114bd4843685e5be4517d7ee9af2aac73b30.jpg",
+    "place_id": "ChIJGT-CVCXkAGARq-JN-LYur-E",
+    "g_name": "カジャナ(KHAZANA)",
+    "g_rating": 4.4,
+    "g_reviews": 272,
+    "g_address": "日本、〒532-0011 大阪府大阪市淀川区西中島４丁目６−３０",
+    "lat": 34.7266436,
+    "lng": 135.4973084
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "虹の仏",
+    "name_en": "Niji no Hotoke",
+    "area": "大阪府 四天王寺前夕陽ケ丘駅",
+    "url": "https://tabelog.com/osaka/A2701/A270203/27066977/",
+    "rating": 3.71,
+    "review_count_tabelog": 1011,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Sun, Public Holiday",
+        "dtl": "11:30 - 14:00",
+        "dtl_text": "11:30 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Sat",
+        "dtl": "11:30 - 14:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Fri",
+        "dtl": "11:30 - 14:00 18:30 - 22:00",
+        "dtl_text": "18:30 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 608,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJhYbqT1jnAGARzwEQFw9bnkM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27066977-6af1ca6753abfbb70e17d7c6b590403a131b50aebc4ee3dcc2f231ae43b2b256.jpg",
+    "place_id": "ChIJhYbqT1jnAGARzwEQFw9bnkM",
+    "g_name": "虹の仏",
+    "g_rating": 4,
+    "g_reviews": 608,
+    "g_address": "日本、〒543-0051 大阪府大阪市天王寺区四天王寺１丁目１２−２３",
+    "lat": 34.6562419,
+    "lng": 135.5140199
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "辛口飯屋 森元",
+    "name_en": "Karakuchi Meshiya Morigen",
+    "area": "大阪府 なにわ橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270103/27087911/",
+    "rating": 3.65,
+    "review_count_tabelog": 305,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 16:00",
+        "dtl_text": "11:30 - 16:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:30 - 15:00",
+        "dtl_text": "11:30 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays, Sundays & Public Holidays (may open on some occasions)"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 167,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKW4tPujmAGARdfT5bAo9qe8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27087911-719871496f01b8f4710d7c521d45cc8f2b06822763ef7e34cde11159c4009197.jpg",
+    "place_id": "ChIJKW4tPujmAGARdfT5bAo9qe8",
+    "g_name": "辛口飯屋 森元",
+    "g_rating": 4.2,
+    "g_reviews": 167,
+    "g_address": "日本、〒530-0047 大阪府大阪市北区西天満４丁目５−３ 2F",
+    "lat": 34.6967778,
+    "lng": 135.5050972
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "サッチェズカリー",
+    "name_en": "Satch's Curry",
+    "area": "大阪府 中崎町駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27085130/",
+    "rating": 3.67,
+    "review_count_tabelog": 420,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Indian curry, Cafe, South Asian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Thu",
+        "dtl": "11:30 - 15:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "11:30 - 15:00",
+        "dtl_text": "11:30 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "12:00 - 15:00",
+        "dtl_text": "12:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "12:00 - 15:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Fri",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 151,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJfbQRq-rmAGARr5teOaieUwE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27085130-1d0c7a66f5fb415007120e36222c719c47c57a3ad2862b6ae06739bca3fa632e.jpg",
+    "place_id": "ChIJfbQRq-rmAGARr5teOaieUwE",
+    "g_name": "サッチェズカリー",
+    "g_rating": 4.1,
+    "g_reviews": 151,
+    "g_address": "日本、〒530-0026 大阪府大阪市北区神山町１４−２３",
+    "lat": 34.7040931,
+    "lng": 135.5061013
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "ココペリカレー",
+    "name_en": "Kokopelli Curry",
+    "area": "大阪府 大阪天満宮駅",
+    "url": "https://tabelog.com/osaka/A2701/A270103/27095961/",
+    "rating": 3.62,
+    "review_count_tabelog": 238,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 15:00 18:00 - 21:00 L.O. 20:45",
+        "dtl_text": "18:00 - 21:00 L.O. 20:45"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 15:00",
+        "dtl_text": "11:30 - 15:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 309,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3xRkk9rmAGARnCnT4CTnLI4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27095961-e5c06b19b59151fa5a26faf1cf2097f836fb07c806f9750e216256ad202799a5.jpg",
+    "place_id": "ChIJ3xRkk9rmAGARnCnT4CTnLI4",
+    "g_name": "ココペリカレー南森町店",
+    "g_rating": 4.2,
+    "g_reviews": 309,
+    "g_address": "日本、〒530-0044 大阪府大阪市北区東天満２丁目６−１２",
+    "lat": 34.6978579,
+    "lng": 135.5146854
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "Numb",
+    "name_en": "Numb",
+    "area": "大阪府 北浜駅",
+    "url": "https://tabelog.com/osaka/A2701/A270104/27117930/",
+    "rating": 3.63,
+    "review_count_tabelog": 234,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Asian, Ethnic",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00",
+        "dtl_text": "11:30 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 112,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJs1KCNOrnAGARf_IpdkXb10E",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27117930-ca68ccbaf6467f3fee8c292b3a24f086aca37740183c8b91e3066d19c0377729.jpg",
+    "place_id": "ChIJs1KCNOrnAGARf_IpdkXb10E",
+    "g_name": "Kitchen Numb (ナム)",
+    "g_rating": 4.3,
+    "g_reviews": 112,
+    "g_address": "日本、〒540-0039 大阪府大阪市中央区東高麗橋１−３２ 天神橋ビル 2階",
+    "lat": 34.6894518,
+    "lng": 135.5114966
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "北浜 丁子",
+    "name_en": "Kitahama Choji",
+    "area": "大阪府 北浜駅",
+    "url": "https://tabelog.com/osaka/A2701/A270102/27092176/",
+    "rating": 3.68,
+    "review_count_tabelog": 417,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Sat",
+        "dtl": "11:30 - 15:00",
+        "dtl_text": "11:30 - 15:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri",
+        "dtl": "11:30 - 15:00 18:00 - 20:00",
+        "dtl_text": "18:00 - 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 260,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJbzk9Q9_mAGARQyyyJ75zWc0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27092176-93a78ffdce5fea684200185a8261f87d95ad4b8d0a3ddc709df90119171c835f.jpg",
+    "place_id": "ChIJbzk9Q9_mAGARQyyyJ75zWc0",
+    "g_name": "北浜 丁子",
+    "g_rating": 4.1,
+    "g_reviews": 260,
+    "g_address": "日本、〒540-0039 大阪府大阪市中央区東高麗橋５−３ 高麗橋双葉ビル 3F",
+    "lat": 34.68905549999999,
+    "lng": 135.5100402
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "コロンビア エイト 北浜本店",
+    "name_en": "Columbia8  Kitahama Honten",
+    "area": "大阪府 北浜駅",
+    "url": "https://tabelog.com/osaka/A2701/A270102/27015618/",
+    "rating": 3.71,
+    "review_count_tabelog": 1003,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Bar, Izakaya (Japanese style tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 512,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJLdE_nd_mAGARwnwSjqkVcXE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27015618-f0ef9552f44b9c4484cb0530623928298610106c7778f5f0801cb986f3c24631.jpg",
+    "place_id": "ChIJLdE_nd_mAGARwnwSjqkVcXE",
+    "g_name": "Columbia8 北浜本店",
+    "g_rating": 4.3,
+    "g_reviews": 512,
+    "g_address": "日本、〒541-0045 大阪府大阪市中央区道修町１丁目３−３ 戎道修町ビル 2F",
+    "lat": 34.688209,
+    "lng": 135.5086146
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "SPICE GATE",
+    "name_en": "SPICE GATE",
+    "area": "京都府 京都河原町駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260201/26037542/",
+    "rating": 3.66,
+    "review_count_tabelog": 608,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Cafe, Asian, Ethnic",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "07:30 - 11:00 11:30 - 21:00",
+        "dtl_text": "11:30 - 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 311,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4yp0Tv4JAWARyC2EqIKoJ04",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/26037542-b815f1532cfd4871231abb41590528965c4d050bc5b9ab1586c5da20c9ab3303.jpg",
+    "place_id": "ChIJ4yp0Tv4JAWARyC2EqIKoJ04",
+    "g_name": "SPICE GATE",
+    "g_rating": 4.3,
+    "g_reviews": 311,
+    "g_address": "日本、〒600-8033 京都府京都市下京区恵美須之町５４６ 寺町しきさいビル2F",
+    "lat": 35.0006917,
+    "lng": 135.7669568
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "森林食堂",
+    "name_en": "Shinrin Shokudo",
+    "area": "京都府 二条駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260203/26020410/",
+    "rating": 3.89,
+    "review_count_tabelog": 552,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 18:00 - 20:00",
+        "dtl_text": "18:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (please check the business calendar on our website)"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 449,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9bu7Fc8HAWARhI0PyTck-m0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/26020410-b0caa0ff12c3349b6816653f39fe065f5da0b041e989fac5626fa29d0cf2f2ae.jpg",
+    "place_id": "ChIJ9bu7Fc8HAWARhI0PyTck-m0",
+    "g_name": "森林食堂",
+    "g_rating": 4.5,
+    "g_reviews": 449,
+    "g_address": "２４ 4, 西ノ京内畑町 中京区 京都市 京都府 604-8417 日本",
+    "lat": 35.0143702,
+    "lng": 135.7392513
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "王様のスプーン",
+    "name_en": "Osama no Spoon",
+    "area": "大阪府 南森町駅",
+    "url": "https://tabelog.com/osaka/A2701/A270103/27017245/",
+    "rating": 3.64,
+    "review_count_tabelog": 460,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Soup Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 20:00 L.O. 19:30",
+        "dtl_text": "11:00 - 20:00 L.O. 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "11:00 - 15:00 L.O. 14:30",
+        "dtl_text": "11:00 - 15:00 L.O. 14:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 152,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJE47ta8LmAGAR74S-GlLbSm4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27017245-703fac91959723b88fc37d501dfe5cbbd9620a8f32010092c4ebb10156194a29.jpg",
+    "place_id": "ChIJE47ta8LmAGAR74S-GlLbSm4",
+    "g_name": "薬膳スパイスカレー 王様のスプーン",
+    "g_rating": 4,
+    "g_reviews": 152,
+    "g_address": "日本、〒530-0047 大阪府大阪市北区西天満５丁目１１−４",
+    "lat": 34.6988801,
+    "lng": 135.5072575
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "若草カレー本舗",
+    "name_en": "Wakakusa Curry Honpo",
+    "area": "奈良県 奈良市",
+    "url": "https://tabelog.com/nara/A2901/A290101/29006593/",
+    "rating": 3.62,
+    "review_count_tabelog": 638,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Curry, Ramen, Asian, Ethnic",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri, Sat, Sun",
+        "dtl": "11:30 - 20:00",
+        "dtl_text": "11:30 - 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "11:30 - 15:30",
+        "dtl_text": "11:30 - 15:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 1020,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJqUsBN4g5AWAR-bu6NYi-wlU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/29006593-a66d9d4e868774850ee9234478aba158c34063ad843801623429f1f30d1e4bc5.jpg",
+    "place_id": "ChIJqUsBN4g5AWAR-bu6NYi-wlU",
+    "g_name": "若草カレー本舗",
+    "g_rating": 4.4,
+    "g_reviews": 1020,
+    "g_address": "日本、〒630-8222 奈良県奈良市餅飯殿町３８−１ 若草カレー本舗",
+    "lat": 34.680775,
+    "lng": 135.828997
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "ニタカリバンチャ",
+    "name_en": "Nitakari Bancha",
+    "area": "大阪府 天満橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270104/27106043/",
+    "rating": 3.65,
+    "review_count_tabelog": 233,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Indian curry, Nepalese, Baru (Spanish style bar)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Public Holiday",
+        "dtl": "11:30 - 16:00",
+        "dtl_text": "11:30 - 16:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "11:30 - 14:30 18:30 - 22:00",
+        "dtl_text": "18:30 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 158,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVxGAPnAGAR-kka2y0jlRg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27106043-092c980904d95f746fa7043cd7d4bbaa08efa5c3f256ca3b99db309b0ed0691c.jpg",
+    "place_id": "ChIJVVVxGAPnAGAR-kka2y0jlRg",
+    "g_name": "ニタカリバンチャ",
+    "g_rating": 4.3,
+    "g_reviews": 158,
+    "g_address": "日本、〒540-0038 大阪府大阪市中央区内淡路町２丁目２−１ 木村ビル 1F",
+    "lat": 34.6864043,
+    "lng": 135.5132375
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "渡邊カリー 梅田本店",
+    "name_en": "Watanabe Curry Umeda Honten",
+    "area": "大阪府 北新地駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27091294/",
+    "rating": 3.71,
+    "review_count_tabelog": 1672,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 14:30 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "11:30 - 16:00",
+        "dtl_text": "11:30 - 16:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 800,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6rqIPPmAGARlQeeO1lFGXw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27091294-d20b55c90a8d863641778a05136c4471b53b296dc181541eeb4246be9ac2b04f.jpg",
+    "place_id": "ChIJq6rqIPPmAGARlQeeO1lFGXw",
+    "g_name": "渡邊咖喱",
+    "g_rating": 4.1,
+    "g_reviews": 800,
+    "g_address": "日本、〒530-0002 大阪府大阪市北区曾根崎新地２丁目２−５ 第３シンコービル",
+    "lat": 34.6979833,
+    "lng": 135.4948257
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "アーリオ・オーリオ",
+    "name_en": "aglio olio",
+    "area": "大阪府 難波（南海）駅",
+    "url": "https://tabelog.com/osaka/A2701/A270202/27062001/",
+    "rating": 3.56,
+    "review_count_tabelog": 266,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Organic, Medicinal",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Thu, Fri, Sat",
+        "dtl": "11:30 - 20:00 L.O. 19:30",
+        "dtl_text": "11:30 - 20:00 L.O. 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:30 - 15:30 L.O. 15:00",
+        "dtl_text": "11:30 - 15:30 L.O. 15:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "We may have temporary closures due to preparation."
+    },
+    "google_rating": 3.8,
+    "google_reviews": 102,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJwYtSKGrnAGARYpl1r1oI5Ro",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27062001-9122c069706deba39a43e8d14a0e231e58e601b5d5e0f67fb21ec1316e3c9575.jpg",
+    "place_id": "ChIJwYtSKGrnAGARYpl1r1oI5Ro",
+    "g_name": "Aglio Olio",
+    "g_rating": 3.8,
+    "g_reviews": 102,
+    "g_address": "日本、〒542-0075 大阪府大阪市中央区難波千日前７−４ スターハウスマンション 1F",
+    "lat": 34.6634397,
+    "lng": 135.5047813
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "旧ヤム邸 中之島洋館",
+    "name_en": "Kyu Yam Tei Nakanoshima Yokan",
+    "area": "大阪府 渡辺橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270108/27073991/",
+    "rating": 3.59,
+    "review_count_tabelog": 672,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Indian curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 15:30 L.O. 15:00",
+        "dtl_text": "11:30 - 15:30 L.O. 15:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 416,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJITtdTvHmAGARwyhTwUAIOlU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27073991-07e87d0d2d6c569f4eb601c29c3af91218ff7279c295b84db541e1077154c70d.jpg",
+    "place_id": "ChIJITtdTvHmAGARwyhTwUAIOlU",
+    "g_name": "旧ヤム邸 中之島洋館",
+    "g_rating": 4.3,
+    "g_reviews": 416,
+    "g_address": "日本、〒530-0005 大阪府大阪市北区中之島３丁目６−３２ ダイビル本館 ２階",
+    "lat": 34.6932228,
+    "lng": 135.4927908
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "創作カレー ツキノワ",
+    "name_en": "Sosaku Curry Tsukinowa",
+    "area": "大阪府 松屋町駅",
+    "url": "https://tabelog.com/osaka/A2701/A270106/27092078/",
+    "rating": 3.7,
+    "review_count_tabelog": 705,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 16:00 L.O. 15:30",
+        "dtl_text": "11:30 - 16:00 L.O. 15:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "11:30 - 16:00 L.O. 15:30 18:00 - 21:00 L.O. 20:30",
+        "dtl_text": "18:00 - 21:00 L.O. 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 376,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQC9rTznAGARt_qsJ_BoYLc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27092078-cf559cdf9460485a2f345d9cf840ee4b2662c670d039d75f05fc1c135f09a8bd.jpg",
+    "place_id": "ChIJAQC9rTznAGARt_qsJ_BoYLc",
+    "g_name": "創作カレー ツキノワ",
+    "g_rating": 4.2,
+    "g_reviews": 376,
+    "g_address": "日本、〒541-0058 大阪府大阪市中央区南久宝寺町１丁目１−３ KT 船場ビル 2F",
+    "lat": 34.6793875,
+    "lng": 135.5105605
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "もりやま屋",
+    "name_en": "Moriyama Ya",
+    "area": "大阪府 大江橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270102/27002387/",
+    "rating": 3.69,
+    "review_count_tabelog": 615,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Indian curry, Indian, Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 15:00 18:00 - 21:00 L.O. Food 20:30",
+        "dtl_text": "18:00 - 21:00 L.O. Food 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:30 - 15:00",
+        "dtl_text": "11:30 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.9,
+    "google_reviews": 104,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ15RBIKrnAGARWUsjbjKLyZQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27002387-3417900de5f2f409052349507ac3a346eb48dddb6b81038494b5e60cd5db63b7.jpg",
+    "place_id": "ChIJ15RBIKrnAGARWUsjbjKLyZQ",
+    "g_name": "もりやま屋",
+    "g_rating": 3.9,
+    "g_reviews": 104,
+    "g_address": "日本、〒530-0047 大阪府大阪市北区西天満２丁目３−１５ 千都ビル",
+    "lat": 34.696107,
+    "lng": 135.5030038
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "カレー屋ヌンクイ",
+    "name_en": "Curry Ya Nunkui",
+    "area": "大阪府 七道駅",
+    "url": "https://tabelog.com/osaka/A2705/A270501/27071545/",
+    "rating": 3.6,
+    "review_count_tabelog": 204,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Indian curry, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Sat, Sun",
+        "dtl": "11:00 - 15:00 17:00 - 20:00",
+        "dtl_text": "17:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The third Wednesday of each month."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 148,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0aOJDeXcAGAR_ix_IKbCEHU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27071545-3802ee07e7f3791b0867320926f617d56a47eaaf77e4a77c95809fe6c549f4d6.jpg",
+    "place_id": "ChIJ0aOJDeXcAGAR_ix_IKbCEHU",
+    "g_name": "カレー屋ヌンクイ",
+    "g_rating": 4.5,
+    "g_reviews": 148,
+    "g_address": "日本、〒590-0904 大阪府堺市堺区南島町２丁５１−１",
+    "lat": 34.5939887,
+    "lng": 135.4761395
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "ヨバレヤ",
+    "name_en": "yobareya",
+    "area": "大阪府 西大橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270201/27067687/",
+    "rating": 3.64,
+    "review_count_tabelog": 418,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Sun",
+        "dtl": "12:00 - 16:00",
+        "dtl_text": "12:00 - 16:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Fri, Sat",
+        "dtl": "12:00 - 20:00",
+        "dtl_text": "12:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 215,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJK-e6hQPnAGARb96RwPzyXFo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27067687-96ca0936e84199489974f1e75d94518c3d013d2618b9efddf211732f410a8486.jpg",
+    "place_id": "ChIJK-e6hQPnAGARb96RwPzyXFo",
+    "g_name": "yobareya",
+    "g_rating": 4.1,
+    "g_reviews": 215,
+    "g_address": "日本、〒550-0013 大阪府大阪市西区新町１丁目３１−３",
+    "lat": 34.67683210000001,
+    "lng": 135.4941051
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "カレー専門店 白銀亭 イトゥビル店",
+    "name_en": "Curry Senmonten Hakugintei Itsubiru Ten",
+    "area": "大阪府 本町駅",
+    "url": "https://tabelog.com/osaka/A2701/A270106/27091498/",
+    "rating": 3.67,
+    "review_count_tabelog": 626,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 15:00",
+        "dtl_text": "11:30 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 635,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJwY-22h3nAGARjbjQX4av4ZM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27091498-e47056fc033181d7d926b4a733bbf52cc7b84c6bd55ac61053435db9d01a4cec.jpg",
+    "place_id": "ChIJwY-22h3nAGARjbjQX4av4ZM",
+    "g_name": "白銀亭 イトゥビル店",
+    "g_rating": 4.2,
+    "g_reviews": 635,
+    "g_address": "日本、〒541-0054 大阪府大阪市中央区南本町３丁目６−１４ イトゥビル 地下2階 Itoh Bldg. B2F",
+    "lat": 34.6825349,
+    "lng": 135.5011098
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "モジャカレー",
+    "name_en": "Moja Curry",
+    "area": "大阪府 新大阪駅",
+    "url": "https://tabelog.com/osaka/A2701/A270301/27012792/",
+    "rating": 3.69,
+    "review_count_tabelog": 1481,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 20:00",
+        "dtl_text": "11:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.9,
+    "google_reviews": 505,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5RutRDnkAGARaeC_Zpk_6ZU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27012792-4ce6aafea1b02ed0c0219b72a224798982e5b564081ccf1d70d8239e7b7a1821.jpg",
+    "place_id": "ChIJ5RutRDnkAGARaeC_Zpk_6ZU",
+    "g_name": "モジャカレー新大阪本店",
+    "g_rating": 3.9,
+    "g_reviews": 505,
+    "g_address": "日本、〒532-0011 大阪府大阪市淀川区西中島５丁目１６−１ JR 新大阪駅 1階",
+    "lat": 34.7330603,
+    "lng": 135.4996144
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "レベルカレー",
+    "name_en": "REBEL CURRY",
+    "area": "大阪府 本町駅",
+    "url": "https://tabelog.com/osaka/A2701/A270106/27082257/",
+    "rating": 3.7,
+    "review_count_tabelog": 611,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Indian curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 14:00",
+        "dtl_text": "11:30 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 212,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAYUkfR7nAGARCFdvrnod1_w",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27082257-cae32b90519dd3e1ec43e87fb3b0780b55e60ca61b36008d2ed443cf021a1bd2.jpg",
+    "place_id": "ChIJAYUkfR7nAGARCFdvrnod1_w",
+    "g_name": "REBEL CURRY",
+    "g_rating": 4.2,
+    "g_reviews": 212,
+    "g_address": "日本、〒541-0054 大阪府大阪市中央区南本町３丁目３−２３ インペリアル船場 2F 船場八番街",
+    "lat": 34.6825041,
+    "lng": 135.502161
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "路地裏カレー Tiki",
+    "name_en": "Rojiura Curry Tiki",
+    "area": "福岡県 天神南駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400103/40032551/",
+    "rating": 3.68,
+    "review_count_tabelog": 674,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Indian curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "10:30 - 14:00",
+        "dtl_text": "10:30 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 655,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJUzaMW5CRQTURdDP5iS4jnWc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/40032551-5769700994f658c85ac88758e8855f42ec632a4eb2bb7eebdc4c2e158b23facd.jpg",
+    "place_id": "ChIJUzaMW5CRQTURdDP5iS4jnWc",
+    "g_name": "路地裏カレーTiki",
+    "g_rating": 4.3,
+    "g_reviews": 655,
+    "g_address": "日本、〒810-0004 福岡県福岡市中央区渡辺通５丁目２４−３８",
+    "lat": 33.5882632,
+    "lng": 130.4028261
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "旧ヤム邸 空堀店",
+    "name_en": "Kyu Yam Tei Karahori Ten",
+    "area": "大阪府 谷町六丁目駅",
+    "url": "https://tabelog.com/osaka/A2701/A270204/27060944/",
+    "rating": 3.82,
+    "review_count_tabelog": 1390,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 14:30 L.O. 14:00 18:00 - 21:30 L.O. 21:00",
+        "dtl_text": "18:00 - 21:30 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:20 - 14:30 L.O. 14:00 18:00 - 21:00 L.O. 20:00",
+        "dtl_text": "18:00 - 21:00 L.O. 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Public Holidays on Monday": {}
+      },
+      "closed_on": "Open on public holidays falling on Monday, with a substitute closure on the following Wednesday."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 954,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_ZAEGjjnAGARZnpP3jYM9fA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27060944-80db172678572a623f33826ca74ddf6a9871413fef4953893c4ac13feea71c82.jpg",
+    "place_id": "ChIJ_ZAEGjjnAGARZnpP3jYM9fA",
+    "g_name": "旧ヤム邸 空堀店",
+    "g_rating": 4.2,
+    "g_reviews": 954,
+    "g_address": "日本、〒542-0012 大阪府大阪市中央区谷町６丁目４−２３",
+    "lat": 34.6736288,
+    "lng": 135.5152147
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "定食堂 金剛石",
+    "name_en": "Teishokudo Kongoseki",
+    "area": "大阪府 松屋町駅",
+    "url": "https://tabelog.com/osaka/A2701/A270204/27097683/",
+    "rating": 3.71,
+    "review_count_tabelog": 746,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Cafeteria",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "11:30 - 15:30",
+        "dtl_text": "11:30 - 15:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays and not fixed"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 431,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJC6Ms7TjnAGAR7NBqvBKIbws",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27097683-790d0341bc2fffa5adfb5d9bea9677ef8540bae2c8e4b1b6db42972257678af5.jpg",
+    "place_id": "ChIJC6Ms7TjnAGAR7NBqvBKIbws",
+    "g_name": "定食堂 金剛石",
+    "g_rating": 4.3,
+    "g_reviews": 431,
+    "g_address": "日本、〒542-0066 大阪府大阪市中央区瓦屋町１丁目８−２５",
+    "lat": 34.6728765,
+    "lng": 135.5123449
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "ボナボナ",
+    "name_en": "Bonabona",
+    "area": "大阪府 西大橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270201/27005018/",
+    "rating": 3.66,
+    "review_count_tabelog": 364,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Curry, Indian curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 16:00",
+        "dtl_text": "11:00 - 16:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Public Holiday",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 162,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJm65xfgTnAGARIU_7L5Lu2TY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27005018-bc18e0f57e8ad2406b47901db1034b5f0fce94fbf41d5b644fa2c077c40670bb.jpg",
+    "place_id": "ChIJm65xfgTnAGARIU_7L5Lu2TY",
+    "g_name": "チキンカレーの店 ボナボナ",
+    "g_rating": 4.4,
+    "g_reviews": 162,
+    "g_address": "日本、〒550-0013 大阪府大阪市西区新町１丁目２２−１１ TTビル2号館新町101",
+    "lat": 34.6763912,
+    "lng": 135.4944572
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "京都カレー製作所 カリル",
+    "name_en": "Kyoto Curry Seisakusho Kariru",
+    "area": "京都府 丸太町（京都市営）駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260202/26025279/",
+    "rating": 3.65,
+    "review_count_tabelog": 546,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Indian curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 15:00 17:00 - 20:30",
+        "dtl_text": "17:00 - 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Public Holiday",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 759,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJReSnoX4IAWAR6JOorTC55JE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/26025279-435d1c5fd55b82b91a9b4ac979f17b32f5c4ced15cdcfb71b907346a839cfac3.jpg",
+    "place_id": "ChIJReSnoX4IAWAR6JOorTC55JE",
+    "g_name": "京都カレー製作所 カリル",
+    "g_rating": 4.4,
+    "g_reviews": 759,
+    "g_address": "日本、〒602-8026 京都府京都市上京区春帯町３４９−１",
+    "lat": 35.0182198,
+    "lng": 135.7566683
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "ラーマ",
+    "name_en": "RAMA",
+    "area": "大阪府 中之島駅",
+    "url": "https://tabelog.com/osaka/A2701/A270105/27089469/",
+    "rating": 3.65,
+    "review_count_tabelog": 337,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "11:30 - 15:00 L.O. Food 14:30",
+        "dtl_text": "11:30 - 15:00 L.O. Food 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu, Fri",
+        "dtl": "11:30 - 15:00 L.O. Food 14:30 17:00 - 21:00 L.O. Food 20:30",
+        "dtl_text": "17:00 - 21:00 L.O. Food 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "12:00 - 18:00 L.O. Food 17:30",
+        "dtl_text": "12:00 - 18:00 L.O. Food 17:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 211,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVZkvfmAGARCSduRtwKVC0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27089469-a7ed8685e3fbe1d69f7dafbe64a9393232d88d9af081692c8ccb25f4abd2d67d.jpg",
+    "place_id": "ChIJVVVZkvfmAGARCSduRtwKVC0",
+    "g_name": "ライス&カリー ラーマ",
+    "g_rating": 4.2,
+    "g_reviews": 211,
+    "g_address": "日本、〒550-0001 大阪府大阪市西区土佐堀２丁目３−２３ 板東ビル 2F",
+    "lat": 34.6880382,
+    "lng": 135.4888281
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "元町通り3丁目",
+    "name_en": "Motomachi Dori 3 Chome",
+    "area": "兵庫県 みなと元町駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280102/28034158/",
+    "rating": 3.63,
+    "review_count_tabelog": 330,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Curry, Indian curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday",
+        "dtl": "11:30 - 19:00",
+        "dtl_text": "11:30 - 19:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.9,
+    "google_reviews": 41,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJlTVerwOPAGAR52GcnGPoy18",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/28034158-37b2167d6a1a81c61fa53dd87598a6bf60d605c1755276884a8c404eeed2155d.jpg",
+    "place_id": "ChIJlTVerwOPAGAR52GcnGPoy18",
+    "g_name": "みなと元町駅",
+    "g_rating": 3.9,
+    "g_reviews": 41,
+    "g_address": "日本、〒650-0023 兵庫県神戸市中央区栄町通４丁目３",
+    "lat": 34.6859861,
+    "lng": 135.1841547
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "WEST",
+    "name": "ダール",
+    "name_en": "Dahl",
+    "area": "大阪府 谷町四丁目駅",
+    "url": "https://tabelog.com/osaka/A2701/A270104/27014409/",
+    "rating": 3.65,
+    "review_count_tabelog": 576,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 20:00",
+        "dtl_text": "11:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:00 - 14:30",
+        "dtl_text": "11:00 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 407,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJjYSPlyXnAGARiQHKd2M6QJQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27014409-5c2b3f67655fe93fc5a216374881a81b783f9aacbf3ce90711dd16a228426378.jpg",
+    "place_id": "ChIJjYSPlyXnAGARiQHKd2M6QJQ",
+    "g_name": "カレーショップ ダール",
+    "g_rating": 4.2,
+    "g_reviews": 407,
+    "g_address": "日本、〒540-0025 大阪府大阪市中央区徳井町１丁目４−１３ 谷町マンション",
+    "lat": 34.6842832,
+    "lng": 135.5146453
+  }
+]

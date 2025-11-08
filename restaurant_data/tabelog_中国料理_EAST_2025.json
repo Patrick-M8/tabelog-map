@@ -1,0 +1,4585 @@
+[
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "小菜中華 hiro",
+    "name_en": "Shosai Chuka hiro",
+    "area": "岐阜県 岐阜市",
+    "url": "https://tabelog.com/gifu/A2101/A210101/21010875/",
+    "rating": 3.9,
+    "review_count_tabelog": 82,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Chinese, Dim sum & Yum cha",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 20:15",
+        "dtl_text": "18:00 - 20:15",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Irregular holidays, primarily on Wednesdays and Thursdays."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 74,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJSYgb71qpA2AR9C1RlyiOjVc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/21010875-8b1c5afce2c28f90d6f71ba60cd4a4951481097f4046c7501e4c634cc67cdc68.jpg",
+    "place_id": "ChIJSYgb71qpA2AR9C1RlyiOjVc",
+    "g_name": "小菜中華hiro",
+    "g_rating": 4.3,
+    "g_reviews": 74,
+    "g_address": "日本、〒500-8821 岐阜県岐阜市鷹見町１３−７ OKAMOTOビル 1F",
+    "lat": 35.423785,
+    "lng": 136.7592378
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "中国料理 眺遊楼(横浜ベイコート倶楽部 ホテル＆スパリゾート)",
+    "name_en": "Chinese Choyuuro (Yokohama Baycourt Club Hotel & Spa Resort)",
+    "area": "神奈川県 みなとみらい駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140103/14081410/",
+    "rating": 3.63,
+    "review_count_tabelog": 79,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Chinese",
+    "hours_raw": [],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 389,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJpf4-TltcGGAR3lhF8My5Qjk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/14081410-3ec3947c4fdbc63f95f13ef07f83e53ddfecc22c868e66de2d1c2863f4a102de.jpg",
+    "place_id": "ChIJpf4-TltcGGAR3lhF8My5Qjk",
+    "g_name": "中国料理「驊騮(カリュウ)」",
+    "g_rating": 4.3,
+    "g_reviews": 389,
+    "g_address": "日本、〒220-8522 神奈川県横浜市西区みなとみらい１丁目１−１ ヨコハマ グランド インターコンチネンタル ホテル 31FL",
+    "lat": 35.457576,
+    "lng": 139.6375009
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "中国料理 村松",
+    "name_en": "Chinese Muramatsu",
+    "area": "静岡県 静岡市葵区",
+    "url": "https://tabelog.com/shizuoka/A2201/A220101/22039417/",
+    "rating": 3.74,
+    "review_count_tabelog": 57,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Chinese, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 30,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJcQqIR2RLGmARo6Tj4ksrcAE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/22039417-311db5e2ab732e7624777af214e58e7951c4f446ecf17ced065d53a15c7ae7be.jpg",
+    "place_id": "ChIJcQqIR2RLGmARo6Tj4ksrcAE",
+    "g_name": "村松",
+    "g_rating": 4.6,
+    "g_reviews": 30,
+    "g_address": "日本、〒420-0845 静岡県静岡市葵区太田町９−３",
+    "lat": 34.9842088,
+    "lng": 138.3931389
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "翆陽 エクシブ箱根離宮",
+    "name_en": "Suiyo Ekushibu Hakone Rikyu",
+    "area": "神奈川県 宮ノ下駅",
+    "url": "https://tabelog.com/kanagawa/A1410/A141001/14039889/",
+    "rating": 3.65,
+    "review_count_tabelog": 262,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 13:30 17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 11,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJP4VCvz2iGWARqA89c2195qw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/14039889-49fc282c7b6d5972b0162c801a43ddb64896875013f4061ed514978a08c635e2.jpg",
+    "place_id": "ChIJP4VCvz2iGWARqA89c2195qw",
+    "g_name": "宮ノ下駅",
+    "g_rating": 4.4,
+    "g_reviews": 11,
+    "g_address": "日本、〒250-0404 神奈川県足柄下郡箱根町宮ノ下",
+    "lat": 35.241992,
+    "lng": 139.06301
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "中華菜館 同發 本館",
+    "name_en": "Chuka Saikan Dohatsu Honkan",
+    "area": "神奈川県 元町・中華街駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140105/14000152/",
+    "rating": 3.55,
+    "review_count_tabelog": 1106,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri",
+        "dtl": "11:30 - 15:00 L.O. Food 14:30 17:00 - 21:30 L.O. Food 20:30",
+        "dtl_text": "17:00 - 21:30 L.O. Food 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 21:30 L.O. Food 20:30",
+        "dtl_text": "11:00 - 21:30 L.O. Food 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 1078,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_zXYbuNcGGARp7vj_bRSy6w",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/14000152-5952b7ffe8053247c77a7e18c9c8cd245f3c8bd17692ee52c703b7469207f269.jpg",
+    "place_id": "ChIJ_zXYbuNcGGARp7vj_bRSy6w",
+    "g_name": "中華菜館 同發本館",
+    "g_rating": 4.2,
+    "g_reviews": 1078,
+    "g_address": "日本、〒231-0023 神奈川県横浜市中区山下町１４８",
+    "lat": 35.4433932,
+    "lng": 139.6460486
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "牡丹園",
+    "name_en": "Botan En",
+    "area": "神奈川県 元町・中華街駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140105/14000479/",
+    "rating": 3.52,
+    "review_count_tabelog": 534,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chinese, Dim sum & Yum cha",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 14:00 17:00 - 21:00 L.O. Food 20:00",
+        "dtl_text": "17:00 - 21:00 L.O. Food 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 21:00 L.O. Food 20:00",
+        "dtl_text": "11:30 - 21:00 L.O. Food 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 459,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ1U5ZeNcGGARcRs8JGFfMEY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/14000479-34981db20604366713707b6f6092b47cb0050f1aabb0b0da90cb6b22ffa5e019.jpg",
+    "place_id": "ChIJZ1U5ZeNcGGARcRs8JGFfMEY",
+    "g_name": "牡丹園(ボタンエン)",
+    "g_rating": 4.2,
+    "g_reviews": 459,
+    "g_address": "日本、〒231-0023 神奈川県横浜市中区山下町１４７",
+    "lat": 35.44278080000001,
+    "lng": 139.6457892
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "シルクロードガーデン",
+    "name_en": "SILKROAD GARDEN",
+    "area": "千葉県 東京ディズニーシー・ステーション駅",
+    "url": "https://tabelog.com/chiba/A1202/A120203/12002798/",
+    "rating": 3.6,
+    "review_count_tabelog": 286,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Chinese, Dumpling",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 14:30 - 16:00 17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 191,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJIRKKDwN9GGAR8vn2UmtevP8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/12002798-3314924954b6dca160f655434b6e044d78cbc372a4f397745e38c26ba2187209.jpg",
+    "place_id": "ChIJIRKKDwN9GGAR8vn2UmtevP8",
+    "g_name": "シルクロードガーデン",
+    "g_rating": 4.5,
+    "g_reviews": 191,
+    "g_address": "日本、〒279-0031 千葉県浦安市舞浜１−１３",
+    "lat": 35.6271107,
+    "lng": 139.8874667
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "矢場味仙",
+    "name_en": "Yaba Misen",
+    "area": "愛知県 矢場町駅",
+    "url": "https://tabelog.com/aichi/A2301/A230103/23004315/",
+    "rating": 3.67,
+    "review_count_tabelog": 3443,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Taiwanese, Chinese, Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 13:40 17:00 - 00:40",
+        "dtl_text": "17:00 - 00:40"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays (closed during Year-end & New Year Holidays)"
+    },
+    "google_rating": 3.8,
+    "google_reviews": 5398,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJu2dHUcxwA2ARHIY__xVXSOg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/23004315-e02d4d9e9a64a6f5eb4c84acb074bfef557af6294bd216b94a2b7487c34c4406.jpg",
+    "place_id": "ChIJu2dHUcxwA2ARHIY__xVXSOg",
+    "g_name": "味仙 矢場店",
+    "g_rating": 3.8,
+    "g_reviews": 5398,
+    "g_address": "日本、〒460-0011 愛知県名古屋市中区大須３丁目６−３",
+    "lat": 35.1618603,
+    "lng": 136.9056316
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "中国料理 月下翁",
+    "name_en": "Chinese Gekkaou",
+    "area": "北海道 狸小路駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010103/1055614/",
+    "rating": 3.59,
+    "review_count_tabelog": 118,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 00:00",
+        "dtl_text": "18:00 - 00:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 73,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__-PcIQpC18RT8bSVdG-PGI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/1055614-a531cd7a4ea8ccc44e89b5875ca9e82467198bb770548c0e2d5e92f273dbb86a.jpg",
+    "place_id": "ChIJ__-PcIQpC18RT8bSVdG-PGI",
+    "g_name": "中国料理 月下翁",
+    "g_rating": 4.2,
+    "g_reviews": 73,
+    "g_address": "日本、〒060-0063 北海道札幌市中央区南３条西３丁目丁目 地下 一 階",
+    "lat": 43.0563619,
+    "lng": 141.3543896
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "茶虎飯店",
+    "name_en": "Chatora Hanten",
+    "area": "長野県 諏訪郡富士見町",
+    "url": "https://tabelog.com/nagano/A2004/A200405/20023093/",
+    "rating": 3.68,
+    "review_count_tabelog": 50,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sun",
+        "dtl": "11:30 - 14:00 L.O. 13:00 17:30 - 22:00 L.O. 20:30",
+        "dtl_text": "17:30 - 22:00 L.O. 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "17:30 - 22:00 L.O. 20:30",
+        "dtl_text": "17:30 - 22:00 L.O. 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 64,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJMyR-_utDHGARP1FW5wp-EEk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/20023093-0960cd22b2271dca4864592d60ef754690a04996b656f635fdcd91a3f8a61584.jpg",
+    "place_id": "ChIJMyR-_utDHGARP1FW5wp-EEk",
+    "g_name": "茶虎飯店",
+    "g_rating": 4.2,
+    "g_reviews": 64,
+    "g_address": "日本、〒399-0214 長野県諏訪郡富士見町落合１０００７−９",
+    "lat": 35.9113542,
+    "lng": 138.240042
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "中国小麦粉料理専門店恵泉",
+    "name_en": "Chinese Komugiko Ryori Senmonten Keisen",
+    "area": "千葉県 都賀駅",
+    "url": "https://tabelog.com/chiba/A1201/A120105/12024951/",
+    "rating": 3.58,
+    "review_count_tabelog": 219,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chinese, Dim sum & Yum cha, Dumpling",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 L.O. 14:00 17:00 - 20:00 L.O. 19:00",
+        "dtl_text": "17:00 - 20:00 L.O. 19:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "*Private reservations may be available."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 181,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJj-xBxSKFImARtaWOzket6kk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/12024951-769b3cc0e91d434c61c1a8133a9acbc4bb48dad859ab0deccb4f2cc63b94ec12.jpg",
+    "place_id": "ChIJj-xBxSKFImARtaWOzket6kk",
+    "g_name": "惠泉",
+    "g_rating": 4.2,
+    "g_reviews": 181,
+    "g_address": "日本、〒264-0025 千葉県千葉市若葉区都賀３丁目２４−８",
+    "lat": 35.635359,
+    "lng": 140.1516894
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "松の樹",
+    "name_en": "Matsu no Ki",
+    "area": "神奈川県 京急川崎駅",
+    "url": "https://tabelog.com/kanagawa/A1405/A140501/14001739/",
+    "rating": 3.7,
+    "review_count_tabelog": 1374,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chinese, Sichuan, Tantan-men (Spicy noodle soup)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 L.O. 14:30 17:00 - 21:30 L.O. 21:00",
+        "dtl_text": "17:00 - 21:30 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "If Monday is a public holiday, we will be open and take a day off the following day."
+    },
+    "google_rating": 4.1,
+    "google_reviews": 670,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJaQVup71gGGARc2ELZAxljdw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/14001739-3c808530353d166cf6b7a0906bae5b9314f79438e2d0dd19a640e35acba127d5.jpg",
+    "place_id": "ChIJaQVup71gGGARc2ELZAxljdw",
+    "g_name": "松の樹",
+    "g_rating": 4.1,
+    "g_reviews": 670,
+    "g_address": "日本、〒210-0004 神奈川県川崎市川崎区宮本町６−１１ 阿左見ビル",
+    "lat": 35.5309332,
+    "lng": 139.7039911
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "中国料理 彩龍",
+    "name_en": "Chinese Sairyuu",
+    "area": "神奈川県 横浜駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140101/14001312/",
+    "rating": 3.72,
+    "review_count_tabelog": 503,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Chinese, Tantan-men (Spicy noodle soup)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 14:30 17:30 - 22:00",
+        "dtl_text": "17:30 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:30 - 15:00 17:30 - 22:00",
+        "dtl_text": "17:30 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "11:30 - 15:00 17:30 - 21:00",
+        "dtl_text": "17:30 - 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 251,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJm4x1-xFcGGARax9BBRaORHs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/14001312-b81eff49b153b491a9f4ca57d05b4ab65520deab1d4ee803bb89e08713cd4cfa.jpg",
+    "place_id": "ChIJm4x1-xFcGGARax9BBRaORHs",
+    "g_name": "中国料理「彩龍」",
+    "g_rating": 4.1,
+    "g_reviews": 251,
+    "g_address": "日本、〒220-0004 神奈川県横浜市西区北幸１丁目３−２３ 横浜ベイシェラトン ホテル&タワーズ 3F, 西区",
+    "lat": 35.4667913,
+    "lng": 139.6201359
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "中国四川料理 錦水苑",
+    "name_en": "China Sichuan Kinsui En",
+    "area": "愛知県 尼ケ坂駅",
+    "url": "https://tabelog.com/aichi/A2301/A230110/23062504/",
+    "rating": 3.6,
+    "review_count_tabelog": 277,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Sichuan, Chinese hot pot, Tantan-men (Spicy noodle soup)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:00 - 14:00 L.O. 13:30 17:30 - 22:00 L.O. 21:00",
+        "dtl_text": "17:30 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 276,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJCRGHKj1xA2AR1sKWOUu-n0Y",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/23062504-6c9099225be30aed5981408f0e6f0fac6c13bd21af5996618263fa002d9ae23a.jpg",
+    "place_id": "ChIJCRGHKj1xA2AR1sKWOUu-n0Y",
+    "g_name": "中国四川料理 錦水苑",
+    "g_rating": 4.2,
+    "g_reviews": 276,
+    "g_address": "日本、〒462-0835 愛知県名古屋市北区杉村１丁目１−７ ハートイン尼ケ坂 1F",
+    "lat": 35.1887231,
+    "lng": 136.9197876
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "Joe'skitchen",
+    "name_en": "Joe'skitchen",
+    "area": "愛知県 久屋大通駅",
+    "url": "https://tabelog.com/aichi/A2301/A230103/23000564/",
+    "rating": 3.88,
+    "review_count_tabelog": 111,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 52,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJs-LxGitxA2ARWD-QRmM_93M",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/23000564-a8c78561c2b76b5e26db6595821b1633c9e702d42501ca4563146202edf8a609.jpg",
+    "place_id": "ChIJs-LxGitxA2ARWD-QRmM_93M",
+    "g_name": "Joe’s Kitchen",
+    "g_rating": 4.6,
+    "g_reviews": 52,
+    "g_address": "日本、〒460-0002 愛知県名古屋市中区丸の内３丁目９−１９ 正起ビル 1F",
+    "lat": 35.1756056,
+    "lng": 136.9045427
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "文菜華",
+    "name_en": "Bunsai Ka",
+    "area": "千葉県 柏駅",
+    "url": "https://tabelog.com/chiba/A1203/A120301/12004381/",
+    "rating": 3.65,
+    "review_count_tabelog": 198,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "Chinese, Dim sum & Yum cha, Sweets",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00 17:30 - 22:00",
+        "dtl_text": "17:30 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "2nd and 4th Tuesdays, Not fixed"
+    },
+    "google_rating": 3.8,
+    "google_reviews": 138,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJFavbGt-cGGARiyOB2gGQpN8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/12004381-b4a0df546854f4d5c04223d51e7683d9f9dbb8bd74aa944fa14d98a6c56e88eb.jpg",
+    "place_id": "ChIJFavbGt-cGGARiyOB2gGQpN8",
+    "g_name": "中国料理 文菜華",
+    "g_rating": 3.8,
+    "g_reviews": 138,
+    "g_address": "日本、〒277-0011 千葉県柏市東上町２−２",
+    "lat": 35.858609,
+    "lng": 139.9756536
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "中国料理 堀内",
+    "name_en": "Chinese Horiuchi",
+    "area": "神奈川県 青葉台駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140202/14007887/",
+    "rating": 3.57,
+    "review_count_tabelog": 302,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chinese, Dumpling, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 L.O. 14:00 17:30 - 22:30 L.O. 21:30",
+        "dtl_text": "17:30 - 22:30 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (Tuesday if a holiday falls on Monday)"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 133,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJncU6Ts35GGARSKpfTt1ihaI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/14007887-5f59039addc3c51ba8911357aaf1ab1c685f40d6c963118cd5d7fea25c5a68b2.jpg",
+    "place_id": "ChIJncU6Ts35GGARSKpfTt1ihaI",
+    "g_name": "中国料理 堀内",
+    "g_rating": 4.1,
+    "g_reviews": 133,
+    "g_address": "日本、〒227-0062 神奈川県横浜市青葉区青葉台１丁目２９−３６",
+    "lat": 35.5495722,
+    "lng": 139.5170551
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "愛群",
+    "name_en": "Aichun",
+    "area": "神奈川県 元町・中華街駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140105/14001179/",
+    "rating": 3.61,
+    "review_count_tabelog": 1033,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 14:30 16:30 - 20:00 L.O. 19:50",
+        "dtl_text": "16:30 - 20:00 L.O. 19:50",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "11:30 - 14:30 16:30 - 19:30 L.O. 19:20",
+        "dtl_text": "16:30 - 19:30 L.O. 19:20",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (the following day if a holiday)"
+    },
+    "google_rating": 4,
+    "google_reviews": 645,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJhXkd-R1dGGARYHL63aSHPJY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/14001179-4ad5290ed1067b78731f21064a05e2365bb6412f17a5dfd6fc264f15da5bce8e.jpg",
+    "place_id": "ChIJhXkd-R1dGGARYHL63aSHPJY",
+    "g_name": "Motomachi-Chukagai Station",
+    "g_rating": 4,
+    "g_reviews": 645,
+    "g_address": "日本、〒231-0023 神奈川県横浜市中区山下町",
+    "lat": 35.4427858,
+    "lng": 139.6499956
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "崎陽軒本店 嘉宮",
+    "name_en": "Kiyoken Honten Kakyu",
+    "area": "神奈川県 横浜駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140101/14000069/",
+    "rating": 3.55,
+    "review_count_tabelog": 384,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 15:00 L.O. 14:30 17:00 - 21:00 L.O. 20:00",
+        "dtl_text": "17:00 - 21:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 16:00 L.O. 14:30 17:00 - 21:00 L.O. 20:00",
+        "dtl_text": "17:00 - 21:00 L.O. 20:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "New Year's Day and approximately once a month. For more details, please check our website."
+    },
+    "google_rating": 4.1,
+    "google_reviews": 398,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJk5JlPRNcGGARE7DZkRJfnXQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/14000069-549c65fbc94b276df4121f77383251afb633ee6c97f410bb13f19803a4b2db00.jpg",
+    "place_id": "ChIJk5JlPRNcGGARE7DZkRJfnXQ",
+    "g_name": "崎陽軒本店 中国料理 嘉宮",
+    "g_rating": 4.1,
+    "g_reviews": 398,
+    "g_address": "日本、〒220-0011 神奈川県横浜市西区高島２丁目１３−１２ ヨコハマ・ジャスト3号館 2F ビル",
+    "lat": 35.4642025,
+    "lng": 139.6229857
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "アロン",
+    "name_en": "Aaron",
+    "area": "愛知県 新栄町駅",
+    "url": "https://tabelog.com/aichi/A2301/A230104/23058209/",
+    "rating": 3.67,
+    "review_count_tabelog": 276,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "-",
+    "sub_categories": "Chinese, Izakaya (Japanese style tavern), Baru (Spanish style bar)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 00:00 L.O. Food 23:00 Drinks 00:00",
+        "dtl_text": "18:00 - 00:00 L.O. Food 23:00 Drinks 00:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 111,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQBVJcJwA2ARH7-SvKDMf44",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/23058209-c4c5984be9ab58c126c54f7bdfa2d6037044657f675575b1eba8338e69f49a7e.jpg",
+    "place_id": "ChIJAQBVJcJwA2ARH7-SvKDMf44",
+    "g_name": "ARON China Bar",
+    "g_rating": 4.4,
+    "g_reviews": 111,
+    "g_address": "日本、〒460-0007 愛知県名古屋市中区新栄２丁目２４−１４",
+    "lat": 35.1669898,
+    "lng": 136.9203647
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "中国飯店 麗穂",
+    "name_en": "Chinese Hanten Reiho",
+    "area": "愛知県 名鉄名古屋駅",
+    "url": "https://tabelog.com/aichi/A2301/A230101/23064306/",
+    "rating": 3.86,
+    "review_count_tabelog": 544,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 15:00 L.O. 14:30 17:30 - 22:00 L.O. 21:00",
+        "dtl_text": "17:30 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (subject to Midland Square schedule)"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 318,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5-vcsN12A2ARxggdBwsfSFw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/23064306-a82c13eff90484466c9b59b74a672b35b0454827cdb7129330a7e38ba51954ec.jpg",
+    "place_id": "ChIJ5-vcsN12A2ARxggdBwsfSFw",
+    "g_name": "中国飯店 麗穂",
+    "g_rating": 4.5,
+    "g_reviews": 318,
+    "g_address": "日本、〒450-0002 愛知県名古屋市中村区名駅４丁目７−１ ミッドランドスクエア 41階",
+    "lat": 35.1703672,
+    "lng": 136.88537
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "榮林 軽井沢店",
+    "name_en": "Eirin Karuizawa Ten",
+    "area": "長野県 北佐久郡軽井沢町",
+    "url": "https://tabelog.com/nagano/A2003/A200301/20000154/",
+    "rating": 3.63,
+    "review_count_tabelog": 277,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Chinese, Dim sum & Yum cha, Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 14:30 L.O. 14:00 17:00 - 20:30 L.O. 20:00",
+        "dtl_text": "17:00 - 20:30 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "*Please be aware that hours may change due to weather conditions.*"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 279,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmzp7jYHTHWARELadJJ_wy2c",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/20000154-633832aae4625c0592d148e866047ccc4df1ceadb5de845113d97e05d18fa309.jpg",
+    "place_id": "ChIJmzp7jYHTHWARELadJJ_wy2c",
+    "g_name": "榮林 軽井沢店",
+    "g_rating": 4.1,
+    "g_reviews": 279,
+    "g_address": "日本、〒389-0102 長野県北佐久郡軽井沢町軽井沢旧軽井沢１１５１−３",
+    "lat": 36.3514218,
+    "lng": 138.6344622
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "松石",
+    "name_en": "Matsuishi",
+    "area": "宮城県 仙台市太白区",
+    "url": "https://tabelog.com/miyagi/A0401/A040105/4025539/",
+    "rating": 4.12,
+    "review_count_tabelog": 164,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.8,
+    "google_reviews": 40,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6xoHVjcpil8RrbMqzDB3O4c",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/4025539-a9b975bd84c51ac99880a56e844a12f7cb7149107ba7da686eadc5af6198fcc0.jpg",
+    "place_id": "ChIJ6xoHVjcpil8RrbMqzDB3O4c",
+    "g_name": "松石",
+    "g_rating": 4.8,
+    "g_reviews": 40,
+    "g_address": "日本、〒982-0841 宮城県仙台市太白区向山２丁目２−１ エスパシオ向山 101",
+    "lat": 38.2482488,
+    "lng": 140.8678207
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "中国料理 皇苑",
+    "name_en": "Chinese Koen",
+    "area": "神奈川県 みなとみらい駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140103/14000374/",
+    "rating": 3.65,
+    "review_count_tabelog": 351,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "Chinese, Dim sum & Yum cha",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri",
+        "dtl": "11:30 - 13:30 17:30 - 19:30",
+        "dtl_text": "17:30 - 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:00 - 14:00 17:30 - 20:30",
+        "dtl_text": "17:30 - 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "11:00 - 14:00 17:30 - 19:30",
+        "dtl_text": "17:30 - 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.9,
+    "google_reviews": 2611,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJazYc1WlcGGARTjx-zFTO-KU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/14000374-faff76f4e19722e8e63ac209ebc13911356e2eef850cda40e6ae69d1fb674d24.jpg",
+    "place_id": "ChIJazYc1WlcGGARTjx-zFTO-KU",
+    "g_name": "グランモール公園",
+    "g_rating": 3.9,
+    "g_reviews": 2611,
+    "g_address": "日本、〒220-0012 神奈川県横浜市西区みなとみらい３丁目",
+    "lat": 35.4574038,
+    "lng": 139.6311836
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "横浜中華街 北京飯店",
+    "name_en": "Yokohama Chukagai Beijing Hanten",
+    "area": "神奈川県 元町・中華街駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140105/14000679/",
+    "rating": 3.5,
+    "review_count_tabelog": 843,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chinese, Pork bun, Dim sum & Yum cha",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 21:30 L.O. 21:00",
+        "dtl_text": "11:30 - 21:30 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The restaurant will be closed from January 20, 2025 (Monday) to January 24, 2025 (Friday)."
+    },
+    "google_rating": 3.9,
+    "google_reviews": 689,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJN4UaHuNcGGARi1HvqDYiJMc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/14000679-9fbf2929285009a2355d2f7e1076e72ed16bffa0f12e1a003fc9ab3893167665.jpg",
+    "place_id": "ChIJN4UaHuNcGGARi1HvqDYiJMc",
+    "g_name": "横浜中華街 北京飯店",
+    "g_rating": 3.9,
+    "g_reviews": 689,
+    "g_address": "日本、〒231-0023 神奈川県横浜市中区山下町７９−５",
+    "lat": 35.4440868,
+    "lng": 139.6477798
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "盛",
+    "name_en": "Sakari",
+    "area": "秋田県 秋田市",
+    "url": "https://tabelog.com/akita/A0501/A050101/5000025/",
+    "rating": 3.71,
+    "review_count_tabelog": 289,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Sichuan",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat",
+        "dtl": "11:00 - 14:00",
+        "dtl_text": "11:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 458,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2c7GOczCj18R5yIX4RLYYnU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/5000025-3abb89bfc99e020a9cb8dcff7caf13d660e3c55e2b1f25233ccf1bd253cae41b.jpg",
+    "place_id": "ChIJ2c7GOczCj18R5yIX4RLYYnU",
+    "g_name": "中国料理 盛",
+    "g_rating": 4.4,
+    "g_reviews": 458,
+    "g_address": "日本、〒010-0973 秋田県秋田市八橋本町５丁目６−１",
+    "lat": 39.7261441,
+    "lng": 140.0962095
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "八仙",
+    "name_en": "Hassen",
+    "area": "宮城県 青葉通一番町駅",
+    "url": "https://tabelog.com/miyagi/A0401/A040101/4000029/",
+    "rating": 3.71,
+    "review_count_tabelog": 815,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "-",
+    "sub_categories": "Chinese, Dumpling",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat",
+        "dtl": "17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 663,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJEc-8tz0oil8RBPt6_gW0f2M",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/4000029-57469501f439b18cc43593f4da858edfe24d22a6fc3baa928a3a1c371deb0c4f.jpg",
+    "place_id": "ChIJEc-8tz0oil8RBPt6_gW0f2M",
+    "g_name": "餃子元祖 八仙",
+    "g_rating": 4.1,
+    "g_reviews": 663,
+    "g_address": "日本、〒980-0811 宮城県仙台市青葉区一番町２丁目４−１３",
+    "lat": 38.259073,
+    "lng": 140.8728965
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "中国料理柳城",
+    "name_en": "Chinese Ryori Ryujo",
+    "area": "愛知県 伏見駅",
+    "url": "https://tabelog.com/aichi/A2301/A230102/23077611/",
+    "rating": 3.63,
+    "review_count_tabelog": 83,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Chinese, Sichuan, Buffet",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 L.O. 14:00 17:00 - 21:30 L.O. 21:00",
+        "dtl_text": "17:00 - 21:30 L.O. 21:00"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/23077611-3357e9683936d26f18663bc78bd6cd442c633f0df28434ad84a3b93968b056d8.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "和の中",
+    "name_en": "Wa no Naka",
+    "area": "栃木県 宇都宮市",
+    "url": "https://tabelog.com/tochigi/A0901/A090101/9000118/",
+    "rating": 3.51,
+    "review_count_tabelog": 616,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Chinese, Dumpling, Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 L.O. 14:00 17:30 - 21:30 L.O. 21:00",
+        "dtl_text": "17:30 - 21:30 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (Open on holidays and closed the following day) For more details, please check Google or Instagram."
+    },
+    "google_rating": 4.1,
+    "google_reviews": 824,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJP-f-KKNoH2ARiWevWOjOY6k",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/9000118-ad2bff7bb50950dc95ada9732ee2a6a971309be581d12b045bee66f0a4ad119d.jpg",
+    "place_id": "ChIJP-f-KKNoH2ARiWevWOjOY6k",
+    "g_name": "和の中",
+    "g_rating": 4.1,
+    "g_reviews": 824,
+    "g_address": "日本、〒320-0065 栃木県宇都宮市駒生町１２９６−３３",
+    "lat": 36.57908880000001,
+    "lng": 139.8449983
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "徳記",
+    "name_en": "Tokki",
+    "area": "神奈川県 石川町駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140105/14006821/",
+    "rating": 3.54,
+    "review_count_tabelog": 1274,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chinese, Izakaya (Japanese style tavern), Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 15:00 17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 778,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ70KefuRcGGARIuBVx0OKmhU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/14006821-48c3f6acfccd85e1911928569cbd31ff23c206a86cb1b97114d861ea4e1153c1.jpg",
+    "place_id": "ChIJ70KefuRcGGARIuBVx0OKmhU",
+    "g_name": "徳記",
+    "g_rating": 4.1,
+    "g_reviews": 778,
+    "g_address": "日本、〒231-0023 神奈川県横浜市中区山下町１６６",
+    "lat": 35.441825,
+    "lng": 139.64497
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "台湾ラーメン光陽",
+    "name_en": "Taiwan Ramen Koyo",
+    "area": "愛知県 比良駅",
+    "url": "https://tabelog.com/aichi/A2301/A230113/23011919/",
+    "rating": 3.52,
+    "review_count_tabelog": 428,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chinese, Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 23:30 L.O. Food 23:00",
+        "dtl_text": "17:00 - 23:30 L.O. Food 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 821,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJeXwo2HB0A2AR5X97csMid54",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/23011919-4080f2ea8052e9abc769e2bbef895a9627f2b15645b81bbde059f52d13ada470.jpg",
+    "place_id": "ChIJeXwo2HB0A2AR5X97csMid54",
+    "g_name": "台湾ラーメン 光陽",
+    "g_rating": 4.2,
+    "g_reviews": 821,
+    "g_address": "日本、〒452-0802 愛知県名古屋市西区比良３丁目１３９",
+    "lat": 35.2304505,
+    "lng": 136.8972792
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "イチリン ハナレ",
+    "name_en": "Ichirin Hanare",
+    "area": "神奈川県 鎌倉駅",
+    "url": "https://tabelog.com/kanagawa/A1404/A140402/14066990/",
+    "rating": 4.37,
+    "review_count_tabelog": 1012,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Sichuan, Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 L.O. Food 13:00 Drinks 14:00 17:30 - 22:30 L.O. Food 20:00 Drinks 22:00",
+        "dtl_text": "17:30 - 22:30 L.O. Food 20:00 Drinks 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Second seating: 20:00 - 22:30"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 314,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJV5XcFb9FGGARzDTjgKhzQRo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/14066990-19728e71ade7c6a390d956451f53535dce09758a8ac193d776929704a54bc990.jpg",
+    "place_id": "ChIJV5XcFb9FGGARzDTjgKhzQRo",
+    "g_name": "イチリン ハナレ",
+    "g_rating": 4.4,
+    "g_reviews": 314,
+    "g_address": "日本、〒248-0011 神奈川県鎌倉市扇ガ谷２丁目１７−６",
+    "lat": 35.3256224,
+    "lng": 139.5519772
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "南粤美食",
+    "name_en": "Nan'etsu Bishoku",
+    "area": "神奈川県 元町・中華街駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140105/14064517/",
+    "rating": 3.56,
+    "review_count_tabelog": 1228,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 L.O. Food 14:00 17:00 - 20:00 L.O. Food 19:00",
+        "dtl_text": "17:00 - 20:00 L.O. Food 19:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.6,
+    "google_reviews": 1170,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_78tEeNcGGARqgU1k2guWQ0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/14064517-03d3858d32ea4055b70f181f768787c8f85a0683091fe922e815e9a94716f54f.jpg",
+    "place_id": "ChIJ_78tEeNcGGARqgU1k2guWQ0",
+    "g_name": "南粤美食",
+    "g_rating": 3.6,
+    "g_reviews": 1170,
+    "g_address": "日本、〒231-0023 神奈川県横浜市中区山下町１６５−２ ＩＮビル",
+    "lat": 35.4437682,
+    "lng": 139.6469331
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "清風楼",
+    "name_en": "Seifu Rou",
+    "area": "神奈川県 元町・中華街駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140105/14000501/",
+    "rating": 3.54,
+    "review_count_tabelog": 1148,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Chinese, Dim sum & Yum cha",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat",
+        "dtl": "11:45 - 20:00 L.O. 19:30",
+        "dtl_text": "11:45 - 20:00 L.O. 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "12:00 - 20:00 L.O. 19:30",
+        "dtl_text": "12:00 - 20:00 L.O. 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Thursdays (the day before or after a public holiday), Year-end & New Year Holidays (please check for details)"
+    },
+    "google_rating": 3.6,
+    "google_reviews": 871,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJu90poONcGGARpiJIVaH871I",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/14000501-639b6f11781606c847b91c93040451c3671adf70e19c1e1d9df5417cf6b69411.jpg",
+    "place_id": "ChIJu90poONcGGARpiJIVaH871I",
+    "g_name": "清風楼",
+    "g_rating": 3.6,
+    "g_reviews": 871,
+    "g_address": "日本、〒231-0023 神奈川県横浜市中区山下町１９０",
+    "lat": 35.4424075,
+    "lng": 139.6465137
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "スーツァンレストラン 陳 名古屋",
+    "name_en": "Szechuan Restaurant Chin Nagoya",
+    "area": "愛知県 名古屋駅",
+    "url": "https://tabelog.com/aichi/A2301/A230101/23000312/",
+    "rating": 3.67,
+    "review_count_tabelog": 787,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Sichuan, Chinese, Tantan-men (Spicy noodle soup)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 15:00 L.O. 14:00 17:30 - 23:00 L.O. 21:00",
+        "dtl_text": "17:30 - 23:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 15:30 L.O. 14:30 17:30 - 23:00 L.O. 21:00",
+        "dtl_text": "17:30 - 23:00 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (in accordance with JR Central Towers schedule)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 352,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJL1OLked2A2ARTe7JzDY93aE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/23000312-baca3bd72643ff7ff9aa48103d7c344ac4fe2988692793e869c19f611ce8f73b.jpg",
+    "place_id": "ChIJL1OLked2A2ARTe7JzDY93aE",
+    "g_name": "スーツァンレストラン陳 名古屋",
+    "g_rating": 4.3,
+    "g_reviews": 352,
+    "g_address": "日本、〒450-6012 愛知県名古屋市中村区名駅１丁目１−４ タワーズプラザ 12F",
+    "lat": 35.1713631,
+    "lng": 136.8828831
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "永吉",
+    "name_en": "Eikichi",
+    "area": "埼玉県 西川口駅",
+    "url": "https://tabelog.com/saitama/A1102/A110201/11033146/",
+    "rating": 3.65,
+    "review_count_tabelog": 800,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Chinese, Dumpling, Tantan-men (Spicy noodle soup)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 15:00 L.O. 14:30 18:00 - 23:00 L.O. 22:30",
+        "dtl_text": "18:00 - 23:00 L.O. 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:30 - 15:00 L.O. 14:30 18:00 - 22:00 L.O. 21:30",
+        "dtl_text": "18:00 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Public Holiday",
+        "dtl": "18:00 - 22:00 L.O. 21:30",
+        "dtl_text": "18:00 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 754,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJCatt_qSUGGARgmOpr2fD2FI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/11033146-dd29fc5edaa09afbc505becaf97cb0d1d486c5a31a4e023e6673c4071f77b321.jpg",
+    "place_id": "ChIJCatt_qSUGGARgmOpr2fD2FI",
+    "g_name": "永吉",
+    "g_rating": 4.1,
+    "g_reviews": 754,
+    "g_address": "日本、〒332-0021 埼玉県川口市西川口１丁目５−５ ＭＦハイツ 1F",
+    "lat": 35.8147727,
+    "lng": 139.7039442
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "鼎泰豐 名古屋店",
+    "name_en": "Din Tai Fung Nagoya Ten",
+    "area": "愛知県 名鉄名古屋駅",
+    "url": "https://tabelog.com/aichi/A2301/A230101/23000777/",
+    "rating": 3.51,
+    "review_count_tabelog": 745,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Dim sum & Yum cha, Taiwanese, Tantan-men (Spicy noodle soup)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 23:00 L.O. 22:00",
+        "dtl_text": "11:00 - 23:00 L.O. 22:00"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.8,
+    "google_reviews": 716,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJL1OLked2A2AR6zI0eWTxqGo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/23000777-d7f9c4f3b0415e76a07dd302b015c925d11038559a46d16d62e929292d9e19ce.jpg",
+    "place_id": "ChIJL1OLked2A2AR6zI0eWTxqGo",
+    "g_name": "鼎泰豐 名古屋店",
+    "g_rating": 3.8,
+    "g_reviews": 716,
+    "g_address": "日本、〒450-6013 愛知県名古屋市中村区名駅１丁目１−４ 12F",
+    "lat": 35.1705554,
+    "lng": 136.8832349
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "中国料理 三鶴",
+    "name_en": "Chinese Santuru",
+    "area": "神奈川県 川崎駅",
+    "url": "https://tabelog.com/kanagawa/A1405/A140501/14016280/",
+    "rating": 3.65,
+    "review_count_tabelog": 425,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Chinese, Dumpling",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 21:30",
+        "dtl_text": "17:00 - 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 231,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJC90gDKNgGGARfT394vSghYg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/14016280-e997045f6f9bdece5c9316bd0bce85a6a2a8e3f5b882fb3017123c952027ceb2.jpg",
+    "place_id": "ChIJC90gDKNgGGARfT394vSghYg",
+    "g_name": "中華料理 三鶴(さんつる)",
+    "g_rating": 4.4,
+    "g_reviews": 231,
+    "g_address": "日本、〒210-0023 神奈川県川崎市川崎区小川町１６−１２ 三惚",
+    "lat": 35.5270532,
+    "lng": 139.6990418
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "京華樓 本館",
+    "name_en": "Kyoka Rou Honkan",
+    "area": "神奈川県 元町・中華街駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140105/14001178/",
+    "rating": 3.56,
+    "review_count_tabelog": 1659,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Sichuan, Sword cut noodles, Chinese hot pot",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 21:30 L.O. 21:15",
+        "dtl_text": "11:30 - 21:30 L.O. 21:15"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 21:30 L.O. 21:15",
+        "dtl_text": "11:00 - 21:30 L.O. 21:15"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 516,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJNQgAneRcGGARu4pMcTls2b8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/14001178-18278108f773ba2b8fd11d553b12bfc55a5be9418a1dad3d8bd613e4527149ed.jpg",
+    "place_id": "ChIJNQgAneRcGGARu4pMcTls2b8",
+    "g_name": "京華樓 中華街大通り店",
+    "g_rating": 4.1,
+    "g_reviews": 516,
+    "g_address": "日本、〒231-0023 神奈川県横浜市中区山下町１４５−２",
+    "lat": 35.4431689,
+    "lng": 139.6449779
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "中国料理 獅子房",
+    "name_en": "Chinese  Shizufan",
+    "area": "千葉県 市川駅",
+    "url": "https://tabelog.com/chiba/A1202/A120202/12002707/",
+    "rating": 3.55,
+    "review_count_tabelog": 139,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chinese, Chinese hot pot, Sichuan",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 14:30 L.O. 14:00 17:30 - 21:00 L.O. 20:30",
+        "dtl_text": "17:30 - 21:00 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open on Mondays that are public holidays, and closed the following Tuesday."
+    },
+    "google_rating": 4.1,
+    "google_reviews": 66,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJyRtg5pGGGGARF9--uf_qFpI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/12002707-0aa35c6a1bccb249a25b32fde7b368b3b28a4d7fe62b209598e618f26f9679ff.jpg",
+    "place_id": "ChIJyRtg5pGGGGARF9--uf_qFpI",
+    "g_name": "シーズーファン（ｓｈｅ−ｔｚｕ−ｆｕｎ）",
+    "g_rating": 4.1,
+    "g_reviews": 66,
+    "g_address": "日本、〒272-0033 千葉県市川市市川南１丁目１０−１ Iーlinkいちかわ THE TOWERS WEST",
+    "lat": 35.7289772,
+    "lng": 139.906006
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "萬珍樓點心舗",
+    "name_en": "Manchinro Tenshinpo",
+    "area": "神奈川県 日本大通り駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140104/14000128/",
+    "rating": 3.67,
+    "review_count_tabelog": 1361,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Dim sum & Yum cha, Chinese",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Weekdays": {},
+        "Sat, Sun & Public Holidays": {}
+      },
+      "closed_on": "Every Monday (excluding public holidays)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 1494,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2wwIsuRcGGARi5GOlmnBExY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/14000128-c2fe544c7b886d50919a1c45cea2fd4ab7eb3e78d6bd582a74711c7b3b4a0720.jpg",
+    "place_id": "ChIJ2wwIsuRcGGARi5GOlmnBExY",
+    "g_name": "萬珍樓點心舗",
+    "g_rating": 4.3,
+    "g_reviews": 1494,
+    "g_address": "日本、〒231-0023 神奈川県横浜市中区山下町１５６",
+    "lat": 35.4437861,
+    "lng": 139.6448011
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "陳麻婆豆腐 マエジマ",
+    "name_en": "Maejima",
+    "area": "埼玉県 志木駅",
+    "url": "https://tabelog.com/saitama/A1103/A110302/11052302/",
+    "rating": 3.64,
+    "review_count_tabelog": 128,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Sichuan, Chinese, Dining bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "16:00 - 00:00 L.O. Food 22:30",
+        "dtl_text": "16:00 - 00:00 L.O. Food 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.7,
+    "google_reviews": 209,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJL0ScQLPpGGARgP66dDMv6oc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/11052302-9e85d86a642586b05e880181aa0870c21908c3108c0fdcae10b3389604a62b9d.jpg",
+    "place_id": "ChIJL0ScQLPpGGARgP66dDMv6oc",
+    "g_name": "本格四川中華BAR 陳麻婆豆腐Maejima（お酒の注文が必須店舗になります）",
+    "g_rating": 3.7,
+    "g_reviews": 209,
+    "g_address": "日本、〒353-0004 埼玉県志木市本町６丁目２７−１２",
+    "lat": 35.8243383,
+    "lng": 139.5736435
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "中華ダイニング 華火",
+    "name_en": "Chuka Dining Hanabi",
+    "area": "岐阜県 岐阜市",
+    "url": "https://tabelog.com/gifu/A2101/A210101/21015771/",
+    "rating": 3.66,
+    "review_count_tabelog": 109,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 L.O. 13:30 18:00 - 21:00 L.O. 20:30",
+        "dtl_text": "18:00 - 21:00 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "11:30 - 14:30 L.O. 13:30",
+        "dtl_text": "11:30 - 14:30 L.O. 13:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The restaurant may also close on other irregular days. Please check our official website for updates before your visit."
+    },
+    "google_rating": 4.1,
+    "google_reviews": 266,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJw7dPjo2pA2AROLACYxGra-g",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/21015771-434f20ccfa8f4674b653930cefdb6252817a6df08b8c40b193d8478db10e73e7.jpg",
+    "place_id": "ChIJw7dPjo2pA2AROLACYxGra-g",
+    "g_name": "台湾まぜそば はなび 岐阜店",
+    "g_rating": 4.1,
+    "g_reviews": 266,
+    "g_address": "日本、〒500-8833 岐阜県岐阜市神田町６丁目１６−１",
+    "lat": 35.4166394,
+    "lng": 136.7598339
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "口福菜 亀吉",
+    "name_en": "Kofukusai Kamekichi",
+    "area": "愛知県 高岳駅",
+    "url": "https://tabelog.com/aichi/A2301/A230104/23082241/",
+    "rating": 3.69,
+    "review_count_tabelog": 185,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Chinese, Sichuan",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays and a few irregular days each month (please check our Instagram for details)."
+    },
+    "google_rating": 4.7,
+    "google_reviews": 43,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJb-9J-xFxA2ARuK3OTyAgcDw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/23082241-99fafd6f81f1814f9da597f64a1390a01786f9fbffeee2098bba152cb36b4ca1.jpg",
+    "place_id": "ChIJb-9J-xFxA2ARuK3OTyAgcDw",
+    "g_name": "口福菜 亀吉",
+    "g_rating": 4.7,
+    "g_reviews": 43,
+    "g_address": "日本、〒461-0013 愛知県名古屋市東区飯田町1",
+    "lat": 35.1789211,
+    "lng": 136.9162074
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "THE CONDER HOUSE",
+    "name_en": "THE CONDER HOUSE",
+    "area": "愛知県 伏見駅",
+    "url": "https://tabelog.com/aichi/A2301/A230102/23066790/",
+    "rating": 3.61,
+    "review_count_tabelog": 829,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Chinese, Asian, Ethnic, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu",
+        "dtl": "11:00 - 22:00",
+        "dtl_text": "11:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Fri",
+        "dtl": "11:00 - 23:00",
+        "dtl_text": "11:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 574,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJaduOGSt3A2ARa_wkHi9LE7M",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/23066790-2ce69995b20d839a6aa13829337ac2d652d6d3e01cdfe398c7297042bbc3c618.jpg",
+    "place_id": "ChIJaduOGSt3A2ARa_wkHi9LE7M",
+    "g_name": "THE CONDER HOUSE",
+    "g_rating": 4.3,
+    "g_reviews": 574,
+    "g_address": "日本、〒460-0003 愛知県名古屋市中区錦２丁目２０ ２５号",
+    "lat": 35.168735,
+    "lng": 136.9013026
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "山東 2号店",
+    "name_en": "Santon 2go Ten",
+    "area": "神奈川県 日本大通り駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140104/14000483/",
+    "rating": 3.65,
+    "review_count_tabelog": 2952,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chinese, Dumpling, Dim sum & Yum cha",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 23:00 L.O. 22:30",
+        "dtl_text": "11:00 - 23:00 L.O. 22:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 3.9,
+    "google_reviews": 282,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQTTESvpcGGARbbLUnM4Qh_U",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/14000483-a9905af6ce6f096d3e7b3632c6a3f4e0eadf8db85321833247e24fce11e307c1.jpg",
+    "place_id": "ChIJQTTESvpcGGARbbLUnM4Qh_U",
+    "g_name": "日本大通り駅",
+    "g_rating": 3.9,
+    "g_reviews": 282,
+    "g_address": "日本、〒231-0021 神奈川県横浜市中区日本大通",
+    "lat": 35.4468153,
+    "lng": 139.6425887
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "四川 China 八兵衛",
+    "name_en": "Shisen China Hachibee",
+    "area": "愛知県 日進市",
+    "url": "https://tabelog.com/aichi/A2303/A230302/23032100/",
+    "rating": 3.74,
+    "review_count_tabelog": 382,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Sichuan, Chinese, Tantan-men (Spicy noodle soup)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 15:00 L.O. 14:30 17:30 - 21:00 L.O. 20:00",
+        "dtl_text": "17:30 - 21:00 L.O. 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 15:00 L.O. 14:30 17:00 - 21:00 L.O. 20:00",
+        "dtl_text": "17:00 - 21:00 L.O. 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every third Tuesday and occasionally on other days."
+    },
+    "google_rating": 4,
+    "google_reviews": 340,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJodVpGD5kA2ARBBDir26Gx7s",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/23032100-ce0de787d646b71c442a750a53dbaed24af37b705ad70609795136146868bfd2.jpg",
+    "place_id": "ChIJodVpGD5kA2ARBBDir26Gx7s",
+    "g_name": "四川China 八兵衛",
+    "g_rating": 4,
+    "g_reviews": 340,
+    "g_address": "日本、〒470-0131 愛知県日進市岩崎町大塚４２−３",
+    "lat": 35.1441603,
+    "lng": 137.0425598
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "景徳鎮",
+    "name_en": "Keitokuchin",
+    "area": "神奈川県 元町・中華街駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140105/14000499/",
+    "rating": 3.65,
+    "review_count_tabelog": 2710,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Sichuan, Dim sum & Yum cha, Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 22:00 L.O. 21:30",
+        "dtl_text": "11:30 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 22:00 L.O. 21:30",
+        "dtl_text": "11:00 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Lunch Time": {}
+      },
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 1839,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJf5pbdeNcGGAR8f7jUXw8Akw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/14000499-c9f2d24616b9c52cec94244918bc6d6aba8fd00e92205c05ede61775c8d71256.jpg",
+    "place_id": "ChIJf5pbdeNcGGAR8f7jUXw8Akw",
+    "g_name": "景徳鎮",
+    "g_rating": 4.1,
+    "g_reviews": 1839,
+    "g_address": "日本、〒231-0023 神奈川県横浜市中区山下町190番地",
+    "lat": 35.4427125,
+    "lng": 139.6463531
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "壹番",
+    "name_en": "Ichiban",
+    "area": "静岡県 熱海市",
+    "url": "https://tabelog.com/shizuoka/A2205/A220502/22000012/",
+    "rating": 3.67,
+    "review_count_tabelog": 444,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Chinese, Sichuan",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00 17:00 - 20:00 L.O. 20:00",
+        "dtl_text": "17:00 - 20:00 L.O. 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 474,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8VftJmS-GWARAmDlNTb5r9o",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/22000012-51931a405361cc4a45bc40084891678f3a8bfda7750efeea0ef4dcfa56e3ece8.jpg",
+    "place_id": "ChIJ8VftJmS-GWARAmDlNTb5r9o",
+    "g_name": "中国菜室 壹番",
+    "g_rating": 4,
+    "g_reviews": 474,
+    "g_address": "日本、〒413-0019 静岡県熱海市咲見町７−４８",
+    "lat": 35.0990588,
+    "lng": 139.0749408
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "ホテルオークラレストラン名古屋 中国料理 桃花林",
+    "name_en": "Hotel Okura Restaurant Nagoya Chinese Tokarin",
+    "area": "愛知県 高岳駅",
+    "url": "https://tabelog.com/aichi/A2301/A230104/23000289/",
+    "rating": 3.52,
+    "review_count_tabelog": 233,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Chinese, Dim sum & Yum cha, Dumpling",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 15:00 L.O. 14:00 17:30 - 22:00 L.O. 20:30",
+        "dtl_text": "17:30 - 22:00 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 15:00 L.O. 14:00 17:00 - 22:00 L.O. 20:30",
+        "dtl_text": "17:00 - 22:00 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 236,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJHaOkXNpwA2AR_XHV5oMRTeU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/23000289-b99bdaf489de2b4408650b323371878e8bfc22bad75cdf7a7a79a78aea00ec21.jpg",
+    "place_id": "ChIJHaOkXNpwA2AR_XHV5oMRTeU",
+    "g_name": "桃花林",
+    "g_rating": 4.1,
+    "g_reviews": 236,
+    "g_address": "日本、〒461-0005 愛知県名古屋市東区東桜１丁目１４−２５ テレピアビル１４ １５階",
+    "lat": 35.1708019,
+    "lng": 136.9139805
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "粥菜坊",
+    "name_en": "Kayu Nabou",
+    "area": "神奈川県 武蔵小杉駅",
+    "url": "https://tabelog.com/kanagawa/A1405/A140504/14009596/",
+    "rating": 3.7,
+    "review_count_tabelog": 534,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chinese, Dim sum & Yum cha, Chinese rice porridge",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Fri",
+        "dtl": "11:30 - 14:00 L.O. Food 13:00 18:00 - 21:00 L.O. Food 20:30",
+        "dtl_text": "18:00 - 21:00 L.O. Food 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "11:30 - 15:00 L.O. Food 14:00 17:00 - 21:00 L.O. Food 20:30",
+        "dtl_text": "17:00 - 21:00 L.O. Food 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Public Holiday",
+        "dtl": "11:30 - 15:00 L.O. 14:15 17:00 - 21:00 L.O. Food 20:30",
+        "dtl_text": "17:00 - 21:00 L.O. Food 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.7,
+    "google_reviews": 302,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJYF1qHn1GGAR49p-vaGSS2U",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/14009596-979f5071f1ed3e309c705556dfb9999b4a51f51c5102dd52f8af18e617259899.jpg",
+    "place_id": "ChIJJYF1qHn1GGAR49p-vaGSS2U",
+    "g_name": "粥菜坊",
+    "g_rating": 3.7,
+    "g_reviews": 302,
+    "g_address": "日本、〒211-0064 神奈川県川崎市中原区今井南町４−１２ フローラハイム",
+    "lat": 35.5742559,
+    "lng": 139.6536819
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "開化亭",
+    "name_en": "Kaika Tei",
+    "area": "岐阜県 岐阜市",
+    "url": "https://tabelog.com/gifu/A2101/A210101/21000011/",
+    "rating": 4.17,
+    "review_count_tabelog": 840,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:15 L.O. 13:45 17:00 - 21:30 L.O. 20:30",
+        "dtl_text": "17:00 - 21:30 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 283,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJh34h3VqpA2ARr5FsRZnPX-8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/21000011-e041431af941728382056d7d7647d2345db82f8ddc4d5ff4cf59bfa0fce67ab1.jpg",
+    "place_id": "ChIJh34h3VqpA2ARr5FsRZnPX-8",
+    "g_name": "開化亭",
+    "g_rating": 4.1,
+    "g_reviews": 283,
+    "g_address": "日本、〒500-8821 岐阜県岐阜市鷹見町２５−２",
+    "lat": 35.4233119,
+    "lng": 136.7594486
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "飲茶 はるのそら",
+    "name_en": "Yum cha Haru no Sora",
+    "area": "北海道 西８丁目駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010102/1058800/",
+    "rating": 3.6,
+    "review_count_tabelog": 160,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Dim sum & Yum cha, Chinese rice porridge, Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat",
+        "dtl": "11:00 - 14:30 L.O. 13:30 18:00 - 22:00 L.O. 21:00",
+        "dtl_text": "18:00 - 22:00 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 245,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJc4_rJZspC18RIMH3-JmbrWc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/1058800-3c988b28f17fbc2a0f48989c928a38639172ac04633efb774cf9f5df208370ab.jpg",
+    "place_id": "ChIJc4_rJZspC18RIMH3-JmbrWc",
+    "g_name": "はるのそら",
+    "g_rating": 4.4,
+    "g_reviews": 245,
+    "g_address": "日本、〒060-0042 北海道札幌市中央区大通西６丁目１０−１１ 北都ビル B1F",
+    "lat": 43.0604496,
+    "lng": 141.3477741
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "炎神",
+    "name_en": "Agni",
+    "area": "茨城県 水戸市",
+    "url": "https://tabelog.com/ibaraki/A0801/A080101/8000134/",
+    "rating": 3.7,
+    "review_count_tabelog": 740,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Sichuan, Dining bar, Tantan-men (Spicy noodle soup)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:15 - 14:30 L.O. 14:00 18:00 - 23:00 L.O. Food 22:00 Drinks 22:30",
+        "dtl_text": "18:00 - 23:00 L.O. Food 22:00 Drinks 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Public Holiday",
+        "dtl": "11:15 - 14:30 18:00 - 23:00 L.O. Food 22:00 Drinks 22:30",
+        "dtl_text": "18:00 - 23:00 L.O. Food 22:00 Drinks 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Dinner last seating at 21:40"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 812,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQwjnsAYlImARrRidgaU-dvU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/8000134-ab53632fd3b496105456b11c7ed9f4c6cc481fe791f829b8fbe78eb62cb84c6c.jpg",
+    "place_id": "ChIJQwjnsAYlImARrRidgaU-dvU",
+    "g_name": "炎神",
+    "g_rating": 4.1,
+    "g_reviews": 812,
+    "g_address": "日本、〒310-0801 茨城県水戸市桜川２丁目１−６ アイランドビル 1Ｆ",
+    "lat": 36.3686963,
+    "lng": 140.4779206
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "龍鳳",
+    "name_en": "Ryuho",
+    "area": "神奈川県 伊勢佐木長者町駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140104/14015123/",
+    "rating": 3.56,
+    "review_count_tabelog": 291,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Chinese, Asian, Ethnic",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri, Sat, Sun",
+        "dtl": "11:15 - 14:30 L.O. 13:50 17:00 - 21:00 L.O. 20:00",
+        "dtl_text": "17:00 - 21:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 243,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJPanBVvNcGGAR-rpBbpi4LnE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/14015123-a33945ee8216bd3f5851d94bbf39ed304106dca7f201fc0fabf8362c49dfff6e.jpg",
+    "place_id": "ChIJPanBVvNcGGAR-rpBbpi4LnE",
+    "g_name": "龍鳳",
+    "g_rating": 4.3,
+    "g_reviews": 243,
+    "g_address": "日本、〒231-0033 神奈川県横浜市中区長者町７丁目１１２",
+    "lat": 35.4428305,
+    "lng": 139.6303399
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "來杏 Chinese Restaurant",
+    "name_en": "Raika Chinese Restaurant",
+    "area": "愛知県 近鉄名古屋駅",
+    "url": "https://tabelog.com/aichi/A2301/A230101/23054616/",
+    "rating": 3.52,
+    "review_count_tabelog": 254,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Sichuan, Chinese, Tantan-men (Spicy noodle soup)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 14:30 L.O. 14:00 18:00 - 21:30 L.O. 21:00",
+        "dtl_text": "18:00 - 21:30 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.8,
+    "google_reviews": 932,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJM38S9N12A2ARZenfXWsongQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/23054616-03dfd7f8e6cf70d22933f366e69a8bcb5e14ffa43f82d97f1d6b87754ac303fd.jpg",
+    "place_id": "ChIJM38S9N12A2ARZenfXWsongQ",
+    "g_name": "近鉄名古屋駅",
+    "g_rating": 3.8,
+    "g_reviews": 932,
+    "g_address": "日本、〒450-0002 愛知県 名古屋市中村区名駅１丁目２−２",
+    "lat": 35.169158,
+    "lng": 136.8843022
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "中国料理 「王朝」 ヒルトン東京ベイ",
+    "name_en": "Chinese Ocho Hiruton Tokyo Bei",
+    "area": "千葉県 ベイサイド・ステーション駅",
+    "url": "https://tabelog.com/chiba/A1202/A120203/12000220/",
+    "rating": 3.64,
+    "review_count_tabelog": 197,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Chinese, Buffet, Dumpling",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri",
+        "dtl": "11:30 - 15:00 L.O. 14:30 17:30 - 21:00 L.O. 20:30",
+        "dtl_text": "17:30 - 21:00 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 15:00 L.O. 14:30 17:30 - 22:00 L.O. 21:30",
+        "dtl_text": "17:30 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 134,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJd3RBFRh9GGARZe607wjJjJM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/12000220-a2672f69fb253e008378b95f66802a4a305254a0ec92b1af194b957e523af584.jpg",
+    "place_id": "ChIJd3RBFRh9GGARZe607wjJjJM",
+    "g_name": "ベイサイド・ステーション駅",
+    "g_rating": 4.1,
+    "g_reviews": 134,
+    "g_address": "日本、〒279-0031 千葉県浦安市舞浜",
+    "lat": 35.6279149,
+    "lng": 139.8767588
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "中国四川酒家 蔓山",
+    "name_en": "China Sichuan Shuka Manzan",
+    "area": "千葉県 幕張本郷駅",
+    "url": "https://tabelog.com/chiba/A1201/A120102/12020350/",
+    "rating": 4.08,
+    "review_count_tabelog": 395,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Sichuan, Chinese, Tantan-men (Spicy noodle soup)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The restaurant may also close on other irregular days."
+    },
+    "google_rating": 4,
+    "google_reviews": 160,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJf5Z5ZrmBImARX-gMtWIgIc8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/12020350-cc69c23df850aa766b4ddc913d50e5f142e1555c23a64c2cf274032b15797ba4.jpg",
+    "place_id": "ChIJf5Z5ZrmBImARX-gMtWIgIc8",
+    "g_name": "中国四川酒家 蔓山",
+    "g_rating": 4,
+    "g_reviews": 160,
+    "g_address": "日本、〒262-0033 千葉県千葉市花見川区幕張本郷６丁目２５−４ マリオット本郷 105",
+    "lat": 35.6740151,
+    "lng": 140.0439751
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "中国料理 竜苑",
+    "name_en": "Chinese Ryuen",
+    "area": "群馬県 北群馬郡吉岡町",
+    "url": "https://tabelog.com/gunma/A1004/A100401/10002504/",
+    "rating": 3.65,
+    "review_count_tabelog": 168,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 L.O. 14:00 17:30 - 21:30 L.O. 20:30",
+        "dtl_text": "17:30 - 21:30 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays, the second Tuesday of each month, and the last Tuesday of each month (for more details, please visit our website)."
+    },
+    "google_rating": 4,
+    "google_reviews": 183,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJr4EfXuCKHmARwoVmm-KQKuw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/10002504-8a0ac0a35315359f96fc3e98331e198b2cec1457a1c76e20c4482fd93271ce85.jpg",
+    "place_id": "ChIJr4EfXuCKHmARwoVmm-KQKuw",
+    "g_name": "竜苑",
+    "g_rating": 4,
+    "g_reviews": 183,
+    "g_address": "日本、〒370-3602 群馬県北群馬郡吉岡町大久保３４７６−１",
+    "lat": 36.4403012,
+    "lng": 139.0198506
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "上海家庭料理 謝謝 船橋駅前南口店",
+    "name_en": "Shanghai Katei Ryouri Shei Shei Funabashi Ekimae Minamiguchi Ten",
+    "area": "千葉県 京成船橋駅",
+    "url": "https://tabelog.com/chiba/A1202/A120201/12002278/",
+    "rating": 3.57,
+    "review_count_tabelog": 397,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 14:00 17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 315,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJuWYkhHiAGGAR-f1IuEGXnhw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/12002278-909c17294c149a7be6043e75c15f8cecd76dd7f3e18c193a0803040bc71d6fb7.jpg",
+    "place_id": "ChIJuWYkhHiAGGAR-f1IuEGXnhw",
+    "g_name": "謝謝 南口店",
+    "g_rating": 4.2,
+    "g_reviews": 315,
+    "g_address": "日本、〒273-0005 千葉県船橋市本町１丁目４−８ 船橋駅前ビル",
+    "lat": 35.7003051,
+    "lng": 139.9851006
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "中山邸Labo",
+    "name_en": "Nakayama Tei Labo",
+    "area": "愛知県 池下駅",
+    "url": "https://tabelog.com/aichi/A2301/A230106/23078337/",
+    "rating": 3.64,
+    "review_count_tabelog": 41,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "Chinese",
+    "hours_raw": [],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 29,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJFUbMDABxA2ARPFu0Fes5pns",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/23078337-d3cf3cf3afad139c745f604fb400c0b9ee6a4518768d46737b73a3db43869306.jpg",
+    "place_id": "ChIJFUbMDABxA2ARPFu0Fes5pns",
+    "g_name": "台湾料理唐屋",
+    "g_rating": 4.4,
+    "g_reviews": 29,
+    "g_address": "日本、〒464-0067 愛知県名古屋市千種区池下１丁目３−１１",
+    "lat": 35.1686982,
+    "lng": 136.9455427
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "第一亭",
+    "name_en": "Daiichi Tei",
+    "area": "神奈川県 日ノ出町駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140102/14004194/",
+    "rating": 3.55,
+    "review_count_tabelog": 1513,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Taiwanese, Tripe, Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 13:30 16:30 - 21:00",
+        "dtl_text": "16:30 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 1257,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJbdaB7YpcGGARBzSj-PrfxcM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/14004194-d0f510c88037f2c79f7e67194bd1504a288d0cc6010311629763e8ba2dbb4a4b.jpg",
+    "place_id": "ChIJbdaB7YpcGGARBzSj-PrfxcM",
+    "g_name": "第一亭",
+    "g_rating": 4.3,
+    "g_reviews": 1257,
+    "g_address": "日本、〒231-0066 神奈川県横浜市中区日ノ出町１丁目２０ 中華第一亭",
+    "lat": 35.4456444,
+    "lng": 139.6280667
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "味仙 今池本店",
+    "name_en": "Ajisen Imaikohon Ten",
+    "area": "愛知県 今池駅",
+    "url": "https://tabelog.com/aichi/A2301/A230106/23000239/",
+    "rating": 3.63,
+    "review_count_tabelog": 2062,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "-",
+    "sub_categories": "Taiwanese, Chinese, Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 01:00 L.O. 00:30",
+        "dtl_text": "17:00 - 01:00 L.O. 00:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 3072,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ26v6u4xwA2ARb97otDTOztQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/23000239-e1689b9e5a226f2a90fa6be6d799ca9cdd33603d19140f031e44b1747042a81e.jpg",
+    "place_id": "ChIJ26v6u4xwA2ARb97otDTOztQ",
+    "g_name": "味仙 今池本店",
+    "g_rating": 4,
+    "g_reviews": 3072,
+    "g_address": "日本、〒464-0850 愛知県名古屋市千種区今池１丁目１２−１０",
+    "lat": 35.167858,
+    "lng": 136.9359411
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "中国料理 新香港",
+    "name_en": "Chinese Shinshangan",
+    "area": "愛知県 栄（名古屋）駅",
+    "url": "https://tabelog.com/aichi/A2301/A230103/23077649/",
+    "rating": 3.58,
+    "review_count_tabelog": 145,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Chinese, Dim sum & Yum cha, Chinese rice porridge",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 L.O. 14:30 17:30 - 22:00 L.O. 21:00",
+        "dtl_text": "17:30 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "January 1 (due to building closure at BINO Sakae)"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 70,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGdyuitNwA2ARQsOIVR8jyk8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/23077649-3e4bb0dc6ddfc30f37b37f2abe83a4d6b2b1eb25de08ac4905b4764c5971befb.jpg",
+    "place_id": "ChIJGdyuitNwA2ARQsOIVR8jyk8",
+    "g_name": "新香港",
+    "g_rating": 4.5,
+    "g_reviews": 70,
+    "g_address": "日本、〒460-0003 愛知県名古屋市中区錦３丁目２４−１７ BINO栄 5F",
+    "lat": 35.169122,
+    "lng": 136.9065411
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "海鮮中国料理黄河",
+    "name_en": "Seafood Chinese Koga",
+    "area": "愛知県 国際センター駅",
+    "url": "https://tabelog.com/aichi/A2301/A230101/23010210/",
+    "rating": 3.53,
+    "review_count_tabelog": 193,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Chinese, Creative, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays"
+    },
+    "google_rating": 3.9,
+    "google_reviews": 74,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJazJZzsN2A2ARHLAIBypJHtY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/23010210-24b654d6d3aded5e3a41098d8452ae6d4e17e6d2f29762c513a7440af3508fd8.jpg",
+    "place_id": "ChIJazJZzsN2A2ARHLAIBypJHtY",
+    "g_name": "海鮮中国料理黄河",
+    "g_rating": 3.9,
+    "g_reviews": 74,
+    "g_address": "日本、〒451-0042 愛知県名古屋市西区那古野２丁目１１−１５",
+    "lat": 35.1775963,
+    "lng": 136.8862107
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "くぬぎ屋",
+    "name_en": "Kunugi Ya",
+    "area": "神奈川県 伊勢佐木長者町駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140104/14062814/",
+    "rating": 3.67,
+    "review_count_tabelog": 853,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu",
+        "dtl": "11:00 - 15:00 17:00 - 00:00",
+        "dtl_text": "17:00 - 00:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Fri",
+        "dtl": "11:00 - 15:00 17:00 - 01:00",
+        "dtl_text": "17:00 - 01:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:00 - 01:00",
+        "dtl_text": "11:00 - 01:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:00 - 00:00",
+        "dtl_text": "11:00 - 00:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays (open on holidays and the day before holidays)"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 991,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ78NbdvNcGGARBRXByKp20cA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/14062814-484a90bedcdd25fcbe0130efb9e0dfb75d40eb3f113fb236cdbf08ee85c0af79.jpg",
+    "place_id": "ChIJ78NbdvNcGGARBRXByKp20cA",
+    "g_name": "ワンタンスープ専門店 くぬぎ屋",
+    "g_rating": 4.2,
+    "g_reviews": 991,
+    "g_address": "日本、〒231-0047 神奈川県横浜市中区羽衣町３丁目５９−１",
+    "lat": 35.4431376,
+    "lng": 139.6323609
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "啓徳",
+    "name_en": "Keitoku",
+    "area": "埼玉県 与野駅",
+    "url": "https://tabelog.com/saitama/A1101/A110101/11004552/",
+    "rating": 3.61,
+    "review_count_tabelog": 199,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "-",
+    "sub_categories": "Chinese, Sichuan",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:30 - 22:30",
+        "dtl_text": "17:30 - 22:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.9,
+    "google_reviews": 69,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJCcKfy6XBGGARQkZZJ8oGhx4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/11004552-2ddbd7de6e3cce734da6a37429753b9efb6f07486e3bdf5f9997afc0b9b93fef.jpg",
+    "place_id": "ChIJCcKfy6XBGGARQkZZJ8oGhx4",
+    "g_name": "啓徳",
+    "g_rating": 3.9,
+    "g_reviews": 69,
+    "g_address": "日本、〒330-0071 埼玉県さいたま市浦和区上木崎１丁目１０−１５ 入江ビル 1F",
+    "lat": 35.8854933,
+    "lng": 139.6377209
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "小菜一碟",
+    "name_en": "Shaotsai Iedie",
+    "area": "愛知県 高岳駅",
+    "url": "https://tabelog.com/aichi/A2301/A230104/23072536/",
+    "rating": 3.91,
+    "review_count_tabelog": 593,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Chinese, Sichuan",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 13:30 17:30 - 21:00",
+        "dtl_text": "17:30 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every Monday and Not fixed; please check our official Instagram for updates."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 229,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1wolqH9xA2ARcJfdF6AfQlE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/23072536-32f2508ae680ac913f05eccd5aa5c0fa5acb35cd241ed64608646afe6d3b6b20.jpg",
+    "place_id": "ChIJ1wolqH9xA2ARcJfdF6AfQlE",
+    "g_name": "小菜一碟",
+    "g_rating": 4.3,
+    "g_reviews": 229,
+    "g_address": "日本、〒461-0012 愛知県名古屋市東区相生町４３ ウィステリア １F",
+    "lat": 35.17973750000001,
+    "lng": 136.921688
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "獅門酒楼",
+    "name_en": "Shimon Shuro",
+    "area": "神奈川県 石川町駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140105/14007196/",
+    "rating": 3.58,
+    "review_count_tabelog": 1064,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chinese, Dim sum & Yum cha",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri",
+        "dtl": "11:30 - 14:30 L.O. 14:00 16:30 - 21:30 L.O. 21:00",
+        "dtl_text": "16:30 - 21:30 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 15:30 L.O. 15:00 16:30 - 21:30 L.O. 21:00",
+        "dtl_text": "16:30 - 21:30 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every Wednesday (open on public holidays)"
+    },
+    "google_rating": 4,
+    "google_reviews": 895,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7wIAneRcGGARWxLR9h0BxOg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/14007196-b857716ec71659f25cc0dd4a440a0ee7c0ee260ff522e943f1f45125c4627e0f.jpg",
+    "place_id": "ChIJ7wIAneRcGGARWxLR9h0BxOg",
+    "g_name": "獅門酒楼",
+    "g_rating": 4,
+    "g_reviews": 895,
+    "g_address": "日本、〒231-0023 神奈川県横浜市中区山下町１４５",
+    "lat": 35.4428811,
+    "lng": 139.6451358
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "安記",
+    "name_en": "Anki",
+    "area": "神奈川県 元町・中華街駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140104/14000104/",
+    "rating": 3.55,
+    "review_count_tabelog": 836,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Chinese, Dim sum & Yum cha",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri",
+        "dtl": "10:00 - 14:00 17:00 - 20:30",
+        "dtl_text": "17:00 - 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "10:00 - 15:30 16:30 - 20:30",
+        "dtl_text": "16:30 - 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 502,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJTcJyZONcGGARoEcxc3JpmNg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/14000104-f15c06482f6cab04175beb7f60d752ffb0e4bafd212c79150068090383704085.jpg",
+    "place_id": "ChIJTcJyZONcGGARoEcxc3JpmNg",
+    "g_name": "安記(アンキ)",
+    "g_rating": 4.1,
+    "g_reviews": 502,
+    "g_address": "日本、〒231-0023 神奈川県横浜市中区山下町１４７",
+    "lat": 35.4431449,
+    "lng": 139.6456021
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "李園",
+    "name_en": "Ri En",
+    "area": "神奈川県 山手駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140106/14000539/",
+    "rating": 3.72,
+    "review_count_tabelog": 374,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chinese, Dumpling",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 L.O. 14:00 17:00 - 20:45",
+        "dtl_text": "17:00 - 20:45",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 540,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJdWnu5SZdGGARKlzzsbe_ulc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/14000539-f6efeaa02a8a1f6fbe066cd2e34185449102931cb3d5abb1c450956633760cb1.jpg",
+    "place_id": "ChIJdWnu5SZdGGARKlzzsbe_ulc",
+    "g_name": "李園",
+    "g_rating": 4.2,
+    "g_reviews": 540,
+    "g_address": "日本、〒231-0843 神奈川県横浜市中区本郷町１丁目１８−１８ 青木ビル",
+    "lat": 35.4324955,
+    "lng": 139.6533794
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "台湾小吃店 慶龍",
+    "name_en": "Taiwan Shokitsu Ten Chinron",
+    "area": "千葉県 大神宮下駅",
+    "url": "https://tabelog.com/chiba/A1202/A120201/12003459/",
+    "rating": 3.62,
+    "review_count_tabelog": 250,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Taiwanese, Chinese, Chinese rice porridge",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 15:00 L.O. 14:30 18:00 - 21:00 L.O. 20:00",
+        "dtl_text": "18:00 - 21:00 L.O. 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 409,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJRfzCxdN_GGARDSHdEytioxM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/12003459-9a37eb2ff0e5749008355c49ee867b0fae8f354b6b2dd34c9d5850f1e80c0b41.jpg",
+    "place_id": "ChIJRfzCxdN_GGARDSHdEytioxM",
+    "g_name": "慶龍",
+    "g_rating": 4.4,
+    "g_reviews": 409,
+    "g_address": "日本、〒273-0011 千葉県船橋市湊町３丁目６−２４",
+    "lat": 35.6924256,
+    "lng": 139.981907
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "中国料理 もみぢ",
+    "name_en": "Chinese Momiji",
+    "area": "北海道 資生館小学校前駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010102/1060543/",
+    "rating": 3.66,
+    "review_count_tabelog": 254,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "-",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 00:00",
+        "dtl_text": "17:00 - 00:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The first Monday of each month"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 119,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGaUxADopC18RXysasTjRj8Y",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/1060543-08c2df0bba8d8573b94ca65c862a0a092db57e8bd2460395a8ac88a79442d447.jpg",
+    "place_id": "ChIJGaUxADopC18RXysasTjRj8Y",
+    "g_name": "中国料理 もみぢ",
+    "g_rating": 4.2,
+    "g_reviews": 119,
+    "g_address": "日本、〒060-0063 北海道札幌市中央区南３条西６丁目１０",
+    "lat": 43.0565832,
+    "lng": 141.3494045
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "川菜味",
+    "name_en": "Kawanami",
+    "area": "千葉県 京成船橋駅",
+    "url": "https://tabelog.com/chiba/A1202/A120201/12000282/",
+    "rating": 3.68,
+    "review_count_tabelog": 539,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chinese, Sichuan, Tantan-men (Spicy noodle soup)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Fri",
+        "dtl": "11:30 - 14:00 17:30 - 22:00 L.O. 21:00",
+        "dtl_text": "17:30 - 22:00 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "11:30 - 14:00 17:30 - 21:30 L.O. 20:30",
+        "dtl_text": "17:30 - 21:30 L.O. 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:30 - 14:00 17:30 - 21:00 L.O. Food 20:00 Drinks 21:00",
+        "dtl_text": "17:30 - 21:00 L.O. Food 20:00 Drinks 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:30 - 14:00 17:30 - 21:00 L.O. 20:00",
+        "dtl_text": "17:30 - 21:00 L.O. 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 306,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJIeZs59V_GGARA8cBDJQpM4Y",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/12000282-ac4e16ee986c3cd974989e15b3b9dcc635472fd5b876ef6df95705cbfc3ffd00.jpg",
+    "place_id": "ChIJIeZs59V_GGARA8cBDJQpM4Y",
+    "g_name": "川菜味",
+    "g_rating": 4.1,
+    "g_reviews": 306,
+    "g_address": "日本、〒273-0005 千葉県船橋市本町２丁目１０−２９",
+    "lat": 35.6977259,
+    "lng": 139.9824089
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "龍の子",
+    "name_en": "Ryu no Ko",
+    "area": "埼玉県 羽貫駅",
+    "url": "https://tabelog.com/saitama/A1104/A110402/11019467/",
+    "rating": 3.61,
+    "review_count_tabelog": 121,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Sichuan, Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:00 17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 84,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJcY5lGzbPGGARqmGKKTP8aw0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/11019467-584db38ca5747016eb20e65f7d43bf39fc0bb487a5fbf10fb932a0e704bf7f2d.jpg",
+    "place_id": "ChIJcY5lGzbPGGARqmGKKTP8aw0",
+    "g_name": "中国四川料理 龍の子",
+    "g_rating": 4,
+    "g_reviews": 84,
+    "g_address": "日本、〒362-0807 埼玉県北足立郡伊奈町寿２丁目８７−３",
+    "lat": 36.0055418,
+    "lng": 139.6036754
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "茗圃",
+    "name_en": "Myouho",
+    "area": "愛知県 伏見駅",
+    "url": "https://tabelog.com/aichi/A2301/A230102/23033553/",
+    "rating": 3.58,
+    "review_count_tabelog": 392,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Chinese, Izakaya (Japanese style tavern), Dim sum & Yum cha",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 17:00 17:30 - 22:00 L.O. 21:00",
+        "dtl_text": "17:30 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Lunch": {},
+        "Tea Time": {}
+      },
+      "closed_on": "Tuesdays if Monday is a public holiday"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 285,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJSTbK8ix3A2ARSycocq4aliA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/23033553-7e9963d197614c5c3c2b0083557c29619a65bd9e92b629617ac9cb51c1ca38e7.jpg",
+    "place_id": "ChIJSTbK8ix3A2ARSycocq4aliA",
+    "g_name": "茗圃",
+    "g_rating": 4.2,
+    "g_reviews": 285,
+    "g_address": "日本、〒460-0008 愛知県名古屋市中区栄２丁目１２−２２ ウィン・コート白川 １Ｆ",
+    "lat": 35.1655689,
+    "lng": 136.9010777
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "静岡四川飯店",
+    "name_en": "Shizuoka Sichuan Hanten",
+    "area": "静岡県 静岡市葵区",
+    "url": "https://tabelog.com/shizuoka/A2201/A220101/22002703/",
+    "rating": 3.64,
+    "review_count_tabelog": 180,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Sichuan",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu",
+        "dtl": "11:30 - 14:30 L.O. 14:00 17:00 - 20:30 L.O. 20:00",
+        "dtl_text": "17:00 - 20:30 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Fri",
+        "dtl": "11:30 - 14:30 L.O. 14:00 17:30 - 21:00 L.O. 20:00",
+        "dtl_text": "17:30 - 21:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:30 - 14:30 L.O. 14:00 17:30 - 20:30 L.O. 20:00",
+        "dtl_text": "17:30 - 20:30 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "11:00 - 14:30 L.O. 14:00 17:00 - 20:30 L.O. 19:30",
+        "dtl_text": "17:00 - 20:30 L.O. 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (If Monday is a public holiday, we will be closed the following Tuesday.)"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 241,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJU9H9QvZJGmARRP8NnMzlA4A",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/22002703-8bad3cd94618e754a4e86da9db6b1f471d57ca0d1856e239bd5d8000d3b1a410.jpg",
+    "place_id": "ChIJU9H9QvZJGmARRP8NnMzlA4A",
+    "g_name": "静岡四川飯店",
+    "g_rating": 4.1,
+    "g_reviews": 241,
+    "g_address": "日本、〒420-0852 静岡県静岡市葵区紺屋町３−１０ 中島屋グランドホテル B1F",
+    "lat": 34.97303830000001,
+    "lng": 138.3852294
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "萬珍樓 本店",
+    "name_en": "Manchin ro Hon Ten",
+    "area": "神奈川県 日本大通り駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140104/14000144/",
+    "rating": 3.68,
+    "review_count_tabelog": 1888,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Chinese, Dim sum & Yum cha",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 15:00 17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 22:00",
+        "dtl_text": "11:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every Monday, except public holidays"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 2435,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJN5Rzu-RcGGARHASwo8SYs3w",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/14000144-a2f1bbd89dd714c82af57c9fbb301b377658f9d671abdb5586f87094592d7875.jpg",
+    "place_id": "ChIJN5Rzu-RcGGARHASwo8SYs3w",
+    "g_name": "萬珍樓 本店",
+    "g_rating": 4.3,
+    "g_reviews": 2435,
+    "g_address": "日本、〒231-0023 神奈川県横浜市中区山下町１５３",
+    "lat": 35.44333659999999,
+    "lng": 139.6444803
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "チャイナダイニング 喰う 喰う",
+    "name_en": "china-dining KU- KU-",
+    "area": "神奈川県 逗子駅",
+    "url": "https://tabelog.com/kanagawa/A1406/A140602/14009413/",
+    "rating": 3.57,
+    "review_count_tabelog": 96,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "-",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri, Sat, Sun",
+        "dtl": "17:30 - 22:00 L.O. 21:30",
+        "dtl_text": "17:30 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 83,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJnS_w1_JGGGARI19nGbTp4D4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/14009413-60e1e6d93ae0d7bbe751614be415dd13f9c8c23cdfd1316f71377f7f198726c0.jpg",
+    "place_id": "ChIJnS_w1_JGGGARI19nGbTp4D4",
+    "g_name": "チャイナダイニング喰う喰う",
+    "g_rating": 4.4,
+    "g_reviews": 83,
+    "g_address": "日本、〒249-0006 神奈川県逗子市逗子１丁目１０−２６",
+    "lat": 35.2967804,
+    "lng": 139.5765424
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "太原",
+    "name_en": "Taigen",
+    "area": "神奈川県 足柄下郡箱根町",
+    "url": "https://tabelog.com/kanagawa/A1410/A141001/14004554/",
+    "rating": 3.58,
+    "review_count_tabelog": 236,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Sichuan",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:30 17:00 - 20:30",
+        "dtl_text": "17:00 - 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 466,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJE3l9XUyeGWARaE_snd7dVoU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/14004554-8710631bba7abef2baca40c2ad8279e46a2b3f3edac70c85d8e7fe377226edcf.jpg",
+    "place_id": "ChIJE3l9XUyeGWARaE_snd7dVoU",
+    "g_name": "中国料理 太原",
+    "g_rating": 4.2,
+    "g_reviews": 466,
+    "g_address": "日本、〒250-0631 神奈川県足柄下郡箱根町仙石原１１８１−１４５",
+    "lat": 35.277192,
+    "lng": 138.998131
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "Chinese restaurant KUE",
+    "name_en": "Chinese restaurant KUE",
+    "area": "神奈川県 大船駅",
+    "url": "https://tabelog.com/kanagawa/A1404/A140401/14085564/",
+    "rating": 3.67,
+    "review_count_tabelog": 110,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Chinese, Dumpling, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00 17:30 - 21:30",
+        "dtl_text": "17:30 - 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 24,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJhyKkAIZFGGARoCWYJHKRjKE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/14085564-9051f4a62f74466217d0d5d790eaf2d9b514af0d8bc9ef0775af373a84fac1cd.jpg",
+    "place_id": "ChIJhyKkAIZFGGARoCWYJHKRjKE",
+    "g_name": "Chinese restaurant KUE",
+    "g_rating": 4.1,
+    "g_reviews": 24,
+    "g_address": "日本、〒247-0072 神奈川県鎌倉市岡本１丁目２−３５ 大船プラザ 204",
+    "lat": 35.3536914,
+    "lng": 139.5297189
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "MASA'S KITCHEN 名古屋JRゲートタワー",
+    "name_en": "MASA'S KITCHEN Nagoya Jr Gate Tower",
+    "area": "愛知県 名古屋駅",
+    "url": "https://tabelog.com/aichi/A2301/A230101/23063252/",
+    "rating": 3.59,
+    "review_count_tabelog": 619,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chinese, Tantan-men (Spicy noodle soup), Sichuan",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 L.O. Food 14:00 17:00 - 22:00 L.O. Food 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. Food 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round (following JR Gate Tower schedule)"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 215,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8QwX4-d2A2ARsA2K7DDSKQs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/23063252-0a8e179c2bda836ebc20fdf5b59be94d90630c72208fb3147309a721b5f668c0.jpg",
+    "place_id": "ChIJ8QwX4-d2A2ARsA2K7DDSKQs",
+    "g_name": "MASA'S KITCHEN 名古屋JRゲートタワー",
+    "g_rating": 4.1,
+    "g_reviews": 215,
+    "g_address": "日本、〒450-6612 愛知県名古屋市中村区名駅１丁目１−３ JRゲートタワー プラザレストラン街内",
+    "lat": 35.1722563,
+    "lng": 136.8827898
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "中華一 龍王",
+    "name_en": "Chukaichi Ryuou",
+    "area": "神奈川県 横浜駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140101/14001655/",
+    "rating": 3.49,
+    "review_count_tabelog": 1498,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Chinese, Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "11:00 - 19:30 L.O. 18:50",
+        "dtl_text": "11:00 - 19:30 L.O. 18:50"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 20:30 L.O. 19:50",
+        "dtl_text": "11:00 - 20:30 L.O. 19:50"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Temporary closure on December 31, January 1, and January 2."
+    },
+    "google_rating": 4,
+    "google_reviews": 1894,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJt4OSYhJcGGARB1MPReknXkE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/14001655-8704acfb44ac0661261247499058d778a1d66f8301e434eba8f662818d38cc1d.jpg",
+    "place_id": "ChIJt4OSYhJcGGARB1MPReknXkE",
+    "g_name": "中華一 龍王",
+    "g_rating": 4,
+    "g_reviews": 1894,
+    "g_address": "日本、〒220-0005 神奈川県横浜市西区南幸１丁目５−２４ 新相鉄ビル 1階",
+    "lat": 35.4640184,
+    "lng": 139.6202727
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "クロモリ",
+    "name_en": "Chromoly",
+    "area": "宮城県 仙台市太白区",
+    "url": "https://tabelog.com/miyagi/A0401/A040105/4022461/",
+    "rating": 4.15,
+    "review_count_tabelog": 199,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Chinese, Dim sum & Yum cha",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Fri & Sat": {},
+        "Tue - Sat": {}
+      },
+      "closed_on": "Mondays, Sundays, and Public Holidays"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 144,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmRdsV24oil8RB5d12jJZ6go",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/4022461-95bda397bb7b598d5e800dd39d361e60a13784b93b52f289785f0329374ef746.jpg",
+    "place_id": "ChIJmRdsV24oil8RB5d12jJZ6go",
+    "g_name": "KUROMORI",
+    "g_rating": 4.3,
+    "g_reviews": 144,
+    "g_address": "日本、〒982-0841 宮城県仙台市太白区向山２丁目２−２４",
+    "lat": 38.2468547,
+    "lng": 140.8689158
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "チャイナ キッチン",
+    "name_en": "China Kitchen",
+    "area": "北海道 虻田郡倶知安町",
+    "url": "https://tabelog.com/hokkaido/A0106/A010603/1065415/",
+    "rating": 3.52,
+    "review_count_tabelog": 44,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "12:00 - 14:30 L.O. Food 14:00 17:30 - 22:00 L.O. Food 21:00",
+        "dtl_text": "17:30 - 22:00 L.O. Food 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Day before public holiday, Day after public holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "*On Saturdays, Sundays, and public holidays, only the Dim Sum order buffet will be available during lunch hours. A la carte and set menus will not be offered."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 59,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJi5iLCva7Cl8RtAsN8-USH2k",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/1065415-ea2da0d4735d5a104e8a4f78c5ea8b374531abd65d15afe11d3fc948e73bbe22.jpg",
+    "place_id": "ChIJi5iLCva7Cl8RtAsN8-USH2k",
+    "g_name": "China Kitchen (チャイナキッチン 悅軒)",
+    "g_rating": 4.3,
+    "g_reviews": 59,
+    "g_address": "Aza, ３２８−４７ 岩尾別 倶知安町 虻田郡 北海道 044-0082 日本",
+    "lat": 42.8932027,
+    "lng": 140.6975686
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "中国酒菜 鯉石",
+    "name_en": "Chinese Shusai Riseki",
+    "area": "北海道 さっぽろ（札幌市営）駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010101/1067311/",
+    "rating": 3.57,
+    "review_count_tabelog": 22,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "18:00 - 22:00 L.O. Food 21:30 Drinks 21:50",
+        "dtl_text": "18:00 - 22:00 L.O. Food 21:30 Drinks 21:50"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.8,
+    "google_reviews": 428,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJb-D6cHUpC18RZfTfiNdXT3E",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/1067311-5c6fa096e31b3dc00ecd40e167425c838f53abe77436b96294be52c76ae7b4dd.jpg",
+    "place_id": "ChIJb-D6cHUpC18RZfTfiNdXT3E",
+    "g_name": "さっぽろ駅",
+    "g_rating": 3.8,
+    "g_reviews": 428,
+    "g_address": "日本、〒060-0004 北海道札幌市中央区北4条西2",
+    "lat": 43.0657901,
+    "lng": 141.3523723
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "菜の花",
+    "name_en": "Nanohana",
+    "area": "愛知県 池下駅",
+    "url": "https://tabelog.com/aichi/A2301/A230106/23002546/",
+    "rating": 3.67,
+    "review_count_tabelog": 361,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Fri, Sat, Sun",
+        "dtl": "11:30 - 13:30 17:30 - 21:00 L.O. 20:30",
+        "dtl_text": "17:30 - 21:00 L.O. 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "11:30 - 13:30",
+        "dtl_text": "11:30 - 13:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Lunch service is available with a limited menu. Last orders for lunch are taken until 13:30, but may close earlier if ingredients run out. The last seating for dinner is at 20:00."
+    },
+    "google_rating": 4.1,
+    "google_reviews": 91,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1f8ep11wA2ARLW-VmenK4FY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/23002546-993500cca08ac0a8ece13d8071a430596e4b18936f2c4ce26a7c12cab19ac615.jpg",
+    "place_id": "ChIJ1f8ep11wA2ARLW-VmenK4FY",
+    "g_name": "菜の花",
+    "g_rating": 4.1,
+    "g_reviews": 91,
+    "g_address": "日本、〒464-0071 愛知県名古屋市千種区若水３丁目１８−２ ライフコア若水",
+    "lat": 35.1758624,
+    "lng": 136.948902
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "好蘭",
+    "name_en": "Koran",
+    "area": "愛知県 矢場町駅",
+    "url": "https://tabelog.com/aichi/A2301/A230103/23082675/",
+    "rating": 4.05,
+    "review_count_tabelog": 192,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Sun",
+        "dtl": "18:30 - 22:00",
+        "dtl_text": "18:30 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Fri, Sat",
+        "dtl": "11:30 - 14:00 18:30 - 22:00",
+        "dtl_text": "18:30 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 41,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ68unGYxxA2ARm5x-NmoeeB0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/23082675-e05dff2f27caecc04866fa602db7d6319b38d56ac7806f9f23e0122cce1832b4.jpg",
+    "place_id": "ChIJ68unGYxxA2ARm5x-NmoeeB0",
+    "g_name": "好蘭",
+    "g_rating": 4.6,
+    "g_reviews": 41,
+    "g_address": "日本、〒460-0008 愛知県名古屋市中区栄５丁目１−２１ M Lアシスト栄ビル 2A",
+    "lat": 35.1652209,
+    "lng": 136.9105974
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "中国旬菜 茶馬燕",
+    "name_en": "Chinese Shunsai Chaamaen",
+    "area": "神奈川県 藤沢駅",
+    "url": "https://tabelog.com/kanagawa/A1404/A140404/14031172/",
+    "rating": 3.71,
+    "review_count_tabelog": 220,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Chinese, Tantan-men without the broth",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri",
+        "dtl": "17:30 - 20:30",
+        "dtl_text": "17:30 - 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "12:00 - 13:30 17:30 - 20:30",
+        "dtl_text": "17:30 - 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Sat, Sun & Public Holidays": {}
+      },
+      "closed_on": "Other irregular days"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 104,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJOaBn7MpPGGARLp6oTzOIHYw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/14031172-1c4fd541eb1efa8f42a3489a4485734f97faa5b1af6d4260c25d32c19971bc5f.jpg",
+    "place_id": "ChIJOaBn7MpPGGARLp6oTzOIHYw",
+    "g_name": "中国旬菜 茶馬燕",
+    "g_rating": 4.2,
+    "g_reviews": 104,
+    "g_address": "日本、〒251-0055 神奈川県藤沢市南藤沢２０−１５ 第一興産１８号館 6F",
+    "lat": 35.336973,
+    "lng": 139.488953
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "中華割烹 わらじん",
+    "name_en": "Chuka Kappo Warajin",
+    "area": "愛知県 国際センター駅",
+    "url": "https://tabelog.com/aichi/A2301/A230101/23080951/",
+    "rating": 3.66,
+    "review_count_tabelog": 185,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Chinese, Tantan-men (Spicy noodle soup), Izakaya (Japanese style tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Day before public holiday",
+        "dtl": "18:00 - 22:30",
+        "dtl_text": "18:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 80,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJX71W-tt2A2ARkF4pOiE7aRc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/23080951-f5f1fa6df509980c7d48549b738ac19c77c1da2705d99ab3e17f9b321d2a2859.jpg",
+    "place_id": "ChIJX71W-tt2A2ARkF4pOiE7aRc",
+    "g_name": "わらじん",
+    "g_rating": 4.4,
+    "g_reviews": 80,
+    "g_address": "日本、〒450-0002 愛知県名古屋市中村区名駅４丁目１８−１３ 祖父江ビル",
+    "lat": 35.1708508,
+    "lng": 136.8887491
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "中国料理 一楽",
+    "name_en": "Ichiraku",
+    "area": "神奈川県 日本大通り駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140104/14000485/",
+    "rating": 3.55,
+    "review_count_tabelog": 789,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chinese, Sichuan",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu",
+        "dtl": "11:30 - 15:30 L.O. 14:30 17:00 - 21:30 L.O. 20:30",
+        "dtl_text": "17:00 - 21:30 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Fri",
+        "dtl": "11:30 - 15:30 L.O. 14:30 17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:30 - 16:30 L.O. 15:30 17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "11:30 - 16:30 L.O. 15:30 17:00 - 21:30 L.O. 20:30",
+        "dtl_text": "17:00 - 21:30 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every Monday and the third Tuesday of each month. If Monday is a public holiday, the following Tuesday will be closed."
+    },
+    "google_rating": 4,
+    "google_reviews": 724,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJgcKkYONcGGARH9nJwWk5Mv8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/14000485-6a8040a615c3fd48ee9c19690a21d82e55bce196f7432c29facf7a9a9aa3aff0.jpg",
+    "place_id": "ChIJgcKkYONcGGARH9nJwWk5Mv8",
+    "g_name": "中国料理 一楽",
+    "g_rating": 4,
+    "g_reviews": 724,
+    "g_address": "日本、〒231-0023 神奈川県横浜市中区山下町１５０",
+    "lat": 35.4434174,
+    "lng": 139.6454881
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "中国料理 翆陽",
+    "name_en": "Chinese Suiyo",
+    "area": "神奈川県 足柄下郡湯河原町",
+    "url": "https://tabelog.com/kanagawa/A1410/A141002/14070214/",
+    "rating": 3.61,
+    "review_count_tabelog": 109,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 13:30 L.O. 13:00 17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 112,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJUVmyUAi9GWARaoAD0YXWoBY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/14070214-cab832f175caee0bbafbbeadd8de90b669a67ea85228a59341652156bd0b09e9.jpg",
+    "place_id": "ChIJUVmyUAi9GWARaoAD0YXWoBY",
+    "g_name": "エクシブ湯河原離宮 中国料理 翆陽",
+    "g_rating": 4.4,
+    "g_reviews": 112,
+    "g_address": "日本、〒259-0314 神奈川県足柄下郡湯河原町宮上631ｰ1 エクシブ湯河原離宮",
+    "lat": 35.1493798,
+    "lng": 139.0701236
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "眞善美",
+    "name_en": "Shin Zen Bi",
+    "area": "愛知県 高岳駅",
+    "url": "https://tabelog.com/aichi/A2301/A230104/23075825/",
+    "rating": 4.4,
+    "review_count_tabelog": 234,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Sichuan, Chinese",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Please note that we may not be able to answer phone calls during business hours. For inquiries, kindly call during our preparation time: 12:00 PM - 18:00."
+    },
+    "google_rating": 4.7,
+    "google_reviews": 48,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ457isjtxA2AR1PPrhe6N1G4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/23075825-1674e14244587b3839d60d85e53ebac5144eab1155a761ae652140ae47e2e299.jpg",
+    "place_id": "ChIJ457isjtxA2AR1PPrhe6N1G4",
+    "g_name": "眞善美",
+    "g_rating": 4.7,
+    "g_reviews": 48,
+    "g_address": "日本、〒461-0005 愛知県名古屋市東区東桜２丁目１２−３４ M’s Garden, 2F",
+    "lat": 35.1716072,
+    "lng": 136.9154913
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "中華料理 忠実堂",
+    "name_en": "Chinese Chujitsu Do",
+    "area": "千葉県 京成中山駅",
+    "url": "https://tabelog.com/chiba/A1202/A120201/12004326/",
+    "rating": 3.45,
+    "review_count_tabelog": 148,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chinese, Ramen, Dumpling",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 21:00",
+        "dtl_text": "11:30 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 135,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJYUxLI9eAGGAR9URvXLMbZ1U",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/12004326-d0eabe3d267ac2df651cb756ed93a7383f32754d457e4394b5a39d953425bb5b.jpg",
+    "place_id": "ChIJYUxLI9eAGGAR9URvXLMbZ1U",
+    "g_name": "忠実堂",
+    "g_rating": 4,
+    "g_reviews": 135,
+    "g_address": "日本、〒273-0035 千葉県船橋市本中山１丁目１５−２３",
+    "lat": 35.7168419,
+    "lng": 139.9451021
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "ウチダ テイ",
+    "name_en": "UCHIDA‐TEI",
+    "area": "神奈川県 新丸子駅",
+    "url": "https://tabelog.com/kanagawa/A1405/A140504/14054701/",
+    "rating": 3.69,
+    "review_count_tabelog": 152,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "17:30 - 22:00",
+        "dtl_text": "17:30 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 14:00 17:30 - 22:00",
+        "dtl_text": "17:30 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 86,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ828wBmX1GGAR37nHNel32LE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/14054701-c63e4d17e7e90f3e2bcbed440198b77e59a782794520be57eca63ba54ab17431.jpg",
+    "place_id": "ChIJ828wBmX1GGAR37nHNel32LE",
+    "g_name": "ウチダテイ 武蔵小杉",
+    "g_rating": 4.5,
+    "g_reviews": 86,
+    "g_address": "日本、〒211-0004 神奈川県川崎市中原区新丸子東２丁目８９７−３１",
+    "lat": 35.5785003,
+    "lng": 139.6624453
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "來來",
+    "name_en": "Rai Rai",
+    "area": "群馬県 高崎市",
+    "url": "https://tabelog.com/gunma/A1001/A100102/10002409/",
+    "rating": 3.56,
+    "review_count_tabelog": 163,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "-",
+    "sub_categories": "Taiwanese, Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu",
+        "dtl": "17:00 - 00:00 L.O. Food 23:30",
+        "dtl_text": "17:00 - 00:00 L.O. Food 23:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Fri, Sat",
+        "dtl": "17:00 - 02:00 L.O. Food 01:30",
+        "dtl_text": "17:00 - 02:00 L.O. Food 01:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Day before public holiday",
+        "dtl": "17:00 - 00:00 L.O. Food 23:30 Drinks 23:45",
+        "dtl_text": "17:00 - 00:00 L.O. Food 23:30 Drinks 23:45"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The restaurant may also close on other irregular days. Please refer to the highlights on our official Instagram for the schedule of our holidays."
+    },
+    "google_rating": 3.9,
+    "google_reviews": 141,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJjSYJSnmNHmARTlZyYk4sJHs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/10002409-d4d177061978be8cbeb3b0b11e9b67f3bf8437abb421697f3eb31a2e8ddbcc3d.jpg",
+    "place_id": "ChIJjSYJSnmNHmARTlZyYk4sJHs",
+    "g_name": "台湾料理 來來",
+    "g_rating": 3.9,
+    "g_reviews": 141,
+    "g_address": "日本、〒370-0815 群馬県高崎市柳川町３５",
+    "lat": 36.3283604,
+    "lng": 139.004801
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "菜香新館",
+    "name_en": "Saiko Shinkan",
+    "area": "神奈川県 元町・中華街駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140105/14003055/",
+    "rating": 3.67,
+    "review_count_tabelog": 1971,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Chinese, Dim sum & Yum cha",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri",
+        "dtl": "11:30 - 15:30 L.O. 14:30 17:00 - 21:30 L.O. 20:30",
+        "dtl_text": "17:00 - 21:30 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 16:00 L.O. 15:00 17:00 - 21:30 L.O. 20:30",
+        "dtl_text": "17:00 - 21:30 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 2840,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJn89aCeNcGGARRhESdc6Ezqc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/14003055-ff65698fae3e1565135b932f367a1705638d0366ed51bcf4df6690531a1c7dc6.jpg",
+    "place_id": "ChIJn89aCeNcGGARRhESdc6Ezqc",
+    "g_name": "菜香新館",
+    "g_rating": 4.2,
+    "g_reviews": 2840,
+    "g_address": "日本、〒231-0023 神奈川県横浜市中区山下町１９２",
+    "lat": 35.4431281,
+    "lng": 139.6468506
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "1022",
+    "name_en": "1022",
+    "area": "愛知県 国際センター駅",
+    "url": "https://tabelog.com/aichi/A2301/A230101/23084327/",
+    "rating": 3.72,
+    "review_count_tabelog": 64,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Chinese, Sichuan, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon - Sat": {}
+      },
+      "closed_on": "Sundays and not fixed."
+    },
+    "google_rating": 4.8,
+    "google_reviews": 30,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJHwL75Zx3A2ARhS9JupILRkw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/23084327-eef561c5a6282a3ece99bf9f1d1050edb6c46f89e99d49b134798d7e37241a8e.jpg",
+    "place_id": "ChIJHwL75Zx3A2ARhS9JupILRkw",
+    "g_name": "中華料理１０２２（テントゥウェンティトゥー）",
+    "g_rating": 4.8,
+    "g_reviews": 30,
+    "g_address": "日本、〒451-0042 愛知県名古屋市西区那古野１丁目２０ 28号-2 endoji square 2階",
+    "lat": 35.1761837,
+    "lng": 136.8905747
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "樓蘭",
+    "name_en": "Roran",
+    "area": "静岡県 浜松市浜名区",
+    "url": "https://tabelog.com/shizuoka/A2202/A220201/22001112/",
+    "rating": 3.52,
+    "review_count_tabelog": 108,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Sichuan",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri",
+        "dtl": "11:00 - 14:30 17:30 - 21:00",
+        "dtl_text": "17:30 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 14:30 17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 358,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJl789UAHgGmARRuHzqF2Q5Hs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/22001112-2757e10f681b371c545dd9c6a4c860d260f8ea1ea8faae40eb4cfbc4ba6c02f7.jpg",
+    "place_id": "ChIJl789UAHgGmARRuHzqF2Q5Hs",
+    "g_name": "樓蘭 ローラン",
+    "g_rating": 4.1,
+    "g_reviews": 358,
+    "g_address": "日本、〒434-0042 静岡県浜松市浜名区小松３１１０−１",
+    "lat": 34.7835753,
+    "lng": 137.7681232
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "EAST",
+    "name": "Le Chinois SANO Nagoya",
+    "name_en": "Le Chinois SANO Nagoya",
+    "area": "愛知県 伏見駅",
+    "url": "https://tabelog.com/aichi/A2301/A230102/23079388/",
+    "rating": 3.58,
+    "review_count_tabelog": 29,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:00 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 6,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAwNJwA2ARukctefvOSNo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_east/23079388-50a5938b0e48ef5f6cdda25bcdf8c1e1ba48383368d676288023971eaadf3343.jpg",
+    "place_id": "ChIJAQAAwNJwA2ARukctefvOSNo",
+    "g_name": "ル シノワ サノ ナゴヤ",
+    "g_rating": 4.5,
+    "g_reviews": 6,
+    "g_address": "日本、〒460-0008 愛知県名古屋市中区栄１丁目４−１６ C Forest X 2階",
+    "lat": 35.1676053,
+    "lng": 136.8961555
+  }
+]

@@ -1,0 +1,4272 @@
+[
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "いちにいさん 国分店",
+    "name_en": "Ichinii San Kokubuten",
+    "area": "鹿児島県 霧島市",
+    "url": "https://tabelog.com/kagoshima/A4603/A460301/46002519/",
+    "rating": 3.57,
+    "review_count_tabelog": 176,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Pork shabu shabu, Pork dishes, Shabu shabu (Japanese hotpot)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 21:30 L.O. 21:00",
+        "dtl_text": "11:30 - 21:30 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 746,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJjTkiBYb7PjURGDoquqwSqTA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/46002519-df9d63820227088382716f394655210f1265ec88b857d30e6323503fe6efa949.jpg",
+    "place_id": "ChIJjTkiBYb7PjURGDoquqwSqTA",
+    "g_name": "遊食豚彩 いちにいさん 国分店",
+    "g_rating": 4.2,
+    "g_reviews": 746,
+    "g_address": "日本、〒899-4343 鹿児島県霧島市国分野口西２−５４０−３",
+    "lat": 31.7413693,
+    "lng": 130.7467644
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "モリタ屋 東京丸の内店",
+    "name_en": "Morita Ya Tokyo Marunochi Ten",
+    "area": "東京都 二重橋前駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130201/13006083/",
+    "rating": 3.58,
+    "review_count_tabelog": 364,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Sukiyaki, Steak, Shabu shabu (Japanese hotpot)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 15:00 L.O. 14:00 17:00 - 23:00 L.O. 21:30",
+        "dtl_text": "17:00 - 23:00 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "11:00 - 15:00 L.O. 14:00 17:00 - 22:00 L.O. 20:00",
+        "dtl_text": "17:00 - 22:00 L.O. 20:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "January 1 (following the Marunouchi Building schedule)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 322,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJH8vQ7fmLGGARhUMDivwNw5g",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/13006083-baa83c218348d90a3a61ffb3143eb8fa51e2b0e5220448d856cb0f721167fc7b.jpg",
+    "place_id": "ChIJH8vQ7fmLGGARhUMDivwNw5g",
+    "g_name": "モリタ屋 丸の内店",
+    "g_rating": 4.3,
+    "g_reviews": 322,
+    "g_address": "日本、〒100-0005 東京都千代田区丸の内２丁目４−１ 丸の内ビルディング ３５階",
+    "lat": 35.6813425,
+    "lng": 139.7636399
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "人形町 今半 東京ガーデンテラス紀尾井町店",
+    "name_en": "Ningyocho Imahan Tokyo Garden Terrace Kioi Machi Ten",
+    "area": "東京都 永田町駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130803/13199422/",
+    "rating": 3.62,
+    "review_count_tabelog": 195,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Sukiyaki, Shabu shabu (Japanese hotpot)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 17:00 - 22:00 L.O. Food 20:30",
+        "dtl_text": "17:00 - 22:00 L.O. Food 20:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "(Please note that on October 24, we will open at 5:00 PM.)"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 269,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJNfuvG32MGGARBgTNgFqiPX4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/13199422-f6f0cf6e36e65bb95d5d7b0354d3d91870b8bea14c68510b3ccf6f7cfb4c29d0.jpg",
+    "place_id": "ChIJNfuvG32MGGARBgTNgFqiPX4",
+    "g_name": "人形町今半 東京ガーデンテラス紀尾井町店",
+    "g_rating": 4.6,
+    "g_reviews": 269,
+    "g_address": "日本、〒102-0094 東京都千代田区紀尾井町１−３ 東京ガーデンテラス 紀尾井テラス ３F",
+    "lat": 35.6792208,
+    "lng": 139.7381666
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "かがやき",
+    "name_en": "Kagayaki",
+    "area": "東京都 宝町駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13187129/",
+    "rating": 3.63,
+    "review_count_tabelog": 285,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Shabu shabu (Japanese hotpot), Japanese Cuisine, Beef dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 133,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJsco7n-GLGGARvn7Cdj4CfkM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/13187129-3f72f0ee1073954f7978222abff4d96135b631dac97f813e1d80eb8425f93e71.jpg",
+    "place_id": "ChIJsco7n-GLGGARvn7Cdj4CfkM",
+    "g_name": "かがやき",
+    "g_rating": 4.2,
+    "g_reviews": 133,
+    "g_address": "日本、〒104-0061 東京都中央区銀座１丁目２０−２",
+    "lat": 35.6729547,
+    "lng": 139.7705375
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "アグーしゃぶしゃぶ 神まえ",
+    "name_en": "Agu Shabushabu Kami Mae",
+    "area": "沖縄県 中頭郡北谷町",
+    "url": "https://tabelog.com/okinawa/A4703/A470304/47028468/",
+    "rating": 3.52,
+    "review_count_tabelog": 136,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "-",
+    "sub_categories": "Pork shabu shabu, Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 23:00 L.O. 22:00",
+        "dtl_text": "17:00 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (open on public holidays)"
+    },
+    "google_rating": 4.8,
+    "google_reviews": 209,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJIaTWbgoT5TQRIn9MYk70paU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/47028468-370c0d44e81f67a4b673e07a56ca88c4a20131642bd0fcd6f4b78ff1e7195957.jpg",
+    "place_id": "ChIJIaTWbgoT5TQRIn9MYk70paU",
+    "g_name": "アグーしゃぶしゃぶ 神まえ",
+    "g_rating": 4.8,
+    "g_reviews": 209,
+    "g_address": "日本、〒904-0116 沖縄県中頭郡北谷町北谷２丁目２−８",
+    "lat": 26.3061973,
+    "lng": 127.7612797
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "松木家",
+    "name_en": "Matsuki Ya",
+    "area": "東京都 神泉駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130301/13007240/",
+    "rating": 3.55,
+    "review_count_tabelog": 235,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Sukiyaki, Dining bar, Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Day before public holiday, Day after public holiday",
+        "dtl": "17:30 - 22:00 L.O. Food 21:00 Drinks 21:30",
+        "dtl_text": "17:30 - 22:00 L.O. Food 21:00 Drinks 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon - Sat": {}
+      },
+      "closed_on": "Sundays and public holidays (including Obon and year-end holidays)"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 209,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJt88gilWLGGARMPtPR5_gF_U",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/13007240-439da24414448c2560e313f955056c6d00c512e3c0859ba4b6982c607ce1816e.jpg",
+    "place_id": "ChIJt88gilWLGGARMPtPR5_gF_U",
+    "g_name": "松木家",
+    "g_rating": 4.5,
+    "g_reviews": 209,
+    "g_address": "日本、〒150-0044 東京都渋谷区円山町6−８ 松木家ビル",
+    "lat": 35.6571684,
+    "lng": 139.6947043
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "華蓮 鹿児島店",
+    "name_en": "Karen Kagoshima Ten",
+    "area": "鹿児島県 鹿児島市",
+    "url": "https://tabelog.com/kagoshima/A4601/A460101/46000109/",
+    "rating": 3.56,
+    "review_count_tabelog": 381,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Shabu shabu (Japanese hotpot), Steak, Pork dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 14:00 L.O. 13:30 17:30 - 23:00 L.O. 22:00",
+        "dtl_text": "17:30 - 23:00 L.O. 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "11:30 - 14:00 L.O. 13:30 17:30 - 22:00 L.O. 21:00",
+        "dtl_text": "17:30 - 22:00 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The third Sunday of each month (or the last day of a long holiday if it falls on that day)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 809,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6-i3tlRnPjUR628ERy7irV8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/46000109-e178fea310ca0e1667fba28110eca6e28366db639ed10afeb6903ce427157bf9.jpg",
+    "place_id": "ChIJ6-i3tlRnPjUR628ERy7irV8",
+    "g_name": "JA鹿児島県経済連直営店 華蓮鹿児島店",
+    "g_rating": 4.3,
+    "g_reviews": 809,
+    "g_address": "日本、〒892-0844 鹿児島県鹿児島市山之口町３−１２ Jaフードプラザ 3・4F",
+    "lat": 31.5879762,
+    "lng": 130.5531283
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "すき焼きと牛まぶし ももしき",
+    "name_en": "Momoshiki",
+    "area": "奈良県 奈良市",
+    "url": "https://tabelog.com/nara/A2901/A290101/29012172/",
+    "rating": 3.62,
+    "review_count_tabelog": 410,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Sukiyaki, Izakaya (Tavern), Hot Pot",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 22:00 L.O. 21:00",
+        "dtl_text": "11:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Temporary closure on July 7, 2025 and January 6, 2026."
+    },
+    "google_rating": 4.8,
+    "google_reviews": 20,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJwTgsUAA5AWARqjfTo-YQG7k",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/29012172-15dc3c6010bb81ff5a65cfaa9ccb54d362260f81adb7f637b9fb437024d9d4dd.jpg",
+    "place_id": "ChIJwTgsUAA5AWARqjfTo-YQG7k",
+    "g_name": "すき焼きと牛まぶし ももしき はなれ",
+    "g_rating": 4.8,
+    "g_reviews": 20,
+    "g_address": "日本、〒630-8214 奈良県奈良市東向北町２９",
+    "lat": 34.6847023,
+    "lng": 135.8288622
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "八雲",
+    "name_en": "Yagumo",
+    "area": "愛知県 新栄町駅",
+    "url": "https://tabelog.com/aichi/A2301/A230104/23001776/",
+    "rating": 3.62,
+    "review_count_tabelog": 214,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Shabu shabu (Japanese hotpot), Japanese Cuisine, Sukiyaki",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:30 - 22:00",
+        "dtl_text": "17:30 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "11:30 - 14:30 L.O. 14:00 17:30 - 22:00",
+        "dtl_text": "17:30 - 22:00"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 177,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ442GkNxwA2AR1VSY_PRnh0M",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/23001776-b5bbc1cf43a7f63d5701321160f5ddb6d9e1d03d103e481d508330014ff98343.jpg",
+    "place_id": "ChIJ442GkNxwA2AR1VSY_PRnh0M",
+    "g_name": "八雲",
+    "g_rating": 4.3,
+    "g_reviews": 177,
+    "g_address": "日本、〒461-0005 愛知県名古屋市東区東桜２丁目１６−２５",
+    "lat": 35.17137590000001,
+    "lng": 136.9180249
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "しの平",
+    "name_en": "Shinohei",
+    "area": "北海道 狸小路駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010103/1008058/",
+    "rating": 3.62,
+    "review_count_tabelog": 77,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Shabu shabu (Japanese hotpot), Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:30 - 22:30",
+        "dtl_text": "17:30 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 138,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJa8cam4QpC18RrA24Txuy6hk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/1008058-aa6f76597fbf5a90ac3f028d59e735152c7e2b66eff413c1a20e70f98a51cd37.jpg",
+    "place_id": "ChIJa8cam4QpC18RrA24Txuy6hk",
+    "g_name": "狸小路",
+    "g_rating": 4.2,
+    "g_reviews": 138,
+    "g_address": "日本、〒060-0062 北海道札幌市中央区南２条西３丁目",
+    "lat": 43.05746509999999,
+    "lng": 141.3530257
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "アグーしゃぶしゃぶ みるく 那覇店",
+    "name_en": "Agu Shabushabu Miruku Naha Ten",
+    "area": "沖縄県 那覇市",
+    "url": "https://tabelog.com/okinawa/A4701/A470101/47025053/",
+    "rating": 3.59,
+    "review_count_tabelog": 341,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Pork shabu shabu, Sukiyaki",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 14:30 17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 336,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJA_LNp4Rp5TQRyKow8e-gIiw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/47025053-c86142143eba7b2a663da0a30221ccff0e6c4ac22b206d14868d58f932f09d4c.jpg",
+    "place_id": "ChIJA_LNp4Rp5TQRyKow8e-gIiw",
+    "g_name": "みるく 那覇本店",
+    "g_rating": 4.2,
+    "g_reviews": 336,
+    "g_address": "日本、〒900-0031 沖縄県那覇市若狭１丁目１４−１０",
+    "lat": 26.2200912,
+    "lng": 127.6744814
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "ざくろ 銀座店",
+    "name_en": "Zakuro Ginza Ten",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13002261/",
+    "rating": 3.67,
+    "review_count_tabelog": 658,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Shabu shabu (Japanese hotpot), Sukiyaki, Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 15:00 L.O. 14:30 17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 16:00 L.O. 15:00 17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "We will be closed from December 31, 2025 (Wednesday) to January 1, 2026 (Thursday). On January 2 (Friday) and January 3 (Saturday), we will be open from 11:00 to 16:00 (last order at 15:00) and from 17:00 to 21:00 (last order at 20:00). We will resume our regular hours starting January 4 (Sunday). Thank you for your understanding."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 763,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJwQtRl-aLGGARjRCh9-wGq8w",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/13002261-bae37dca4f43bd4b1b97d610c88e4fb7d6fccf87ac587a6ebf6920d13208b3dd.jpg",
+    "place_id": "ChIJwQtRl-aLGGARjRCh9-wGq8w",
+    "g_name": "ざくろ 銀座店",
+    "g_rating": 4.3,
+    "g_reviews": 763,
+    "g_address": "日本、〒104-0061 東京都中央区銀座４丁目６−１ 銀座三和ビル 地下1階",
+    "lat": 35.671656,
+    "lng": 139.766189
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "荒井屋 万國橋店",
+    "name_en": "Arai Ya Mankokubashi Ten",
+    "area": "神奈川県 馬車道駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140104/14009643/",
+    "rating": 3.7,
+    "review_count_tabelog": 640,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Sukiyaki, Beef dishes, Shabu shabu (Japanese hotpot)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:30 L.O. 14:00 17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 1017,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJB5Sy5_dcGGAR9Xj2vzj5R6s",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/14009643-ba29234fccc38c98043b54ea01f6392bf28bd4b773ed66aad6ea689fa4986133.jpg",
+    "place_id": "ChIJB5Sy5_dcGGAR9Xj2vzj5R6s",
+    "g_name": "牛鍋処 荒井屋 万國橋店",
+    "g_rating": 4.3,
+    "g_reviews": 1017,
+    "g_address": "日本、〒231-0002 神奈川県横浜市中区海岸通４丁目２３ 海岸通４丁目市街地住宅 １階",
+    "lat": 35.4508947,
+    "lng": 139.6384745
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "人形町今半 ＪＲ博多シティ店",
+    "name_en": "Ningyocho Imahan Jea-Ruhakatashititen",
+    "area": "福岡県 博多駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400101/40026292/",
+    "rating": 3.65,
+    "review_count_tabelog": 177,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "Sukiyaki, Shabu shabu (Japanese hotpot)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 16:00 17:00 - 22:00 L.O. Food 20:30",
+        "dtl_text": "17:00 - 22:00 L.O. Food 20:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "*We will resume operations at 11:00 AM the following day."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 572,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJBVmI6seRQTURtmFXqdZSsKU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/40026292-0b128fce4a92ea25452f1fd6ed4942eba91bc73333db8346a4aa97f9c268d046.jpg",
+    "place_id": "ChIJBVmI6seRQTURtmFXqdZSsKU",
+    "g_name": "人形町今半 JR博多シティ店",
+    "g_rating": 4.5,
+    "g_reviews": 572,
+    "g_address": "日本、〒812-0012 福岡県福岡市博多区博多駅中央街１−１ ９Ｆ",
+    "lat": 33.5900019,
+    "lng": 130.41973
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "すき焼･鍋物 なべや",
+    "name_en": "Sukiyaki Nabemono Nabeya",
+    "area": "大阪府 今船駅",
+    "url": "https://tabelog.com/osaka/A2701/A270406/27019909/",
+    "rating": 3.52,
+    "review_count_tabelog": 729,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Sukiyaki, Mizutaki, Hot Pot",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "14:00 - 21:00 L.O. 20:30",
+        "dtl_text": "14:00 - 21:00 L.O. 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The last Wednesday of each month."
+    },
+    "google_rating": 3.9,
+    "google_reviews": 965,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJduvTYndAGARjTk0ttU8__w",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/27019909-26221c49f750907dbd1738a2131962b33c0a330a51e23464306959110b413f8a.jpg",
+    "place_id": "ChIJJduvTYndAGARjTk0ttU8__w",
+    "g_name": "なべや",
+    "g_rating": 3.9,
+    "g_reviews": 965,
+    "g_address": "日本、〒557-0003 大阪府大阪市西成区天下茶屋北２丁目６−５",
+    "lat": 34.6442008,
+    "lng": 135.5011133
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "梅屋",
+    "name_en": "Umeya",
+    "area": "鹿児島県 鹿児島市",
+    "url": "https://tabelog.com/kagoshima/A4601/A460101/46004264/",
+    "rating": 3.64,
+    "review_count_tabelog": 79,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Shabu shabu (Japanese hotpot)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:30 - 22:00 L.O. Food 21:00 Drinks 21:30",
+        "dtl_text": "17:30 - 22:00 L.O. Food 21:00 Drinks 21:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 154,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJIygWc6xgPjURjM3HsqUagqU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/46004264-36f9e88677c9295de214cdd65f7feeac88ffccc82035f56b328d30d2cf8f3f38.jpg",
+    "place_id": "ChIJIygWc6xgPjURjM3HsqUagqU",
+    "g_name": "鹿児島黒豚しゃぶしゃぶ 梅屋",
+    "g_rating": 4.4,
+    "g_reviews": 154,
+    "g_address": "日本、〒892-0838 鹿児島県鹿児島市新屋敷町２７−１ チェリービル 2F",
+    "lat": 31.585085,
+    "lng": 130.557133
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "かがやき",
+    "name_en": "Kagayaki",
+    "area": "東京都 三ノ輪駅",
+    "url": "https://tabelog.com/tokyo/A1324/A132401/13083284/",
+    "rating": 3.62,
+    "review_count_tabelog": 415,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Shabu shabu (Japanese hotpot), Pork shabu shabu, Hot Pot",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 275,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJY9McQIyOGGAR6kUtyzJYkcA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/13083284-e54eeaf2da6f7c98490eac5009dc8ebdb158857177dea8d04d4204db5fbc3ff4.jpg",
+    "place_id": "ChIJY9McQIyOGGAR6kUtyzJYkcA",
+    "g_name": "かがやき",
+    "g_rating": 4.3,
+    "g_reviews": 275,
+    "g_address": "日本、〒110-0012 東京都台東区竜泉２丁目１６−６",
+    "lat": 35.7263968,
+    "lng": 139.7895026
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "太田なわのれん",
+    "name_en": "Ota Nawanoren",
+    "area": "神奈川県 日ノ出町駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140102/14001847/",
+    "rating": 3.64,
+    "review_count_tabelog": 503,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Sukiyaki, Japanese Cuisine, Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "12:00 - 15:00 17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "1st, 3rd, and 5th Sundays"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 433,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKa7HeItcGGARqIxzWFMn7M4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/14001847-5196847dd659741329c493e43b7d277cb0e13e537b6da7e634d20e597ba9f5e0.jpg",
+    "place_id": "ChIJKa7HeItcGGARqIxzWFMn7M4",
+    "g_name": "牛鍋元祖 太田なわのれん",
+    "g_rating": 4.3,
+    "g_reviews": 433,
+    "g_address": "日本、〒231-0055 神奈川県横浜市中区末吉町１丁目１５",
+    "lat": 35.44215,
+    "lng": 139.627469
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "米沢牛 登起波",
+    "name_en": "Yonezawa Gyuu Tokiwa",
+    "area": "山形県 米沢市",
+    "url": "https://tabelog.com/yamagata/A0602/A060201/6000038/",
+    "rating": 3.63,
+    "review_count_tabelog": 296,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "Sukiyaki, Steak, Yakiniku (BBQ Beef)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 21:00 L.O. Food 19:30 Drinks 20:30",
+        "dtl_text": "11:00 - 21:00 L.O. Food 19:30 Drinks 20:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Starting April 1, 2025, we will also be open every Tuesday from 11:00 to 21:00 (last order at 19:30)."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 758,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJLSf5gGvwil8RxkkueEShGqI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/6000038-f7e164e741d90fe9894f071d2f580d1e647bdb02811a3d3e64779601f9b997bb.jpg",
+    "place_id": "ChIJLSf5gGvwil8RxkkueEShGqI",
+    "g_name": "米沢牛 登起波",
+    "g_rating": 4.4,
+    "g_reviews": 758,
+    "g_address": "日本、〒992-0045 山形県米沢市中央７丁目２−３ 2階",
+    "lat": 37.9192802,
+    "lng": 140.1090507
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "阿佐利 本店",
+    "name_en": "Asari Honten",
+    "area": "北海道 函館市",
+    "url": "https://tabelog.com/hokkaido/A0105/A010501/1003362/",
+    "rating": 3.63,
+    "review_count_tabelog": 501,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Sukiyaki, Bento (Lunch box), Croquette",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 1051,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJx1B0IATznl8RN24duWJy8WI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/1003362-9d36b8cd0917db00413acf0ab994ec2960f3e4f961077e984ca913607ab792ce.jpg",
+    "place_id": "ChIJx1B0IATznl8RN24duWJy8WI",
+    "g_name": "すき焼き 阿佐利本店",
+    "g_rating": 4.4,
+    "g_reviews": 1051,
+    "g_address": "日本、〒040-0043 北海道函館市宝来町１０−１１",
+    "lat": 41.7605812,
+    "lng": 140.7199101
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "最飛び飛騨牛 しゃぶすき家 馬喰一代 名古屋WEST",
+    "name_en": "Saitobi Hida Gyu Shabusuki Ya Bakuro Ichidai Nagoya West",
+    "area": "愛知県 名古屋駅",
+    "url": "https://tabelog.com/aichi/A2301/A230101/23072437/",
+    "rating": 3.56,
+    "review_count_tabelog": 286,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Shabu shabu (Japanese hotpot), Sukiyaki",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 00:00 L.O. 23:00",
+        "dtl_text": "11:30 - 00:00 L.O. 23:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 740,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVXEklcJ2A2AR_1skgS6Ccy4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/23072437-013d5a5bfa2192b4a7f05191f0a8eb9c85378b4e267d840bd20332daf6c37ad1.jpg",
+    "place_id": "ChIJVXEklcJ2A2AR_1skgS6Ccy4",
+    "g_name": "最飛びヒレ家 馬喰一代 名古屋EAST",
+    "g_rating": 4.3,
+    "g_reviews": 740,
+    "g_address": "日本、〒450-0002 愛知県名古屋市中村区名駅２丁目４１−１０ アストラーレ名駅 2F",
+    "lat": 35.1742763,
+    "lng": 136.884638
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "代々木 今半",
+    "name_en": "Yoyogi Imahan",
+    "area": "東京都 南新宿駅",
+    "url": "https://tabelog.com/tokyo/A1318/A131810/13001039/",
+    "rating": 3.68,
+    "review_count_tabelog": 367,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Shabu shabu (Japanese hotpot), Pork shabu shabu, Gyutan (Beef tongue)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:30 - 21:30",
+        "dtl_text": "17:30 - 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "17:30 - 21:00",
+        "dtl_text": "17:30 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 339,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJzwyHGdCMGGARNoAtdpcnU-c",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/13001039-77f0225b241400f280e25a150642d618ea75fe08dcb65a5c336729398adbac40.jpg",
+    "place_id": "ChIJzwyHGdCMGGARNoAtdpcnU-c",
+    "g_name": "今半万窯 新宿サザンタワー店",
+    "g_rating": 4.4,
+    "g_reviews": 339,
+    "g_address": "日本、〒151-8583 東京都渋谷区代々木２丁目２−１ 小田急サザンタワー 4F",
+    "lat": 35.6865513,
+    "lng": 139.7002461
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "人形町今半 名古屋ミッドランドスクエア店",
+    "name_en": "Ningyocho Imahan Nagoya Middorandosukueaten",
+    "area": "愛知県 名鉄名古屋駅",
+    "url": "https://tabelog.com/aichi/A2301/A230101/23004106/",
+    "rating": 3.64,
+    "review_count_tabelog": 310,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Sukiyaki, Shabu shabu (Japanese hotpot), Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 17:00 - 22:00 L.O. Food 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. Food 21:00"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 320,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJcRbEx912A2ARk_j_Xzv58NI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/23004106-d23de15920e828a740fa313f54bd8dbd41267cd7f097d260eb49509b7395a425.jpg",
+    "place_id": "ChIJcRbEx912A2ARk_j_Xzv58NI",
+    "g_name": "人形町今半 名古屋ミッドランドスクエア店",
+    "g_rating": 4.5,
+    "g_reviews": 320,
+    "g_address": "日本、〒450-0002 愛知県名古屋市中村区名駅４丁目７−１ ミッドランドスクエア ４１階",
+    "lat": 35.1702853,
+    "lng": 136.8852008
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "鴨と葱 淀水二行",
+    "name_en": "Kamo to Negi Yodomizu Nigyo",
+    "area": "福岡県 天神南駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400103/40046631/",
+    "rating": 3.59,
+    "review_count_tabelog": 81,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Shabu shabu (Japanese hotpot)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 22:30",
+        "dtl_text": "18:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays and public holidays (please inquire if a public holiday falls on a Friday or Saturday)."
+    },
+    "google_rating": 4.7,
+    "google_reviews": 121,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4RAoMJGRQTURnvCy5bvc9ss",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/40046631-1fa0b5c69d3baaf7b4cb51ae77fd24b9c3172562f7971410fcd28a2a44b04877.jpg",
+    "place_id": "ChIJ4RAoMJGRQTURnvCy5bvc9ss",
+    "g_name": "鴨と葱 淀水二行",
+    "g_rating": 4.7,
+    "g_reviews": 121,
+    "g_address": "日本、〒810-0003 福岡県福岡市中央区春吉３丁目２３−２２",
+    "lat": 33.5887008,
+    "lng": 130.4052488
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "人形町今半 本店",
+    "name_en": "Ningyocho Imahan Hon Ten",
+    "area": "東京都 人形町駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130204/13003059/",
+    "rating": 3.71,
+    "review_count_tabelog": 1374,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "Sukiyaki, Teppanyaki, Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 15:00 17:00 - 22:00 L.O. Food 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. Food 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 22:00 L.O. Food 21:00",
+        "dtl_text": "11:00 - 22:00 L.O. Food 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "(Please note that on October 30, we will open at 5:00 PM.)"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 1812,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJLy_B0U-JGGARz9GeTk7MajA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/13003059-84739f48b2887705e76e98ac31472ffe8d7b72229115b146030150184a25e305.jpg",
+    "place_id": "ChIJLy_B0U-JGGARz9GeTk7MajA",
+    "g_name": "人形町今半 人形町本店",
+    "g_rating": 4.5,
+    "g_reviews": 1812,
+    "g_address": "日本、〒103-0013 東京都中央区日本橋人形町２丁目９−１２",
+    "lat": 35.6857284,
+    "lng": 139.7836334
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "島豚・琉球牛 燦 別邸",
+    "name_en": "Shimabuta Ryukyu Gyuu San Bettei",
+    "area": "沖縄県 国頭郡恩納村",
+    "url": "https://tabelog.com/okinawa/A4703/A470303/47017259/",
+    "rating": 3.6,
+    "review_count_tabelog": 128,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Shabu shabu (Japanese hotpot), Sukiyaki, Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 22:00 L.O. Food 21:00 Drinks 21:30",
+        "dtl_text": "17:00 - 22:00 L.O. Food 21:00 Drinks 21:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 181,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJNz0LHIcQ5TQRij_MyDqOIYo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/47017259-366e649cf63189f1c46706ce84062a6e29c7263509cba6abf5ea1e115a0e8bc3.jpg",
+    "place_id": "ChIJNz0LHIcQ5TQRij_MyDqOIYo",
+    "g_name": "島豚・琉球牛 燦 別邸",
+    "g_rating": 4.3,
+    "g_reviews": 181,
+    "g_address": "日本、〒904-0417 沖縄県国頭郡恩納村真栄田６３ オーベルジュラウ ２F",
+    "lat": 26.4386375,
+    "lng": 127.7689311
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "北むら",
+    "name_en": "Kita Mura",
+    "area": "大阪府 心斎橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270201/27000889/",
+    "rating": 3.63,
+    "review_count_tabelog": 156,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Sukiyaki",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "16:00 - 22:00",
+        "dtl_text": "16:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 260,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJx29-wBbnAGARpLWLTNJ94gc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/27000889-67cc156cb6c4ab8575026ea0ea3a66053304d8b37f0a964612072656ec0d301e.jpg",
+    "place_id": "ChIJx29-wBbnAGARpLWLTNJ94gc",
+    "g_name": "北むら",
+    "g_rating": 4.4,
+    "g_reviews": 260,
+    "g_address": "日本、〒542-0083 大阪府大阪市中央区東心斎橋１丁目１６−２７",
+    "lat": 34.6726461,
+    "lng": 135.5026897
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "燦 別邸 北新地店",
+    "name_en": "San Bettei Kitashinchi Ten",
+    "area": "大阪府 北新地駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27137152/",
+    "rating": 3.6,
+    "review_count_tabelog": 362,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Pork shabu shabu, Shabu shabu (Japanese hotpot), Okinawa cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 15:30 L.O. 14:30 17:30 - 23:30 L.O. 22:30",
+        "dtl_text": "17:30 - 23:30 L.O. 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "17:30 - 23:00 L.O. 22:00",
+        "dtl_text": "17:30 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Year-end & New Year Holidays (December 28 - January 4)"
+    },
+    "google_rating": 4.7,
+    "google_reviews": 972,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJryMwQ4_nAGARYqH2_Vt88ro",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/27137152-67f361d717ecc6fe0c69f454d0757db49b46bf66517fc12d5812a7c7889b122f.jpg",
+    "place_id": "ChIJryMwQ4_nAGARYqH2_Vt88ro",
+    "g_name": "燦 別邸 北新地店",
+    "g_rating": 4.7,
+    "g_reviews": 972,
+    "g_address": "日本、〒530-0002 大阪府大阪市北区曽根崎新地１丁目３−２３ 北新地FOODEARビル ２F",
+    "lat": 34.6977231,
+    "lng": 135.496139
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "金澤屋牛肉店",
+    "name_en": "Kanazawa Ya Gyuniku Ten",
+    "area": "山形県 山形市",
+    "url": "https://tabelog.com/yamagata/A0601/A060101/6007058/",
+    "rating": 3.52,
+    "review_count_tabelog": 108,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Sukiyaki, Shabu shabu (Japanese hotpot), Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 13:30 L.O. 13:00 17:00 - 21:00 L.O. 20:30",
+        "dtl_text": "17:00 - 21:00 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "11:30 - 14:00 L.O. 13:30 17:00 - 20:30 L.O. 20:00",
+        "dtl_text": "17:00 - 20:30 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Reservations can also be made on the day."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 121,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJkSlAcv3Ji18RQm4NZSmeAlM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/6007058-463b21d5a645a1a5525701a96fe455053a1cb951c17667881409f1294c7117ab.jpg",
+    "place_id": "ChIJkSlAcv3Ji18RQm4NZSmeAlM",
+    "g_name": "金澤屋牛肉店",
+    "g_rating": 4.5,
+    "g_reviews": 121,
+    "g_address": "日本、〒990-0042 山形県山形市七日町３丁目４−１６",
+    "lat": 38.2550558,
+    "lng": 140.3428546
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "今福",
+    "name_en": "Imafuku",
+    "area": "東京都 白金高輪駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131602/13136201/",
+    "rating": 3.63,
+    "review_count_tabelog": 457,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Sukiyaki, Shabu shabu (Japanese hotpot)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 23:00 L.O. 22:00",
+        "dtl_text": "17:00 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "December 31, January 1, January 2"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 305,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ3JqeaiLGGARljS5Jxu7kjU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/13136201-a3cf6f7cde4e345a56f327167e061a497deb9c4e58b1bb029bfc795180fc5da3.jpg",
+    "place_id": "ChIJQ3JqeaiLGGARljS5Jxu7kjU",
+    "g_name": "しゃぶしゃぶ・すき焼き 今福",
+    "g_rating": 4.4,
+    "g_reviews": 305,
+    "g_address": "日本、〒108-0072 東京都港区白金１丁目１２−１９",
+    "lat": 35.6453685,
+    "lng": 139.7341351
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "和田金",
+    "name_en": "Wada Kin",
+    "area": "三重県 松阪市",
+    "url": "https://tabelog.com/mie/A2401/A240102/24000069/",
+    "rating": 4.16,
+    "review_count_tabelog": 1224,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Sukiyaki",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 21:00 L.O. 20:00",
+        "dtl_text": "11:30 - 21:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 21:00 L.O. 20:00",
+        "dtl_text": "11:00 - 21:00 L.O. 20:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Please check our company calendar for updates on our website: e-wadakin.co.jp."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 1618,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJMzPwtiBrBGARlmgxkg3MJyk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/24000069-6912950cd32681d2e53782a1ca2b9706415ec45372d5d2b43d7398d0934efaca.jpg",
+    "place_id": "ChIJMzPwtiBrBGARlmgxkg3MJyk",
+    "g_name": "和田金",
+    "g_rating": 4.4,
+    "g_reviews": 1618,
+    "g_address": "日本、〒515-0083 三重県松阪市中町１８７８",
+    "lat": 34.5772059,
+    "lng": 136.5310125
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "島豚・石焼 燦",
+    "name_en": "Shimabuta Ishiyaki San",
+    "area": "沖縄県 那覇市",
+    "url": "https://tabelog.com/okinawa/A4701/A470101/47005508/",
+    "rating": 3.55,
+    "review_count_tabelog": 145,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Pork shabu shabu, Yakiniku (BBQ Beef), Okinawa cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 23:00 L.O. Food 22:00 Drinks 22:30",
+        "dtl_text": "17:00 - 23:00 L.O. Food 22:00 Drinks 22:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.6,
+    "google_reviews": 858,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJE_PSt3xp5TQRS6J2exkl8YU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/47005508-95024cf3cd0f1662a6177a6aac6d45e674824136bc0d84a64102c51845e41222.jpg",
+    "place_id": "ChIJE_PSt3xp5TQRS6J2exkl8YU",
+    "g_name": "沖縄サンプラザホテル",
+    "g_rating": 3.6,
+    "g_reviews": 858,
+    "g_address": "日本、〒902-0067 沖縄県那覇市安里１３８",
+    "lat": 26.2202422,
+    "lng": 127.6913628
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "近江かね安",
+    "name_en": "Oumi Kaneyasu",
+    "area": "滋賀県 近江八幡市",
+    "url": "https://tabelog.com/shiga/A2503/A250301/25000757/",
+    "rating": 3.66,
+    "review_count_tabelog": 246,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "-",
+    "sub_categories": "Sukiyaki, Cafeteria",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 22:00",
+        "dtl_text": "10:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.8,
+    "google_reviews": 284,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJd-z5Zs97AWAR4VRkKa30xsk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/25000757-27c2ae72ac1746a09fe9b6b4544d22cdab69c94291e790eb9060f3b61aa5d1c4.jpg",
+    "place_id": "ChIJd-z5Zs97AWAR4VRkKa30xsk",
+    "g_name": "近江かね安",
+    "g_rating": 3.8,
+    "g_reviews": 284,
+    "g_address": "日本、〒523-0891 滋賀県近江八幡市鷹飼町７４７−１ 747 １",
+    "lat": 35.1250215,
+    "lng": 136.1036012
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "きつね",
+    "name_en": "Kitsune",
+    "area": "奈良県 奈良市",
+    "url": "https://tabelog.com/nara/A2901/A290101/29012524/",
+    "rating": 3.73,
+    "review_count_tabelog": 255,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Sukiyaki",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 15:00 17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "■Due to limited seating, online reservations for groups of more than 5 people are not available. For groups of 5 or more, please contact us by phone."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 171,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1UP5goQ5AWARdwAuozGzOuc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/29012524-5f1b53a562cbc9014d94f85515775ac1be8e1bc8f0190615dbf8e3bec769777f.jpg",
+    "place_id": "ChIJ1UP5goQ5AWARdwAuozGzOuc",
+    "g_name": "㐂つね（きつね）",
+    "g_rating": 4.4,
+    "g_reviews": 171,
+    "g_address": "鹿猿狐ビルヂング 1階, ２２ 元林院町 奈良市 奈良県 630-8221 日本",
+    "lat": 34.6810642,
+    "lng": 135.8298742
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "近江肉せんなり亭 伽羅",
+    "name_en": "Omi Niku Sennaritei Kyara",
+    "area": "滋賀県 彦根市",
+    "url": "https://tabelog.com/shiga/A2503/A250303/25000722/",
+    "rating": 3.58,
+    "review_count_tabelog": 319,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Sukiyaki, Japanese Cuisine, Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 15:00 L.O. 14:30 17:00 - 21:30 L.O. Food 20:30 Drinks 21:00",
+        "dtl_text": "17:00 - 21:30 L.O. Food 20:30 Drinks 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 803,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJB1L0DNTUA2ARXa43qqxYRyk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/25000722-cf9771c6f0cc208951d59cc25422a172eed8ea4519749d311180d2b692f68577.jpg",
+    "place_id": "ChIJB1L0DNTUA2ARXa43qqxYRyk",
+    "g_name": "近江肉 せんなり亭伽羅",
+    "g_rating": 4.3,
+    "g_reviews": 803,
+    "g_address": "日本、〒522-0064 滋賀県彦根市本町２丁目１−７",
+    "lat": 35.2718648,
+    "lng": 136.2519068
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "ちんや",
+    "name_en": "Chinya",
+    "area": "東京都 浅草（東武・都営・メトロ）駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131102/13268750/",
+    "rating": 3.64,
+    "review_count_tabelog": 284,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Sukiyaki, Shabu shabu (Japanese hotpot), Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 15:00 16:30 - 21:30 L.O. Food 20:00 Drinks 20:30",
+        "dtl_text": "16:30 - 21:30 L.O. Food 20:00 Drinks 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 21:30 L.O. Food 20:00 Drinks 20:30",
+        "dtl_text": "11:00 - 21:30 L.O. Food 20:00 Drinks 20:30"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 545,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJu5bXFo6PGGARVDrpTh_kF6U",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/13268750-7fcce7c6273aed68256b4e3f5e7ce3bdc110dbe93790079ec493bf61d1fd57b4.jpg",
+    "place_id": "ChIJu5bXFo6PGGARVDrpTh_kF6U",
+    "g_name": "ちんや 浅草本店",
+    "g_rating": 4.4,
+    "g_reviews": 545,
+    "g_address": "日本、〒111-0033 東京都台東区花川戸２丁目１６−１",
+    "lat": 35.7150136,
+    "lng": 139.8013741
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "PRETTY PORK FACTORY",
+    "name_en": "PRETTY PORK FACTORY",
+    "area": "東京都 西武新宿駅",
+    "url": "https://tabelog.com/tokyo/A1304/A130401/13254601/",
+    "rating": 3.72,
+    "review_count_tabelog": 950,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Pork shabu shabu, Korean",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "PRETTY PORK FACTORY & KATSUプリポー"
+    },
+    "google_rating": 3.8,
+    "google_reviews": 296,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJf2wBt8qNGGARlEaMVjU2UBs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/13254601-70726ae824b5889a362e93c8fb7169693167f6aac9a37700bb5ee52aaf5c6c7a.jpg",
+    "place_id": "ChIJf2wBt8qNGGARlEaMVjU2UBs",
+    "g_name": "Pretty Pork Factory",
+    "g_rating": 3.8,
+    "g_reviews": 296,
+    "g_address": "日本、〒160-0021 東京都新宿区歌舞伎町１丁目１０−３ Ｇ３ビル 2階",
+    "lat": 35.6947435,
+    "lng": 139.7030275
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "すきやき いろは 北店",
+    "name_en": "Sukiyaki Iroha Kita Ten",
+    "area": "京都府 祇園四条駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260201/26002605/",
+    "rating": 3.59,
+    "review_count_tabelog": 189,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Sukiyaki, Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 21:00 L.O. 20:00",
+        "dtl_text": "17:00 - 21:00 L.O. 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 437,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6aqQVJMIAWAR17HkTX-LxSI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/26002605-9fa9c8cc756d31b1a32cbe8209ceafb7ad5252fd67664365e96fe8c675ceaaee.jpg",
+    "place_id": "ChIJ6aqQVJMIAWAR17HkTX-LxSI",
+    "g_name": "いろは 北店",
+    "g_rating": 4.1,
+    "g_reviews": 437,
+    "g_address": "日本、〒604-8015 京都府京都市中京区先斗町 通四条上ル鍋屋町２１５",
+    "lat": 35.0047638,
+    "lng": 135.7710563
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "Shangri-La's secret ROPPONGI",
+    "name_en": "Shangri-La's secret ROPPONGI",
+    "area": "東京都 六本木駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13175214/",
+    "rating": 3.53,
+    "review_count_tabelog": 881,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "Shabu shabu (Japanese hotpot), Hot Pot, Medicinal",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 15:00 18:00 - 23:00 L.O. Food 22:00 Drinks 22:30",
+        "dtl_text": "18:00 - 23:00 L.O. Food 22:00 Drinks 22:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Year-end & New Year Holidays (Dec 29 - Jan 4)"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 278,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJh4bln4KLGGARoEVWOGxts-Q",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/13175214-b09645d52aeeb30a5103380ca10b18a2818d3919428e97bcca5536227f21b889.jpg",
+    "place_id": "ChIJh4bln4KLGGARoEVWOGxts-Q",
+    "g_name": "Shangri-La's secret ROPPONGI",
+    "g_rating": 4.2,
+    "g_reviews": 278,
+    "g_address": "日本、〒106-0032 東京都港区六本木４丁目１１−１１ 六本木Gmビル ４F",
+    "lat": 35.6642349,
+    "lng": 139.7315452
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "三田ばさら 本店",
+    "name_en": "Mita Basara Hon Ten",
+    "area": "東京都 三田駅",
+    "url": "https://tabelog.com/tokyo/A1314/A131402/13094054/",
+    "rating": 3.59,
+    "review_count_tabelog": 697,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Sukiyaki, Japanese Cuisine, Shabu shabu (Japanese hotpot)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 15:00 L.O. 14:00 17:30 - 22:00 L.O. 21:00",
+        "dtl_text": "17:30 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon - Fri": {},
+        "Sat & Public Holidays": {},
+        "Sun": {}
+      },
+      "closed_on": "Open year-round (Please note that we will be closed for the year-end and New Year holidays from December 31, 2024, to January 4, 2025. We will resume operations on January 5, 2025, starting at 17:30.)"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 362,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJUbG3ZLqLGGARqcE2FG8VK4k",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/13094054-241b42d0e3b034aa48bb3f19ef39b223616a42b18d79f76769f1180dc462fa35.jpg",
+    "place_id": "ChIJUbG3ZLqLGGARqcE2FG8VK4k",
+    "g_name": "三田ばさら",
+    "g_rating": 4.2,
+    "g_reviews": 362,
+    "g_address": "日本、〒105-0014 東京都港区芝３丁目４３−１６",
+    "lat": 35.6507161,
+    "lng": 139.7451953
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "鳥勝牛肉店",
+    "name_en": "Torikatsu Gyuniku Ten",
+    "area": "山形県 米沢市",
+    "url": "https://tabelog.com/yamagata/A0602/A060201/6000504/",
+    "rating": 3.64,
+    "review_count_tabelog": 80,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Sukiyaki, Shabu shabu (Japanese hotpot)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 21:00",
+        "dtl_text": "11:30 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 123,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVxQdlBXwil8Rt37T6KLu5W4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/6000504-a3cdff19314822137b0ce2962f1fcbe1ef7524eef7c7b713ce57510c8b873c91.jpg",
+    "place_id": "ChIJVxQdlBXwil8Rt37T6KLu5W4",
+    "g_name": "鳥勝牛肉店",
+    "g_rating": 4.6,
+    "g_reviews": 123,
+    "g_address": "日本、〒992-0051 山形県米沢市城北１丁目１−８",
+    "lat": 37.9145899,
+    "lng": 140.1063371
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "華蓮 大阪心斎橋店",
+    "name_en": "Karen Osaka Shinsaibashi Ten",
+    "area": "大阪府 心斎橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270201/27013726/",
+    "rating": 3.61,
+    "review_count_tabelog": 342,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Shabu shabu (Japanese hotpot), Sukiyaki, Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 15:00 L.O. Drinks 14:00 17:00 - 22:30 L.O. 21:30",
+        "dtl_text": "17:00 - 22:30 L.O. 21:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 306,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJNeNyXBHnAGARrqIMhpW_ipE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/27013726-b8a5f52e7f57105d1771f360c5d44cfb82f9e8fa1dfd04ae3b4e3cb14f6518f8.jpg",
+    "place_id": "ChIJNeNyXBHnAGARrqIMhpW_ipE",
+    "g_name": "華蓮 大阪心斎橋店",
+    "g_rating": 4.1,
+    "g_reviews": 306,
+    "g_address": "日本、〒542-0085 大阪府大阪市中央区心斎橋筋２丁目７−１８",
+    "lat": 34.670962,
+    "lng": 135.50071
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "松阪亭 三澤",
+    "name_en": "Matsuzaka Tei Misawa",
+    "area": "愛知県 西春日井郡豊山町",
+    "url": "https://tabelog.com/aichi/A2301/A230113/23007512/",
+    "rating": 3.55,
+    "review_count_tabelog": 55,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Shabu shabu (Japanese hotpot), Sukiyaki, Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00 17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 45,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJhZXASYJzA2AR8XyUCz0m0kQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/23007512-9ce0c33297738df35eed8753025f1ccb2a07e42fed0f32eb248d5221a2124e7a.jpg",
+    "place_id": "ChIJhZXASYJzA2AR8XyUCz0m0kQ",
+    "g_name": "三澤屋",
+    "g_rating": 4.3,
+    "g_reviews": 45,
+    "g_address": "日本、〒480-0202 愛知県西春日井郡豊山町豊場高前１５",
+    "lat": 35.2446381,
+    "lng": 136.9090074
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "モリタ屋 木屋町店",
+    "name_en": "Morita Ya Kiyamachi Ten",
+    "area": "京都府 三条駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260202/26000410/",
+    "rating": 3.7,
+    "review_count_tabelog": 473,
+    "price_dinner": "-",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Sukiyaki, Steak, Shabu shabu (Japanese hotpot)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 15:30 L.O. 14:30 17:00 - 23:00 L.O. 22:00",
+        "dtl_text": "17:00 - 23:00 L.O. 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 23:00 L.O. 22:00",
+        "dtl_text": "11:30 - 23:00 L.O. 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Weekdays": {},
+        "Sat, Sun & Public Holidays": {}
+      },
+      "closed_on": "Year-end & New Year Holidays"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 824,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJj6qdy-wIAWARHROIuPDhhPw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/26000410-f81de471b9d51b38a86563bb53576f1f3b062a25bbefda8bb6d06482e5c5535e.jpg",
+    "place_id": "ChIJj6qdy-wIAWARHROIuPDhhPw",
+    "g_name": "モリタ屋 木屋町店",
+    "g_rating": 4.4,
+    "g_reviews": 824,
+    "g_address": "日本、〒604-8001 京都府京都市中京区木屋町 三条上る上大阪町５３１",
+    "lat": 35.0094641,
+    "lng": 135.7706255
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "松阪 海津 本店",
+    "name_en": "Matsuzaka Kaizu Hon Ten",
+    "area": "三重県 松阪市",
+    "url": "https://tabelog.com/mie/A2401/A240102/24002083/",
+    "rating": 3.8,
+    "review_count_tabelog": 281,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Sukiyaki, Yakiniku (BBQ Beef), Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 16:00 17:00 - 21:30",
+        "dtl_text": "17:00 - 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open on public holidays"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 349,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJaZ6U5FRrBGARQ8QVKgqVScg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/24002083-c9f102a1c2747f1f96e0f6a7bd30b540463329b740bec4434e8ab0ae721b4f25.jpg",
+    "place_id": "ChIJaZ6U5FRrBGARQ8QVKgqVScg",
+    "g_name": "海津 本店",
+    "g_rating": 4.4,
+    "g_reviews": 349,
+    "g_address": "日本、〒515-2121 三重県松阪市市場庄町１３４０",
+    "lat": 34.6039383,
+    "lng": 136.5181341
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "本格肉料理 丸小",
+    "name_en": "Maruko",
+    "area": "愛知県 新栄町駅",
+    "url": "https://tabelog.com/aichi/A2301/A230104/23001975/",
+    "rating": 3.67,
+    "review_count_tabelog": 383,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Sukiyaki, Meat dishes, Shabu shabu (Japanese hotpot)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 14:00 L.O. 13:30 17:00 - 22:00 L.O. 20:30",
+        "dtl_text": "17:00 - 22:00 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 350,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJUfpYSsNwA2AR77lbscmAUV4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/23001975-a6886623a3fd541674b620223152a41ecef0b574eb4230ee762a9e317bff9510.jpg",
+    "place_id": "ChIJUfpYSsNwA2AR77lbscmAUV4",
+    "g_name": "丸小",
+    "g_rating": 4.1,
+    "g_reviews": 350,
+    "g_address": "日本、〒460-0005 愛知県名古屋市中区東桜２丁目１８−２４ サンマルコビル １Ｆ",
+    "lat": 35.1698665,
+    "lng": 136.9183695
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "柿安 料亭本店",
+    "name_en": "Kaki Yasu Ryotei Honten",
+    "area": "三重県 桑名市",
+    "url": "https://tabelog.com/mie/A2402/A240203/24000024/",
+    "rating": 3.69,
+    "review_count_tabelog": 156,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Sukiyaki, Shabu shabu (Japanese hotpot), Teppanyaki",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 22:00 L.O. 21:00",
+        "dtl_text": "11:30 - 22:00 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 267,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ40gFF-maA2ARejOU3QgpoWU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/24000024-721d99562f483075d3d2dc60c4a8b00d1cc174f3d969f3070ce92ef7bd25a1fa.jpg",
+    "place_id": "ChIJ40gFF-maA2ARejOU3QgpoWU",
+    "g_name": "柿安 料亭本店",
+    "g_rating": 4.4,
+    "g_reviews": 267,
+    "g_address": "日本、〒511-0022 三重県桑名市江戸町３６",
+    "lat": 35.066112,
+    "lng": 136.6963147
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "金谷 本店",
+    "name_en": "Kanaya Hon Ten",
+    "area": "三重県 伊賀市",
+    "url": "https://tabelog.com/mie/A2404/A240401/24000003/",
+    "rating": 3.82,
+    "review_count_tabelog": 378,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Sukiyaki, Beef dishes, Shabu shabu (Japanese hotpot)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 20:30 L.O. 19:00",
+        "dtl_text": "11:00 - 20:30 L.O. 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (the following day if a holiday)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 604,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJteQTmS1XAWARACFievKy_lE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/24000003-d12f45e524f0f56b2cec1d1e66892651cbac320de2edf6832baee9c8addb7b32.jpg",
+    "place_id": "ChIJteQTmS1XAWARACFievKy_lE",
+    "g_name": "金谷 本店",
+    "g_rating": 4.3,
+    "g_reviews": 604,
+    "g_address": "日本、〒518-0831 三重県伊賀市上野農人町４３４",
+    "lat": 34.7666473,
+    "lng": 136.135437
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "しゃぶ亭 西梅田店",
+    "name_en": "Shabu Tei Nishi Umeda Ten",
+    "area": "大阪府 西梅田駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27003519/",
+    "rating": 3.54,
+    "review_count_tabelog": 635,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Shabu shabu (Japanese hotpot), Pork shabu shabu, Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 23:00 L.O. 22:00",
+        "dtl_text": "11:00 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "January 1 and December 31"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 1034,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJU9bBMo3mAGARtfv4vAbfo2g",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/27003519-3aca434f72652ca43b3bb916f806a7c6471df4d23e52d485d5ced9fc82e89296.jpg",
+    "place_id": "ChIJU9bBMo3mAGARtfv4vAbfo2g",
+    "g_name": "しゃぶ亭 西梅田店",
+    "g_rating": 4.3,
+    "g_reviews": 1034,
+    "g_address": "日本、〒530-0001 大阪府大阪市北区梅田２丁目１−１５",
+    "lat": 34.6993763,
+    "lng": 135.4952113
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "三光舎",
+    "name_en": "Sanko Sha",
+    "area": "北海道 豊水すすきの駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010103/1000247/",
+    "rating": 3.58,
+    "review_count_tabelog": 145,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Sukiyaki, Shabu shabu (Japanese hotpot), Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 17:00 - 23:00 L.O. 22:30",
+        "dtl_text": "17:00 - 23:00 L.O. 22:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 3.9,
+    "google_reviews": 230,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJqQPDBYQpC18RAkrf-PoJQvE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/1000247-16c59a377c98dc21b003b15b19297d75f51328a3264fe7812b8dcf13d84f655f.jpg",
+    "place_id": "ChIJqQPDBYQpC18RAkrf-PoJQvE",
+    "g_name": "すき焼 三光舎",
+    "g_rating": 3.9,
+    "g_reviews": 230,
+    "g_address": "日本、〒064-0804 北海道札幌市中央区南４条西２ レコルトサッポロ 2階",
+    "lat": 43.0553916,
+    "lng": 141.3560687
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "遊食豚彩いちにいさん 鹿児島本店",
+    "name_en": "Yushoku Tonsai Ichiniisan Kagoshima Ten",
+    "area": "鹿児島県 鹿児島市",
+    "url": "https://tabelog.com/kagoshima/A4601/A460101/46000945/",
+    "rating": 3.67,
+    "review_count_tabelog": 231,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Pork shabu shabu, Shabu shabu (Japanese hotpot), Pork dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 22:30 L.O. 22:00",
+        "dtl_text": "11:00 - 22:30 L.O. 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 885,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJRoZNrJgPjURTA7sNDU5RWU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/46000945-2a01f131771944092a2cdcc32641334fdad3bed73ebd0e47cd65ed51851e9d20.jpg",
+    "place_id": "ChIJJRoZNrJgPjURTA7sNDU5RWU",
+    "g_name": "遊食豚彩いちにいさん 鹿児島本店",
+    "g_rating": 4.3,
+    "g_reviews": 885,
+    "g_address": "日本、〒890-0056 鹿児島県鹿児島市下荒田１丁目２１−２４",
+    "lat": 31.5786497,
+    "lng": 130.5571883
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "やすだ",
+    "name_en": "Yasuda",
+    "area": "大阪府 城北公園通駅",
+    "url": "https://tabelog.com/osaka/A2701/A270304/27004667/",
+    "rating": 3.77,
+    "review_count_tabelog": 364,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "-",
+    "sub_categories": "Shabu shabu (Japanese hotpot), Beef dishes, Yakiniku (BBQ Beef)",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays and the third Monday of each month"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 188,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJrXNoQ03hAGARknO3hAipxVw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/27004667-3e9847b19ae0fa4ec1d9f81b06334a1a183bdb4665694cdec88e28df4efe1c35.jpg",
+    "place_id": "ChIJrXNoQ03hAGARknO3hAipxVw",
+    "g_name": "しゃぶしゃぶ やすだ",
+    "g_rating": 4.6,
+    "g_reviews": 188,
+    "g_address": "日本、〒534-0001 大阪府大阪市都島区毛馬町２丁目３−１５",
+    "lat": 34.7217087,
+    "lng": 135.5261853
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "江戸庄",
+    "name_en": "Edo Sho",
+    "area": "新潟県 村上市",
+    "url": "https://tabelog.com/niigata/A1505/A150504/15001277/",
+    "rating": 3.66,
+    "review_count_tabelog": 85,
+    "price_dinner": "-",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Sukiyaki, Shabu shabu (Japanese hotpot), Beef dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:00",
+        "dtl_text": "11:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 3.9,
+    "google_reviews": 185,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3-Eg_lJui18RKKaOIKWD-Sk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/15001277-f1e035829a9d250dc4c6300513d619563d8f7f6d7696b3d6924c7e2eb6469547.jpg",
+    "place_id": "ChIJ3-Eg_lJui18RKKaOIKWD-Sk",
+    "g_name": "村上牛専門料理店 江戸庄",
+    "g_rating": 3.9,
+    "g_reviews": 185,
+    "g_address": "日本、〒958-0842 新潟県村上市大町２−１７",
+    "lat": 38.2246459,
+    "lng": 139.4790983
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "日本橋 伊勢重",
+    "name_en": "Nihonbashi Iseju",
+    "area": "東京都 馬喰横山駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130204/13008056/",
+    "rating": 3.65,
+    "review_count_tabelog": 348,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Sukiyaki, Shabu shabu (Japanese hotpot), Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 16:00 L.O. 15:30 16:30 - 22:00 L.O. 21:00",
+        "dtl_text": "16:30 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 412,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJk9Yi1VKJGGAR0ToqvwvWqz8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/13008056-42e1a3f229e8939424a79a53c6330a2e39f79efe3832fb324131271accda48f7.jpg",
+    "place_id": "ChIJk9Yi1VKJGGAR0ToqvwvWqz8",
+    "g_name": "和牛すき焼き 伊勢重 日本橋",
+    "g_rating": 4.4,
+    "g_reviews": 412,
+    "g_address": "日本、〒103-0001 東京都中央区日本橋小伝馬町１４−９ 小伝馬ファインビル",
+    "lat": 35.691765,
+    "lng": 139.780666
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "豚捨 若柳",
+    "name_en": "butasute Wakayanagi",
+    "area": "三重県 伊勢市",
+    "url": "https://tabelog.com/mie/A2403/A240301/24000563/",
+    "rating": 3.62,
+    "review_count_tabelog": 126,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Sukiyaki, Yakiniku (BBQ Beef), Shabu shabu (Japanese hotpot)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "11:00 - 21:00 L.O. 19:30",
+        "dtl_text": "11:00 - 21:00 L.O. 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Temporary closures may occur | January 1 (Monday), 2 (Tuesday), 4 (Thursday) of 2024."
+    },
+    "google_rating": 4.1,
+    "google_reviews": 953,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJsa27tmNaBGARLyixS0esfos",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/24000563-779d491e768db4899d4fbcb875fb8a4ec086072106eb9aa23b313172d3cef95e.jpg",
+    "place_id": "ChIJsa27tmNaBGARLyixS0esfos",
+    "g_name": "豚捨 外宮前店",
+    "g_rating": 4.1,
+    "g_reviews": 953,
+    "g_address": "日本、〒516-0037 三重県伊勢市岩渕１丁目１−３３",
+    "lat": 34.4884389,
+    "lng": 136.7074112
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "本 せきぐち",
+    "name_en": "Hon Sekiguchi",
+    "area": "大阪府 近鉄日本橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270202/27008839/",
+    "rating": 3.6,
+    "review_count_tabelog": 191,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Sukiyaki, Shabu shabu (Japanese hotpot)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "16:00 - 22:00 L.O. 21:00",
+        "dtl_text": "16:00 - 22:00 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 287,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-YB4iWrnAGARsyxBVU3UHsc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/27008839-a1f2a61e4f5b367b86705a702022e8a0502124d129c10de9461260b3eea61081.jpg",
+    "place_id": "ChIJ-YB4iWrnAGARsyxBVU3UHsc",
+    "g_name": "純関西風すき焼き専門店 本 せきぐち",
+    "g_rating": 4.3,
+    "g_reviews": 287,
+    "g_address": "日本、〒542-0074 大阪府大阪市中央区千日前２丁目２−７",
+    "lat": 34.6663045,
+    "lng": 135.5053566
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "三嶋亭 本店",
+    "name_en": "Mishima Tei Hon Ten",
+    "area": "京都府 京都市役所前駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260201/26000646/",
+    "rating": 3.66,
+    "review_count_tabelog": 806,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Sukiyaki, Japanese Cuisine, Beef dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 21:00",
+        "dtl_text": "11:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed. Please contact the restaurant for details."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 1337,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJrUy7vpMIAWARciV2lMassEo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/26000646-8b4f2533743719340461cd3856c054c4dcb6bc0fccd051c40fa191b84ffd794e.jpg",
+    "place_id": "ChIJrUy7vpMIAWARciV2lMassEo",
+    "g_name": "三嶋亭 本店",
+    "g_rating": 4.2,
+    "g_reviews": 1337,
+    "g_address": "日本、〒604-8035 京都府京都市中京区桜之町４０５",
+    "lat": 35.0085412,
+    "lng": 135.7670506
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "人形町今半 上野広小路店",
+    "name_en": "Ningyocho Imahan Ueno Hiro Koji Ten",
+    "area": "東京都 上野広小路駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131101/13005082/",
+    "rating": 3.61,
+    "review_count_tabelog": 351,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "Sukiyaki, Shabu shabu (Japanese hotpot), Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 15:00 17:00 - 22:00 L.O. Food 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. Food 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 15:00 L.O. Food 14:00",
+        "dtl_text": "11:00 - 15:00 L.O. Food 14:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "*We will reopen at 12:00 PM the following day."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 779,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJFRS5CCCMGGARfqGykQK1XJA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/13005082-02037df442fb26a0c10edd42ae91f1a315e8d75742da4e800a60b11797c90565.jpg",
+    "place_id": "ChIJFRS5CCCMGGARfqGykQK1XJA",
+    "g_name": "人形町今半 上野広小路店",
+    "g_rating": 4.4,
+    "g_reviews": 779,
+    "g_address": "日本、〒110-0005 東京都台東区上野１丁目２０−１１ 広小路ビル ６F ヒューリック",
+    "lat": 35.7074757,
+    "lng": 139.7726361
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "きよ助",
+    "name_en": "Kiyo Suke",
+    "area": "大阪府 谷町六丁目駅",
+    "url": "https://tabelog.com/osaka/A2701/A270204/27080288/",
+    "rating": 3.62,
+    "review_count_tabelog": 228,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Sukiyaki, Shabu shabu (Japanese hotpot), Pork shabu shabu",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00 17:20 - 22:00",
+        "dtl_text": "17:20 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 258,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJjdsNdznnAGARrAQ655cG2Y0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/27080288-b9f0ec7e1bc628ae5b5bbf7a8a15cf0a65b7aa148f7bb747fd606405f66f58b3.jpg",
+    "place_id": "ChIJjdsNdznnAGARrAQ655cG2Y0",
+    "g_name": "すき焼き・しゃぶしゃぶ きよ助",
+    "g_rating": 4.6,
+    "g_reviews": 258,
+    "g_address": "日本、〒542-0062 大阪府大阪市中央区上本町西１丁目３−２８",
+    "lat": 34.6754027,
+    "lng": 135.5197095
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "モリタ屋 JR京都伊勢丹店",
+    "name_en": "Morita Ya Jei A Ru Kyoto Isetan Ten",
+    "area": "京都府 京都駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260101/26000411/",
+    "rating": 3.6,
+    "review_count_tabelog": 396,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Sukiyaki, Shabu shabu (Japanese hotpot), Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 22:00 L.O. 21:00",
+        "dtl_text": "11:00 - 22:00 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (following Isetan's schedule)"
+    },
+    "google_rating": 3.5,
+    "google_reviews": 473,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJF7FjtZsIAWARfIXSx1JNkoM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/26000411-dc5979a0ceca4dac91c0679ab6e22e64d5692a37b5b11e0ec72ed0be75783947.jpg",
+    "place_id": "ChIJF7FjtZsIAWARfIXSx1JNkoM",
+    "g_name": "モリタ屋｜JR京都伊勢丹 11F",
+    "g_rating": 3.5,
+    "g_reviews": 473,
+    "g_address": "日本、〒600-8711 京都府京都市下京区東塩小路町９０１ ジェイアール京都伊勢丹 11F",
+    "lat": 34.9861948,
+    "lng": 135.7579239
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "はり重 道頓堀本店",
+    "name_en": "Hari Ju Dotonbori Honten",
+    "area": "大阪府 大阪難波駅",
+    "url": "https://tabelog.com/osaka/A2701/A270202/27001250/",
+    "rating": 3.57,
+    "review_count_tabelog": 598,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Sukiyaki, Shabu shabu (Japanese hotpot), Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 21:00 L.O. 20:00",
+        "dtl_text": "11:30 - 21:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays (open on public holidays, the day before public holidays, and in December)"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 294,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ22PbNLPnAGARHMw_YJSBEFU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/27001250-4977b584c060e9814e68475c3fcfc1a2d8ce45549cfcfe4a7fd33d50b9f4738d.jpg",
+    "place_id": "ChIJ22PbNLPnAGARHMw_YJSBEFU",
+    "g_name": "はり重 道頓堀本店",
+    "g_rating": 4.1,
+    "g_reviews": 294,
+    "g_address": "日本、〒542-0071 大阪府大阪市中央区道頓堀１丁目９−１７",
+    "lat": 34.6685409,
+    "lng": 135.5006466
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "ますだや",
+    "name_en": "Masudaya",
+    "area": "東京都 飯田橋駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13040653/",
+    "rating": 3.58,
+    "review_count_tabelog": 203,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Sukiyaki, Shabu shabu (Japanese hotpot), Bento (Lunch box)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "10:30 - 13:00 18:00 - 21:30",
+        "dtl_text": "18:00 - 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.5,
+    "google_reviews": 64,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJkxrSpkGMGGAR4N-X_BBhPLo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/13040653-7f0d7a8570f3d5d595ca375a983afa5fca4d8e1ebfc69e1a5b16c691f0bf6bf5.jpg",
+    "place_id": "ChIJkxrSpkGMGGAR4N-X_BBhPLo",
+    "g_name": "増田屋",
+    "g_rating": 3.5,
+    "g_reviews": 64,
+    "g_address": "日本、〒102-0072 東京都千代田区飯田橋２丁目８−４",
+    "lat": 35.6995645,
+    "lng": 139.7489331
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "道産羊肉割烹 ラムぴりか",
+    "name_en": "Dosan Youniku Kappou Lamb Pirika",
+    "area": "北海道 豊水すすきの駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010103/1071005/",
+    "rating": 3.61,
+    "review_count_tabelog": 80,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Shabu shabu (Japanese hotpot), Japanese Cuisine, Jingisukan (Grilled lamb)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:30 - 23:00 L.O. 22:30",
+        "dtl_text": "17:30 - 23:00 L.O. 22:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.9,
+    "google_reviews": 68,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJa2gpHrspC18RsJqNX-W8vbs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/1071005-9a4ca445b92a11df3abfda79386b561496d9978a2cc07aeb3feda749ad3537f4.jpg",
+    "place_id": "ChIJa2gpHrspC18RsJqNX-W8vbs",
+    "g_name": "道産羊肉割烹ラムぴりか",
+    "g_rating": 4.9,
+    "g_reviews": 68,
+    "g_address": "日本、〒064-0806 北海道札幌市中央区南６条西３丁目6−３１ ジョイフル酒肴小路 ７階",
+    "lat": 43.05382710000001,
+    "lng": 141.355195
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "牛幸 本店",
+    "name_en": "Ushiko Honten",
+    "area": "東京都 茅場町駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130203/13007682/",
+    "rating": 3.58,
+    "review_count_tabelog": 437,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Sukiyaki, Shabu shabu (Japanese hotpot), Teppanyaki",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 14:30 17:00 - 22:30",
+        "dtl_text": "17:00 - 22:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "17:00 - 22:30",
+        "dtl_text": "17:00 - 22:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 421,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1xn4zVyJGGARLLoXdCniWv4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/13007682-8ac7d9da72b38f31bdf77cb2094080ab8df233aef86b87637677ee801463b277.jpg",
+    "place_id": "ChIJ1xn4zVyJGGARLLoXdCniWv4",
+    "g_name": "牛幸 本店",
+    "g_rating": 4.3,
+    "g_reviews": 421,
+    "g_address": "日本、〒104-0033 東京都中央区新川１丁目９−８ 藤和新川一丁目ビル",
+    "lat": 35.6771683,
+    "lng": 139.7827666
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "すき焼き 牛しゃぶ 松重",
+    "name_en": "Sukiyaki Gyushabu Matsuju",
+    "area": "三重県 津市",
+    "url": "https://tabelog.com/mie/A2401/A240101/24013621/",
+    "rating": 3.62,
+    "review_count_tabelog": 232,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Sukiyaki, Shabu shabu (Japanese hotpot), Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:00 L.O. 13:30 17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round (closed from December 31 to January 5)"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 427,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJHSLY_rMMBGARLM6Xp0_1ewA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/24013621-0b4b9788d46809292f00c0ded751680207bc321b9ac96d20196bbc2fc46bd10a.jpg",
+    "place_id": "ChIJHSLY_rMMBGARLM6Xp0_1ewA",
+    "g_name": "すきやき・牛しゃぶ 松重",
+    "g_rating": 4.4,
+    "g_reviews": 427,
+    "g_address": "日本、〒514-0009 三重県津市羽所町３８１ アネックス 1F 三交ビルディング",
+    "lat": 34.7346599,
+    "lng": 136.5118247
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "あごつゆしゃぶしゃぶ 山福",
+    "name_en": "Agotsuyu Shabushabu Yamafuku",
+    "area": "京都府 三条駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260301/26019742/",
+    "rating": 3.57,
+    "review_count_tabelog": 124,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "-",
+    "sub_categories": "Shabu shabu (Japanese hotpot), Pork shabu shabu, Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 00:00",
+        "dtl_text": "17:00 - 00:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed."
+    },
+    "google_rating": 4.6,
+    "google_reviews": 763,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJA8Lvs5QIAWARcluMJK3ZcZI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/26019742-4db7302e96c18d055fdeb09b330bc72ea113d3a3a98d0910581b3e6a012c338a.jpg",
+    "place_id": "ChIJA8Lvs5QIAWARcluMJK3ZcZI",
+    "g_name": "あごつゆしゃぶしゃぶ 山福",
+    "g_rating": 4.6,
+    "g_reviews": 763,
+    "g_address": "日本、〒604-8017 京都府京都市中京区材木町１８７",
+    "lat": 35.0071128,
+    "lng": 135.7707992
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "赤坂武蔵",
+    "name_en": "Akasaka Musashi",
+    "area": "東京都 赤坂駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130801/13038448/",
+    "rating": 3.55,
+    "review_count_tabelog": 355,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Pork shabu shabu, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 14:00 17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 245,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4xrfO4eLGGARnefPZZpmQZA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/13038448-2cc6b97cd318c56de3b2e3da65136a6606897c6fb5041a42444f4488780ad889.jpg",
+    "place_id": "ChIJ4xrfO4eLGGARnefPZZpmQZA",
+    "g_name": "武蔵",
+    "g_rating": 4.4,
+    "g_reviews": 245,
+    "g_address": "日本、〒107-0052 東京都港区赤坂３丁目１２−１１ セントラルビル赤坂B1F",
+    "lat": 35.6731516,
+    "lng": 139.7379991
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "牛のいしざき",
+    "name_en": "Gyu no Ishizaki",
+    "area": "北海道 すすきの（市営）駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010103/1002914/",
+    "rating": 3.56,
+    "review_count_tabelog": 119,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Sukiyaki, Shabu shabu (Japanese hotpot)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 23:00 L.O. 22:30",
+        "dtl_text": "17:00 - 23:00 L.O. 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Public Holiday",
+        "dtl": "17:00 - 22:00 L.O. 21:30",
+        "dtl_text": "17:00 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 213,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5TcgeoQpC18RG5R0uhRBnwM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/1002914-93aadc33d67474c438237e79affafcddb6080bbc00cd04bfe954d9b329349dbc.jpg",
+    "place_id": "ChIJ5TcgeoQpC18RG5R0uhRBnwM",
+    "g_name": "すきやき しゃぶしゃぶ 牛のいしざき",
+    "g_rating": 4.4,
+    "g_reviews": 213,
+    "g_address": "日本、〒060-0063 北海道札幌市中央区南３条西３丁目 Gダイニング札幌 3F ビル",
+    "lat": 43.0566658,
+    "lng": 141.3543128
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "松阪牛 よし田",
+    "name_en": "Matsusaka Ushi Yoshida",
+    "area": "東京都 初台駅",
+    "url": "https://tabelog.com/tokyo/A1318/A131807/13188515/",
+    "rating": 3.7,
+    "review_count_tabelog": 631,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Sukiyaki, Shabu shabu (Japanese hotpot), Teppanyaki",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 14:30 L.O. 14:00 17:30 - 22:00 L.O. 21:00",
+        "dtl_text": "17:30 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round (excluding year-end & New Year holidays and building closure days). Please note that private reservations are common on weekends and public holidays."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 511,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJUW8Awy3zGGARrL3sNFlettk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/13188515-ea57c305f8d83562aa98df70d8fca1f5a5569a8ffb6062250bff6fc508ceb4ed.jpg",
+    "place_id": "ChIJUW8Awy3zGGARrL3sNFlettk",
+    "g_name": "松阪牛 よし田",
+    "g_rating": 4.2,
+    "g_reviews": 511,
+    "g_address": "日本、〒163-1453 東京都新宿区西新宿３丁目２０−２ 東京オペラシティタワ ５３階",
+    "lat": 35.6827898,
+    "lng": 139.687092
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "しゃぶしゃぶ・創作料理居酒屋 豚吟 栄店",
+    "name_en": "Shabushabu Creative Izakaya Butagin Sakae Ten",
+    "area": "愛知県 栄町駅",
+    "url": "https://tabelog.com/aichi/A2301/A230103/23052362/",
+    "rating": 3.55,
+    "review_count_tabelog": 228,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "-",
+    "sub_categories": "Pork shabu shabu, Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:00 - 03:00 L.O. Food 02:00 Drinks 02:30",
+        "dtl_text": "17:00 - 03:00 L.O. Food 02:00 Drinks 02:30"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 237,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJjQq4tNpwA2ARCri0u1DCG9g",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/23052362-7da77ead4217868b9506f171f0adc0a5d54a6d37c4b5ddeb08e8bb13eae1b0c4.jpg",
+    "place_id": "ChIJjQq4tNpwA2ARCri0u1DCG9g",
+    "g_name": "しゃぶしゃぶ・創作料理居酒屋 豚吟 栄店",
+    "g_rating": 4.1,
+    "g_reviews": 237,
+    "g_address": "日本、〒460-0008 愛知県名古屋市中区栄４丁目９−１０ 愛信プラザビル 2F",
+    "lat": 35.1679878,
+    "lng": 136.9135131
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "いし橋",
+    "name_en": "Ishi Bashi",
+    "area": "東京都 末広町駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131101/13021036/",
+    "rating": 3.63,
+    "review_count_tabelog": 331,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Sukiyaki",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:00 - 21:30 L.O. 20:00",
+        "dtl_text": "17:00 - 21:30 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 202,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJBRlq8R6MGGARino180gCzC4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/13021036-6024296ba27989dc1a998e2f7b96a250b59aec8963812d6ffcb98121238d8a88.jpg",
+    "place_id": "ChIJBRlq8R6MGGARino180gCzC4",
+    "g_name": "いし橋",
+    "g_rating": 4.5,
+    "g_reviews": 202,
+    "g_address": "日本、〒101-0021 東京都千代田区外神田３丁目６−８",
+    "lat": 35.7028398,
+    "lng": 139.7698595
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "東京肉しゃぶ家",
+    "name_en": "Tokyo Niku Shabuya",
+    "area": "東京都 東新宿駅",
+    "url": "https://tabelog.com/tokyo/A1304/A130401/13196268/",
+    "rating": 4.04,
+    "review_count_tabelog": 592,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Shabu shabu (Japanese hotpot), Sukiyaki, Beef dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:00 - 22:30",
+        "dtl_text": "17:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Ginza SUBIN, located at 8-6-20 Ginza, Chuo-ku, offers top-ranked Tajima beef that is not available in the Kobe beef market. We have two fully private rooms for 2 to 4 guests and a counter private room for 7 guests. Owner chef CHUNGSIN KO works at Ginza SUBIN."
+    },
+    "google_rating": 4.1,
+    "google_reviews": 165,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJg3wcmSeNGGARi9qJAXFxq1k",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/13196268-7a971dad3c989458bee6f7251d512cbc5b3d5e7d049acf8f8240ccde8f0e298c.jpg",
+    "place_id": "ChIJg3wcmSeNGGARi9qJAXFxq1k",
+    "g_name": "東京肉しゃぶ家 Tokyo-nikushabuya",
+    "g_rating": 4.1,
+    "g_reviews": 165,
+    "g_address": "日本、〒169-0072 東京都新宿区大久保１丁目１２−３ 1F カーサ第二新宿",
+    "lat": 35.6983816,
+    "lng": 139.7033524
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "すき焼割烹 日山",
+    "name_en": "Sukiyaki Kappou Hiyama",
+    "area": "東京都 人形町駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130204/13003043/",
+    "rating": 3.73,
+    "review_count_tabelog": 480,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Sukiyaki, Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 14:30 L.O. 13:30 17:00 - 21:30 L.O. 20:30",
+        "dtl_text": "17:00 - 21:30 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Additional holidays during Golden Week, Obon, and Year-end & New Year."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 476,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJiduS1U-JGGARr0XI-XOSodw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/13003043-fc64a4ae5629bd66913858f515cae987bc5f484df78951985fa6f24ee929c8bb.jpg",
+    "place_id": "ChIJiduS1U-JGGARr0XI-XOSodw",
+    "g_name": "すき焼割烹日山",
+    "g_rating": 4.5,
+    "g_reviews": 476,
+    "g_address": "日本、〒103-0013 東京都中央区日本橋人形町２丁目５−１",
+    "lat": 35.6857292,
+    "lng": 139.7830228
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "黒豚料理 あぢもり",
+    "name_en": "Kurobuta Ryori Ajimori",
+    "area": "鹿児島県 鹿児島市",
+    "url": "https://tabelog.com/kagoshima/A4601/A460101/46000029/",
+    "rating": 3.66,
+    "review_count_tabelog": 986,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Pork shabu shabu, Tonkatsu (Pork cutlet), Pork dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 L.O. 14:15 17:00 - 21:30",
+        "dtl_text": "17:00 - 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Other irregular holidays"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 1189,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8UqwWqpgPjUREnL9q_FBd7U",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/46000029-0f234071d513c8103c8a0a0c8c67b49139b68142ef13c667e238b453847ff5a2.jpg",
+    "place_id": "ChIJ8UqwWqpgPjUREnL9q_FBd7U",
+    "g_name": "黒豚料理 あぢもり",
+    "g_rating": 4.2,
+    "g_reviews": 1189,
+    "g_address": "日本、〒892-0843 鹿児島県鹿児島市千日町１３−２１",
+    "lat": 31.5887197,
+    "lng": 130.5565485
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "鹿の子",
+    "name_en": "Shabushabu Kanoko",
+    "area": "奈良県 奈良市",
+    "url": "https://tabelog.com/nara/A2901/A290101/29000058/",
+    "rating": 3.62,
+    "review_count_tabelog": 57,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "-",
+    "sub_categories": "Shabu shabu (Japanese hotpot), Beef dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays (open with reservations made two days in advance)"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 57,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8fUhP8s7AWARsKwCJvytcBc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/29000058-3862221e46cb6b7a5a49a64d5f18dc3bdbea4da0bfec3b85b781cbc1196c0c0e.jpg",
+    "place_id": "ChIJ8fUhP8s7AWARsKwCJvytcBc",
+    "g_name": "しゃぶしゃぶ鹿の子",
+    "g_rating": 4.1,
+    "g_reviews": 57,
+    "g_address": "日本、〒630-8115 奈良県奈良市大宮町５丁目３−２０ 第10 川辺ビル",
+    "lat": 34.6848383,
+    "lng": 135.8122691
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "すき亭 本店",
+    "name_en": "Suki Tei Hon Ten",
+    "area": "長野県 長野市",
+    "url": "https://tabelog.com/nagano/A2001/A200101/20000232/",
+    "rating": 3.61,
+    "review_count_tabelog": 201,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Sukiyaki",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:30 L.O. 14:00 17:00 - 21:30 L.O. 20:30",
+        "dtl_text": "17:00 - 21:30 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 494,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJubejNdmGHWAREjiFR9QCg-4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/20000232-40496b63013ff5489cd19555620dee7621aadbe183fc76feb353b591144e641a.jpg",
+    "place_id": "ChIJubejNdmGHWAREjiFR9QCg-4",
+    "g_name": "すき亭",
+    "g_rating": 4.3,
+    "g_reviews": 494,
+    "g_address": "日本、〒380-0872 長野県長野市妻科１１２−１",
+    "lat": 36.6537731,
+    "lng": 138.1746254
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "ざくろ",
+    "name_en": "Zakuro",
+    "area": "宮崎県 宮崎市",
+    "url": "https://tabelog.com/miyazaki/A4501/A450101/45000944/",
+    "rating": 3.5,
+    "review_count_tabelog": 38,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Shabu shabu (Japanese hotpot)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:30 - 23:00 L.O. 22:00",
+        "dtl_text": "17:30 - 23:00 L.O. 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 53,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ2kaS2q3ODURZW4jPy4tK2g",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/45000944-9b5e94bfb7c476d804e534122073678e93f260dc460e53d75981f2f53ad031df.jpg",
+    "place_id": "ChIJJ2kaS2q3ODURZW4jPy4tK2g",
+    "g_name": "和洋料理 ざくろ",
+    "g_rating": 4.5,
+    "g_reviews": 53,
+    "g_address": "日本、〒880-0806 宮崎県宮崎市広島１丁目１−１ 和洋料理ざくろ",
+    "lat": 31.913207,
+    "lng": 131.424765
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "スギモト 本店",
+    "name_en": "Sugimoto Hon Ten",
+    "area": "愛知県 伏見駅",
+    "url": "https://tabelog.com/aichi/A2301/A230102/23002469/",
+    "rating": 3.53,
+    "review_count_tabelog": 399,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Sukiyaki, Shabu shabu (Japanese hotpot), Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 L.O. 14:00 16:00 - 22:00 L.O. 21:00",
+        "dtl_text": "16:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "December 31, January 1, January 2"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 480,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGboITit3A2AR39J46F8AOJo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/23002469-b5ce5a68da82be0a58135940803ef92f3ef62a1ecbe176ddc7b80e38a49b3d65.jpg",
+    "place_id": "ChIJGboITit3A2AR39J46F8AOJo",
+    "g_name": "レストラン｜すき焼き・しゃぶしゃぶスギモト 本店(ランチ)｜名古屋栄",
+    "g_rating": 4.1,
+    "g_reviews": 480,
+    "g_address": "日本、〒460-0008 愛知県名古屋市中区栄３丁目１−３５",
+    "lat": 35.1681147,
+    "lng": 136.902401
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "伊吹",
+    "name_en": "Ibuki",
+    "area": "東京都 新宿駅",
+    "url": "https://tabelog.com/tokyo/A1304/A130401/13136926/",
+    "rating": 3.56,
+    "review_count_tabelog": 341,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "-",
+    "sub_categories": "Sukiyaki, Shabu shabu (Japanese hotpot), Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The second Monday of each month."
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/13136926-b6429a65c061808c2a1e818a5fec66ff98eaac71051875e896ec1541e40b60a3.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "まつもと",
+    "name_en": "Shokusai Shubo Matsumoto",
+    "area": "沖縄県 那覇市",
+    "url": "https://tabelog.com/okinawa/A4701/A470101/47027108/",
+    "rating": 3.69,
+    "review_count_tabelog": 1038,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Pork shabu shabu, Okinawa cuisine, Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 1102,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJtRK75pxp5TQRty_qbX90rZg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/47027108-751fad35c32823103795f569af82403395c05b81517f37cc3d4a5acfcc7b4af5.jpg",
+    "place_id": "ChIJtRK75pxp5TQRty_qbX90rZg",
+    "g_name": "食彩酒房 まつもと",
+    "g_rating": 4.4,
+    "g_reviews": 1102,
+    "g_address": "日本、〒900-0032 沖縄県那覇市松山１丁目１０−８",
+    "lat": 26.2169484,
+    "lng": 127.6783342
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "やんばるダイニング 松の古民家",
+    "name_en": "Yanbaru Dining Matsu no Kominka",
+    "area": "沖縄県 名護市",
+    "url": "https://tabelog.com/okinawa/A4702/A470201/47014042/",
+    "rating": 3.65,
+    "review_count_tabelog": 446,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "-",
+    "sub_categories": "Pork shabu shabu, Okinawa cuisine, Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Please arrive within 15 minutes of your reservation time, as late arrivals will be considered a cancellation. Additionally, please be aware of our cancellation policy, as fees may apply for same-day cancellations."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 394,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJy2i1xmH_5DQR-xjPnOKf31o",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/47014042-b9ac0204c25c1fb5689c772a9bc49f95559bbed8196c30c867e6a1e9521d94f0.jpg",
+    "place_id": "ChIJy2i1xmH_5DQR-xjPnOKf31o",
+    "g_name": "やんばるダイニング 松の古民家",
+    "g_rating": 4.2,
+    "g_reviews": 394,
+    "g_address": "日本、〒905-0015 沖縄県名護市大南２丁目１４−５",
+    "lat": 26.5939848,
+    "lng": 127.9773421
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "まと場",
+    "name_en": "Matoba",
+    "area": "三重県 鈴鹿市",
+    "url": "https://tabelog.com/mie/A2402/A240202/24000103/",
+    "rating": 3.64,
+    "review_count_tabelog": 92,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Sukiyaki, Beef dishes, Shabu shabu (Japanese hotpot)",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 266,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0deqRySKA2ARRR_pyPSaWVE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/24000103-38631bbc80d0f1696251708df3b3ea973728c497b5e7179db13f34d525386772.jpg",
+    "place_id": "ChIJ0deqRySKA2ARRR_pyPSaWVE",
+    "g_name": "まと場",
+    "g_rating": 4.1,
+    "g_reviews": 266,
+    "g_address": "日本、〒513-0036 三重県鈴鹿市矢橋１丁目２５−１５",
+    "lat": 34.8767982,
+    "lng": 136.5870521
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "今半 別館",
+    "name_en": "Imahan Bekkan",
+    "area": "東京都 浅草（東武・都営・メトロ）駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131102/13003656/",
+    "rating": 3.63,
+    "review_count_tabelog": 438,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Sukiyaki, Shabu shabu (Japanese hotpot), Gyu-don (Beef bowl)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 15:00 16:30 - 21:30 L.O. 20:00",
+        "dtl_text": "16:30 - 21:30 L.O. 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:00 - 21:30 L.O. 20:00",
+        "dtl_text": "11:00 - 21:30 L.O. 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 639,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJHYK4PcGOGGARqzUV1AuY7aA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/13003656-60afeb1f2273ef3f8dd6cd56c8c4900fb4d144891ed743e4c1262df5ce151aac.jpg",
+    "place_id": "ChIJHYK4PcGOGGARqzUV1AuY7aA",
+    "g_name": "今半別館",
+    "g_rating": 4.3,
+    "g_reviews": 639,
+    "g_address": "日本、〒111-0032 東京都台東区浅草２丁目２−５",
+    "lat": 35.7131382,
+    "lng": 139.7969276
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "西新初喜 本店",
+    "name_en": "Nishishin Hatsuki Hon Ten",
+    "area": "福岡県 西新駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400203/40003224/",
+    "rating": 3.59,
+    "review_count_tabelog": 255,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Shabu shabu (Japanese hotpot), Sukiyaki, Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 15:30 L.O. 14:30 17:00 - 23:00 L.O. 22:00",
+        "dtl_text": "17:00 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 1016,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0c4ZcKSTQTUR7WTa9L6d3iI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/40003224-20e1a5ea0595bc3f617efd7484ed7a4878794f3ba1eeb177f1b2e97728fb7d8a.jpg",
+    "place_id": "ChIJ0c4ZcKSTQTUR7WTa9L6d3iI",
+    "g_name": "西新初喜本店",
+    "g_rating": 4.4,
+    "g_reviews": 1016,
+    "g_address": "日本、〒814-0002 福岡県福岡市早良区西新５丁目６−３０ 初喜ビル 2階",
+    "lat": 33.5820204,
+    "lng": 130.3565515
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "岡半",
+    "name_en": "Oka Han",
+    "area": "東京都 四ツ谷駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130803/13019041/",
+    "rating": 3.65,
+    "review_count_tabelog": 157,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Sukiyaki, Shabu shabu (Japanese hotpot), Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00 17:00 - 20:00",
+        "dtl_text": "17:00 - 20:00"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 76,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ89uL5HyMGGARa0MbwAPf7ok",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/13019041-e466dd4ca182ae8cae6cc053ebd58e959d1045a073dd5734fe20cb213432afbc.jpg",
+    "place_id": "ChIJ89uL5HyMGGARa0MbwAPf7ok",
+    "g_name": "ホテルニューオータニ 岡半",
+    "g_rating": 4.5,
+    "g_reviews": 76,
+    "g_address": "日本、〒102-0094 東京都千代田区紀尾井町４−１",
+    "lat": 35.6810562,
+    "lng": 139.7335457
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "モリタ屋 四条猪熊本店",
+    "name_en": "Morita Ya Shijo Inokuma Mototen",
+    "area": "京都府 大宮駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260203/26000409/",
+    "rating": 3.61,
+    "review_count_tabelog": 218,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Sukiyaki, Shabu shabu (Japanese hotpot), Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 15:30 L.O. 14:30 17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 22:00 L.O. 21:00",
+        "dtl_text": "11:30 - 22:00 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Year-end & New Year Holidays (Dec 31, Jan 1)"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 643,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJE0ZdZigGAWARgGDZN5wfAFw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/26000409-58202f6d2a1e5341510eae1a4f99479589623748e85b84bceae589238bf43a25.jpg",
+    "place_id": "ChIJE0ZdZigGAWARgGDZN5wfAFw",
+    "g_name": "モリタ屋 四条猪熊本店",
+    "g_rating": 4.1,
+    "g_reviews": 643,
+    "g_address": "日本、〒604-8363 京都府京都市中京区猪熊通四条上る錦猪熊町５２１",
+    "lat": 35.0038212,
+    "lng": 135.750208
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "あぐー豚しゃぶしゃぶ専門店 とり央 別邸",
+    "name_en": "Agu Buta Shabushabu Senmon Ten Toriou Bettei",
+    "area": "大阪府 新福島駅",
+    "url": "https://tabelog.com/osaka/A2701/A270108/27137353/",
+    "rating": 3.68,
+    "review_count_tabelog": 103,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Pork shabu shabu, Pork dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday",
+        "dtl": "17:00 - 22:30",
+        "dtl_text": "17:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.7,
+    "google_reviews": 25,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDf375uXnAGARyfzjelvUqog",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/27137353-e002a2a9eaf0f460e019b139c512005ce19b6ba276a09c7a732bd4afe084e3e1.jpg",
+    "place_id": "ChIJDf375uXnAGARyfzjelvUqog",
+    "g_name": "あぐー豚しゃぶしゃぶ とり央別邸",
+    "g_rating": 4.7,
+    "g_reviews": 25,
+    "g_address": "日本、〒553-0003 大阪府大阪市福島区福島２丁目８−５",
+    "lat": 34.6945104,
+    "lng": 135.4868338
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "浅草今半 国際通り本店",
+    "name_en": "Asakusa Imahan Kokusaidori Honten",
+    "area": "東京都 浅草（つくばＥＸＰ）駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131102/13003649/",
+    "rating": 3.62,
+    "review_count_tabelog": 685,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Sukiyaki, Shabu shabu (Japanese hotpot), Gyu-don (Beef bowl)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 21:30 L.O. 20:30",
+        "dtl_text": "11:30 - 21:30 L.O. 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 2268,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ99yU6b-OGGAR2NfOuMg0JUA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/13003649-5ebc0ea1248c7e236fd2bc6569cf00f168ca9b23937c8e121aa75da8d51b1f8b.jpg",
+    "place_id": "ChIJ99yU6b-OGGAR2NfOuMg0JUA",
+    "g_name": "浅草今半 国際通り本店",
+    "g_rating": 4.5,
+    "g_reviews": 2268,
+    "g_address": "日本、〒111-0035 東京都台東区西浅草３丁目１−１２",
+    "lat": 35.7139043,
+    "lng": 139.7922209
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "米久本店",
+    "name_en": "Yonekyu Honten",
+    "area": "東京都 浅草（つくばＥＸＰ）駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131102/13003667/",
+    "rating": 3.66,
+    "review_count_tabelog": 1117,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Sukiyaki, Hot Pot",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 21:00 L.O. 20:00",
+        "dtl_text": "12:00 - 21:00 L.O. 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.8,
+    "google_reviews": 1943,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJO1X9reqOGGARjDtJYItFJTY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/13003667-eaad6ebbdec8d0e97d4cae01fb6da948a099793f1ba91f146a56843596b7c41c.jpg",
+    "place_id": "ChIJO1X9reqOGGARjDtJYItFJTY",
+    "g_name": "米久本店",
+    "g_rating": 3.8,
+    "g_reviews": 1943,
+    "g_address": "日本、〒111-0032 東京都台東区浅草２丁目１７−１０",
+    "lat": 35.7159243,
+    "lng": 139.7937238
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "牛銀本店",
+    "name_en": "Gyugin Honten",
+    "area": "三重県 松阪市",
+    "url": "https://tabelog.com/mie/A2401/A240102/24000055/",
+    "rating": 3.74,
+    "review_count_tabelog": 293,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Sukiyaki, Hot Pot",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 20:00 L.O. 19:00",
+        "dtl_text": "11:00 - 20:00 L.O. 19:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Please check our website for the holiday calendar."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 978,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJyQ0LY-BrBGAR-7o4PooYLCc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/24000055-a396f7ee4154055d3f69090f6e7419d8ba6f58229a123599d366e378e05bf10c.jpg",
+    "place_id": "ChIJyQ0LY-BrBGAR-7o4PooYLCc",
+    "g_name": "牛銀 本店",
+    "g_rating": 4.3,
+    "g_reviews": 978,
+    "g_address": "日本、〒515-0082 三重県松阪市魚町１６１８",
+    "lat": 34.5792144,
+    "lng": 136.5284789
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "しゃぶしゃぶ金武 本店",
+    "name_en": "Shabushabu Kin Hon Ten",
+    "area": "沖縄県 那覇市",
+    "url": "https://tabelog.com/okinawa/A4701/A470101/47023328/",
+    "rating": 3.73,
+    "review_count_tabelog": 333,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Pork shabu shabu, Shabu shabu (Japanese hotpot), Okinawa cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 215,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8UgAjJtp5TQRbmufur4BNsA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/47023328-3a850b7a26710ac38cc823f8451d55dca596e95d96293c8530156819c11cb786.jpg",
+    "place_id": "ChIJ8UgAjJtp5TQRbmufur4BNsA",
+    "g_name": "しゃぶしゃぶ金武 本店",
+    "g_rating": 4.4,
+    "g_reviews": 215,
+    "g_address": "日本、〒900-0013 沖縄県那覇市牧志１丁目９−４",
+    "lat": 26.216643,
+    "lng": 127.6834898
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "東京肉しゃぶ家 秀彬",
+    "name_en": "subin",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13287203/",
+    "rating": 4.21,
+    "review_count_tabelog": 106,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Shabu shabu (Japanese hotpot), Sukiyaki, Beef dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Public Holiday",
+        "dtl": "12:00 - 14:30 17:30 - 22:30",
+        "dtl_text": "17:30 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 27,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3W2zdQOLGGARaY813i6qLTI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/13287203-d303980ac99d8723fcc20a20bb5af0212c26ed5d9d83d2083831d55fd33acd93.jpg",
+    "place_id": "ChIJ3W2zdQOLGGARaY813i6qLTI",
+    "g_name": "東京肉しゃぶ家 秀彬-subin-",
+    "g_rating": 4.3,
+    "g_reviews": 27,
+    "g_address": "日本、〒104-0061 東京都中央区銀座８丁目６−２０ 銀座八番館 B1",
+    "lat": 35.668707,
+    "lng": 139.7605157
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "たか福 名古屋JRセントラルタワーズ店",
+    "name_en": "Taka Fuku Nagoya Jr Sentorarutawazu Ten",
+    "area": "愛知県 名古屋駅",
+    "url": "https://tabelog.com/aichi/A2301/A230101/23063516/",
+    "rating": 3.54,
+    "review_count_tabelog": 137,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Shabu shabu (Japanese hotpot), Sukiyaki",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 L.O. Food 14:30 17:00 - 22:00 L.O. Food 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. Food 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "September 17, Wednesday"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 160,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJWbr78ud2A2ARScgg9tiGd2U",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/23063516-537ae23c05edcf4d5234915eca6692007e680bb79195f31ebca4b490d5c270a0.jpg",
+    "place_id": "ChIJWbr78ud2A2ARScgg9tiGd2U",
+    "g_name": "黄金しゃぶしゃぶ たか福 名古屋JRセントラルタワーズ店",
+    "g_rating": 4.5,
+    "g_reviews": 160,
+    "g_address": "日本、〒450-6013 愛知県名古屋市中村区名駅１丁目１−４ JRセントラルタワーズ １３F",
+    "lat": 35.1708422,
+    "lng": 136.8829306
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "人形町今半 銀座店",
+    "name_en": "Ningyocho Imahan Ginza Ten",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13016566/",
+    "rating": 3.64,
+    "review_count_tabelog": 247,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Sukiyaki, Shabu shabu (Japanese hotpot), Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 17:00 - 22:00 L.O. Food 20:30",
+        "dtl_text": "17:00 - 22:00 L.O. Food 20:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "*We will reopen at 11:30 AM the following day."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 537,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKZ_SHeaLGGARdSB4uj6gibg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/13016566-869536c84cecbcdd44a9945e102907d7e4f4821e7338fa14772509b262fcbd9f.jpg",
+    "place_id": "ChIJKZ_SHeaLGGARdSB4uj6gibg",
+    "g_name": "人形町今半 銀座店",
+    "g_rating": 4.5,
+    "g_reviews": 537,
+    "g_address": "日本、〒104-0061 東京都中央区銀座６丁目８−７ 交詢ビル ５F",
+    "lat": 35.6701117,
+    "lng": 139.7628104
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "ざくろ TBS店",
+    "name_en": "Zakuro Tbs Ten",
+    "area": "東京都 赤坂駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130801/13002758/",
+    "rating": 3.57,
+    "review_count_tabelog": 410,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Shabu shabu (Japanese hotpot), Sukiyaki, Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 L.O. 14:30 17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Year-end & New Year Holidays (Dec 29 - Jan 3), and building closure days."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 314,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJn1_2uYCLGGARHrLpYyWt1ho",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/13002758-c443d866bfad622866f6d963d53a5e17250ca33b581dfd574faf463af301a224.jpg",
+    "place_id": "ChIJn1_2uYCLGGARHrLpYyWt1ho",
+    "g_name": "ざくろ TBS店",
+    "g_rating": 4.4,
+    "g_reviews": 314,
+    "g_address": "日本、〒107-0052 東京都港区赤坂５丁目３−１ Bizタワー SHOPS＆DINING 2F",
+    "lat": 35.6731729,
+    "lng": 139.7361578
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "北新地しゃぶしゃぶすき焼き きらく",
+    "name_en": "Kitashinchi Shabushabu Sukiyaki Kiraku",
+    "area": "大阪府 大江橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27128587/",
+    "rating": 3.62,
+    "review_count_tabelog": 362,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Shabu shabu (Japanese hotpot), Sukiyaki, Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 23:30",
+        "dtl_text": "17:00 - 23:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.7,
+    "google_reviews": 117,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJycAGLZnnAGARI0dPp0aIWlE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/27128587-0b3e2d33fba55212ffcd4c9bf8792fbbfb83aa452db0cba49ab48b1c8f7fae2c.jpg",
+    "place_id": "ChIJycAGLZnnAGARI0dPp0aIWlE",
+    "g_name": "北新地しゃぶしゃぶすき焼き きらく",
+    "g_rating": 4.7,
+    "g_reviews": 117,
+    "g_address": "日本、〒530-0003 大阪府大阪市北区堂島１丁目２−７ パーマリィ・イン B1F",
+    "lat": 34.6962634,
+    "lng": 135.4991582
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "PRETTY PORK FACTORY & KATSUプリポー",
+    "name_en": "Pretty Pork Factory & Katsu Puripo",
+    "area": "東京都 明治神宮前駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130601/13295369/",
+    "rating": 3.9,
+    "review_count_tabelog": 557,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Shabu shabu (Japanese hotpot), Tonkatsu (Pork cutlet), Korean",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:00 - 16:00 L.O. Food 14:30 Drinks 15:00 17:00 - 23:00 L.O. Food 20:30 Drinks 21:30",
+        "dtl_text": "17:00 - 23:00 L.O. Food 20:30 Drinks 21:30"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.5,
+    "google_reviews": 125,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQXmBKwCNGGARVFNN8RkMNNc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/13295369-d756b0a104742ab8dc99c43200edd92b32d9da30d84c93d410e92fa4cac073ed.jpg",
+    "place_id": "ChIJQXmBKwCNGGARVFNN8RkMNNc",
+    "g_name": "PRETTY PORK FACTORY & KATSUプリポー",
+    "g_rating": 3.5,
+    "g_reviews": 125,
+    "g_address": "日本、〒150-0001 東京都渋谷区神宮前６丁目３１−２１ 東急プラザ原宿 ハラカド 5階 506区画",
+    "lat": 35.6684164,
+    "lng": 139.7048977
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "瓢斗 京都駅前本店",
+    "name_en": "Hyoto Kyotoekimaehonten",
+    "area": "京都府 京都駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260101/26031208/",
+    "rating": 3.55,
+    "review_count_tabelog": 329,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Shabu shabu (Japanese hotpot), Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 14:00 L.O. 13:00 17:30 - 23:00 L.O. 22:00",
+        "dtl_text": "17:30 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 15:00 L.O. 13:30 17:30 - 23:00 L.O. 22:00",
+        "dtl_text": "17:30 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.7,
+    "google_reviews": 2328,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJNxIUha0JAWARMWlDh8bmJTk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/26031208-4089f98c06ee5d74a044647b07e1515dc2d754aaabc0930acd3eac8be0468adc.jpg",
+    "place_id": "ChIJNxIUha0JAWARMWlDh8bmJTk",
+    "g_name": "瓢斗 (ひょうと) 京都駅前本店",
+    "g_rating": 4.7,
+    "g_reviews": 2328,
+    "g_address": "日本、〒600-8216 京都府京都市下京区東塩小路町６０７−１２",
+    "lat": 34.9885603,
+    "lng": 135.755304
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "いちにいさん 天文館店",
+    "name_en": "Ichinii San Tenmonkan Ten",
+    "area": "鹿児島県 鹿児島市",
+    "url": "https://tabelog.com/kagoshima/A4601/A460101/46000026/",
+    "rating": 3.54,
+    "review_count_tabelog": 423,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Pork shabu shabu, Pork dishes, Shabu shabu (Japanese hotpot)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 22:30 L.O. 22:00",
+        "dtl_text": "11:00 - 22:30 L.O. 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 1104,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_a6uAgBePjUR-pWBTXjNSps",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/46000026-b694f13a6f434890bce84969e3e6ce34a837b905847d2753ccef3dac0c7195cd.jpg",
+    "place_id": "ChIJ_a6uAgBePjUR-pWBTXjNSps",
+    "g_name": "遊食豚彩 いちにいさん 天文館店",
+    "g_rating": 4.2,
+    "g_reviews": 1104,
+    "g_address": "日本、〒892-0842 鹿児島県鹿児島市東千石町１１−６",
+    "lat": 31.5914007,
+    "lng": 130.5539953
+  },
+  {
+    "category_jp": "すき焼き・しゃぶしゃぶ",
+    "category_en": "Sukiyaki, Shabushabu",
+    "region": "すき焼き・しゃぶしゃぶ 百名店",
+    "name": "荒井屋 本店",
+    "name_en": "Arai Ya Hon Ten",
+    "area": "神奈川県 伊勢佐木長者町駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140104/14003068/",
+    "rating": 3.57,
+    "review_count_tabelog": 543,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Sukiyaki, Shabu shabu (Japanese hotpot), Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 L.O. 14:00 17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Please note that the restaurant may be closed during year-end and New Year holidays."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 726,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJBUNNMPNcGGARGzyCy707i4Q",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/sukiyaki_shabushabu/14003068-3e873d4bfd68876d8d2cf49284c7a39ff2a680a9a9b3969d9894b8d648e2e7ee.jpg",
+    "place_id": "ChIJBUNNMPNcGGARGzyCy707i4Q",
+    "g_name": "牛鍋処 荒井屋 本店",
+    "g_rating": 4.3,
+    "g_reviews": 726,
+    "g_address": "日本、〒231-0057 神奈川県横浜市中区曙町２丁目１７",
+    "lat": 35.441348,
+    "lng": 139.6293807
+  }
+]

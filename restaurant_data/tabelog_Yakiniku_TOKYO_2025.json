@@ -1,0 +1,4424 @@
+[
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "炭焼 金竜山",
+    "name_en": "Sumiyaki Kinryusan",
+    "area": "東京都 白金高輪駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131602/13001625/",
+    "rating": 4.31,
+    "review_count_tabelog": 1047,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 297,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_ePZ4AiLGGARHaUyRzvWWfk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13001625-481efa26ff06657197ef426acd6461063d15bfdef8ed74380d9d8fc2cfaf4e80.jpg",
+    "place_id": "ChIJ_ePZ4AiLGGARHaUyRzvWWfk",
+    "g_name": "炭焼 金竜山",
+    "g_rating": 4.6,
+    "g_reviews": 297,
+    "g_address": "日本、〒108-0072 東京都港区白金３丁目１４−１",
+    "lat": 35.6453836,
+    "lng": 139.7282832
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "焼肉問屋 牛蔵",
+    "name_en": "Yakiniku Donya Gyuzo",
+    "area": "東京都 富士見台駅",
+    "url": "https://tabelog.com/tokyo/A1321/A132102/13008910/",
+    "rating": 3.66,
+    "review_count_tabelog": 1613,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef), Horumon (BBQ Offel)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "16:00 - 23:00",
+        "dtl_text": "16:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Year-end & New Year Holidays (Dec 31 - Jan 3)"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 1289,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJkxBr9MntGGARFRjZTFiwF_c",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13008910-ffb51e0d596dae68d151781e2ba28f065c0e8034dfb9d1e729336a89b0d107b5.jpg",
+    "place_id": "ChIJkxBr9MntGGARFRjZTFiwF_c",
+    "g_name": "焼肉問屋牛蔵",
+    "g_rating": 4.6,
+    "g_reviews": 1289,
+    "g_address": "日本、〒176-0021 東京都練馬区貫井３丁目１０−２",
+    "lat": 35.7360338,
+    "lng": 139.6289933
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "焼肉うしごろ 西麻布本店",
+    "name_en": "Yakiniku Ushigoro Nishiazabu",
+    "area": "東京都 乃木坂駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13124592/",
+    "rating": 3.65,
+    "review_count_tabelog": 1210,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef), Steak, Horumon (BBQ Offel)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Day before public holiday",
+        "dtl": "16:00 - 23:30 L.O. Food 22:30",
+        "dtl_text": "16:00 - 23:30 L.O. Food 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 15:00 L.O. Food 14:00 16:00 - 23:30 L.O. Food 22:30",
+        "dtl_text": "16:00 - 23:30 L.O. Food 22:30"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 245,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-1isAfyLGGARB7thoQoZQeI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13124592-e99b7d3e8e387a3b21f9238b6be5115b9b08e0aa13b096fe050f17d9e0ea7420.jpg",
+    "place_id": "ChIJ-1isAfyLGGARB7thoQoZQeI",
+    "g_name": "焼肉 うしごろ 西麻布本店",
+    "g_rating": 4.4,
+    "g_reviews": 245,
+    "g_address": "日本、〒106-0031 東京都港区西麻布２丁目２４−１４ バルビゾン 73 1F",
+    "lat": 35.6600656,
+    "lng": 139.7225208
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "焼肉ヒロミヤ 3号店",
+    "name_en": "Hiromiya No.3",
+    "area": "東京都 曙橋駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130903/13201547/",
+    "rating": 3.65,
+    "review_count_tabelog": 460,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Yakiniku (BBQ Beef)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "18:00 - 22:30",
+        "dtl_text": "18:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "15:00 - 22:30",
+        "dtl_text": "15:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 237,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7wCfP-6MGGAR8MPeVfbUjL4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13201547-61ea1d496c9c0034945424eac69f3c530a4b171f2cff1fe4213302e113ab4bb9.jpg",
+    "place_id": "ChIJ7wCfP-6MGGAR8MPeVfbUjL4",
+    "g_name": "焼肉ヒロミヤ 3号店",
+    "g_rating": 4.5,
+    "g_reviews": 237,
+    "g_address": "日本、〒162-0065 東京都新宿区住吉町２−９",
+    "lat": 35.6919724,
+    "lng": 139.7206151
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "焼肉しみず",
+    "name_en": "Yakiniku Shimizu",
+    "area": "東京都 不動前駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131710/13096548/",
+    "rating": 3.71,
+    "review_count_tabelog": 861,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef), Horumon (BBQ Offel)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 23:00 L.O. 22:20",
+        "dtl_text": "17:00 - 23:00 L.O. 22:20"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 297,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0-tEZ-CKGGARkOLqFb36018",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13096548-bab206f7c3a58082509c08d0dd61d700dd9e65daeb912590bc8b4df593d58240.jpg",
+    "place_id": "ChIJ0-tEZ-CKGGARkOLqFb36018",
+    "g_name": "焼肉 しみず",
+    "g_rating": 4.1,
+    "g_reviews": 297,
+    "g_address": "日本、〒141-0031 東京都品川区西五反田４丁目２９−１３ 2F",
+    "lat": 35.6259714,
+    "lng": 139.7128799
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "にくがとう 六本木ヒルズ店",
+    "name_en": "Niku Gatou Roppongi Hiruzu Ten",
+    "area": "東京都 六本木駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13226179/",
+    "rating": 3.67,
+    "review_count_tabelog": 466,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "Yakiniku (BBQ Beef), Creative, Horumon (BBQ Offel)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 L.O. 14:15 17:00 - 23:00 L.O. 22:00",
+        "dtl_text": "17:00 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13226179-ab683f952827498eff19e5ed13fa28e02fd0a4ef1e9e44dbb0ea147a950fec1e.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "高麗亭",
+    "name_en": "Kourai Tei",
+    "area": "東京都 渋谷駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130301/13013023/",
+    "rating": 3.68,
+    "review_count_tabelog": 334,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef)",
+    "hours_raw": [],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 53,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDT1BS_CLGGARlJs7gADZ1sQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13013023-516f4539527ef6d3b8a53c49ff0df75e160b3b98435704971284f49bdfc7b7a9.jpg",
+    "place_id": "ChIJDT1BS_CLGGARlJs7gADZ1sQ",
+    "g_name": "高麗亭",
+    "g_rating": 4.4,
+    "g_reviews": 53,
+    "g_address": "日本、〒150-0002 東京都渋谷区渋谷２丁目１４−１３ 岡崎ビル 地下１階",
+    "lat": 35.6594321,
+    "lng": 139.7055701
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "焼肉 静龍苑",
+    "name_en": "Yakiniku Seiryuuen",
+    "area": "東京都 清澄白河駅",
+    "url": "https://tabelog.com/tokyo/A1313/A131303/13237978/",
+    "rating": 4.3,
+    "review_count_tabelog": 1644,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef)",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 428,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJpS3jZJuJGGARvmVBzzr6Zfs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13237978-effe447b73c3cfe86302bcbf8b667335565875997d6c38393e3ac9d97cb902bd.jpg",
+    "place_id": "ChIJpS3jZJuJGGARvmVBzzr6Zfs",
+    "g_name": "焼肉 静龍苑",
+    "g_rating": 4.5,
+    "g_reviews": 428,
+    "g_address": "日本、〒135-0006 東京都江東区常盤２丁目１４−１１",
+    "lat": 35.684278,
+    "lng": 139.7983893
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "焼肉 凛",
+    "name_en": "Yakiniku Rin",
+    "area": "東京都 月島駅",
+    "url": "https://tabelog.com/tokyo/A1313/A131302/13002240/",
+    "rating": 3.69,
+    "review_count_tabelog": 581,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 22:30 L.O. Food 22:00",
+        "dtl_text": "17:00 - 22:30 L.O. Food 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 168,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJvakXkHqJGGARC2IMgC_c3Yw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13002240-9111e9bdc0d84e9932e8b645426ad94e58b41cff2dfe1b45ab763b5bb22ce3b7.jpg",
+    "place_id": "ChIJvakXkHqJGGARC2IMgC_c3Yw",
+    "g_name": "元祖厚切り牛タン塩焼 焼肉 凛 月島",
+    "g_rating": 4.1,
+    "g_reviews": 168,
+    "g_address": "日本、〒104-0052 東京都中央区月島１丁目２７−１ フロリスオーランティウム３ １Ｆ",
+    "lat": 35.6632596,
+    "lng": 139.7825003
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "志村 徳寿園",
+    "name_en": "Shimura Tokujuen",
+    "area": "東京都 志村坂上駅",
+    "url": "https://tabelog.com/tokyo/A1322/A132205/13043209/",
+    "rating": 3.76,
+    "review_count_tabelog": 256,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef), Gyutan (Beef tongue), Horumon (BBQ Offel)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 23:00 L.O. 22:00",
+        "dtl_text": "17:00 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "To accommodate more guests, we may implement a two-hour time limit during busy periods."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 64,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJh2ruuDKTGGARs3PYS1a4qHA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13043209-01b022ad55e456fe035b7f4532b3089f2d89814992d530ad6e2998c3eee9890e.jpg",
+    "place_id": "ChIJh2ruuDKTGGARs3PYS1a4qHA",
+    "g_name": "焼肉 志村徳寿園",
+    "g_rating": 4.2,
+    "g_reviews": 64,
+    "g_address": "日本、〒174-0056 東京都板橋区志村２丁目９−４",
+    "lat": 35.7765145,
+    "lng": 139.6919728
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "焼肉ヒロミヤ 新本店",
+    "name_en": "Yakiniku Hiromiya Shinhonten",
+    "area": "東京都 四谷三丁目駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130903/13279918/",
+    "rating": 3.68,
+    "review_count_tabelog": 157,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef)",
+    "hours_raw": [],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13279918-c935bfcfada92d82753ea5638d83f7f582e5a491db2e8cbcab43bed701229caf.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "広尾 大衆焼肉 暴飲暴食",
+    "name_en": "Hiroo Taishu Yakiniku Bouin Boushoku",
+    "area": "東京都 広尾駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130703/13281284/",
+    "rating": 3.66,
+    "review_count_tabelog": 506,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef), Horumon (BBQ Offel)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:45 - 23:00",
+        "dtl_text": "17:45 - 23:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 135,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJf0pK9gyLGGARG-ma_Qsxynw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13281284-1bdd1bd6bf9a5f98d36e9d352c5a30a8c94d65ed8707e6aae1612d3e20a1bec2.jpg",
+    "place_id": "ChIJf0pK9gyLGGARG-ma_Qsxynw",
+    "g_name": "広尾 大衆焼肉 暴飲暴食",
+    "g_rating": 4.3,
+    "g_reviews": 135,
+    "g_address": "日本、〒150-0012 東京都渋谷区広尾５丁目１０−１",
+    "lat": 35.64948080000001,
+    "lng": 139.7208329
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "焼肉幸泉",
+    "name_en": "Yakiniku Kosen",
+    "area": "東京都 京成立石駅",
+    "url": "https://tabelog.com/tokyo/A1324/A132403/13133997/",
+    "rating": 4.17,
+    "review_count_tabelog": 497,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 23:30",
+        "dtl_text": "17:00 - 23:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.8,
+    "google_reviews": 114,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJvUPHZpGPGGAR5zQGEV3CTvw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13133997-341db800351e6b426d645c238043019b350e0f235935c3675d57fac57f60b6c7.jpg",
+    "place_id": "ChIJvUPHZpGPGGAR5zQGEV3CTvw",
+    "g_name": "幸泉",
+    "g_rating": 4.8,
+    "g_reviews": 114,
+    "g_address": "日本、〒124-0012 東京都葛飾区立石１丁目１８−５",
+    "lat": 35.7381576,
+    "lng": 139.8488014
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "焼肉 冷麺 ユッチャン。",
+    "name_en": "Yakiniku Korean Cold Noodles Yuchan.",
+    "area": "東京都 六本木駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13230170/",
+    "rating": 3.66,
+    "review_count_tabelog": 1658,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Yakiniku (BBQ Beef), Korean cold noodles, Korean",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Sun",
+        "dtl": "11:30 - 15:00 L.O. 14:30 17:00 - 00:00 L.O. Food 23:00 Drinks 23:30",
+        "dtl_text": "17:00 - 00:00 L.O. Food 23:00 Drinks 23:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu, Fri, Sat",
+        "dtl": "11:30 - 15:00 L.O. 14:30 17:00 - 05:00 L.O. Food 04:00 Drinks 04:30",
+        "dtl_text": "17:00 - 05:00 L.O. Food 04:00 Drinks 04:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "*Please note that after 24:00, the second floor and private rooms are generally not available. If you wish to stay after 24:00 while seated on the second floor, you may need to move to the first floor, so please inform our staff. Seating is limited to a two-hour duration, but we will accommodate you on the first floor if there is availability. Late-night service will be provided on the first floor, so we appreciate your understanding. For inquiries regarding group reservations, please contact us by phone."
+    },
+    "google_rating": 3.9,
+    "google_reviews": 507,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1Sdo7FyLGGAR437Tw4vEv8A",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13230170-7581293f145d061746b362e5d017e567c6ab040528b2e29904f8298ed2c92ecf.jpg",
+    "place_id": "ChIJ1Sdo7FyLGGAR437Tw4vEv8A",
+    "g_name": "焼肉 冷麺 ユッチャン。六本木店",
+    "g_rating": 3.9,
+    "g_reviews": 507,
+    "g_address": "日本、〒106-0032 東京都港区六本木７丁目１７−２４",
+    "lat": 35.6627649,
+    "lng": 139.7282835
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "銀座 山科",
+    "name_en": "Ginza Yamashina",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13240197/",
+    "rating": 3.69,
+    "review_count_tabelog": 1225,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Yakiniku (BBQ Beef), Sukiyaki, Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 15:00 17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Year-end & New Year Holidays"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 286,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4xNyzEOLGGARfyojrBX3fKg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13240197-8ad140cec1abbe41c3bbe37e79b9344402805c0125f474aad6a706d2d08b5078.jpg",
+    "place_id": "ChIJ4xNyzEOLGGARfyojrBX3fKg",
+    "g_name": "銀座 山科",
+    "g_rating": 4.3,
+    "g_reviews": 286,
+    "g_address": "日本、〒104-0061 東京都中央区銀座６丁目４ ３GICROS GINZA GEMS 7F・8F",
+    "lat": 35.6716023,
+    "lng": 139.7619734
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "焼肉 うしの絵",
+    "name_en": "Yakiniku Ushinoe",
+    "area": "東京都 町田駅",
+    "url": "https://tabelog.com/tokyo/A1327/A132701/13202074/",
+    "rating": 3.72,
+    "review_count_tabelog": 173,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef), Horumon (BBQ Offel)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays and Tuesdays (We may take consecutive holidays during Golden Week, Obon, year-end and New Year holidays, and other long holidays when there is no livestock processing.)"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13202074-d2c03af056d3475941eeb8dece9fc1d8462308e93bf8030722fa11adf7af1abf.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "The INNOCENT CARVERY",
+    "name_en": "The INNOCENT CARVERY",
+    "area": "東京都 乃木坂駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13189539/",
+    "rating": 3.95,
+    "review_count_tabelog": 808,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Yakiniku (BBQ Beef), Beef dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "17:00 - 23:00 L.O. 22:00",
+        "dtl_text": "17:00 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 15:00 L.O. 14:00 17:00 - 23:00 L.O. 22:00",
+        "dtl_text": "17:00 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 301,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJa5ba_HqLGGARgkCMZ1tNwz8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13189539-c6649d8f007ff5cfa21fa7b6ebd638e430b7bfd5ddd2db14749dcc46665d5723.jpg",
+    "place_id": "ChIJa5ba_HqLGGARgkCMZ1tNwz8",
+    "g_name": "イノセント カーベリー",
+    "g_rating": 4.6,
+    "g_reviews": 301,
+    "g_address": "日本、〒106-0031 東京都港区西麻布１丁目４−２８ カルハ西麻布 101",
+    "lat": 35.6619351,
+    "lng": 139.7237425
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "お肉屋 けいすけ 三男坊",
+    "name_en": "Onikuya Keisuke Sannanbo",
+    "area": "東京都 広尾駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130703/13196643/",
+    "rating": 3.64,
+    "review_count_tabelog": 387,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef), Steak, Gyutan (Beef tongue)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:30 - 22:30 L.O. 22:00",
+        "dtl_text": "17:30 - 22:30 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.6,
+    "google_reviews": 207,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJgaRgPm2LGGAREUBVDMFaVHo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13196643-59dcea68ad992bc65a7290bcacc2ddeb34bdcbe6ea0c5e32e40ec6d96232919c.jpg",
+    "place_id": "ChIJgaRgPm2LGGAREUBVDMFaVHo",
+    "g_name": "広尾和牛焼肉 お肉屋けいすけ三男坊",
+    "g_rating": 4.6,
+    "g_reviews": 207,
+    "g_address": "日本、〒150-0012 東京都渋谷区広尾５丁目２−２５ 本国ビル B1F",
+    "lat": 35.6501925,
+    "lng": 139.7203131
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "銀座 ちかみつ",
+    "name_en": "Ginza Chikamitsu",
+    "area": "東京都 東銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13247552/",
+    "rating": 3.59,
+    "review_count_tabelog": 387,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef), Horumon (BBQ Offel), Beef dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:00 - 23:30",
+        "dtl_text": "17:00 - 23:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed."
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13247552-b65fecd6434af118e50a107340d7d35c8148b2bb43bcde597911bb1e4b3a1014.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "本牧亭。",
+    "name_en": "Honmoku Tei.",
+    "area": "東京都 長原駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131714/13010448/",
+    "rating": 3.65,
+    "review_count_tabelog": 269,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri",
+        "dtl": "16:30 - 23:00 L.O. 22:00",
+        "dtl_text": "16:30 - 23:00 L.O. 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "16:00 - 23:00 L.O. 22:00",
+        "dtl_text": "16:00 - 23:00 L.O. 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13010448-c8924b66f0e546b28965fbfa1446d8341f388d2e64798f6e7d1e28bad6195c00.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "八面六秘",
+    "name_en": "Hachimen Roppi",
+    "area": "東京都 赤坂駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130801/13287824/",
+    "rating": 3.64,
+    "review_count_tabelog": 314,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef), Steak, Sukiyaki",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:00 - 22:30 L.O. Food 21:30 Drinks 22:00",
+        "dtl_text": "17:00 - 22:30 L.O. Food 21:30 Drinks 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "- For reservations of five or more guests or for private reservations, please contact us for further assistance."
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13287824-aa7dbdcb1c15e314f07a9615d61c9726ef2d929aba79418921a55bb876093693.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "山田屋",
+    "name_en": "Yamada Ya",
+    "area": "東京都 三河島駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131104/13032374/",
+    "rating": 3.68,
+    "review_count_tabelog": 319,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Yakiniku (BBQ Beef), Horumon (BBQ Offel)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "17:30 - 22:00",
+        "dtl_text": "17:30 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "12:00 - 14:00 17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays, Sundays, Year-end & New Year Holidays, and seasonal breaks."
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13032374-7d3b476812f7a27404f784586ffc94b9d6daefc61de164d42872d60ca79f65f1.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "正泰苑 総本店",
+    "name_en": "Shoutai En Sohon Ten",
+    "area": "東京都 荒川七丁目駅",
+    "url": "https://tabelog.com/tokyo/A1324/A132401/13003776/",
+    "rating": 3.68,
+    "review_count_tabelog": 758,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef), Horumon (BBQ Offel)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:00 - 00:00",
+        "dtl_text": "17:00 - 00:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "15:00 - 00:00",
+        "dtl_text": "15:00 - 00:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "15:00 - 23:00",
+        "dtl_text": "15:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round (with a break during Year-end & New Year Holidays)"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 519,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJB6BGI22OGGARZnOvTMz2lh8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13003776-98c858d438def58530cde9cff35d1512da7c9fdea14f171560d3d35dce6187a7.jpg",
+    "place_id": "ChIJB6BGI22OGGARZnOvTMz2lh8",
+    "g_name": "正泰苑 総本店",
+    "g_rating": 4.4,
+    "g_reviews": 519,
+    "g_address": "日本、〒116-0001 東京都荒川区町屋８丁目７−６",
+    "lat": 35.7477185,
+    "lng": 139.785074
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "焼肉冷麺だいじゅ",
+    "name_en": "DAIJU",
+    "area": "東京都 大塚駅",
+    "url": "https://tabelog.com/tokyo/A1323/A132302/13245971/",
+    "rating": 3.64,
+    "review_count_tabelog": 783,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef), Horumon (BBQ Offel), Korean cold noodles",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 L.O. 14:00 17:00 - 23:00 L.O. 22:00",
+        "dtl_text": "17:00 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 284,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ306iNU2NGGARj1l699AG-pc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13245971-faa17174d7dde2ab191e890086c176a3f004b6b40305dc59117a5a0507b288cf.jpg",
+    "place_id": "ChIJ306iNU2NGGARj1l699AG-pc",
+    "g_name": "焼肉冷麺だいじゅ",
+    "g_rating": 4.5,
+    "g_reviews": 284,
+    "g_address": "日本、〒170-0004 東京都豊島区北大塚２丁目６−３ メゾン大塚 101",
+    "lat": 35.7325421,
+    "lng": 139.7279605
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "焼肉 鶯谷園",
+    "name_en": "Yakiniku Uguisudani En",
+    "area": "東京都 鶯谷駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131104/13012243/",
+    "rating": 3.83,
+    "review_count_tabelog": 3501,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef), Horumon (BBQ Offel)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "16:00 - 00:30 L.O. Food 00:00",
+        "dtl_text": "16:00 - 00:30 L.O. Food 00:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "15:00 - 00:30 L.O. Food 00:00",
+        "dtl_text": "15:00 - 00:30 L.O. Food 00:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 2199,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJibXrP4SOGGARMsqhmfjscgU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13012243-cec0fbe44975792cb0f24218d3e6a8727b3aac0706449165b73fa37e9eb1a831.jpg",
+    "place_id": "ChIJibXrP4SOGGARMsqhmfjscgU",
+    "g_name": "焼肉 鶯谷園",
+    "g_rating": 4.3,
+    "g_reviews": 2199,
+    "g_address": "日本、〒110-0003 東京都台東区根岸１丁目５−１５",
+    "lat": 35.7223556,
+    "lng": 139.7793444
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "高円寺 焼肉ここち 市場店",
+    "name_en": "Koenji Yakiniku Kokochi Ichiba Ten",
+    "area": "東京都 高円寺駅",
+    "url": "https://tabelog.com/tokyo/A1319/A131904/13284595/",
+    "rating": 3.75,
+    "review_count_tabelog": 473,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Yakiniku (BBQ Beef), Horumon (BBQ Offel)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri",
+        "dtl": "17:00 - 00:00 L.O. 23:00",
+        "dtl_text": "17:00 - 00:00 L.O. 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "13:30 - 00:00 L.O. 23:00",
+        "dtl_text": "13:30 - 00:00 L.O. 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "13:30 - 21:00 L.O. 20:00",
+        "dtl_text": "13:30 - 21:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 105,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJd1on4pTzGGARIJl83_kjQQ0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13284595-cc210edb3f7ec128005087b65202332d899bfeaf6c2f45220f00ef96f4cccda6.jpg",
+    "place_id": "ChIJd1on4pTzGGARIJl83_kjQQ0",
+    "g_name": "高円寺 焼肉ここち 市場店",
+    "g_rating": 4.6,
+    "g_reviews": 105,
+    "g_address": "日本、〒166-0002 東京都杉並区高円寺北３丁目２２−８",
+    "lat": 35.7060623,
+    "lng": 139.6491747
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "炭火焼 ゆうじ",
+    "name_en": "Sumibi Yaki Yuji",
+    "area": "東京都 渋谷駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130301/13001794/",
+    "rating": 4.2,
+    "review_count_tabelog": 2101,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Horumon (BBQ Offel), Yakiniku (BBQ Beef)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "16:00 - 23:00 L.O. 22:30",
+        "dtl_text": "16:00 - 23:00 L.O. 22:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.9,
+    "google_reviews": 699,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ2IBSamMGGAR4KbQaEmzMZE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13001794-dedb7adf8a2c28db5368037bdde700bbb5d931b0dfd5242af5d788bfe8b8c993.jpg",
+    "place_id": "ChIJJ2IBSamMGGAR4KbQaEmzMZE",
+    "g_name": "ゆうじ",
+    "g_rating": 3.9,
+    "g_reviews": 699,
+    "g_address": "日本、〒150-0042 東京都渋谷区宇田川町１１−１１−１",
+    "lat": 35.66260219999999,
+    "lng": 139.6973595
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "焼肉ホルモン 新井屋 渋谷",
+    "name_en": "Yakiniku Horumon Arai Ya Shibuya",
+    "area": "東京都 神泉駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130301/13237382/",
+    "rating": 3.67,
+    "review_count_tabelog": 736,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef), Horumon (BBQ Offel), Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "16:00 - 23:00",
+        "dtl_text": "16:00 - 23:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.7,
+    "google_reviews": 13,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQf7RhEyNGGAR2ORpAeUwQAc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13237382-1fe55deb8fecb41005afec797a5ee1f5863b000a125f6f79f6ebfc5d1ea64eeb.jpg",
+    "place_id": "ChIJQf7RhEyNGGAR2ORpAeUwQAc",
+    "g_name": "焼肉ホルモン 新井屋にかい 神泉",
+    "g_rating": 4.7,
+    "g_reviews": 13,
+    "g_address": "日本、〒150-0043 東京都渋谷区道玄坂２丁目１９−１３",
+    "lat": 35.6593342,
+    "lng": 139.6962928
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "炭火焼肉 なかはら",
+    "name_en": "Sumibi Yakiniku Nakahara",
+    "area": "東京都 市ケ谷駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130904/13175110/",
+    "rating": 3.94,
+    "review_count_tabelog": 732,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Weekdays": {},
+        "Sat, Sun & Public Holidays": {}
+      },
+      "closed_on": "Wednesdays"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 340,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmVnECGGMGGARtOVsV8yziLo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13175110-9c38436c6993debd3ed45d20a2ec382cb84f260b05c84f23933dd978503a1606.jpg",
+    "place_id": "ChIJmVnECGGMGGARtOVsV8yziLo",
+    "g_name": "炭火焼肉 なかはら",
+    "g_rating": 4.5,
+    "g_reviews": 340,
+    "g_address": "日本、〒102-0085 東京都千代田区六番町４−３ ＧＥＭＳ市ヶ谷 ９F",
+    "lat": 35.6891684,
+    "lng": 139.7352474
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "SATOブリアン にごう",
+    "name_en": "SATO BRIAN Osaka Umeda Ten",
+    "area": "東京都 阿佐ケ谷駅",
+    "url": "https://tabelog.com/tokyo/A1319/A131905/13159782/",
+    "rating": 4.01,
+    "review_count_tabelog": 1033,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "15:00 - 22:00",
+        "dtl_text": "15:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "March 4, 11, 12, 13, 17, 18, 25"
+    },
+    "google_rating": 4.8,
+    "google_reviews": 817,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGcaCJXTyGGARmTJHHNNP_Sw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13159782-2e466fdd5f288bf2bce95051084624edd28ab8409f671c2461e65f475e5bbdda.jpg",
+    "place_id": "ChIJGcaCJXTyGGARmTJHHNNP_Sw",
+    "g_name": "SATOブリアンにごう",
+    "g_rating": 4.8,
+    "g_reviews": 817,
+    "g_address": "日本、〒166-0004 東京都杉並区阿佐谷南２丁目１７−２",
+    "lat": 35.7048225,
+    "lng": 139.6376762
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "銀座 王十里",
+    "name_en": "Ginza Oojuri",
+    "area": "東京都 東銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13002283/",
+    "rating": 3.67,
+    "review_count_tabelog": 769,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Horumon (BBQ Offel), Korean, Yakiniku (BBQ Beef)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 22:30 L.O. Food 21:40 Drinks 22:00",
+        "dtl_text": "17:00 - 22:30 L.O. Food 21:40 Drinks 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 282,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJLZH6wuaLGGARRzx1ykGjgKM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13002283-d679e18a6f388c74b1fa668d67be15c2ded21105253529c053e894ec814cf8cf.jpg",
+    "place_id": "ChIJLZH6wuaLGGARRzx1ykGjgKM",
+    "g_name": "王十里",
+    "g_rating": 4.1,
+    "g_reviews": 282,
+    "g_address": "日本、〒104-0061 東京都中央区銀座４丁目８−１１ 善隣ビル",
+    "lat": 35.6708114,
+    "lng": 139.7666089
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "USHIGORO S. GINZA",
+    "name_en": "USHIGORO S. GINZA",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13222093/",
+    "rating": 3.96,
+    "review_count_tabelog": 850,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Yakiniku (BBQ Beef)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:00 - 23:30 L.O. Food 21:00",
+        "dtl_text": "17:00 - 23:30 L.O. Food 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "12:00 - 15:00 L.O. Food 13:00 17:00 - 23:30 L.O. Food 21:00",
+        "dtl_text": "17:00 - 23:30 L.O. Food 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "December 31, January 1, January 2, January 3"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 383,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJRacVo0uLGGARmlaYr67152s",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13222093-da548d3533fc142cbd603ec05bf52642313c7dca99faffb145a59c66f9266618.jpg",
+    "place_id": "ChIJRacVo0uLGGARmlaYr67152s",
+    "g_name": "USHIGORO S. GINZA",
+    "g_rating": 4.6,
+    "g_reviews": 383,
+    "g_address": "日本、〒104-0061 東京都中央区銀座７丁目７−７ Ginza 777 Adc Building, 6階",
+    "lat": 35.6693111,
+    "lng": 139.7620223
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "焼肉うしごろ 新宿三丁目店",
+    "name_en": "Yakiniku Ushigoro Shinjuku Sanchome Ten",
+    "area": "東京都 新宿三丁目駅",
+    "url": "https://tabelog.com/tokyo/A1304/A130401/13258565/",
+    "rating": 3.65,
+    "review_count_tabelog": 1235,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "Yakiniku (BBQ Beef), Steak, Horumon (BBQ Offel)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:00 - 23:30 L.O. Food 22:30",
+        "dtl_text": "17:00 - 23:30 L.O. Food 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 23:30 L.O. Food 22:30",
+        "dtl_text": "11:30 - 23:30 L.O. Food 22:30"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 347,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJR6HIZXGNGGARAvQlMozEfMI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13258565-038aaa3aa79107ffea982fe9bdd709b1a2a8b92e1f372d4ba5fb16d948ac9e11.jpg",
+    "place_id": "ChIJR6HIZXGNGGARAvQlMozEfMI",
+    "g_name": "焼肉 うしごろ 新宿三丁目店",
+    "g_rating": 4.2,
+    "g_reviews": 347,
+    "g_address": "日本、〒160-0022 東京都新宿区新宿３丁目１７−１０ ＨＵＬＩＣ ＆ Ｎｅｗ ＳＨＩＮＪＵＫＵ １２階",
+    "lat": 35.6921218,
+    "lng": 139.7027383
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "ホルモン コウ",
+    "name_en": "Horumon Ko",
+    "area": "東京都 荻窪駅",
+    "url": "https://tabelog.com/tokyo/A1319/A131906/13275863/",
+    "rating": 3.69,
+    "review_count_tabelog": 529,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef), Horumon (BBQ Offel), Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Day before public holiday, Day after public holiday",
+        "dtl": "17:00 - 23:00 L.O. Food 22:00 Drinks 22:30",
+        "dtl_text": "17:00 - 23:00 L.O. Food 22:00 Drinks 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "16:00 - 23:00 L.O. Food 22:00 Drinks 22:30",
+        "dtl_text": "16:00 - 23:00 L.O. Food 22:00 Drinks 22:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 127,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJXXMc2z7tGGARFMNXl8V9oJA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13275863-4ea299bec09902bfc5ee938745d55f3ac9065c2ce63ae57a3a58e0ca61fe3606.jpg",
+    "place_id": "ChIJXXMc2z7tGGARFMNXl8V9oJA",
+    "g_name": "ホルモン コウ",
+    "g_rating": 4.5,
+    "g_reviews": 127,
+    "g_address": "日本、〒167-0043 東京都杉並区上荻１丁目８−８ 興和ビル 2F",
+    "lat": 35.705008,
+    "lng": 139.6203229
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "游玄亭 新宿",
+    "name_en": "Yugen Tei Shinjuku",
+    "area": "東京都 西武新宿駅",
+    "url": "https://tabelog.com/tokyo/A1304/A130401/13004152/",
+    "rating": 3.66,
+    "review_count_tabelog": 812,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Yakiniku (BBQ Beef), Japanese Cuisine, Korean",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 03:00 L.O. 03:00",
+        "dtl_text": "11:30 - 03:00 L.O. 03:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon - Fri": {},
+        "Sat, Sun & Public Holidays": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 811,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJW0UxTdiMGGARiO_TYUEx1TQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13004152-4fc8c427be2a9ce72f597d35637a10caed8787faa7b9a641c8cc9373f2628fce.jpg",
+    "place_id": "ChIJW0UxTdiMGGARiO_TYUEx1TQ",
+    "g_name": "游玄亭 新宿",
+    "g_rating": 4.3,
+    "g_reviews": 811,
+    "g_address": "日本、〒160-0021 東京都新宿区歌舞伎町１丁目１０−７ 叙々苑ビル",
+    "lat": 35.6951663,
+    "lng": 139.7031858
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "SATOブリアン さんごう",
+    "name_en": "SATO BRIAN Sango",
+    "area": "東京都 阿佐ケ谷駅",
+    "url": "https://tabelog.com/tokyo/A1319/A131905/13223460/",
+    "rating": 3.86,
+    "review_count_tabelog": 275,
+    "price_dinner": "-",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Yakiniku (BBQ Beef)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:45 - 15:45",
+        "dtl_text": "11:45 - 15:45"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Please check the official reservation site for details."
+    },
+    "google_rating": 4.9,
+    "google_reviews": 227,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJm6RCY5XtGGARROb2L7jPa6w",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13223460-58851575c3cfd42291696479376c6b7cbcf29b3e5d9f3553fc0dd243e1e94992.jpg",
+    "place_id": "ChIJm6RCY5XtGGARROb2L7jPa6w",
+    "g_name": "SATOブリアンさんごう",
+    "g_rating": 4.9,
+    "g_reviews": 227,
+    "g_address": "日本、〒166-0001 東京都杉並区阿佐谷北１丁目３７−６",
+    "lat": 35.7088973,
+    "lng": 139.6356233
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "焼肉 ジャンボ 篠崎本店",
+    "name_en": "Yakiniku Jumbo Shinozaki Honten",
+    "area": "東京都 江戸川区",
+    "url": "https://tabelog.com/tokyo/A1312/A131205/13003075/",
+    "rating": 3.78,
+    "review_count_tabelog": 881,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef), Horumon (BBQ Offel)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:00 - 23:00 L.O. 22:30",
+        "dtl_text": "17:00 - 23:00 L.O. 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "16:00 - 22:00 L.O. 21:30",
+        "dtl_text": "16:00 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 509,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJYyal5BmHGGARdLRBLKky66Y",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13003075-5190338abb5e83982f9adf1fe0441fb282b698debd149d380a7d19e90a59888f.jpg",
+    "place_id": "ChIJYyal5BmHGGARdLRBLKky66Y",
+    "g_name": "焼肉 ジャンボ 篠崎本店",
+    "g_rating": 4.4,
+    "g_reviews": 509,
+    "g_address": "日本、〒133-0061 東京都江戸川区篠崎町４丁目１３−１９",
+    "lat": 35.6985118,
+    "lng": 139.9119366
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "焼肉ホルモン金樹 はなれ",
+    "name_en": "Yakiniku Horumon Kinju Hanare",
+    "area": "東京都 赤坂駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130801/13285255/",
+    "rating": 3.65,
+    "review_count_tabelog": 318,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef), Horumon (BBQ Offel), Korean cold noodles",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:00 - 23:00 L.O. Food 22:00 Drinks 22:30",
+        "dtl_text": "17:00 - 23:00 L.O. Food 22:00 Drinks 22:30"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13285255-f97a50f5d26aae9fd8e84df23a0447da8003e3d27389e3b1fee4d89084551de1.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "生粋",
+    "name_en": "Namaiki",
+    "area": "東京都 末広町駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131101/13165294/",
+    "rating": 3.68,
+    "review_count_tabelog": 2114,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef), Horumon (BBQ Offel)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:00 - 23:30 L.O. Food 22:45 Drinks 23:15",
+        "dtl_text": "17:00 - 23:30 L.O. Food 22:45 Drinks 23:15"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 851,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJoTkwRh6MGGARZTAQKavU3YY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13165294-c30f0d523efb8f81416b248d34200329d1123d631226d01fd360c1190c182229.jpg",
+    "place_id": "ChIJoTkwRh6MGGARZTAQKavU3YY",
+    "g_name": "生粋 by YORONIKU",
+    "g_rating": 4.4,
+    "g_reviews": 851,
+    "g_address": "日本、〒101-0021 東京都千代田区外神田６丁目１４−７",
+    "lat": 35.7035673,
+    "lng": 139.7715249
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "赤坂 みすじ",
+    "name_en": "Akasaka Misuji",
+    "area": "東京都 赤坂見附駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130801/13114946/",
+    "rating": 3.69,
+    "review_count_tabelog": 1216,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef), Horumon (BBQ Offel), Korean",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 00:00 L.O. 23:00",
+        "dtl_text": "17:00 - 00:00 L.O. 23:00"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 416,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJlzwXU3-MGGARtbdBPsOXh-w",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13114946-f10ab6c1ce116f76e7d1662ba72d05df99e189533a95700fbcbb20142ea55874.jpg",
+    "place_id": "ChIJlzwXU3-MGGARtbdBPsOXh-w",
+    "g_name": "赤坂みすじ by Yoroniku",
+    "g_rating": 4.4,
+    "g_reviews": 416,
+    "g_address": "日本、〒107-0052 東京都港区赤坂３丁目１６−３ 伊勢幸ビル 2F",
+    "lat": 35.6747275,
+    "lng": 139.7370457
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "Nose to Tail",
+    "name_en": "Nose to Tail",
+    "area": "東京都 飯田橋駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13265713/",
+    "rating": 3.74,
+    "review_count_tabelog": 245,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef)",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.7,
+    "google_reviews": 70,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJba6xOS2NGGARNgBnqsFmIBQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13265713-234bf26a8e027d143ed7449a21a33313d2d529888732ee926ed32167329824de.jpg",
+    "place_id": "ChIJba6xOS2NGGARNgBnqsFmIBQ",
+    "g_name": "Nose to Tail",
+    "g_rating": 4.7,
+    "g_reviews": 70,
+    "g_address": "日本、〒162-0825 東京都新宿区神楽坂３丁目２−６ 神楽坂 越後屋ビル 3階",
+    "lat": 35.7014553,
+    "lng": 139.7402588
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "きらく亭",
+    "name_en": "Kiraku Tei",
+    "area": "東京都 広尾駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130703/13007145/",
+    "rating": 3.73,
+    "review_count_tabelog": 929,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 23:30 L.O. 22:45",
+        "dtl_text": "17:00 - 23:30 L.O. 22:45"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 402,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ33wZRQmLGGARUuUAJVNcvgg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13007145-faba8560e5e93d0810c620b168fecf5642cdc83b4788bf5b89eb200b6866f4e4.jpg",
+    "place_id": "ChIJ33wZRQmLGGARUuUAJVNcvgg",
+    "g_name": "きらく亭",
+    "g_rating": 4.4,
+    "g_reviews": 402,
+    "g_address": "日本、〒106-0047 東京都港区南麻布４丁目１１−２６ 南麻布ビル 地下１階～１階",
+    "lat": 35.6469576,
+    "lng": 139.7276922
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "焼肉くにもと 本店",
+    "name_en": "Yakiniku Kunimoto Hon Ten",
+    "area": "東京都 浜松町駅",
+    "url": "https://tabelog.com/tokyo/A1314/A131401/13007842/",
+    "rating": 3.72,
+    "review_count_tabelog": 407,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 21:30 L.O. 21:00",
+        "dtl_text": "17:00 - 21:30 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 146,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__-yh8iLGGAR52JtwsLVLIQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13007842-1e094838de949c75450eacea287ee0b59fb38baae4b80aa59f0628bd46888e91.jpg",
+    "place_id": "ChIJ__-yh8iLGGAR52JtwsLVLIQ",
+    "g_name": "焼肉 くにもと 本店",
+    "g_rating": 4.5,
+    "g_reviews": 146,
+    "g_address": "日本、〒105-0013 東京都港区浜松町２丁目１２−２",
+    "lat": 35.6535956,
+    "lng": 139.7551383
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "焼肉くにもと 新館",
+    "name_en": "Yakiniku Kunimoto Shinkan",
+    "area": "東京都 浜松町駅",
+    "url": "https://tabelog.com/tokyo/A1314/A131401/13035852/",
+    "rating": 3.72,
+    "review_count_tabelog": 540,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "*Open on the first Sunday of each month."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 168,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJe_ajnMiLGGARNAs4NZEjwFE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13035852-adf05d17d1f97d2a6c99ac8d933951d9b78250439f12f583bcf533d23c76e5a5.jpg",
+    "place_id": "ChIJe_ajnMiLGGARNAs4NZEjwFE",
+    "g_name": "焼肉くにもと 新館",
+    "g_rating": 4.4,
+    "g_reviews": 168,
+    "g_address": "日本、〒105-0013 東京都港区浜松町２丁目８−９",
+    "lat": 35.65395,
+    "lng": 139.7556777
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "焼肉 ジャンボ はなれ",
+    "name_en": "Yakiniku Jumbo Hanare",
+    "area": "東京都 本郷三丁目駅",
+    "url": "https://tabelog.com/tokyo/A1310/A131004/13160962/",
+    "rating": 4.33,
+    "review_count_tabelog": 1474,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef), Horumon (BBQ Offel)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:00 - 23:00 L.O. 22:30",
+        "dtl_text": "17:00 - 23:00 L.O. 22:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.7,
+    "google_reviews": 592,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQZqLszyMGGAR_0fPsHLwL_Q",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13160962-6b6f86e42bd34c06b9a452911a3d76b4af36c5795f2ca546328c96c625d8d883.jpg",
+    "place_id": "ChIJQZqLszyMGGAR_0fPsHLwL_Q",
+    "g_name": "焼肉 ジャンボ はなれ",
+    "g_rating": 4.7,
+    "g_reviews": 592,
+    "g_address": "日本、〒113-0033 東京都文京区本郷３丁目２７−９",
+    "lat": 35.7066318,
+    "lng": 139.7624348
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "焼肉 矢澤 東京",
+    "name_en": "Yakiniku Yazawa Tokyo",
+    "area": "東京都 日本橋駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130202/13168322/",
+    "rating": 3.66,
+    "review_count_tabelog": 476,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Day before public holiday, Day after public holiday",
+        "dtl": "17:00 - 23:00 L.O. Food 22:15 Drinks 22:30",
+        "dtl_text": "17:00 - 23:00 L.O. Food 22:15 Drinks 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "16:00 - 23:00 L.O. Food 22:15 Drinks 22:30",
+        "dtl_text": "16:00 - 23:00 L.O. Food 22:15 Drinks 22:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "December 31 - January 2"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13168322-556500103fffa77937a1d1f21b219a05c57ecea99d0cface2904e63c70c15186.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "ビーフキッチン 中目黒本店",
+    "name_en": "Beef Kitchen Nakamegurohonten",
+    "area": "東京都 中目黒駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13054178/",
+    "rating": 3.67,
+    "review_count_tabelog": 1622,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Yakiniku (BBQ Beef), Horumon (BBQ Offel)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:00 - 23:00 L.O. Food 22:00 Drinks 22:30",
+        "dtl_text": "17:00 - 23:00 L.O. Food 22:00 Drinks 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Public Holiday",
+        "dtl": "12:00 - 23:00 L.O. Food 22:00 Drinks 22:30",
+        "dtl_text": "12:00 - 23:00 L.O. Food 22:00 Drinks 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "12:00 - 22:00 L.O. Food 21:00 Drinks 21:30",
+        "dtl_text": "12:00 - 22:00 L.O. Food 21:00 Drinks 21:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "*If we are fully booked, please consider visiting our nearby locations in Shibuya and Ebisu.*"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 638,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQDkh0mLGGARbfy8WZ_dfIw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13054178-7ea8a80a8e5c54692232f72bc359d13103601887397c7af43c7c532c4e101bc4.jpg",
+    "place_id": "ChIJAQDkh0mLGGARbfy8WZ_dfIw",
+    "g_name": "極上黒毛和牛 本格焼肉 ビーフキッチン 中目黒本店",
+    "g_rating": 4.3,
+    "g_reviews": 638,
+    "g_address": "日本、〒153-0051 東京都目黒区上目黒２丁目４４−８ ロ･カーサ上目黒 B1",
+    "lat": 35.6413594,
+    "lng": 139.6963026
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "YORONIKU TOKYO AZABUDAIHILLS",
+    "name_en": "YORONIKU TOKYO AZABUDAI HILLS",
+    "area": "東京都 六本木一丁目駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13291424/",
+    "rating": 4.3,
+    "review_count_tabelog": 222,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 23:00 L.O. 22:00",
+        "dtl_text": "17:00 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.8,
+    "google_reviews": 96,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJlxvZDOCLGGARQ10Mv2O_HA4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13291424-e9372edb72510ce84add2b2528634364dca347b197a3725d4b1fa435cc93f7dd.jpg",
+    "place_id": "ChIJlxvZDOCLGGARQ10Mv2O_HA4",
+    "g_name": "YORONIKU TOKYO 麻布台ヒルズ",
+    "g_rating": 4.8,
+    "g_reviews": 96,
+    "g_address": "日本、〒106-0041 東京都港区麻布台１丁目３−１ ヒルズタワープラザ 3階",
+    "lat": 35.6611575,
+    "lng": 139.7407835
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "神泉ホルモン 三百屋",
+    "name_en": "Shinsen Horumon Sambyakuya",
+    "area": "東京都 神泉駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130301/13024281/",
+    "rating": 3.67,
+    "review_count_tabelog": 685,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Horumon (BBQ Offel), Yakiniku (BBQ Beef)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "17:00 - 23:30 L.O. 22:45",
+        "dtl_text": "17:00 - 23:30 L.O. 22:45"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 310,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0T3WaFWLGGARVlg1398TSKw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13024281-90a2fdae3e51bcb53d2230069b9f545fd6649fbe86ccbd64c367ab7f02dbd51f.jpg",
+    "place_id": "ChIJ0T3WaFWLGGARVlg1398TSKw",
+    "g_name": "神泉ホルモン 三百屋",
+    "g_rating": 4.4,
+    "g_reviews": 310,
+    "g_address": "日本、〒150-0045 東京都渋谷区神泉町１２−４",
+    "lat": 35.6558155,
+    "lng": 139.6927403
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "蕃 YORONIKU",
+    "name_en": "Ebisu Yoroniku",
+    "area": "東京都 恵比寿駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130302/13211927/",
+    "rating": 4.25,
+    "review_count_tabelog": 1777,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef), Horumon (BBQ Offel)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 00:00 L.O. 23:00",
+        "dtl_text": "17:00 - 00:00 L.O. 23:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Year-end & New Year Holidays (Dec 31 - Jan 4)"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 898,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJI5iLqGqLGGARqF9I9Ccnh3E",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13211927-2dea2d0a11504fbbf9328690e2cff3753970087b8de19ea95373ebbc6230ce4b.jpg",
+    "place_id": "ChIJI5iLqGqLGGARqF9I9Ccnh3E",
+    "g_name": "蕃 YORONIKU",
+    "g_rating": 4.5,
+    "g_reviews": 898,
+    "g_address": "日本、〒150-0013 東京都渋谷区恵比寿１丁目１１−５ GEMS恵比寿 8F",
+    "lat": 35.6463571,
+    "lng": 139.7118057
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "焼肉うしごろ 銀座並木通り店",
+    "name_en": "Yakiniku Ushigoro Ginza Namikidori Ten",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13226719/",
+    "rating": 3.71,
+    "review_count_tabelog": 1597,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Yakiniku (BBQ Beef), Steak, Horumon (BBQ Offel)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:00 - 23:30 L.O. Food 22:30",
+        "dtl_text": "17:00 - 23:30 L.O. Food 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 23:30 L.O. Food 22:30",
+        "dtl_text": "11:30 - 23:30 L.O. Food 22:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 584,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJox6b5xeLGGARdraaER-VMOY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13226719-4f9dbb8cb0ded5b84f1dd481f02899c22b48e1ff9e5276695f0ad0ba7976aee0.jpg",
+    "place_id": "ChIJox6b5xeLGGARdraaER-VMOY",
+    "g_name": "焼肉 うしごろ 銀座並木通り店",
+    "g_rating": 4.3,
+    "g_reviews": 584,
+    "g_address": "日本、〒104-0061 東京都中央区銀座５丁目４−９ ニューギンザ5ビル 7階",
+    "lat": 35.6713681,
+    "lng": 139.7627672
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "焼肉 思食",
+    "name_en": "Yakiniku Oboshimeshi",
+    "area": "東京都 赤坂見附駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130801/13247485/",
+    "rating": 3.83,
+    "review_count_tabelog": 413,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef), Innovative, Korean",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 66,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJOYhwqeeNGGARwi0aaVjyRes",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13247485-b6e52b8ed9af3ad3fa20e553528e6913c8aac37b3b25f57604ab6bd8baa7da9e.jpg",
+    "place_id": "ChIJOYhwqeeNGGARwi0aaVjyRes",
+    "g_name": "焼肉 思食 Oboshimeshi",
+    "g_rating": 4.4,
+    "g_reviews": 66,
+    "g_address": "日本、〒107-0052 東京都港区赤坂３丁目１９−５",
+    "lat": 35.6756722,
+    "lng": 139.736398
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "大幸園 小宮本店",
+    "name_en": "Daikoen Komiya Honten",
+    "area": "東京都 小宮駅",
+    "url": "https://tabelog.com/tokyo/A1329/A132904/13107594/",
+    "rating": 3.64,
+    "review_count_tabelog": 471,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef), Horumon (BBQ Offel)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu",
+        "dtl": "17:30 - 22:30 L.O. 22:00",
+        "dtl_text": "17:30 - 22:30 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Fri, Sat",
+        "dtl": "17:30 - 23:00 L.O. 22:30",
+        "dtl_text": "17:30 - 23:00 L.O. 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "17:00 - 22:30 L.O. 22:00",
+        "dtl_text": "17:00 - 22:30 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open on Wednesdays if they are public holidays. In such cases, Thursday will be the day off instead. Please note that we may also have irregular closures on Tuesdays and Thursdays. For the latest updates, please visit our website."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 411,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmeVHK-ThGGARPNycy6y-1Eo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13107594-777c1b305aeebed2c846e832887ce735e0dfe2e5383ebabb463af016415992cc.jpg",
+    "place_id": "ChIJmeVHK-ThGGARPNycy6y-1Eo",
+    "g_name": "大幸園 小宮本店",
+    "g_rating": 4.2,
+    "g_reviews": 411,
+    "g_address": "日本、〒192-0031 東京都八王子市小宮町８６３−３",
+    "lat": 35.6874631,
+    "lng": 139.3729015
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "東京食肉市場直送 肉焼屋 D-29 広尾店",
+    "name_en": "Tokyo Shokuniku Ichiba Chokusou Niku Yakiya D-29 Hiro Ten",
+    "area": "東京都 広尾駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130703/13269923/",
+    "rating": 3.68,
+    "review_count_tabelog": 155,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef), Horumon (BBQ Offel), Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 23:00 L.O. 22:00",
+        "dtl_text": "17:00 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.8,
+    "google_reviews": 39,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJvZGpatuLGGARt5FmKaSrzjI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13269923-cac68aac062dc8f37c81a54bb15416694b93bca76bae502224b96b2c7c3d68b2.jpg",
+    "place_id": "ChIJvZGpatuLGGARt5FmKaSrzjI",
+    "g_name": "東京食肉市場直送 肉焼屋 D-29 広尾店",
+    "g_rating": 4.8,
+    "g_reviews": 39,
+    "g_address": "日本、〒150-0012 東京都渋谷区広尾５丁目１９−１ HIROO VILLAGE 2階",
+    "lat": 35.6491028,
+    "lng": 139.7195218
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "SATOブリアン七番",
+    "name_en": "SATO Brian Nanaban",
+    "area": "東京都 阿佐ケ谷駅",
+    "url": "https://tabelog.com/tokyo/A1319/A131905/13267452/",
+    "rating": 3.87,
+    "review_count_tabelog": 80,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "12:00 - 13:30",
+        "dtl_text": "12:00 - 13:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Please check the official website for details."
+    },
+    "google_rating": 4.6,
+    "google_reviews": 7,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJW6YQfNHzGGAReKxxzlRU1gc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13267452-e950b21d78ae248c6ae9426c6b7869f38a593f476735929b45078d14769a4e75.jpg",
+    "place_id": "ChIJW6YQfNHzGGAReKxxzlRU1gc",
+    "g_name": "SATOブリアン七番",
+    "g_rating": 4.6,
+    "g_reviews": 7,
+    "g_address": "BMビル, ２丁目-３-２ 阿佐谷北 杉並区 東京都 166-0001 日本",
+    "lat": 35.7049536,
+    "lng": 139.6337974
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "スタミナ苑",
+    "name_en": "Stamina En",
+    "area": "東京都 足立区",
+    "url": "https://tabelog.com/tokyo/A1323/A132305/13003777/",
+    "rating": 4.3,
+    "review_count_tabelog": 2484,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef), Horumon (BBQ Offel)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri",
+        "dtl": "16:00 - 22:00 L.O. 21:30",
+        "dtl_text": "16:00 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "15:00 - 22:00 L.O. 21:30",
+        "dtl_text": "15:00 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 1365,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQndiUeSGGAR-6DRWxrNuDY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13003777-069b090e813ebf59b4c465898012906749a09c062ddc6ba9221d85b2938674b9.jpg",
+    "place_id": "ChIJAQndiUeSGGAR-6DRWxrNuDY",
+    "g_name": "スタミナ苑",
+    "g_rating": 4.1,
+    "g_reviews": 1365,
+    "g_address": "日本、〒123-0864 東京都足立区鹿浜３丁目１３−４",
+    "lat": 35.7798829,
+    "lng": 139.7523855
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "高円寺 焼肉ここち 本店",
+    "name_en": "kouenji yakiniku kokochi Honten",
+    "area": "東京都 高円寺駅",
+    "url": "https://tabelog.com/tokyo/A1319/A131904/13301288/",
+    "rating": 3.98,
+    "review_count_tabelog": 184,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef), Horumon (BBQ Offel)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13301288-37266f1d0d7d1b4a93b55886b7a7210305489ed5795c7dc3bbaa606dee4e356c.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "赤坂 らいもん",
+    "name_en": "Akasaka Raimon",
+    "area": "東京都 赤坂見附駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130801/13224635/",
+    "rating": 4.49,
+    "review_count_tabelog": 508,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef), Horumon (BBQ Offel)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 20:11",
+        "dtl_text": "18:00 - 20:11",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.7,
+    "google_reviews": 119,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-a-DjfuNGGARQEVzM02jrJo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13224635-2a0265dece53913e97ac4327c4e74ca02adee33ea56c9e1f808fb0a4f3cb71d7.jpg",
+    "place_id": "ChIJ-a-DjfuNGGARQEVzM02jrJo",
+    "g_name": "赤坂 らいもん",
+    "g_rating": 4.7,
+    "g_reviews": 119,
+    "g_address": "日本、〒107-0052 東京都港区赤坂３丁目９−１２",
+    "lat": 35.676852,
+    "lng": 139.73619
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "本とさや",
+    "name_en": "Hon to Saya",
+    "area": "東京都 浅草（つくばＥＸＰ）駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131102/13003711/",
+    "rating": 3.73,
+    "review_count_tabelog": 1855,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Yakiniku (BBQ Beef), Horumon (BBQ Offel), Suppon (Soft-shell turtle)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 15:00 L.O. 14:30 17:00 - 23:00 L.O. Food 22:15 Drinks 22:30",
+        "dtl_text": "17:00 - 23:00 L.O. Food 22:15 Drinks 22:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 1711,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJgx4A57-OGGARlHMnGdRzsEg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13003711-a9c584f1fa3311e93d2d6085ab80dcc672bc470c398fff86da9455128872598e.jpg",
+    "place_id": "ChIJgx4A57-OGGARlHMnGdRzsEg",
+    "g_name": "本とさや 東京",
+    "g_rating": 4.4,
+    "g_reviews": 1711,
+    "g_address": "日本、〒111-0035 東京都台東区西浅草３丁目１−９",
+    "lat": 35.7143719,
+    "lng": 139.7920081
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "USHIGORO S. SHINJUKU",
+    "name_en": "USHIGORO S. SHINJUKU",
+    "area": "東京都 新宿三丁目駅",
+    "url": "https://tabelog.com/tokyo/A1304/A130401/13268688/",
+    "rating": 3.75,
+    "review_count_tabelog": 395,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Yakiniku (BBQ Beef), Japanese Cuisine, Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:00 - 23:30 L.O. Food 21:00",
+        "dtl_text": "17:00 - 23:30 L.O. Food 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "12:00 - 15:00 L.O. Food 13:00 17:00 - 23:30 L.O. Food 21:00",
+        "dtl_text": "17:00 - 23:30 L.O. Food 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "December 31, January 1, January 2, January 3"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 347,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJR6HIZXGNGGARAvQlMozEfMI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13268688-17f57c0c7ac48399369bae389d8cdbe8a1be87498259bf69413584ced04ad957.jpg",
+    "place_id": "ChIJR6HIZXGNGGARAvQlMozEfMI",
+    "g_name": "焼肉 うしごろ 新宿三丁目店",
+    "g_rating": 4.2,
+    "g_reviews": 347,
+    "g_address": "日本、〒160-0022 東京都新宿区新宿３丁目１７−１０ ＨＵＬＩＣ ＆ Ｎｅｗ ＳＨＩＮＪＵＫＵ １２階",
+    "lat": 35.6921218,
+    "lng": 139.7027383
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "焼肉 ジャンボ 白金",
+    "name_en": "Yakiniku Jumbo Shirokane",
+    "area": "東京都 白金高輪駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131602/13026377/",
+    "rating": 3.71,
+    "review_count_tabelog": 1461,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Yakiniku (BBQ Beef)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:00 - 23:00 L.O. 22:00",
+        "dtl_text": "17:00 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 14:30 L.O. 14:00 17:00 - 23:00 L.O. 22:00",
+        "dtl_text": "17:00 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round (Closed from December 31 to January 2)"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 955,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQYuIzQmLGGARAFZdM-5e7-s",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13026377-8c760b06fdd129e0c6d28c7b3f05591cf21bc865451dba6007b1d67857f3ca89.jpg",
+    "place_id": "ChIJQYuIzQmLGGARAFZdM-5e7-s",
+    "g_name": "焼肉ジャンボ 白金",
+    "g_rating": 4.4,
+    "g_reviews": 955,
+    "g_address": "日本、〒108-0072 東京都港区白金３丁目１−１ 第一麻布ビル 1F",
+    "lat": 35.6469895,
+    "lng": 139.7314105
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "三宿トラジ",
+    "name_en": "Mishuku Toraji",
+    "area": "東京都 祐天寺駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13004517/",
+    "rating": 3.73,
+    "review_count_tabelog": 553,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef)",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Weekdays": {}
+      },
+      "closed_on": "Sundays, Mondays, and the 2nd & 3rd Tuesdays of each month"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 182,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJn6a_ssr0GGARa8asFX-ZvgY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13004517-19677e9019c59e55bd18aaa981c2209c1586fcded9674cb06ac42713597959d6.jpg",
+    "place_id": "ChIJn6a_ssr0GGARa8asFX-ZvgY",
+    "g_name": "三宿トラジ",
+    "g_rating": 4.2,
+    "g_reviews": 182,
+    "g_address": "日本、〒153-0052 東京都目黒区祐天寺２丁目１４−７ ＡＩ祐天寺ビル",
+    "lat": 35.6368557,
+    "lng": 139.6911561
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "焼肉うしごろ 表参道店",
+    "name_en": "Yakiniku Ushigoro Omotesando Ten",
+    "area": "東京都 表参道駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130602/13252182/",
+    "rating": 3.71,
+    "review_count_tabelog": 1042,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Yakiniku (BBQ Beef), Steak, Horumon (BBQ Offel)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:00 - 23:30 L.O. Food 22:30",
+        "dtl_text": "17:00 - 23:30 L.O. Food 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 23:30 L.O. Food 22:30",
+        "dtl_text": "11:30 - 23:30 L.O. Food 22:30"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 265,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJNbeIA7WLGGAR2NS8e53XsHM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13252182-073184dd88fee4283156cb68c3b934d61e22911b7780d4842fc7a80aea82120a.jpg",
+    "place_id": "ChIJNbeIA7WLGGAR2NS8e53XsHM",
+    "g_name": "焼肉 うしごろ 表参道店",
+    "g_rating": 4.2,
+    "g_reviews": 265,
+    "g_address": "日本、〒150-0001 東京都渋谷区神宮前５丁目５０−３ アーバンテラス青山 2F",
+    "lat": 35.6631787,
+    "lng": 139.7099032
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "誇味山",
+    "name_en": "Komiyama",
+    "area": "東京都 乃木坂駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13230924/",
+    "rating": 3.69,
+    "review_count_tabelog": 266,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 00:00",
+        "dtl_text": "17:00 - 00:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.8,
+    "google_reviews": 102,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJnannWZaLGGARZsZnP_7fv_0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13230924-77468ffbc7b6d0f94e0b5a5e574a96f5fe4a299a223f9c3d1b6d8b94995b0a6c.jpg",
+    "place_id": "ChIJnannWZaLGGARZsZnP_7fv_0",
+    "g_name": "誇味山",
+    "g_rating": 4.8,
+    "g_reviews": 102,
+    "g_address": "日本、〒106-0031 東京都港区西麻布１丁目１５−９ ラ・アルタ西麻布1F",
+    "lat": 35.6616364,
+    "lng": 139.7227179
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "焼肉 六甲園",
+    "name_en": "Yakiniku Rokkoen",
+    "area": "東京都 池尻大橋駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131705/13252117/",
+    "rating": 3.72,
+    "review_count_tabelog": 629,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Yakiniku (BBQ Beef), Horumon (BBQ Offel)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:00 - 23:30 L.O. 23:00",
+        "dtl_text": "17:00 - 23:30 L.O. 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "11:30 - 23:30 L.O. 23:00",
+        "dtl_text": "11:30 - 23:30 L.O. 23:00"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13252117-3f6b55687a21e01c8180a6d7a4a86594aadffe261abcdf1eb2f58425789092f0.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "山田屋 日暮里店",
+    "name_en": "Yamada Ya Nippori Ten",
+    "area": "東京都 日暮里駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131105/13091831/",
+    "rating": 3.63,
+    "review_count_tabelog": 481,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "Yakiniku (BBQ Beef), Horumon (BBQ Offel), Korean",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "17:30 - 22:00 L.O. 21:30",
+        "dtl_text": "17:30 - 22:00 L.O. 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "17:00 - 22:00 L.O. 21:30",
+        "dtl_text": "17:00 - 22:00 L.O. 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "12:00 - 16:00 L.O. 15:30 17:00 - 21:00 L.O. 20:30",
+        "dtl_text": "17:00 - 21:00 L.O. 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 286,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJwfkcddaNGGARcPt6ud_aeHI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13091831-f41955803b3086ca1fab8d043d13b5f9bdcc2d008f96f7aff49e3c4bdc4a1ce3.jpg",
+    "place_id": "ChIJwfkcddaNGGARcPt6ud_aeHI",
+    "g_name": "山田屋",
+    "g_rating": 4.3,
+    "g_reviews": 286,
+    "g_address": "日本、〒116-0013 東京都荒川区西日暮里２丁目２５−１ ステーションガーデンタワー",
+    "lat": 35.7293882,
+    "lng": 139.7715077
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "鯉登り",
+    "name_en": "Koi Nobori",
+    "area": "東京都 大久保駅",
+    "url": "https://tabelog.com/tokyo/A1304/A130404/13024080/",
+    "rating": 3.75,
+    "review_count_tabelog": 109,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Horumon (BBQ Offel), Yakiniku (BBQ Beef)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "19:00 - 23:00 L.O. 22:00",
+        "dtl_text": "19:00 - 23:00 L.O. 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Holidays (Not fixed)"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13024080-0d58cde6f0dc9a0abc65b7b2d3d21d8b005f66300563bdf14d353412f03ad8d9.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "ビーフキッチン 恵比寿店",
+    "name_en": "Beef Kitchen Ebisu Ten",
+    "area": "東京都 恵比寿駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130302/13262681/",
+    "rating": 3.65,
+    "review_count_tabelog": 1386,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Yakiniku (BBQ Beef), Izakaya (Tavern), Horumon (BBQ Offel)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:00 - 23:00 L.O. Food 22:00 Drinks 22:30",
+        "dtl_text": "17:00 - 23:00 L.O. Food 22:00 Drinks 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Public Holiday",
+        "dtl": "12:00 - 23:00 L.O. Food 22:00 Drinks 22:30",
+        "dtl_text": "12:00 - 23:00 L.O. Food 22:00 Drinks 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "12:00 - 22:00 L.O. Food 21:00 Drinks 21:30",
+        "dtl_text": "12:00 - 22:00 L.O. Food 21:00 Drinks 21:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Please also consider our nearby locations in Nakameguro and Shibuya when we are fully booked."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 444,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmUnYRgKLGGARtUK3_dZqZxk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13262681-26003a069d612d2ce6c148fb5d0fd3bd131580995fdf21af25632f745fc548c2.jpg",
+    "place_id": "ChIJmUnYRgKLGGARtUK3_dZqZxk",
+    "g_name": "本格焼肉 ビーフキッチン恵比寿店",
+    "g_rating": 4.4,
+    "g_reviews": 444,
+    "g_address": "日本、〒150-0022 東京都渋谷区恵比寿南１丁目１３−３ Gold, 1F",
+    "lat": 35.6454647,
+    "lng": 139.71032
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "焼肉 銀座コバウ 特別室",
+    "name_en": "Yakiniku Ginza Kobau Tokubetsushitsu",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13005008/",
+    "rating": 3.73,
+    "review_count_tabelog": 1017,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef), Horumon (BBQ Offel), Korean",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:00 - 23:30",
+        "dtl_text": "17:00 - 23:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "16:00 - 23:00",
+        "dtl_text": "16:00 - 23:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round (except for Year-end & New Year Holidays)"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 36,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJuYFhtYKLGGAR6lQtm3htLmc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13005008-85d50e37e549c6ee2ae2f9e2659c1834bc503bff5d34644eba097d5e17f06151.jpg",
+    "place_id": "ChIJuYFhtYKLGGAR6lQtm3htLmc",
+    "g_name": "焼肉 銀座コバウ 特別室",
+    "g_rating": 4.6,
+    "g_reviews": 36,
+    "g_address": "日本、〒104-0061 東京都中央区銀座６丁目７−６ ラペビル 8F",
+    "lat": 35.6704655,
+    "lng": 139.7626722
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "焼肉あきら",
+    "name_en": "Yakiniku Akira",
+    "area": "東京都 水道橋駅",
+    "url": "https://tabelog.com/tokyo/A1310/A131003/13251014/",
+    "rating": 3.67,
+    "review_count_tabelog": 867,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Yakiniku (BBQ Beef), Horumon (BBQ Offel), Beef dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:30 - 15:00 17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "11:30 - 15:00 17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "*Open on Mondays that are public holidays; the following Tuesday will be closed."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 207,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJcUWI9h2NGGARkiQ5jdqPero",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13251014-e6ca030ee1a200f8cfddcef65ec4f7f633f7060da478585f0788b2f6087c2351.jpg",
+    "place_id": "ChIJcUWI9h2NGGARkiQ5jdqPero",
+    "g_name": "焼肉 あきら",
+    "g_rating": 4.4,
+    "g_reviews": 207,
+    "g_address": "日本、〒113-0033 東京都文京区本郷１丁目１０−１２ カルム本郷 2F",
+    "lat": 35.7041604,
+    "lng": 139.757661
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "Hodori 用賀店",
+    "name_en": "Hodori Yoga Ten",
+    "area": "東京都 用賀駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131707/13098101/",
+    "rating": 3.7,
+    "review_count_tabelog": 357,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef), Horumon (BBQ Offel)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Fri, Sat, Sun",
+        "dtl": "17:00 - 23:00 L.O. 22:00",
+        "dtl_text": "17:00 - 23:00 L.O. 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 257,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7QVzLG70GGAR8xbOYJQXTwM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13098101-6a01ea38966594b701e9bf6b1885df5d8d41deb29bb8293baad99f852dc6b86c.jpg",
+    "place_id": "ChIJ7QVzLG70GGAR8xbOYJQXTwM",
+    "g_name": "焼肉 Hodori 用賀店",
+    "g_rating": 4.5,
+    "g_reviews": 257,
+    "g_address": "日本、〒158-0097 東京都世田谷区用賀２丁目２８−１９ スカイハイツ用賀",
+    "lat": 35.6248135,
+    "lng": 139.6373881
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "代官山 焼肉かねこ",
+    "name_en": "Daikanyama Yakiniku Kaneko",
+    "area": "東京都 代官山駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130303/13178613/",
+    "rating": 3.69,
+    "review_count_tabelog": 336,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The restaurant may also close on other irregular days. Please check our website for updates."
+    },
+    "google_rating": 4.6,
+    "google_reviews": 113,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJVSw1U-LGGARPfiuAfhMbNQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13178613-d6f69165cd023ab0d770d8efaaceafa413cede340ebf801589642e3fffa06922.jpg",
+    "place_id": "ChIJJVSw1U-LGGARPfiuAfhMbNQ",
+    "g_name": "焼肉かねこ",
+    "g_rating": 4.6,
+    "g_reviews": 113,
+    "g_address": "日本、〒150-0033 東京都渋谷区猿楽町１７−１７ 1F",
+    "lat": 35.6498449,
+    "lng": 139.6988972
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "在市 月島本店",
+    "name_en": "Zaichi Tsukishima Honten",
+    "area": "東京都 月島駅",
+    "url": "https://tabelog.com/tokyo/A1313/A131302/13095398/",
+    "rating": 3.74,
+    "review_count_tabelog": 1344,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "-",
+    "sub_categories": "Horumon (BBQ Offel), Yakiniku (BBQ Beef)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 01:00 L.O. 00:00",
+        "dtl_text": "17:00 - 01:00 L.O. 00:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "17:00 - 00:00 L.O. 23:00",
+        "dtl_text": "17:00 - 00:00 L.O. 23:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "We understand that reaching out can be inconvenient, but we appreciate your understanding."
+    },
+    "google_rating": 4.1,
+    "google_reviews": 354,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJSb4reHqJGGARQTDGwcSXWhU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13095398-3550b70aeeeb755a14f0ba12964e232d091f7441cbc280804f3490b53fe5425f.jpg",
+    "place_id": "ChIJSb4reHqJGGARQTDGwcSXWhU",
+    "g_name": "在市 月島本店",
+    "g_rating": 4.1,
+    "g_reviews": 354,
+    "g_address": "日本、〒104-0052 東京都中央区月島２丁目１４−８",
+    "lat": 35.662266,
+    "lng": 139.782989
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "江戸焼肉",
+    "name_en": "Edo Yakiniku",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13270037/",
+    "rating": 4.02,
+    "review_count_tabelog": 163,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef), Japanese Cuisine, Beef dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 23:30",
+        "dtl_text": "17:00 - 23:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13270037-bd024f7b23baee8264d0b1024f1cac19704f187bc2fc6fb2e84c081d8d032e4e.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "ホルモンまさる",
+    "name_en": "Horumon Masaru",
+    "area": "東京都 三田駅",
+    "url": "https://tabelog.com/tokyo/A1314/A131402/13150755/",
+    "rating": 3.7,
+    "review_count_tabelog": 1754,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Horumon (BBQ Offel), Yakiniku (BBQ Beef), Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "13:30 - 22:30 L.O. 22:00",
+        "dtl_text": "13:30 - 22:30 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Public Holiday",
+        "dtl": "12:00 - 22:30 L.O. 22:00",
+        "dtl_text": "12:00 - 22:30 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "12:00 - 21:30 L.O. 21:00",
+        "dtl_text": "12:00 - 21:30 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 1153,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJO30fJrGLGGAR8AEPpI2fNGo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13150755-739eaa1dcd77020eadc5d4738b2ed03e25287641e04d66704a13aec6c9788883.jpg",
+    "place_id": "ChIJO30fJrGLGGAR8AEPpI2fNGo",
+    "g_name": "ホルモン まさる",
+    "g_rating": 4.4,
+    "g_reviews": 1153,
+    "g_address": "日本、〒108-0014 東京都港区芝５丁目２１−１４",
+    "lat": 35.6480988,
+    "lng": 139.7466848
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "SATOブリアン 本店",
+    "name_en": "SATO Brian Hon Ten",
+    "area": "東京都 阿佐ケ谷駅",
+    "url": "https://tabelog.com/tokyo/A1319/A131905/13127046/",
+    "rating": 4.05,
+    "review_count_tabelog": 1045,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Yakiniku (BBQ Beef)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "14:30 - 22:00",
+        "dtl_text": "14:30 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.8,
+    "google_reviews": 868,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJe96wj3C7JhUR37GV1j8Q8ts",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13127046-3295faaf5fa83481f001c2456728be1d8f6dc283a87478dd9542d3f7c3537644.jpg",
+    "place_id": "ChIJe96wj3C7JhUR37GV1j8Q8ts",
+    "g_name": "SATOブリアン",
+    "g_rating": 4.8,
+    "g_reviews": 868,
+    "g_address": "日本、〒166-0001 東京都杉並区阿佐谷南３丁目４４−２ 新井ビル",
+    "lat": 35.7046451,
+    "lng": 139.6342329
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "うら松",
+    "name_en": "ura matsu",
+    "area": "東京都 広尾駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130703/13297307/",
+    "rating": 4.16,
+    "review_count_tabelog": 67,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef)",
+    "hours_raw": [],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13297307-52852275117e42bf251f83ff00cd82eebe5f3938d161a6107ec26f6db254eb03.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "炭火焼肉ホルモン まるは",
+    "name_en": "Sumibi Yakiniku Horumon Maruha",
+    "area": "東京都 五反田駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131603/13210437/",
+    "rating": 3.71,
+    "review_count_tabelog": 471,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef), Horumon (BBQ Offel)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "17:30 - 23:00",
+        "dtl_text": "17:30 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "16:00 - 23:00",
+        "dtl_text": "16:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 272,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJYyjufuKGGAR8_m6JnlyiaA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13210437-eabf3f2147143ca396853e81e52ef1795dd0a1a93eac2956a010dd074b9a8f2b.jpg",
+    "place_id": "ChIJJYyjufuKGGAR8_m6JnlyiaA",
+    "g_name": "炭火焼肉ホルモンまるは",
+    "g_rating": 4.5,
+    "g_reviews": 272,
+    "g_address": "日本、〒141-0022 東京都品川区東五反田１丁目１６−４ アルサイト 1F",
+    "lat": 35.62669959999999,
+    "lng": 139.7254235
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "楽酔苑",
+    "name_en": "Rakusui En",
+    "area": "東京都 地下鉄赤塚駅",
+    "url": "https://tabelog.com/tokyo/A1322/A132204/13193192/",
+    "rating": 3.67,
+    "review_count_tabelog": 118,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "-",
+    "sub_categories": "Horumon (BBQ Offel), Izakaya (Tavern), Yakiniku (BBQ Beef)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "19:00 - 00:00",
+        "dtl_text": "19:00 - 00:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 76,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4Y_9z2bsGGARssH2q9jFZHc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13193192-274837d87a709917f152aab249ba026c52a2e247fa8f1d6ff7c9db994c022741.jpg",
+    "place_id": "ChIJ4Y_9z2bsGGARssH2q9jFZHc",
+    "g_name": "楽酔苑(ラクスイエン)",
+    "g_rating": 4.5,
+    "g_reviews": 76,
+    "g_address": "日本、〒179-0073 東京都練馬区田柄２丁目３３−１７",
+    "lat": 35.7685248,
+    "lng": 139.6446667
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "正泰苑 芝大門店",
+    "name_en": "Shoutai En Shibadaimonten",
+    "area": "東京都 大門駅",
+    "url": "https://tabelog.com/tokyo/A1314/A131401/13005213/",
+    "rating": 3.68,
+    "review_count_tabelog": 1420,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Yakiniku (BBQ Beef), Horumon (BBQ Offel)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 14:30 L.O. 14:00 17:00 - 23:30 L.O. 23:00",
+        "dtl_text": "17:00 - 23:30 L.O. 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "17:00 - 23:30 L.O. 23:00",
+        "dtl_text": "17:00 - 23:30 L.O. 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "17:00 - 23:00 L.O. 22:30",
+        "dtl_text": "17:00 - 23:00 L.O. 22:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round (except for Year-end & New Year Holidays)"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 538,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJdVd2oPGGHWARFfzBynRaJS8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13005213-3755112734de326f3b58ed8741f01d4229e7c77a21c48fd73f45a14724b71898.jpg",
+    "place_id": "ChIJdVd2oPGGHWARFfzBynRaJS8",
+    "g_name": "正泰苑 芝大門店",
+    "g_rating": 4.2,
+    "g_reviews": 538,
+    "g_address": "日本、〒105-0012 東京都港区芝大門１丁目７−４ パークサイド芝大門 １F",
+    "lat": 35.65802559999999,
+    "lng": 139.7538079
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "銀座 ちかみつ 六丁目",
+    "name_en": "Ginza Chikamitsu Roku Chome",
+    "area": "東京都 東銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13259532/",
+    "rating": 3.65,
+    "review_count_tabelog": 703,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef), Horumon (BBQ Offel), Beef dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:00 - 23:30",
+        "dtl_text": "17:00 - 23:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed."
+    },
+    "google_rating": 4,
+    "google_reviews": 145,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJg6_4hj-LGGAR6dfnLAQzXq0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13259532-6d720e7821533e81597500cfa406f8bb1f59c8107154c6536a311ba76b1f6fcd.jpg",
+    "place_id": "ChIJg6_4hj-LGGAR6dfnLAQzXq0",
+    "g_name": "銀座ちかみつ六丁目",
+    "g_rating": 4,
+    "g_reviews": 145,
+    "g_address": "ヒューリック銀座ウォールビル １階, ６丁目-１３-１６ 銀座 中央区 東京都 104-0061 日本",
+    "lat": 35.66883809999999,
+    "lng": 139.764577
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "うしごろ 貫 恵比寿本店",
+    "name_en": "Ushigoro Kan Ebisu Honten",
+    "area": "東京都 恵比寿駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130302/13160330/",
+    "rating": 3.63,
+    "review_count_tabelog": 1034,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef), Horumon (BBQ Offel), Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday",
+        "dtl": "16:00 - 23:30",
+        "dtl_text": "16:00 - 23:30"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 249,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJOa8eXECLGGART0UEk6LGa6s",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13160330-da0bb3be94b363ebc8ff657f533e4df7fffd8924f1631a9b6a4894bcf126a9a2.jpg",
+    "place_id": "ChIJOa8eXECLGGART0UEk6LGa6s",
+    "g_name": "うしごろ 貫",
+    "g_rating": 4.1,
+    "g_reviews": 249,
+    "g_address": "日本、〒150-0022 東京都渋谷区恵比寿南１丁目８−１ Stm恵比寿ビル 1F",
+    "lat": 35.646241,
+    "lng": 139.7093475
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "炭火焼肉 ふちおか",
+    "name_en": "Sumibi Yakiniku Fuchioka",
+    "area": "東京都 経堂駅",
+    "url": "https://tabelog.com/tokyo/A1318/A131813/13208137/",
+    "rating": 3.64,
+    "review_count_tabelog": 615,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef), Gyutan (Beef tongue)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 22:00 L.O. 21:30",
+        "dtl_text": "17:00 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 197,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJe7f8uJbzGGARljQ3qpSxiuc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13208137-636a2bf5685d7ed851c6ccf60716cab791518ba8bb8b2666d269ca6f58750f61.jpg",
+    "place_id": "ChIJe7f8uJbzGGARljQ3qpSxiuc",
+    "g_name": "炭火焼肉 ふちおか",
+    "g_rating": 4.1,
+    "g_reviews": 197,
+    "g_address": "日本、〒156-0052 東京都世田谷区経堂１丁目５−８ ロイヤルハイツ経堂1F",
+    "lat": 35.6483008,
+    "lng": 139.6361437
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "うし松",
+    "name_en": "Ushimatsu",
+    "area": "東京都 広尾駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130703/13242515/",
+    "rating": 3.93,
+    "review_count_tabelog": 1024,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef), Gyutan (Beef tongue), Horumon (BBQ Offel)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:00 - 23:00 L.O. 22:30",
+        "dtl_text": "17:00 - 23:00 L.O. 22:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Year-end & New Year Holidays"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 429,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJA1ebgXCLGGAR1n_JVWSMmsk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13242515-6be50b332f36e73b021d782e2b634426e4434acb9c01e26cbde7843b5681169f.jpg",
+    "place_id": "ChIJA1ebgXCLGGAR1n_JVWSMmsk",
+    "g_name": "焼肉 うし松",
+    "g_rating": 4.2,
+    "g_reviews": 429,
+    "g_address": "日本、〒106-0031 東京都港区西麻布３丁目１３−１４ LA・RES西麻布 B1F",
+    "lat": 35.6570508,
+    "lng": 139.7240338
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "西麻布 焼肉 X",
+    "name_en": "Nishiazabu Yakiniku X",
+    "area": "東京都 乃木坂駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13233427/",
+    "rating": 3.83,
+    "review_count_tabelog": 576,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 23:30 L.O. 21:00",
+        "dtl_text": "17:00 - 23:30 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays and Year-end & New Year Holidays"
+    },
+    "google_rating": 4.7,
+    "google_reviews": 167,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJkVT-Vm-LGGARtjXRPAz_JmM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13233427-9090c66065108b532c0cdd65e07de2a7ef58b4f1b60b48e71a636c73d852f43d.jpg",
+    "place_id": "ChIJkVT-Vm-LGGARtjXRPAz_JmM",
+    "g_name": "西麻布 焼肉X TEN",
+    "g_rating": 4.7,
+    "g_reviews": 167,
+    "g_address": "日本、〒106-0031 東京都港区西麻布１丁目４−４６ カーサスプレンディッド西麻布 B1F",
+    "lat": 35.6621956,
+    "lng": 139.7262335
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "焼肉 ジャンボ 本郷店",
+    "name_en": "Yakiniku Jumbo Hongo Ten",
+    "area": "東京都 本郷三丁目駅",
+    "url": "https://tabelog.com/tokyo/A1310/A131004/13110601/",
+    "rating": 4.05,
+    "review_count_tabelog": 1283,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:00 - 23:00 L.O. Food 22:30",
+        "dtl_text": "17:00 - 23:00 L.O. Food 22:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "During business hours, phone lines may be difficult to connect. Each location will begin accepting phone calls after 1:00 PM, so we kindly ask for your cooperation in contacting us outside of business hours (approximately 1:00 PM - 3:30 PM)."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 598,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJyVkGszyMGGARyaNwut6mF0c",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13110601-43ac5ea0688045218c3d4389741ebc437fdc8fc847734ddab2a106b5df62c188.jpg",
+    "place_id": "ChIJyVkGszyMGGARyaNwut6mF0c",
+    "g_name": "焼肉ジャンボ 本郷店",
+    "g_rating": 4.4,
+    "g_reviews": 598,
+    "g_address": "日本、〒113-0033 東京都文京区本郷３丁目３８−１ イワシタビル 1F",
+    "lat": 35.7066862,
+    "lng": 139.7626148
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "ホルモン焼 婁熊東京",
+    "name_en": "Horumon Yaki Rukuma Tokyo",
+    "area": "東京都 代官山駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130302/13132685/",
+    "rating": 3.72,
+    "review_count_tabelog": 533,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Horumon (BBQ Offel), Yakiniku (BBQ Beef), Grilled tripe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 23:00 L.O. 22:00",
+        "dtl_text": "17:00 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 186,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJUxeDv0OLGGAR8sIBBOBmuDs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13132685-311b1107d85b8c0d263b1b381764b5f34f413426d5163d114dc2acd33c7f55bb.jpg",
+    "place_id": "ChIJUxeDv0OLGGAR8sIBBOBmuDs",
+    "g_name": "婁熊東京",
+    "g_rating": 4.4,
+    "g_reviews": 186,
+    "g_address": "日本、〒150-0021 東京都渋谷区恵比寿西２丁目３−５ 石井ビル 地下１階",
+    "lat": 35.650054,
+    "lng": 139.7079508
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "焼肉うしごろ 銀座店",
+    "name_en": "Ushigoro Ginza",
+    "area": "東京都 銀座一丁目駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13263391/",
+    "rating": 3.7,
+    "review_count_tabelog": 807,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Yakiniku (BBQ Beef), Steak, Horumon (BBQ Offel)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:00 - 23:30 L.O. Food 22:30",
+        "dtl_text": "17:00 - 23:30 L.O. Food 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 23:30 L.O. Food 22:30",
+        "dtl_text": "11:30 - 23:30 L.O. Food 22:30"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 1094,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJPV4leOSLGGAR9JjXvs_RiDM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13263391-ae2bb1d9ccce9daf3029745c72a93fc0cbcadfb1ade682bb7d9da88ed0569411.jpg",
+    "place_id": "ChIJPV4leOSLGGAR9JjXvs_RiDM",
+    "g_name": "うしごろ 銀座店",
+    "g_rating": 4.4,
+    "g_reviews": 1094,
+    "g_address": "日本、〒104-0061 東京都中央区銀座１丁目８−１９ キラリトギンザ 7階",
+    "lat": 35.6743114,
+    "lng": 139.7686452
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "焼肉・光陽",
+    "name_en": "Yakiniku Koyo",
+    "area": "東京都 大崎駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131604/13020181/",
+    "rating": 3.72,
+    "review_count_tabelog": 484,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "16:00 - 19:30",
+        "dtl_text": "16:00 - 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 219,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJcX1IrPaKGGARWuxVZH0Sk8c",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13020181-6b0667ad9c861cfa694cbd0462c24a715983d0c871b27f4e3602e2637835ece1.jpg",
+    "place_id": "ChIJcX1IrPaKGGARWuxVZH0Sk8c",
+    "g_name": "光陽",
+    "g_rating": 4.3,
+    "g_reviews": 219,
+    "g_address": "日本、〒141-0032 東京都品川区大崎３丁目６−７ パークハイツ大崎",
+    "lat": 35.620225,
+    "lng": 139.727153
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "初代吉田",
+    "name_en": "Shodai Yoshida",
+    "area": "東京都 亀戸駅",
+    "url": "https://tabelog.com/tokyo/A1312/A131202/13059640/",
+    "rating": 3.67,
+    "review_count_tabelog": 963,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Horumon (BBQ Offel), Yakiniku (BBQ Beef), Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "17:00 - 22:30 L.O. 22:00",
+        "dtl_text": "17:00 - 22:30 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "12:00 - 22:00 L.O. 21:30",
+        "dtl_text": "12:00 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 510,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJkUM2HMSIGGARYPUFFVBGt2c",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13059640-7b2ef815a2663c333b59fbb45ca138626c38b44f8f2a0827ee4b5b1fdeb2e774.jpg",
+    "place_id": "ChIJkUM2HMSIGGARYPUFFVBGt2c",
+    "g_name": "初代吉田 亀戸本店",
+    "g_rating": 4.2,
+    "g_reviews": 510,
+    "g_address": "日本、〒136-0071 東京都江東区亀戸５丁目１３−６",
+    "lat": 35.6994875,
+    "lng": 139.8261691
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "ホルモン人生タロちゃん",
+    "name_en": "Horumon Jinsei Taro Chan",
+    "area": "東京都 中野駅",
+    "url": "https://tabelog.com/tokyo/A1319/A131902/13264580/",
+    "rating": 3.71,
+    "review_count_tabelog": 590,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef), Horumon (BBQ Offel), Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "16:00 - 00:00 L.O. Food 23:00 Drinks 23:30",
+        "dtl_text": "16:00 - 00:00 L.O. Food 23:00 Drinks 23:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Year-end & New Year Holidays"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 172,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJXRa2VczzGGAREySyU8In0QM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13264580-c458f7bd134edb14257c2a965d851ea773b3b01117e4eca87c01262343893ea4.jpg",
+    "place_id": "ChIJXRa2VczzGGAREySyU8In0QM",
+    "g_name": "ホルモン人生タロちゃん",
+    "g_rating": 4.1,
+    "g_reviews": 172,
+    "g_address": "日本、〒164-0001 東京都中野区中野５丁目３５−８ 新東京アパート 1F",
+    "lat": 35.7070838,
+    "lng": 139.6666897
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "赤坂大関 本店",
+    "name_en": "Akasaka Oozeki Hon Ten",
+    "area": "東京都 赤坂見附駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130801/13015197/",
+    "rating": 3.65,
+    "review_count_tabelog": 810,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef), Horumon (BBQ Offel)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 23:00 L.O. 22:00",
+        "dtl_text": "17:00 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "15:00 - 21:00 L.O. 20:00",
+        "dtl_text": "15:00 - 21:00 L.O. 20:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "None (with holidays during summer and year-end/New Year)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 336,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQB1OX-MGGARcrm5yJdhECo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13015197-8f064c99733d75027beb63ecc773cd95008960f05e44ce3fe640f6fd1295bb9f.jpg",
+    "place_id": "ChIJAQB1OX-MGGARcrm5yJdhECo",
+    "g_name": "大関",
+    "g_rating": 4.3,
+    "g_reviews": 336,
+    "g_address": "日本、〒107-0052 東京都港区赤坂３丁目１８−１２",
+    "lat": 35.6754652,
+    "lng": 139.736323
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "USHIGORO S. NISHIAZABU",
+    "name_en": "USHIGORO S. NISHIAZABU",
+    "area": "東京都 乃木坂駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13209611/",
+    "rating": 3.79,
+    "review_count_tabelog": 555,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Yakiniku (BBQ Beef)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu",
+        "dtl": "17:00 - 23:30 L.O. Food 21:00",
+        "dtl_text": "17:00 - 23:30 L.O. Food 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Fri",
+        "dtl": "17:00 - 23:00 L.O. Food 21:00",
+        "dtl_text": "17:00 - 23:00 L.O. Food 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "12:00 - 15:00 L.O. Food 13:00 17:00 - 23:30 L.O. Food 21:00",
+        "dtl_text": "17:00 - 23:30 L.O. Food 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "December 31, January 1, January 2, January 3"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 245,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-1isAfyLGGARB7thoQoZQeI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13209611-98f378ec58874c62d268537ed7017aa5402c091dbeed746e878b382b78aa5165.jpg",
+    "place_id": "ChIJ-1isAfyLGGARB7thoQoZQeI",
+    "g_name": "焼肉 うしごろ 西麻布本店",
+    "g_rating": 4.4,
+    "g_reviews": 245,
+    "g_address": "日本、〒106-0031 東京都港区西麻布２丁目２４−１４ バルビゾン 73 1F",
+    "lat": 35.6600656,
+    "lng": 139.7225208
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "焼肉赤身にくがとう 人形町本店",
+    "name_en": "Yakiniku Akami Nikugatou Ningyochohonten",
+    "area": "東京都 人形町駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130204/13168436/",
+    "rating": 3.68,
+    "review_count_tabelog": 785,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef), Horumon (BBQ Offel), Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13168436-b456ddfb0e768ce8ad846dc71b028522195f6e1bdf8c19f505ab0b5e3c215398.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "よろにく",
+    "name_en": "Yoroniku",
+    "area": "東京都 表参道駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130602/13042979/",
+    "rating": 4.22,
+    "review_count_tabelog": 2803,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef), Horumon (BBQ Offel)",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Weekdays": {},
+        "Saturday": {},
+        "Sunday & Public Holidays": {}
+      },
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 1409,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVUlOmSLGGARGqkXwDpR7PI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13042979-fe641a787d660aa817d30b24bd470d7c9554d5fdc5c989c1618f0a34c38bc389.jpg",
+    "place_id": "ChIJVVUlOmSLGGARGqkXwDpR7PI",
+    "g_name": "よろにく",
+    "g_rating": 4.4,
+    "g_reviews": 1409,
+    "g_address": "日本、〒107-0062 東京都港区南青山６丁目６−２２ LunaRossa南青山 B1",
+    "lat": 35.6602462,
+    "lng": 139.7175653
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "東京園",
+    "name_en": "Tokyo En",
+    "area": "東京都 東銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13002566/",
+    "rating": 3.93,
+    "review_count_tabelog": 397,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 00:00",
+        "dtl_text": "18:00 - 00:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.5,
+    "google_reviews": 328,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJK2bxJueLGGARwHHeH52hGiM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13002566-5c6451a0c71f3b32c7129128a0d933eebc4c3369ca427ce2b7f0bfc9110110db.jpg",
+    "place_id": "ChIJK2bxJueLGGARwHHeH52hGiM",
+    "g_name": "東銀座駅",
+    "g_rating": 3.5,
+    "g_reviews": 328,
+    "g_address": "日本、〒104-0061 東京都中央区銀座４丁目１０−１０先",
+    "lat": 35.6697003,
+    "lng": 139.7671399
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "焼肉 燈花",
+    "name_en": "Yakiniku Toka",
+    "area": "東京都 人形町駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130204/13279087/",
+    "rating": 3.64,
+    "review_count_tabelog": 375,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef), Horumon (BBQ Offel)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "16:00 - 23:30 L.O. 22:30",
+        "dtl_text": "16:00 - 23:30 L.O. 22:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "December 31, 2025 - January 3, 2026"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13279087-a608075ab0dbfa1c5a53d7e32f53ae27bd8db6cc257acd71c27ed53cd30412e8.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "游玄亭 西麻布本館",
+    "name_en": "Yugen Tei Nishi Azabu Honkan",
+    "area": "東京都 広尾駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13003488/",
+    "rating": 3.65,
+    "review_count_tabelog": 673,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Yakiniku (BBQ Beef), Japanese Cuisine, Korean",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "16:00 - 04:00 L.O. 04:00",
+        "dtl_text": "16:00 - 04:00 L.O. 04:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 03:00 L.O. 03:00",
+        "dtl_text": "11:30 - 03:00 L.O. 03:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 536,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJszjEenCLGGARNX1-mhQavAE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13003488-9af7cfee8f91e1f77508aee3e93b32b668a93d3e06b59fe851464cd71e8f96ed.jpg",
+    "place_id": "ChIJszjEenCLGGARNX1-mhQavAE",
+    "g_name": "游玄亭 西麻布本館",
+    "g_rating": 4.4,
+    "g_reviews": 536,
+    "g_address": "日本、〒106-0031 東京都港区西麻布３丁目２４−１８ 叙々苑 ビル",
+    "lat": 35.6593117,
+    "lng": 139.7237178
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "焼肉ホルモン金樹",
+    "name_en": "Yakiniku Horumon Kinju",
+    "area": "東京都 赤坂駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130801/13273456/",
+    "rating": 3.74,
+    "review_count_tabelog": 811,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef), Horumon (BBQ Offel)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 03:30 L.O. 02:45",
+        "dtl_text": "18:00 - 03:30 L.O. 02:45"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "17:00 - 23:00 L.O. 22:00",
+        "dtl_text": "17:00 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 180,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJOZxLnfaLGGAReH4nuPD0asw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13273456-3d078ec27df06fe0cf048f12318c5cacd33e21eb84f2fa8db954e6a1fb29b2b9.jpg",
+    "place_id": "ChIJOZxLnfaLGGAReH4nuPD0asw",
+    "g_name": "焼肉ホルモン金樹",
+    "g_rating": 4.5,
+    "g_reviews": 180,
+    "g_address": "日本、〒107-0052 東京都港区赤坂２丁目１３−１７",
+    "lat": 35.6723858,
+    "lng": 139.7384267
+  },
+  {
+    "category_jp": "焼肉",
+    "category_en": "Yakiniku",
+    "region": "TOKYO",
+    "name": "サトブリDA",
+    "name_en": "Satoburi DA",
+    "area": "東京都 阿佐ケ谷駅",
+    "url": "https://tabelog.com/tokyo/A1319/A131905/13216529/",
+    "rating": 3.74,
+    "review_count_tabelog": 160,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakiniku (BBQ Beef)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:30 - 21:00",
+        "dtl_text": "18:30 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 45,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJC4Wo0HXyGGARNJVFp8o7Ep0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yakiniku_tokyo/13216529-3c2f215d4157f4e17db5f7591f68bbaf6a3b6456a6a96f2282e6f296517cc2c1.jpg",
+    "place_id": "ChIJC4Wo0HXyGGARNJVFp8o7Ep0",
+    "g_name": "サトブリDA",
+    "g_rating": 4.4,
+    "g_reviews": 45,
+    "g_address": "日本、〒166-0004 東京都杉並区阿佐谷南３丁目５７−１",
+    "lat": 35.7047374,
+    "lng": 139.6346158
+  }
+]

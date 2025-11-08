@@ -1,0 +1,4260 @@
+[
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮨 さいとう",
+    "name_en": "Sushi Saitou",
+    "area": "東京都 六本木一丁目駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130802/13015251/",
+    "rating": 4.59,
+    "review_count_tabelog": 1295,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "￥50,000～￥59,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 14:00 18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.8,
+    "google_reviews": 91,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJXdwUoFqLGGARCq3nxBYbrHU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13015251-782e32b130fb7a29073d521bc40325bcd70f206193ede236843eaf13ea0fac4a.jpg",
+    "place_id": "ChIJXdwUoFqLGGARCq3nxBYbrHU",
+    "g_name": "永田町・鮨かねさか",
+    "g_rating": 4.8,
+    "g_reviews": 91,
+    "g_address": "日本、〒100-0014 東京都千代田区永田町２丁目７−９ 鮨・かねさか",
+    "lat": 35.67478200000001,
+    "lng": 139.7416425
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮨しゅんじ",
+    "name_en": "Sushi Shunji",
+    "area": "東京都 麻布十番駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13282687/",
+    "rating": 4.37,
+    "review_count_tabelog": 182,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (mainly on Sundays and Wednesdays)"
+    },
+    "google_rating": 4.8,
+    "google_reviews": 91,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ7vkUDaLGGAR6qq4tuxpeYQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13282687-adfb59301fa05f03f479a5da507b42cd785179aba99254fbb30a54ce09d24d4a.jpg",
+    "place_id": "ChIJQ7vkUDaLGGAR6qq4tuxpeYQ",
+    "g_name": "鮨しゅんじ",
+    "g_rating": 4.8,
+    "g_reviews": 91,
+    "g_address": "日本、〒106-0046 東京都港区元麻布３丁目６−３４ カーム元麻布 1F",
+    "lat": 35.6570808,
+    "lng": 139.7287469
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮨 波やし",
+    "name_en": "Sushi Hayashi",
+    "area": "東京都 高円寺駅",
+    "url": "https://tabelog.com/tokyo/A1319/A131904/13238504/",
+    "rating": 3.75,
+    "review_count_tabelog": 128,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [],
+    "hours_notes_structured": null,
+    "google_rating": 4.7,
+    "google_reviews": 105,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJS5gwJXzyGGARR1cYYYsL1rM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13238504-025d082621ad9f3dc9788b8a2dc7da4437dcd9dad18d5dc1ec4ee9995f061274.jpg",
+    "place_id": "ChIJS5gwJXzyGGARR1cYYYsL1rM",
+    "g_name": "鮨 波やし",
+    "g_rating": 4.7,
+    "g_reviews": 105,
+    "g_address": "日本、〒166-0002 東京都杉並区高円寺北２丁目７−１１",
+    "lat": 35.7066946,
+    "lng": 139.6501851
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "あら輝",
+    "name_en": "Ara Ki",
+    "area": "東京都 赤坂駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130801/13296725/",
+    "rating": 4.22,
+    "review_count_tabelog": 73,
+    "price_dinner": "￥60,000～￥79,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays, Mondays, public holidays, and other irregular days"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 12,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJx0USCwCLGGARI9zM2LLkNfY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13296725-25b96401d44a657e38a2b59d826dd5d3f45995dcf11625a4b22cd47bd410a67d.jpg",
+    "place_id": "ChIJx0USCwCLGGARI9zM2LLkNfY",
+    "g_name": "あら輝",
+    "g_rating": 4.6,
+    "g_reviews": 12,
+    "g_address": "日本、〒107-0052 東京都港区赤坂６丁目３−１６ 赤坂ストリートビルディング 2f",
+    "lat": 35.6710908,
+    "lng": 139.7354283
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮨 あらい",
+    "name_en": "Sushi Arai",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13188186/",
+    "rating": 4.58,
+    "review_count_tabelog": 947,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "￥50,000～￥59,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:00 18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.6,
+    "google_reviews": 309,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJOTwf1ueLGGAR8t0EkQWReM0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13188186-15302c4cc8f486bc45eb7aabd1d0fbfa104c6ec274b3dba55f7d33fff05bad09.jpg",
+    "place_id": "ChIJOTwf1ueLGGAR8t0EkQWReM0",
+    "g_name": "鮨 あらい",
+    "g_rating": 4.6,
+    "g_reviews": 309,
+    "g_address": "日本、〒104-0061 東京都中央区銀座８丁目１０−２ ルアンビル 地下1F",
+    "lat": 35.6680138,
+    "lng": 139.762756
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "すきやばし 次郎 六本木ヒルズ店",
+    "name_en": "Sukiyabashi Jiro Roppongi Hiruzu Ten",
+    "area": "東京都 六本木駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13004426/",
+    "rating": 3.73,
+    "review_count_tabelog": 195,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00 17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 404,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8YRM9HaLGGAREUm4zmzF3R4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13004426-61daab1b5d1546f3580ebb4941635254dacfefcbcdd4163086e288dd550d9b99.jpg",
+    "place_id": "ChIJ8YRM9HaLGGAREUm4zmzF3R4",
+    "g_name": "すきやばし次郎 六本木ヒルズ店",
+    "g_rating": 4,
+    "g_reviews": 404,
+    "g_address": "日本、〒106-0032 東京都港区六本木６丁目１２−２ 六本木けやき坂通り 3F",
+    "lat": 35.6586978,
+    "lng": 139.7291446
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "佐たけ",
+    "name_en": "Satake",
+    "area": "東京都 築地市場駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130103/13258466/",
+    "rating": 3.85,
+    "review_count_tabelog": 443,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Sushi, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:30 - 22:30",
+        "dtl_text": "17:30 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 176,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJNbo5cN2LGGARdZMjZtg1XPk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13258466-0b397f4f0c780879693393e551845b18a7ad8c7500e3255666a5956d24e5a888.jpg",
+    "place_id": "ChIJNbo5cN2LGGARdZMjZtg1XPk",
+    "g_name": "佐たけ",
+    "g_rating": 4.3,
+    "g_reviews": 176,
+    "g_address": "日本、〒104-0061 東京都中央区銀座８丁目１４−９ DUPLEX銀座タワ 8/14・1F",
+    "lat": 35.6664415,
+    "lng": 139.7639102
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "新橋鶴八",
+    "name_en": "Shimbashi Tsuruhachi",
+    "area": "東京都 新橋駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130103/13173432/",
+    "rating": 3.83,
+    "review_count_tabelog": 302,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu",
+        "dtl": "17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Fri, Sat",
+        "dtl": "11:30 - 13:00 17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.6,
+    "google_reviews": 95,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ44O4KuqLGGARNdrrpSlQtNI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13173432-94b2220a5bc35fbf42f3ee3c87448d1b9fbda413ef52be36855c33d7a89ac8ea.jpg",
+    "place_id": "ChIJ44O4KuqLGGARNdrrpSlQtNI",
+    "g_name": "鶴八",
+    "g_rating": 4.6,
+    "g_reviews": 95,
+    "g_address": "日本、〒105-0004 東京都港区新橋２丁目１６−１ ニュー新橋ビル 204",
+    "lat": 35.6662818,
+    "lng": 139.7573815
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮨 はしもと",
+    "name_en": "Sushi Hashimoto",
+    "area": "東京都 新富町駅",
+    "url": "https://tabelog.com/tokyo/A1313/A131301/13238306/",
+    "rating": 4.38,
+    "review_count_tabelog": 612,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥30,000～￥39,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:00 17:00 - 19:30 19:45 - 22:00",
+        "dtl_text": "19:45 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 187,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJdYcitl-JGGARRN6dClrsF9w",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13238306-44346c9a48e6f517174e716717273b5690b7c9889d6821050baa4e65660a1766.jpg",
+    "place_id": "ChIJdYcitl-JGGARRN6dClrsF9w",
+    "g_name": "鮨 はしもと",
+    "g_rating": 4.6,
+    "g_reviews": 187,
+    "g_address": "日本、〒104-0041 東京都中央区新富１丁目８−２ Grandir Ginza East, 1F",
+    "lat": 35.6729933,
+    "lng": 139.7744974
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "江戸前鮓 すし通",
+    "name_en": "Edomae Sushi Sushi Tsuu",
+    "area": "東京都 六本木駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13061640/",
+    "rating": 3.74,
+    "review_count_tabelog": 651,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Sushi, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat",
+        "dtl": "11:30 - 12:00 18:00 - 20:30",
+        "dtl_text": "18:00 - 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "18:00 - 20:30",
+        "dtl_text": "18:00 - 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 299,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJlbf3s3CLGGARd1vXTTejUIg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13061640-95be5836e5c439e3c7818db5efbb5a68ec29de3689e202ff8dda60cec8f1957c.jpg",
+    "place_id": "ChIJlbf3s3CLGGARd1vXTTejUIg",
+    "g_name": "すし通",
+    "g_rating": 4.5,
+    "g_reviews": 299,
+    "g_address": "日本、〒106-0031 東京都港区西麻布３丁目１−１５ Rfビル B1F",
+    "lat": 35.6601051,
+    "lng": 139.7265118
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮨 佐がわ",
+    "name_en": "Sushi Sagawa",
+    "area": "東京都 六本木駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13252500/",
+    "rating": 3.83,
+    "review_count_tabelog": 103,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 23:00 L.O. 21:00",
+        "dtl_text": "18:00 - 23:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 25,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJlY_0GD2LGGARoMlkHgDlD8c",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13252500-34925268acc9ae721ee3cdcd56382281a6d03225f8018367b4ea0783a9b5f4cf.jpg",
+    "place_id": "ChIJlY_0GD2LGGARoMlkHgDlD8c",
+    "g_name": "鮨佐がわ",
+    "g_rating": 4.4,
+    "g_reviews": 25,
+    "g_address": "日本、〒106-0032 東京都港区六本木４丁目２−３５ Vort六本木Dual's",
+    "lat": 35.6647207,
+    "lng": 139.7335553
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "すし処 宮葉",
+    "name_en": "Sushi Dokoro Miyaba",
+    "area": "東京都 浜松町駅",
+    "url": "https://tabelog.com/tokyo/A1314/A131401/13019499/",
+    "rating": 3.69,
+    "review_count_tabelog": 561,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 14:45 L.O. Food 14:00 Drinks 14:15 18:00 - 21:30 L.O. 21:00",
+        "dtl_text": "18:00 - 21:30 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open on Mondays and Thursdays if they fall on a public holiday. We will take one weekday off in exchange. Please check the reservation calendar for details."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 157,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJS6iWkMiLGGARXwRXTVeVod8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13019499-8edcb2cfe1c6fc15c11151a151dbdd715e21be2fa1e0b951bede4d6869eb37a5.jpg",
+    "place_id": "ChIJS6iWkMiLGGARXwRXTVeVod8",
+    "g_name": "すし処 宮葉 江戸前寿司 浜松町",
+    "g_rating": 4.2,
+    "g_reviews": 157,
+    "g_address": "日本、〒105-0013 東京都港区浜松町２丁目１１−８",
+    "lat": 35.6536263,
+    "lng": 139.7558956
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮨 きのした",
+    "name_en": "Sushi Kinoshita",
+    "area": "東京都 六本木駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13219373/",
+    "rating": 3.75,
+    "review_count_tabelog": 88,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi, Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.8,
+    "google_reviews": 90,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJxZ77-WuLGGARYFFF7T-GQ3Y",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13219373-34bd8c3a17ec4abffceb95b7f3118b2eb23c150365d6da68901afec316f53d73.jpg",
+    "place_id": "ChIJxZ77-WuLGGARYFFF7T-GQ3Y",
+    "g_name": "鮨 きのした",
+    "g_rating": 4.8,
+    "g_reviews": 90,
+    "g_address": "日本、〒106-0031 東京都港区西麻布１丁目４−４６ カーサスプレンディッド西麻布 203",
+    "lat": 35.66224130000001,
+    "lng": 139.7261887
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "くろ﨑",
+    "name_en": "Kurosaki",
+    "area": "東京都 表参道駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130602/13268824/",
+    "rating": 4.34,
+    "review_count_tabelog": 282,
+    "price_dinner": "￥60,000～￥79,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon - Sat": {}
+      },
+      "closed_on": "Sundays and public holidays"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 93,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZeKfy5qLGGARQQalEwKOSqs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13268824-6c5b93e68fe51b92c2c55bc9582cf19006d2d65738950ed8b4f0f8c7d65e589d.jpg",
+    "place_id": "ChIJZeKfy5qLGGARQQalEwKOSqs",
+    "g_name": "くろ﨑",
+    "g_rating": 4.6,
+    "g_reviews": 93,
+    "g_address": "日本、〒107-0062 東京都港区南青山４丁目１６−１５ FPG links MINAMIAOYAMA B2F",
+    "lat": 35.6660024,
+    "lng": 139.7167683
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "銀座いち分",
+    "name_en": "Ginza Ichibun",
+    "area": "東京都 新富町駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13209942/",
+    "rating": 3.76,
+    "review_count_tabelog": 100,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Reservations are not accepted via phone or social media. Thank you for your understanding."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 75,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJNTwWB-GLGGARht5-wYPAmkI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13209942-440b7683d62f73be98c0477791e40e695c44541640730f96e3805974e56a0892.jpg",
+    "place_id": "ChIJNTwWB-GLGGARht5-wYPAmkI",
+    "g_name": "いち分",
+    "g_rating": 4.5,
+    "g_reviews": 75,
+    "g_address": "日本、〒104-0061 東京都中央区銀座２丁目１３−１９ 銀座アルカビル 一階",
+    "lat": 35.6719824,
+    "lng": 139.7701477
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "島津",
+    "name_en": "Shimazu",
+    "area": "東京都 白金高輪駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131602/13252991/",
+    "rating": 4.52,
+    "review_count_tabelog": 507,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 19:15 19:30 - 21:45",
+        "dtl_text": "19:30 - 21:45"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Tue - Sat": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": 4.7,
+    "google_reviews": 103,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJfew4vRKLGGARz1qYe_Mw-Gc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13252991-247458157e87da0fbc696fb50c77b8905f3b9907deca9369f103b7901304a683.jpg",
+    "place_id": "ChIJfew4vRKLGGARz1qYe_Mw-Gc",
+    "g_name": "島津",
+    "g_rating": 4.7,
+    "g_reviews": 103,
+    "g_address": "日本、〒108-0072 東京都港区白金１丁目２９−１３",
+    "lat": 35.6431673,
+    "lng": 139.7336399
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮨 竜介",
+    "name_en": "Sushi Ryusuke",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13185503/",
+    "rating": 3.84,
+    "review_count_tabelog": 276,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:30 - 22:30",
+        "dtl_text": "17:30 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 134,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQCsKe-LGGAR4eHhY7iHdtc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13185503-5c0cdebd7ecf559782dfa294bba9af32016bc9d578584bffe39bd5631472c4a9.jpg",
+    "place_id": "ChIJAQCsKe-LGGAR4eHhY7iHdtc",
+    "g_name": "鮨 竜介",
+    "g_rating": 4.2,
+    "g_reviews": 134,
+    "g_address": "日本、〒104-0061 東京都中央区銀座７丁目３−１３ 銀座 第四 金井 ビル B1",
+    "lat": 35.6702998,
+    "lng": 139.7602226
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮨 由う",
+    "name_en": "Sushi Yuu",
+    "area": "東京都 銀座一丁目駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13291436/",
+    "rating": 4.06,
+    "review_count_tabelog": 281,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥30,000～￥39,999",
+    "sub_categories": "Sushi, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon, Thu, Fri": {},
+        "Sat, Sun & Public Holidays": {}
+      },
+      "closed_on": "Closed approximately 8 times a month, mainly on Tuesdays and Wednesdays (Please note that additional closures may occur.)"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 326,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7TODm4KLGGARm0boxW3WHs0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13291436-9856f442f19144bcafd515bb6ad18f524acf102f63d17bdcc7648bb123b3c267.jpg",
+    "place_id": "ChIJ7TODm4KLGGARm0boxW3WHs0",
+    "g_name": "鮨 由う",
+    "g_rating": 4.4,
+    "g_reviews": 326,
+    "g_address": "日本、〒104-0061 東京都中央区銀座１丁目１４−６ Ginza Louis, 8F",
+    "lat": 35.6730323,
+    "lng": 139.7698415
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮨 みずかみ",
+    "name_en": "Sushi Mizukami",
+    "area": "東京都 半蔵門駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130803/13220742/",
+    "rating": 4.25,
+    "review_count_tabelog": 294,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:00 17:30 - 19:20 19:30 - 21:30",
+        "dtl_text": "19:30 - 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.8,
+    "google_reviews": 175,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQB8l2-MGGARdmIv3bkhGyg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13220742-7330844d45bb7031ca273c791dea090cfe5ff28d302c50fc4a8c5509cc84f74e.jpg",
+    "place_id": "ChIJAQB8l2-MGGARdmIv3bkhGyg",
+    "g_name": "鮨 みずかみ",
+    "g_rating": 4.8,
+    "g_reviews": 175,
+    "g_address": "日本、〒102-0082 東京都千代田区一番町３−８",
+    "lat": 35.6877349,
+    "lng": 139.7433084
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮨 心白",
+    "name_en": "Sushi Shinpaku",
+    "area": "東京都 恵比寿駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130302/13239713/",
+    "rating": 3.99,
+    "review_count_tabelog": 225,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 121,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJp4WjBw6LGGARvFDGTfc7D2o",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13239713-3b83c7ac4f4af2ce0f395eb976d6350efda1e37fd14aa0febc86192402591f31.jpg",
+    "place_id": "ChIJp4WjBw6LGGARvFDGTfc7D2o",
+    "g_name": "心白",
+    "g_rating": 4.3,
+    "g_reviews": 121,
+    "g_address": "日本、〒150-0013 東京都渋谷区恵比寿４丁目２２−４",
+    "lat": 35.6449654,
+    "lng": 139.7145423
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮨 めい乃",
+    "name_en": "Sushi Meino",
+    "area": "東京都 麻布十番駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130702/13292357/",
+    "rating": 4.39,
+    "review_count_tabelog": 115,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays and Wednesdays"
+    },
+    "google_rating": 4.7,
+    "google_reviews": 27,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJB22EXQCLGGARnhla2c8JXmo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13292357-37a45d0ed1b1f7357493734eabcfbb26eacad4a3d542c8b9e9c7d81d8ecc3a68.jpg",
+    "place_id": "ChIJB22EXQCLGGARnhla2c8JXmo",
+    "g_name": "鮨 めい乃",
+    "g_rating": 4.7,
+    "g_reviews": 27,
+    "g_address": "日本、〒106-0045 東京都港区麻布十番１丁目６−１ The V-City 麻布十番 Place 6F",
+    "lat": 35.6567015,
+    "lng": 139.7343923
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "はっこく",
+    "name_en": "Hakkoku",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13217157/",
+    "rating": 3.87,
+    "review_count_tabelog": 730,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:30 - 22:30",
+        "dtl_text": "17:30 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "12:00 - 13:30 17:30 - 22:30",
+        "dtl_text": "17:30 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "*Reservations are accepted up to two months in advance."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 380,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJPYBAAuaLGGARTwNCf6ag05s",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13217157-e96add76b78e965d315102751f19676a49ee241c4f5bfe8862b25ba9a448c3b5.jpg",
+    "place_id": "ChIJPYBAAuaLGGARTwNCf6ag05s",
+    "g_name": "はっこく",
+    "g_rating": 4.3,
+    "g_reviews": 380,
+    "g_address": "日本、〒104-0061 東京都中央区銀座６丁目７−６ ラペビル ３F",
+    "lat": 35.6704471,
+    "lng": 139.7627103
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "すし匠",
+    "name_en": "Sushi Sho Yotsuya",
+    "area": "東京都 四ツ谷駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130902/13000852/",
+    "rating": 4.43,
+    "review_count_tabelog": 1096,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "￥50,000～￥59,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Fri",
+        "dtl": "11:30 - 13:30 18:00 - 22:30",
+        "dtl_text": "18:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Thu, Sat",
+        "dtl": "18:00 - 22:30",
+        "dtl_text": "18:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays that fall on public holidays, Golden Week, and Year-end & New Year Holidays."
+    },
+    "google_rating": 4.6,
+    "google_reviews": 422,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJSyag6ouMGGARSwIX8ayCNCM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13000852-cd37d64cd64746b0596780cbe151280c0225493bc56b915f3b9ca6828f2ecc69.jpg",
+    "place_id": "ChIJSyag6ouMGGARSwIX8ayCNCM",
+    "g_name": "すし匠",
+    "g_rating": 4.6,
+    "g_reviews": 422,
+    "g_address": "日本、〒160-0004 東京都新宿区四谷１丁目１１ 陽臨堂ビル 1F",
+    "lat": 35.6855805,
+    "lng": 139.7283196
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "木挽町 とも樹",
+    "name_en": "Kobikicho Tomoki",
+    "area": "東京都 東銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13040702/",
+    "rating": 4.02,
+    "review_count_tabelog": 117,
+    "price_dinner": "￥60,000～￥79,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat",
+        "dtl": "17:30 - 22:00",
+        "dtl_text": "17:30 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.8,
+    "google_reviews": 58,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ75l6zuCLGGARkANKkCTLcqk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13040702-d2738f0ad2fdb2811be7704c231d694ce3fee75f7afc3546cd1ad30d3f121edb.jpg",
+    "place_id": "ChIJ75l6zuCLGGARkANKkCTLcqk",
+    "g_name": "木挽町 とも樹",
+    "g_rating": 4.8,
+    "g_reviews": 58,
+    "g_address": "日本、〒104-0061 東京都中央区銀座４丁目１２−２",
+    "lat": 35.670082,
+    "lng": 139.7680946
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮨処 やまと",
+    "name_en": "Sushi Dokoro Yamato",
+    "area": "東京都 築地駅",
+    "url": "https://tabelog.com/tokyo/A1313/A131301/13262384/",
+    "rating": 4.28,
+    "review_count_tabelog": 517,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥30,000～￥39,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 14:00 17:00 - 19:00 19:30 - 21:30",
+        "dtl_text": "19:30 - 21:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 72,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJA2o2h7SJGGARzFxrbMmS634",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13262384-1822e5c82e2022d63882c733fe41b792c0e734f911323667c3a87a94b690def1.jpg",
+    "place_id": "ChIJA2o2h7SJGGARzFxrbMmS634",
+    "g_name": "鮨処やまと",
+    "g_rating": 4.1,
+    "g_reviews": 72,
+    "g_address": "日本、〒104-0045 東京都中央区築地３丁目７−２ 第5銀座ウェスト 築地ビル 1F",
+    "lat": 35.6679171,
+    "lng": 139.77375
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "すし 良月",
+    "name_en": "Sushi Akira",
+    "area": "東京都 広尾駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130302/13241432/",
+    "rating": 4.45,
+    "review_count_tabelog": 355,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "￥40,000～￥49,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 23:00",
+        "dtl_text": "12:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.9,
+    "google_reviews": 136,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJSxuqYoOLGGARaSLxOH1Q9XM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13241432-a736d9e8231e17c9431d1ba9c8eb2fd2d7baa31f19c1df3b75f5c84b79714e2f.jpg",
+    "place_id": "ChIJSxuqYoOLGGARaSLxOH1Q9XM",
+    "g_name": "すし良月",
+    "g_rating": 4.9,
+    "g_reviews": 136,
+    "g_address": "日本、〒150-0013 東京都渋谷区恵比寿２丁目３７−８ グランデュオ広尾 1F",
+    "lat": 35.6452923,
+    "lng": 139.7221851
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "小笹寿し",
+    "name_en": "Kozasa Sushi",
+    "area": "東京都 下北沢駅",
+    "url": "https://tabelog.com/tokyo/A1318/A131802/13001397/",
+    "rating": 3.77,
+    "review_count_tabelog": 137,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 60,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJbbBtg2jzGGAR13cGyfVAoEI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13001397-23a07f4cb37a924f4273fdd7c7a6a47609d2b1b3bcb6122e61899dbb4aa57c4d.jpg",
+    "place_id": "ChIJbbBtg2jzGGAR13cGyfVAoEI",
+    "g_name": "小笹寿し",
+    "g_rating": 4.5,
+    "g_reviews": 60,
+    "g_address": "日本、〒155-0032 東京都世田谷区代沢３丁目７−１０",
+    "lat": 35.6557355,
+    "lng": 139.6684488
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "きよ田",
+    "name_en": "Kiyota",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13070238/",
+    "rating": 4.02,
+    "review_count_tabelog": 303,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "￥30,000～￥39,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 14:00 L.O. 13:45 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 139,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9Q3jFu-LGGARFrGClhWpsvY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13070238-ad41a5a73a5c2b79d11854f0d253f837e9a3fe86a897a45be5a52b0ba85be2ef.jpg",
+    "place_id": "ChIJ9Q3jFu-LGGARFrGClhWpsvY",
+    "g_name": "きよ田",
+    "g_rating": 4.2,
+    "g_reviews": 139,
+    "g_address": "日本、〒104-0061 東京都中央区銀座６丁目３−１５ 長谷第2ビル",
+    "lat": 35.671461,
+    "lng": 139.760954
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮨 龍次郎",
+    "name_en": "Sushi Ryujiro",
+    "area": "東京都 外苑前駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130603/13240787/",
+    "rating": 4.39,
+    "review_count_tabelog": 846,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "18:00 - 23:30",
+        "dtl_text": "18:00 - 23:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 14:00 18:00 - 23:30",
+        "dtl_text": "18:00 - 23:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 248,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJwaYqX1CNGGARY7CAGDEQOIE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13240787-6da5c3a20d4487e9c1af581592c3e1e0dbde4e14f0213578fe14e19c25e4ccfc.jpg",
+    "place_id": "ChIJwaYqX1CNGGARY7CAGDEQOIE",
+    "g_name": "鮨 龍次郎",
+    "g_rating": 4.5,
+    "g_reviews": 248,
+    "g_address": "日本、〒107-0062 東京都港区南青山２丁目１１−１１ ARISTO南青山 １階",
+    "lat": 35.6713081,
+    "lng": 139.721046
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮨 はしぐち",
+    "name_en": "Sushi Hashiguchi",
+    "area": "東京都 赤坂見附駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130801/13134517/",
+    "rating": 4.09,
+    "review_count_tabelog": 255,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.6,
+    "google_reviews": 90,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJI_uH1XyMGGARZpsJq2CpCaY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13134517-09a348daee3610c583a0dc42caf03bdcaca099e529734b6ef3fde2debef48832.jpg",
+    "place_id": "ChIJI_uH1XyMGGARZpsJq2CpCaY",
+    "g_name": "鮨 はしぐち",
+    "g_rating": 4.6,
+    "g_reviews": 90,
+    "g_address": "日本、〒107-0051 東京都港区元赤坂１丁目５−２０",
+    "lat": 35.6776162,
+    "lng": 139.7323052
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮨 まつうら",
+    "name_en": "Sushi Matsuura",
+    "area": "東京都 白金高輪駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131602/13239788/",
+    "rating": 4.21,
+    "review_count_tabelog": 267,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥30,000～￥39,999",
+    "sub_categories": "Sushi, Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:00 - 22:30",
+        "dtl_text": "17:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "12:00 - 14:00 17:00 - 22:30",
+        "dtl_text": "17:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every other Monday."
+    },
+    "google_rating": 4.8,
+    "google_reviews": 85,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJyfbUCk-LGGARtkHwR4hgy-Y",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13239788-d142bf4a31d2e3c650b317315913a80784f13bb8aa42f58f2b47dee76163cac0.jpg",
+    "place_id": "ChIJyfbUCk-LGGARtkHwR4hgy-Y",
+    "g_name": "鮨 まつうら",
+    "g_rating": 4.8,
+    "g_reviews": 85,
+    "g_address": "日本、〒108-0072 東京都港区白金５丁目７−８ ウイング綱島 1階",
+    "lat": 35.6444765,
+    "lng": 139.7277187
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "匠 進吾",
+    "name_en": "Takumi Shingo",
+    "area": "東京都 青山一丁目駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130603/13155925/",
+    "rating": 4.18,
+    "review_count_tabelog": 319,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 22:30",
+        "dtl_text": "17:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.7,
+    "google_reviews": 121,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQd66A4OMGGARauZFen8Hfgo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13155925-d2ff065f1be0ec18f3608fe2747cb525c3bc220d90907add45ec04946af96d5a.jpg",
+    "place_id": "ChIJQd66A4OMGGARauZFen8Hfgo",
+    "g_name": "匠進吾",
+    "g_rating": 4.7,
+    "g_reviews": 121,
+    "g_address": "日本、〒107-0062 東京都港区南青山２丁目２−１５",
+    "lat": 35.6713461,
+    "lng": 139.7238781
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮨 浩也",
+    "name_en": "Sushi Hiroya",
+    "area": "東京都 大門駅",
+    "url": "https://tabelog.com/tokyo/A1314/A131401/13247407/",
+    "rating": 3.74,
+    "review_count_tabelog": 479,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Sushi, Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 154,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJk9M9L6KLGGARVHELOwP01T0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13247407-359e70d6490cc0bc16bbb0ad7b71b6f5e1cfebb786de3383a38498d2901a5066.jpg",
+    "place_id": "ChIJk9M9L6KLGGARVHELOwP01T0",
+    "g_name": "鮨 浩也",
+    "g_rating": 4.3,
+    "g_reviews": 154,
+    "g_address": "日本、〒105-0013 東京都港区浜松町１丁目９−２ E-GAMIビル 1F",
+    "lat": 35.6594674,
+    "lng": 139.7561233
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "三谷",
+    "name_en": "Mitani",
+    "area": "東京都 四ツ谷駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130902/13042204/",
+    "rating": 4.5,
+    "review_count_tabelog": 319,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 22:30 L.O. 22:00",
+        "dtl_text": "18:00 - 22:30 L.O. 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 76,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDaYRbIuMGGARTomP6cww9b0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13042204-494398e254eb2282fe3c5c43dcf39f8e2c6737ff6e34a3afae62d4c2e70a0044.jpg",
+    "place_id": "ChIJDaYRbIuMGGARTomP6cww9b0",
+    "g_name": "三谷",
+    "g_rating": 4.4,
+    "g_reviews": 76,
+    "g_address": "日本、〒160-0004 東京都新宿区四谷１丁目２２−１",
+    "lat": 35.6875326,
+    "lng": 139.7278824
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "戸越銀座 鮨 ばんど",
+    "name_en": "Togoshi Ginza Sushi Bando",
+    "area": "東京都 戸越銀座駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131712/13255116/",
+    "rating": 3.74,
+    "review_count_tabelog": 225,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Sushi, Japanese Cuisine, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00 18:00 - 23:00 L.O. 22:00",
+        "dtl_text": "18:00 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 94,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJhw1OaLuLGGAR_UgkCcvqMRY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13255116-06c92a53626815834ec13f20cc5d29c2e02195e1c8ead17eed34e514f31ac89b.jpg",
+    "place_id": "ChIJhw1OaLuLGGAR_UgkCcvqMRY",
+    "g_name": "日本酒 鮨 ばんど 戸越銀座",
+    "g_rating": 4.4,
+    "g_reviews": 94,
+    "g_address": "日本、〒141-0031 東京都品川区西五反田６ 22-11 1F",
+    "lat": 35.6204064,
+    "lng": 139.7159749
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮨 あお",
+    "name_en": "Sushi Ao",
+    "area": "東京都 表参道駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130602/13246982/",
+    "rating": 4.08,
+    "review_count_tabelog": 311,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥30,000～￥39,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Wed, Sat": {},
+        "Fri": {},
+        "Tue, Thu, Fri": {}
+      },
+      "closed_on": "Sundays and Mondays"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 77,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJq5e1mMiNGGARgDzfYFo9KTw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13246982-fec2a2466ef9b251560012101ce4e5e84fe1d5830570ddb8b30727d81094bc9e.jpg",
+    "place_id": "ChIJq5e1mMiNGGARgDzfYFo9KTw",
+    "g_name": "鮨あお",
+    "g_rating": 4.5,
+    "g_reviews": 77,
+    "g_address": "日本、〒107-0061 東京都港区北青山３丁目１０−１３ FPG links OMOTESANDO B 棟2階",
+    "lat": 35.6642362,
+    "lng": 139.7103988
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "きよ田 離れ",
+    "name_en": "Kiyota Hanare",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13256392/",
+    "rating": 4.09,
+    "review_count_tabelog": 43,
+    "price_dinner": "￥100,000～",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [],
+    "hours_notes_structured": null,
+    "google_rating": 4.6,
+    "google_reviews": 24,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJOY3wdXeLGGARlWZ79IOHZ70",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13256392-f1bad70103a67e59b5f390e6606e304d8ba0158e6ee35e383686fe15d95d4aab.jpg",
+    "place_id": "ChIJOY3wdXeLGGARlWZ79IOHZ70",
+    "g_name": "きよ田 離れ",
+    "g_rating": 4.6,
+    "g_reviews": 24,
+    "g_address": "日本、〒104-0061 東京都中央区銀座５丁目５−１８ 藤小西ビル 9F",
+    "lat": 35.6716549,
+    "lng": 139.7636706
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮨 さいとう 麻布台",
+    "name_en": "Sushi Saitou Azabudai",
+    "area": "東京都 神谷町駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13295096/",
+    "rating": 3.95,
+    "review_count_tabelog": 293,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays and public holidays"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 41,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKXvb6tiLGGARV6zHoszUSsw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13295096-f5ad1a06d0fb2b68bc64be1a512ec3538ffaf09dc964f5521b12af2b7eccb749.jpg",
+    "place_id": "ChIJKXvb6tiLGGARV6zHoszUSsw",
+    "g_name": "鮨さいとう 麻布台",
+    "g_rating": 4.1,
+    "g_reviews": 41,
+    "g_address": "日本、〒106-0041 東京都港区麻布台１丁目２−４ ヒルズマーケット",
+    "lat": 35.6621413,
+    "lng": 139.7411754
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "新ばし しみづ",
+    "name_en": "Shimbashi Shimizu",
+    "area": "東京都 新橋駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130103/13002892/",
+    "rating": 4.29,
+    "review_count_tabelog": 724,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 223,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJc7ElyOuLGGARUAng5ghbDr0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13002892-a226f2a17166f1c74c75b0393ee48f8f6a50d5fd64e94e8ead95323f1f97016b.jpg",
+    "place_id": "ChIJc7ElyOuLGGARUAng5ghbDr0",
+    "g_name": "新ばし しみづ",
+    "g_rating": 4.1,
+    "g_reviews": 223,
+    "g_address": "日本、〒105-0004 東京都港区新橋２丁目１５−１０",
+    "lat": 35.6664605,
+    "lng": 139.7563733
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "寿司 健",
+    "name_en": "Sushi Takeru",
+    "area": "東京都 東銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13271362/",
+    "rating": 3.99,
+    "review_count_tabelog": 139,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "￥50,000～￥59,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 23:00",
+        "dtl_text": "12:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 35,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJhcsBp_WLGGARIJwpsZ9sB-M",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13271362-a995a0821e3b1beeef0825737382b245c05bd3c0b65bc1600bc2634ea6a3df14.jpg",
+    "place_id": "ChIJhcsBp_WLGGARIJwpsZ9sB-M",
+    "g_name": "寿司 健",
+    "g_rating": 4.5,
+    "g_reviews": 35,
+    "g_address": "日本、〒104-0061 東京都中央区銀座７丁目１１−６ 銀座磯野ビル 2F",
+    "lat": 35.6682221,
+    "lng": 139.7635704
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "寺子屋 すし匠",
+    "name_en": "Terakoya Sushi Sho",
+    "area": "東京都 神谷町駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130704/13291238/",
+    "rating": 4.1,
+    "review_count_tabelog": 117,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Day before public holiday, Day after public holiday",
+        "dtl": "18:00 - 23:30",
+        "dtl_text": "18:00 - 23:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "17:00 - 22:30",
+        "dtl_text": "17:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Weekdays": {},
+        "Saturday": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": 4.7,
+    "google_reviews": 23,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVegFZaqLGGARBcUwswkkeVI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13291238-fbc61cdb0aaf4086e8a78ad048a22af6e2de29e32ae2a67cb1fa18a51f2ba1e5.jpg",
+    "place_id": "ChIJVegFZaqLGGARBcUwswkkeVI",
+    "g_name": "寺子屋すし匠",
+    "g_rating": 4.7,
+    "g_reviews": 23,
+    "g_address": "日本、〒105-0001 東京都港区虎ノ門５丁目９−１",
+    "lat": 35.6620362,
+    "lng": 139.7429539
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮨 大地",
+    "name_en": "Sushi Oochi",
+    "area": "東京都 広尾駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130703/13150503/",
+    "rating": 3.88,
+    "review_count_tabelog": 110,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.8,
+    "google_reviews": 66,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3zpFRQmLGGARAk2KMSl2HBc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13150503-e1faf25746c9e88b95585fdbd4860579dbd5d74f23b468a3832898ae8ea147de.jpg",
+    "place_id": "ChIJ3zpFRQmLGGARAk2KMSl2HBc",
+    "g_name": "鮨 大地",
+    "g_rating": 4.8,
+    "g_reviews": 66,
+    "g_address": "日本、〒106-0047 東京都港区南麻布４丁目１１−２７",
+    "lat": 35.6470268,
+    "lng": 139.7274819
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮨 さえ喜",
+    "name_en": "Sushi Saeki",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13239506/",
+    "rating": 4.11,
+    "review_count_tabelog": 242,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays and public holidays"
+    },
+    "google_rating": 4.7,
+    "google_reviews": 78,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ73yU4PWLGGARKlv6Jcmtnq4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13239506-fc3c86fc29f8246d6582626f70ef40b677190c9b104d5438ab08a2686c60d3d6.jpg",
+    "place_id": "ChIJ73yU4PWLGGARKlv6Jcmtnq4",
+    "g_name": "さえ㐂",
+    "g_rating": 4.7,
+    "g_reviews": 78,
+    "g_address": "日本、〒104-0061 東京都中央区銀座６丁目３−１８ La・La・Grande GINZA ２Ｆ",
+    "lat": 35.6718414,
+    "lng": 139.7613023
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮨 尚充",
+    "name_en": "Sushi Takamitsu",
+    "area": "東京都 中目黒駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13128483/",
+    "rating": 4.47,
+    "review_count_tabelog": 677,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 00:00",
+        "dtl_text": "18:00 - 00:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 225,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJiYYl6k2LGGARHWfncvk80ME",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13128483-7c59fd65f8235ed7cbc98dec25cd375fe64392296976afa536c98495b4f4d6f8.jpg",
+    "place_id": "ChIJiYYl6k2LGGARHWfncvk80ME",
+    "g_name": "鮨 尚充(たかみつ)",
+    "g_rating": 4.6,
+    "g_reviews": 225,
+    "g_address": "日本、〒153-0042 東京都目黒区青葉台１丁目２８−２",
+    "lat": 35.6474169,
+    "lng": 139.6952086
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "海味",
+    "name_en": "Aoyama sushi Umi",
+    "area": "東京都 外苑前駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130603/13001179/",
+    "rating": 3.86,
+    "review_count_tabelog": 737,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Day after public holiday",
+        "dtl": "17:00 - 19:00 20:00 - 22:00",
+        "dtl_text": "20:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Fri, Sat, Sun, Day before public holiday",
+        "dtl": "12:00 - 14:00 17:00 - 19:00 20:00 - 22:00",
+        "dtl_text": "20:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 338,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJc6ol652MGGARNesDM-iVt5c",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13001179-779084c55725ae4e3cd2dd1e82e381c34e6dfd283b229a625e0fcfe93547462c.jpg",
+    "place_id": "ChIJc6ol652MGGARNesDM-iVt5c",
+    "g_name": "海味",
+    "g_rating": 4.2,
+    "g_reviews": 338,
+    "g_address": "日本、〒107-0062 東京都港区南青山３丁目２−８ 三南ビル 1F",
+    "lat": 35.6676562,
+    "lng": 139.7179121
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "紀文寿司",
+    "name_en": "Kibun Zushi",
+    "area": "東京都 浅草（東武・都営・メトロ）駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131102/13016811/",
+    "rating": 3.68,
+    "review_count_tabelog": 361,
+    "price_dinner": "-",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat",
+        "dtl": "12:00 - 14:00 17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "12:00 - 19:00",
+        "dtl_text": "12:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.6,
+    "google_reviews": 161,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ26qI0sCOGGAR7r9ubhmbyYQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13016811-9eb46e734b4855c3a4668d1ef667fcfa41f5599c9558dc15bc924de63a6cf18b.jpg",
+    "place_id": "ChIJ26qI0sCOGGAR7r9ubhmbyYQ",
+    "g_name": "紀文寿司",
+    "g_rating": 3.6,
+    "g_reviews": 161,
+    "g_address": "日本、〒111-0032 東京都台東区浅草１丁目１７−１０",
+    "lat": 35.7115774,
+    "lng": 139.7954611
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮨 しゅん輔 阿佐ヶ谷",
+    "name_en": "Sushi Shunsuke Asagaya",
+    "area": "東京都 阿佐ケ谷駅",
+    "url": "https://tabelog.com/tokyo/A1319/A131905/13127515/",
+    "rating": 4.28,
+    "review_count_tabelog": 633,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 00:00",
+        "dtl_text": "18:00 - 00:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 198,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJtx8oJ-6LGGARoBA4oYv4j7c",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13127515-5c78e93c27482e8dfec59df66158d4ef3c5ccc292ea932e9522652808b557b10.jpg",
+    "place_id": "ChIJtx8oJ-6LGGARoBA4oYv4j7c",
+    "g_name": "鮨なんば",
+    "g_rating": 4.6,
+    "g_reviews": 198,
+    "g_address": "日本、〒100-0006 東京都千代田区有楽町１丁目１−２ 東京ミッドタウン日比谷 ３階",
+    "lat": 35.6741796,
+    "lng": 139.7593857
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "さき田",
+    "name_en": "Sakita",
+    "area": "東京都 三鷹市",
+    "url": "https://tabelog.com/tokyo/A1320/A132001/13216828/",
+    "rating": 3.8,
+    "review_count_tabelog": 116,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "12:00 - 14:00 19:00 - 21:00",
+        "dtl_text": "19:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays, Tuesdays, Obon, and Year-end & New Year Holidays."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 54,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJLfAJ2TLuGGARpHh9MOnduQo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13216828-dd6b8870b170519ab6d772cf76eb5c7e80e21f7988bead206738c069590ffb5f.jpg",
+    "place_id": "ChIJLfAJ2TLuGGARpHh9MOnduQo",
+    "g_name": "鮨 さき田 三鷹",
+    "g_rating": 4.5,
+    "g_reviews": 54,
+    "g_address": "日本、〒181-0013 東京都三鷹市下連雀１丁目９−１７",
+    "lat": 35.6915501,
+    "lng": 139.5695256
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "千葉たかおか",
+    "name_en": "Chiba Takaoka",
+    "area": "東京都 東京駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130201/13282854/",
+    "rating": 4.31,
+    "review_count_tabelog": 175,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays and not fixed"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 40,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9Rjdx92LGGAR5t5nsicJxhc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13282854-b55ee8f9a6ac0700084e37a1d59770a2e534a42b1753b5643b9ce7c44c45bb7b.jpg",
+    "place_id": "ChIJ9Rjdx92LGGAR5t5nsicJxhc",
+    "g_name": "千葉たかおか",
+    "g_rating": 4.3,
+    "g_reviews": 40,
+    "g_address": "日本、〒104-0028 東京都中央区八重洲２丁目２−１ 東京ミッドタウン八重洲 3階",
+    "lat": 35.6790584,
+    "lng": 139.7689435
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮨 いしやま",
+    "name_en": "Sushi Ishiyama",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13225073/",
+    "rating": 3.84,
+    "review_count_tabelog": 238,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 15:00 17:30 - 22:30",
+        "dtl_text": "17:30 - 22:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.7,
+    "google_reviews": 268,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJje_QwB-LGGAR6YoBHRKUQHk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13225073-b2deae8319ce175e5eeea469cf34673a27233e87cdaa5cbdcd08bd19432b54f1.jpg",
+    "place_id": "ChIJje_QwB-LGGAR6YoBHRKUQHk",
+    "g_name": "鮨 いしやま 銀座",
+    "g_rating": 4.7,
+    "g_reviews": 268,
+    "g_address": "日本、〒104-0061 東京都中央区銀座３丁目３−６ 森田ビル 4F",
+    "lat": 35.6731203,
+    "lng": 139.7655234
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮨 梢",
+    "name_en": "Sushi Kozue",
+    "area": "東京都 高輪台駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131603/13263453/",
+    "rating": 3.75,
+    "review_count_tabelog": 102,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 31,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2UQ2-FWLGGARttDB2BDO1ps",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13263453-c8d5bfe72ba9d8fe8b726cac5857d26c3b495b6e1f986b6ca883c0b332c1aac9.jpg",
+    "place_id": "ChIJ2UQ2-FWLGGARttDB2BDO1ps",
+    "g_name": "鮨 梢",
+    "g_rating": 4.6,
+    "g_reviews": 31,
+    "g_address": "日本、〒108-0074 東京都港区高輪３丁目６−１２ BLAIR HOUSE 1F",
+    "lat": 35.6334201,
+    "lng": 139.7324568
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "佐野鮨",
+    "name_en": "Sano Sushi",
+    "area": "東京都 芝公園駅",
+    "url": "https://tabelog.com/tokyo/A1314/A131401/13290845/",
+    "rating": 4.09,
+    "review_count_tabelog": 198,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 46,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJU-KOB-iLGGAR7QolPPFGq94",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13290845-805b01ec463d57e2ba06ace1290cd44510090c4ffaa39318cf8de7a96f99bd5d.jpg",
+    "place_id": "ChIJU-KOB-iLGGAR7QolPPFGq94",
+    "g_name": "佐野鮨",
+    "g_rating": 4.5,
+    "g_reviews": 46,
+    "g_address": "日本、〒105-0014 東京都港区芝２丁目１８−９",
+    "lat": 35.6515029,
+    "lng": 139.7506908
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮨 西崎",
+    "name_en": "Sushi Nishizaki",
+    "area": "東京都 東北沢駅",
+    "url": "https://tabelog.com/tokyo/A1318/A131811/13270984/",
+    "rating": 4.18,
+    "review_count_tabelog": 228,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "12:00 - 14:00 18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 49,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJdzdbYkrzGGAR6KVe7CvIhvY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13270984-178647a74279438a6218685b8b2fd71b61dd520a7f1a729b9cf5393ec8ed251f.jpg",
+    "place_id": "ChIJdzdbYkrzGGAR6KVe7CvIhvY",
+    "g_name": "鮨西崎",
+    "g_rating": 4.6,
+    "g_reviews": 49,
+    "g_address": "日本、〒155-0031 東京都世田谷区北沢５丁目３−１２ 地下１階",
+    "lat": 35.6689264,
+    "lng": 139.6714886
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "小笹寿し",
+    "name_en": "Kozasa Zushi",
+    "area": "東京都 新橋駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130103/13000569/",
+    "rating": 3.68,
+    "review_count_tabelog": 234,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 14:00 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 61,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJm2qO4-iLGGART5oC0BtYSsU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13000569-1ca4a85806eb549f5be746b4c494eab517eef37f731d1c9618db50bfd1385a0c.jpg",
+    "place_id": "ChIJm2qO4-iLGGART5oC0BtYSsU",
+    "g_name": "小笹寿し",
+    "g_rating": 4.4,
+    "g_reviews": 61,
+    "g_address": "日本、〒104-0061 東京都中央区銀座８丁目６−１８ 銀座カレラ弐番館ビル B2",
+    "lat": 35.6685434,
+    "lng": 139.7604184
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮨 たかはし",
+    "name_en": "Sushi Takahashi",
+    "area": "東京都 銀座一丁目駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13165933/",
+    "rating": 4.04,
+    "review_count_tabelog": 435,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 150,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJM9HrZOGLGGARJLJwBaZjJ6c",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13165933-fb8da5db0a0fcbc3e014c799e788dae489f25bf5696aa41c2d6cf4771b1c1b03.jpg",
+    "place_id": "ChIJM9HrZOGLGGARJLJwBaZjJ6c",
+    "g_name": "鮨 たかはし",
+    "g_rating": 4.4,
+    "g_reviews": 150,
+    "g_address": "日本、〒104-0061 東京都中央区銀座１丁目１４−１４ 銀座吉電ビル 1F",
+    "lat": 35.6732454,
+    "lng": 139.7695688
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "初音鮨",
+    "name_en": "HATSUNEZUSHI",
+    "area": "東京都 蒲田駅",
+    "url": "https://tabelog.com/tokyo/A1315/A131503/13017742/",
+    "rating": 4.23,
+    "review_count_tabelog": 964,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Lunch": {},
+        "Dinner": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 269,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJnV78GENgGGAR_KxpIO0hpgE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13017742-13393713cd2198dbe7b9719767a6f6e1dde93d07f85dac80bf67dc0e49451b34.jpg",
+    "place_id": "ChIJnV78GENgGGAR_KxpIO0hpgE",
+    "g_name": "初音鮨",
+    "g_rating": 4.4,
+    "g_reviews": 269,
+    "g_address": "日本、〒144-0051 東京都大田区西蒲田５丁目２０−２",
+    "lat": 35.565543,
+    "lng": 139.7145459
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "不動前 すし 岩澤",
+    "name_en": "Fudomae Sushi Iwasawa",
+    "area": "東京都 不動前駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131710/13193460/",
+    "rating": 3.72,
+    "review_count_tabelog": 300,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "17:30 - 23:00",
+        "dtl_text": "17:30 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays that fall on public holidays"
+    },
+    "google_rating": 4.7,
+    "google_reviews": 171,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6p_HOSKGGARse6DzQWhndY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13193460-71f110e17fe1f899974dd287065b3fb49304d444298df502ea8f7cfa94de2fea.jpg",
+    "place_id": "ChIJq6p_HOSKGGARse6DzQWhndY",
+    "g_name": "不動前すし岩澤",
+    "g_rating": 4.7,
+    "g_reviews": 171,
+    "g_address": "日本、〒141-0031 東京都品川区西五反田５丁目６ 11NSVビル 1F",
+    "lat": 35.6242134,
+    "lng": 139.717035
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮓 村瀬",
+    "name_en": "Sushi Murase",
+    "area": "東京都 六本木駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13174475/",
+    "rating": 3.73,
+    "review_count_tabelog": 605,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 248,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJoRML43mLGGARW7e59KYcTCk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13174475-dfe03bf9b2cc2f8cf7bf06d80bf7a3f74529546fa10591b7cfd67b83fc29d105.jpg",
+    "place_id": "ChIJoRML43mLGGARW7e59KYcTCk",
+    "g_name": "鮓 村瀬",
+    "g_rating": 4.4,
+    "g_reviews": 248,
+    "g_address": "日本、〒106-0031 東京都港区西麻布１丁目２−３",
+    "lat": 35.6616427,
+    "lng": 139.7277396
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "紀尾井町 三谷 別邸",
+    "name_en": "Kioicho Mitani Bettei",
+    "area": "東京都 永田町駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130801/13262994/",
+    "rating": 3.78,
+    "review_count_tabelog": 180,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "￥40,000～￥49,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Lunch": {},
+        "Dinner": {}
+      },
+      "closed_on": "Wednesdays"
+    },
+    "google_rating": 4.7,
+    "google_reviews": 43,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJp0d73-WNGGARHzGSUxw6YI8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13262994-bfe60acde214f5cf176571fd7724bd6559bcbfb369f2ba1fa6ad6e87b9103707.jpg",
+    "place_id": "ChIJp0d73-WNGGARHzGSUxw6YI8",
+    "g_name": "紀尾井町三谷別邸",
+    "g_rating": 4.7,
+    "g_reviews": 43,
+    "g_address": "日本、〒102-0094 東京都千代田区紀尾井町１−２ 紀尾井テラス 3F",
+    "lat": 35.6792768,
+    "lng": 139.7370299
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "高柿の鮨",
+    "name_en": "Takagaki no Sushi",
+    "area": "東京都 水天宮前駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130204/13231297/",
+    "rating": 3.74,
+    "review_count_tabelog": 230,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu",
+        "dtl": "18:00 - 22:30",
+        "dtl_text": "18:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Fri, Sat",
+        "dtl": "12:00 - 14:00 18:00 - 22:30",
+        "dtl_text": "18:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 105,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJe4to4fqJGGARKIBwi_vp0ps",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13231297-52ded70d69578b9d5f734995bca4550070ab013d3294cc0e236cc13c7c7e827b.jpg",
+    "place_id": "ChIJe4to4fqJGGARKIBwi_vp0ps",
+    "g_name": "高柿の鮨",
+    "g_rating": 4.4,
+    "g_reviews": 105,
+    "g_address": "日本、〒103-0014 東京都中央区日本橋蛎殻町１丁目３０−２",
+    "lat": 35.6827576,
+    "lng": 139.7839878
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮓 ふじなが",
+    "name_en": "Sushi Fujinaga",
+    "area": "東京都 麻布十番駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130702/13265370/",
+    "rating": 4.06,
+    "review_count_tabelog": 221,
+    "price_dinner": "￥60,000～￥79,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 154,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJM6GD1aGLGGARDwdlBjsl_Rg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13265370-7c392eabfb5142f5383685ce9c0a5f5ac64ff5661bcfd71b914f0805c5fbdc8d.jpg",
+    "place_id": "ChIJM6GD1aGLGGARDwdlBjsl_Rg",
+    "g_name": "鮓 ふじなが",
+    "g_rating": 4.5,
+    "g_reviews": 154,
+    "g_address": "日本、〒106-0045 東京都港区麻布十番１丁目５−１８ ４階",
+    "lat": 35.65654420000001,
+    "lng": 139.7337709
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "すし匠 齋藤",
+    "name_en": "Sushisho Saitō",
+    "area": "東京都 赤坂見附駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130801/13023988/",
+    "rating": 4.26,
+    "review_count_tabelog": 478,
+    "price_dinner": "￥60,000～￥79,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:30 - 20:00 20:30 - 23:00",
+        "dtl_text": "20:30 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "17:30 - 20:00 20:30 - 23:30",
+        "dtl_text": "20:30 - 23:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The second and fourth Sundays of each month."
+    },
+    "google_rating": 4.7,
+    "google_reviews": 184,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJv2Dl4X6MGGARsxLhR_MD_GY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13023988-d13c9a666caf819dac020ba83025d686b76a621f7448c2d4b4f669304dadb5a1.jpg",
+    "place_id": "ChIJv2Dl4X6MGGARsxLhR_MD_GY",
+    "g_name": "すし匠齋藤",
+    "g_rating": 4.7,
+    "g_reviews": 184,
+    "g_address": "日本、〒107-0052 東京都港区赤坂４丁目２−２ 赤坂Dnプラザビル ２F",
+    "lat": 35.676087,
+    "lng": 139.7356102
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "銀座 鮨 かねさか 本店",
+    "name_en": "Ginza Sushi Kanesaka Hon Ten",
+    "area": "東京都 新橋駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130103/13005003/",
+    "rating": 3.94,
+    "review_count_tabelog": 538,
+    "price_dinner": "￥60,000～￥79,999",
+    "price_lunch": "￥30,000～￥39,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 14:00 17:30 - 22:00",
+        "dtl_text": "17:30 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 307,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4bf41-eLGGAR-8MK9GqIm7c",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13005003-4e857ca0764f8dd807e910c408cad8066b6b220f789ecbfc69c24037a8f18b4a.jpg",
+    "place_id": "ChIJ4bf41-eLGGAR-8MK9GqIm7c",
+    "g_name": "かねさか",
+    "g_rating": 4,
+    "g_reviews": 307,
+    "g_address": "日本、〒104-0061 東京都中央区 銀座８丁目１０−３ 銀座三鈴ビル B1F",
+    "lat": 35.6679854,
+    "lng": 139.7626302
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮨 まつ本",
+    "name_en": "Sushi Matsumoto",
+    "area": "東京都 新板橋駅",
+    "url": "https://tabelog.com/tokyo/A1322/A132201/13185463/",
+    "rating": 3.74,
+    "review_count_tabelog": 308,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Fri, Sat",
+        "dtl": "17:00 - 19:00 20:00 - 22:00",
+        "dtl_text": "20:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sunday, Monday, Thursday"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 110,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJdWDwVZqSGGARi-51z1-Wt74",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13185463-6670fa511610fc08e1ffd3ca6718848cd3f47031c44fd0bb7b56e94304aaaf25.jpg",
+    "place_id": "ChIJdWDwVZqSGGARi-51z1-Wt74",
+    "g_name": "鮨 まつ本",
+    "g_rating": 4.4,
+    "g_reviews": 110,
+    "g_address": "日本、〒173-0004 東京都板橋区板橋１丁目４９−１４ 宮本 ビル 1F",
+    "lat": 35.747709,
+    "lng": 139.7191961
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "さわ田",
+    "name_en": "Sawada",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13001043/",
+    "rating": 4.52,
+    "review_count_tabelog": 571,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "￥40,000～￥49,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Fri",
+        "dtl": "12:00 - 14:00 18:00 - 20:30",
+        "dtl_text": "18:00 - 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Public Holiday",
+        "dtl": "12:00 - 14:00 17:00 - 19:30",
+        "dtl_text": "17:00 - 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.6,
+    "google_reviews": 187,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJNczX9eaLGGARBhTZazC62nI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13001043-0f62d4d2b102f79f2582fb24075d0a330c8ef294bb6619fff73013292ebed50c.jpg",
+    "place_id": "ChIJNczX9eaLGGARBhTZazC62nI",
+    "g_name": "さわ田",
+    "g_rating": 4.6,
+    "g_reviews": 187,
+    "g_address": "日本、〒104-0061 東京都中央区銀座５丁目９−１９ 銀座ＭＣビル",
+    "lat": 35.6704625,
+    "lng": 139.7652439
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "らんまる",
+    "name_en": "Ranmaru",
+    "area": "東京都 不動前駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131710/13217903/",
+    "rating": 4.1,
+    "review_count_tabelog": 626,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:30 - 20:00 20:30 - 23:00",
+        "dtl_text": "20:30 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 187,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJeekGjCCLGGARfwGBZLPOVug",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13217903-0007d1f97a5b8e5977efd2f2ac056a3a995ac2b91511a3ba5a0f87f4dbe5646f.jpg",
+    "place_id": "ChIJeekGjCCLGGARfwGBZLPOVug",
+    "g_name": "らんまる",
+    "g_rating": 4.5,
+    "g_reviews": 187,
+    "g_address": "日本、〒153-0064 東京都目黒区下目黒３丁目１６−２",
+    "lat": 35.6270574,
+    "lng": 139.7086182
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "波濤",
+    "name_en": "Hato",
+    "area": "東京都 牛込神楽坂駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13245540/",
+    "rating": 4.37,
+    "review_count_tabelog": 324,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "￥50,000～￥59,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Day before public holiday, Day after public holiday",
+        "dtl": "17:00 - 22:30",
+        "dtl_text": "17:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays and public holidays (including early May, mid-August, and year-end & New Year holidays)"
+    },
+    "google_rating": 3.6,
+    "google_reviews": 72,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJddBb3VmMGGARglcUD510m14",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13245540-6047aa046f56b32c7bb584103d32862840bec7da0341dc263070c6314d161703.jpg",
+    "place_id": "ChIJddBb3VmMGGARglcUD510m14",
+    "g_name": "牛込神楽坂駅",
+    "g_rating": 3.6,
+    "g_reviews": 72,
+    "g_address": "日本、〒162-0833 東京都新宿区箪笥町",
+    "lat": 35.7008576,
+    "lng": 139.7358743
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮨 太一",
+    "name_en": "Sushi Taichi",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13060788/",
+    "rating": 3.74,
+    "review_count_tabelog": 485,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 215,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJFYitIsaLGGARoc_a_tYb3U4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13060788-7b077f152b9f1844bfb7635b4bca3cc4a8bef8583ba4b7a2285d9bc3ceb24f4a.jpg",
+    "place_id": "ChIJFYitIsaLGGARoc_a_tYb3U4",
+    "g_name": "鮨 太一",
+    "g_rating": 4.5,
+    "g_reviews": 215,
+    "g_address": "日本、〒104-0061 東京都中央区銀座６丁目４−１３ 浅黄ビル ２階",
+    "lat": 35.6712127,
+    "lng": 139.7613368
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "麻布十番 秦野よしき",
+    "name_en": "Azabu Juban Hatano Yoshiki",
+    "area": "東京都 麻布十番駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130702/13158874/",
+    "rating": 4.03,
+    "review_count_tabelog": 195,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi, Seafood, Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 22:30",
+        "dtl_text": "18:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays that fall on public holidays (however, private reservations are accepted)."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 100,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJLYyEMLuLGGARV2fymy_Xnys",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13158874-e50b9c3f2358adc5ca1df92eeed4e40f8ae7ffabeb8b357316b927320a658de6.jpg",
+    "place_id": "ChIJLYyEMLuLGGARV2fymy_Xnys",
+    "g_name": "麻布十番 鮨 秦野よしき",
+    "g_rating": 4.5,
+    "g_reviews": 100,
+    "g_address": "日本、〒106-0045 東京都港区麻布十番２丁目８−６ ラベイユ麻布十番B2",
+    "lat": 35.6556386,
+    "lng": 139.7347168
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "冨所",
+    "name_en": "Tomidokoro",
+    "area": "東京都 御成門駅",
+    "url": "https://tabelog.com/tokyo/A1314/A131401/13223846/",
+    "rating": 3.94,
+    "review_count_tabelog": 575,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 13:00 17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 183,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJu1fw6AKLGGARzuotiS8vl_g",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13223846-f3775f3e7099cb547ff3e783e39534cc6781c236475e0d95e07b8e8f1c339513.jpg",
+    "place_id": "ChIJu1fw6AKLGGARzuotiS8vl_g",
+    "g_name": "冨所",
+    "g_rating": 4.3,
+    "g_reviews": 183,
+    "g_address": "日本、〒105-0004 東京都港区新橋６丁目１３−３",
+    "lat": 35.6619041,
+    "lng": 139.7540636
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮨 美幸",
+    "name_en": "Sushi Miyuki",
+    "area": "東京都 新富町駅",
+    "url": "https://tabelog.com/tokyo/A1313/A131301/13273113/",
+    "rating": 4.1,
+    "review_count_tabelog": 264,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon, Thu, Fri, Sat, Sun": {}
+      },
+      "closed_on": "Tuesdays and Wednesdays"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 47,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJlfxTf3yJGGARomHFDpYSkW8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13273113-cef16aa9123e4d186100d6d35d5c8594ddfdafca612bd547a261107e6e247f49.jpg",
+    "place_id": "ChIJlfxTf3yJGGARomHFDpYSkW8",
+    "g_name": "鮨 美幸",
+    "g_rating": 4.4,
+    "g_reviews": 47,
+    "g_address": "日本、〒104-0041 東京都中央区新富１丁目１５−１１",
+    "lat": 35.6723777,
+    "lng": 139.7750524
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "紀尾井町 三谷",
+    "name_en": "Kioicho Mitani",
+    "area": "東京都 永田町駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130801/13198197/",
+    "rating": 3.9,
+    "review_count_tabelog": 744,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "￥40,000～￥49,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (following Kioi Terrace schedule)"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 305,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4Z9j7XuMGGARlbN_cRp2lLI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13198197-c72573c58faa617c501236ee92f5be5653348b6ea2df5521ad0c0aef10ac8553.jpg",
+    "place_id": "ChIJ4Z9j7XuMGGARlbN_cRp2lLI",
+    "g_name": "紀尾井町 三谷",
+    "g_rating": 4.5,
+    "g_reviews": 305,
+    "g_address": "日本、〒102-0094 東京都千代田区紀尾井町１−２ 紀尾井テラス 3F",
+    "lat": 35.6792106,
+    "lng": 139.737976
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "東麻布 天本",
+    "name_en": "Higashiazabu Amamoto",
+    "area": "東京都 赤羽橋駅",
+    "url": "https://tabelog.com/tokyo/A1314/A131401/13196420/",
+    "rating": 4.59,
+    "review_count_tabelog": 605,
+    "price_dinner": "￥60,000～￥79,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat",
+        "dtl": "17:00 - 00:00",
+        "dtl_text": "17:00 - 00:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 199,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJOTTDP72LGGAR2prjXeDfT_4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13196420-91cd8ea07c2f4cae334088da4aa5ac3280cbf6e4e1c901a476173ea0dbbabe2f.jpg",
+    "place_id": "ChIJOTTDP72LGGAR2prjXeDfT_4",
+    "g_name": "天本",
+    "g_rating": 4.5,
+    "g_reviews": 199,
+    "g_address": "日本、〒106-0044 東京都港区東麻布１丁目７−９",
+    "lat": 35.6572987,
+    "lng": 139.7434531
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮨 つぼみ",
+    "name_en": "Sushi Tsubomi",
+    "area": "東京都 中目黒駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13221782/",
+    "rating": 4.17,
+    "review_count_tabelog": 521,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Fri, Sat, Sun, Public Holiday",
+        "dtl": "12:00 - 14:00 18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays and Wednesdays (Year-end & New Year Holidays)"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 156,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7StEbk2LGGARC_kam4Cl9c4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13221782-e08ca96ad598e3aefbe1be5caf33ec935f4f273a3255dea8dc76623e56314c31.jpg",
+    "place_id": "ChIJ7StEbk2LGGARC_kam4Cl9c4",
+    "g_name": "鮨 つぼみ",
+    "g_rating": 4.5,
+    "g_reviews": 156,
+    "g_address": "日本、〒153-0043 東京都目黒区東山１丁目２１−２６",
+    "lat": 35.64667439999999,
+    "lng": 139.69298
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "いちかわ",
+    "name_en": "Ichikawa",
+    "area": "東京都 白金高輪駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131602/13210722/",
+    "rating": 4.12,
+    "review_count_tabelog": 274,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 22:30 L.O. 20:30",
+        "dtl_text": "18:00 - 22:30 L.O. 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 64,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJayIWaKaLGGAR2hhZNtQMBtw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13210722-a06a9522775494de4b1957f60dfc58685e49eee9039ce4f8de75b25d6977a21b.jpg",
+    "place_id": "ChIJayIWaKaLGGAR2hhZNtQMBtw",
+    "g_name": "いちかわ",
+    "g_rating": 4.5,
+    "g_reviews": 64,
+    "g_address": "日本、〒106-0047 東京都港区南麻布２丁目１０−１３",
+    "lat": 35.6479721,
+    "lng": 139.7358782
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮨 いまむら",
+    "name_en": "Sushi Imamura",
+    "area": "東京都 白金台駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131602/13247741/",
+    "rating": 3.86,
+    "review_count_tabelog": 118,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Tue - Fri": {},
+        "Sat & Sun": {}
+      },
+      "closed_on": "Mondays"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 128,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJA-wxHk6LGGARHFyTpURFiZs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13247741-458d13c579ba54af92834c3c7b9ddf8204d429b66a145833773a13e272e8f6d7.jpg",
+    "place_id": "ChIJA-wxHk6LGGARHFyTpURFiZs",
+    "g_name": "鮨 いまむら",
+    "g_rating": 4.6,
+    "g_reviews": 128,
+    "g_address": "日本、〒108-0072 東京都港区白金６丁目５−９",
+    "lat": 35.6441929,
+    "lng": 139.7253332
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮨 ます田",
+    "name_en": "Sushi Masuda",
+    "area": "東京都 表参道駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130602/13268503/",
+    "rating": 4.17,
+    "review_count_tabelog": 172,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "￥40,000～￥49,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon - Fri": {},
+        "Sat": {}
+      },
+      "closed_on": "Sundays, public holidays, and other not fixed days"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 215,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8xCXcGCLGGAReoGDRL6vlHg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13268503-0331c6a6bf0d032438001827805e08d287736119e996baeb0ca959563262c9fc.jpg",
+    "place_id": "ChIJ8xCXcGCLGGAReoGDRL6vlHg",
+    "g_name": "鮨 ます田",
+    "g_rating": 4.4,
+    "g_reviews": 215,
+    "g_address": "日本、〒107-0062 東京都港区南青山３丁目１４−２７ IJK南青山れい 1F",
+    "lat": 35.6656035,
+    "lng": 139.7146137
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮨 なんば 日比谷",
+    "name_en": "Sushi Nanba Hibiya",
+    "area": "東京都 日比谷駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130102/13219857/",
+    "rating": 4.51,
+    "review_count_tabelog": 921,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays and Mondays"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 198,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJtx8oJ-6LGGARoBA4oYv4j7c",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13219857-13fc72c7b7ec0e0ccbc688da48c60b24d81c0cdb3458fcb2b56109a1cc5752ad.jpg",
+    "place_id": "ChIJtx8oJ-6LGGARoBA4oYv4j7c",
+    "g_name": "鮨なんば",
+    "g_rating": 4.6,
+    "g_reviews": 198,
+    "g_address": "日本、〒100-0006 東京都千代田区有楽町１丁目１−２ 東京ミッドタウン日比谷 ３階",
+    "lat": 35.6741796,
+    "lng": 139.7593857
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "すきやばし 次郎",
+    "name_en": "Sukiyabashi Jiro",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13002260/",
+    "rating": 3.86,
+    "review_count_tabelog": 424,
+    "price_dinner": "￥60,000～￥79,999",
+    "price_lunch": "￥50,000～￥59,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 14:00 17:00 - 20:30",
+        "dtl_text": "17:00 - 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:30 - 14:00",
+        "dtl_text": "11:30 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mid-August and Year-end & New Year Holidays"
+    },
+    "google_rating": 3.9,
+    "google_reviews": 822,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVby9v-WLGGARZXCGPfhHpA4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13002260-25eeb3ca6a071e98139dc1df9052bbf4c53b2ec8ed03e61eb6b9b79f02c1c0df.jpg",
+    "place_id": "ChIJVby9v-WLGGARZXCGPfhHpA4",
+    "g_name": "東京・銀座 すきやばし次郎",
+    "g_rating": 3.9,
+    "g_reviews": 822,
+    "g_address": "日本、〒104-0061 東京都中央区銀座４丁目２−１５ 塚本総業ビル B1階",
+    "lat": 35.6727404,
+    "lng": 139.7639378
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮨 鈴木",
+    "name_en": "Sushi Suzuki",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13299923/",
+    "rating": 4.2,
+    "review_count_tabelog": 61,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 142,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJeQc5UO-LGGARZ7fSxrsoNMI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13299923-31752d41c5d1dc83275f12f5da9ce5b84ceb29c548b737a5cc0ecd0dadfba00c.jpg",
+    "place_id": "ChIJeQc5UO-LGGARZ7fSxrsoNMI",
+    "g_name": "鮨鈴木",
+    "g_rating": 4.3,
+    "g_reviews": 142,
+    "g_address": "日本、〒104-0061 東京都中央区銀座６丁目５−６ 銀座美術館ビル ５Ｆ",
+    "lat": 35.6709155,
+    "lng": 139.7619658
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "あじゅう田",
+    "name_en": "Ajuuta",
+    "area": "東京都 神泉駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130301/13257494/",
+    "rating": 3.77,
+    "review_count_tabelog": 356,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Sushi, Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 22:30",
+        "dtl_text": "18:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Evening": {}
+      },
+      "closed_on": "Please note that business hours and days off may change, so we recommend confirming with the restaurant before your visit."
+    },
+    "google_rating": 4.8,
+    "google_reviews": 132,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmyWWCQyNGGARdey3b2CuQzI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13257494-179f1ac10d48946be892509efeadeb66b95fa68bb9a55870eaa9df5a142532dc.jpg",
+    "place_id": "ChIJmyWWCQyNGGARdey3b2CuQzI",
+    "g_name": "渋谷 鮨 あじゅう田 江戸前寿司 【Sushi AJUUTA】",
+    "g_rating": 4.8,
+    "g_reviews": 132,
+    "g_address": "日本、〒150-0042 東京都渋谷区宇田川町３７−１５ ARISTO渋谷 B1F",
+    "lat": 35.6625773,
+    "lng": 139.6951523
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "恵比寿 えんどう",
+    "name_en": "Ebisu Endo",
+    "area": "東京都 恵比寿駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130302/13231081/",
+    "rating": 3.95,
+    "review_count_tabelog": 347,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "￥40,000～￥49,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 14:00 17:30 - 19:30 20:30 - 22:30",
+        "dtl_text": "20:30 - 22:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 145,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJv80mB6iLGGARzXnefB5SUr8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13231081-c7d6f2c7499f50c4e65210a1d7ef0c8e34854ce379793155577becc038ed7bf1.jpg",
+    "place_id": "ChIJv80mB6iLGGARzXnefB5SUr8",
+    "g_name": "恵比寿えんどう",
+    "g_rating": 4.4,
+    "g_reviews": 145,
+    "g_address": "日本、〒150-0022 東京都渋谷区恵比寿南１丁目１７−２ Rホール 4F",
+    "lat": 35.6446976,
+    "lng": 139.7105206
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "すし 田いら",
+    "name_en": "Sushi Taira",
+    "area": "東京都 港区",
+    "url": "https://tabelog.com/tokyo/A1307/A130702/13271063/",
+    "rating": 4.03,
+    "review_count_tabelog": 89,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [],
+    "hours_notes_structured": null,
+    "google_rating": 4.6,
+    "google_reviews": 113,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ31GxQhCLGGARnMCCACcB6P4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13271063-544addd23a3a047f0daba69e43fb6ed05d9b4dd683d4360676f116df5e30de8a.jpg",
+    "place_id": "ChIJ31GxQhCLGGARnMCCACcB6P4",
+    "g_name": "鮨 鯛良 白金店",
+    "g_rating": 4.6,
+    "g_reviews": 113,
+    "g_address": "日本、〒141-0021 東京都港区白金台５丁目１１−３ バルビゾン91番館 １階",
+    "lat": 35.6414065,
+    "lng": 139.7193142
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮨 よしたけ",
+    "name_en": "Sushi Yoshitake",
+    "area": "東京都 新橋駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13024076/",
+    "rating": 4.22,
+    "review_count_tabelog": 244,
+    "price_dinner": "￥60,000～￥79,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 242,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJTV9t7uiLGGARbd7caq1Xh4c",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13024076-02cf704620430ade98142a9e48c1b5619166bd21eea35805d8d9a51b6bdb3158.jpg",
+    "place_id": "ChIJTV9t7uiLGGARbd7caq1Xh4c",
+    "g_name": "鮨 よしたけ",
+    "g_rating": 4.4,
+    "g_reviews": 242,
+    "g_address": "日本、〒104-0061 東京都中央区銀座７丁目８−１３ Brown Place９Ｆ",
+    "lat": 35.6689166,
+    "lng": 139.7619714
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "青空",
+    "name_en": "Harutaka",
+    "area": "東京都 新橋駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130103/13032283/",
+    "rating": 4.34,
+    "review_count_tabelog": 436,
+    "price_dinner": "￥80,000～￥99,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 00:00",
+        "dtl_text": "17:00 - 00:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 240,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ04DI3-iLGGARdv1aRxgdFO0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13032283-702cf18e432029e6308fef9fa6dbef52fe402d243dbc7fba52412d902d5d1e7b.jpg",
+    "place_id": "ChIJ04DI3-iLGGARdv1aRxgdFO0",
+    "g_name": "銀座 青空",
+    "g_rating": 4.4,
+    "g_reviews": 240,
+    "g_address": "日本、〒104-0061 東京都中央区銀座８丁目３−１ 6階",
+    "lat": 35.6692281,
+    "lng": 139.7592488
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "日本橋蛎殻町 すぎた",
+    "name_en": "Nihonbashi Kakigaracho Sugita",
+    "area": "東京都 水天宮前駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130204/13018162/",
+    "rating": 4.61,
+    "review_count_tabelog": 929,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "￥40,000～￥49,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Wed & Fri": {},
+        "Thu & Sat": {},
+        "Sun": {}
+      },
+      "closed_on": "Mondays (Not fixed: Tuesdays)"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 316,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQBM40SJGGARE_FACL6szA0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13018162-52be9e3811423527bc01fbf95e8a946fbb4eb92c96f1617b6c36caf19c811bdc.jpg",
+    "place_id": "ChIJAQBM40SJGGARE_FACL6szA0",
+    "g_name": "日本橋 蛎殻町 すぎた",
+    "g_rating": 4.6,
+    "g_reviews": 316,
+    "g_address": "日本、〒103-0014 東京都中央区日本橋蛎殻町１丁目３３−６ ビューハイツ日本橋 地下１階",
+    "lat": 35.6819299,
+    "lng": 139.7849207
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "すし 喜邑",
+    "name_en": "Sushi Kimura",
+    "area": "東京都 二子玉川駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131708/13026584/",
+    "rating": 4.15,
+    "review_count_tabelog": 489,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥30,000～￥39,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 162,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJB0WiWxH0GGARyFyfoyYQi9Q",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13026584-4e3950f07e48bdc2f3c27514a98cadaf91b90e2eeeb28746cd7262652089a6af.jpg",
+    "place_id": "ChIJB0WiWxH0GGARyFyfoyYQi9Q",
+    "g_name": "㐂邑",
+    "g_rating": 4.4,
+    "g_reviews": 162,
+    "g_address": "日本、〒158-0094 東京都世田谷区玉川３丁目２１−８",
+    "lat": 35.6160298,
+    "lng": 139.624356
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮨 一幸",
+    "name_en": "Sushi Ikkou",
+    "area": "東京都 東銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13300481/",
+    "rating": 4.22,
+    "review_count_tabelog": 105,
+    "price_dinner": "￥60,000～￥79,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:30 - 19:30 20:30 - 22:30",
+        "dtl_text": "20:30 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.9,
+    "google_reviews": 29,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmYv0YwCLGGAR2mgRnNnokxY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13300481-588a82e28f8ac92f2512cd195a613de664f8f09b677bf6a4ed84c2fb276e37b3.jpg",
+    "place_id": "ChIJmYv0YwCLGGAR2mgRnNnokxY",
+    "g_name": "鮨一幸",
+    "g_rating": 4.9,
+    "g_reviews": 29,
+    "g_address": "日本、〒104-0061 東京都中央区銀座５丁目１１−１２ 日総第26ビル 3F",
+    "lat": 35.6694982,
+    "lng": 139.7654875
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "うを徳",
+    "name_en": "Uwo Toku",
+    "area": "東京都 東向島駅",
+    "url": "https://tabelog.com/tokyo/A1312/A131203/13017947/",
+    "rating": 3.95,
+    "review_count_tabelog": 367,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "18:00 - 20:00",
+        "dtl_text": "18:00 - 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri",
+        "dtl": "17:30 - 20:00",
+        "dtl_text": "17:30 - 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Public Holiday",
+        "dtl": "17:30 - 19:30",
+        "dtl_text": "17:30 - 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "12:00 - 12:30 18:00 - 19:30",
+        "dtl_text": "18:00 - 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Tuesday": {},
+        "Wednesday - Friday": {},
+        "Saturday": {},
+        "Sunday": {},
+        "Public Holidays": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 102,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJjy2jwSGPGGARKSpHdaQD5bQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13017947-c129b32e03ff48550abd742916a7b943c7f15fef5c17d21f595e98f698dbafc8.jpg",
+    "place_id": "ChIJjy2jwSGPGGARKSpHdaQD5bQ",
+    "g_name": "おすもじ処 うを徳",
+    "g_rating": 4.6,
+    "g_reviews": 102,
+    "g_address": "日本、〒131-0032 東京都墨田区東向島４丁目２４−２６",
+    "lat": 35.7239203,
+    "lng": 139.8174285
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮨竹",
+    "name_en": "Sushi Take",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13169506/",
+    "rating": 3.75,
+    "review_count_tabelog": 274,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00 L.O. 12:30 17:00 - 22:30 L.O. 21:00",
+        "dtl_text": "17:00 - 22:30 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays that fall on public holidays"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 118,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJaZI-u-iLGGAREW5HodVeTUE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13169506-3b41d5718ca5215f9c721a081d57754c55fa0a6393f8322a2c930c5d1617d8ab.jpg",
+    "place_id": "ChIJaZI-u-iLGGAREW5HodVeTUE",
+    "g_name": "鮨竹",
+    "g_rating": 4.6,
+    "g_reviews": 118,
+    "g_address": "日本、〒104-0061 東京都中央区銀座７丁目６−５ 石井紀州屋ビル 4F",
+    "lat": 35.6697761,
+    "lng": 139.7619463
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮨 奥",
+    "name_en": "Sushi Oku",
+    "area": "東京都 浅草（つくばＥＸＰ）駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131102/13257709/",
+    "rating": 3.95,
+    "review_count_tabelog": 119,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 38,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJwbn3eVKPGGARm29oMa6ZjeI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13257709-d8cadca7f24cb78794afdd1d334ff838906dd56adb4cb4074dac9139ef512873.jpg",
+    "place_id": "ChIJwbn3eVKPGGARm29oMa6ZjeI",
+    "g_name": "鮨 奥(おく)",
+    "g_rating": 4.6,
+    "g_reviews": 38,
+    "g_address": "日本、〒111-0032 東京都台東区浅草３丁目４２−１２ 浅草ダイカンプラザ天仁ビル",
+    "lat": 35.7180447,
+    "lng": 139.7931585
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "きざ㐂",
+    "name_en": "Kizaki",
+    "area": "東京都 赤坂見附駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130801/13221218/",
+    "rating": 4.09,
+    "review_count_tabelog": 525,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 14:00 18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "12:00 - 14:00",
+        "dtl_text": "12:00 - 14:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.6,
+    "google_reviews": 218,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJLyxTvV2NGGARN9n-2Oj7Z0I",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13221218-f02090e74ed4375d0fce712a0f86e9d5221d47d5501dded2d1bf88c54d11a903.jpg",
+    "place_id": "ChIJLyxTvV2NGGARN9n-2Oj7Z0I",
+    "g_name": "きざ㐂 Kizaki",
+    "g_rating": 3.6,
+    "g_reviews": 218,
+    "g_address": "日本、〒107-0052 東京都港区赤坂３丁目２１−１０ 赤坂靑明会館 ビル5C",
+    "lat": 35.6763846,
+    "lng": 139.7359121
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮨 在",
+    "name_en": "Sushi Zai",
+    "area": "東京都 広尾駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130703/13233764/",
+    "rating": 4.11,
+    "review_count_tabelog": 447,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Sushi, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:30 - 22:30",
+        "dtl_text": "17:30 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "12:00 - 14:00 17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.6,
+    "google_reviews": 155,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmVoaSWaLGGARBdmfsUPbkts",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13233764-28e6376c920816fd3ed595fc5a5e4914acd977a35924df087a97d7e0da970a91.jpg",
+    "place_id": "ChIJmVoaSWaLGGARBdmfsUPbkts",
+    "g_name": "鮨在",
+    "g_rating": 4.6,
+    "g_reviews": 155,
+    "g_address": "日本、〒150-0012 東京都渋谷区広尾５丁目３−１３ Barbizon86 5F",
+    "lat": 35.6504632,
+    "lng": 139.7210835
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮨 やすみつ",
+    "name_en": "Sushi Yasumitsu",
+    "area": "東京都 四谷三丁目駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130902/13212833/",
+    "rating": 4.08,
+    "review_count_tabelog": 129,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi, Seafood, Crab",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Day before public holiday, Day after public holiday",
+        "dtl": "17:30 - 20:00 L.O. Drinks 19:30 20:30 - 23:00 L.O. Drinks 22:30",
+        "dtl_text": "20:30 - 23:00 L.O. Drinks 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon - Sat, last Sunday of the month": {}
+      },
+      "closed_on": "Sundays and public holidays"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 100,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9T_-V4uMGGARMBnpDfEtEHs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13212833-94b1ead4f8145052bebe065cf94e9ad654851dec68565c335c0eb1cc6dd835d3.jpg",
+    "place_id": "ChIJ9T_-V4uMGGARMBnpDfEtEHs",
+    "g_name": "鮨やすみつ",
+    "g_rating": 4.5,
+    "g_reviews": 100,
+    "g_address": "日本、〒160-0008 東京都新宿区四谷三栄町５−２",
+    "lat": 35.6881147,
+    "lng": 139.7252741
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "すが弥",
+    "name_en": "Sushi Sugaya",
+    "area": "東京都 赤羽橋駅",
+    "url": "https://tabelog.com/tokyo/A1314/A131401/13228776/",
+    "rating": 4.12,
+    "review_count_tabelog": 514,
+    "price_dinner": "￥60,000～￥79,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri, Sat",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon, Tue, Fri, Sat": {},
+        "Sun & Public Holidays": {}
+      },
+      "closed_on": "*Wednesdays, Thursdays, and Not fixed (Please be aware that we may occasionally change our hours or close the restaurant. For details, please contact us when making a reservation.)"
+    },
+    "google_rating": 3.8,
+    "google_reviews": 154,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJy-d6VO6LGGARGj82dfurI_4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13228776-80d6662f68df64ba30b2db3b1892d3dbaa2ec124fc140b4796844f3538333815.jpg",
+    "place_id": "ChIJy-d6VO6LGGARGj82dfurI_4",
+    "g_name": "すが弥",
+    "g_rating": 3.8,
+    "g_reviews": 154,
+    "g_address": "日本、〒106-0044 東京都港区東麻布１丁目２９−１５ 296ビル 1階",
+    "lat": 35.6553562,
+    "lng": 139.7425699
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "すし家 一柳",
+    "name_en": "Sushi Ya Ichiyanagi",
+    "area": "東京都 銀座一丁目駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13156961/",
+    "rating": 3.76,
+    "review_count_tabelog": 426,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥30,000～￥39,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00 17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (subject to reservation status)"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 264,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ66dYuSLGGARRSAZrBC1c6I",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13156961-ba201a38a39d20c82a3baf43c8eda4679eb4f047efce30b4053f7ef7b19c7397.jpg",
+    "place_id": "ChIJQ66dYuSLGGARRSAZrBC1c6I",
+    "g_name": "一柳",
+    "g_rating": 4.2,
+    "g_reviews": 264,
+    "g_address": "日本、〒104-0061 東京都中央区銀座１丁目５−１４ 銀座コスミオンビル 1F",
+    "lat": 35.6749416,
+    "lng": 139.7670896
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮨 ゆうき",
+    "name_en": "Sushi Yuuki",
+    "area": "東京都 広尾駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130703/13294395/",
+    "rating": 4.17,
+    "review_count_tabelog": 224,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 50,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJbUaROACLGGARR56GT3stGy4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13294395-df42b41b814d531f37ac8458a94809b108b941766a759688d53e3d962231b92d.jpg",
+    "place_id": "ChIJbUaROACLGGARR56GT3stGy4",
+    "g_name": "鮨 ゆうき Sushi Yuki",
+    "g_rating": 4.6,
+    "g_reviews": 50,
+    "g_address": "日本、〒150-0012 東京都渋谷区広尾５丁目１７−４",
+    "lat": 35.6498315,
+    "lng": 139.7204075
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮨 利﨑",
+    "name_en": "Sushi Rizaki",
+    "area": "東京都 代々木公園駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130301/13235258/",
+    "rating": 3.73,
+    "review_count_tabelog": 391,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.8,
+    "google_reviews": 162,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJxbkmgImNGGARj3E7ZNVB7hs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13235258-efc968382d50482b6b66d4d01e255310a377156015385f1a509fb72ef03277ab.jpg",
+    "place_id": "ChIJxbkmgImNGGARj3E7ZNVB7hs",
+    "g_name": "鮨 利﨑",
+    "g_rating": 3.8,
+    "g_reviews": 162,
+    "g_address": "日本、〒150-0047 東京都渋谷区神山町８−２",
+    "lat": 35.66416720000001,
+    "lng": 139.6939261
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮨 陸",
+    "name_en": "sushi riku",
+    "area": "東京都 広尾駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130703/13301089/",
+    "rating": 4.21,
+    "review_count_tabelog": 173,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays and Mondays"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 24,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJR59AYwCLGGAR-eSHE67uv7g",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13301089-71357eae5261f52f215f2be9a5fd8c35b25341bc777cf9b42590e8170c5603a7.jpg",
+    "place_id": "ChIJR59AYwCLGGAR-eSHE67uv7g",
+    "g_name": "鮨 陸",
+    "g_rating": 4.4,
+    "g_reviews": 24,
+    "g_address": "日本、〒150-0012 東京都渋谷区広尾５丁目１３−６ ARISTO広尾 1F",
+    "lat": 35.6498903,
+    "lng": 139.7212573
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "TOKYO",
+    "name": "鮨桂太",
+    "name_en": "Sushi Keita",
+    "area": "東京都 築地駅",
+    "url": "https://tabelog.com/tokyo/A1313/A131301/13213360/",
+    "rating": 3.92,
+    "review_count_tabelog": 425,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:30 - 22:30",
+        "dtl_text": "17:30 - 22:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 148,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJV-ltEGKJGGARYqHQSKTGchM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_tokyo/13213360-264ff25d9bfa80727e27b6cea2fef03b9a2d9da4f796e993ea815803c7bdb150.jpg",
+    "place_id": "ChIJV-ltEGKJGGARYqHQSKTGchM",
+    "g_name": "鮨 桂太",
+    "g_rating": 4.5,
+    "g_reviews": 148,
+    "g_address": "日本、〒104-0045 東京都中央区築地６丁目６−４",
+    "lat": 35.6654029,
+    "lng": 139.7736352
+  }
+]

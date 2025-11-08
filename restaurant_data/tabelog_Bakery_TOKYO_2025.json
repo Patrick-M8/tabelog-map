@@ -1,0 +1,4391 @@
+[
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "ル・プチメック 日比谷店",
+    "name_en": "Le Petitmec HIBIYA Hibiya Ten",
+    "area": "東京都 日比谷駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130102/13219670/",
+    "rating": 3.83,
+    "review_count_tabelog": 2340,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bread, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "08:00 - 20:00 L.O. 19:30",
+        "dtl_text": "08:00 - 20:00 L.O. 19:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 809,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJtfjyqtuMGGARjceB-yuojqA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13219670-b04aeca61b673ea9875e3fc1d1274c1a3362fc4ab2b6642f470a60859c6d181f.jpg",
+    "place_id": "ChIJtfjyqtuMGGARjceB-yuojqA",
+    "g_name": "Le Petit Mec 日比谷店",
+    "g_rating": 4.2,
+    "g_reviews": 809,
+    "g_address": "日本、〒100-0006 東京都千代田区有楽町１丁目２−２",
+    "lat": 35.6733248,
+    "lng": 139.7601046
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "セントル ザ・ベーカリー",
+    "name_en": "CENTRE THE BAKERY",
+    "area": "東京都 銀座一丁目駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13157424/",
+    "rating": 3.84,
+    "review_count_tabelog": 2641,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "-",
+    "sub_categories": "Bread, Sandwich",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "09:00 - 18:00",
+        "dtl_text": "09:00 - 18:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "(Schedule available on Instagram)"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 3100,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJE8S0lOSLGGAR84AdzQ71F3I",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13157424-a364e97a453fd1ef9165fc1254298a3f9564a97511bc1ee24a3b970705bdac7b.jpg",
+    "place_id": "ChIJE8S0lOSLGGAR84AdzQ71F3I",
+    "g_name": "セントル ザ ベーカリー銀座店",
+    "g_rating": 4.2,
+    "g_reviews": 3100,
+    "g_address": "日本、〒104-0061 東京都中央区銀座１丁目２−１ 紺屋ビル 1F 東京高速道路",
+    "lat": 35.6755334,
+    "lng": 139.7665952
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "ブーランジェリー・イアナック",
+    "name_en": "Boulangerie Ianak",
+    "area": "東京都 西日暮里駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131105/13048516/",
+    "rating": 3.75,
+    "review_count_tabelog": 1074,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "08:30 - 19:00",
+        "dtl_text": "08:30 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Summer break"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 443,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJgYpgm9qNGGARQzT4KqyCnao",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13048516-8a20219ed709b1d8ae0b6b32a1786eac2bec7bbe0dec4a9983839bdbbb60bbba.jpg",
+    "place_id": "ChIJgYpgm9qNGGARQzT4KqyCnao",
+    "g_name": "ブーランジェリー・イアナック",
+    "g_rating": 4.2,
+    "g_reviews": 443,
+    "g_address": "日本、〒116-0013 東京都荒川区西日暮里４丁目２２−１１",
+    "lat": 35.7315456,
+    "lng": 139.7645273
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "イトキト",
+    "name_en": "itokito",
+    "area": "東京都 大岡山駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131711/13048404/",
+    "rating": 3.76,
+    "review_count_tabelog": 598,
+    "price_dinner": "～￥999",
+    "price_lunch": "-",
+    "sub_categories": "Bread, Sandwich",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri",
+        "dtl": "10:00 - 20:00",
+        "dtl_text": "10:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "10:00 - 19:00",
+        "dtl_text": "10:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 248,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJU2dQiS71GGAR5K_aIzq1n1s",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13048404-e3a764211b8d22c905e4e9bfa710e2a91c92d81ca224c5384ea32675b19e855a.jpg",
+    "place_id": "ChIJU2dQiS71GGAR5K_aIzq1n1s",
+    "g_name": "itokito",
+    "g_rating": 4.4,
+    "g_reviews": 248,
+    "g_address": "日本、〒145-0062 東京都大田区北千束１丁目５４−１０ 佐野ビル B1",
+    "lat": 35.6101599,
+    "lng": 139.6850561
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "カーラ・アウレリア 大丸東京店",
+    "name_en": "CARA AURELIA Daimaru Tokyo Ten",
+    "area": "東京都 東京駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130201/13044993/",
+    "rating": 3.75,
+    "review_count_tabelog": 650,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bread, Sandwich",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon - Fri": {},
+        "Sat, Sun & Public Holidays": {}
+      },
+      "closed_on": "In accordance with Daimaru Tokyo's schedule"
+    },
+    "google_rating": 4,
+    "google_reviews": 45,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-yzzPfyLGGARzIKPU9c7GQ0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13044993-215392cd0926fe108dd4b82480527a71e54e087bf1d6092b5db0911654f1b2d5.jpg",
+    "place_id": "ChIJ-yzzPfyLGGARzIKPU9c7GQ0",
+    "g_name": "カーラ・アウレリア大丸東京店",
+    "g_rating": 4,
+    "g_reviews": 45,
+    "g_address": "日本、〒100-0005 東京都千代田区丸の内１丁目８−１",
+    "lat": 35.681854,
+    "lng": 139.7690309
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "ル・グルニエ・ア・パン アトレ恵比寿店",
+    "name_en": "Le Grenier a Pain Atore Ebisu Ten",
+    "area": "東京都 恵比寿駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130302/13194633/",
+    "rating": 3.75,
+    "review_count_tabelog": 1499,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Bread, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 21:00",
+        "dtl_text": "10:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (following Atre Ebisu's schedule)"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 240,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJYwOjWkCLGGARJDNu_BDIujs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13194633-c4bfed4486ebe99bf744b426416f6eb4bb8f30eacf09774c89c8614b7c5bd213.jpg",
+    "place_id": "ChIJYwOjWkCLGGARJDNu_BDIujs",
+    "g_name": "ル・グルニエ・ア・パン 恵比寿店",
+    "g_rating": 4.2,
+    "g_reviews": 240,
+    "g_address": "日本、〒150-0022 東京都渋谷区恵比寿南１丁目６−１ アトレ恵比寿 西館 4F",
+    "lat": 35.6466438,
+    "lng": 139.7095812
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "メゾン ランドゥメンヌ 麻布台",
+    "name_en": "MAISON LANDEMAINE Azabudai",
+    "area": "東京都 六本木一丁目駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13180316/",
+    "rating": 3.77,
+    "review_count_tabelog": 1498,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Bread, Sweets (Western style), Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Public Holiday",
+        "dtl": "08:00 - 16:00",
+        "dtl_text": "08:00 - 16:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "08:00 - 18:00",
+        "dtl_text": "08:00 - 18:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon - Fri": {},
+        "Sat & Sun": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 1054,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJpU4-Z5mLGGARIWOo8_gh3s8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13180316-d4af3d93636efd7305f91d7b7b72618a63252f6251c1fd57fccb4a0cb97aed81.jpg",
+    "place_id": "ChIJpU4-Z5mLGGARIWOo8_gh3s8",
+    "g_name": "Maison Landemaine",
+    "g_rating": 4.1,
+    "g_reviews": 1054,
+    "g_address": "日本、〒106-0041 東京都港区麻布台３丁目１−５",
+    "lat": 35.6608535,
+    "lng": 139.7383614
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "吟遊詩人",
+    "name_en": "Ginyu Shijin",
+    "area": "東京都 荻窪駅",
+    "url": "https://tabelog.com/tokyo/A1319/A131906/13042194/",
+    "rating": 3.72,
+    "review_count_tabelog": 509,
+    "price_dinner": "～￥999",
+    "price_lunch": "-",
+    "sub_categories": "Bread",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4,
+    "google_reviews": 135,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJC3NhSgDtGGARMk3LRPYtfAE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13042194-987c921f3f0f543f3e64dbd39fb1dcd744720a57125b1553b3274fb128ecc388.jpg",
+    "place_id": "ChIJC3NhSgDtGGARMk3LRPYtfAE",
+    "g_name": "吟遊詩人",
+    "g_rating": 4,
+    "g_reviews": 135,
+    "g_address": "日本、〒167-0032 東京都杉並区天沼３丁目１１−３ Clair荻窪 1階",
+    "lat": 35.7072179,
+    "lng": 139.6168848
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "SONKA",
+    "name_en": "SONKA",
+    "area": "東京都 南阿佐ケ谷駅",
+    "url": "https://tabelog.com/tokyo/A1319/A131905/13174215/",
+    "rating": 3.75,
+    "review_count_tabelog": 414,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bread, Cafe, Sandwich",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays and Sundays"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 259,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3Q8TE2nyGGARJHJcQK52NBI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13174215-411ddaa87af02efab9d89b9baab6053192d2112b860c666e33ff25a30d40e92c.jpg",
+    "place_id": "ChIJ3Q8TE2nyGGARJHJcQK52NBI",
+    "g_name": "SONKA",
+    "g_rating": 4.4,
+    "g_reviews": 259,
+    "g_address": "日本、〒166-0015 東京都杉並区成田東２丁目３３−９",
+    "lat": 35.69200379999999,
+    "lng": 139.6363655
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "ヴァン ドゥ リュド 尾山台店",
+    "name_en": "VENT DE LUDO Oyamadai Ten",
+    "area": "東京都 尾山台駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131715/13140110/",
+    "rating": 3.74,
+    "review_count_tabelog": 739,
+    "price_dinner": "～￥999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Bread, Sweets (Western style), Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 19:00",
+        "dtl_text": "10:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4,
+    "google_reviews": 234,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKxpY4v70GGARZ7DXqdcQLow",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13140110-f1e4c065f68205cf38aa642d3f66ae47b6e7e7a8e86c9e15dac568dcb675b6e1.jpg",
+    "place_id": "ChIJKxpY4v70GGARZ7DXqdcQLow",
+    "g_name": "ヴァンドゥリュド 尾山台店",
+    "g_rating": 4,
+    "g_reviews": 234,
+    "g_address": "日本、〒158-0082 東京都世田谷区等々力２丁目１９−１５ ＰＬＡＩＳＩＲ ２",
+    "lat": 35.6067999,
+    "lng": 139.6530228
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "カフェむぎわらい",
+    "name_en": "Cafe Mugiwara",
+    "area": "東京都 三ノ輪橋駅",
+    "url": "https://tabelog.com/tokyo/A1324/A132401/13056511/",
+    "rating": 3.72,
+    "review_count_tabelog": 583,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Bread, Cafe, Organic",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "11:30 - 16:00",
+        "dtl_text": "11:30 - 16:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 128,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0dnRHhOPGGARiKdngr_Yttk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13056511-681328c869c52c836d6dd39ca662937f65ab7bd808d5bd638528207cf6e6b76b.jpg",
+    "place_id": "ChIJ0dnRHhOPGGARiKdngr_Yttk",
+    "g_name": "むぎわらい",
+    "g_rating": 4.3,
+    "g_reviews": 128,
+    "g_address": "日本、〒116-0014 東京都荒川区東日暮里１丁目５−６",
+    "lat": 35.7309473,
+    "lng": 139.7906155
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "フォートナム・アンド・メイソン・コンセプトショップ 日本橋三越店",
+    "name_en": "Fortnum and Mason Concept Shop Nihonbashi Mitsukoshimise Ten",
+    "area": "東京都 三越前駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130202/13059381/",
+    "rating": 3.72,
+    "review_count_tabelog": 760,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bread, Sweets (Western style), Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 19:30",
+        "dtl_text": "11:00 - 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 297,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJiXTqi1WJGGARSr8kAPQy_p8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13059381-56d47a1c012e3ede963dc586caeed61f0448cd23e54ead36d741e242948a8f22.jpg",
+    "place_id": "ChIJiXTqi1WJGGARSr8kAPQy_p8",
+    "g_name": "フォートナム・アンド・メイソン 日本橋三越",
+    "g_rating": 4.1,
+    "g_reviews": 297,
+    "g_address": "日本、〒103-0022 東京都中央区日本橋室町１丁目４−１ 日本橋三越新館B2",
+    "lat": 35.6849672,
+    "lng": 139.7741805
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "breadworks 表参道",
+    "name_en": "breadworks Omote Sando",
+    "area": "東京都 表参道駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130602/13148002/",
+    "rating": 3.74,
+    "review_count_tabelog": 1276,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bread, Cafe, Sweets",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "08:00 - 20:00",
+        "dtl_text": "08:00 - 20:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 537,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJHePeaGCLGGAR9HRMHPPGXGc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13148002-8a64c042c4a8764b0f3a4f80851bda9638d52b1629a4ec7c306dd24f5da440fe.jpg",
+    "place_id": "ChIJHePeaGCLGGAR9HRMHPPGXGc",
+    "g_name": "ブレッドワークス 表参道店",
+    "g_rating": 4.2,
+    "g_reviews": 537,
+    "g_address": "日本、〒107-0062 東京都港区南青山５丁目７−２８",
+    "lat": 35.663022,
+    "lng": 139.712384
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "AOSAN 仙川店",
+    "name_en": "AOSAN Sengawa Ten",
+    "area": "東京都 仙川駅",
+    "url": "https://tabelog.com/tokyo/A1326/A132601/13047751/",
+    "rating": 3.77,
+    "review_count_tabelog": 716,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "10:00 - 18:00",
+        "dtl_text": "10:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 350,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ30dBnrvxGGARcqWfLtjISQ8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13047751-65536297c311f03ceac673dc24749c9152141649073b2edb54ddef49a3a5fb6f.jpg",
+    "place_id": "ChIJ30dBnrvxGGARcqWfLtjISQ8",
+    "g_name": "AOSAN 仙川店",
+    "g_rating": 4,
+    "g_reviews": 350,
+    "g_address": "日本、〒182-0002 東京都調布市仙川町１丁目３−５ マンション松葉",
+    "lat": 35.6606047,
+    "lng": 139.5829792
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "ラ ブティック ドゥ ジョエル・ロブション 恵比寿ガーデンプレイス店",
+    "name_en": "LA BOUTIQUE de Joel Robushon Ebisu Garden Place Ten",
+    "area": "東京都 恵比寿駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130302/13014064/",
+    "rating": 3.78,
+    "review_count_tabelog": 1015,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Bread, Cake, Sandwich",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "09:30 - 20:00",
+        "dtl_text": "09:30 - 20:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (following the schedule of Ebisu Garden Place)"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 164,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGQRJhBaLGGARmNkQIO1GVJo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13014064-e2a6c1e46c63421305558b46497f49518ed576ac650199ff1b2f0d0f7e6cbd54.jpg",
+    "place_id": "ChIJGQRJhBaLGGARmNkQIO1GVJo",
+    "g_name": "ラ ブティック ドゥ ジョエル・ロブション 恵比寿ガーデンプレイス店",
+    "g_rating": 4.2,
+    "g_reviews": 164,
+    "g_address": "日本、〒153-0062 東京都目黒区三田１丁目１３−１ 恵比寿ガーデンプレイス内 B1F",
+    "lat": 35.6419057,
+    "lng": 139.7145298
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "セル・オ・ブレ",
+    "name_en": "Sel eau ble",
+    "area": "東京都 武蔵小山駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131710/13044661/",
+    "rating": 3.72,
+    "review_count_tabelog": 565,
+    "price_dinner": "～￥999",
+    "price_lunch": "-",
+    "sub_categories": "Bread, Sandwich, Cake",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "10:00 - 19:00",
+        "dtl_text": "10:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 100,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJbVvalNuKGGAR-h47-6t8sig",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13044661-fb7c1d547658ab262cc5615c621361132aa230da4e1ffc8d77482cb169d51a4b.jpg",
+    "place_id": "ChIJbVvalNuKGGAR-h47-6t8sig",
+    "g_name": "セル・オ・ブレ",
+    "g_rating": 4.3,
+    "g_reviews": 100,
+    "g_address": "日本、〒142-0062 東京都品川区小山３丁目２２−２１",
+    "lat": 35.6191157,
+    "lng": 139.705294
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "グリオット",
+    "name_en": "griotte Bakery cafe",
+    "area": "東京都 駒沢大学駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131707/13149820/",
+    "rating": 3.71,
+    "review_count_tabelog": 464,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bread, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 18:00",
+        "dtl_text": "11:00 - 18:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 196,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAXORVJL0GGARHXUWABfTuS0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13149820-c955fd1641e796ecf60374ba4ebd2d71c78574b94fa3a67f1674fdc5b6605ac8.jpg",
+    "place_id": "ChIJAXORVJL0GGARHXUWABfTuS0",
+    "g_name": "griotte",
+    "g_rating": 4.4,
+    "g_reviews": 196,
+    "g_address": "日本、〒152-0021 東京都目黒区東が丘２丁目１４−１２ メゾン駒沢",
+    "lat": 35.6287317,
+    "lng": 139.6633151
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "ポワンタージュ",
+    "name_en": "pointage",
+    "area": "東京都 麻布十番駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130702/13004566/",
+    "rating": 3.78,
+    "review_count_tabelog": 1456,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Bread, Bistro, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 21:00",
+        "dtl_text": "10:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 578,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJj4Eeo6GLGGARftDFnFLaHpI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13004566-1230e8095aa6827514425bb51487642a622107573f917ffdf40a6778ed77af79.jpg",
+    "place_id": "ChIJj4Eeo6GLGGARftDFnFLaHpI",
+    "g_name": "ポワンタージュ",
+    "g_rating": 4.2,
+    "g_reviews": 578,
+    "g_address": "日本、〒106-0045 東京都港区麻布十番３丁目３−１０",
+    "lat": 35.6536078,
+    "lng": 139.7356143
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "パーラー江古田",
+    "name_en": "Parlor Ekoda",
+    "area": "東京都 新桜台駅",
+    "url": "https://tabelog.com/tokyo/A1321/A132101/13185945/",
+    "rating": 3.78,
+    "review_count_tabelog": 1208,
+    "price_dinner": "～￥999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Bread, Sandwich, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "08:30 - 18:00",
+        "dtl_text": "08:30 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 820,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJT43p-z_tGGAR64bRfvHT_pM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13185945-c73f722535431fedba4ae920ebc0931f5a2eb540ccff02b55e50e11f3fe0f99c.jpg",
+    "place_id": "ChIJT43p-z_tGGAR64bRfvHT_pM",
+    "g_name": "パーラー 江古田",
+    "g_rating": 4.1,
+    "g_reviews": 820,
+    "g_address": "日本、〒176-0006 東京都練馬区栄町４１−７",
+    "lat": 35.7398598,
+    "lng": 139.6709999
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "アルチザン・ブーランジェ・クピド",
+    "name_en": "ARTISAN BOULANGER CUPIDO",
+    "area": "東京都 奥沢駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131711/13035704/",
+    "rating": 3.77,
+    "review_count_tabelog": 778,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bread, Sandwich, Side dishes, Delicatessen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "10:00 - 14:00 15:00 - 19:00",
+        "dtl_text": "15:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays (every other week)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 187,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJsQi8LyP1GGARxDNiOEJH8Ek",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13035704-f520827943b319e5f3da5cb6c765a190436f036ac40e0cdfbcb5594abee316e1.jpg",
+    "place_id": "ChIJsQi8LyP1GGARxDNiOEJH8Ek",
+    "g_name": "アルチザン・ブーランジェ・クピド",
+    "g_rating": 4.3,
+    "g_reviews": 187,
+    "g_address": "日本、〒158-0083 東京都世田谷区奥沢３丁目４５−２",
+    "lat": 35.6034622,
+    "lng": 139.6738806
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "リンデ 吉祥寺本店",
+    "name_en": "Linde Kichijojihonten",
+    "area": "東京都 吉祥寺駅",
+    "url": "https://tabelog.com/tokyo/A1320/A132001/13005831/",
+    "rating": 3.75,
+    "review_count_tabelog": 1243,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bread, Sandwich, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 18:00",
+        "dtl_text": "10:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round (except for Year-end & New Year Holidays)"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 496,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQD3TEbuGGARnqMvYYN2B78",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13005831-bc991d9642df5ddb0012dc1034640d8c5b027d45096a61354fea14a7a7720f32.jpg",
+    "place_id": "ChIJAQD3TEbuGGARnqMvYYN2B78",
+    "g_name": "Linde(リンデ) 吉祥寺本店",
+    "g_rating": 4.2,
+    "g_reviews": 496,
+    "g_address": "日本、〒180-0004 東京都武蔵野市吉祥寺本町１丁目１１−２７",
+    "lat": 35.7055521,
+    "lng": 139.5806238
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "ブーランジェリー ボネダンヌ",
+    "name_en": "BONNET D'ANE",
+    "area": "東京都 三軒茶屋駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131705/13158722/",
+    "rating": 3.81,
+    "review_count_tabelog": 653,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "-",
+    "sub_categories": "Bread, Sweets (Western style), Sandwich",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 17:00",
+        "dtl_text": "11:00 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 345,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ31UHa1_zGGARd-qNewOQNSM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13158722-481f97f41cd9d8230687ba9582a8913209804c77b0fdfd76a6fe3347469821b1.jpg",
+    "place_id": "ChIJ31UHa1_zGGARd-qNewOQNSM",
+    "g_name": "ブーランジェリーボネダンヌ | Boulangerie BONNET D'ANE",
+    "g_rating": 4.5,
+    "g_reviews": 345,
+    "g_address": "日本、〒154-0005 東京都世田谷区三宿１丁目２８−１",
+    "lat": 35.6501009,
+    "lng": 139.6744021
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "TOLO PAN TOKYO",
+    "name_en": "TOLO PAN TOKYO",
+    "area": "東京都 池尻大橋駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131705/13093803/",
+    "rating": 3.76,
+    "review_count_tabelog": 1125,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bread, Sandwich, Bagel",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "08:00 - 17:00",
+        "dtl_text": "08:00 - 17:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 546,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJgwj5XKn0GGARpakXThOCDQA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13093803-913985fbf275862b2594dbb60079297cc30bd1dd01f4062acea89fd2421fc3f6.jpg",
+    "place_id": "ChIJgwj5XKn0GGARpakXThOCDQA",
+    "g_name": "TOLO PAN TOKYO (トロパン トウキョウ)",
+    "g_rating": 4.3,
+    "g_reviews": 546,
+    "g_address": "日本、〒153-0043 東京都目黒区東山３丁目１４−３",
+    "lat": 35.6501137,
+    "lng": 139.6855138
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "パネッテリア・アリエッタ 五反田本店",
+    "name_en": "Panetteria ARIETTA Gotanda Honten",
+    "area": "東京都 五反田駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131603/13019888/",
+    "rating": 3.78,
+    "review_count_tabelog": 953,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bread, Sandwich",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Tuesday - Thursday": {},
+        "Friday - Monday": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": 3.6,
+    "google_reviews": 115,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJTwTO6PmKGGARAqyYmNvtQFU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13019888-fa208fd629350b04512fab0596e11276f3e96654305147070b9a4043a7c06f03.jpg",
+    "place_id": "ChIJTwTO6PmKGGARAqyYmNvtQFU",
+    "g_name": "Panetteria Arietta パネッテリア・アリエッタ",
+    "g_rating": 3.6,
+    "g_reviews": 115,
+    "g_address": "日本、〒141-0022 東京都品川区東五反田２丁目５−１ ルネッサンスビル 1F",
+    "lat": 35.6254385,
+    "lng": 139.7279463
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "モンシェール 東陽町工場",
+    "name_en": "Mon Cher Higashiyocho Kojo",
+    "area": "東京都 東陽町駅",
+    "url": "https://tabelog.com/tokyo/A1313/A131303/13024396/",
+    "rating": 3.73,
+    "review_count_tabelog": 959,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "-",
+    "sub_categories": "Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "Open 24 hours",
+        "dtl_text": "Open 24 hours",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 1424,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJxYERJ_6IGGARg5V38mWVhXc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13024396-67ffd8b00c952b33b57e6900e4d7cc78a406ea4faaf48866ec35e0c05d5dc439.jpg",
+    "place_id": "ChIJxYERJ_6IGGARg5V38mWVhXc",
+    "g_name": "モンシェール 東陽町工場",
+    "g_rating": 4.1,
+    "g_reviews": 1424,
+    "g_address": "日本、〒135-0016 東京都江東区東陽５丁目２４−１０",
+    "lat": 35.6714914,
+    "lng": 139.8139439
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "満 曙橋本店",
+    "name_en": "Mitsuru Akebonobashi Honten",
+    "area": "東京都 曙橋駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130903/13023138/",
+    "rating": 3.72,
+    "review_count_tabelog": 718,
+    "price_dinner": "～￥999",
+    "price_lunch": "-",
+    "sub_categories": "Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "08:30 - 20:00",
+        "dtl_text": "08:30 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 318,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKfl5wfGMGGARbjjZE8V6bRw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13023138-40749efec7c352014c7682cc3e7d4ea2388eb0af3d0568569dfa742515844b5c.jpg",
+    "place_id": "ChIJKfl5wfGMGGARbjjZE8V6bRw",
+    "g_name": "満 曙橋本店",
+    "g_rating": 4.3,
+    "g_reviews": 318,
+    "g_address": "日本、〒162-0065 東京都新宿区住吉町８−１０ ライオンズマンション市ヶ谷",
+    "lat": 35.6927828,
+    "lng": 139.7227518
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "ブーランジェリー セイジアサクラ",
+    "name_en": "BOULANGERIE SEIJI ASAKURA",
+    "area": "東京都 高輪台駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131603/13055881/",
+    "rating": 3.79,
+    "review_count_tabelog": 1173,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sun, Public Holiday",
+        "dtl": "10:00 - 18:00",
+        "dtl_text": "10:00 - 18:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 650,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJUf56NVWKGGARmSpLbtdGfRM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13055881-fff3c0c5723d1ee4fbdea12c548deb79f108a56aadaab5d2980915123739333e.jpg",
+    "place_id": "ChIJUf56NVWKGGARmSpLbtdGfRM",
+    "g_name": "ブーランジェリー セイジアサクラ",
+    "g_rating": 4.4,
+    "g_reviews": 650,
+    "g_address": "日本、〒108-0074 東京都港区高輪２丁目６−２０ 朝日高輪マンション 104号",
+    "lat": 35.6360069,
+    "lng": 139.7332509
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "ラ ブティック ドゥ ジョエル・ロブション 六本木ヒルズ店",
+    "name_en": "LA BOUTIQUE de Joel Rubchon Roppongi Hiruzu Ten",
+    "area": "東京都 六本木駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13020237/",
+    "rating": 3.78,
+    "review_count_tabelog": 1122,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Bread, Cake",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 21:00",
+        "dtl_text": "10:00 - 21:00"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 175,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAzkpyLGGARLn2ITc_JFCc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13020237-8d5f83548e183ad71e025903a92dc22413a91153afbf7a0debcd79809eff2467.jpg",
+    "place_id": "ChIJAQAzkpyLGGARLn2ITc_JFCc",
+    "g_name": "ラ ブティック ドゥ ジョエル・ロブション 六本木ヒルズ店",
+    "g_rating": 4.2,
+    "g_reviews": 175,
+    "g_address": "日本、〒106-0032 東京都港区六本木６丁目１０−１ 六本木ヒルズ ヒルサイド 2Ｆ",
+    "lat": 35.6601015,
+    "lng": 139.7293765
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "ピエール・ガニェール パン・エ・ガトー",
+    "name_en": "Pierre Gagnaire Pan Et Gateau",
+    "area": "東京都 六本木一丁目駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130802/13114277/",
+    "rating": 3.75,
+    "review_count_tabelog": 677,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Bread, Cake, Side dishes, Delicatessen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "07:00 - 19:00",
+        "dtl_text": "07:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 133,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1zhHPoWLGGARNKGGlYk7-WU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13114277-242721751cd2956af9502d23b284553f8907b7fa8d93bb058b0c5698b89a67ce.jpg",
+    "place_id": "ChIJ1zhHPoWLGGARNKGGlYk7-WU",
+    "g_name": "ブリュワーズ トゥーゴー",
+    "g_rating": 4.1,
+    "g_reviews": 133,
+    "g_address": "日本、〒107-0052 東京都港区赤坂１丁目１２−３３",
+    "lat": 35.667701,
+    "lng": 139.740717
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "まちのパーラー",
+    "name_en": "Machi no Parlor",
+    "area": "東京都 小竹向原駅",
+    "url": "https://tabelog.com/tokyo/A1321/A132101/13126515/",
+    "rating": 3.78,
+    "review_count_tabelog": 1352,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Bread, Cafe, Sandwich",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "08:30 - 18:00",
+        "dtl_text": "08:30 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "08:30 - 22:00 L.O. 21:00",
+        "dtl_text": "08:30 - 22:00 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 836,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJs2hk1j7tGGARHuXnX304wxo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13126515-6612d05ae84e274757750f6a17d5f97f1b5fba29ea81e2c84d002a0940ad880a.jpg",
+    "place_id": "ChIJs2hk1j7tGGARHuXnX304wxo",
+    "g_name": "まちのパーラー",
+    "g_rating": 4.1,
+    "g_reviews": 836,
+    "g_address": "日本、〒176-0004 東京都練馬区小竹町２丁目４０−４",
+    "lat": 35.7435226,
+    "lng": 139.6752771
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "パン・デ・フィロゾフ",
+    "name_en": "Pain des Philosophes",
+    "area": "東京都 神楽坂駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13213156/",
+    "rating": 3.83,
+    "review_count_tabelog": 1400,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 19:00",
+        "dtl_text": "10:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 832,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJtbnEOlGMGGARSlJmS1KowKI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13213156-82946b03c5b43603efb696c9f46f07d80ee31a91980c483665047a03f1bec558.jpg",
+    "place_id": "ChIJtbnEOlGMGGARSlJmS1KowKI",
+    "g_name": "パン デ フィロゾフ",
+    "g_rating": 4.4,
+    "g_reviews": 832,
+    "g_address": "日本、〒162-0813 東京都新宿区東五軒町１−８",
+    "lat": 35.7051267,
+    "lng": 139.7378736
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "バゲットラビット 自由が丘店",
+    "name_en": "baguette rabbit Jiyugaoka Ten",
+    "area": "東京都 自由が丘駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131703/13217782/",
+    "rating": 3.73,
+    "review_count_tabelog": 916,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bread, Sandwich",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "09:00 - 20:00",
+        "dtl_text": "09:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 706,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6XIgEuD0GGARsg1LaKE4kAs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13217782-96102f7b52bb9f4dbbcd900739346c92d9f77598a7f1bc5af9040b97306904e6.jpg",
+    "place_id": "ChIJ6XIgEuD0GGARsg1LaKE4kAs",
+    "g_name": "バゲットラビット 自由が丘店",
+    "g_rating": 4.2,
+    "g_reviews": 706,
+    "g_address": "日本、〒152-0035 東京都目黒区自由が丘１丁目１６−１４",
+    "lat": 35.61152149999999,
+    "lng": 139.6700626
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "ジャン フランコ",
+    "name_en": "Gian Franco",
+    "area": "東京都 用賀駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131707/13169306/",
+    "rating": 3.73,
+    "review_count_tabelog": 517,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "-",
+    "sub_categories": "Bread, Sandwich",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 18:00",
+        "dtl_text": "10:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 191,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJx0Qw_nP0GGARtNkfYNaN9So",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13169306-ee434cd89e6c6cdc65893f2f6dc73c0767715a75a1e894cc1d8da6b3ae49defa.jpg",
+    "place_id": "ChIJx0Qw_nP0GGARtNkfYNaN9So",
+    "g_name": "ジャンフランコ パン",
+    "g_rating": 4.2,
+    "g_reviews": 191,
+    "g_address": "日本、〒158-0097 東京都世田谷区用賀４丁目１４−２１",
+    "lat": 35.6287875,
+    "lng": 139.6348491
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "ル・グルニエ・ア・パン 麹町店",
+    "name_en": "Le Grenier à Pan Koji Chiyocho Ten",
+    "area": "東京都 半蔵門駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130803/13011374/",
+    "rating": 3.77,
+    "review_count_tabelog": 1133,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bread, Sandwich, Cake",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "08:00 - 20:30",
+        "dtl_text": "08:00 - 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "09:00 - 20:00",
+        "dtl_text": "09:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "09:00 - 18:00",
+        "dtl_text": "09:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Only on January 1, 2025"
+    },
+    "google_rating": 4,
+    "google_reviews": 343,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJUYnteUWLGGARIngZRFBjwRQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13011374-c348e1717a4b53774d5ea9ad482b2834a7c5b9311b727951f4ee9c7abe6d39f0.jpg",
+    "place_id": "ChIJUYnteUWLGGARIngZRFBjwRQ",
+    "g_name": "シェ･リュイ 代官山店",
+    "g_rating": 4,
+    "g_reviews": 343,
+    "g_address": "日本、〒150-0033 東京都渋谷区猿楽町２３−２ 代官山E'Ｎビル",
+    "lat": 35.649001,
+    "lng": 139.7019892
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "ベッカライ・ブロートハイム",
+    "name_en": "Bäckerei Brotheim",
+    "area": "東京都 桜新町駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131707/13001529/",
+    "rating": 3.75,
+    "review_count_tabelog": 803,
+    "price_dinner": "～￥999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Bread, Sweets (Western style), Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "07:30 - 18:00",
+        "dtl_text": "07:30 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 543,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJt4Rp13j0GGAR9UsHxfg6bt4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13001529-8d2dcf1668642dcbc38e7e59f431e8b48e4fb4b52fee2dc6038b6e54f731faaa.jpg",
+    "place_id": "ChIJt4Rp13j0GGAR9UsHxfg6bt4",
+    "g_name": "ベッカライ·ブロートハイム",
+    "g_rating": 4.4,
+    "g_reviews": 543,
+    "g_address": "日本、〒154-0016 東京都世田谷区弦巻４丁目１−１７",
+    "lat": 35.6350043,
+    "lng": 139.6447779
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "ネモ・ベーカリー＆カフェ 武蔵小山 本店",
+    "name_en": "nemo Musashi Koyama Honten",
+    "area": "東京都 武蔵小山駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131710/13045550/",
+    "rating": 3.73,
+    "review_count_tabelog": 928,
+    "price_dinner": "～￥999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Bread, Cafe, Dining bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "09:00 - 19:00",
+        "dtl_text": "09:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays (open on public holidays)"
+    },
+    "google_rating": 3.9,
+    "google_reviews": 397,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJB1_PINqKGGARB77l8qLWGW0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13045550-d6319f40bc37aca61f15bd65528e8a0c48d38cfd89d29769d0c3d535118a2d18.jpg",
+    "place_id": "ChIJB1_PINqKGGARB77l8qLWGW0",
+    "g_name": "ネモ·ベーカリー&カフェ",
+    "g_rating": 3.9,
+    "g_reviews": 397,
+    "g_address": "日本、〒142-0062 東京都品川区小山４丁目３−１２ ＴＫ武蔵小山ビル １階",
+    "lat": 35.6192511,
+    "lng": 139.7028583
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "ミカヅキ堂",
+    "name_en": "Mikazuki Do",
+    "area": "東京都 三軒茶屋駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131706/13197762/",
+    "rating": 3.73,
+    "review_count_tabelog": 812,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "-",
+    "sub_categories": "Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 18:00",
+        "dtl_text": "10:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 241,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJNbvJnp_0GGAR2YgkTnyOCWE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13197762-b1f21c2976965e3e24c8cf0bf0af5cb36bd8102f45929d311142315141d43e66.jpg",
+    "place_id": "ChIJNbvJnp_0GGAR2YgkTnyOCWE",
+    "g_name": "ミカヅキ堂",
+    "g_rating": 4.1,
+    "g_reviews": 241,
+    "g_address": "日本、〒154-0004 東京都世田谷区太子堂４丁目２６−７",
+    "lat": 35.64522729999999,
+    "lng": 139.6696515
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "ヒンメル",
+    "name_en": "Himmel",
+    "area": "東京都 大岡山駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131711/13048813/",
+    "rating": 3.75,
+    "review_count_tabelog": 768,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "-",
+    "sub_categories": "Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "07:30 - 18:00",
+        "dtl_text": "07:30 - 18:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 356,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJSTZwIDL1GGAREbzFK7EiGB4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13048813-940a89698e8193494ea5671659f36b99321bda89c543f937c3edc2ff9db74236.jpg",
+    "place_id": "ChIJSTZwIDL1GGAREbzFK7EiGB4",
+    "g_name": "HIMMEL",
+    "g_rating": 4.3,
+    "g_reviews": 356,
+    "g_address": "日本、〒145-0062 東京都大田区北千束３丁目２８−４ アンシャンテ大岡山 1F",
+    "lat": 35.6067029,
+    "lng": 139.6860881
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "ラトリエ ドゥ プレジール",
+    "name_en": "L'atelier de Plaisir",
+    "area": "東京都 祖師ケ谷大蔵駅",
+    "url": "https://tabelog.com/tokyo/A1318/A131814/13050412/",
+    "rating": 4.03,
+    "review_count_tabelog": 1203,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Fri, Sat",
+        "dtl": "12:00 - 18:00",
+        "dtl_text": "12:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 340,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJC-ly6GDxGGARODC7yR-4PYs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13050412-01b07d18ab76fa35e13e56f6d71849f7fbf42d1d428118f9ed95c8edba3aab18.jpg",
+    "place_id": "ChIJC-ly6GDxGGARODC7yR-4PYs",
+    "g_name": "ラトリエ ドゥ プレジール",
+    "g_rating": 4.4,
+    "g_reviews": 340,
+    "g_address": "日本、〒157-0073 東京都世田谷区砧８丁目１３−８",
+    "lat": 35.64167279999999,
+    "lng": 139.6056976
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "ショーマッカー",
+    "name_en": "Schomaker",
+    "area": "東京都 大岡山駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131711/13045113/",
+    "rating": 3.74,
+    "review_count_tabelog": 467,
+    "price_dinner": "～￥999",
+    "price_lunch": "-",
+    "sub_categories": "Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "09:00 - 18:00",
+        "dtl_text": "09:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.6,
+    "google_reviews": 229,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2S7WwC71GGAR-IdFoco3-EM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13045113-e132f6dcb7f1afdb59a02e72a9b31d305a73d4d4495119e6c7977b56557f2bb5.jpg",
+    "place_id": "ChIJ2S7WwC71GGAR-IdFoco3-EM",
+    "g_name": "ショーマッカー",
+    "g_rating": 4.6,
+    "g_reviews": 229,
+    "g_address": "日本、〒145-0062 東京都大田区北千束１丁目５９−１０",
+    "lat": 35.6110774,
+    "lng": 139.6845782
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "空と麦と",
+    "name_en": "Sora to Mugi to",
+    "area": "東京都 代官山駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130302/13164057/",
+    "rating": 3.74,
+    "review_count_tabelog": 814,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Bread, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Thu, Sat",
+        "dtl": "13:00 - 18:00",
+        "dtl_text": "13:00 - 18:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (except for business days in March 2024)"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 267,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJexez90OLGGARK5aZ61njeC8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13164057-696d9e086c174f06d1579879a886fe18fae68b47e95ecc4a1b2a2a1289f5fda7.jpg",
+    "place_id": "ChIJexez90OLGGARK5aZ61njeC8",
+    "g_name": "空と麦と(ベーカリー)",
+    "g_rating": 4.1,
+    "g_reviews": 267,
+    "g_address": "日本、〒150-0021 東京都渋谷区恵比寿西２丁目１０−７ ＹＫビル 1階",
+    "lat": 35.6489907,
+    "lng": 139.7065064
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "テコナ ベーグルワークス",
+    "name_en": "tecona bagel works",
+    "area": "東京都 代々木公園駅",
+    "url": "https://tabelog.com/tokyo/A1318/A131810/13061492/",
+    "rating": 3.78,
+    "review_count_tabelog": 1230,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bagel, Bread, Sandwich",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 18:30",
+        "dtl_text": "11:00 - 18:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 496,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGYHKnEzzGGARItoaLMVh6Wo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13061492-2f566d4e468cebfe90909c7b65ec0c18c129d468e0a25b935c31b97a6bf292e7.jpg",
+    "place_id": "ChIJGYHKnEzzGGARItoaLMVh6Wo",
+    "g_name": "テコナ ベーグル ワークス",
+    "g_rating": 4.1,
+    "g_reviews": 496,
+    "g_address": "日本、〒151-0063 東京都渋谷区富ケ谷１丁目５１−１２",
+    "lat": 35.6687214,
+    "lng": 139.6890701
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "BURDIGALA TOKYO",
+    "name_en": "BURDIGALA TOKYO",
+    "area": "東京都 東京駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130201/13044260/",
+    "rating": 3.76,
+    "review_count_tabelog": 2460,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bread, Sandwich, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "07:00 - 22:00",
+        "dtl_text": "07:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "07:00 - 21:00",
+        "dtl_text": "07:00 - 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Last day of long holiday": {}
+      },
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 3.8,
+    "google_reviews": 1102,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJtxODuv6LGGARhYmJxezNQEs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13044260-b77f83efaed8d5f9128e130107b76ba7349a78e879970d84cbb54e15a5b19c15.jpg",
+    "place_id": "ChIJtxODuv6LGGARhYmJxezNQEs",
+    "g_name": "ブルディガラ東京",
+    "g_rating": 3.8,
+    "g_reviews": 1102,
+    "g_address": "日本、〒100-0005 東京都千代田区丸の内１丁目９−１ B1 グランスタ東京内 JR東日本東京駅構内",
+    "lat": 35.6812228,
+    "lng": 139.7670104
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "パンのペリカン",
+    "name_en": "Pelican",
+    "area": "東京都 田原町駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131102/13003662/",
+    "rating": 3.8,
+    "review_count_tabelog": 2077,
+    "price_dinner": "～￥999",
+    "price_lunch": "-",
+    "sub_categories": "Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday",
+        "dtl": "08:00 - 17:00",
+        "dtl_text": "08:00 - 17:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Special holidays (summer and year-end/New Year) - For additional details, please refer to our website's business calendar."
+    },
+    "google_rating": 4.1,
+    "google_reviews": 1270,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0brST7iOGGARKUKu7jOB-jo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13003662-a19a5c3a0044fa8823efc91f62c604cb082c27280270e75108e83ba90a8899fc.jpg",
+    "place_id": "ChIJ0brST7iOGGARKUKu7jOB-jo",
+    "g_name": "ペリカンカフェ",
+    "g_rating": 4.1,
+    "g_reviews": 1270,
+    "g_address": "日本、〒111-0042 東京都台東区寿３丁目９−１１ 1階",
+    "lat": 35.7070075,
+    "lng": 139.7911122
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "VIRON 渋谷店",
+    "name_en": "VIRON Shibuya Ten",
+    "area": "東京都 神泉駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130301/13004626/",
+    "rating": 3.81,
+    "review_count_tabelog": 3501,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bread, Sandwich, Cake",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "08:00 - 21:00",
+        "dtl_text": "08:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 1930,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZSSqcKmMGGARylOWxFCMqgE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13004626-2e26002eda80ed9da36d29eec22ed6701bfd5cc702f6110c737acb72e34d612f.jpg",
+    "place_id": "ChIJZSSqcKmMGGARylOWxFCMqgE",
+    "g_name": "ブラッスリー・ヴィロン 渋谷店",
+    "g_rating": 4.1,
+    "g_reviews": 1930,
+    "g_address": "日本、〒150-0042 東京都渋谷区宇田川町３３−８ 塚田ビル ２Ｆ",
+    "lat": 35.6608685,
+    "lng": 139.6967865
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "しげくに屋55ベーカリー",
+    "name_en": "Shigekuniya 55 Bakery",
+    "area": "東京都 高円寺駅",
+    "url": "https://tabelog.com/tokyo/A1319/A131904/13172510/",
+    "rating": 3.71,
+    "review_count_tabelog": 699,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bread, Sandwich, Bagel",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 17:00",
+        "dtl_text": "10:00 - 17:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 317,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJectAvX3yGGARNUkevr4EFPw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13172510-bc89e116d902b57863de1ec49930135907fd8345a516d55009969bfa1f0b3d95.jpg",
+    "place_id": "ChIJectAvX3yGGARNUkevr4EFPw",
+    "g_name": "しげくに屋55ベーカリー 高円寺本店",
+    "g_rating": 4.1,
+    "g_reviews": 317,
+    "g_address": "日本、〒166-0002 東京都杉並区高円寺北３丁目２２−９",
+    "lat": 35.7060957,
+    "lng": 139.6490821
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "金麦",
+    "name_en": "Kin Mugi",
+    "area": "東京都 白金台駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131602/13005477/",
+    "rating": 3.71,
+    "review_count_tabelog": 319,
+    "price_dinner": "-",
+    "price_lunch": "-",
+    "sub_categories": "Bread, Sandwich",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays"
+    },
+    "google_rating": 5,
+    "google_reviews": 177,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJyUXZrIaNGGARF7gdiZWfqLQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13005477-85a41278772a68ab790a15120a50d8ac317c3cd87403781e1f71f41dd1d541b0.jpg",
+    "place_id": "ChIJyUXZrIaNGGARF7gdiZWfqLQ",
+    "g_name": "ビャンビャン麺&餃子酒場",
+    "g_rating": 5,
+    "g_reviews": 177,
+    "g_address": "日本、〒101-0065 東京都千代田区西神田２丁目１−１２",
+    "lat": 35.6988167,
+    "lng": 139.7563434
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "ファクトリー",
+    "name_en": "FACTORY",
+    "area": "東京都 市ケ谷駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130904/13093265/",
+    "rating": 3.77,
+    "review_count_tabelog": 1393,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bread, Sandwich, Bagel",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 18:00",
+        "dtl_text": "10:00 - 18:00"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 564,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJtyzSX2iMGGARm6dG2v4XLkA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13093265-60770a277bf25056e6d257f4b4a5887d6fb7f7aa143444e10c01ddec15efa61f.jpg",
+    "place_id": "ChIJtyzSX2iMGGARm6dG2v4XLkA",
+    "g_name": "ファクトリー",
+    "g_rating": 4.1,
+    "g_reviews": 564,
+    "g_address": "日本、〒102-0074 東京都千代田区九段南３丁目７−１０ アーバンキューブ九段南 1F",
+    "lat": 35.6931689,
+    "lng": 139.7435365
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "あつんこパン",
+    "name_en": "Atsunko Pan",
+    "area": "東京都 小川町駅",
+    "url": "https://tabelog.com/tokyo/A1310/A131002/13156225/",
+    "rating": 3.71,
+    "review_count_tabelog": 387,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bread, Bagel",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 15:00",
+        "dtl_text": "11:30 - 15:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Sat, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Wed - Fri": {}
+      },
+      "closed_on": "Monday, Tuesday, Saturday, Sunday & Public Holidays"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 69,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJoZBJHwSMGGARP3ZGteOySX4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13156225-b6a3ab59a5755b6cea99de75c45e2b48bc3dcace6a2b5b467cab27f84b80666e.jpg",
+    "place_id": "ChIJoZBJHwSMGGARP3ZGteOySX4",
+    "g_name": "あつんこパン",
+    "g_rating": 4.1,
+    "g_reviews": 69,
+    "g_address": "日本、〒101-0046 東京都千代田区神田多町２丁目１１−３１",
+    "lat": 35.6943009,
+    "lng": 139.7686838
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "ジュウニブンベーカリー 新宿店",
+    "name_en": "12/10 Shinjuku Ten",
+    "area": "東京都 新宿駅",
+    "url": "https://tabelog.com/tokyo/A1304/A130401/13220673/",
+    "rating": 3.75,
+    "review_count_tabelog": 1319,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bread, Sweets (Western style)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Day before public holiday, Day after public holiday",
+        "dtl": "10:00 - 20:30",
+        "dtl_text": "10:00 - 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "10:00 - 20:00",
+        "dtl_text": "10:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.8,
+    "google_reviews": 8182,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJH7qx1tCMGGAR1f2s7PGhMhw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13220673-c32acf2f1c0943d5c2ccef8263d0015137beddbf578d19f18ad009966fc740dc.jpg",
+    "place_id": "ChIJH7qx1tCMGGAR1f2s7PGhMhw",
+    "g_name": "新宿駅",
+    "g_rating": 3.8,
+    "g_reviews": 8182,
+    "g_address": "日本、〒160-0022 東京都新宿区新宿３丁目３８−１",
+    "lat": 35.6896067,
+    "lng": 139.7005713
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "粉花",
+    "name_en": "Konohana",
+    "area": "東京都 浅草（つくばＥＸＰ）駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131102/13057726/",
+    "rating": 3.74,
+    "review_count_tabelog": 577,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bread, Bagel",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 16:00",
+        "dtl_text": "11:00 - 16:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 166,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAT4v48GOGGAR4CmRCdXCAzs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13057726-ce7e76e8ed93dbfa468c8cf2b2d660a473e2fea436f54fded2f524ed157ef90f.jpg",
+    "place_id": "ChIJAT4v48GOGGAR4CmRCdXCAzs",
+    "g_name": "粉花",
+    "g_rating": 4.3,
+    "g_reviews": 166,
+    "g_address": "日本、〒111-0032 東京都台東区浅草３丁目２５−６",
+    "lat": 35.7168796,
+    "lng": 139.7977693
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "VIRON 丸の内店",
+    "name_en": "VIRON Marunouchi Ten",
+    "area": "東京都 東京駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130201/13043904/",
+    "rating": 3.85,
+    "review_count_tabelog": 2402,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Bread, Cake, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "09:00 - 20:00",
+        "dtl_text": "09:00 - 20:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (in accordance with Tokyo Building TOKIA's schedule)"
+    },
+    "google_rating": 4,
+    "google_reviews": 1578,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJMTWC-PqLGGARrODJ7QA3DbU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13043904-ef5318358522d0aeff25542681e1b136a4adb227ccf57b703c171cbc804eb30f.jpg",
+    "place_id": "ChIJMTWC-PqLGGARrODJ7QA3DbU",
+    "g_name": "ブラッスリー・ヴィロン 丸の内店",
+    "g_rating": 4,
+    "g_reviews": 1578,
+    "g_address": "日本、〒100-0005 東京都千代田区丸の内２丁目７−３ TOKIA, 1F 東京ビル",
+    "lat": 35.6786617,
+    "lng": 139.7651715
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "ジャンティーユ",
+    "name_en": "gentille",
+    "area": "東京都 目黒駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131601/13044382/",
+    "rating": 3.73,
+    "review_count_tabelog": 560,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Bread, Cafe, Sweets (Western style)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "08:00 - 18:00",
+        "dtl_text": "08:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.9,
+    "google_reviews": 228,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJh05HZDuLGGAR9HpQ05rKQMc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13044382-f4eb6b80b47f5099eedbb7e3f014e2223ec5756a8d6f6a7df3190f333c38b63f.jpg",
+    "place_id": "ChIJh05HZDuLGGAR9HpQ05rKQMc",
+    "g_name": "gentille (ジャンティーユ)",
+    "g_rating": 3.9,
+    "g_reviews": 228,
+    "g_address": "日本、〒153-0063 東京都目黒区目黒３丁目１−１",
+    "lat": 35.6359273,
+    "lng": 139.70602
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "エディアールベーカリー 新宿本店",
+    "name_en": "HEDIARD Shinjuku Hon Ten",
+    "area": "東京都 新宿三丁目駅",
+    "url": "https://tabelog.com/tokyo/A1304/A130401/13012061/",
+    "rating": 3.77,
+    "review_count_tabelog": 1189,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bread, Cafe, Cake",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 20:00",
+        "dtl_text": "10:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "In accordance with Isetan Shinjuku store's schedule."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 86,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmeXmDkONGGAR8criEg5JLcY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13012061-1f52d0af846a097787c1cab9949d32530ff3a17d51ecef4fb020561b7fd424e4.jpg",
+    "place_id": "ChIJmeXmDkONGGAR8criEg5JLcY",
+    "g_name": "エディアールベーカリー 新宿本店",
+    "g_rating": 4.2,
+    "g_reviews": 86,
+    "g_address": "日本、〒160-0022 東京都新宿区新宿３丁目１４−１",
+    "lat": 35.692114,
+    "lng": 139.7043472
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "イエンセン",
+    "name_en": "Jensen",
+    "area": "東京都 代々木八幡駅",
+    "url": "https://tabelog.com/tokyo/A1318/A131810/13007309/",
+    "rating": 3.73,
+    "review_count_tabelog": 599,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bread, Cake",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "09:00 - 19:00",
+        "dtl_text": "09:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 219,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJR54QyEvzGGARD5ZHF4Uqam8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13007309-469b52a560cb449938e33e279898d970423dc7f4828231e3ec25cfea39b1bf2d.jpg",
+    "place_id": "ChIJR54QyEvzGGARD5ZHF4Uqam8",
+    "g_name": "イエンセン",
+    "g_rating": 4.5,
+    "g_reviews": 219,
+    "g_address": "日本、〒151-0062 東京都渋谷区元代々木町４−２",
+    "lat": 35.6699697,
+    "lng": 139.6873443
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "ルヴァン 富ヶ谷店",
+    "name_en": "Levain Tomigaya Ten",
+    "area": "東京都 代々木八幡駅",
+    "url": "https://tabelog.com/tokyo/A1318/A131810/13001841/",
+    "rating": 3.78,
+    "review_count_tabelog": 1002,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "09:00 - 19:00",
+        "dtl_text": "09:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "09:00 - 18:00",
+        "dtl_text": "09:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 528,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJEw5gVEnzGGARLkXFavBwmro",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13001841-e96439112d665fd1d771e279e33cc53ec45b14d729ade75fe52f630da1ab4ae2.jpg",
+    "place_id": "ChIJEw5gVEnzGGARLkXFavBwmro",
+    "g_name": "ルヴァン 富ヶ谷店",
+    "g_rating": 4.3,
+    "g_reviews": 528,
+    "g_address": "日本、〒151-0063 東京都渋谷区富ケ谷２丁目４３−１３",
+    "lat": 35.6677419,
+    "lng": 139.6857831
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "俺のBakery 恵比寿",
+    "name_en": "Ore no Bakery Ebisu",
+    "area": "東京都 恵比寿駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130302/13201307/",
+    "rating": 3.71,
+    "review_count_tabelog": 1307,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Bread, Sandwich",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 20:00",
+        "dtl_text": "10:00 - 20:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (following Ebisu Garden Place) January 1"
+    },
+    "google_rating": 3.7,
+    "google_reviews": 1136,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJu71vxxWLGGAROtC8DAclLcA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13201307-ad9c82a89e65f46d93e417395b2d479e954bc71d24f524f6b61b9a148eed97f6.jpg",
+    "place_id": "ChIJu71vxxWLGGAROtC8DAclLcA",
+    "g_name": "俺のBakery 恵比寿",
+    "g_rating": 3.7,
+    "g_reviews": 1136,
+    "g_address": "日本、〒150-0013 東京都渋谷区恵比寿４丁目２０−６ ガーデンプレイス 時計広場",
+    "lat": 35.6432236,
+    "lng": 139.7131965
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "マルイチベーグル",
+    "name_en": "MARUICHI BAGEL",
+    "area": "東京都 白金高輪駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131602/13010793/",
+    "rating": 3.79,
+    "review_count_tabelog": 1550,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bagel, Sandwich, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "07:00 - 15:00",
+        "dtl_text": "07:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 850,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJf0pP4aeLGGARtOPspFacEkI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13010793-256aec23f677a07304f0d5b9f137209d3c593e9f2cad0344511ffcf34486105b.jpg",
+    "place_id": "ChIJf0pP4aeLGGARtOPspFacEkI",
+    "g_name": "マルイチベーグル",
+    "g_rating": 4.2,
+    "g_reviews": 850,
+    "g_address": "日本、〒105-0004 東京都港区新橋５丁目２３−１０ 1F",
+    "lat": 35.6635386,
+    "lng": 139.7529107
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "パン家のどん助",
+    "name_en": "Pan Ya no Donsuke",
+    "area": "東京都 東新宿駅",
+    "url": "https://tabelog.com/tokyo/A1304/A130401/13020179/",
+    "rating": 3.74,
+    "review_count_tabelog": 630,
+    "price_dinner": "～￥999",
+    "price_lunch": "-",
+    "sub_categories": "Bread, Sandwich, Bagel",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays, Tuesdays, and Sundays"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 470,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZbuT0t-MGGARS_bn7dGku_Q",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13020179-36ce2db7e01a0233d7fb428c5ea6d6aaa4c41931c54dee4e0ad223dd53a36774.jpg",
+    "place_id": "ChIJZbuT0t-MGGARS_bn7dGku_Q",
+    "g_name": "パン家のどん助",
+    "g_rating": 4.5,
+    "g_reviews": 470,
+    "g_address": "日本、〒160-0022 東京都新宿区新宿７丁目１３−３",
+    "lat": 35.698408,
+    "lng": 139.7109333
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "カイソ",
+    "name_en": "KAISO",
+    "area": "東京都 世田谷代田駅",
+    "url": "https://tabelog.com/tokyo/A1318/A131812/13129587/",
+    "rating": 3.72,
+    "review_count_tabelog": 488,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bread, Bagel",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Please note that the restaurant is scheduled to close on August 18, due to building demolition."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 149,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJUzUfnGjzGGARDbou-BCVUvg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13129587-fe0e53cb1abb71e55647f2f1ed75de1a644ceb7ce440f9ec547e87b23f23c9eb.jpg",
+    "place_id": "ChIJUzUfnGjzGGARDbou-BCVUvg",
+    "g_name": "KAISO",
+    "g_rating": 4.2,
+    "g_reviews": 149,
+    "g_address": "日本、〒155-0032 東京都世田谷区代沢５丁目６−１５",
+    "lat": 35.6556596,
+    "lng": 139.6673967
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "セントル ザ・ベーカリー 青山店",
+    "name_en": "CENTRE THE BAKERY Aoyama Ten",
+    "area": "東京都 表参道駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130602/13227934/",
+    "rating": 3.78,
+    "review_count_tabelog": 563,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "10:00 - 14:00 15:00 - 18:00",
+        "dtl_text": "15:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "10:00 - 19:00",
+        "dtl_text": "10:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Weekdays": {},
+        "Weekends & Public Holidays": {}
+      },
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 267,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJlWySfhSLGGAR3C1WBp8zkQs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13227934-789930bc2562856cc04facdd65513468d6154c53b2dc50da105d10bb552d17e1.jpg",
+    "place_id": "ChIJlWySfhSLGGAR3C1WBp8zkQs",
+    "g_name": "セントル ザ ベーカリー 青山店",
+    "g_rating": 4.2,
+    "g_reviews": 267,
+    "g_address": "日本、〒150-0001 東京都渋谷区神宮前５丁目５２−２ 青山オーバルビル 1F",
+    "lat": 35.6627458,
+    "lng": 139.7092452
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "パサージュ ア ニヴォ",
+    "name_en": "Boulangerie Passage à Niveau",
+    "area": "東京都 武蔵境駅",
+    "url": "https://tabelog.com/tokyo/A1320/A132003/13056438/",
+    "rating": 3.74,
+    "review_count_tabelog": 616,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bread, Sandwich",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 17:00",
+        "dtl_text": "10:00 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 228,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJy0qOwpjvGGARnsKiF2iAGCI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13056438-f4efa31962534519ecc78b37558cc71b5ee61c9dec98fdf79c5482e742eb63a1.jpg",
+    "place_id": "ChIJy0qOwpjvGGARnsKiF2iAGCI",
+    "g_name": "パサージュ・ ア ・ニヴォ",
+    "g_rating": 4.4,
+    "g_reviews": 228,
+    "g_address": "日本、〒180-0023 東京都武蔵野市境南町１丁目１−２０ ＴＡＩＫＯＨビル",
+    "lat": 35.7019939,
+    "lng": 139.5465611
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "トラスパレンテ 学芸大学店",
+    "name_en": "TRASPARENTE Gakugeidaigaku Ten",
+    "area": "東京都 学芸大学駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131702/13129736/",
+    "rating": 3.74,
+    "review_count_tabelog": 715,
+    "price_dinner": "～￥999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Bread, Cafe, Cake",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "09:00 - 18:00",
+        "dtl_text": "09:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 215,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2YeJu870GGAReEAz_KKaqhk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13129736-1675390cfc1990eb1bf4510531b53f3cde273fb0d3a12ebe2803f46271713401.jpg",
+    "place_id": "ChIJ2YeJu870GGAReEAz_KKaqhk",
+    "g_name": "トラスパレンテ 学芸大学",
+    "g_rating": 4.4,
+    "g_reviews": 215,
+    "g_address": "日本、〒152-0004 東京都目黒区鷹番３丁目８−１１ ベルドミール・レナ 1F",
+    "lat": 35.62979170000001,
+    "lng": 139.6851223
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "ブリコラージュ ブレッド アンド カンパニー ベーカリー",
+    "name_en": "Bricolage Bread and Company Osaka Umeda Ten",
+    "area": "東京都 六本木駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13222794/",
+    "rating": 3.81,
+    "review_count_tabelog": 1274,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Bread, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "07:00 - 19:00",
+        "dtl_text": "07:00 - 19:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (open on public holidays!)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 1092,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJdbE1WwqLGGARc19XDR8AZZ0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13222794-c6ea76766c51027e89348ecdaf8798cf2a448ccfe28acf5f69976ad2e01a0d43.jpg",
+    "place_id": "ChIJdbE1WwqLGGARc19XDR8AZZ0",
+    "g_name": "bricolage bread and co.",
+    "g_rating": 4.3,
+    "g_reviews": 1092,
+    "g_address": "日本、〒106-0032 東京都港区六本木６丁目１５−１ けやき坂テラス 1F",
+    "lat": 35.6591869,
+    "lng": 139.7282404
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "オリミネベーカーズ 築地七丁目店",
+    "name_en": "ORIMINE BAKERS Tsukiji Nanachome Ten",
+    "area": "東京都 築地駅",
+    "url": "https://tabelog.com/tokyo/A1313/A131301/13124863/",
+    "rating": 3.62,
+    "review_count_tabelog": 766,
+    "price_dinner": "～￥999",
+    "price_lunch": "-",
+    "sub_categories": "Bread, Sandwich, Bagel",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 19:00",
+        "dtl_text": "10:00 - 19:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round (except for Year-end & New Year Holidays)"
+    },
+    "google_rating": 4,
+    "google_reviews": 252,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3SjKL2KJGGARBlec_yW-yTg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13124863-2a3f8dba1781045192e1ad297f2ef564b08b634f9b996cd40a498e9df408f59d.jpg",
+    "place_id": "ChIJ3SjKL2KJGGARBlec_yW-yTg",
+    "g_name": "オリミネベーカーズ築地７丁目店",
+    "g_rating": 4,
+    "g_reviews": 252,
+    "g_address": "日本、〒104-0045 東京都中央区築地７丁目１０−１１",
+    "lat": 35.6660625,
+    "lng": 139.7749302
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "ビゴの店 東京本店",
+    "name_en": "Bigo no Mise Tokyo Honten",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13002489/",
+    "rating": 3.78,
+    "review_count_tabelog": 1024,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Bread, Sandwich, Sweets (Western style)",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 210,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJX0R9rOWLGGARooGzVeiqb2Q",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13002489-4eb622952cbabe7d2093ebeb9b8e101c65565eaaeed978d894b5038dfee316e5.jpg",
+    "place_id": "ChIJX0R9rOWLGGARooGzVeiqb2Q",
+    "g_name": "ドゥースフランス.ビゴの店 銀座 (東京本店)",
+    "g_rating": 4.2,
+    "g_reviews": 210,
+    "g_address": "日本、〒104-0061 東京都中央区銀座３丁目２−１ マロニエゲート銀座2 B2F",
+    "lat": 35.6737054,
+    "lng": 139.7651517
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "ブーランジェリー&カフェ マンマーノ",
+    "name_en": "Boulangerie et Cafe Main Mano",
+    "area": "東京都 代々木上原駅",
+    "url": "https://tabelog.com/tokyo/A1318/A131811/13059417/",
+    "rating": 3.77,
+    "review_count_tabelog": 1271,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Bread, Cafe, Sandwich",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 18:00 L.O. 17:30",
+        "dtl_text": "11:00 - 18:00 L.O. 17:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 498,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9WpO7EfzGGARmZp6judDfDw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13059417-b79fae78f1e0edc2dee1e0ae96100d08ddc824ad0696b0886f481ee0795b632b.jpg",
+    "place_id": "ChIJ9WpO7EfzGGARmZp6judDfDw",
+    "g_name": "ブーランジェリー&カフェ マンマーノ",
+    "g_rating": 4,
+    "g_reviews": 498,
+    "g_address": "日本、〒151-0066 東京都渋谷区西原３丁目６−５ MH代々木上原 1F",
+    "lat": 35.6701714,
+    "lng": 139.6813542
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "ル パン ドゥ ジョエル･ロブション ニュウマン新宿店",
+    "name_en": "Le Pan de Joël Robuchon Nyuman Shinjukuten",
+    "area": "東京都 新宿駅",
+    "url": "https://tabelog.com/tokyo/A1304/A130401/13193559/",
+    "rating": 3.78,
+    "review_count_tabelog": 1661,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "08:00 - 21:00",
+        "dtl_text": "08:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "08:00 - 20:30",
+        "dtl_text": "08:00 - 20:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 3.8,
+    "google_reviews": 728,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJN3ufl9qMGGARsb8_CaOXeis",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13193559-74d711c6c1f4547c9195f7aef33a8fefa7f4f2b7eb9ebf02d073fea297b29d2d.jpg",
+    "place_id": "ChIJN3ufl9qMGGARsb8_CaOXeis",
+    "g_name": "ル パン ドゥ ジョエル・ロブション ニュウマン新宿店",
+    "g_rating": 3.8,
+    "g_reviews": 728,
+    "g_address": "日本、〒160-0022 東京都新宿区新宿４丁目１−６ JR新宿ミライナタワー NEWoMan1F",
+    "lat": 35.6887374,
+    "lng": 139.7018272
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "ダンディゾン",
+    "name_en": "Dans Dix ans",
+    "area": "東京都 吉祥寺駅",
+    "url": "https://tabelog.com/tokyo/A1320/A132001/13005834/",
+    "rating": 3.79,
+    "review_count_tabelog": 1371,
+    "price_dinner": "～￥999",
+    "price_lunch": "-",
+    "sub_categories": "Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 18:00",
+        "dtl_text": "11:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 646,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJH6jz2U7uGGARToAUq0flp2o",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13005834-761658bb38c8cdaa9b2ebb5adc4df7327f35c508d69cf216cfd9ed5c9e228035.jpg",
+    "place_id": "ChIJH6jz2U7uGGARToAUq0flp2o",
+    "g_name": "Dans Dix ans（ダンディゾン）",
+    "g_rating": 4.3,
+    "g_reviews": 646,
+    "g_address": "日本、〒180-0004 東京都武蔵野市吉祥寺本町２丁目２８−２",
+    "lat": 35.7064752,
+    "lng": 139.5760892
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "ヒルサイドパントリー 代官山",
+    "name_en": "HILLSIDE PANTRY Daikanyama",
+    "area": "東京都 代官山駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130303/13002071/",
+    "rating": 3.76,
+    "review_count_tabelog": 904,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Bread, Side dishes, Delicatessen, Sandwich",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 19:00",
+        "dtl_text": "10:00 - 19:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 239,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJQ8x9UWLGGARorSE8dQt5eU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13002071-63dabe2bf89e9f54a93364a522eb62711d3875de0b6d09b2ac29173daa9e40c0.jpg",
+    "place_id": "ChIJJQ8x9UWLGGARorSE8dQt5eU",
+    "g_name": "ヒルサイドパントリー代官山",
+    "g_rating": 4.1,
+    "g_reviews": 239,
+    "g_address": "日本、〒150-0033 東京都渋谷区猿楽町１８−１２ ヒルサイドテラスG棟 B1",
+    "lat": 35.648717,
+    "lng": 139.700112
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "ブーランジェリーブルディガラ 広尾本店",
+    "name_en": "BURDIGALA Hiro Honten",
+    "area": "東京都 広尾駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130703/13000523/",
+    "rating": 3.74,
+    "review_count_tabelog": 864,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bread, Cake",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat",
+        "dtl": "08:00 - 20:00",
+        "dtl_text": "08:00 - 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "08:00 - 19:00",
+        "dtl_text": "08:00 - 19:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays are closed if there is a public holiday on that day; the following Wednesday will then be closed instead."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 310,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJu8cv0HKLGGARlJII4Jlxrvg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13000523-97774c27a4d960e337c26e92d904ed49b0787bb2739fc593e15d7117213da37e.jpg",
+    "place_id": "ChIJu8cv0HKLGGARlJII4Jlxrvg",
+    "g_name": "ブーランジェリーブルディガラ 広尾本店",
+    "g_rating": 4.3,
+    "g_reviews": 310,
+    "g_address": "日本、〒106-0047 東京都港区南麻布４丁目５−６６",
+    "lat": 35.6510815,
+    "lng": 139.72371
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "えんツコ堂 製パン",
+    "name_en": "ENTUKO",
+    "area": "東京都 西荻窪駅",
+    "url": "https://tabelog.com/tokyo/A1319/A131907/13060088/",
+    "rating": 3.73,
+    "review_count_tabelog": 581,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bread, Bagel",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 18:00",
+        "dtl_text": "10:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Occasional temporary closures"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 119,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJU0aGuhPuGGARn4ICJyAMbqo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13060088-e17ede2c4505d21cb4e7f163d20dc5e2e4750a35c5d76d61b272a4e7f88d5c80.jpg",
+    "place_id": "ChIJU0aGuhPuGGARn4ICJyAMbqo",
+    "g_name": "えんツコ堂製パン",
+    "g_rating": 4.1,
+    "g_reviews": 119,
+    "g_address": "日本、〒167-0042 東京都杉並区西荻北４丁目３−４ 美光弐番館",
+    "lat": 35.706367,
+    "lng": 139.5960969
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "ブランジュリー パリの空の下",
+    "name_en": "Boulangerie Paris no Sora no Shita",
+    "area": "東京都 若林駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131709/13100024/",
+    "rating": 3.71,
+    "review_count_tabelog": 305,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "-",
+    "sub_categories": "Bread, Sandwich",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Tue, Wed, Thu": {}
+      },
+      "closed_on": "Monday, Friday, Saturday, Sunday"
+    },
+    "google_rating": 3.3,
+    "google_reviews": 82,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJp69FyIL0GGARnU7rNBGP3uo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13100024-c16ee2d3387940234b2cefd0e360d83cad35a294c840943b995ef9ee2387c535.jpg",
+    "place_id": "ChIJp69FyIL0GGARnU7rNBGP3uo",
+    "g_name": "ブランジュリー パリの空の下",
+    "g_rating": 3.3,
+    "g_reviews": 82,
+    "g_address": "日本、〒154-0011 東京都世田谷区上馬５丁目４０−１３ 吉永荘 1階",
+    "lat": 35.6421676,
+    "lng": 139.659945
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "とらやベーカリー",
+    "name_en": "TORAYA BAKERY",
+    "area": "東京都 金町駅",
+    "url": "https://tabelog.com/tokyo/A1324/A132403/13050971/",
+    "rating": 3.74,
+    "review_count_tabelog": 493,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 17:30",
+        "dtl_text": "11:00 - 17:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 199,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJLVdKdnOFGGARJtN3nFmZJlk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13050971-7798a09b3cfa2d2e13a5610a41f87e6e4643386f136ac48718e76ec914462d42.jpg",
+    "place_id": "ChIJLVdKdnOFGGARJtN3nFmZJlk",
+    "g_name": "とらやベーカリー",
+    "g_rating": 4.1,
+    "g_reviews": 199,
+    "g_address": "日本、〒125-0041 東京都葛飾区東金町３丁目１７−４ とらやビル",
+    "lat": 35.7707922,
+    "lng": 139.8726653
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "ラトリエ･デュ･パン",
+    "name_en": "L'Atelier du pain",
+    "area": "東京都 六本木駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13147689/",
+    "rating": 3.78,
+    "review_count_tabelog": 1852,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bread, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "07:30 - 22:00",
+        "dtl_text": "07:30 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "09:00 - 22:00",
+        "dtl_text": "09:00 - 22:00"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 584,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJvx7Y5HeLGGARxSSRp7xVDIE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13147689-5740f191c994961abb5c4fa3098729a02213eb0a382d0fd060c512918b65bc84.jpg",
+    "place_id": "ChIJvx7Y5HeLGGARxSSRp7xVDIE",
+    "g_name": "ラトリエ デュ パン",
+    "g_rating": 4.3,
+    "g_reviews": 584,
+    "g_address": "日本、〒106-0032 東京都港区六本木６丁目１−12 21 六本木ビル 1F",
+    "lat": 35.6623189,
+    "lng": 139.7315185
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "リベルテ・パティスリー・ブーランジェリー 東京本店・吉祥寺",
+    "name_en": "Liberte Patisserie Boulangerie Tokyo Honten Kichijoji",
+    "area": "東京都 吉祥寺駅",
+    "url": "https://tabelog.com/tokyo/A1320/A132001/13219660/",
+    "rating": 3.75,
+    "review_count_tabelog": 1419,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Bread, Cake, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "10:00 - 19:30",
+        "dtl_text": "10:00 - 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "09:00 - 19:30",
+        "dtl_text": "09:00 - 19:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Weekdays": {},
+        "Sat, Sun & Public Holidays": {}
+      },
+      "closed_on": "Open year-round (except for summer and winter breaks). Please note that we will be closed for winter break from January 10 to 12."
+    },
+    "google_rating": 4,
+    "google_reviews": 551,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJn2tfz0juGGARTnstC_K9i4Y",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13219660-c071250cd7080ee87f1afb93802f0ba917faa116f9cb715c2cdb08c3f5df9ec5.jpg",
+    "place_id": "ChIJn2tfz0juGGARTnstC_K9i4Y",
+    "g_name": "LIBERTÉ PÂTISSERIE BOULANGERIE 東京本店（リベルテ・パティスリー・ブーランジェリー 東京本店）",
+    "g_rating": 4,
+    "g_reviews": 551,
+    "g_address": "日本、〒180-0004 東京都武蔵野市吉祥寺本町２丁目１４−3 1F･2F",
+    "lat": 35.7058765,
+    "lng": 139.5773157
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "ぶーる・ぶーる・ぶらんじぇり",
+    "name_en": "Boule Beurre Boulangerie",
+    "area": "東京都 八王子駅",
+    "url": "https://tabelog.com/tokyo/A1329/A132904/13048885/",
+    "rating": 3.75,
+    "review_count_tabelog": 668,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bread, Bagel",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 18:30",
+        "dtl_text": "11:00 - 18:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Occasional temporary closures may occur."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 320,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJw14eXAS6JhURLuQSE9L1LR4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13048885-586cbf246ba03194ae35a3542d38f75bb5f0f4f80356363829a549c3c0b5685c.jpg",
+    "place_id": "ChIJw14eXAS6JhURLuQSE9L1LR4",
+    "g_name": "Boule Beurre Boulangerie",
+    "g_rating": 4.2,
+    "g_reviews": 320,
+    "g_address": "日本、〒192-0081 東京都八王子市横山町１６−５",
+    "lat": 35.66057869999999,
+    "lng": 139.3337502
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "みんなのぱんや",
+    "name_en": "Minna no Pan'ya",
+    "area": "東京都 東京駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130201/13020387/",
+    "rating": 3.71,
+    "review_count_tabelog": 909,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bread, Sandwich, Side dishes, Delicatessen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 18:30",
+        "dtl_text": "11:00 - 18:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 17:00",
+        "dtl_text": "11:00 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.8,
+    "google_reviews": 163,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJMTWC-PqLGGARoSZv6ACwm0k",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13020387-7d338636b679f30b2cb4a4fb209c566662b289ce878e3e5654806658f84507b0.jpg",
+    "place_id": "ChIJMTWC-PqLGGARoSZv6ACwm0k",
+    "g_name": "みんなのぱんや",
+    "g_rating": 3.8,
+    "g_reviews": 163,
+    "g_address": "日本、〒100-0005 東京都千代田区丸の内２丁目７−３ 東京 ﾋﾞﾙ TOKIA B1F",
+    "lat": 35.67877,
+    "lng": 139.7650533
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "ル パン ドゥ ジョエル・ロブション 渋谷ヒカリエShinQs店",
+    "name_en": "Le Pan de Joel Robuchon Shibuya Hikarieshinkyuesuten",
+    "area": "東京都 渋谷駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130301/13140263/",
+    "rating": 3.79,
+    "review_count_tabelog": 1544,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Bread, Sandwich, Sweets (Western style)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 21:00",
+        "dtl_text": "11:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "11:00 - 20:00",
+        "dtl_text": "11:00 - 20:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 387,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJreUVUFiLGGAR_EbLD8ocr8w",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13140263-d7dedd6b19babd9611146225d0b016c6f252a5aaff44e66a4e4cba74da74488f.jpg",
+    "place_id": "ChIJreUVUFiLGGAR_EbLD8ocr8w",
+    "g_name": "ル パン ドゥ ジョエル・ロブション 渋谷ヒカリエShinQs店",
+    "g_rating": 4.1,
+    "g_reviews": 387,
+    "g_address": "日本、〒150-8510 東京都渋谷区渋谷２丁目２１−１ B2F 渋谷ヒカリエ ShinQs",
+    "lat": 35.6590581,
+    "lng": 139.7033179
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "マニュファクチュア",
+    "name_en": "Manufacture",
+    "area": "東京都 浅草（東武・都営・メトロ）駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131102/13180700/",
+    "rating": 3.7,
+    "review_count_tabelog": 537,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bread, Cafe, Bagel",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "13:00 - 18:00",
+        "dtl_text": "13:00 - 18:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 161,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9WPZE8SOGGARs6I3t6ZmTuM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13180700-812b09d1c3227aa44c054f41ab7b7210995bfa480284371ea7d3f7d76d2d7c21.jpg",
+    "place_id": "ChIJ9WPZE8SOGGARs6I3t6ZmTuM",
+    "g_name": "マニュファクチュア",
+    "g_rating": 4.4,
+    "g_reviews": 161,
+    "g_address": "日本、〒111-0033 東京都台東区花川戸１丁目１１−１ あゆみビル ３Ｆ",
+    "lat": 35.7123501,
+    "lng": 139.7994198
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "小麦と酵母 濱田家 三軒茶屋本店",
+    "name_en": "Komugi to Kobo Hamada Ya Sangenjaya Honten",
+    "area": "東京都 西太子堂駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131706/13005398/",
+    "rating": 3.75,
+    "review_count_tabelog": 987,
+    "price_dinner": "～￥999",
+    "price_lunch": "-",
+    "sub_categories": "Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 19:00",
+        "dtl_text": "11:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.9,
+    "google_reviews": 112,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJd7VG7Z_0GGARMVV4pYmBwgc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13005398-d52bd39c551f07daf34c68fb16567f22c6b77ab6bd65480cc92d631b1a676fea.jpg",
+    "place_id": "ChIJd7VG7Z_0GGARMVV4pYmBwgc",
+    "g_name": "Richu 濱田家 太子堂本店",
+    "g_rating": 3.9,
+    "g_reviews": 112,
+    "g_address": "日本、〒154-0004 東京都世田谷区太子堂２丁目２４−７ ラピス三軒茶屋",
+    "lat": 35.6463339,
+    "lng": 139.6700504
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "エムサイズ",
+    "name_en": "M Size",
+    "area": "東京都 学芸大学駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131702/13024601/",
+    "rating": 3.74,
+    "review_count_tabelog": 577,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 20:00",
+        "dtl_text": "11:30 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 118,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQWzxdM30GGARD6POGe78Sts",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13024601-e6d4516d4168b4f1a4ae9a466d38dfa7f02e4a4ff519cf4ee97af91791225b93.jpg",
+    "place_id": "ChIJQWzxdM30GGARD6POGe78Sts",
+    "g_name": "エムサイズ",
+    "g_rating": 4.3,
+    "g_reviews": 118,
+    "g_address": "日本、〒152-0004 東京都目黒区鷹番２丁目５−１７",
+    "lat": 35.6284917,
+    "lng": 139.6887632
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "パン・オ・スリール",
+    "name_en": "Pan au Sourire",
+    "area": "東京都 渋谷駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130602/13147336/",
+    "rating": 3.74,
+    "review_count_tabelog": 561,
+    "price_dinner": "-",
+    "price_lunch": "-",
+    "sub_categories": "Bread, Bagel, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every Sunday and Monday"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 253,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJe-U_oViLGGAR0QHHi7-4Upk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13147336-741639ac8e950d43ee3c3089809a869dc03ff979d21d0157a3ee8ebbe7d33cf3.jpg",
+    "place_id": "ChIJe-U_oViLGGAR0QHHi7-4Upk",
+    "g_name": "Pain Au Sourire",
+    "g_rating": 4.2,
+    "g_reviews": 253,
+    "g_address": "日本、〒150-0002 東京都渋谷区渋谷１丁目５−２ 1F",
+    "lat": 35.6612754,
+    "lng": 139.7059701
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "パン工房 ブランジェリーケン",
+    "name_en": "BOULANGERIE KEN",
+    "area": "東京都 下赤塚駅",
+    "url": "https://tabelog.com/tokyo/A1322/A132204/13046260/",
+    "rating": 3.73,
+    "review_count_tabelog": 864,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bread, Bagel, Sandwich",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "07:00 - 21:00",
+        "dtl_text": "07:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays and Tuesdays"
+    },
+    "google_rating": 3.9,
+    "google_reviews": 757,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJr8k092PsGGARzFWofzMJXP0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13046260-fd68d40e24b5e914fbb13dfb6df74bc2987099bd078c871ad9f44b59b35eedf4.jpg",
+    "place_id": "ChIJr8k092PsGGARzFWofzMJXP0",
+    "g_name": "ブランジェリーケン",
+    "g_rating": 3.9,
+    "g_reviews": 757,
+    "g_address": "日本、〒175-0092 東京都板橋区赤塚２丁目２−１７",
+    "lat": 35.7711846,
+    "lng": 139.6456111
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "ラ ブティック ドゥ ジョエル・ロブション 丸の内ブリックスクエア店",
+    "name_en": "La Boutique de Joël Robuchon Marunochi Burikkusukuea Ten",
+    "area": "東京都 二重橋前駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130201/13096409/",
+    "rating": 3.78,
+    "review_count_tabelog": 1917,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Bread, Cake, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 21:00 L.O. Food 20:00 Drinks 20:30",
+        "dtl_text": "11:00 - 21:00 L.O. Food 20:00 Drinks 20:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.7,
+    "google_reviews": 604,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJewLRDPqLGGARwlEI4KYTcPc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13096409-105b51f4fb20ce056f5c255ce9dcb6360505bf1d3f976b2b1e5f563eda5b12f6.jpg",
+    "place_id": "ChIJewLRDPqLGGARwlEI4KYTcPc",
+    "g_name": "ラ ブティック ドゥ ジョエル・ロブション 丸の内ブリックスクエア店",
+    "g_rating": 3.7,
+    "g_reviews": 604,
+    "g_address": "日本、〒100-6901 東京都千代田区丸の内２丁目６−１ ブリックスクエア 1F",
+    "lat": 35.6783755,
+    "lng": 139.7625755
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "Comme’N TOKYO",
+    "name_en": "Comme’N TOKYO",
+    "area": "東京都 九品仏駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131715/13249511/",
+    "rating": 3.77,
+    "review_count_tabelog": 1193,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "07:00 - 18:00",
+        "dtl_text": "07:00 - 18:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 733,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJi-7_mir1GGARwqjUxs_TNK4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13249511-8294b172ffd0a55d645ca5491a5684fbd94bb4470efa8a72b0d23a1c385a5f27.jpg",
+    "place_id": "ChIJi-7_mir1GGARwqjUxs_TNK4",
+    "g_name": "Comme'N TOKYO （コムン トウキョウ）本店",
+    "g_rating": 4.3,
+    "g_reviews": 733,
+    "g_address": "日本、〒158-0083 東京都世田谷区奥沢７丁目１８−５ 1F",
+    "lat": 35.6057886,
+    "lng": 139.661832
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "365日と日本橋",
+    "name_en": "365 Nichi to Nihonbashi",
+    "area": "東京都 日本橋駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130202/13226439/",
+    "rating": 3.77,
+    "review_count_tabelog": 1618,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:30 - 20:00 L.O. 19:00",
+        "dtl_text": "10:30 - 20:00 L.O. 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.8,
+    "google_reviews": 394,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJcZQT0kyJGGARhnSueotjyH4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13226439-2d5fdf87b218c092f0009b838d69eedc075d7f9d6bbeee9c844b5ad679e54312.jpg",
+    "place_id": "ChIJcZQT0kyJGGARhnSueotjyH4",
+    "g_name": "365日と日本橋",
+    "g_rating": 3.8,
+    "g_reviews": 394,
+    "g_address": "日本、〒103-6199 東京都中央区日本橋２丁目５−１ 日本橋高島屋S.C.新館1階",
+    "lat": 35.68136640000001,
+    "lng": 139.7733956
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "トラスパレンテ 中目黒店",
+    "name_en": "TRASPARENTE Nakameguro Ten",
+    "area": "東京都 中目黒駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13187231/",
+    "rating": 3.75,
+    "review_count_tabelog": 1007,
+    "price_dinner": "～￥999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Bread, Cafe, Cake",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "09:00 - 18:00",
+        "dtl_text": "09:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 463,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ-HWq0mLGGARKvoLziE0deQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13187231-c7bb6e57a5d8712941e877457cc490e2e58799bc4361b9b4d00cb5911827eed5.jpg",
+    "place_id": "ChIJZ-HWq0mLGGARKvoLziE0deQ",
+    "g_name": "トラスパレンテ 中目黒",
+    "g_rating": 4.3,
+    "g_reviews": 463,
+    "g_address": "日本、〒153-0051 東京都目黒区上目黒２丁目１２−１１ FDビルディング 1F",
+    "lat": 35.6426568,
+    "lng": 139.6983978
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "チクテベーカリー",
+    "name_en": "CICOUTE BAKERY",
+    "area": "東京都 南大沢駅",
+    "url": "https://tabelog.com/tokyo/A1329/A132904/13153557/",
+    "rating": 3.76,
+    "review_count_tabelog": 568,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Bread, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 16:30",
+        "dtl_text": "11:30 - 16:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (please check the official website for updates)"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 587,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJlS0-2bPiGGAR8cUVCv6c648",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13153557-5c51cbdd8c738549823e9c2591cecc8c91f610a9aa0bcd63f4f163c10346d686.jpg",
+    "place_id": "ChIJlS0-2bPiGGAR8cUVCv6c648",
+    "g_name": "チクテベーカリー",
+    "g_rating": 4.2,
+    "g_reviews": 587,
+    "g_address": "日本、〒192-0364 東京都八王子市南大沢３丁目９−５ コーシャハイム南大沢５号棟 １０１号室",
+    "lat": 35.60771680000001,
+    "lng": 139.3789007
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "ポワンエリーニュ",
+    "name_en": "POINT ET LIGNE",
+    "area": "東京都 大手町駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130201/13038468/",
+    "rating": 3.79,
+    "review_count_tabelog": 2971,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Bread, Bistro, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 21:00",
+        "dtl_text": "11:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "10:30 - 21:00",
+        "dtl_text": "10:30 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "10:30 - 20:00",
+        "dtl_text": "10:30 - 20:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.9,
+    "google_reviews": 647,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJN4zgs_mLGGARv1Vts8w-X1g",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13038468-5c1aea0c53d13318364fe9bd37c5622a3296c5e5d13d4bff6dee2140c6b7702b.jpg",
+    "place_id": "ChIJN4zgs_mLGGARv1Vts8w-X1g",
+    "g_name": "POINT ET LIGNE 新丸ビル店",
+    "g_rating": 3.9,
+    "g_reviews": 647,
+    "g_address": "日本、〒100-6590 東京都千代田区丸の内１丁目５−１ 新丸の内ビル 地下1階",
+    "lat": 35.6823262,
+    "lng": 139.7638628
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "ブーランジェリー スドウ",
+    "name_en": "Boulangerie Sudo",
+    "area": "東京都 松陰神社前駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131709/13098861/",
+    "rating": 3.86,
+    "review_count_tabelog": 1222,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bread, Cafe, Sweets",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Fri, Sat, Sun",
+        "dtl": "11:00 - 19:00",
+        "dtl_text": "11:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 640,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJOaGph37zGGARFlWxcB4GS4Q",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13098861-885027967de1ccdde2b36451baff1e2c4922a17f1cd3ea3ae9e4f341e46756e8.jpg",
+    "place_id": "ChIJOaGph37zGGARFlWxcB4GS4Q",
+    "g_name": "ブーランジェリー スドウ",
+    "g_rating": 4.1,
+    "g_reviews": 640,
+    "g_address": "日本、〒154-0017 東京都世田谷区世田谷４丁目３−１４",
+    "lat": 35.64377,
+    "lng": 139.6548767
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "パン焼き工房そーせーじ",
+    "name_en": "Boulangerie SOO SEE JI",
+    "area": "東京都 西荻窪駅",
+    "url": "https://tabelog.com/tokyo/A1319/A131907/13057538/",
+    "rating": 3.71,
+    "review_count_tabelog": 438,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Fri, Sat, Sun",
+        "dtl": "10:00 - 13:00 15:00 - 18:00",
+        "dtl_text": "15:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.4,
+    "google_reviews": 292,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJC9riNAbuGGARPOTDxNq0JCk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13057538-21757532ce47cfe4d3c5b04fa74316c51bb1f1ee0874ac6a4160dbdd58dec12f.jpg",
+    "place_id": "ChIJC9riNAbuGGARPOTDxNq0JCk",
+    "g_name": "パン焼き工房そーせーじ",
+    "g_rating": 3.4,
+    "g_reviews": 292,
+    "g_address": "日本、〒167-0053 東京都杉並区西荻南４丁目２７−９ 土屋コーポ 1F",
+    "lat": 35.7035912,
+    "lng": 139.6068626
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "BAKERY SASA",
+    "name_en": "BAKERY SASA",
+    "area": "東京都 笹塚駅",
+    "url": "https://tabelog.com/tokyo/A1318/A131808/13036943/",
+    "rating": 3.72,
+    "review_count_tabelog": 590,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "08:00 - 19:00",
+        "dtl_text": "08:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "10:00 - 17:00",
+        "dtl_text": "10:00 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays and shortened hours on Wednesdays"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 156,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5QqfOhjzGGARunKDxXVx2KQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13036943-db33dc4a2a224f2f42f057a123dfae4e7f610f2c5edb9f9f283fc8aa4965df7a.jpg",
+    "place_id": "ChIJ5QqfOhjzGGARunKDxXVx2KQ",
+    "g_name": "BAKERY SASA (ベーカリーササ)",
+    "g_rating": 4.1,
+    "g_reviews": 156,
+    "g_address": "日本、〒151-0073 東京都渋谷区笹塚２丁目７−１０ 浜中ビル笹塚 1F",
+    "lat": 35.6751139,
+    "lng": 139.6689778
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "カタネベーカリー",
+    "name_en": "Katane Bakery",
+    "area": "東京都 代々木上原駅",
+    "url": "https://tabelog.com/tokyo/A1318/A131811/13020931/",
+    "rating": 3.77,
+    "review_count_tabelog": 1123,
+    "price_dinner": "～￥999",
+    "price_lunch": "-",
+    "sub_categories": "Bread, Sandwich",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "07:00 - 15:00",
+        "dtl_text": "07:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "07:00 - 14:00",
+        "dtl_text": "07:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The first, third, and fifth Sundays of each month."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 890,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJX7UdbTfzGGARRByLKAJS1VU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13020931-2f373ade20c726b3515fce33fc198fa7e594b75d25417b679bebc5d2edfb8f13.jpg",
+    "place_id": "ChIJX7UdbTfzGGARRByLKAJS1VU",
+    "g_name": "カタネベーカリー",
+    "g_rating": 4.4,
+    "g_reviews": 890,
+    "g_address": "日本、〒151-0066 東京都渋谷区西原１丁目７−５",
+    "lat": 35.6735153,
+    "lng": 139.6820072
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "ポム・ド・テール",
+    "name_en": "Pomme de terre",
+    "area": "東京都 西荻窪駅",
+    "url": "https://tabelog.com/tokyo/A1319/A131907/13009237/",
+    "rating": 3.74,
+    "review_count_tabelog": 489,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bagel, Sweets (Western style), Sandwich",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "13:00 - 18:00",
+        "dtl_text": "13:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Fri, Sun",
+        "dtl": "14:00 - 18:00",
+        "dtl_text": "14:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Sat",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 138,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJq7R6DRPuGGARRZKRgyQh19w",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13009237-e06f50ea58495dea173912aba6787409eee565b2f268668d95b342989680f034.jpg",
+    "place_id": "ChIJq7R6DRPuGGARRZKRgyQh19w",
+    "g_name": "ポム ド テール",
+    "g_rating": 4.1,
+    "g_reviews": 138,
+    "g_address": "日本、〒167-0042 東京都杉並区西荻北４丁目８−２−１０１",
+    "lat": 35.7073288,
+    "lng": 139.595459
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "breadworks エキュート品川",
+    "name_en": "breadworks Ekyuto Higashishinagawa Ten",
+    "area": "東京都 品川駅",
+    "url": "https://tabelog.com/tokyo/A1314/A131403/13155677/",
+    "rating": 3.74,
+    "review_count_tabelog": 831,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bread, Sandwich, Beer bar",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4,
+    "google_reviews": 150,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJXfHuZFqKGGARVOxTgPIlHPY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13155677-745986b6ec01c345667601ca42f479f1641ce990e311ad0980684a9fda3fface.jpg",
+    "place_id": "ChIJXfHuZFqKGGARVOxTgPIlHPY",
+    "g_name": "ブレッドワークス エキュート品川店",
+    "g_rating": 4,
+    "g_reviews": 150,
+    "g_address": "日本、〒108-0074 東京都港区高輪３丁目２６−２７",
+    "lat": 35.6286282,
+    "lng": 139.7392321
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "Zopfカレーパン専門店 グランスタ店",
+    "name_en": "Zopf Curry Pan Senmon Ten Gransta Ten",
+    "area": "東京都 東京駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130201/13236598/",
+    "rating": 3.73,
+    "review_count_tabelog": 2240,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bread, Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "08:00 - 22:00",
+        "dtl_text": "08:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "08:00 - 21:00",
+        "dtl_text": "08:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon - Sat & Holidays during long weekends": {},
+        "Sun & Last day of long weekends": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": 3.6,
+    "google_reviews": 584,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJQRm-_-LGGARGCiyYvCorcM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13236598-1e0a4e5ac3240b870d1044294850cf8aba066e2a717fad20a4d6b4e2d4f82b1a.jpg",
+    "place_id": "ChIJJQRm-_-LGGARGCiyYvCorcM",
+    "g_name": "Zopfカレーパン専門店 グランスタ東京",
+    "g_rating": 3.6,
+    "g_reviews": 584,
+    "g_address": "日本、〒100-0005 東京都千代田区丸の内１丁目９−１",
+    "lat": 35.68183399999999,
+    "lng": 139.766773
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "ビーバー ブレッド",
+    "name_en": "BEAVER BREAD",
+    "area": "東京都 馬喰横山駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130204/13215647/",
+    "rating": 3.73,
+    "review_count_tabelog": 1160,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri",
+        "dtl": "08:00 - 19:00",
+        "dtl_text": "08:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "08:00 - 18:00",
+        "dtl_text": "08:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 821,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJb6OGkFKJGGARQOik0CQYc4E",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13215647-bbdbfc9f8fafe682f3513df871f2e40fc6ba5e0ef9bc0a94f97dbe2f84186b71.jpg",
+    "place_id": "ChIJb6OGkFKJGGARQOik0CQYc4E",
+    "g_name": "ビーバーブレッド",
+    "g_rating": 4.2,
+    "g_reviews": 821,
+    "g_address": "日本、〒103-0004 東京都中央区東日本橋３丁目４−３",
+    "lat": 35.6909044,
+    "lng": 139.7824002
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "カトレア",
+    "name_en": "Cattlea",
+    "area": "東京都 森下駅",
+    "url": "https://tabelog.com/tokyo/A1312/A131201/13002996/",
+    "rating": 3.74,
+    "review_count_tabelog": 1176,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Bread, Sandwich",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "07:30 - 18:30",
+        "dtl_text": "07:30 - 18:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Public Holiday",
+        "dtl": "07:30 - 18:00",
+        "dtl_text": "07:30 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 843,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ53aqeTmJGGARCUEvBdSODMQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13002996-1fbc48b075750be7f14885d902403956f8a02eb717d907655365fa8b3d82eb5b.jpg",
+    "place_id": "ChIJ53aqeTmJGGARCUEvBdSODMQ",
+    "g_name": "カトレア",
+    "g_rating": 4.1,
+    "g_reviews": 843,
+    "g_address": "日本、〒135-0004 東京都江東区森下１丁目６−１０",
+    "lat": 35.6870473,
+    "lng": 139.7981874
+  },
+  {
+    "category_jp": "パン",
+    "category_en": "Bakery",
+    "region": "TOKYO",
+    "name": "トロ コーヒーアンドベーカリー",
+    "name_en": "TOLO COFFEE AND BAKERY",
+    "area": "東京都 世田谷代田駅",
+    "url": "https://tabelog.com/tokyo/A1318/A131812/13118819/",
+    "rating": 3.72,
+    "review_count_tabelog": 580,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Bread, Cafe, Pasta",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "10:30 - 16:30 L.O. Food 14:00 Drinks 16:30",
+        "dtl_text": "10:30 - 16:30 L.O. Food 14:00 Drinks 16:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 312,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZQ_VzW3zGGARNsQpUc3Wdpo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/bread_tokyo/13118819-c73cda6a003db4d002673a68139be5223021049cf98fa7dbc547e68bea3ef60e.jpg",
+    "place_id": "ChIJZQ_VzW3zGGARNsQpUc3Wdpo",
+    "g_name": "TOLO COFFEE＆BAKERY(トロ コーヒーアンドベーカリー)",
+    "g_rating": 4.3,
+    "g_reviews": 312,
+    "g_address": "日本、〒155-0033 東京都世田谷区代田５丁目３−１ ２F",
+    "lat": 35.6589495,
+    "lng": 139.6627271
+  }
+]

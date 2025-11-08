@@ -1,0 +1,4640 @@
+[
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "はふう 本店",
+    "name_en": "Hafuu Hon Ten",
+    "area": "京都府 京都市役所前駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260202/26000943/",
+    "rating": 3.6,
+    "review_count_tabelog": 710,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Steak, Beef dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 14:00 L.O. 13:30 17:30 - 22:00 L.O. 21:30",
+        "dtl_text": "17:30 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays and other irregular days."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 1056,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__8TGIkIAWARdLH5f9avhIc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/26000943-cd54cd6d7a88c2b0c4a16c919e369c74dc800b9c96b6153227d68f31d3e5d9ef.jpg",
+    "place_id": "ChIJ__8TGIkIAWARdLH5f9avhIc",
+    "g_name": "肉専科 はふう 本店",
+    "g_rating": 4.5,
+    "g_reviews": 1056,
+    "g_address": "日本、〒604-0983 京都府京都市中京区笹屋町４７１−１",
+    "lat": 35.015413,
+    "lng": 135.76561
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "神戸トルコライス",
+    "name_en": "Kobe Turkish Rice",
+    "area": "兵庫県 大倉山駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280102/28032504/",
+    "rating": 3.62,
+    "review_count_tabelog": 417,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Summer vacation from July 28 to August 21, 2024."
+    },
+    "google_rating": 4.6,
+    "google_reviews": 391,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJH0JKGFqPAGARnDnD2jMBXYs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/28032504-7bbbb485257d0ab3598fa86dba00d504fc3599b7bc1d3d6f74ec7f444b26c234.jpg",
+    "place_id": "ChIJH0JKGFqPAGARnDnD2jMBXYs",
+    "g_name": "神戸トルコライス",
+    "g_rating": 4.6,
+    "g_reviews": 391,
+    "g_address": "日本、〒652-0032 兵庫県神戸市兵庫区荒田町３丁目４２−１２",
+    "lat": 34.6863997,
+    "lng": 135.1692014
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "ゆき亭",
+    "name_en": "Yuki Tei",
+    "area": "奈良県 奈良市",
+    "url": "https://tabelog.com/nara/A2901/A290101/29007516/",
+    "rating": 3.48,
+    "review_count_tabelog": 234,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Omurice (Omelette rice)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:30",
+        "dtl_text": "11:00 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 473,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8wrNF4o5AWAR7OrfeP0zMus",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/29007516-2e8111e88dd69459fee42901acf7fffd0230cde39508a324965f9b14887d1344.jpg",
+    "place_id": "ChIJ8wrNF4o5AWAR7OrfeP0zMus",
+    "g_name": "ゆき亭",
+    "g_rating": 4.2,
+    "g_reviews": 473,
+    "g_address": "日本、〒630-8336 奈良県奈良市高御門町４−１",
+    "lat": 34.6774795,
+    "lng": 135.8292326
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "洋食屋ゆうき",
+    "name_en": "Yoshokuya Yuuki",
+    "area": "兵庫県 新開地駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280109/28044018/",
+    "rating": 3.55,
+    "review_count_tabelog": 458,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Hamburger steak, Croquette",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 13:30",
+        "dtl_text": "11:00 - 13:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "11:00 - 13:30 18:00 - 20:00",
+        "dtl_text": "18:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 618,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJRSb4BQuPAGARdjwlZluxtzs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/28044018-142e6e70072d470040ca0bf15b2c94146994b75bd640fc25ebb9b907cdc4f43b.jpg",
+    "place_id": "ChIJRSb4BQuPAGARdjwlZluxtzs",
+    "g_name": "洋食屋 ゆうき",
+    "g_rating": 4.2,
+    "g_reviews": 618,
+    "g_address": "日本、〒652-0812 兵庫県神戸市兵庫区湊町４丁目２−１２ リビーズ湊川 1f",
+    "lat": 34.6763615,
+    "lng": 135.1703956
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "グリルばらの木",
+    "name_en": "Grill Baranoki",
+    "area": "大阪府 心斎橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270201/27000886/",
+    "rating": 3.68,
+    "review_count_tabelog": 465,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 14:30 L.O. Food 14:00 18:00 - 21:30 L.O. Food 21:00",
+        "dtl_text": "18:00 - 21:30 L.O. Food 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open on Mondays that are public holidays; closed the following Tuesday."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 194,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJYYIuvRbnAGARmuHubq3huUQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/27000886-c2b1610ad91bf55764c1d04260580259aa713144790ca087af310bdf258dc638.jpg",
+    "place_id": "ChIJYYIuvRbnAGARmuHubq3huUQ",
+    "g_name": "グリル ばらの木",
+    "g_rating": 4.2,
+    "g_reviews": 194,
+    "g_address": "日本、〒542-0083 大阪府大阪市中央区東心斎橋１丁目１６−１４",
+    "lat": 34.6720714,
+    "lng": 135.502719
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "玉子物語 エッグストーリー",
+    "name_en": "Tamago Monogatari Egg Story",
+    "area": "福岡県 北九州市小倉北区",
+    "url": "https://tabelog.com/fukuoka/A4004/A400401/40064441/",
+    "rating": 3.61,
+    "review_count_tabelog": 106,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Omurice (Omelette rice)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 14:30 L.O. Food 14:00 18:00 - 20:30 L.O. Food 20:00",
+        "dtl_text": "18:00 - 20:30 L.O. Food 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "On public holidays that do not fall on these days, we operate as usual."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 310,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJb4WCbEu_QzUR7PSfoRL6J-o",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/40064441-6ce3b3d5e005d3584c5db14151102df44f4478b19601c1844510a6d2b45ac394.jpg",
+    "place_id": "ChIJb4WCbEu_QzUR7PSfoRL6J-o",
+    "g_name": "玉子物語 エッグストーリー",
+    "g_rating": 4.5,
+    "g_reviews": 310,
+    "g_address": "日本、〒802-0001 福岡県北九州市小倉北区浅野２丁目１−３４",
+    "lat": 33.88825,
+    "lng": 130.8790414
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "炭焼ハンバーグ 牛船",
+    "name_en": "Sumiyaki Hamburger Steak Gyusen",
+    "area": "佐賀県 鳥栖市",
+    "url": "https://tabelog.com/saga/A4101/A410103/41000142/",
+    "rating": 3.8,
+    "review_count_tabelog": 326,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Hamburger steak, Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 14:30 L.O. 14:00 17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "11:30 - 14:30 L.O. 14:00",
+        "dtl_text": "11:30 - 14:30 L.O. 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (the following day if a holiday)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 417,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJfRd7eBSjQTURW55sO36ny6Q",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/41000142-3d1a5f5b3026272eed16f2c0e52c3324b83d7ff6659d2dae5d37346bc62222c1.jpg",
+    "place_id": "ChIJfRd7eBSjQTURW55sO36ny6Q",
+    "g_name": "炭焼ハンバーグ 牛船",
+    "g_rating": 4.3,
+    "g_reviews": 417,
+    "g_address": "日本、〒841-0056 佐賀県鳥栖市蔵上２丁目１２１",
+    "lat": 33.3743361,
+    "lng": 130.497385
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "とくら 京都三条店",
+    "name_en": "Tokura Kyoto Sanjo Ten",
+    "area": "京都府 烏丸御池駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260202/26031131/",
+    "rating": 3.57,
+    "review_count_tabelog": 607,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "-",
+    "sub_categories": "Hamburger steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:30 L.O. Food 15:00 17:00 - 21:00 L.O. Food 20:30",
+        "dtl_text": "17:00 - 21:00 L.O. Food 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 1666,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJE9vtQTgJAWARWLAK6TffV-Q",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/26031131-26aa00c73d6e9a16b8ceaa7b18339f527e429409feef11f3778c83e93dbe760f.jpg",
+    "place_id": "ChIJE9vtQTgJAWARWLAK6TffV-Q",
+    "g_name": "手づくりハンバーグの店 とくら 京都三条店",
+    "g_rating": 4.5,
+    "g_reviews": 1666,
+    "g_address": "日本、〒604-8111 京都府京都市中京区 高倉東入桝屋町５７ 京都三条ビル1f",
+    "lat": 35.0086983,
+    "lng": 135.7628807
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "都ハンバーグ",
+    "name_en": "MIYAKO HAMBURG",
+    "area": "大分県 大分市",
+    "url": "https://tabelog.com/oita/A4401/A440101/44013927/",
+    "rating": 3.59,
+    "review_count_tabelog": 64,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 L.O. 14:00",
+        "dtl_text": "11:30 - 14:30 L.O. 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.9,
+    "google_reviews": 35,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJaUDIFD-fRjURSsIdjoqWwDY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/44013927-1854f6519d791b0273dd5c655631433f298cab0bc0fded745237ef35d888e972.jpg",
+    "place_id": "ChIJaUDIFD-fRjURSsIdjoqWwDY",
+    "g_name": "都ハンバーグ",
+    "g_rating": 3.9,
+    "g_reviews": 35,
+    "g_address": "日本、〒870-0034 大分県大分市都町１丁目１−５ 親和ビル 2F 炭劇場徳永座さんを間借りして昼限定営業！",
+    "lat": 33.2394167,
+    "lng": 131.60662
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "新木村",
+    "name_en": "Shin Kimura",
+    "area": "熊本県 八代市",
+    "url": "https://tabelog.com/kumamoto/A4304/A430401/43004614/",
+    "rating": 3.57,
+    "review_count_tabelog": 68,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Omurice (Omelette rice)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 14:00 L.O. 13:30 18:00 - 22:00 L.O. 21:30",
+        "dtl_text": "18:00 - 22:00 L.O. 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "11:00 - 14:00 L.O. 13:30 18:00 - 22:00 L.O. 21:30",
+        "dtl_text": "18:00 - 22:00 L.O. 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (Tuesdays if a holiday falls on Monday)"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 145,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJw-rUc6J_QDURJ_Oy4ht9zIA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/43004614-1a80d8b8d6f5e763e47d0c1a65139310ce8d29732cc7dd0450efa93394119c0f.jpg",
+    "place_id": "ChIJw-rUc6J_QDURJ_Oy4ht9zIA",
+    "g_name": "レストラン新木村",
+    "g_rating": 4.6,
+    "g_reviews": 145,
+    "g_address": "日本、〒866-0861 熊本県八代市本町２丁目５−４１",
+    "lat": 32.503231,
+    "lng": 130.6007201
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "ビストロ 卓",
+    "name_en": "Bistro Taku",
+    "area": "兵庫県 みなと元町駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280102/28002214/",
+    "rating": 3.5,
+    "review_count_tabelog": 96,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:30",
+        "dtl_text": "12:00 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 69,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ31aswOPAGARKXZhgLDrPjI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/28002214-00cf4c18fc484d30b1653db0e7c0e916a2a703880d58a6202f2d69bdbba2114c.jpg",
+    "place_id": "ChIJJ31aswOPAGARKXZhgLDrPjI",
+    "g_name": "ビストロ 卓",
+    "g_rating": 4,
+    "g_reviews": 69,
+    "g_address": "日本、〒650-0024 兵庫県神戸市中央区海岸通４丁目４−５",
+    "lat": 34.6856191,
+    "lng": 135.1845432
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "グリル＆コーヒー はせがわ",
+    "name_en": "Grill & Coffee Hasegawa",
+    "area": "京都府 北大路駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260503/26001680/",
+    "rating": 3.66,
+    "review_count_tabelog": 872,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Hamburger steak, Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 17:00 - 20:30 L.O. 20:00",
+        "dtl_text": "17:00 - 20:30 L.O. 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 1549,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJu43xUgUIAWARJAHsdFGyGkg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/26001680-10d68baf093088434f25279df84011f7639142e82c7f7a4d5463552ff1b83616.jpg",
+    "place_id": "ChIJu43xUgUIAWARJAHsdFGyGkg",
+    "g_name": "グリル はせがわ",
+    "g_rating": 4.4,
+    "g_reviews": 1549,
+    "g_address": "日本、〒603-8132 京都府京都市北区小山下内河原町６８",
+    "lat": 35.0438625,
+    "lng": 135.7615518
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "グリル末松",
+    "name_en": "Grill Suematsu",
+    "area": "兵庫県 三ノ宮（ＪＲ）駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280101/28000394/",
+    "rating": 3.7,
+    "review_count_tabelog": 1037,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Omurice (Omelette rice), European",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 L.O. 14:00 18:00 - 22:00 L.O. 21:30",
+        "dtl_text": "18:00 - 22:00 L.O. 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 767,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJR9fJ--aOAGARlBpPUBJNeuY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/28000394-43599d16050c33029600039f2e3fb6202452aab0606078df49f4e267d7ab7eee.jpg",
+    "place_id": "ChIJR9fJ--aOAGARlBpPUBJNeuY",
+    "g_name": "グリル 末松",
+    "g_rating": 4.1,
+    "g_reviews": 767,
+    "g_address": "日本、〒650-0001 兵庫県神戸市中央区加納町２丁目１−９",
+    "lat": 34.6991497,
+    "lng": 135.193557
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "洋食 Matsushita",
+    "name_en": "Yoshoku Matsushita",
+    "area": "大阪府 長堀橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270201/27099803/",
+    "rating": 3.61,
+    "review_count_tabelog": 118,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu",
+        "dtl": "17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Fri",
+        "dtl": "11:30 - 15:00 L.O. Food 14:00 17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "12:00 - 15:00 L.O. Food 14:00 17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.7,
+    "google_reviews": 140,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJq-0jUxbnAGARhTALOGy_R_k",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/27099803-dddf7c801915df3429785d9bc410ccf615dcfaae7fdf9c8ddcb5aa2494ae0246.jpg",
+    "place_id": "ChIJq-0jUxbnAGARhTALOGy_R_k",
+    "g_name": "洋食Matsushita",
+    "g_rating": 4.7,
+    "g_reviews": 140,
+    "g_address": "日本、〒542-0083 大阪府大阪市中央区東心斎橋１丁目９−１３",
+    "lat": 34.6744732,
+    "lng": 135.5044016
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "グリル 小宝",
+    "name_en": "Grill Kodakara",
+    "area": "京都府 東山駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260301/26000009/",
+    "rating": 3.63,
+    "review_count_tabelog": 1068,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Omurice (Omelette rice)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 20:30",
+        "dtl_text": "11:30 - 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 1688,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJgTVccOQIAWARk9UBUarTY3k",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/26000009-d1b6d8847c1ca11d93a3102a95e762512bd39b396c8ba82023fd3eab247e193b.jpg",
+    "place_id": "ChIJgTVccOQIAWARk9UBUarTY3k",
+    "g_name": "グリル小宝",
+    "g_rating": 4.2,
+    "g_reviews": 1688,
+    "g_address": "日本、〒606-8336 京都府京都市左京区岡崎北御所町４６",
+    "lat": 35.0158547,
+    "lng": 135.7847563
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "Revo 本店",
+    "name_en": "Revo Hon Ten",
+    "area": "大阪府 天下茶屋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270406/27007738/",
+    "rating": 3.69,
+    "review_count_tabelog": 565,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Steak, Hamburger steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00 17:00 - 22:00 L.O. 21:30",
+        "dtl_text": "17:00 - 22:00 L.O. 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 289,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJV3Hm25rdAGARDEH_BwvL9fg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/27007738-7626b858683607b0ec2219fd1835b7c479abdbff2b7b970c1f748f769a8dbfdc.jpg",
+    "place_id": "ChIJV3Hm25rdAGARDEH_BwvL9fg",
+    "g_name": "Revo 本店",
+    "g_rating": 4.2,
+    "g_reviews": 289,
+    "g_address": "日本、〒557-0041 大阪府大阪市西成区岸里１丁目３−２１",
+    "lat": 34.6359806,
+    "lng": 135.4949284
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "ももや",
+    "name_en": "Momoya",
+    "area": "佐賀県 唐津市",
+    "url": "https://tabelog.com/saga/A4102/A410201/41000144/",
+    "rating": 3.54,
+    "review_count_tabelog": 105,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger steak, Dumplings",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00 17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 290,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJredgeGh4ajURUSVMpPUJj9o",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/41000144-56c156a9660b8b3e369589ac4680d91c3699cf449ded9e28b6013a9648741229.jpg",
+    "place_id": "ChIJredgeGh4ajURUSVMpPUJj9o",
+    "g_name": "ももや",
+    "g_rating": 4.1,
+    "g_reviews": 290,
+    "g_address": "日本、〒847-0855 佐賀県唐津市西浜町２−１９",
+    "lat": 33.4572532,
+    "lng": 129.9628165
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "洋食とワインのお店 土筆苑",
+    "name_en": "Yoshoku to Wine no Omise Tsukushien",
+    "area": "兵庫県 西宮北口駅",
+    "url": "https://tabelog.com/hyogo/A2803/A280301/28030631/",
+    "rating": 3.55,
+    "review_count_tabelog": 407,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Traditional Café",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 14:30 L.O. 14:00 17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 15:00 L.O. 14:30 17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 452,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJod3oqj_yAGARba5M9ZvSs9A",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/28030631-0889baa0ca486940d4e30935f4e0f096760f779af2a56ec44ef4b602878e1aa8.jpg",
+    "place_id": "ChIJod3oqj_yAGARba5M9ZvSs9A",
+    "g_name": "洋食とワインのお店 土筆苑",
+    "g_rating": 4,
+    "g_reviews": 452,
+    "g_address": "日本、〒663-8204 兵庫県西宮市高松町１１−２ 102",
+    "lat": 34.7446566,
+    "lng": 135.358007
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "下町の洋食 時代屋",
+    "name_en": "Shitamachi no Yoshoku Jidaiya",
+    "area": "長崎県 佐世保市",
+    "url": "https://tabelog.com/nagasaki/A4202/A420201/42000657/",
+    "rating": 3.59,
+    "review_count_tabelog": 374,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:30 L.O. 14:00 17:00 - 21:30 L.O. 21:00",
+        "dtl_text": "17:00 - 21:30 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every Monday (the following day if it falls on a public holiday)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 1322,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZUuNQBiaajURR13EkR5bfjQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/42000657-c7dd9d3f043b2c5d70526caa4661ebfdd9d61754be7c0d408a3cd011535181a2.jpg",
+    "place_id": "ChIJZUuNQBiaajURR13EkR5bfjQ",
+    "g_name": "時代屋",
+    "g_rating": 4.3,
+    "g_reviews": 1322,
+    "g_address": "日本、〒859-3162 長崎県佐世保市吉福町１７２−１",
+    "lat": 33.164779,
+    "lng": 129.8358393
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "洋食SAEKI",
+    "name_en": "Yoshoku SAEKI",
+    "area": "兵庫県 岩屋駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280103/28041503/",
+    "rating": 3.6,
+    "review_count_tabelog": 762,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Hamburger steak, Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 L.O. 14:30 17:00 - 21:00 L.O. 20:00",
+        "dtl_text": "17:00 - 21:00 L.O. 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 889,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6Zq7u5qOAGARWd6PAxQZCyc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/28041503-cdb6d99c88b867a8a752767b22139d9546db176392f4e5fa0331011307286940.jpg",
+    "place_id": "ChIJ6Zq7u5qOAGARWd6PAxQZCyc",
+    "g_name": "洋食 SAEKI",
+    "g_rating": 4.3,
+    "g_reviews": 889,
+    "g_address": "日本、〒657-0846 兵庫県神戸市灘区岩屋北町５丁目２−１３ ＳＩハイツ岩屋 1F",
+    "lat": 34.7039547,
+    "lng": 135.215862
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "洋食堂 のろ",
+    "name_en": "Yoshokudo Noro",
+    "area": "京都府 烏丸御池駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260202/26040120/",
+    "rating": 3.67,
+    "review_count_tabelog": 72,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Hamburger steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00 L.O. Food 13:00 17:30 - 22:00 L.O. Food 20:00",
+        "dtl_text": "17:30 - 22:00 L.O. Food 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.7,
+    "google_reviews": 59,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJbRh5HAEJAWARR0NqHmJjSsA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/26040120-64a84e6cd4b98781890acd1dd5ee1d9c5f7ff999f376dab6d958fd2aeeedcc1b.jpg",
+    "place_id": "ChIJbRh5HAEJAWARR0NqHmJjSsA",
+    "g_name": "洋食堂 のろ",
+    "g_rating": 4.7,
+    "g_reviews": 59,
+    "g_address": "日本、〒604-8211 京都府京都市中京区玉蔵町１１５−１ Wakoビル",
+    "lat": 35.0072196,
+    "lng": 135.756939
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "めがねや",
+    "name_en": "Meganeya",
+    "area": "大阪府 十三駅",
+    "url": "https://tabelog.com/osaka/A2701/A270302/27133701/",
+    "rating": 3.58,
+    "review_count_tabelog": 108,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "-",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Italian, Wine bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:30 - 00:00 L.O. Food 23:00 Drinks 23:20",
+        "dtl_text": "17:30 - 00:00 L.O. Food 23:00 Drinks 23:20"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 50,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJbQMcT_vlAGARSK0ARA5z0ic",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/27133701-bb9198d71cce2d73a5d3303ae0b6099c4d13fee89925eb333603b7ba57a9d22b.jpg",
+    "place_id": "ChIJbQMcT_vlAGARSK0ARA5z0ic",
+    "g_name": "めがねや",
+    "g_rating": 4.5,
+    "g_reviews": 50,
+    "g_address": "日本、〒532-0024 大阪府大阪市淀川区十三本町２丁目４−４",
+    "lat": 34.72153970000001,
+    "lng": 135.4808173
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "グリル一平 新開地本店",
+    "name_en": "Grill Ippei Shinkaichi Honten",
+    "area": "兵庫県 新開地駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280109/28000390/",
+    "rating": 3.51,
+    "review_count_tabelog": 757,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Omurice (Omelette rice), Croquette",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri, Sat, Sun",
+        "dtl": "11:10 - 14:30 L.O. 14:30 17:00 - 19:30 L.O. 19:30",
+        "dtl_text": "17:00 - 19:30 L.O. 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Public Holiday",
+        "dtl": "11:10 - 14:30 17:00 - 19:30",
+        "dtl_text": "17:00 - 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 948,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJhX9YgwyPAGARddiqghUwctk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/28000390-343344aa4bb01ee62433a1c1fd369414ccd422601b80fdb8dc36f38ad5f349d2.jpg",
+    "place_id": "ChIJhX9YgwyPAGARddiqghUwctk",
+    "g_name": "グリル一平 新開地本店",
+    "g_rating": 4.1,
+    "g_reviews": 948,
+    "g_address": "日本、〒652-0811 兵庫県神戸市兵庫区新開地２丁目５−５ リオ神戸 ２Ｆ",
+    "lat": 34.6776157,
+    "lng": 135.1700557
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "サフラン",
+    "name_en": "Saffron",
+    "area": "福岡県 柳川市",
+    "url": "https://tabelog.com/fukuoka/A4008/A400806/40017105/",
+    "rating": 3.68,
+    "review_count_tabelog": 142,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Occasional temporary closures"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 418,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJd70hxSezQTUR-iTBv8gPO0U",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/40017105-9390e088137c083a11248f0b7a6b94ead4afe55b63df3a28a6c0a2215a35f04e.jpg",
+    "place_id": "ChIJd70hxSezQTUR-iTBv8gPO0U",
+    "g_name": "ハンバーグの店 サフラン",
+    "g_rating": 4.3,
+    "g_reviews": 418,
+    "g_address": "日本、〒832-0827 福岡県柳川市三橋町蒲船津１２１−２",
+    "lat": 33.1637896,
+    "lng": 130.4295785
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "ヨーロッパ軒 総本店",
+    "name_en": "Europe Ken Sohon Ten",
+    "area": "福井県 福井市",
+    "url": "https://tabelog.com/fukui/A1801/A180101/18000015/",
+    "rating": 3.71,
+    "review_count_tabelog": 2009,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Tonkatsu (Pork cutlet), Katsu-don (Pork cutlet bowl)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 19:50",
+        "dtl_text": "11:00 - 19:50",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 3235,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmfhoxe6--F8RSnjjG7leqlo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/18000015-2455b5a048c4b8e102b9bbdb3d9610caf2c72a10a156f09735b1ab4e6e710da1.jpg",
+    "place_id": "ChIJmfhoxe6--F8RSnjjG7leqlo",
+    "g_name": "ヨーロッパ軒 総本店",
+    "g_rating": 4.2,
+    "g_reviews": 3235,
+    "g_address": "日本、〒910-0023 福井県福井市順化１丁目７−４",
+    "lat": 36.0640799,
+    "lng": 136.2147831
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "グリル一平 三宮店",
+    "name_en": "Grill Ippei Sannomiya Ten",
+    "area": "兵庫県 三宮（神戸新交通）駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280101/28031154/",
+    "rating": 3.65,
+    "review_count_tabelog": 1618,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Omurice (Omelette rice), Croquette",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 L.O. 14:30 17:00 - 20:30 L.O. 20:00",
+        "dtl_text": "17:00 - 20:30 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 1850,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJl5sHoeWOAGARzjnweA049gE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/28031154-2255a279f9a85323e5bc3884d994ebb3a20e79d8c376991d1544c791702451b0.jpg",
+    "place_id": "ChIJl5sHoeWOAGARzjnweA049gE",
+    "g_name": "グリル一平 三宮店",
+    "g_rating": 4.4,
+    "g_reviews": 1850,
+    "g_address": "日本、〒651-0094 兵庫県神戸市中央区琴ノ緒町５丁目５−２６",
+    "lat": 34.6959405,
+    "lng": 135.1950096
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "洋食ますだ",
+    "name_en": "Yoshoku Masuda",
+    "area": "兵庫県 花隈駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280102/28035422/",
+    "rating": 3.54,
+    "review_count_tabelog": 157,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Hamburger steak, Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 14:00 17:30 - 19:30",
+        "dtl_text": "17:30 - 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:30 - 14:00",
+        "dtl_text": "11:30 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 198,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJtZjcqhuPAGARpRQjj1h27Kw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/28035422-ebae2d2b7a68bf7b0dacce65905bc3d6bb67aac0d3e386b9815894082220176c.jpg",
+    "place_id": "ChIJtZjcqhuPAGARpRQjj1h27Kw",
+    "g_name": "洋食ますだ",
+    "g_rating": 4.3,
+    "g_reviews": 198,
+    "g_address": "日本、〒650-0013 兵庫県神戸市中央区花隈町３３−１２",
+    "lat": 34.688867,
+    "lng": 135.179923
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "洋食屋 Shii",
+    "name_en": "Yoshokuya Shii",
+    "area": "愛媛県 松山市",
+    "url": "https://tabelog.com/ehime/A3801/A380101/38012016/",
+    "rating": 3.74,
+    "review_count_tabelog": 178,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Hamburger steak, French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 14:30 L.O. 14:00 17:30 - 21:00 L.O. 20:00",
+        "dtl_text": "17:30 - 21:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:30 - 14:30 L.O. 14:00",
+        "dtl_text": "11:30 - 14:30 L.O. 14:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 136,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJe_qRaIzlTzURmAL1OgRIe9Y",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/38012016-49ed18340a213d9002b4680584216303bbdd02f2724be84beda2dbbaea3351f0.jpg",
+    "place_id": "ChIJe_qRaIzlTzURmAL1OgRIe9Y",
+    "g_name": "洋食屋shii",
+    "g_rating": 4.5,
+    "g_reviews": 136,
+    "g_address": "日本、〒790-0003 愛媛県松山市三番町５丁目３−８ 4階",
+    "lat": 33.8371706,
+    "lng": 132.763136
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "洋食屋 ポルコ",
+    "name_en": "Porco",
+    "area": "三重県 鈴鹿市",
+    "url": "https://tabelog.com/mie/A2402/A240202/24012692/",
+    "rating": 3.56,
+    "review_count_tabelog": 72,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00 L.O. Food 13:15 17:30 - 21:00 L.O. Food 20:00",
+        "dtl_text": "17:30 - 21:00 L.O. Food 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 174,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJFWkqpwSLA2AR2CE2K_zCkcw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/24012692-c22437bffbcd97b1ab6c8b3cef9a3d45d71ce4ac9a6b421788c66cb41a656a18.jpg",
+    "place_id": "ChIJFWkqpwSLA2AR2CE2K_zCkcw",
+    "g_name": "洋食屋 ポルコ",
+    "g_rating": 4.4,
+    "g_reviews": 174,
+    "g_address": "日本、〒513-0806 三重県鈴鹿市算所３丁目９−３８ 豊永ビル 1F",
+    "lat": 34.8752042,
+    "lng": 136.5460387
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "大衆食堂 瓦町ブラン",
+    "name_en": "Taishu Shokudo Kawaramachi Blanc",
+    "area": "大阪府 なにわ橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270102/27127433/",
+    "rating": 3.62,
+    "review_count_tabelog": 133,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "-",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Baru (Spanish style bar), Bistro",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 23:30 L.O. 23:30",
+        "dtl_text": "18:00 - 23:30 L.O. 23:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 52,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7a30IlnnAGARfA_zRIlZG74",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/27127433-ddd37fc68e1066097a69df3c7299ca9d59d7b405581600213f3f6e770935cd0b.jpg",
+    "place_id": "ChIJ7a30IlnnAGARfA_zRIlZG74",
+    "g_name": "大衆食堂 瓦町ブラン",
+    "g_rating": 4.5,
+    "g_reviews": 52,
+    "g_address": "日本、〒530-0047 大阪府大阪市北区西天満４丁目７−１０ 昭和ビル 1階3号室",
+    "lat": 34.6968919,
+    "lng": 135.5038689
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "ムグニ",
+    "name_en": "MUGUNI",
+    "area": "大阪府 大阪難波駅",
+    "url": "https://tabelog.com/osaka/A2701/A270201/27014566/",
+    "rating": 3.58,
+    "review_count_tabelog": 638,
+    "price_dinner": "-",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Omurice (Omelette rice), Yoshoku (Japanese style western cuisine), Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 16:00",
+        "dtl_text": "11:00 - 16:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 547,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJhfXfdxHnAGARNHYNWNrza-E",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/27014566-99a98072b19025aea773cb88499fe7046dfaa0dbacdce9bca92202cb86de4a59.jpg",
+    "place_id": "ChIJhfXfdxHnAGARNHYNWNrza-E",
+    "g_name": "MUGUNI",
+    "g_rating": 4.3,
+    "g_reviews": 547,
+    "g_address": "日本、〒542-0086 大阪府大阪市中央区西心斎橋２丁目９−５ 日宝三ツ寺会館",
+    "lat": 34.6705737,
+    "lng": 135.4993352
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "味一",
+    "name_en": "Aji Ichi",
+    "area": "和歌山県 和歌山市",
+    "url": "https://tabelog.com/wakayama/A3001/A300101/30000448/",
+    "rating": 3.55,
+    "review_count_tabelog": 210,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Tonkatsu (Pork cutlet), Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu",
+        "dtl": "11:00 - 14:00 L.O. 13:30 17:30 - 20:00 L.O. 20:00",
+        "dtl_text": "17:30 - 20:00 L.O. 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "17:00 - 20:00 L.O. 20:00",
+        "dtl_text": "17:00 - 20:00 L.O. 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Fri, Sat",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 462,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6V6irfKyAGARTUxComDbRWw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/30000448-b3eb8ccd6d26a03d60c60e0a5cbdf172c48c91bae0a0971893c30c8c7ac08c37.jpg",
+    "place_id": "ChIJ6V6irfKyAGARTUxComDbRWw",
+    "g_name": "味一",
+    "g_rating": 4.2,
+    "g_reviews": 462,
+    "g_address": "日本、〒640-8212 和歌山県和歌山市杉ノ馬場２丁目３１",
+    "lat": 34.2375076,
+    "lng": 135.1683186
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "洋食 GURa",
+    "name_en": "Yoshoku GURa",
+    "area": "兵庫県 県庁前駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280102/28068684/",
+    "rating": 3.56,
+    "review_count_tabelog": 189,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Hamburger steak, Omurice (Omelette rice)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 15:00 L.O. 14:30 17:00 - 20:30 L.O. 19:45",
+        "dtl_text": "17:00 - 20:30 L.O. 19:45",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.6,
+    "google_reviews": 294,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJX9GZHKGPAGARtAyOHSLbrSY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/28068684-2260ac9c8427733331de414b8ca51197f0f504d8d41f2caed6b54a8ad6c2f61e.jpg",
+    "place_id": "ChIJX9GZHKGPAGARtAyOHSLbrSY",
+    "g_name": "洋食GURa",
+    "g_rating": 4.6,
+    "g_reviews": 294,
+    "g_address": "日本、〒650-0011 兵庫県神戸市中央区下山手通４丁目１３−１",
+    "lat": 34.6927417,
+    "lng": 135.1861284
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "グリル梵",
+    "name_en": "Grill Bon",
+    "area": "大阪府 恵美須町駅",
+    "url": "https://tabelog.com/osaka/A2701/A270206/27001105/",
+    "rating": 3.58,
+    "review_count_tabelog": 423,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Sandwich, Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:30 L.O. 14:00 17:00 - 19:30 L.O. 19:00",
+        "dtl_text": "17:00 - 19:30 L.O. 19:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Irregular holidays on the 6th, 16th, and 26th of each month"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 132,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJpSyPorPnAGARFSU2b5TieCQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/27001105-972fda07833060e8ea2ee643924ee7c9c7aa98d3d57982749c7ad6bdff01e641.jpg",
+    "place_id": "ChIJpSyPorPnAGARFSU2b5TieCQ",
+    "g_name": "BONコンドミニアム難波恵美須",
+    "g_rating": 4.3,
+    "g_reviews": 132,
+    "g_address": "日本、〒556-0005 大阪府大阪市浪速区日本橋５丁目４−６",
+    "lat": 34.6557224,
+    "lng": 135.5064859
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "グリル一平 元町東店",
+    "name_en": "Grill Ippei Motomachi Higashi Ten",
+    "area": "兵庫県 元町（阪神）駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280102/28056372/",
+    "rating": 3.6,
+    "review_count_tabelog": 552,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Omurice (Omelette rice), Croquette",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 L.O. 14:30 17:00 - 20:30 L.O. 20:00",
+        "dtl_text": "17:00 - 20:30 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 358,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJjbP4Y7KPAGARCFSTWZ1b6wg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/28056372-5953d79396edeb0b046e93d861fd5b7ea00fab45df2aa3acc4146f5c28649389.jpg",
+    "place_id": "ChIJjbP4Y7KPAGARCFSTWZ1b6wg",
+    "g_name": "グリル一平 元町店",
+    "g_rating": 4.4,
+    "g_reviews": 358,
+    "g_address": "日本、〒650-0022 兵庫県神戸市中央区元町通２丁目３−２ ジェムビル 地下1階",
+    "lat": 34.6884228,
+    "lng": 135.1873222
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "グリル千",
+    "name_en": "Grill Sen",
+    "area": "福岡県 福岡市中央区",
+    "url": "https://tabelog.com/fukuoka/A4001/A400105/40006197/",
+    "rating": 3.67,
+    "review_count_tabelog": 160,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Steak, Hamburger steak",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 398,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKym2uemTQTURhxL-gbVvg7o",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/40006197-0a6af389a2b56f70ba99aa8fdeb2cb6b8eb8fb77971fc854a011ebd11d2efc44.jpg",
+    "place_id": "ChIJKym2uemTQTURhxL-gbVvg7o",
+    "g_name": "グリル 千",
+    "g_rating": 4.4,
+    "g_reviews": 398,
+    "g_address": "日本、〒810-0034 福岡県福岡市中央区笹丘１丁目３５−１０",
+    "lat": 33.5673803,
+    "lng": 130.3770284
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "ゴメンネJIRO",
+    "name_en": "Gomenne JIRO",
+    "area": "大阪府 天満駅",
+    "url": "https://tabelog.com/osaka/A2701/A270103/27012753/",
+    "rating": 3.77,
+    "review_count_tabelog": 608,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "-",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Bistro",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 20:30",
+        "dtl_text": "17:00 - 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 237,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5Y5WfsfmAGARVH4YfBMA6vU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/27012753-9e4a91357282eee0e500a8a0fef1e6231aa2d9fabbfd69fa472b5f34cbf69163.jpg",
+    "place_id": "ChIJ5Y5WfsfmAGARVH4YfBMA6vU",
+    "g_name": "洋食堂 ゴメンネJIRO",
+    "g_rating": 4.2,
+    "g_reviews": 237,
+    "g_address": "日本、〒530-0033 大阪府大阪市北区池田町８−９",
+    "lat": 34.7073712,
+    "lng": 135.5131773
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "洋食 おがた",
+    "name_en": "Yoshoku Ogata",
+    "area": "京都府 烏丸御池駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260202/26026540/",
+    "rating": 3.98,
+    "review_count_tabelog": 495,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 13:30 L.O. 13:30 17:30 - 21:00 L.O. 21:00",
+        "dtl_text": "17:30 - 21:00 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (twice a month)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 367,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJfzRJ4I4IAWARCU8C6-vz39M",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/26026540-b3604f511f25d7bb9ff64ae65cf788ab5fc053ceb0cd5016471de33b3c476033.jpg",
+    "place_id": "ChIJfzRJ4I4IAWARCU8C6-vz39M",
+    "g_name": "洋食 おがた",
+    "g_rating": 4.3,
+    "g_reviews": 367,
+    "g_address": "日本、〒604-0956 京都府京都市中京区等持寺町３２−３２−１",
+    "lat": 35.0124628,
+    "lng": 135.7640437
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "かくいにいくか",
+    "name_en": "Kakui Ni Iku Ka",
+    "area": "兵庫県 湊川駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280109/28069984/",
+    "rating": 3.56,
+    "review_count_tabelog": 98,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Hamburger steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 14:00",
+        "dtl_text": "11:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 47,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_f_k4ZuPAGARu3Kw4HMYvko",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/28069984-35afc4b5f8d03d960b8d1061df2728d68cabd6e6174819dd63d85fe7e1b67dc0.jpg",
+    "place_id": "ChIJ_f_k4ZuPAGARu3Kw4HMYvko",
+    "g_name": "かくいにいくか",
+    "g_rating": 4,
+    "g_reviews": 47,
+    "g_address": "日本、〒652-0032 兵庫県神戸市兵庫区荒田町４丁目１３−１７",
+    "lat": 34.6841887,
+    "lng": 135.1662438
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "平岡精肉店",
+    "name_en": "Hiraoka Seiniku Ten",
+    "area": "香川県 仲多度郡琴平町",
+    "url": "https://tabelog.com/kagawa/A3703/A370302/37001618/",
+    "rating": 3.62,
+    "review_count_tabelog": 277,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Croquette, Deep-fried foods, Side dishes, Delicatessen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "08:00 - 18:00",
+        "dtl_text": "08:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The second and fourth Tuesdays of each month"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 289,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ96gQJl3WUzUR0it207c5B4E",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/37001618-b1f997f4d0b7bf93ec2c40fd2ad73e6cc401cc20fbd40a0910d7584cd1b0bb57.jpg",
+    "place_id": "ChIJ96gQJl3WUzUR0it207c5B4E",
+    "g_name": "平岡精肉店",
+    "g_rating": 4.3,
+    "g_reviews": 289,
+    "g_address": "220, 琴平町 仲多度郡 香川県 766-0002 日本",
+    "lat": 34.18813350000001,
+    "lng": 133.8201241
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "重亭",
+    "name_en": "Juutei",
+    "area": "大阪府 なんば（大阪メトロ）駅",
+    "url": "https://tabelog.com/osaka/A2701/A270202/27001308/",
+    "rating": 3.66,
+    "review_count_tabelog": 1283,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Hamburger steak, Omurice (Omelette rice)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 L.O. Food 14:30 17:00 - 20:00 L.O. Food 19:30",
+        "dtl_text": "17:00 - 20:00 L.O. Food 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays and other not fixed days"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 1100,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1UQ6RWvnAGAR3wZU0bzo8gk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/27001308-56c1579dc0e639adf7711e256c3059135bf207e345230d29ad35d2ea414ec9c0.jpg",
+    "place_id": "ChIJ1UQ6RWvnAGAR3wZU0bzo8gk",
+    "g_name": "欧風料理 重亭",
+    "g_rating": 4.2,
+    "g_reviews": 1100,
+    "g_address": "日本、〒542-0076 大阪府大阪市中央区難波３丁目１−３０",
+    "lat": 34.6662135,
+    "lng": 135.5021705
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "グリル デミ",
+    "name_en": "GRILL DEMI",
+    "area": "京都府 丸太町（京都市営）駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260202/26002516/",
+    "rating": 3.53,
+    "review_count_tabelog": 570,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Hamburger steak, Yoshoku (Japanese style western cuisine), Bento (Lunch box)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00 L.O. 14:00 17:00 - 20:30 L.O. 20:30",
+        "dtl_text": "17:00 - 20:30 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays and the third Tuesday of each month"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 774,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJYxZabocIAWAR7fOJikd0aRA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/26002516-a4421a8ae52a9261b54a2a8af512add53910bf6480b5d671d1251ebb2aa0693b.jpg",
+    "place_id": "ChIJYxZabocIAWAR7fOJikd0aRA",
+    "g_name": "グリルデミ",
+    "g_rating": 4.3,
+    "g_reviews": 774,
+    "g_address": "日本、〒604-0863 京都府京都市中京区巴町８０ パルマビル 1A",
+    "lat": 35.0148022,
+    "lng": 135.7584914
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "TOROMI洋食堂",
+    "name_en": "TOROMI Yoshokudo",
+    "area": "大阪府 中崎町駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27127796/",
+    "rating": 3.52,
+    "review_count_tabelog": 92,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger steak, Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 14:30 L.O. 14:00 17:30 - 22:30 L.O. 22:00",
+        "dtl_text": "17:30 - 22:30 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays and Wednesdays"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 88,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJHz-4G73nAGARmGLOGMZq5bw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/27127796-e51e93dc5f38ff7ba19a3f800e3f8ea3f4db909d9c1aa4ffbcc30f71c1718164.jpg",
+    "place_id": "ChIJHz-4G73nAGARmGLOGMZq5bw",
+    "g_name": "TOROMI洋食堂",
+    "g_rating": 4.4,
+    "g_reviews": 88,
+    "g_address": "日本、〒530-0015 大阪府大阪市北区中崎西１丁目７−１７ コア・ナカザキ 1F",
+    "lat": 34.7076904,
+    "lng": 135.5038634
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "La Casa",
+    "name_en": "La Casa",
+    "area": "福岡県 宗像市",
+    "url": "https://tabelog.com/fukuoka/A4003/A400302/40047397/",
+    "rating": 3.66,
+    "review_count_tabelog": 52,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:30",
+        "dtl_text": "11:00 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 3.7,
+    "google_reviews": 90,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVQFT9f8uQjUR0HDKt5sN_ic",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/40047397-dc8a8e6297cfee90b781131f481507c7ce75b13ef852316c4af16cd2dccb2f5d.jpg",
+    "place_id": "ChIJVQFT9f8uQjUR0HDKt5sN_ic",
+    "g_name": "洋食屋 La Casa",
+    "g_rating": 3.7,
+    "g_reviews": 90,
+    "g_address": "日本、〒811-3504 福岡県宗像市深田６２−６",
+    "lat": 33.8329099,
+    "lng": 130.5141823
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "グリルフレンチ",
+    "name_en": "Grill French",
+    "area": "京都府 二条城前駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260203/26000658/",
+    "rating": 3.77,
+    "review_count_tabelog": 622,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Steak, Croquette",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "*Lunch service has ended."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 257,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJw4BEWoAIAWARCTxU5_7Juro",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/26000658-dcbc97f32c5c40c276e4fd0f8b2c305967fe3b0ade6053c36731997d630da5bd.jpg",
+    "place_id": "ChIJw4BEWoAIAWARCTxU5_7Juro",
+    "g_name": "グリルフレンチ",
+    "g_rating": 4.4,
+    "g_reviews": 257,
+    "g_address": "日本、〒604-0044 京都府京都市中京区小川通御池上る下古城町３７７",
+    "lat": 35.0119939,
+    "lng": 135.7541126
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "味の店 一番",
+    "name_en": "Aji no Mise Ichiban",
+    "area": "大阪府 中百舌鳥（南海・泉北）駅",
+    "url": "https://tabelog.com/osaka/A2705/A270501/27011458/",
+    "rating": 3.56,
+    "review_count_tabelog": 626,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Tonkatsu (Pork cutlet), Hamburger steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 22:00 L.O. 21:30",
+        "dtl_text": "11:00 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Year-end & New Year Holidays (Dec 31 - Jan 5)"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 1116,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJE49ENLjbAGAR9fvch1ODSF0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/27011458-1e07d742828635f4476db7b3d16bc04b4dcfd5b138f17e5ad93a1fad95ff5419.jpg",
+    "place_id": "ChIJE49ENLjbAGAR9fvch1ODSF0",
+    "g_name": "味の店 一番",
+    "g_rating": 4.2,
+    "g_reviews": 1116,
+    "g_address": "日本、〒591-8023 大阪府堺市北区中百舌鳥町６丁８８２−３",
+    "lat": 34.5529532,
+    "lng": 135.5041791
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "サチア ビーフストロガノフ",
+    "name_en": "SACHiA Beef stroganoff",
+    "area": "福岡県 馬出九大病院前駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400201/40051648/",
+    "rating": 3.68,
+    "review_count_tabelog": 214,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 14:00 17:30 - 21:00",
+        "dtl_text": "17:30 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays, the first Monday of each month, and some public holidays"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 157,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ47Z5PEmPQTUR2VywYjx40DI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/40051648-7767bebffcfb1932b047c712de311368585d22593964c0d101c15e63b8c0b513.jpg",
+    "place_id": "ChIJ47Z5PEmPQTUR2VywYjx40DI",
+    "g_name": "SACHiA Beef stroganoff & sweets",
+    "g_rating": 4.4,
+    "g_reviews": 157,
+    "g_address": "日本、〒812-0054 福岡県福岡市東区馬出２丁目３−４１",
+    "lat": 33.6094236,
+    "lng": 130.4187226
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "マルシェ",
+    "name_en": "Marche",
+    "area": "兵庫県 花隈駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280102/28001012/",
+    "rating": 3.62,
+    "review_count_tabelog": 583,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Curry, Cafeteria",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 15:00",
+        "dtl_text": "11:30 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.9,
+    "google_reviews": 171,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3VZGjASPAGARTMdKtQdni_4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/28001012-b98ad8042a4e1e7d678d306b62198a2f306b46479b19250db5e1a30d55a60443.jpg",
+    "place_id": "ChIJ3VZGjASPAGARTMdKtQdni_4",
+    "g_name": "元町マルシェ",
+    "g_rating": 3.9,
+    "g_reviews": 171,
+    "g_address": "日本、〒650-0022 兵庫県神戸市中央区元町通５丁目８−３",
+    "lat": 34.6852834,
+    "lng": 135.181346
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "キッチンパパ",
+    "name_en": "Kitchen Papa",
+    "area": "京都府 京都市上京区",
+    "url": "https://tabelog.com/kyoto/A2601/A260501/26003707/",
+    "rating": 3.66,
+    "review_count_tabelog": 418,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Hamburger steak, Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "11:00 - 13:30 17:30 - 19:30",
+        "dtl_text": "17:30 - 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Year-end & New Year Holidays. Other closures will be announced on Instagram and Facebook."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 785,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJN08rfO8HAWARtP0f9evlQr0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/26003707-d9ece65836f33be3bead5dcec2f9bc25b44e77f5ad3b7e5f6b68f3d3433afd2c.jpg",
+    "place_id": "ChIJN08rfO8HAWARtP0f9evlQr0",
+    "g_name": "キッチンパパ",
+    "g_rating": 4.4,
+    "g_reviews": 785,
+    "g_address": "日本、〒602-8486 京都府京都市上京区姥ケ西町５９１",
+    "lat": 35.032512,
+    "lng": 135.7424509
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "つよしのコロッケ本舗",
+    "name_en": "Tsuyoshi no Croquette Honpo",
+    "area": "奈良県 奈良市",
+    "url": "https://tabelog.com/nara/A2901/A290102/29000658/",
+    "rating": 3.56,
+    "review_count_tabelog": 203,
+    "price_dinner": "～￥999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Croquette",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "10:00 - 18:30",
+        "dtl_text": "10:00 - 18:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 176,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJYY1Qm6kkAWAR9WZG-algv6c",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/29000658-a59223fe181f78acae686aa37afd9c82bd7feb0e4c18f04e1fa8efe0ee62660a.jpg",
+    "place_id": "ChIJYY1Qm6kkAWAR9WZG-algv6c",
+    "g_name": "つよしのコロッケ本舗",
+    "g_rating": 4.4,
+    "g_reviews": 176,
+    "g_address": "日本、〒631-0041 奈良県奈良市学園大和町１丁目１−１",
+    "lat": 34.6876987,
+    "lng": 135.7468233
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "勘之助",
+    "name_en": "KANNOSUKE",
+    "area": "大阪府 新福島駅",
+    "url": "https://tabelog.com/osaka/A2701/A270108/27112174/",
+    "rating": 3.62,
+    "review_count_tabelog": 229,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Hamburger steak, Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 L.O. Food 14:30 18:00 - 22:00 L.O. Food 21:00",
+        "dtl_text": "18:00 - 22:00 L.O. Food 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 170,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJC-a9QpbnAGARm5040A9c6Rk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/27112174-15cb7910395147d7e41f7c4092007a5a522bdab7d4e57fbd8459e322fe44229f.jpg",
+    "place_id": "ChIJC-a9QpbnAGARm5040A9c6Rk",
+    "g_name": "勘之助 福島",
+    "g_rating": 4.5,
+    "g_reviews": 170,
+    "g_address": "日本、〒553-0003 大阪府大阪市福島区福島３丁目８−１０",
+    "lat": 34.693535,
+    "lng": 135.4853425
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "プリムローズ",
+    "name_en": "Primrose",
+    "area": "長崎県 長崎市",
+    "url": "https://tabelog.com/nagasaki/A4201/A420101/42007008/",
+    "rating": 3.65,
+    "review_count_tabelog": 208,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 16:00 L.O. 15:00 18:00 - 22:00 L.O. 21:30",
+        "dtl_text": "18:00 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 284,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-4qxNUdTFTURjYsofHO93A8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/42007008-9205ab7ac612bcaadf38aac9cf766fa2908b101715ab96e627d1413292c40dbb.jpg",
+    "place_id": "ChIJ-4qxNUdTFTURjYsofHO93A8",
+    "g_name": "レストラン プリムローズ",
+    "g_rating": 4.3,
+    "g_reviews": 284,
+    "g_address": "日本、〒850-0851 長崎県長崎市古川町３−３",
+    "lat": 32.746772,
+    "lng": 129.879909
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "ニク サングルマン",
+    "name_en": "Sangourmand",
+    "area": "大阪府 扇町駅",
+    "url": "https://tabelog.com/osaka/A2701/A270103/27122769/",
+    "rating": 3.56,
+    "review_count_tabelog": 656,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger steak, Omurice (Omelette rice)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 15:00 L.O. 14:30 18:00 - 22:00 L.O. 21:30",
+        "dtl_text": "18:00 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "If Wednesday is a public holiday, we will be open and will adjust our regular closing day to the following Thursday."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 415,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDTk_y-DnAGARjxPp24wGpmU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/27122769-e3ed8aec6e33ec4937398ebae90ab5a6a61cdfacc6642c1a25123b4daa8847cc.jpg",
+    "place_id": "ChIJDTk_y-DnAGARjxPp24wGpmU",
+    "g_name": "ニク サングルマン",
+    "g_rating": 4.3,
+    "g_reviews": 415,
+    "g_address": "日本、〒530-0041 大阪府大阪市北区天神橋３丁目１０−８ 与力町スカイハイツ 102",
+    "lat": 34.7019722,
+    "lng": 135.5123308
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "イワナガ食堂",
+    "name_en": "iwanaga",
+    "area": "宮崎県 宮崎市",
+    "url": "https://tabelog.com/miyazaki/A4501/A450101/45009812/",
+    "rating": 3.89,
+    "review_count_tabelog": 151,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Steak, Beef dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 36,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJq7nB-lm3ODURbKekD2lTQJI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/45009812-99d661f8c69cf460d9fdaa05aba3ef377e13356a8f55bd41feff4003668f287d.jpg",
+    "place_id": "ChIJq7nB-lm3ODURbKekD2lTQJI",
+    "g_name": "イワナガ食堂",
+    "g_rating": 4.5,
+    "g_reviews": 36,
+    "g_address": "日本、〒880-0805 宮崎県宮崎市橘通東３丁目３−７ 福田ビル 1F",
+    "lat": 31.914827,
+    "lng": 131.4240084
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "コックドール",
+    "name_en": "Cock Doll",
+    "area": "高知県 高知市",
+    "url": "https://tabelog.com/kochi/A3901/A390101/39000346/",
+    "rating": 3.74,
+    "review_count_tabelog": 183,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Omurice (Omelette rice)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00 17:30 - 20:00",
+        "dtl_text": "17:30 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 198,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ8sbYjcZTjUR5gkbAes5gdI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/39000346-2e7729e44c40cd837230c29e3cc552b2e58ba551d284716105eafb0751f905ee.jpg",
+    "place_id": "ChIJJ8sbYjcZTjUR5gkbAes5gdI",
+    "g_name": "レストラン コックドール",
+    "g_rating": 4.1,
+    "g_reviews": 198,
+    "g_address": "日本、〒780-0841 高知県高知市帯屋町１丁目１３−１３",
+    "lat": 33.560075,
+    "lng": 133.5381294
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "ハングリーベア",
+    "name_en": "Hungry Bear",
+    "area": "高知県 高知市",
+    "url": "https://tabelog.com/kochi/A3901/A390101/39000034/",
+    "rating": 3.61,
+    "review_count_tabelog": 71,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger steak, Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 17:00 - 21:30 L.O. 21:00",
+        "dtl_text": "17:00 - 21:30 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 602,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmwZW1AMZTjURj0_bhtGO3jc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/39000034-56c41ea7927275659f4f9b260d4ab02d96095b2d520981a4d8067d335a4b962d.jpg",
+    "place_id": "ChIJmwZW1AMZTjURj0_bhtGO3jc",
+    "g_name": "ハングリー ベア",
+    "g_rating": 4.3,
+    "g_reviews": 602,
+    "g_address": "日本、〒780-8033 高知県高知市幸崎１３",
+    "lat": 33.5431147,
+    "lng": 133.5246999
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "れすとらん 源ちゃん",
+    "name_en": "Restaurant Genchan",
+    "area": "大阪府 長堀橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270201/27003946/",
+    "rating": 3.51,
+    "review_count_tabelog": 380,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Hamburger steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00 17:00 - 21:30",
+        "dtl_text": "17:00 - 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Second Tuesday of each month"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 144,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJY-D4Gw7nAGARVYkvYWyjR0g",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/27003946-796de470289d2f800793eb6d6c11f7e71196061c99ad0689343407d85527ec68.jpg",
+    "place_id": "ChIJY-D4Gw7nAGARVYkvYWyjR0g",
+    "g_name": "れすとらん 源ちゃん",
+    "g_rating": 4.4,
+    "g_reviews": 144,
+    "g_address": "日本、〒542-0081 大阪府大阪市中央区南船場２丁目３−１７ ヴェルデ南船場 １F",
+    "lat": 34.6760418,
+    "lng": 135.5054919
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "洋食クアトロ",
+    "name_en": "QUATTRO",
+    "area": "兵庫県 元町（阪神）駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280102/28035325/",
+    "rating": 3.63,
+    "review_count_tabelog": 919,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 15:00 L.O. 14:30 17:30 - 22:00 L.O. 21:00",
+        "dtl_text": "17:30 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:30 - 15:00 L.O. 14:30",
+        "dtl_text": "11:30 - 15:00 L.O. 14:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 808,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6UzSuAKPAGARm1dRiqKQsUM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/28035325-3ba45da698bebb23a4b766fc3e4ebd29fda50772cb7c0a535fb44eba770043d9.jpg",
+    "place_id": "ChIJ6UzSuAKPAGARm1dRiqKQsUM",
+    "g_name": "洋食 Quattro（クアトロ） 元町本店",
+    "g_rating": 4.2,
+    "g_reviews": 808,
+    "g_address": "日本、〒650-0022 兵庫県神戸市中央区元町通３丁目１２−３ 日国ビル",
+    "lat": 34.6884383,
+    "lng": 135.1859433
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "とんかつ荘 フジマル",
+    "name_en": "Tonkatsu So Fujimaru",
+    "area": "和歌山県 和歌山市",
+    "url": "https://tabelog.com/wakayama/A3001/A300101/30007386/",
+    "rating": 3.57,
+    "review_count_tabelog": 251,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Tonkatsu (Pork cutlet), Curry",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon": {},
+        "Wed - Sun": {}
+      },
+      "closed_on": "Tuesdays"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 342,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJvVGyIeiyAGARvR0fnGjfNa4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/30007386-e5dc97b7d51128fbc14e0ecbe48735ef62bd299785568aac78fa04ae9b6a2263.jpg",
+    "place_id": "ChIJvVGyIeiyAGARvR0fnGjfNa4",
+    "g_name": "とんかつ荘 フジマル",
+    "g_rating": 4.3,
+    "g_reviews": 342,
+    "g_address": "日本、〒640-8152 和歌山県和歌山市十番丁５２ 土谷ビル 2F",
+    "lat": 34.2311757,
+    "lng": 135.1762026
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "洋食屋牛銀",
+    "name_en": "Yoshokuya Gyugin",
+    "area": "三重県 松阪市",
+    "url": "https://tabelog.com/mie/A2401/A240102/24000063/",
+    "rating": 3.7,
+    "review_count_tabelog": 606,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 19:30 L.O. 18:30",
+        "dtl_text": "11:00 - 19:30 L.O. 18:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Please check the official website for the holiday calendar."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 351,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJm-B5sqVrBGARKElWuzMtelE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/24000063-8fe098d5c33da308402f9db361827d0904ed9dc044b798413970faec69ab42e4.jpg",
+    "place_id": "ChIJm-B5sqVrBGARKElWuzMtelE",
+    "g_name": "洋食屋牛銀",
+    "g_rating": 4.3,
+    "g_reviews": 351,
+    "g_address": "日本、〒515-0082 三重県松阪市魚町１６１８",
+    "lat": 34.5791291,
+    "lng": 136.5285313
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "ポッケ",
+    "name_en": "Pocket",
+    "area": "大阪府 桃谷駅",
+    "url": "https://tabelog.com/osaka/A2701/A270205/27002873/",
+    "rating": 3.67,
+    "review_count_tabelog": 344,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Steak, Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 14:00 17:30 - 22:00",
+        "dtl_text": "17:30 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "11:30 - 14:00 17:00 - 21:30",
+        "dtl_text": "17:00 - 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (open on public holidays)"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 244,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQdzz8QPeAGARLxrG_u4z-3k",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/27002873-4cde06bdbc13905e30df308ab1caa7e448843cd9981981738ef4b89049642fef.jpg",
+    "place_id": "ChIJQdzz8QPeAGARLxrG_u4z-3k",
+    "g_name": "グリルポッケ Grill Pokke",
+    "g_rating": 4.1,
+    "g_reviews": 244,
+    "g_address": "日本、〒544-0034 大阪府大阪市生野区桃谷２丁目２８−１７",
+    "lat": 34.6582277,
+    "lng": 135.5307131
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "洋食の店 橋本",
+    "name_en": "Yoshoku no Mise Hashimoto",
+    "area": "熊本県 熊本市中央区",
+    "url": "https://tabelog.com/kumamoto/A4301/A430101/43000997/",
+    "rating": 3.93,
+    "review_count_tabelog": 365,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 332,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJHdUsHQn0QDURjWU-7aoehVs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/43000997-f5702d3b5a11ac0228b5fd93980a3cdcaa8c312db48c17fe93a88d61cd38a416.jpg",
+    "place_id": "ChIJHdUsHQn0QDURjWU-7aoehVs",
+    "g_name": "洋食の店 橋本",
+    "g_rating": 4.3,
+    "g_reviews": 332,
+    "g_address": "日本、〒860-0845 熊本県熊本市中央区上通町４−２４",
+    "lat": 32.80401190000001,
+    "lng": 130.7105505
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "いずみバーグ",
+    "name_en": "Izumi Burger",
+    "area": "大阪府 九条（阪神）駅",
+    "url": "https://tabelog.com/osaka/A2701/A270401/27013033/",
+    "rating": 3.65,
+    "review_count_tabelog": 657,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Hamburger steak, Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 L.O. 14:30 18:00 - 21:00 L.O. 20:30",
+        "dtl_text": "18:00 - 21:00 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4,
+    "google_reviews": 22,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2acj7CDnAGAR7Yos1WAvvnY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/27013033-37fbe32964f1d05638177f58ee3fbef6927095bbc3193d7cfc6bd4c5749c7ca6.jpg",
+    "place_id": "ChIJ2acj7CDnAGAR7Yos1WAvvnY",
+    "g_name": "いずみカリー 西九条店【いずみバーグ】",
+    "g_rating": 4,
+    "g_reviews": 22,
+    "g_address": "日本、〒554-0012 大阪府大阪市此花区西九条３丁目１５−１５",
+    "lat": 34.6826232,
+    "lng": 135.4656798
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "洋食勝井",
+    "name_en": "Yoshoku Katsui",
+    "area": "奈良県 天理市",
+    "url": "https://tabelog.com/nara/A2904/A290401/29010542/",
+    "rating": 3.57,
+    "review_count_tabelog": 200,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "09:00 - 10:00 11:00 - 16:30",
+        "dtl_text": "11:00 - 16:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu, Fri, Sat, Sun",
+        "dtl": "09:00 - 10:00 11:00 - 16:30 17:00 - 21:00 L.O. Food 20:30",
+        "dtl_text": "17:00 - 21:00 L.O. Food 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 642,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJyY5iVl40AWARZAPtnIRAWkA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/29010542-e5cd7e129cd09c8a255a6b2836eecff8cd8305d42728693118d0c059341190dc.jpg",
+    "place_id": "ChIJyY5iVl40AWARZAPtnIRAWkA",
+    "g_name": "洋食Katsui 山の辺の道",
+    "g_rating": 4.1,
+    "g_reviews": 642,
+    "g_address": "日本、〒632-0052 奈良県天理市柳本町５７７−１ トレイルセンター内",
+    "lat": 34.56041829999999,
+    "lng": 135.8491448
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "ボンバーキッチン 薬院本店",
+    "name_en": "Bomber Kitchen Yakuinhoten",
+    "area": "福岡県 薬院大通駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400104/40006396/",
+    "rating": 3.65,
+    "review_count_tabelog": 352,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Cafeteria",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:30 17:30 - 21:30",
+        "dtl_text": "17:30 - 21:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 839,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__8jMoKRQTUR9ZFf2aaAzVI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/40006396-98237428fcdcfe8948e18add41941f6e9c9a217ae498463fa6b5a9b6c2f420b5.jpg",
+    "place_id": "ChIJ__8jMoKRQTUR9ZFf2aaAzVI",
+    "g_name": "ボンバーキッチン薬院本店",
+    "g_rating": 4.4,
+    "g_reviews": 839,
+    "g_address": "日本、〒810-0022 福岡県福岡市中央区薬院２丁目２−１８",
+    "lat": 33.5820756,
+    "lng": 130.3963262
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "手作りハンバーグアペゼ",
+    "name_en": "Tezukuri Hamburger steak Apeze",
+    "area": "滋賀県 草津市",
+    "url": "https://tabelog.com/shiga/A2502/A250201/25000136/",
+    "rating": 3.54,
+    "review_count_tabelog": 73,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Hamburger steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:00 - 15:00 L.O. 14:30 17:00 - 21:30 L.O. 21:00",
+        "dtl_text": "17:00 - 21:30 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 152,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDwNML-xtAWARjC5CPI3kV0U",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/25000136-6850e8cc6a52c08062c2f8f7f158f8234350711ef21adcbcc10bf05e27bbd5e5.jpg",
+    "place_id": "ChIJDwNML-xtAWARjC5CPI3kV0U",
+    "g_name": "手作りハンバーグ アペゼ",
+    "g_rating": 4.2,
+    "g_reviews": 152,
+    "g_address": "日本、〒525-0048 滋賀県草津市追分南５丁目１１−１０",
+    "lat": 34.9915585,
+    "lng": 135.965476
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "洋食の朝日",
+    "name_en": "Yoshoku no Asahi",
+    "area": "兵庫県 西元町駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280102/28000591/",
+    "rating": 3.72,
+    "review_count_tabelog": 1788,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Public Holiday",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "We will be closed from August 13 to August 17. We will be open on the holiday, August 11."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 1685,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJM8QEPwWPAGAR692cTfyI5ZQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/28000591-2bc9a3fe6903c13928f62390b2520e47878b1e5e6c73d5ce1d67cf110e1cf5ab.jpg",
+    "place_id": "ChIJM8QEPwWPAGAR692cTfyI5ZQ",
+    "g_name": "洋食の朝日",
+    "g_rating": 4.4,
+    "g_reviews": 1685,
+    "g_address": "日本、〒650-0011 兵庫県神戸市中央区下山手通８丁目７−７",
+    "lat": 34.6850397,
+    "lng": 135.1788661
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "東洋軒 本店",
+    "name_en": "Toyo Ken Hon Ten",
+    "area": "三重県 津市",
+    "url": "https://tabelog.com/mie/A2401/A240101/24000085/",
+    "rating": 3.68,
+    "review_count_tabelog": 368,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), French, Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:30 L.O. 14:00 17:00 - 21:00 L.O. 20:00",
+        "dtl_text": "17:00 - 21:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (open on public holidays) and Year-end & New Year Holidays"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 675,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJObhfVdAMBGARmC1oBj9Fte4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/24000085-7365e6086aca21543663a7b740b02934895e5fad0f03783ee1e752416a049552.jpg",
+    "place_id": "ChIJObhfVdAMBGARmC1oBj9Fte4",
+    "g_name": "東洋軒本店",
+    "g_rating": 4.2,
+    "g_reviews": 675,
+    "g_address": "日本、〒514-0033 三重県津市丸之内２９−１７",
+    "lat": 34.7171651,
+    "lng": 136.5090322
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "洋食むーしゃむーしゃ",
+    "name_en": "Yoshoku Musha Musha",
+    "area": "兵庫県 西宮北口駅",
+    "url": "https://tabelog.com/hyogo/A2803/A280301/28050672/",
+    "rating": 3.49,
+    "review_count_tabelog": 341,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:30 L.O. 15:00",
+        "dtl_text": "11:00 - 15:30 L.O. 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 331,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__9viT7yAGARwFS77gfdXZk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/28050672-ef3772cc9e14f8167b50688e75e74e694502fedaa7195d51503e8fb232e6a9a2.jpg",
+    "place_id": "ChIJ__9viT7yAGARwFS77gfdXZk",
+    "g_name": "洋食 むーしゃむーしゃ",
+    "g_rating": 4.1,
+    "g_reviews": 331,
+    "g_address": "日本、〒663-8204 兵庫県西宮市高松町１６−２２",
+    "lat": 34.7456523,
+    "lng": 135.3595896
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "ニューとん助",
+    "name_en": "New Tonsuke",
+    "area": "大阪府 北加賀屋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270404/27084692/",
+    "rating": 3.64,
+    "review_count_tabelog": 346,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Tonkatsu (Pork cutlet), Hamburger steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri, Sat",
+        "dtl": "10:25 - 13:10",
+        "dtl_text": "10:25 - 13:10",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 543,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJEfTNmw7dAGARQJsarbahASE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/27084692-cd0c138a07e428d43bb44aa134bbbc222ec52f553082dae597b357797ba3320b.jpg",
+    "place_id": "ChIJEfTNmw7dAGARQJsarbahASE",
+    "g_name": "ニューとん助",
+    "g_rating": 4.4,
+    "g_reviews": 543,
+    "g_address": "日本、〒559-0017 大阪府大阪市住之江区中加賀屋３丁目１−２２",
+    "lat": 34.61680279999999,
+    "lng": 135.4812708
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "喫茶オリノ",
+    "name_en": "Kissa Orino",
+    "area": "和歌山県 和歌山市",
+    "url": "https://tabelog.com/wakayama/A3001/A300101/30000095/",
+    "rating": 3.45,
+    "review_count_tabelog": 154,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "08:00 - 21:00",
+        "dtl_text": "08:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (open on public holidays)"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 627,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJk57TqERNB2ARLjXY73QxHEY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/30000095-f327ebb8d7a178d638b7380e2fc342cfc302125a02cc34d3bab088eea97b0282.jpg",
+    "place_id": "ChIJk57TqERNB2ARLjXY73QxHEY",
+    "g_name": "海老フライ専門 喫茶オリノ",
+    "g_rating": 4.2,
+    "g_reviews": 627,
+    "g_address": "日本、〒641-0035 和歌山県和歌山市関戸５丁目７−１５",
+    "lat": 34.1930652,
+    "lng": 135.1592424
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "乃呂",
+    "name_en": "Noro",
+    "area": "大阪府 長堀橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270201/27000884/",
+    "rating": 3.59,
+    "review_count_tabelog": 105,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Hamburger steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 L.O. 14:30 17:00 - 21:00 L.O. 20:30",
+        "dtl_text": "17:00 - 21:00 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.6,
+    "google_reviews": 237,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2f_jiT3nAGAREbQZWDLEme8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/27000884-07c126349d98e83a53535f482b3f00d3e779a7195c36114dfaccde4b7095c40e.jpg",
+    "place_id": "ChIJ2f_jiT3nAGAREbQZWDLEme8",
+    "g_name": "長堀橋駅",
+    "g_rating": 3.6,
+    "g_reviews": 237,
+    "g_address": "日本、大阪府",
+    "lat": 34.6744602,
+    "lng": 135.5063311
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "四ツ橋カフェ",
+    "name_en": "Yotsubashi Cafe",
+    "area": "大阪府 西大橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270201/27070293/",
+    "rating": 3.59,
+    "review_count_tabelog": 382,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Hamburger steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:30 L.O. 14:30",
+        "dtl_text": "11:00 - 15:30 L.O. 14:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 310,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJr0ErXwPnAGARQWrMFsFAXGY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/27070293-42c15bb4e14045cb5c7d327dd68c4e007af5988a40a01e825f562fb0246a4ffc.jpg",
+    "place_id": "ChIJr0ErXwPnAGARQWrMFsFAXGY",
+    "g_name": "四ツ橋カフェ",
+    "g_rating": 4.4,
+    "g_reviews": 310,
+    "g_address": "日本、〒550-0013 大阪府大阪市西区新町１丁目９−１７ ジェイ四ツ橋ビル 1Ｆ",
+    "lat": 34.6774733,
+    "lng": 135.4960275
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "望月",
+    "name_en": "Mochizuki",
+    "area": "長崎県 五島市",
+    "url": "https://tabelog.com/nagasaki/A4205/A420501/42000129/",
+    "rating": 3.61,
+    "review_count_tabelog": 134,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:30 17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 425,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJe1q_ByKQFDURcz_kyCXtyws",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/42000129-a0c3a954cf119fe765e3fe4a117ea72ef8b03104598903c6e1fc0ed4ad335020.jpg",
+    "place_id": "ChIJe1q_ByKQFDURcz_kyCXtyws",
+    "g_name": "望月",
+    "g_rating": 4.4,
+    "g_reviews": 425,
+    "g_address": "日本、〒853-0007 長崎県五島市福江町５−１２",
+    "lat": 32.6957056,
+    "lng": 128.8415424
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "味のおぐら 本店",
+    "name_en": "Aji no Ogura Hon Ten",
+    "area": "宮崎県 宮崎市",
+    "url": "https://tabelog.com/miyazaki/A4501/A450101/45000012/",
+    "rating": 3.52,
+    "review_count_tabelog": 1858,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 L.O. 14:20 17:00 - 20:30 L.O. 19:50",
+        "dtl_text": "17:00 - 20:30 L.O. 19:50",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 2899,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJa6MXgGq3ODURM4kxIsIaifo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/45000012-90048209f62affffb9621f0870d3065f537bb84147aad3c64e904fbb76d66963.jpg",
+    "place_id": "ChIJa6MXgGq3ODURM4kxIsIaifo",
+    "g_name": "おぐら 本店",
+    "g_rating": 4.2,
+    "g_reviews": 2899,
+    "g_address": "日本、〒880-0805 宮崎県宮崎市橘通東３丁目４−２４",
+    "lat": 31.9158801,
+    "lng": 131.423694
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "御堂筋 ロッヂ",
+    "name_en": "Midosuji Lodge",
+    "area": "大阪府 心斎橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270201/27059987/",
+    "rating": 3.67,
+    "review_count_tabelog": 693,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 15:00 L.O. 14:30 17:00 - 22:00 L.O. 21:30",
+        "dtl_text": "17:00 - 22:00 L.O. 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "11:30 - 15:00 L.O. 14:30 17:00 - 21:00 L.O. 20:30",
+        "dtl_text": "17:00 - 21:00 L.O. 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 468,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGRTvWhrnAGARN8NghGiniaQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/27059987-6946bd2f26b28fbbf406641fb4c3633f53184fdfd5202e2068e9498c4ff6b025.jpg",
+    "place_id": "ChIJGRTvWhrnAGARN8NghGiniaQ",
+    "g_name": "御堂筋 ロッヂ",
+    "g_rating": 4.3,
+    "g_reviews": 468,
+    "g_address": "日本、〒542-0081 大阪府大阪市中央区南船場４丁目３−１１ 大阪豊田ビル B1F",
+    "lat": 34.67617389999999,
+    "lng": 135.4998229
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "糠漬工房 nipote 三篠本店",
+    "name_en": "Nukazuke Kobo nipote Misasa Honten",
+    "area": "広島県 横川駅",
+    "url": "https://tabelog.com/hiroshima/A3401/A340103/34029808/",
+    "rating": 3.53,
+    "review_count_tabelog": 45,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "12:00 - 14:30 L.O. 14:15",
+        "dtl_text": "12:00 - 14:30 L.O. 14:15"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:30 L.O. 14:15 18:00 - 22:00 L.O. 21:00",
+        "dtl_text": "18:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 21,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2Y1QFwCZWjURxNLDh-E0Yk4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/34029808-74da40534bbbcdd8f7fd86a78c6ffe1364dcca881630dc760bbe5bd7a49390c7.jpg",
+    "place_id": "ChIJ2Y1QFwCZWjURxNLDh-E0Yk4",
+    "g_name": "ぬか漬けスタンド ニポテ 横川店",
+    "g_rating": 4.3,
+    "g_reviews": 21,
+    "g_address": "日本、〒733-0011 広島県広島市西区横川町３丁目５−３",
+    "lat": 34.4095387,
+    "lng": 132.4525032
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "洋食の藤",
+    "name_en": "Yoshoku no Fuji",
+    "area": "兵庫県 ハーバーランド駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280102/28048408/",
+    "rating": 3.55,
+    "review_count_tabelog": 544,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Omurice (Omelette rice), Hamburger steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:30 L.O. 14:00 17:00 - 21:00 L.O. 20:30",
+        "dtl_text": "17:00 - 21:00 L.O. 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 653,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2wY4BKiPAGARumA1XqzN8rg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/28048408-9005e2899cf3fe9da2b27c017558b176637deaff2d51b9e100ba2c0bd193ef18.jpg",
+    "place_id": "ChIJ2wY4BKiPAGARumA1XqzN8rg",
+    "g_name": "洋食の藤",
+    "g_rating": 4.2,
+    "g_reviews": 653,
+    "g_address": "日本、〒650-0025 兵庫県神戸市中央区相生町５丁目１０−２１",
+    "lat": 34.6762534,
+    "lng": 135.1779119
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "洋食屋 ふじ家",
+    "name_en": "Fujiya",
+    "area": "大阪府 谷町四丁目駅",
+    "url": "https://tabelog.com/osaka/A2701/A270106/27012521/",
+    "rating": 3.65,
+    "review_count_tabelog": 904,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 14:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "First Monday of each month"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 433,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJTSd0_CTnAGAR9S4YOWyCLvU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/27012521-d7b21f4a1e8214576fdfc1a50a53627479196e097675667349836bfb84a05a2d.jpg",
+    "place_id": "ChIJTSd0_CTnAGAR9S4YOWyCLvU",
+    "g_name": "洋食屋 ふじ家",
+    "g_rating": 4.1,
+    "g_reviews": 433,
+    "g_address": "日本、〒540-0027 大阪府大阪市中央区鎗屋町２丁目２−１ 曽根富商事",
+    "lat": 34.6826205,
+    "lng": 135.5131302
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "新富士本店",
+    "name_en": "Shinfuji Honten",
+    "area": "大阪府 岸里玉出駅",
+    "url": "https://tabelog.com/osaka/A2701/A270406/27019800/",
+    "rating": 3.6,
+    "review_count_tabelog": 515,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Tonkatsu (Pork cutlet), Pork dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat",
+        "dtl": "11:00 - 12:45 L.O. Food 12:30",
+        "dtl_text": "11:00 - 12:45 L.O. Food 12:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:00 - 13:00 L.O. 12:50 16:00 - 18:00 L.O. 17:45",
+        "dtl_text": "16:00 - 18:00 L.O. 17:45",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 332,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJPYG0153dAGARLjj-zGqjWpw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/27019800-e6c6887beec55b79818cb74cda84ba269b1626757f4445bb1fd83448ac8c9287.jpg",
+    "place_id": "ChIJPYG0153dAGARLjj-zGqjWpw",
+    "g_name": "新富士 本店",
+    "g_rating": 4.2,
+    "g_reviews": 332,
+    "g_address": "日本、〒557-0055 大阪府大阪市西成区千本南２丁目３−５",
+    "lat": 34.6299076,
+    "lng": 135.4893865
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "グラタンのお店 どつぼどーる",
+    "name_en": "Gratin no Omise Dotsubodoru",
+    "area": "兵庫県 逆瀬川駅",
+    "url": "https://tabelog.com/hyogo/A2803/A280303/28004183/",
+    "rating": 3.6,
+    "review_count_tabelog": 231,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every Tuesday and Wednesday"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 299,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJB8zFj3P0AGARX8ycDAvRUtY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/28004183-cd93844aadf50e6dfbdbefa4d1fbfa71896389922bc025eddf170677fc44c0f5.jpg",
+    "place_id": "ChIJB8zFj3P0AGARX8ycDAvRUtY",
+    "g_name": "グラタン専門 どつぼどーる",
+    "g_rating": 4.4,
+    "g_reviews": 299,
+    "g_address": "日本、〒665-0035 兵庫県宝塚市逆瀬川１丁目１３−２７ トヨタビル 1F",
+    "lat": 34.7982018,
+    "lng": 135.3526081
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "コリス",
+    "name_en": "Korisu",
+    "area": "京都府 清水五条駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260301/26006119/",
+    "rating": 3.78,
+    "review_count_tabelog": 214,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 21:00 L.O. 19:00",
+        "dtl_text": "11:30 - 21:00 L.O. 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 171,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8Q5uRMYIAWARrndaeOU-vlM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/26006119-c5434fb0e8803a0437c41f546fe4767c9bcea56c87130ae31e087fa1fbde481b.jpg",
+    "place_id": "ChIJ8Q5uRMYIAWARrndaeOU-vlM",
+    "g_name": "コリス",
+    "g_rating": 4.5,
+    "g_reviews": 171,
+    "g_address": "日本、〒605-0813 京都府京都市東山区轆轤町１０１",
+    "lat": 34.9976349,
+    "lng": 135.7742726
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "明治軒",
+    "name_en": "Meiji Ken",
+    "area": "大阪府 心斎橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270201/27001834/",
+    "rating": 3.49,
+    "review_count_tabelog": 1513,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Omurice (Omelette rice), Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "11:00 - 15:20 L.O. 15:20",
+        "dtl_text": "11:00 - 15:20 L.O. 15:20",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Thu, Fri",
+        "dtl": "11:00 - 15:20 L.O. 15:20 17:00 - 20:30 L.O. 20:00",
+        "dtl_text": "17:00 - 20:30 L.O. 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 22:00 L.O. 21:30",
+        "dtl_text": "11:00 - 22:00 L.O. 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "If Wednesday is a public holiday, we will be closed the following day."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 2174,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQDn0hDnAGARE_gMVfQkU7M",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/27001834-63114ae0863e503e034a6edbd5ac1c8d9588ea888aa4221a67174c541aed6624.jpg",
+    "place_id": "ChIJAQDn0hDnAGARE_gMVfQkU7M",
+    "g_name": "明治軒",
+    "g_rating": 4.2,
+    "g_reviews": 2174,
+    "g_address": "日本、〒542-0085 大阪府大阪市中央区心斎橋筋１丁目５−３２",
+    "lat": 34.6726184,
+    "lng": 135.5022325
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "洋食ビストロ Awano",
+    "name_en": "Yoshoku Bistro Awano",
+    "area": "大阪府 堺筋本町駅",
+    "url": "https://tabelog.com/osaka/A2701/A270102/27101388/",
+    "rating": 3.52,
+    "review_count_tabelog": 231,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Fri",
+        "dtl": "11:15 - 15:00 L.O. 14:30 18:00 - 21:30 L.O. Food 20:30 Drinks 21:00",
+        "dtl_text": "18:00 - 21:30 L.O. Food 20:30 Drinks 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Thu",
+        "dtl": "11:15 - 15:00 L.O. 14:30",
+        "dtl_text": "11:15 - 15:00 L.O. 14:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:15 - 15:00 L.O. 14:30 18:00 - 21:00 L.O. Food 20:00 Drinks 20:30",
+        "dtl_text": "18:00 - 21:00 L.O. Food 20:00 Drinks 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 186,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAwnaqiHnAGAR_-td-0bi1HQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/27101388-e1d6b295c0667866a4510a61a1729ff0e2bab6bea79cd23be064c61ab198d738.jpg",
+    "place_id": "ChIJAwnaqiHnAGAR_-td-0bi1HQ",
+    "g_name": "洋食ビストロAWANO",
+    "g_rating": 4.4,
+    "g_reviews": 186,
+    "g_address": "日本、〒541-0051 大阪府大阪市中央区備後町１丁目２−１２",
+    "lat": 34.6852637,
+    "lng": 135.5085533
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "サクラグリル",
+    "name_en": "Sakura Grill",
+    "area": "大阪府 南千里駅",
+    "url": "https://tabelog.com/osaka/A2706/A270602/27079342/",
+    "rating": 3.59,
+    "review_count_tabelog": 108,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "-",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Hamburger steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 22:00 L.O. 21:30",
+        "dtl_text": "17:00 - 22:00 L.O. 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays and Sundays (1st, 3rd, and 5th weeks of the month)"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 156,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ20Hmczf7AGARX1PYS-f4E6k",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/27079342-0f4c174abb52dffaecaf3201cabe6e6973b8b1b5217870de25ea0cdf7063bb66.jpg",
+    "place_id": "ChIJ20Hmczf7AGARX1PYS-f4E6k",
+    "g_name": "Sakura grill",
+    "g_rating": 4.2,
+    "g_reviews": 156,
+    "g_address": "日本、〒560-0085 大阪府豊中市上新田４丁目１６−１１",
+    "lat": 34.7997829,
+    "lng": 135.5037071
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "伊藤グリル",
+    "name_en": "Ito Grill",
+    "area": "兵庫県 元町（阪神）駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280102/28000847/",
+    "rating": 3.65,
+    "review_count_tabelog": 411,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "11:30 - 14:00 L.O. Food 13:30 17:30 - 20:30 L.O. Food 19:30",
+        "dtl_text": "17:30 - 20:30 L.O. Food 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "11:30 - 14:30 L.O. Food 13:30 17:30 - 21:00 L.O. Food 20:00",
+        "dtl_text": "17:30 - 21:00 L.O. Food 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Fri, Sat",
+        "dtl": "11:30 - 13:30 L.O. Food 13:30 17:30 - 21:00 L.O. Food 20:00",
+        "dtl_text": "17:30 - 21:00 L.O. Food 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:30 - 13:30 17:30 - 20:30 L.O. Food 19:30",
+        "dtl_text": "17:30 - 20:30 L.O. Food 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Public Holiday",
+        "dtl": "11:30 - 14:30 L.O. Food 13:30 17:30 - 20:30 L.O. Food 19:30",
+        "dtl_text": "17:30 - 20:30 L.O. Food 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Day before public holiday",
+        "dtl": "11:30 - 14:30 L.O. Food 13:00 17:30 - 20:30 L.O. Food 19:30",
+        "dtl_text": "17:30 - 20:30 L.O. Food 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays (Not fixed) and Wednesdays"
+    },
+    "google_rating": 4,
+    "google_reviews": 365,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJr3SyDP2OAGARzhAjW5UYY_I",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/28000847-d1e0df5d1475ef1fa7f04da483dafb7c741610eff7c0a1d976a4faa49fa571ec.jpg",
+    "place_id": "ChIJr3SyDP2OAGARzhAjW5UYY_I",
+    "g_name": "伊藤グリル",
+    "g_rating": 4,
+    "g_reviews": 365,
+    "g_address": "日本、〒650-0022 兵庫県神戸市中央区元町通１丁目６−６",
+    "lat": 34.688432,
+    "lng": 135.1880633
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "洋食の店 みしな",
+    "name_en": "Yoshoku no Mise Mishina",
+    "area": "京都府 祇園四条駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260301/26001870/",
+    "rating": 3.74,
+    "review_count_tabelog": 335,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Croquette",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:30 17:00 - 19:30",
+        "dtl_text": "17:00 - 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 114,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJuxR_z9oIAWARRuSuwc4x-IE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/26001870-9d24d9c74d7eb19a06a0cace0ad5dfa9885511eab54a5bfb6a9d26ed8862e82f.jpg",
+    "place_id": "ChIJuxR_z9oIAWARRuSuwc4x-IE",
+    "g_name": "洋食の店 みしな",
+    "g_rating": 4.3,
+    "g_reviews": 114,
+    "g_address": "日本、〒605-0826 京都府京都市東山区桝屋町３５７",
+    "lat": 34.9982232,
+    "lng": 135.7806551
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "平家の郷 新別府店",
+    "name_en": "Heike no Sato Shinbeppu Ten",
+    "area": "宮崎県 宮崎市",
+    "url": "https://tabelog.com/miyazaki/A4501/A450101/45011705/",
+    "rating": 3.6,
+    "review_count_tabelog": 43,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger steak, Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 15:00 L.O. Food 14:30 17:30 - 21:30 L.O. Food 21:00",
+        "dtl_text": "17:30 - 21:30 L.O. Food 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 15:00 L.O. Food 14:30 17:00 - 21:30 L.O. Food 21:00",
+        "dtl_text": "17:00 - 21:30 L.O. Food 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 471,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDWs02fe5ODURbsZo11R5-QU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/45011705-66bea313c754ca3dfc7ed13cea5bf9dd18a8c9ba5fcc3083ab8c39f19fd22982.jpg",
+    "place_id": "ChIJDWs02fe5ODURbsZo11R5-QU",
+    "g_name": "平家の郷 宮崎新別府店",
+    "g_rating": 4.1,
+    "g_reviews": 471,
+    "g_address": "日本、〒880-0834 宮崎県宮崎市新別府町江口９６５−１",
+    "lat": 31.92690959999999,
+    "lng": 131.4539085
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "キッチン すずたとうげ",
+    "name_en": "Kitchen Suzutatoge",
+    "area": "長崎県 大村市",
+    "url": "https://tabelog.com/nagasaki/A4204/A420402/42007256/",
+    "rating": 3.52,
+    "review_count_tabelog": 56,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Hamburger steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 14:30 L.O. 14:00",
+        "dtl_text": "11:00 - 14:30 L.O. 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 282,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJg39YSRQdQDUR4hSGTLWPXlU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/42007256-882b47d3127243e9cd847a92b8554596dab38f45e2a3e5c8f414ee313e3db982.jpg",
+    "place_id": "ChIJg39YSRQdQDUR4hSGTLWPXlU",
+    "g_name": "キッチンすずたとうげ",
+    "g_rating": 4.3,
+    "g_reviews": 282,
+    "g_address": "日本、〒856-0842 長崎県大村市中里町４１８−７",
+    "lat": 32.8862336,
+    "lng": 130.0053496
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "プチレストラン ないとう",
+    "name_en": "Petit Restaurant Naitou",
+    "area": "京都府 京都市役所前駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260202/26033759/",
+    "rating": 3.69,
+    "review_count_tabelog": 81,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Tonkatsu (Pork cutlet), Hamburger steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 15:00 L.O. 14:00 18:00 - 22:00 L.O. 21:00",
+        "dtl_text": "18:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "12:00 - 15:00 L.O. 14:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed."
+    },
+    "google_rating": 4.6,
+    "google_reviews": 129,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJcfosHIkIAWARBIe5t7Bd7VY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/26033759-13010b48783b13cc500a63fb5518b33dc2bd23a38f4c5eea5cd9298fbf67ebfe.jpg",
+    "place_id": "ChIJcfosHIkIAWARBIe5t7Bd7VY",
+    "g_name": "プチレストランないとう",
+    "g_rating": 4.6,
+    "g_reviews": 129,
+    "g_address": "日本、〒604-0934 京都府京都市中京区尾張町２１７",
+    "lat": 35.0132172,
+    "lng": 135.765594
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "GRILL 爛漫",
+    "name_en": "GRILL Ranman",
+    "area": "宮崎県 宮崎市",
+    "url": "https://tabelog.com/miyazaki/A4501/A450101/45003540/",
+    "rating": 3.55,
+    "review_count_tabelog": 291,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00 18:00 - 20:00",
+        "dtl_text": "18:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every Tuesday and the 2nd & 4th Sunday of each month"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 533,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ7QjLhW3ODURDk_YD3glidY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/45003540-decbba63d42f416120402e30d1895ed900d4923aab34384e207097497a7d60db.jpg",
+    "place_id": "ChIJJ7QjLhW3ODURDk_YD3glidY",
+    "g_name": "グリル爛漫",
+    "g_rating": 4.4,
+    "g_reviews": 533,
+    "g_address": "日本、〒880-0002 宮崎県宮崎市中央通６−３ ウエストビル １Ｆ",
+    "lat": 31.9152486,
+    "lng": 131.4208834
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "洋食 泉",
+    "name_en": "Yoshoku Izumi",
+    "area": "大阪府 大江橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27118018/",
+    "rating": 4.0,
+    "review_count_tabelog": 177,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 23:00 L.O. Food 22:00 Drinks 22:30",
+        "dtl_text": "17:00 - 23:00 L.O. Food 22:00 Drinks 22:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.7,
+    "google_reviews": 196,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJE6hTsmHmAGARw4-vn1Ne8Xk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/27118018-9de47dfc2952a315361b1b3c2a102f722e26cfcc7b9c1720c6ceb01e110b110d.jpg",
+    "place_id": "ChIJE6hTsmHmAGARw4-vn1Ne8Xk",
+    "g_name": "洋食 泉",
+    "g_rating": 4.7,
+    "g_reviews": 196,
+    "g_address": "日本、〒530-0047 大阪府大阪市北区西天満４丁目９−２０ 東興ビル 1F",
+    "lat": 34.6971338,
+    "lng": 135.503815
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "サル食堂 本町本店",
+    "name_en": "Saru Shokudo Honmachi Honten",
+    "area": "大阪府 本町駅",
+    "url": "https://tabelog.com/osaka/A2701/A270106/27090972/",
+    "rating": 3.66,
+    "review_count_tabelog": 1109,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Cafeteria",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "10:55 - 15:00 17:00 - 22:30 L.O. 21:40",
+        "dtl_text": "17:00 - 22:30 L.O. 21:40"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 2045,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAQA-PmAGARzv1LQOcuvDo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/27090972-7c2507f7655d27f0898a8484aea6fecc7c3d6ed301a5cce22da900fca06d519e.jpg",
+    "place_id": "ChIJAQAQA-PmAGARzv1LQOcuvDo",
+    "g_name": "サル食堂",
+    "g_rating": 4.4,
+    "g_reviews": 2045,
+    "g_address": "日本、〒541-0051 大阪府大阪市中央区備後町４丁目３−４ 大阪タイガービル １F",
+    "lat": 34.685426,
+    "lng": 135.4987689
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "み乃家",
+    "name_en": "MINOYA",
+    "area": "広島県 横川駅",
+    "url": "https://tabelog.com/hiroshima/A3401/A340103/34027799/",
+    "rating": 3.7,
+    "review_count_tabelog": 119,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Hamburger steak, French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 15:00 L.O. 14:00 17:30 - 22:00 L.O. 21:00",
+        "dtl_text": "17:30 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 111,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ486oGoyZWjURpq-26L1r6hY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/34027799-fb1c4a92316fce49e6451a0680c2bc18f69b4688e9ff116f092843adc198b1bc.jpg",
+    "place_id": "ChIJ486oGoyZWjURpq-26L1r6hY",
+    "g_name": "み乃家",
+    "g_rating": 4.5,
+    "g_reviews": 111,
+    "g_address": "日本、〒733-0003 広島県広島市西区三篠町２丁目３−２６",
+    "lat": 34.4138855,
+    "lng": 132.4548182
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "らんぷ亭",
+    "name_en": "Ranpu Tei",
+    "area": "宮崎県 宮崎市",
+    "url": "https://tabelog.com/miyazaki/A4501/A450101/45000889/",
+    "rating": 4.02,
+    "review_count_tabelog": 307,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), European",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 23:00 L.O. 22:30",
+        "dtl_text": "18:00 - 23:00 L.O. 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 187,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ05-uzxS3ODURwf3Uy0EmrzA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/45000889-174ffb606c4d7876fba655aa76908c33316ba7d311819bbce525b76e42482176.jpg",
+    "place_id": "ChIJ05-uzxS3ODURwf3Uy0EmrzA",
+    "g_name": "らんぷ亭",
+    "g_rating": 4.4,
+    "g_reviews": 187,
+    "g_address": "日本、〒880-0002 宮崎県宮崎市中央通８−１６ 第２ 三輪ビル 中2階",
+    "lat": 31.9139659,
+    "lng": 131.4206742
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "洋食 手嶋",
+    "name_en": "Yoshoku Teshima",
+    "area": "大阪府 西大橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270201/27113674/",
+    "rating": 3.61,
+    "review_count_tabelog": 225,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Hamburger steak",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 92,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJr1BENlDnAGARhU_ZcAvmk_w",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/27113674-9c0cf81df0cbe50df4006e8125a5fec9400e846d3c43d8acb294a66b9ce92704.jpg",
+    "place_id": "ChIJr1BENlDnAGARhU_ZcAvmk_w",
+    "g_name": "洋食手嶋",
+    "g_rating": 4.5,
+    "g_reviews": 92,
+    "g_address": "日本、〒550-0013 大阪府大阪市西区新町１丁目２２−２２ 新町ダイアパレス",
+    "lat": 34.6766607,
+    "lng": 135.4949807
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "アトリエ",
+    "name_en": "Atelier",
+    "area": "大分県 別府市",
+    "url": "https://tabelog.com/oita/A4402/A440202/44011342/",
+    "rating": 3.64,
+    "review_count_tabelog": 15,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Auberge",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:00 - 22:00 L.O. Food 20:00 Drinks 21:30",
+        "dtl_text": "17:00 - 22:00 L.O. Food 20:00 Drinks 21:30"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.7,
+    "google_reviews": 141,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJkytBBWOnRjURkfxU6hTHl4Y",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/44011342-73a45f91ad1c2c66ccfbdd10a752893e9c9dbb7dd12ee3d430292341c5be0fe5.jpg",
+    "place_id": "ChIJkytBBWOnRjURkfxU6hTHl4Y",
+    "g_name": "海の見える丘のアトリエ",
+    "g_rating": 4.7,
+    "g_reviews": 141,
+    "g_address": "日本、〒874-0021 大分県別府市亀川４８４−３",
+    "lat": 33.3230026,
+    "lng": 131.4910198
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "ワインちゃん 瓦・町・路・地",
+    "name_en": "Wine Chan Kawara Machi Roji",
+    "area": "大阪府 堺筋本町駅",
+    "url": "https://tabelog.com/osaka/A2701/A270106/27015175/",
+    "rating": 3.55,
+    "review_count_tabelog": 372,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger steak, French, Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 14:00 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays, public holidays, and dinner times without reservations"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 210,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ20iN6uHmAGARUl7_4KdJVp0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/27015175-5e851b7851abcf2e05f66a149a078b019d9e17117767963b266828691f1540f6.jpg",
+    "place_id": "ChIJ20iN6uHmAGARUl7_4KdJVp0",
+    "g_name": "ワインちゃん 瓦町路地",
+    "g_rating": 4.3,
+    "g_reviews": 210,
+    "g_address": "日本、〒541-0048 大阪府大阪市中央区瓦町３丁目２−３",
+    "lat": 34.6858944,
+    "lng": 135.5026966
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "洋食堂 すずき",
+    "name_en": "Yoshokudo Suzuki",
+    "area": "京都府 二条城前駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260203/26036338/",
+    "rating": 3.78,
+    "review_count_tabelog": 87,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Croquette",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu",
+        "dtl": "18:00 - 22:00 L.O. 21:30",
+        "dtl_text": "18:00 - 22:00 L.O. 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Fri, Sat",
+        "dtl": "17:00 - 22:00 L.O. 21:30",
+        "dtl_text": "17:00 - 22:00 L.O. 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays and Mondays (Please check our official Instagram for any irregular holidays.)"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 60,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJlxZwOG0HAWAR1ojYhBGNFKw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/26036338-de214acad62cdd3bf486b8c1c1894aa48bc92f483d1ccd19cffe00b99f784428.jpg",
+    "place_id": "ChIJlxZwOG0HAWAR1ojYhBGNFKw",
+    "g_name": "洋食堂すずき",
+    "g_rating": 4.2,
+    "g_reviews": 60,
+    "g_address": "日本、〒604-8311 京都府京都市中京区俵屋町２０７",
+    "lat": 35.01101209999999,
+    "lng": 135.7502488
+  },
+  {
+    "category_jp": "洋食",
+    "category_en": "Western Food",
+    "region": "WEST",
+    "name": "欧風料理 もん",
+    "name_en": "European Ryori Mon",
+    "area": "兵庫県 神戸三宮（阪急）駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280101/28000531/",
+    "rating": 3.71,
+    "review_count_tabelog": 1503,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), European, Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 21:00",
+        "dtl_text": "11:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 1068,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJeaU8XOOOAGARo3a8aX5KwkA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/yoshoku_west/28000531-b7064c35d9d87d0d4ebfdb77890e33e592a3fec5e1c865ebaffa10d1852004cc.jpg",
+    "place_id": "ChIJeaU8XOOOAGARo3a8aX5KwkA",
+    "g_name": "欧風料理 もん",
+    "g_rating": 4.3,
+    "g_reviews": 1068,
+    "g_address": "日本、〒650-0012 兵庫県神戸市中央区北長狭通２丁目１２−１２",
+    "lat": 34.6927442,
+    "lng": 135.1913016
+  }
+]

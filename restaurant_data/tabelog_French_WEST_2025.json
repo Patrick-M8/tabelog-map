@@ -1,0 +1,4427 @@
+[
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "レストラン 高津",
+    "name_en": "restaurant takatsu",
+    "area": "山口県 下関市",
+    "url": "https://tabelog.com/yamaguchi/A3502/A350201/35010129/",
+    "rating": 4.11,
+    "review_count_tabelog": 88,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Weekdays": {},
+        "Saturday & Sunday": {}
+      },
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 79,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJV12NWLy9QzUR3ckglpfy-6M",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/35010129-3d3ca12a77764f44841a6c4b78cc73cc6327c8874971797888ae65ceced4f2a4.jpg",
+    "place_id": "ChIJV12NWLy9QzUR3ckglpfy-6M",
+    "g_name": "レストラン高津（restaurant takatsu）",
+    "g_rating": 4.2,
+    "g_reviews": 79,
+    "g_address": "日本、〒750-0014 山口県下関市岬之町１３−７ 蜂谷ビル 蜂屋ビル1F",
+    "lat": 33.9516092,
+    "lng": 130.9351233
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "レストラン ヴァリエ",
+    "name_en": "VARIER",
+    "area": "大阪府 渡辺橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270102/27001184/",
+    "rating": 3.71,
+    "review_count_tabelog": 520,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "French, Yoshoku (Japanese style western cuisine), Bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (twice a month)"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 304,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGWmIa_HmAGARuzaeTSd9eAs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/27001184-6fa883bf3c8df9a3b91bbe456cebd16931bbcc7ebd5aa415ce200773e001ac38.jpg",
+    "place_id": "ChIJGWmIa_HmAGARuzaeTSd9eAs",
+    "g_name": "レストランヴァリエ",
+    "g_rating": 4.5,
+    "g_reviews": 304,
+    "g_address": "日本、〒530-0005 大阪府大阪市北区中之島３丁目３−２３ 中之島ダイビル 2F",
+    "lat": 34.6931156,
+    "lng": 135.4935985
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "restaurant mamagoto",
+    "name_en": "restaurant mamagoto",
+    "area": "福岡県 貝塚駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400201/40046501/",
+    "rating": 3.86,
+    "review_count_tabelog": 140,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "French, Creative, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:00 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (we will be closed during the year-end and New Year holidays)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 95,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJk5ebEUuOQTURd6dYjNzk5YU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/40046501-40c59855a00d82432192c406fc97ae23c8a047876d614a0e4502c12330697f1b.jpg",
+    "place_id": "ChIJk5ebEUuOQTURd6dYjNzk5YU",
+    "g_name": "restaurant mamagoto",
+    "g_rating": 4.3,
+    "g_reviews": 95,
+    "g_address": "日本、〒812-0061 福岡県福岡市東区筥松３丁目１２−２０",
+    "lat": 33.626308,
+    "lng": 130.4293542
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "中土",
+    "name_en": "NAKADO",
+    "area": "広島県 胡町駅",
+    "url": "https://tabelog.com/hiroshima/A3401/A340108/34026765/",
+    "rating": 4.18,
+    "review_count_tabelog": 164,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:30 L.O. 12:30 18:00 - 22:30 L.O. 19:30",
+        "dtl_text": "18:00 - 22:30 L.O. 19:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 68,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3Q_cbCajWjURWMrEMqbPwD8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/34026765-043f0b8a03a636a3a152229ba389807b5ddb37090afcd71ffe6830307ddf9871.jpg",
+    "place_id": "ChIJ3Q_cbCajWjURWMrEMqbPwD8",
+    "g_name": "NAKADO",
+    "g_rating": 4.6,
+    "g_reviews": 68,
+    "g_address": "日本、〒730-0033 広島県広島市中区堀川町４−１８",
+    "lat": 34.3927026,
+    "lng": 132.4635671
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "弘屋",
+    "name_en": "Koya",
+    "area": "大阪府 大江橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27010835/",
+    "rating": 3.83,
+    "review_count_tabelog": 136,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "French, Creative, Wine bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.6,
+    "google_reviews": 63,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJOdjCBO_mAGARMVAMlUoArk8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/27010835-deb574320384ab13a7537bf322354353900468183dc5cac1cb6623affca3b69a.jpg",
+    "place_id": "ChIJOdjCBO_mAGARMVAMlUoArk8",
+    "g_name": "大江橋駅",
+    "g_rating": 3.6,
+    "g_reviews": 63,
+    "g_address": "日本、〒530-0005 大阪府大阪市北区中之島２丁目１",
+    "lat": 34.6942716,
+    "lng": 135.4997399
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "オーベルジュあかだま",
+    "name_en": "Auberge Akadama",
+    "area": "長崎県 西海市",
+    "url": "https://tabelog.com/nagasaki/A4201/A420102/42000543/",
+    "rating": 3.73,
+    "review_count_tabelog": 46,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "French, Auberge",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 15:00 L.O. 12:30 18:00 - 21:00 L.O. 18:30",
+        "dtl_text": "18:00 - 21:00 L.O. 18:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.7,
+    "google_reviews": 78,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2fxpoJnHajURcJJFj-FJm3g",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/42000543-42612e55480245be95469ce1040a92425bd058ef6d9d86d6054b69e2c2377edc.jpg",
+    "place_id": "ChIJ2fxpoJnHajURcJJFj-FJm3g",
+    "g_name": "オーベルジュ あかだま",
+    "g_rating": 4.7,
+    "g_reviews": 78,
+    "g_address": "日本、〒857-2427 長崎県西海市大島町１３８３−４",
+    "lat": 33.0348607,
+    "lng": 129.6345605
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "okas",
+    "name_en": "okas",
+    "area": "鹿児島県 熊毛郡屋久島町",
+    "url": "https://tabelog.com/kagoshima/A4605/A460501/46006467/",
+    "rating": 3.84,
+    "review_count_tabelog": 65,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "French, Hotel",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.7,
+    "google_reviews": 10,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJlSo93nnfPDURW65K92QhKcw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/46006467-e6fcf3cadd5525c8b680804a5ffef070c840d67367f05d367bd48c8cb42380d4.jpg",
+    "place_id": "ChIJlSo93nnfPDURW65K92QhKcw",
+    "g_name": "ちいさな森の工房Uruka",
+    "g_rating": 4.7,
+    "g_reviews": 10,
+    "g_address": "日本、〒891-4311 鹿児島県熊毛郡屋久島町安房２４０５−２５５",
+    "lat": 30.30879509999999,
+    "lng": 130.6397887
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "ラ メゾン ドゥ グラシアニ 神戸北野",
+    "name_en": "La Maison de Graciani Kobe Kitano",
+    "area": "兵庫県 三宮（神戸市営）駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280101/28005651/",
+    "rating": 3.7,
+    "review_count_tabelog": 259,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 15:00 17:30 - 22:00",
+        "dtl_text": "17:30 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "■Business hours for December and January"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 262,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJF_3CEuCOAGARuoWHyJyrku4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/28005651-9110562109c222ac14e1e01ac8afc0c7fdc5a1cce1e81cd38462a01cec1ec317.jpg",
+    "place_id": "ChIJF_3CEuCOAGARuoWHyJyrku4",
+    "g_name": "ラ メゾン ドゥ グラシアニ神戸北野",
+    "g_rating": 4.6,
+    "g_reviews": 262,
+    "g_address": "日本、〒650-0002 兵庫県神戸市中央区北野町４丁目８−１ グラシアニ邸",
+    "lat": 34.6985234,
+    "lng": 135.1881359
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "レストランひらまつ 博多",
+    "name_en": "Restaurant Hiramatsu Hakata",
+    "area": "福岡県 中洲川端駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400102/40000006/",
+    "rating": 3.74,
+    "review_count_tabelog": 279,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "French, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 13:30 17:30 - 20:30",
+        "dtl_text": "17:30 - 20:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 263,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8wPpVeuRQTURebq-3Jj1P6E",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/40000006-8d6be873e4363957ca7eef7b2fa51943d3a828acd9103efc128ed3e8d3aa5ab5.jpg",
+    "place_id": "ChIJ8wPpVeuRQTURebq-3Jj1P6E",
+    "g_name": "レストランひらまつ 博多",
+    "g_rating": 4.4,
+    "g_reviews": 263,
+    "g_address": "日本、〒812-0027 福岡県福岡市博多区下川端町３−１ 博多リバレイン 2F",
+    "lat": 33.5952664,
+    "lng": 130.4060215
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "タワラ",
+    "name_en": "tawara",
+    "area": "石川県 金沢市",
+    "url": "https://tabelog.com/ishikawa/A1701/A170101/17008112/",
+    "rating": 3.71,
+    "review_count_tabelog": 116,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "French, Wine bar, Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Sat",
+        "dtl": "12:00 - 15:00 18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 136,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJfQyRJoA0-F8ReiG_tVXCwN0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/17008112-9a4b77c7e6f3d461396c78e2c3e21752a47e39d27f4dc508cffa1da0d5ca09ab.jpg",
+    "place_id": "ChIJfQyRJoA0-F8ReiG_tVXCwN0",
+    "g_name": "TAWARA",
+    "g_rating": 4.4,
+    "g_reviews": 136,
+    "g_address": "日本、〒920-0981 石川県金沢市片町２丁目１０−１９ ロイヤルプラザ片町",
+    "lat": 36.562754,
+    "lng": 136.6507801
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "レザン ドール",
+    "name_en": "Raisin d'Or",
+    "area": "福岡県 天神南駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400103/40004819/",
+    "rating": 3.77,
+    "review_count_tabelog": 131,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "French, Wine bar, Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:30 - 01:00 L.O. 00:00",
+        "dtl_text": "17:30 - 01:00 L.O. 00:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Restaurant": {},
+        "Wine Bar": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": 4.7,
+    "google_reviews": 95,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJewlg_ZORQTURBXySrgWAx6I",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/40004819-75a90670e1cf348a5941737ef63efc5864e7fec60d6c044c957faaa3621661ba.jpg",
+    "place_id": "ChIJewlg_ZORQTURBXySrgWAx6I",
+    "g_name": "レザンドール",
+    "g_rating": 4.7,
+    "g_reviews": 95,
+    "g_address": "日本、〒810-0002 福岡県福岡市中央区西中洲２−２５ ＳＴＡＧＥ１西中洲 1階",
+    "lat": 33.5904967,
+    "lng": 130.4052029
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "オノウエ",
+    "name_en": "Onoue",
+    "area": "大阪府 谷町四丁目駅",
+    "url": "https://tabelog.com/osaka/A2701/A270104/27095611/",
+    "rating": 3.7,
+    "review_count_tabelog": 99,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 15:00 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 62,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJP--XXS_nAGARcA64gMUfTpI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/27095611-4ec57be8e55bb87ad78b67de2e72277a5011f3da6bc3c40fec704798dd6fa95e.jpg",
+    "place_id": "ChIJP--XXS_nAGARcA64gMUfTpI",
+    "g_name": "オノウエ",
+    "g_rating": 4.3,
+    "g_reviews": 62,
+    "g_address": "日本、〒540-0022 大阪府大阪市中央区糸屋町１丁目１−６ B1",
+    "lat": 34.6855352,
+    "lng": 135.5164616
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "saint M",
+    "name_en": "saint M",
+    "area": "宮崎県 宮崎市",
+    "url": "https://tabelog.com/miyazaki/A4501/A450101/45011961/",
+    "rating": 3.67,
+    "review_count_tabelog": 47,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Bistro, French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed",
+        "dtl": "18:00 - 22:00 L.O. 21:00",
+        "dtl_text": "18:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:30 18:00 - 22:00 L.O. 21:00",
+        "dtl_text": "18:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 31,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJNW_oCWi3ODUR-rXgV6lNmmQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/45011961-6b771c1c98b8ec3a6e9ca128477b33bdf2b35dab975ebdb7baf226756c24ff97.jpg",
+    "place_id": "ChIJNW_oCWi3ODUR-rXgV6lNmmQ",
+    "g_name": "saint M（サンテム）",
+    "g_rating": 4.6,
+    "g_reviews": 31,
+    "g_address": "日本、〒880-0805 宮崎県宮崎市橘通東３丁目７−６ 中馬ビル 2F",
+    "lat": 31.9147985,
+    "lng": 131.4246211
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "Point",
+    "name_en": "Point",
+    "area": "大阪府 豊中市",
+    "url": "https://tabelog.com/osaka/A2706/A270601/27115254/",
+    "rating": 4.16,
+    "review_count_tabelog": 79,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Sat, Sun",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu, Fri",
+        "dtl": "12:00 - 23:00",
+        "dtl_text": "12:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Business in Toyonaka will continue until November 9, 2025, after which we will relocate to Shin-Fukushima."
+    },
+    "google_rating": 4.7,
+    "google_reviews": 30,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJEQrCdCj7AGARJSWpfn6bxfk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/27115254-01ed96af2960a01fcc618d1862b66a39aaebbc161b80e9d9154ed042cccad820.jpg",
+    "place_id": "ChIJEQrCdCj7AGARJSWpfn6bxfk",
+    "g_name": "ポワン",
+    "g_rating": 4.7,
+    "g_reviews": 30,
+    "g_address": "日本、〒560-0013 大阪府豊中市上野東２丁目１７−４７",
+    "lat": 34.7929923,
+    "lng": 135.476372
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "コンヴィヴィアリテ",
+    "name_en": "Convivialite",
+    "area": "大阪府 西大橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270201/27004550/",
+    "rating": 3.67,
+    "review_count_tabelog": 342,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 109,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ66naoQPnAGARNoLmVIKi9qk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/27004550-d673b9b35beb6541a5936e4a095023eb2ae7d0c3c619eb7176a5d16f23ffc0d6.jpg",
+    "place_id": "ChIJ66naoQPnAGARNoLmVIKi9qk",
+    "g_name": "コンヴィヴィアリテ",
+    "g_rating": 4.5,
+    "g_reviews": 109,
+    "g_address": "日本、〒550-0013 大阪府大阪市西区新町１丁目１７−１７",
+    "lat": 34.6777216,
+    "lng": 135.4942828
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "いとう",
+    "name_en": "Ito",
+    "area": "京都府 東山駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260301/26005856/",
+    "rating": 3.65,
+    "review_count_tabelog": 94,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "12:00 - 13:30 17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "11:30 - 13:00 17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 23,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQe6vFRAPAWAR85Kv4mPsguo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/26005856-5f799481ee40eedcd8e4825836234d7c752202c5bcc4b8a088a9f51a583c6904.jpg",
+    "place_id": "ChIJQe6vFRAPAWAR85Kv4mPsguo",
+    "g_name": "いとう内科クリニック",
+    "g_rating": 4.2,
+    "g_reviews": 23,
+    "g_address": "日本、〒605-0975 京都府京都市東山区泉涌寺雀ケ森町５−５",
+    "lat": 34.9819763,
+    "lng": 135.7729262
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "ラ・メール",
+    "name_en": "La Mer",
+    "area": "三重県 志摩市",
+    "url": "https://tabelog.com/mie/A2403/A240303/24005111/",
+    "rating": 4.06,
+    "review_count_tabelog": 227,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:30 - 21:00 L.O. 19:30",
+        "dtl_text": "17:30 - 21:00 L.O. 19:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.8,
+    "google_reviews": 86,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJcSzlqQSqBWARGWggPBLql2k",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/24005111-f8bcc1296643c1dcb6a177df938dfd82e66e3a63bb606fc4cf4d778ce956721f.jpg",
+    "place_id": "ChIJcSzlqQSqBWARGWggPBLql2k",
+    "g_name": "フレンチレストラン「ラ・メール」",
+    "g_rating": 4.8,
+    "g_reviews": 86,
+    "g_address": "日本、〒517-0502 三重県志摩市阿児町神明７３１",
+    "lat": 34.3078006,
+    "lng": 136.8153101
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "SETTAN",
+    "name_en": "SETTAN",
+    "area": "兵庫県 神戸市北区",
+    "url": "https://tabelog.com/hyogo/A2801/A280112/28061147/",
+    "rating": 3.87,
+    "review_count_tabelog": 100,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 12:30 16:00 - 20:00 L.O. 19:30",
+        "dtl_text": "16:00 - 20:00 L.O. 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.7,
+    "google_reviews": 89,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAU8WBG1jAGARgAOjT-vRiCc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/28061147-c29c892f2a0780fe4bb62c0608da1d53aef0eb34a971eab3a16581d48e6f9f74.jpg",
+    "place_id": "ChIJAU8WBG1jAGARgAOjT-vRiCc",
+    "g_name": "SETTAN",
+    "g_rating": 4.7,
+    "g_reviews": 89,
+    "g_address": "日本、〒651-1344 兵庫県神戸市北区八多町屏風９６５",
+    "lat": 34.8140281,
+    "lng": 135.175064
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "entre nous",
+    "name_en": "entre nous",
+    "area": "兵庫県 三宮（神戸市営）駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280101/28065011/",
+    "rating": 4.15,
+    "review_count_tabelog": 90,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "12:00 - 15:30 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.7,
+    "google_reviews": 32,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKQxFMDGPAGAR-Z1XLT8M9Wk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/28065011-dee670c7ceec3b0638e711671d14a8c21b6f4b098a0e52de2f3c03f40495e620.jpg",
+    "place_id": "ChIJKQxFMDGPAGAR-Z1XLT8M9Wk",
+    "g_name": "アントル ヌー",
+    "g_rating": 4.7,
+    "g_reviews": 32,
+    "g_address": "日本、〒650-0004 兵庫県神戸市中央区中山手通１丁目２５−６ ラ・ドルレイ神戸三宮ビル２F",
+    "lat": 34.6966512,
+    "lng": 135.1911682
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "Grand rocher",
+    "name_en": "Grand rocher",
+    "area": "大阪府 肥後橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270102/27097439/",
+    "rating": 3.79,
+    "review_count_tabelog": 674,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "French, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays (Thursday if a public holiday falls on Wednesday)"
+    },
+    "google_rating": 3.8,
+    "google_reviews": 79,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJo7JiIKLnAGARozBilPcSKuE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/27097439-d6b44735bd7d6f5806ff6289d6661455fb43e3bcb3cba3df3c51b3d1d0662cec.jpg",
+    "place_id": "ChIJo7JiIKLnAGARozBilPcSKuE",
+    "g_name": "Grand rocher",
+    "g_rating": 3.8,
+    "g_reviews": 79,
+    "g_address": "日本、〒541-0044 大阪府大阪市中央区伏見町４丁目３−９ 1F",
+    "lat": 34.6890741,
+    "lng": 135.4994072
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "maison owl",
+    "name_en": "maison owl",
+    "area": "山口県 宇部市",
+    "url": "https://tabelog.com/yamaguchi/A3504/A350401/35012723/",
+    "rating": 3.86,
+    "review_count_tabelog": 70,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "-",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:30 - 21:30",
+        "dtl_text": "17:30 - 21:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "*Please note that hours may vary depending on circumstances."
+    },
+    "google_rating": 3.6,
+    "google_reviews": 46,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ67FJid6BQzURTRJerHUEEqE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/35012723-3a80ddcc7ae1e353a4e7b3b3b838cd6867de95f857369b9fc1f1fd9e9364302c.jpg",
+    "place_id": "ChIJ67FJid6BQzURTRJerHUEEqE",
+    "g_name": "maison owl",
+    "g_rating": 3.6,
+    "g_reviews": 46,
+    "g_address": "日本、〒755-0086 山口県宇部市中宇部 字西山1677-1",
+    "lat": 33.9699799,
+    "lng": 131.2536678
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "ラトリエ あべ",
+    "name_en": "L'Atelier Abe",
+    "area": "徳島県 海部郡美波町",
+    "url": "https://tabelog.com/tokushima/A3602/A360203/36005067/",
+    "rating": 3.82,
+    "review_count_tabelog": 37,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 20:00",
+        "dtl_text": "11:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.7,
+    "google_reviews": 55,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJx6bZ5u_7UjUReKR3tD2GRxU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/36005067-ed583e15272322e5f38f34ac382e4bba7a3be97783276b7266c23e55d4ab57fb.jpg",
+    "place_id": "ChIJx6bZ5u_7UjUReKR3tD2GRxU",
+    "g_name": "ラトリエ・あべ",
+    "g_rating": 4.7,
+    "g_reviews": 55,
+    "g_address": "日本、〒779-2307 徳島県海部郡美波町山河内なか２６",
+    "lat": 33.7156964,
+    "lng": 134.4851001
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "レストランぶどうの森 レ・トネル",
+    "name_en": "Budoonomori Les Tonnelles",
+    "area": "石川県 金沢市",
+    "url": "https://tabelog.com/ishikawa/A1701/A170101/17012469/",
+    "rating": 4.02,
+    "review_count_tabelog": 74,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed",
+        "dtl": "11:30 - 16:00 L.O. Food 13:00 18:00 - 22:00 L.O. Food 19:00",
+        "dtl_text": "18:00 - 22:00 L.O. Food 19:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Fri, Sat, Sun, Public Holiday",
+        "dtl": "12:00 - 16:00 L.O. Food 13:00 18:00 - 22:00 L.O. Food 19:00",
+        "dtl_text": "18:00 - 22:00 L.O. Food 19:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 109,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-fsp46ky-F8RmyO16RKJ37Q",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/17012469-8f553330bec3f8eb7e7b08fcfdede78b93963647a51f4263108823867a939ec5.jpg",
+    "place_id": "ChIJ-fsp46ky-F8RmyO16RKJ37Q",
+    "g_name": "レストランぶどうの森 レ・トネル",
+    "g_rating": 4.5,
+    "g_reviews": 109,
+    "g_address": "日本、〒920-0171 石川県金沢市岩出町ハ５０−１",
+    "lat": 36.6142556,
+    "lng": 136.6986207
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "日和庵",
+    "name_en": "Hiyorian",
+    "area": "山口県 下関市",
+    "url": "https://tabelog.com/yamaguchi/A3502/A350201/35000251/",
+    "rating": 3.71,
+    "review_count_tabelog": 123,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "French, Restaurants",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sun",
+        "dtl": "11:30 - 15:00 L.O. 14:00 17:30 - 22:00 L.O. 21:00",
+        "dtl_text": "17:30 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:30 - 15:00 L.O. 14:00 18:00 - 22:00 L.O. 21:00",
+        "dtl_text": "18:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Closed every Wednesday, but open on public holidays (substitute holidays may apply)."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 190,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6XvjQLu9QzURBRBraHjXo_s",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/35000251-81985425bf7e7d65bd2a102ccbc1342e763fd0856a6eac51abeed980ce79f7b5.jpg",
+    "place_id": "ChIJ6XvjQLu9QzURBRBraHjXo_s",
+    "g_name": "和欧風創作料理 日和庵（ひよりあん）",
+    "g_rating": 4.4,
+    "g_reviews": 190,
+    "g_address": "日本、〒750-0019 山口県下関市丸山町５丁目３−１９",
+    "lat": 33.95412,
+    "lng": 130.932318
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "ベル･エポック",
+    "name_en": "Belle Epoque",
+    "area": "宮崎県 宮崎市",
+    "url": "https://tabelog.com/miyazaki/A4501/A450101/45000051/",
+    "rating": 3.69,
+    "review_count_tabelog": 56,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "French, Yoshoku (Japanese style western cuisine), Restaurants",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00 L.O. 13:00 18:00 - 22:00 L.O. 21:00",
+        "dtl_text": "18:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 116,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJy8maMzG3ODURedvcDUzDThE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/45000051-bd4cfd865f3ac1a6bbb484ee347163c61a762a6ce8e1cc7122d951473d711ca4.jpg",
+    "place_id": "ChIJy8maMzG3ODURedvcDUzDThE",
+    "g_name": "ベル・エポック",
+    "g_rating": 4.5,
+    "g_reviews": 116,
+    "g_address": "日本、〒880-0032 宮崎県宮崎市霧島３丁目６",
+    "lat": 31.9316075,
+    "lng": 131.4160399
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "Syn",
+    "name_en": "Syn",
+    "area": "福岡県 六本松駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400105/40064406/",
+    "rating": 3.93,
+    "review_count_tabelog": 42,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJNfZWPQKTQTUR6F4F8_gHs7E",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/40064406-0faf82835b1b05b7f444d2d51f8f3a7e1b0081de95c15754f278c256f53738f8.jpg",
+    "place_id": "ChIJNfZWPQKTQTUR6F4F8_gHs7E",
+    "g_name": "新教育Vスタ 六本松教室",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "日本、〒810-0044 福岡県福岡市中央区六本松４丁目９−１５ 2F",
+    "lat": 33.5760556,
+    "lng": 130.3767507
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "エヴォリュエ",
+    "name_en": "Evoluer",
+    "area": "大阪府 新福島駅",
+    "url": "https://tabelog.com/osaka/A2701/A270108/27089343/",
+    "rating": 3.69,
+    "review_count_tabelog": 244,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "French, Bistro",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Fri, Sat, Sun",
+        "dtl": "12:00 - 15:00 L.O. 14:00 18:00 - 22:00 L.O. 20:00",
+        "dtl_text": "18:00 - 22:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.6,
+    "google_reviews": 138,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJc1gJLV7mAGARnrOTHHcwxu8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/27089343-34b0cb59fe6f80be8a98b89f45c8be261e7570aea25448cb8301898ebb1c8f52.jpg",
+    "place_id": "ChIJc1gJLV7mAGARnrOTHHcwxu8",
+    "g_name": "エヴォリュエ",
+    "g_rating": 4.6,
+    "g_reviews": 138,
+    "g_address": "日本、〒553-0003 大阪府大阪市福島区福島３丁目１１−１０",
+    "lat": 34.6940352,
+    "lng": 135.485019
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "アニエルドール",
+    "name_en": "agnel d'or",
+    "area": "大阪府 阿波座駅",
+    "url": "https://tabelog.com/osaka/A2701/A270105/27074473/",
+    "rating": 4.06,
+    "review_count_tabelog": 572,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "18:00 - 19:30",
+        "dtl_text": "18:00 - 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 13:00 18:00 - 19:30",
+        "dtl_text": "18:00 - 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 233,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJRd3a7P7mAGAR1cOIhn6oQWM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/27074473-9dc415de49d74e1311b00cc6e6df24c95a638d99fcb99187863685ad49089439.jpg",
+    "place_id": "ChIJRd3a7P7mAGAR1cOIhn6oQWM",
+    "g_name": "アニエルドール",
+    "g_rating": 4.5,
+    "g_reviews": 233,
+    "g_address": "日本、〒550-0005 大阪府大阪市西区西本町２丁目４−４",
+    "lat": 34.6824377,
+    "lng": 135.4910289
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "middle",
+    "name_en": "middle",
+    "area": "京都府 北大路駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260503/26037720/",
+    "rating": 3.94,
+    "review_count_tabelog": 41,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.7,
+    "google_reviews": 36,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJBXKmrFsJAWAROKB_TpdAvnA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/26037720-ad6a816852c788bbb3b8810fb5c107995719a9af70782932365a346f13c0c3c7.jpg",
+    "place_id": "ChIJBXKmrFsJAWAROKB_TpdAvnA",
+    "g_name": "middle",
+    "g_rating": 4.7,
+    "g_reviews": 36,
+    "g_address": "日本、〒606-0812 京都府京都市左京区下鴨上川原町５−３",
+    "lat": 35.044075,
+    "lng": 135.7634546
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "ラ・テラス",
+    "name_en": "La Terrasse",
+    "area": "奈良県 奈良市",
+    "url": "https://tabelog.com/nara/A2901/A290101/29000034/",
+    "rating": 3.69,
+    "review_count_tabelog": 223,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "French, Wine bar, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 13:00 14:30 - 16:00 18:00 - 19:00",
+        "dtl_text": "18:00 - 19:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Café seating available only on the terrace": {}
+      },
+      "closed_on": "◆ On December 31 (Tuesday), we will only provide pre-ordered \"osechi\" (traditional New Year dishes)."
+    },
+    "google_rating": 3.9,
+    "google_reviews": 275,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJwWhwISg6AWAR810Rn1GBuow",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/29000034-1b1059ac1319c1929563e0d8086be27674d007ba0b813ffbf97f5618b34278da.jpg",
+    "place_id": "ChIJwWhwISg6AWAR810Rn1GBuow",
+    "g_name": "LA TERRASSE ALL DAY DINING（ラ・テラス オールデイダイニング）",
+    "g_rating": 3.9,
+    "g_reviews": 275,
+    "g_address": "日本、〒630-8226 奈良県奈良市小西町１３ 1F",
+    "lat": 34.6832709,
+    "lng": 135.8277099
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "Restaurant Sola",
+    "name_en": "Restaurant Sola",
+    "area": "福岡県 福岡市博多区",
+    "url": "https://tabelog.com/fukuoka/A4001/A400102/40050652/",
+    "rating": 4.13,
+    "review_count_tabelog": 311,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French, Restaurants",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "18:00 - 22:00 L.O. Food 19:00 Drinks 21:30",
+        "dtl_text": "18:00 - 22:00 L.O. Food 19:00 Drinks 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "12:00 - 15:00 L.O. Food 12:30 Drinks 14:00 18:00 - 22:00 L.O. Food 19:00 Drinks 21:30",
+        "dtl_text": "18:00 - 22:00 L.O. Food 19:00 Drinks 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays and other irregular days"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 265,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJhw9US_CRQTUR5W6nnD6QuVo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/40050652-a360ab425ffe7d32a7b4cead2a627b82f99a54fe8b461dc4fdec2bbcbcee2b16.jpg",
+    "place_id": "ChIJhw9US_CRQTUR5W6nnD6QuVo",
+    "g_name": "Restaurant Sola",
+    "g_rating": 4.6,
+    "g_reviews": 265,
+    "g_address": "日本、〒812-0021 福岡県福岡市博多区築港本町１３−６ ベイサイドプレイス博多 C館2F",
+    "lat": 33.6043538,
+    "lng": 130.3988514
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "ラ・ベカス",
+    "name_en": "La Becasse",
+    "area": "大阪府 淀屋橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270106/27001358/",
+    "rating": 3.7,
+    "review_count_tabelog": 243,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat",
+        "dtl": "12:00 - 15:00 L.O. 13:00 18:00 - 22:00 L.O. 20:00",
+        "dtl_text": "18:00 - 22:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 91,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJu3ny4uTmAGARYsFXPVvJuxk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/27001358-cf18385c5e5556bab59aa22892bc157db3d05788d43e80bb455313d1a741b45a.jpg",
+    "place_id": "ChIJu3ny4uTmAGARYsFXPVvJuxk",
+    "g_name": "ラ・ベカス",
+    "g_rating": 4.6,
+    "g_reviews": 91,
+    "g_address": "日本、〒541-0046 大阪府大阪市中央区平野町３丁目３−９",
+    "lat": 34.6875051,
+    "lng": 135.5022597
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "ラ・メール ザ クラシック",
+    "name_en": "La Mer The Classic",
+    "area": "三重県 志摩市",
+    "url": "https://tabelog.com/mie/A2403/A240303/24000053/",
+    "rating": 4.06,
+    "review_count_tabelog": 470,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00 L.O. 13:30 17:30 - 21:00 L.O. 19:30",
+        "dtl_text": "17:30 - 21:00 L.O. 19:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.8,
+    "google_reviews": 86,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJcSzlqQSqBWARGWggPBLql2k",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/24000053-184d80b7e32e566c1f168404d09e4d206590fe9ed2bc6110495d1afb9bdf0183.jpg",
+    "place_id": "ChIJcSzlqQSqBWARGWggPBLql2k",
+    "g_name": "フレンチレストラン「ラ・メール」",
+    "g_rating": 4.8,
+    "g_reviews": 86,
+    "g_address": "日本、〒517-0502 三重県志摩市阿児町神明７３１",
+    "lat": 34.3078006,
+    "lng": 136.8153101
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "カランドリエ",
+    "name_en": "CALENDRIER",
+    "area": "大阪府 堺筋本町駅",
+    "url": "https://tabelog.com/osaka/A2701/A270106/27000095/",
+    "rating": 3.82,
+    "review_count_tabelog": 692,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 L.O. 13:00 18:00 - 22:30 L.O. 20:00",
+        "dtl_text": "18:00 - 22:30 L.O. 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The second and fourth Tuesdays of each month."
+    },
+    "google_rating": 4.6,
+    "google_reviews": 313,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJXTcC9OLmAGARmUdp-R4TaFw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/27000095-a373838ec7ff8b01f8c94ba15c5fb88ac7bf8ed8c7ffeede72ff0a4015cd9eef.jpg",
+    "place_id": "ChIJXTcC9OLmAGARmUdp-R4TaFw",
+    "g_name": "CALENDRIER(カランドリエ)",
+    "g_rating": 4.6,
+    "g_reviews": 313,
+    "g_address": "日本、〒541-0053 大阪府大阪市中央区本町３丁目２−１５",
+    "lat": 34.6832386,
+    "lng": 135.5034982
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "Installation Table ENSO L'asymetrie du calme",
+    "name_en": "Installation Table ENSO L'asymetrie du calme",
+    "area": "石川県 金沢市",
+    "url": "https://tabelog.com/ishikawa/A1701/A170101/17009914/",
+    "rating": 4.14,
+    "review_count_tabelog": 282,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "French, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "11:30 - 12:00 18:00 - 19:00",
+        "dtl_text": "18:00 - 19:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 12:30 18:00 - 19:30",
+        "dtl_text": "18:00 - 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 132,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJB9jzrX40-F8RMSy5WY9gQvg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/17009914-d1e709ade6cad42613875f7f11fc148dbe2d141b432e0975868e572bb8f851e2.jpg",
+    "place_id": "ChIJB9jzrX40-F8RMSy5WY9gQvg",
+    "g_name": "Installation Table ENSO L'asymetrie du calme",
+    "g_rating": 4.5,
+    "g_reviews": 132,
+    "g_address": "日本、〒920-0986 石川県金沢市池田町４番丁３３",
+    "lat": 36.5577454,
+    "lng": 136.6526584
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "SINAE",
+    "name_en": "SINAE",
+    "area": "大阪府 北浜駅",
+    "url": "https://tabelog.com/osaka/A2701/A270102/27132172/",
+    "rating": 3.92,
+    "review_count_tabelog": 72,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 24,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJjzzNY2TnAGARUgkc6rfI2f8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/27132172-9bfd142764c6a76c3b6b394f25c97d263a558c9787e63190d98b3c8fcaa7759a.jpg",
+    "place_id": "ChIJjzzNY2TnAGARUgkc6rfI2f8",
+    "g_name": "SINAE シナエ",
+    "g_rating": 4.4,
+    "g_reviews": 24,
+    "g_address": "日本、〒541-0044 大阪府大阪市中央区伏見町２丁目４−１２ クスノキビル 2.3階",
+    "lat": 34.6892907,
+    "lng": 135.5047055
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "LIAISON",
+    "name_en": "Cuisine Française Liaison",
+    "area": "大阪府 新福島駅",
+    "url": "https://tabelog.com/osaka/A2701/A270108/27101441/",
+    "rating": 3.74,
+    "review_count_tabelog": 276,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 15:00 L.O. 12:30 18:00 - 22:30 L.O. 19:00",
+        "dtl_text": "18:00 - 22:30 L.O. 19:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (approximately 6 times a month, mainly on Mondays)"
+    },
+    "google_rating": 4.7,
+    "google_reviews": 177,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVXFz1_mAGARF4bbe8satuY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/27101441-458843f87c25ce90c910d36e23aee43857d2bc40712c0b673c7ed8a1ed9f3947.jpg",
+    "place_id": "ChIJVVXFz1_mAGARF4bbe8satuY",
+    "g_name": "LIAISON 福島",
+    "g_rating": 4.7,
+    "g_reviews": 177,
+    "g_address": "日本、〒553-0003 大阪府大阪市福島区福島３丁目１２−２０ ツインコート 1F",
+    "lat": 34.6941203,
+    "lng": 135.4856257
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "Le Caneton",
+    "name_en": "Le Caneton",
+    "area": "大阪府 谷町六丁目駅",
+    "url": "https://tabelog.com/osaka/A2701/A270204/27013084/",
+    "rating": 3.71,
+    "review_count_tabelog": 352,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 15:00 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (updates available on our website)"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 124,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2erBKkjnAGARXq7sZtdm6IQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/27013084-a11a1f459e8276003f3f98f2201eacd201057e3f67ac8aa543669c374df1e489.jpg",
+    "place_id": "ChIJ2erBKkjnAGARXq7sZtdm6IQ",
+    "g_name": "Le Caneton",
+    "g_rating": 4.5,
+    "g_reviews": 124,
+    "g_address": "日本、〒542-0062 大阪府大阪市中央区上本町西２丁目６−２３",
+    "lat": 34.67404,
+    "lng": 135.518061
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "NH",
+    "name_en": "NH",
+    "area": "大阪府 北新地駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27133396/",
+    "rating": 4.33,
+    "review_count_tabelog": 224,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "French, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "17:00 - 22:30",
+        "dtl_text": "17:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 17:00 - 22:30",
+        "dtl_text": "17:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.7,
+    "google_reviews": 24,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJS56LWxHnAGARg7y8sOft73U",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/27133396-e5cceacacf39d9dea86fe783bd630d872efc5778393b78158f60076cd2a71026.jpg",
+    "place_id": "ChIJS56LWxHnAGARg7y8sOft73U",
+    "g_name": "北新地 NH エナシュ",
+    "g_rating": 4.7,
+    "g_reviews": 24,
+    "g_address": "日本、〒530-0002 大阪府大阪市北区曾根崎新地１丁目５−１１ 新陽3rd",
+    "lat": 34.6978485,
+    "lng": 135.4968366
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "MAISON LAFITE",
+    "name_en": "Maison Lafit",
+    "area": "福岡県 那珂川市",
+    "url": "https://tabelog.com/fukuoka/A4003/A400301/40023784/",
+    "rating": 4.19,
+    "review_count_tabelog": 128,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥30,000～￥39,999",
+    "sub_categories": "French, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 60,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJTQJit3SWQTURlw_zlqll_4o",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/40023784-9759966ccf00c12ea0ba6e510e9965278ed90a3f96c65c5c81a2c5fbb7cb6f40.jpg",
+    "place_id": "ChIJTQJit3SWQTURlw_zlqll_4o",
+    "g_name": "メゾン ラフィット",
+    "g_rating": 4.6,
+    "g_reviews": 60,
+    "g_address": "日本、〒811-1246 福岡県那珂川市西畑９４１",
+    "lat": 33.4874678,
+    "lng": 130.3947689
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "ORIGIN",
+    "name_en": "ORIGIN",
+    "area": "大阪府 天満橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270104/27097883/",
+    "rating": 3.81,
+    "review_count_tabelog": 109,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 15:00 L.O. 12:30 18:00 - 23:00 L.O. 19:30",
+        "dtl_text": "18:00 - 23:00 L.O. 19:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4,
+    "google_reviews": 63,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJPU1nKCbnAGARqT9vn4QskCE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/27097883-fadc2de6062b7ca51ae168c75e78f8c4cd49aeb9fb93f41821019974860abcbb.jpg",
+    "place_id": "ChIJPU1nKCbnAGARqT9vn4QskCE",
+    "g_name": "オリジン",
+    "g_rating": 4,
+    "g_reviews": 63,
+    "g_address": "日本、〒540-0035 大阪府大阪市中央区釣鐘町１丁目４−３",
+    "lat": 34.6880997,
+    "lng": 135.515639
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "Restaurant KAITO",
+    "name_en": "Restaurant KAITO",
+    "area": "三重県 四日市市",
+    "url": "https://tabelog.com/mie/A2402/A240201/24019061/",
+    "rating": 3.86,
+    "review_count_tabelog": 44,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:30 18:00 - 22:30",
+        "dtl_text": "18:00 - 22:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.7,
+    "google_reviews": 11,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJMZybLg-PA2ARtmJyDtMirsk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/24019061-e71d24802bec2e86b6b4203a17dfb73fefbd1a3932b2b803dc1504e46ef37e42.jpg",
+    "place_id": "ChIJMZybLg-PA2ARtmJyDtMirsk",
+    "g_name": "レストラン カイト",
+    "g_rating": 4.7,
+    "g_reviews": 11,
+    "g_address": "日本、〒510-0097 三重県四日市市八幡町４−３",
+    "lat": 34.9705198,
+    "lng": 136.6299257
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "ミチノ・ル・トゥールビヨン",
+    "name_en": "Michino Le Tourbillon",
+    "area": "大阪府 福島（ＪＲ西日本）駅",
+    "url": "https://tabelog.com/osaka/A2701/A270108/27012726/",
+    "rating": 3.65,
+    "review_count_tabelog": 146,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 14:30 L.O. 13:00 17:30 - 22:30 L.O. 20:00",
+        "dtl_text": "17:30 - 22:30 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (the following day if a holiday, and two Tuesdays each month)"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 87,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9dKAAIrmAGARRBRcujoaMu0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/27012726-f6bcca265088ddab95d6c9537812fb66776633a4241414517db2e2f6a6937dd7.jpg",
+    "place_id": "ChIJ9dKAAIrmAGARRBRcujoaMu0",
+    "g_name": "ミチノ・ル・トゥールビヨン",
+    "g_rating": 4.6,
+    "g_reviews": 87,
+    "g_address": "日本、〒553-0003 大阪府大阪市福島区福島６丁目９−１１ 神林堂ビル １階 「焼肉 浦江亭」と「カフェ うえすたん」の間です",
+    "lat": 34.6999434,
+    "lng": 135.487492
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "レストランRyu",
+    "name_en": "Restaurant Ryu",
+    "area": "三重県 多気郡明和町",
+    "url": "https://tabelog.com/mie/A2401/A240103/24002060/",
+    "rating": 3.9,
+    "review_count_tabelog": 221,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 21:30 L.O. Food 18:30 Drinks 21:30",
+        "dtl_text": "12:00 - 21:30 L.O. Food 18:30 Drinks 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays; please check our website for any temporary closures."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 93,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDUySfs5DBGAR_NTdpXYB2DU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/24002060-c0413fb9f13a023c7a6c4f6a5a8626162fa8d0caabc9592372410ed1f27a8bd6.jpg",
+    "place_id": "ChIJDUySfs5DBGAR_NTdpXYB2DU",
+    "g_name": "レストランRyu",
+    "g_rating": 4.5,
+    "g_reviews": 93,
+    "g_address": "日本、〒515-0324 三重県多気郡明和町金剛坂７７６−２１",
+    "lat": 34.5323448,
+    "lng": 136.6052441
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "ポチロン",
+    "name_en": "Pochiron",
+    "area": "宮崎県 宮崎市",
+    "url": "https://tabelog.com/miyazaki/A4501/A450101/45006334/",
+    "rating": 3.72,
+    "review_count_tabelog": 141,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "French, Yoshoku (Japanese style western cuisine), Pasta",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "12:00 - 14:30 L.O. 13:30 18:00 - 22:00 L.O. Food 21:00 Drinks 21:30",
+        "dtl_text": "18:00 - 22:00 L.O. Food 21:00 Drinks 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "18:00 - 22:00 L.O. Food 21:00 Drinks 21:30",
+        "dtl_text": "18:00 - 22:00 L.O. Food 21:00 Drinks 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Fri",
+        "dtl": "18:00 - 22:00 L.O. 21:30",
+        "dtl_text": "18:00 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "12:00 - 14:30 L.O. 13:30 18:00 - 22:00 L.O. 21:30",
+        "dtl_text": "18:00 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 143,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJY8pC70G3ODUREu3Jk5Xd-AU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/45006334-7864e6c7a548a8072413945be25bb8286de27fb845db3a1cd22224184237ce07.jpg",
+    "place_id": "ChIJY8pC70G3ODUREu3Jk5Xd-AU",
+    "g_name": "LE POTIRON",
+    "g_rating": 4.5,
+    "g_reviews": 143,
+    "g_address": "日本、〒880-0806 宮崎県宮崎市広島１丁目４−９",
+    "lat": 31.9159383,
+    "lng": 131.4253843
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "la buche",
+    "name_en": "la buche",
+    "area": "京都府 京都市左京区",
+    "url": "https://tabelog.com/kyoto/A2601/A260504/26037313/",
+    "rating": 3.71,
+    "review_count_tabelog": 37,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu",
+        "dtl": "12:00 - 15:30",
+        "dtl_text": "12:00 - 15:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Fri, Sat, Sun",
+        "dtl": "12:00 - 15:30 18:30 - 22:00",
+        "dtl_text": "18:30 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.8,
+    "google_reviews": 69,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJm2HTBIehAWARvpldzxmhzKk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/26037313-cca70cb0655e29150f40505eb0eccc0ca27c14c09a0de5351f1a5d7b2b0cf659.jpg",
+    "place_id": "ChIJm2HTBIehAWARvpldzxmhzKk",
+    "g_name": "la bûche",
+    "g_rating": 4.8,
+    "g_reviews": 69,
+    "g_address": "日本、〒601-1242 京都府京都市左京区大原来迎院町４００−３",
+    "lat": 35.1200455,
+    "lng": 135.8300306
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "カーヴ ユノキ",
+    "name_en": "Cave Yunoki",
+    "area": "富山県 富山市",
+    "url": "https://tabelog.com/toyama/A1601/A160101/16004341/",
+    "rating": 3.73,
+    "review_count_tabelog": 57,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 15:30 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 55,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJG3T8oOKY918R_alKeWj8mNw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/16004341-4ae4e11fc40cfd07f0582f61ee85ee5183499d24ec1e25fe9904c001ba778f3f.jpg",
+    "place_id": "ChIJG3T8oOKY918R_alKeWj8mNw",
+    "g_name": "Cave Yunoki (カーヴ ユノキ)",
+    "g_rating": 4.5,
+    "g_reviews": 55,
+    "g_address": "日本、〒931-8358 富山県富山市東岩瀬町１０２ 北前船回船問屋森家 土蔵群二番",
+    "lat": 36.7574389,
+    "lng": 137.2283792
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "シェモア",
+    "name_en": "Chez Moi",
+    "area": "京都府 京都市役所前駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260202/26000799/",
+    "rating": 3.74,
+    "review_count_tabelog": 46,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "18:00 - 22:00 L.O. Food 19:30 Drinks 21:00",
+        "dtl_text": "18:00 - 22:00 L.O. Food 19:30 Drinks 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.8,
+    "google_reviews": 98,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJT6oCC44IAWARWwt0L1eR2ug",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/26000799-20b96b74b03aa0e89b2aaf021b5d473c58b776a2664f5eb4edee604ff04f5546.jpg",
+    "place_id": "ChIJT6oCC44IAWARWwt0L1eR2ug",
+    "g_name": "シェモア",
+    "g_rating": 4.8,
+    "g_reviews": 98,
+    "g_address": "日本、〒604-0941 京都府京都市中京区御幸町通御池上る亀屋町３７６",
+    "lat": 35.0112511,
+    "lng": 135.766205
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "リュミエール",
+    "name_en": "lumiere",
+    "area": "大阪府 心斎橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270201/27009418/",
+    "rating": 3.74,
+    "review_count_tabelog": 378,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French, Vegetable dishes, Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 15:00 L.O. 13:00 18:00 - 21:00 L.O. 19:00",
+        "dtl_text": "18:00 - 21:00 L.O. 19:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (the following day if a holiday)"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 146,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJPSIshRbnAGARw22bMdQezIE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/27009418-89d0f84b775dd0eea0ee41e0d149208e774d1f57f7aa31e983f8a818d1d1023a.jpg",
+    "place_id": "ChIJPSIshRbnAGARw22bMdQezIE",
+    "g_name": "リュミエール 本店",
+    "g_rating": 4.5,
+    "g_reviews": 146,
+    "g_address": "日本、〒542-0083 大阪府大阪市中央区東心斎橋１丁目１９−１５ 3F",
+    "lat": 34.6746398,
+    "lng": 135.5024907
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "ギュール ルモンテ",
+    "name_en": "gueule remonte",
+    "area": "兵庫県 旧居留地・大丸前駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280102/28034210/",
+    "rating": 3.68,
+    "review_count_tabelog": 109,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "French, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:30 L.O. 14:00 18:00 - 22:00 L.O. 20:30",
+        "dtl_text": "18:00 - 22:00 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.7,
+    "google_reviews": 71,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVxJyAP2OAGARnKf9RgfruUQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/28034210-469c251202b9bbe04311b41ee6d62191098d8b8e328383cffdacbb10784730ea.jpg",
+    "place_id": "ChIJVxJyAP2OAGARnKf9RgfruUQ",
+    "g_name": "ギュール ルモンテ",
+    "g_rating": 4.7,
+    "g_reviews": 71,
+    "g_address": "日本、〒650-0022 兵庫県神戸市中央区元町通１丁目４−１２ ＭＩＳＸ",
+    "lat": 34.6885267,
+    "lng": 135.1892915
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "EPURE",
+    "name_en": "EPURE",
+    "area": "広島県 稲荷町駅",
+    "url": "https://tabelog.com/hiroshima/A3401/A340121/34024620/",
+    "rating": 3.96,
+    "review_count_tabelog": 40,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 23:30 L.O. 21:00",
+        "dtl_text": "18:00 - 23:30 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Only on December 31, 2018 (Monday) and January 1, 2019 (Sunday) for Year-end & New Year Holidays."
+    },
+    "google_rating": 4.6,
+    "google_reviews": 52,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ89fx6qqYWjURxb7hMfxaRyw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/34024620-8c8eff0a185d1bc1ac0f60c0607496812bc8cd0aceed66cc39f68b975c3aea29.jpg",
+    "place_id": "ChIJ89fx6qqYWjURxb7hMfxaRyw",
+    "g_name": "EPURE",
+    "g_rating": 4.6,
+    "g_reviews": 52,
+    "g_address": "日本、〒732-0828 広島県広島市南区京橋町４−１４",
+    "lat": 34.3956106,
+    "lng": 132.471146
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "御影 ジュエンヌ",
+    "name_en": "Mikage Juenu",
+    "area": "兵庫県 御影（阪急）駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280106/28004021/",
+    "rating": 3.77,
+    "review_count_tabelog": 182,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 15:00 L.O. 13:00 18:00 - 21:30 L.O. 19:30",
+        "dtl_text": "18:00 - 21:30 L.O. 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 115,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJiYyqykWMAGARuNgklHs2sfg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/28004021-96a68a0be1064c7fe3950f32b763d8a513be375f1bd9310a7d51e2893c2d5228.jpg",
+    "place_id": "ChIJiYyqykWMAGARuNgklHs2sfg",
+    "g_name": "御影ジュエンヌ",
+    "g_rating": 4.6,
+    "g_reviews": 115,
+    "g_address": "日本、〒658-0047 兵庫県神戸市東灘区御影３丁目１−４ ｍパレ御影 1F",
+    "lat": 34.7207732,
+    "lng": 135.2490028
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "hiroto",
+    "name_en": "hiroto",
+    "area": "広島県 中電前駅",
+    "url": "https://tabelog.com/hiroshima/A3401/A340117/34001321/",
+    "rating": 3.94,
+    "review_count_tabelog": 119,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 00:00",
+        "dtl_text": "18:00 - 00:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (open on public holidays, closed the following Tuesday)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 94,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJr-d_VBCiWjURKXr-_RjJinY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/34001321-060962da417f66d461192494aec7faa6f90c0b0981e3ae7acdf88ece39556a82.jpg",
+    "place_id": "ChIJr-d_VBCiWjURKXr-_RjJinY",
+    "g_name": "hiroto",
+    "g_rating": 4.3,
+    "g_reviews": 94,
+    "g_address": "日本、〒730-0043 広島県広島市中区富士見町４−１７",
+    "lat": 34.3878709,
+    "lng": 132.4603424
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "RESTAURANT hidamarino",
+    "name_en": "RESTAURANT hidamarino",
+    "area": "京都府 烏丸駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260101/26026551/",
+    "rating": 3.73,
+    "review_count_tabelog": 113,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "French, Creative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:30 L.O. 12:30 18:00 - 22:00 L.O. 19:30",
+        "dtl_text": "18:00 - 22:00 L.O. 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.7,
+    "google_reviews": 75,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ86BEQpcIAWARyrZLNooVd_I",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/26026551-04f080c337afbdd8c324ea2a7163869acb739e6dfd8d82cd6afc5bcf0d8c67db.jpg",
+    "place_id": "ChIJ86BEQpcIAWARyrZLNooVd_I",
+    "g_name": "RESTAURANT hidamarino",
+    "g_rating": 4.7,
+    "g_reviews": 75,
+    "g_address": "日本、〒600-8082 京都府京都市下京区高倉通四条下る高材木町２１８",
+    "lat": 35.0029997,
+    "lng": 135.7624608
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "レーヌ デ プレ",
+    "name_en": "Reine des pres",
+    "area": "京都府 神宮丸太町駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260302/26021417/",
+    "rating": 3.78,
+    "review_count_tabelog": 137,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "French, Creative, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 13:00 18:00 - 19:00",
+        "dtl_text": "18:00 - 19:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 96,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJPUZYaosIAWARY0wDz9zzb-w",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/26021417-e2c644cff32a6d9914afe289c12643ffa79ee1c1ffe740982e7e84160ae3135b.jpg",
+    "place_id": "ChIJPUZYaosIAWARY0wDz9zzb-w",
+    "g_name": "レーヌデプレ",
+    "g_rating": 4.5,
+    "g_reviews": 96,
+    "g_address": "日本、〒602-0872 京都府京都市上京区中町通丸太町下る駒之町５３７−１",
+    "lat": 35.0172778,
+    "lng": 135.7697988
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "シェ シロ",
+    "name_en": "CHEZ CHILO",
+    "area": "兵庫県 三ノ宮（ＪＲ）駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280101/28043050/",
+    "rating": 3.75,
+    "review_count_tabelog": 90,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "French, Bistro",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 74,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJzcPtr-WOAGAROKnOarRPuAI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/28043050-1d2091da9108115296fb9674d1847ded109936e20d6a8b7a6d267aa724fd418f.jpg",
+    "place_id": "ChIJzcPtr-WOAGAROKnOarRPuAI",
+    "g_name": "CHEZ CHILO",
+    "g_rating": 4.3,
+    "g_reviews": 74,
+    "g_address": "日本、〒651-0094 兵庫県神戸市中央区琴ノ緒町５丁目４−１９ TMEビル 1F",
+    "lat": 34.6960577,
+    "lng": 135.1945101
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "ラ・テラス イリゼ",
+    "name_en": "La Terrace Irise",
+    "area": "奈良県 奈良市",
+    "url": "https://tabelog.com/nara/A2901/A290102/29006211/",
+    "rating": 3.72,
+    "review_count_tabelog": 128,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French, Wine bar, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 15:30 L.O. 13:00 17:30 - 22:00 L.O. 19:00",
+        "dtl_text": "17:30 - 22:00 L.O. 19:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 212,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0RZqkqg8AWAR-SoBYcQ3jSE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/29006211-e9cbefbb685e0212cb9b7c273179a005936c6a82b8e9171f95c43df800ffba25.jpg",
+    "place_id": "ChIJ0RZqkqg8AWAR-SoBYcQ3jSE",
+    "g_name": "ラ・テラス イリゼ",
+    "g_rating": 4.4,
+    "g_reviews": 212,
+    "g_address": "日本、〒631-0032 奈良県奈良市あやめ池北１丁目３４−７ HANA１F",
+    "lat": 34.6989206,
+    "lng": 135.7605788
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "青いけ",
+    "name_en": "Aoike",
+    "area": "京都府 丸太町（京都市営）駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260202/26023539/",
+    "rating": 3.75,
+    "review_count_tabelog": 90,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 13:00 18:00 - 19:30",
+        "dtl_text": "18:00 - 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 120,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJIToxR48IAWAR6w_L8dQrJOU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/26023539-d562491f7847feadd502a0865d5903889c726cd95a988ca47953e9b0d95fd68a.jpg",
+    "place_id": "ChIJIToxR48IAWAR6w_L8dQrJOU",
+    "g_name": "青いけ",
+    "g_rating": 4.5,
+    "g_reviews": 120,
+    "g_address": "日本、〒604-0884 京都府京都市中京区塀之内町６３１ 高倉西入",
+    "lat": 35.0162758,
+    "lng": 135.7618297
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "モトイ",
+    "name_en": "Motoi",
+    "area": "京都府 京都市役所前駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260202/26019431/",
+    "rating": 4.13,
+    "review_count_tabelog": 440,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 15:00 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 319,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3Xhn6Y4IAWAR_sP7HsRz7ws",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/26019431-3f72cc615469670e85d65609eae1ffaec9e69424d3128abfdd2f88152a5d00a5.jpg",
+    "place_id": "ChIJ3Xhn6Y4IAWAR_sP7HsRz7ws",
+    "g_name": "Restaurant MOTOÏ",
+    "g_rating": 4.5,
+    "g_reviews": 319,
+    "g_address": "日本、〒604-0952 京都府京都市中京区富小路通二条下ル俵屋町１８６",
+    "lat": 35.01272489999999,
+    "lng": 135.7649361
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "le・sud",
+    "name_en": "le sud",
+    "area": "福岡県 薬院駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400104/40053899/",
+    "rating": 3.85,
+    "review_count_tabelog": 60,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "French, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat",
+        "dtl": "12:00 - 15:00 L.O. Food 12:30 Drinks 14:30 18:00 - 22:00 L.O. 19:00",
+        "dtl_text": "18:00 - 22:00 L.O. 19:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.8,
+    "google_reviews": 55,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJA_x56P2RQTURwUPhRuR-pcE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/40053899-f29baf8d7f88badbbc0c811490f5361a05172e9c827b876b90dccab5877d4c2a.jpg",
+    "place_id": "ChIJA_x56P2RQTURwUPhRuR-pcE",
+    "g_name": "薬院フレンチ ル·シュッド",
+    "g_rating": 4.8,
+    "g_reviews": 55,
+    "g_address": "日本、〒810-0022 福岡県福岡市中央区薬院１丁目６−２５ ルネスキューブ 1階",
+    "lat": 33.5825228,
+    "lng": 130.3992548
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "エスピス",
+    "name_en": "ESPICE",
+    "area": "兵庫県 三宮（神戸市営）駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280101/28047247/",
+    "rating": 3.77,
+    "review_count_tabelog": 380,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "French, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 14:30 18:00 - 21:30",
+        "dtl_text": "18:00 - 21:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 184,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVUpNeKOAGARKzI2hcMFyE4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/28047247-bbcaa10a21ca2bd78faeecf3e11f2f9ed14a71d68d365d5dfede83561957973e.jpg",
+    "place_id": "ChIJVVUpNeKOAGARKzI2hcMFyE4",
+    "g_name": "エスピス(ESPICE)",
+    "g_rating": 4.4,
+    "g_reviews": 184,
+    "g_address": "日本、〒650-0004 兵庫県神戸市中央区中山手通２丁目３−２５ メゾンエスプリ生田 1-1",
+    "lat": 34.6943029,
+    "lng": 135.1892463
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "Kamekichi",
+    "name_en": "Kamekichi",
+    "area": "大阪府 谷町四丁目駅",
+    "url": "https://tabelog.com/osaka/A2701/A270104/27004963/",
+    "rating": 3.77,
+    "review_count_tabelog": 740,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Bistro, French, Dining bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "18:00 - 22:30 L.O. Food 21:00 Drinks 22:00",
+        "dtl_text": "18:00 - 22:30 L.O. Food 21:00 Drinks 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Public Holiday",
+        "dtl": "11:30 - 14:30 L.O. Food 12:00 Drinks 13:30 18:00 - 22:30 L.O. Food 21:00 Drinks 22:00",
+        "dtl_text": "18:00 - 22:30 L.O. Food 21:00 Drinks 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays that fall on public holidays"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 245,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZydCWSXnAGARnp_Z8swlHlg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/27004963-85a221baa17ac90dea1e43df7edb74e9981acd7639f26c1cd0510f0e213c10ca.jpg",
+    "place_id": "ChIJZydCWSXnAGARnp_Z8swlHlg",
+    "g_name": "Kamekichi",
+    "g_rating": 4.3,
+    "g_reviews": 245,
+    "g_address": "日本、〒540-0027 大阪府大阪市中央区鎗屋町１丁目３−１３",
+    "lat": 34.6826645,
+    "lng": 135.5155284
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "山地陽介",
+    "name_en": "Yosuke YAMAJI",
+    "area": "京都府 祇園四条駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260301/26025794/",
+    "rating": 3.77,
+    "review_count_tabelog": 423,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 15:00 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Lunch": {},
+        "Dinner": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 176,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJvb5OYsEIAWAR-uYTiAN_rmQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/26025794-279a2d32e3ff730d90ec68ad8cccaf54e0404685d321eb05aa1aa36407ddd558.jpg",
+    "place_id": "ChIJvb5OYsEIAWAR-uYTiAN_rmQ",
+    "g_name": "山地陽介",
+    "g_rating": 4.3,
+    "g_reviews": 176,
+    "g_address": "日本、〒605-0074 京都府京都市東山区祇園町南側５７０−１５１",
+    "lat": 35.0026736,
+    "lng": 135.775725
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "ラ・フェット ひらまつ",
+    "name_en": "La Fête Hiramatsu",
+    "area": "大阪府 渡辺橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270102/27069204/",
+    "rating": 3.68,
+    "review_count_tabelog": 408,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "French, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 13:30 18:00 - 20:00",
+        "dtl_text": "18:00 - 20:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 543,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJCemqKvDmAGARaa9f56LdsFk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/27069204-d92c2c1dab74f02f9cdc962a10333a70f8db6284f9fcca970f12da89f3249b37.jpg",
+    "place_id": "ChIJCemqKvDmAGARaa9f56LdsFk",
+    "g_name": "ラ・フェット ひらまつ",
+    "g_rating": 4.4,
+    "g_reviews": 543,
+    "g_address": "日本、〒530-0005 大阪府大阪市北区中之島２丁目３−１８ 中之島フェスティバルタワー 37F",
+    "lat": 34.6935631,
+    "lng": 135.496935
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "リョウリヤ ステファン パンテル",
+    "name_en": "Ryoriya Stephan Pantel",
+    "area": "京都府 丸太町（京都市営）駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260202/26023370/",
+    "rating": 4.18,
+    "review_count_tabelog": 427,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays and Wednesdays"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 215,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJX0jJfEGX_18RRA5tyak6VzQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/26023370-122b45956095fe03b34902ab632c3879cdb14a5d6dae65adf062b5199090e00e.jpg",
+    "place_id": "ChIJX0jJfEGX_18RRA5tyak6VzQ",
+    "g_name": "ステファン パンテル",
+    "g_rating": 4.5,
+    "g_reviews": 215,
+    "g_address": "日本、〒604-0974 京都府京都市中京区柳馬場通丸太町下る四丁目１８２",
+    "lat": 35.0170963,
+    "lng": 135.7636692
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "Imparfait",
+    "name_en": "Imparfait",
+    "area": "大阪府 肥後橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270106/27104681/",
+    "rating": 3.67,
+    "review_count_tabelog": 237,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "French, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.8,
+    "google_reviews": 128,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJYTvuB1DnAGAR78LRFkwnwdM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/27104681-e301072bd66a2b5123bb42f253ec6674c4892c78a0cb6f5a84940ae95ab5b1d1.jpg",
+    "place_id": "ChIJYTvuB1DnAGAR78LRFkwnwdM",
+    "g_name": "Imparfait アンパルフェ",
+    "g_rating": 4.8,
+    "g_reviews": 128,
+    "g_address": "日本、〒550-0004 大阪府大阪市西区靱本町１丁目１−１９",
+    "lat": 34.6868887,
+    "lng": 135.4977491
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "ランソレイエ",
+    "name_en": "Lensoleiller",
+    "area": "富山県 南砺市",
+    "url": "https://tabelog.com/toyama/A1605/A160502/16007000/",
+    "rating": 3.61,
+    "review_count_tabelog": 32,
+    "price_dinner": "-",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 13:30 17:45 - 19:30",
+        "dtl_text": "17:45 - 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The second Tuesday of each month"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 65,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJR44cTQ07-F8RY0Hj-dJZ8jI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/16007000-3b298cdd75a5dc457df555cbabfa5cb9bcf90bf0e7d460a9f8e62e2a93577171.jpg",
+    "place_id": "ChIJR44cTQ07-F8RY0Hj-dJZ8jI",
+    "g_name": "ランソレイエ",
+    "g_rating": 4.6,
+    "g_reviews": 65,
+    "g_address": "日本、〒939-1835 富山県南砺市立野原東１７５２−３",
+    "lat": 36.4976011,
+    "lng": 136.8698744
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "スガラボヴィー",
+    "name_en": "SUGALABO V",
+    "area": "大阪府 心斎橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270202/27116163/",
+    "rating": 4.32,
+    "review_count_tabelog": 394,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "-",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 20,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJCctTXADnAGARYBYzYTLlVG0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/27116163-ae84071b6c20ab6730e65f0af4b3aed080e182da7a29510cdcac55c8b33b8a6d.jpg",
+    "place_id": "ChIJCctTXADnAGARYBYzYTLlVG0",
+    "g_name": "SUGALABO V",
+    "g_rating": 4.6,
+    "g_reviews": 20,
+    "g_address": "日本、〒542-0085 大阪府大阪市中央区心斎橋筋２丁目８−１７ 7F",
+    "lat": 34.6712938,
+    "lng": 135.5007021
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "L'eau Blanche",
+    "name_en": "L'eau Blanche",
+    "area": "福岡県 中洲川端駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400102/40042563/",
+    "rating": 3.75,
+    "review_count_tabelog": 107,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu",
+        "dtl": "18:00 - 22:30 L.O. 19:30",
+        "dtl_text": "18:00 - 22:30 L.O. 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Fri, Sat",
+        "dtl": "12:00 - 14:30 L.O. 12:00 18:00 - 22:30 L.O. 19:30",
+        "dtl_text": "18:00 - 22:30 L.O. 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.7,
+    "google_reviews": 120,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ94aDDpSRQTUR9fN1rRhVi7U",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/40042563-f3480deec4c8857c692e0833b39d9745c2788e2036fe5d23d2b7adca57f0d23c.jpg",
+    "place_id": "ChIJ94aDDpSRQTUR9fN1rRhVi7U",
+    "g_name": "L'eau Blanche ローブランシュ",
+    "g_rating": 4.7,
+    "g_reviews": 120,
+    "g_address": "日本、〒810-0002 福岡県福岡市中央区西中洲４−４",
+    "lat": 33.5909736,
+    "lng": 130.4062199
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "ad hoc",
+    "name_en": "ad hoc",
+    "area": "大阪府 福島（阪神）駅",
+    "url": "https://tabelog.com/osaka/A2701/A270108/27080791/",
+    "rating": 4.03,
+    "review_count_tabelog": 463,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 15:00 L.O. 12:30 18:00 - 22:00 L.O. 18:30",
+        "dtl_text": "18:00 - 22:00 L.O. 18:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.7,
+    "google_reviews": 215,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJEVXjCfXmAGARApzjxQc6ZkU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/27080791-30b826d7b17ad16203e4c5450ba8fbe3b8a1b6f7edf134b1eb22413de61ac8b3.jpg",
+    "place_id": "ChIJEVXjCfXmAGARApzjxQc6ZkU",
+    "g_name": "ad hoc",
+    "g_rating": 4.7,
+    "g_reviews": 215,
+    "g_address": "日本、〒553-0003 大阪府大阪市福島区福島１丁目１−４８",
+    "lat": 34.6941466,
+    "lng": 135.4889346
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "レストラン エンヌ",
+    "name_en": "Restaurant Ennu",
+    "area": "石川県 金沢市",
+    "url": "https://tabelog.com/ishikawa/A1701/A170101/17009850/",
+    "rating": 3.72,
+    "review_count_tabelog": 75,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "French, Bistro",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every Wednesday and one irregular holiday each month."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 116,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJA97CPG8z-F8RdD_-U8T940I",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/17009850-06a02f3de9d26f02e2d4851c5fbc5dbf3b89513cfac7a7ac496e6f936cc6457e.jpg",
+    "place_id": "ChIJA97CPG8z-F8RdD_-U8T940I",
+    "g_name": "レストラン エンヌ",
+    "g_rating": 4.4,
+    "g_reviews": 116,
+    "g_address": "日本、〒920-0853 石川県金沢市本町２丁目１−２",
+    "lat": 36.5737967,
+    "lng": 136.6508804
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "イデアル ビストロ",
+    "name_en": "Ideal Bistro",
+    "area": "大阪府 天満橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270104/27102124/",
+    "rating": 3.7,
+    "review_count_tabelog": 111,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "French, Bistro",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:30 L.O. Food 13:00 18:00 - 23:00 L.O. Food 21:00",
+        "dtl_text": "18:00 - 23:00 L.O. Food 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 95,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKek-8yjnAGARHJZE6D2BCsk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/27102124-a5cebbba24480a9fb616805fc89759797467a28f85f1736dfdc8bbce194756c1.jpg",
+    "place_id": "ChIJKek-8yjnAGARHJZE6D2BCsk",
+    "g_name": "イデアル ビストロ",
+    "g_rating": 4.3,
+    "g_reviews": 95,
+    "g_address": "日本、〒540-0012 大阪府大阪市中央区谷町１丁目６−５ 2階",
+    "lat": 34.6888704,
+    "lng": 135.5170648
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "マキノンチ",
+    "name_en": "Makinonchi",
+    "area": "石川県 金沢市",
+    "url": "https://tabelog.com/ishikawa/A1701/A170101/17012300/",
+    "rating": 4.3,
+    "review_count_tabelog": 135,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat",
+        "dtl": "17:30 - 21:30",
+        "dtl_text": "17:30 - 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:30 - 16:00",
+        "dtl_text": "11:30 - 16:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 119,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJnxJ2_1cz-F8RvZbwrofNQuk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/17012300-e47f1d698e5ab0b7fc2f1ccf38d2b6392214ba572b5b79c3760aa41d5681c721.jpg",
+    "place_id": "ChIJnxJ2_1cz-F8RvZbwrofNQuk",
+    "g_name": "MAKINONCÎ マキノンチ",
+    "g_rating": 4.6,
+    "g_reviews": 119,
+    "g_address": "日本、〒920-0816 石川県金沢市山の上町２５−１８",
+    "lat": 36.5767241,
+    "lng": 136.6738526
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "ボン・ヴィヴァン",
+    "name_en": "BON VIVANT",
+    "area": "三重県 伊勢市",
+    "url": "https://tabelog.com/mie/A2403/A240301/24000015/",
+    "rating": 3.68,
+    "review_count_tabelog": 142,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 15:00 L.O. 13:00 17:30 - 21:00 L.O. 19:00",
+        "dtl_text": "17:30 - 21:00 L.O. 19:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "12:00 - 15:00 L.O. 13:00",
+        "dtl_text": "12:00 - 15:00 L.O. 13:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 137,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJj1JZO4paBGAR-vI0vWpCoZI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/24000015-05d5888809b01fc75325055028e3034fcccb44138e2397f5120cec58449116c6.jpg",
+    "place_id": "ChIJj1JZO4paBGAR-vI0vWpCoZI",
+    "g_name": "ボンヴィヴァン外宮前店",
+    "g_rating": 4.5,
+    "g_reviews": 137,
+    "g_address": "日本、〒516-0074 三重県伊勢市本町２０−２４",
+    "lat": 34.4881413,
+    "lng": 136.707669
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "レストラン 花の木",
+    "name_en": "Restaurant Hana no Ki",
+    "area": "福岡県 大濠公園駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400105/40001046/",
+    "rating": 3.73,
+    "review_count_tabelog": 121,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "French, Yoshoku (Japanese style western cuisine), Cake",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "12:00 - 15:00 L.O. Food 13:30 17:30 - 21:00 L.O. Food 19:30",
+        "dtl_text": "17:30 - 21:00 L.O. Food 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (the following Tuesday if a holiday falls on Monday)"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 190,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZzMLazOSQTUR66TbTUd7-1s",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/40001046-b1114c31fc6d0758c738165bb0c09ea3af34f78205c25c2a01b4d7a456981973.jpg",
+    "place_id": "ChIJZzMLazOSQTUR66TbTUd7-1s",
+    "g_name": "レストラン 花の木",
+    "g_rating": 4.5,
+    "g_reviews": 190,
+    "g_address": "日本、〒810-0051 福岡県福岡市中央区大濠公園１−３",
+    "lat": 33.589172,
+    "lng": 130.3763209
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "レ・シャンドール",
+    "name_en": "Les Chandelles",
+    "area": "京都府 烏丸駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260201/26001319/",
+    "rating": 3.86,
+    "review_count_tabelog": 136,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 15:00 L.O. 13:30 18:00 - 22:30 L.O. 19:30",
+        "dtl_text": "18:00 - 22:30 L.O. 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.7,
+    "google_reviews": 63,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJc8lK_JAIAWARMS2MnZjLRQI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/26001319-14456d4e386a6013132c750fa92dfee9025cf285a6051f1870c755f17504b9a7.jpg",
+    "place_id": "ChIJc8lK_JAIAWARMS2MnZjLRQI",
+    "g_name": "Les champs d'or レ・シャンドール",
+    "g_rating": 4.7,
+    "g_reviews": 63,
+    "g_address": "日本、〒604-8113 京都府京都市中京区柳馬場通蛸薬師上る井筒屋町４１９",
+    "lat": 35.0065566,
+    "lng": 135.7637424
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "Droit",
+    "name_en": "Droit",
+    "area": "京都府 神宮丸太町駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260503/26029123/",
+    "rating": 3.77,
+    "review_count_tabelog": 48,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.7,
+    "google_reviews": 70,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJHY7jDGEIAWAR3t4RyIRtZew",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/26029123-d99a49554eff74b9684a1a376a8140bf18c219830b72c160e15774ee16661c5b.jpg",
+    "place_id": "ChIJHY7jDGEIAWAR3t4RyIRtZew",
+    "g_name": "Droit | レストランドロワ",
+    "g_rating": 4.7,
+    "g_reviews": 70,
+    "g_address": "日本、〒602-0858 京都府京都市上京区東桜町４９−１",
+    "lat": 35.0223769,
+    "lng": 135.76757
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "Grand Bleu Gamin",
+    "name_en": "Grand Bleu Gamin",
+    "area": "沖縄県 宮古島市",
+    "url": "https://tabelog.com/okinawa/A4705/A470503/47025427/",
+    "rating": 3.78,
+    "review_count_tabelog": 313,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "French, Teppanyaki, Auberge",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "17:30 - 22:00 L.O. 21:00",
+        "dtl_text": "17:30 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:00 L.O. 13:30 17:30 - 22:00 L.O. 21:00",
+        "dtl_text": "17:30 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Lunch service is not available on Mondays."
+    },
+    "google_rating": 4.6,
+    "google_reviews": 159,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJHWHDv_NT9DQRACaiRLZwbjE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/47025427-f5962d0183138c6fbfb1c2d143e647c5277e45b9a1a281e6b0bb9ee94e70e35a.jpg",
+    "place_id": "ChIJHWHDv_NT9DQRACaiRLZwbjE",
+    "g_name": "Grand Bleu Gamin（ホテル ヴィラ）",
+    "g_rating": 4.6,
+    "g_reviews": 159,
+    "g_address": "日本、〒906-0008 沖縄県宮古島市平良荷川取１０６４−１",
+    "lat": 24.8379419,
+    "lng": 125.2860321
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "La Cime",
+    "name_en": "La Cime",
+    "area": "大阪府 堺筋本町駅",
+    "url": "https://tabelog.com/osaka/A2701/A270106/27049485/",
+    "rating": 4.11,
+    "review_count_tabelog": 438,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "￥40,000～￥49,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 310,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJQbuz-HmAGARlT3utlf3bPA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/27049485-5221c5ec318b6c586f4f306b20e12943124d697f88b58861e01d09bba4131a66.jpg",
+    "place_id": "ChIJJQbuz-HmAGARlT3utlf3bPA",
+    "g_name": "La Cime",
+    "g_rating": 4.3,
+    "g_reviews": 310,
+    "g_address": "日本、〒541-0048 大阪府大阪市中央区瓦町３丁目２−１５",
+    "lat": 34.685815,
+    "lng": 135.503429
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "ル ジャルダン グルマン",
+    "name_en": "Le Jardin Gourmand",
+    "area": "広島県 古江駅",
+    "url": "https://tabelog.com/hiroshima/A3401/A340122/34000006/",
+    "rating": 3.77,
+    "review_count_tabelog": 127,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every 2nd and 4th Tuesday"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 132,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJPbslHNyiWjURNeU4nMGoG_A",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/34000006-392580a67d7ef107656d39b4f32fc1572739b684f3403e36868f557d41b2b5f4.jpg",
+    "place_id": "ChIJPbslHNyiWjURNeU4nMGoG_A",
+    "g_name": "ル・ジャルダン・グルマン",
+    "g_rating": 4.5,
+    "g_reviews": 132,
+    "g_address": "日本、〒733-0872 広島県広島市西区古江東町１１−３５",
+    "lat": 34.3888565,
+    "lng": 132.4094757
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "Pluie dete",
+    "name_en": "Pluie dete",
+    "area": "大阪府 北新地駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27116251/",
+    "rating": 3.7,
+    "review_count_tabelog": 1037,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "French, Italian",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 150,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJt4DFNq7nAGARjaAOvkD8lLA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/27116251-321742d5b296a192e14216414858986a40aafac20a08aac4904eec32090741dc.jpg",
+    "place_id": "ChIJt4DFNq7nAGARjaAOvkD8lLA",
+    "g_name": "Pluie d'été プリュイ デテ",
+    "g_rating": 4.1,
+    "g_reviews": 150,
+    "g_address": "日本、〒530-0001 大阪府大阪市北区梅田１丁目３−１−１００",
+    "lat": 34.6986619,
+    "lng": 135.4963067
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "ラ・トラース",
+    "name_en": "LA TRACE",
+    "area": "奈良県 奈良市",
+    "url": "https://tabelog.com/nara/A2901/A290101/29010031/",
+    "rating": 3.7,
+    "review_count_tabelog": 117,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Fri, Sat",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu",
+        "dtl": "12:00 - 15:00",
+        "dtl_text": "12:00 - 15:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "We update our operating schedule monthly on Instagram and our website. Please check here for any additional closures beyond the regular days off."
+    },
+    "google_rating": 4.6,
+    "google_reviews": 60,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJu2kjIzI6AWAR1A0dIh67KIA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/29010031-69bf878cac6debc86d9b5ab9e8d8fa9be7f771c3e199f7f13f564aca3e43e3bc.jpg",
+    "place_id": "ChIJu2kjIzI6AWAR1A0dIh67KIA",
+    "g_name": "ラ・トラース",
+    "g_rating": 4.6,
+    "g_reviews": 60,
+    "g_address": "日本、〒630-8115 奈良県奈良市大宮町２丁目１−５",
+    "lat": 34.6820812,
+    "lng": 135.8171562
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "プレスキル",
+    "name_en": "Presquile",
+    "area": "大阪府 淀屋橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270102/27088075/",
+    "rating": 3.91,
+    "review_count_tabelog": 366,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 L.O. 14:00 17:30 - 22:30 L.O. 20:00",
+        "dtl_text": "17:30 - 22:30 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Year-end & New Year Holidays"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 173,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJfzZ2YBvnAGAR_Wyh-MA5DLQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/27088075-c2ea8f6f33acff46953a5ad672ac9c8dcc3e8019a6281ce13e393d6a0f697ec8.jpg",
+    "place_id": "ChIJfzZ2YBvnAGAR_Wyh-MA5DLQ",
+    "g_name": "プレスキル",
+    "g_rating": 4.5,
+    "g_reviews": 173,
+    "g_address": "日本、〒541-0042 大阪府大阪市中央区今橋４丁目１−１ 淀屋橋odona2F",
+    "lat": 34.6909456,
+    "lng": 135.5002493
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "フナシェフ",
+    "name_en": "Funachef",
+    "area": "大阪府 天満駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27117389/",
+    "rating": 4.06,
+    "review_count_tabelog": 228,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Wednesday - Saturday": {},
+        "Tuesday - Sunday": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 82,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJUc0D8fznAGARO63anG_yGP8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/27117389-92ba76b0a832d281b438a2e7e5055981a4be3f255907879ffb8c1479bc1021bf.jpg",
+    "place_id": "ChIJUc0D8fznAGARO63anG_yGP8",
+    "g_name": "フナシェフ",
+    "g_rating": 4.5,
+    "g_reviews": 82,
+    "g_address": "日本、〒530-0023 大阪府大阪市北区黒崎町６−４",
+    "lat": 34.706917,
+    "lng": 135.5091921
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "オテル・ド・ヨシノ",
+    "name_en": "hotel de yoshino",
+    "area": "和歌山県 和歌山市",
+    "url": "https://tabelog.com/wakayama/A3001/A300101/30000022/",
+    "rating": 4.05,
+    "review_count_tabelog": 309,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 179,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKcGH9NRMB2ARpChxCmspvuI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/30000022-8c22a134349a857d010e83e1b8acd7d88adde3180024acbca3db85936414552f.jpg",
+    "place_id": "ChIJKcGH9NRMB2ARpChxCmspvuI",
+    "g_name": "hotel de yoshino",
+    "g_rating": 4.2,
+    "g_reviews": 179,
+    "g_address": "日本、〒640-8319 和歌山県和歌山市手平２丁目１−２ 和歌山ビッグ愛 12F",
+    "lat": 34.2185077,
+    "lng": 135.1904583
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "レチュード",
+    "name_en": "L’etude",
+    "area": "三重県 伊賀市",
+    "url": "https://tabelog.com/mie/A2404/A240401/24015675/",
+    "rating": 3.66,
+    "review_count_tabelog": 40,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 13:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.8,
+    "google_reviews": 79,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ70dZwMpbAWAR4LqEA3RLPtM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/24015675-f3940c149642b2b81edc4062c215fb0031c474825f91cd44126e27eaf797017e.jpg",
+    "place_id": "ChIJ70dZwMpbAWAR4LqEA3RLPtM",
+    "g_name": "L’étude レチュード",
+    "g_rating": 4.8,
+    "g_reviews": 79,
+    "g_address": "日本、〒519-1711 三重県伊賀市島ヶ原４８２６",
+    "lat": 34.7709264,
+    "lng": 136.0579976
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "et NOU",
+    "name_en": "et NOU",
+    "area": "鹿児島県 鹿児島市",
+    "url": "https://tabelog.com/kagoshima/A4601/A460101/46011001/",
+    "rating": 3.95,
+    "review_count_tabelog": 79,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 13:00 18:30 - 21:00",
+        "dtl_text": "18:30 - 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 75,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJBwuFUapgPjUR6dEbo8UlwIA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/46011001-3422c7474f3aee3ea0a12fd548fa4fe8e4b7d77fef4db23b247b5dbf6503bf9f.jpg",
+    "place_id": "ChIJBwuFUapgPjUR6dEbo8UlwIA",
+    "g_name": "et NOU エ ヌゥ",
+    "g_rating": 4.2,
+    "g_reviews": 75,
+    "g_address": "日本、〒892-0843 鹿児島県鹿児島市千日町９−１９",
+    "lat": 31.5885561,
+    "lng": 130.5565028
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "レストランディファランス",
+    "name_en": "Difference",
+    "area": "大阪府 本町駅",
+    "url": "https://tabelog.com/osaka/A2701/A270102/27074095/",
+    "rating": 3.79,
+    "review_count_tabelog": 290,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 15:00 L.O. 13:30 18:00 - 22:00 L.O. 20:00",
+        "dtl_text": "18:00 - 22:00 L.O. 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 233,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVXlKYfzmAGAR9SMNFkWq02c",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/27074095-162dcbd1fad92baafd4ce66350f811b9285719f50e36550e98e7dff83aa7e7cd.jpg",
+    "place_id": "ChIJVXlKYfzmAGAR9SMNFkWq02c",
+    "g_name": "ディファランス",
+    "g_rating": 4.5,
+    "g_reviews": 233,
+    "g_address": "日本、〒550-0004 大阪府大阪市西区靱本町１丁目１６−１２",
+    "lat": 34.6845181,
+    "lng": 135.4942243
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "ル ソルシエ",
+    "name_en": "le sorcier",
+    "area": "山口県 周南市",
+    "url": "https://tabelog.com/yamaguchi/A3505/A350501/35009481/",
+    "rating": 4.16,
+    "review_count_tabelog": 31,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 7,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJTbEOPYfnRDURcKfycU0juwo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/35009481-ad2688f182af574755a50634097a78465cc5829e9bdacdc129e58e5552e5fc2b.jpg",
+    "place_id": "ChIJTbEOPYfnRDURcKfycU0juwo",
+    "g_name": "le-sorcier (ル ソルシエ)",
+    "g_rating": 4.1,
+    "g_reviews": 7,
+    "g_address": "日本、〒745-0825 山口県周南市秋月",
+    "lat": 34.0548637,
+    "lng": 131.8292256
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "ル ジャルダン",
+    "name_en": "Le jardin",
+    "area": "福井県 福井市",
+    "url": "https://tabelog.com/fukui/A1801/A180101/18009178/",
+    "rating": 3.83,
+    "review_count_tabelog": 51,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday",
+        "dtl": "11:30 - 15:30 L.O. 13:30 18:00 - 23:00 L.O. 20:30",
+        "dtl_text": "18:00 - 23:00 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays and Wednesdays"
+    },
+    "google_rating": 4.9,
+    "google_reviews": 100,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJhVnrzeq_-F8RxHlp4Ub4yGY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/18009178-1199554c9d96c457081ca4cafe9a9fed5d4d21f12ebfe37544f1121fc75c885a.jpg",
+    "place_id": "ChIJhVnrzeq_-F8RxHlp4Ub4yGY",
+    "g_name": "ル・ジャルダン福井",
+    "g_rating": 4.9,
+    "g_reviews": 100,
+    "g_address": "日本、〒910-0017 福井県福井市文京４丁目２８−１６ Le jardin fukui (ル ジャルダン福井",
+    "lat": 36.07977640000001,
+    "lng": 136.207757
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "レストラン・ジョルジュマルソー",
+    "name_en": "GEORGES MARCEAU",
+    "area": "福岡県 赤坂駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400104/40000376/",
+    "rating": 3.73,
+    "review_count_tabelog": 278,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Thu",
+        "dtl": "11:45 - 15:00 L.O. Food 13:30",
+        "dtl_text": "11:45 - 15:00 L.O. Food 13:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:45 - 15:00 L.O. Food 13:30 18:00 - 23:00 L.O. Food 21:00",
+        "dtl_text": "18:00 - 23:00 L.O. Food 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 222,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJd93jZymSQTURaJmnA_pESLI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/40000376-2b9097b2869cb4b4bc6766da0d0618132b1d8010f74614b4c547fc3c8324166c.jpg",
+    "place_id": "ChIJd93jZymSQTURaJmnA_pESLI",
+    "g_name": "レストラン・ジョルジュマルソー",
+    "g_rating": 4.2,
+    "g_reviews": 222,
+    "g_address": "日本、〒810-0074 福岡県福岡市中央区大手門１丁目１−２７ オーテモンウェルリバーテラス 1F",
+    "lat": 33.5889531,
+    "lng": 130.3868058
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "La Biographie",
+    "name_en": "La Biographie...",
+    "area": "京都府 京都市上京区",
+    "url": "https://tabelog.com/kyoto/A2601/A260203/26036019/",
+    "rating": 3.73,
+    "review_count_tabelog": 26,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 15:00 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Other irregular holidays may apply."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 47,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ6ffGWQHAWAReWN2QMrHIG4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/26036019-82f2690e21023d86c49df3bc0391089d3f7de6af37469dd21b900621b9dd25c7.jpg",
+    "place_id": "ChIJJ6ffGWQHAWAReWN2QMrHIG4",
+    "g_name": "ラ・ビオグラフィ",
+    "g_rating": 4.5,
+    "g_reviews": 47,
+    "g_address": "日本、〒602-8163 京都府京都市上京区田中町４２２−１ セントガーデン 1F",
+    "lat": 35.02021690000001,
+    "lng": 135.7429856
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "しまなみふれんち Murakami",
+    "name_en": "Shimanami French Murakami",
+    "area": "大阪府 大阪天満宮駅",
+    "url": "https://tabelog.com/osaka/A2701/A270103/27100646/",
+    "rating": 4.09,
+    "review_count_tabelog": 585,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "French, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 15:00 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "【Notice of October Closures】"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 190,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJuZqF6tvmAGARDs25JSR6GpA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/27100646-a6c049ad2f0739314a918a015909c8a2c11be3d5f2fb5c079a5aa91c7418de96.jpg",
+    "place_id": "ChIJuZqF6tvmAGARDs25JSR6GpA",
+    "g_name": "しまなみふれんち Murakami",
+    "g_rating": 4.5,
+    "g_reviews": 190,
+    "g_address": "日本、〒530-0041 大阪府大阪市北区天神橋１丁目１３−１５ 102",
+    "lat": 34.6946148,
+    "lng": 135.5121948
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "IAKU",
+    "name_en": "IAKU",
+    "area": "大阪府 北新地駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27130596/",
+    "rating": 4.01,
+    "review_count_tabelog": 152,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French, Italian, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Fri",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu, Sat",
+        "dtl": "12:00 - 15:00 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Some Sundays may be open depending on the month."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 22,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZTIrEkrnAGARpltl27twl6I",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/27130596-b7c47198053c91b74ce498658e9b3e2ea5f0f0e6306fa283483422331851faeb.jpg",
+    "place_id": "ChIJZTIrEkrnAGARpltl27twl6I",
+    "g_name": "IAKU",
+    "g_rating": 4.4,
+    "g_reviews": 22,
+    "g_address": "日本、〒530-0002 大阪府大阪市北区 曽根崎新地１-３-３０ 北新地KOHDAビル６F ６０６B号",
+    "lat": 34.697482,
+    "lng": 135.4967012
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "ラボンヌターシュ",
+    "name_en": "La Bonne Tache",
+    "area": "大阪府 なにわ橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27074083/",
+    "rating": 3.74,
+    "review_count_tabelog": 165,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "French, Bistro, Wine bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 39,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJK3R3P-jmAGARWPU87qOz-iE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/27074083-eb52fe123a7e4a3e62c00a6dfb04eb4c298094c0bf94c8191fe2a0cc57e7d0ea.jpg",
+    "place_id": "ChIJK3R3P-jmAGARWPU87qOz-iE",
+    "g_name": "ラボンヌターシュ",
+    "g_rating": 4.4,
+    "g_reviews": 39,
+    "g_address": "日本、〒530-0047 大阪府大阪市北区西天満４丁目１−８ 1F",
+    "lat": 34.6961658,
+    "lng": 135.5052224
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "NAKATSUKA",
+    "name_en": "NAKATSUKA",
+    "area": "京都府 烏丸御池駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260202/26029955/",
+    "rating": 3.93,
+    "review_count_tabelog": 153,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French, Creative, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "18:30 - 22:00",
+        "dtl_text": "18:30 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 15:00 18:30 - 22:00",
+        "dtl_text": "18:30 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays and every other Monday."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 107,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ29kjz48IAWAR4wG-OZEmDsI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/26029955-9c8dc73c0365ce66c6441c13d3f05638ebcc08ec79237a7812343c4880b97081.jpg",
+    "place_id": "ChIJ29kjz48IAWAR4wG-OZEmDsI",
+    "g_name": "NAKATSUKA",
+    "g_rating": 4.5,
+    "g_reviews": 107,
+    "g_address": "日本、〒604-8104 京都府京都市中京区木之下町２９９ 姉小路通 1F Glance Coto",
+    "lat": 35.0097647,
+    "lng": 135.7634824
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "LES SOUVENIRS",
+    "name_en": "LES SOUVENIRS",
+    "area": "大阪府 北新地駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27119212/",
+    "rating": 3.72,
+    "review_count_tabelog": 104,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "18:00 - 22:30 L.O. Food 20:00 Drinks 22:00",
+        "dtl_text": "18:00 - 22:30 L.O. Food 20:00 Drinks 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 14:30 L.O. Food 13:00 Drinks 14:00 18:00 - 22:30 L.O. Food 20:00 Drinks 22:00",
+        "dtl_text": "18:00 - 22:30 L.O. Food 20:00 Drinks 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon - Sat & Day before Public Holidays": {}
+      },
+      "closed_on": "Sundays and Public Holidays"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 13,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJCyroELbnAGARoRxCT1yLvaI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/27119212-94fe0132025542758c3556b868a3b9a11870fe6e207dcddff26fecbd408537b4.jpg",
+    "place_id": "ChIJCyroELbnAGARoRxCT1yLvaI",
+    "g_name": "RESTAURANT LES SOUVENIRS（レスヴニール）",
+    "g_rating": 4.5,
+    "g_reviews": 13,
+    "g_address": "日本、〒530-0002 大阪府大阪市北区曾根崎新地１丁目２−１０ 第3鈴木ビル 5階",
+    "lat": 34.6972099,
+    "lng": 135.4977382
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "薪の音",
+    "name_en": "Maki no Oto",
+    "area": "富山県 南砺市",
+    "url": "https://tabelog.com/toyama/A1605/A160502/16000678/",
+    "rating": 3.79,
+    "review_count_tabelog": 72,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "French, Auberge",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:30 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 41,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJbcbFmEA7-F8RnyfriZje9YY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/16000678-c1f16fe2aa66ec58b9934fb3ef470132eb2ff12cf98006a7f74398d3a4f9cda4.jpg",
+    "place_id": "ChIJbcbFmEA7-F8RnyfriZje9YY",
+    "g_name": "向野の江戸彼岸桜",
+    "g_rating": 4.2,
+    "g_reviews": 41,
+    "g_address": "日本、〒939-1828 富山県南砺市中尾",
+    "lat": 36.504514,
+    "lng": 136.8895663
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "ラ・ベ",
+    "name_en": "La Baie",
+    "area": "大阪府 福島（阪神）駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27000702/",
+    "rating": 4.03,
+    "review_count_tabelog": 694,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 L.O. 13:30 17:30 - 21:00 L.O. 19:30",
+        "dtl_text": "17:30 - 21:00 L.O. 19:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 332,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJz4HJq4zmAGAR-YQ7Xv7XU4E",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/27000702-97d17244611d6032b7e831fa0f13b3816ebfbb257d14f79b1611dadd00cf64cc.jpg",
+    "place_id": "ChIJz4HJq4zmAGAR-YQ7Xv7XU4E",
+    "g_name": "フランス料理 La Baie ラ・ベ",
+    "g_rating": 4.5,
+    "g_reviews": 332,
+    "g_address": "日本、〒530-0001 大阪府大阪市北区梅田２丁目５−２５ ザ・リッツ・カールトン大阪 5階",
+    "lat": 34.698098,
+    "lng": 135.4924465
+  },
+  {
+    "category_jp": "フレンチ",
+    "category_en": "French",
+    "region": "WEST",
+    "name": "Yorgo",
+    "name_en": "Yorgo",
+    "area": "福岡県 赤坂駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400104/40049259/",
+    "rating": 3.73,
+    "review_count_tabelog": 337,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Bistro",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Day before public holiday, Day after public holiday",
+        "dtl": "17:00 - 00:00 L.O. Food 22:30",
+        "dtl_text": "17:00 - 00:00 L.O. Food 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "16:00 - 00:00 L.O. Food 22:30",
+        "dtl_text": "16:00 - 00:00 L.O. Food 22:30"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 364,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6bF0hoCRQTUR4NnZ9ZPtLtw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/40049259-55aa7284f51d3fff1382ccb82f6e1eb27dbecf0af533a63102755a1f83ae385e.jpg",
+    "place_id": "ChIJ6bF0hoCRQTUR4NnZ9ZPtLtw",
+    "g_name": "ヨルゴ",
+    "g_rating": 4.3,
+    "g_reviews": 364,
+    "g_address": "日本、〒810-0041 福岡県福岡市中央区大名１丁目２−１５",
+    "lat": 33.58566649999999,
+    "lng": 130.3939729
+  }
+]

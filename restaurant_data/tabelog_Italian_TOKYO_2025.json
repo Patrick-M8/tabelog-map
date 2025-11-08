@@ -1,0 +1,4588 @@
+[
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "クオーレアズーロ",
+    "name_en": "Cuore Azzurro",
+    "area": "東京都 中目黒駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13140792/",
+    "rating": 3.69,
+    "review_count_tabelog": 269,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian, Wine bar, Baru (Spanish style bar)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "18:00 - 22:00 L.O. 21:00",
+        "dtl_text": "18:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 23:00 L.O. 22:00",
+        "dtl_text": "18:00 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 112,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJe3lwN0qLGGARPULt-ZB70Tg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13140792-07e32973b468fc752473dc8d94e5fbce486864f9a2a4f2a687e81f4e25a4e1fe.jpg",
+    "place_id": "ChIJe3lwN0qLGGARPULt-ZB70Tg",
+    "g_name": "クオーレアズーロ",
+    "g_rating": 4.4,
+    "g_reviews": 112,
+    "g_address": "日本、〒153-0051 東京都目黒区上目黒２丁目４２−１２ 渋谷ビル 1F",
+    "lat": 35.6409532,
+    "lng": 139.6951578
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "FARO",
+    "name_en": "FARO",
+    "area": "東京都 新橋駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13002640/",
+    "rating": 3.75,
+    "review_count_tabelog": 240,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Italian, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "18:00 - 22:00 L.O. Food 19:30",
+        "dtl_text": "18:00 - 22:00 L.O. Food 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 15:00 L.O. Food 13:00 18:00 - 22:00 L.O. Food 19:30",
+        "dtl_text": "18:00 - 22:00 L.O. Food 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Starting July 1, 2025 (Tuesday), our dinner hours will be from 22:00 (Last Order at 19:30)."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 250,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJW9Qxj-iLGGARrLFLJoOzto4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13002640-b2402a0a9ecc362d7e65b657f6567043dabc402e637f24c5078b0419039e6231.jpg",
+    "place_id": "ChIJW9Qxj-iLGGARrLFLJoOzto4",
+    "g_name": "ファロ",
+    "g_rating": 4.5,
+    "g_reviews": 250,
+    "g_address": "日本、〒104-0061 東京都中央区銀座８丁目８−３ 資生堂銀座ビル 10 階",
+    "lat": 35.668557,
+    "lng": 139.7618936
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "リストランテ ラ チャウ",
+    "name_en": "Ristorante La ciau",
+    "area": "東京都 田町駅",
+    "url": "https://tabelog.com/tokyo/A1314/A131402/13044737/",
+    "rating": 3.72,
+    "review_count_tabelog": 992,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Italian, French, Wine bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri",
+        "dtl": "11:30 - 14:30 L.O. Food 13:30 Drinks 14:00 18:00 - 22:30 L.O. Food 20:00 Drinks 22:00",
+        "dtl_text": "18:00 - 22:30 L.O. Food 20:00 Drinks 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "11:30 - 14:30 L.O. Food 13:00 Drinks 14:00 18:00 - 22:30 L.O. Food 20:00 Drinks 22:00",
+        "dtl_text": "18:00 - 22:30 L.O. Food 20:00 Drinks 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every Tuesday and Wednesday starting from October 2023."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 399,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8dPupLSLGGARDYBhjvZzAJg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13044737-57fa73973c74e387836f1d69b76cd9336ce92986763c8171d90a4c55d020d9c4.jpg",
+    "place_id": "ChIJ8dPupLSLGGARDYBhjvZzAJg",
+    "g_name": "リストランテ ラ チャウ",
+    "g_rating": 4.5,
+    "g_reviews": 399,
+    "g_address": "日本、〒108-0023 東京都港区芝浦２丁目１６−７ 中野第三ビルB1",
+    "lat": 35.6444432,
+    "lng": 139.7520482
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "トラットリア ピッツェリア ラルテ",
+    "name_en": "Trattoria e Pizzeria L'ARTE",
+    "area": "東京都 三軒茶屋駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131706/13128533/",
+    "rating": 3.75,
+    "review_count_tabelog": 835,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Italian, Pizza, Pasta",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Sat, Sun & Public Holidays": {}
+      },
+      "closed_on": "Closed: 4th (Tue), 11th (Tue), 12th (Wed), 18th (Tue), 25th (Tue), 26th (Wed)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 494,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJg7-aO6L0GGARFpY0fXbogDg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13128533-1c3b90e75e1b078e13d3e33c69140e83b90c861e10e96d59ad918fcf0b10cba7.jpg",
+    "place_id": "ChIJg7-aO6L0GGARFpY0fXbogDg",
+    "g_name": "トラットリア エ ピッツェリア ラルテ",
+    "g_rating": 4.3,
+    "g_reviews": 494,
+    "g_address": "日本、〒154-0024 東京都世田谷区三軒茶屋１丁目３５−１７",
+    "lat": 35.6430393,
+    "lng": 139.672419
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "RAMA 白金",
+    "name_en": "RAMA Shirokane",
+    "area": "東京都 白金台駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131602/13239806/",
+    "rating": 3.65,
+    "review_count_tabelog": 216,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian, Bistro, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 00:00 L.O. 23:30",
+        "dtl_text": "17:00 - 00:00 L.O. 23:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.8,
+    "google_reviews": 143,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKafoOJeLGGARo28YF-1d2Q4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13239806-5d2eb0d47b69ca2d069c2c18ce06de7b519abf1bc59c3c2484438bbb464906b0.jpg",
+    "place_id": "ChIJKafoOJeLGGARo28YF-1d2Q4",
+    "g_name": "RAMA レイマ",
+    "g_rating": 4.8,
+    "g_reviews": 143,
+    "g_address": "日本、〒108-0072 東京都港区白金６丁目２１−１２ 大石ビル 1F",
+    "lat": 35.6440989,
+    "lng": 139.721831
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "トラットリア・築地パラディーゾ",
+    "name_en": "Trattoria Tsukiji Paradiso",
+    "area": "東京都 築地市場駅",
+    "url": "https://tabelog.com/tokyo/A1313/A131301/13132422/",
+    "rating": 3.69,
+    "review_count_tabelog": 1299,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Italian, Pasta, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri",
+        "dtl": "11:30 - 14:00 17:30 - 21:00",
+        "dtl_text": "17:30 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 14:30 17:00 - 20:00",
+        "dtl_text": "17:00 - 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Subject to change on public holidays."
+    },
+    "google_rating": 4.1,
+    "google_reviews": 805,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2cw0OtmLGGARQ5K4isA5zKE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13132422-ed65a9182723e8055b145733cfe86e337823ac029e77f9d9f66c296a3d1ca677.jpg",
+    "place_id": "ChIJ2cw0OtmLGGARQ5K4isA5zKE",
+    "g_name": "トラットリア 築地 パラディーゾ！",
+    "g_rating": 4.1,
+    "g_reviews": 805,
+    "g_address": "日本、〒104-0045 東京都中央区築地６丁目２７−３",
+    "lat": 35.6639851,
+    "lng": 139.7709781
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "ボッテガ",
+    "name_en": "BOTTEGA",
+    "area": "東京都 広尾駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130703/13204358/",
+    "rating": 3.84,
+    "review_count_tabelog": 471,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian, Pasta, Wine bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 01:00",
+        "dtl_text": "17:00 - 01:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 136,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJe-2kNW2LGGAR8-2OQls4HK8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13204358-7af5dad3f12d02ca7d68b69d4d3fd1e1cf93e799bd3be0848f8d6176c4d1798d.jpg",
+    "place_id": "ChIJe-2kNW2LGGAR8-2OQls4HK8",
+    "g_name": "BOTTEGA",
+    "g_rating": 4.3,
+    "g_reviews": 136,
+    "g_address": "日本、〒150-0012 東京都渋谷区広尾５丁目１７−８ アプリシエ広尾 B1F",
+    "lat": 35.6494334,
+    "lng": 139.7204224
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "ペレグリーノ",
+    "name_en": "PELLEGRINO",
+    "area": "東京都 広尾駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130302/13072775/",
+    "rating": 4.55,
+    "review_count_tabelog": 326,
+    "price_dinner": "￥100,000～",
+    "price_lunch": "￥100,000～",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 71,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJyU9ZMBOLGGARoWaZfVL5ad0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13072775-c0f9394b293ff378c06050ae12a6a83f08aa3fa49760d62d0fd1409a9d4c32b2.jpg",
+    "place_id": "ChIJyU9ZMBOLGGARoWaZfVL5ad0",
+    "g_name": "ペレグリーノ",
+    "g_rating": 4.6,
+    "g_reviews": 71,
+    "g_address": "日本、〒150-0013 東京都渋谷区恵比寿２丁目３−４",
+    "lat": 35.6480369,
+    "lng": 139.7185344
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "ラ・ビスボッチャ",
+    "name_en": "LA BISBOCCIA",
+    "area": "東京都 広尾駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130703/13001647/",
+    "rating": 3.71,
+    "review_count_tabelog": 1195,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian, Wine bar, Pasta",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:30 - 21:30",
+        "dtl_text": "17:30 - 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 740,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4TnB-g2LGGARaaNa5DwpNjg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13001647-62f8f79ef582c9ca48cc37d343ccc2c2628f689245c7e1a93549e9de756afcb3.jpg",
+    "place_id": "ChIJ4TnB-g2LGGARaaNa5DwpNjg",
+    "g_name": "LA BISBOCCIA",
+    "g_rating": 4.4,
+    "g_reviews": 740,
+    "g_address": "日本、〒150-0013 東京都渋谷区恵比寿２丁目３６−１３ 広尾MTRビル 1F",
+    "lat": 35.6459103,
+    "lng": 139.7224974
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "カーザ ヴィニタリア",
+    "name_en": "Casa Vinitalia",
+    "area": "東京都 麻布十番駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130702/13010456/",
+    "rating": 3.75,
+    "review_count_tabelog": 663,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian, Pasta, Wine bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "17:30 - 23:30 L.O. 22:00",
+        "dtl_text": "17:30 - 23:30 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "12:00 - 22:30 L.O. 20:30",
+        "dtl_text": "12:00 - 22:30 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every Monday, October 7 (Tuesday), 8 (Wednesday), 14 (Tuesday), 15 (Wednesday), 28 (Tuesday), and 29 (Wednesday)"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 198,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJz0ToAaSLGGARXmjGaPhv5AI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13010456-0fd912d8d574710d35713f18a7edf1a2acf4a9cb749aeb468208735c36d17c80.jpg",
+    "place_id": "ChIJz0ToAaSLGGARXmjGaPhv5AI",
+    "g_name": "カーザ ヴィニタリア",
+    "g_rating": 4.5,
+    "g_reviews": 198,
+    "g_address": "日本、〒106-0047 東京都港区南麻布１丁目７−３１",
+    "lat": 35.6512177,
+    "lng": 139.7370928
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "イル・テアトロ",
+    "name_en": "IL TEATRO",
+    "area": "東京都 早稲田（都電）駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13003823/",
+    "rating": 3.66,
+    "review_count_tabelog": 488,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Italian, Pasta, Wine bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "06:30 - 10:30 L.O. 10:30 12:00 - 14:30 L.O. 14:30 17:30 - 22:00 L.O. Food 20:00 Drinks 20:30",
+        "dtl_text": "17:30 - 22:00 L.O. Food 20:00 Drinks 20:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 225,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJV4qGEgSNGGARHSSPvriyON4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13003823-9876eefac812763a35e7dd5d294eecf571ef33f150fdc1268474121c8580c503.jpg",
+    "place_id": "ChIJV4qGEgSNGGARHSSPvriyON4",
+    "g_name": "イル・テアトロ／ホテル椿山荘東京",
+    "g_rating": 4.5,
+    "g_reviews": 225,
+    "g_address": "日本、〒112-8680 東京都文京区関口２丁目１０−８ ホテル椿山荘東京 ホテル3F",
+    "lat": 35.7129717,
+    "lng": 139.7254974
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "インフィニート ヒロ",
+    "name_en": "infinito HIRO",
+    "area": "東京都 赤坂駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130801/13253595/",
+    "rating": 3.7,
+    "review_count_tabelog": 187,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Fri, Sat",
+        "dtl": "12:00 - 14:00 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Dinner: Open for entry until 19:00."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 46,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDYlsS4GNGGARPXM3ev6_u94",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13253595-b45207e3966d68e8b04c34f176244c588ba89cc9e508e96bad12c0645f404c19.jpg",
+    "place_id": "ChIJDYlsS4GNGGARPXM3ev6_u94",
+    "g_name": "イタリアン infinito HIRO（インフィニート ヒロ）赤坂",
+    "g_rating": 4.5,
+    "g_reviews": 46,
+    "g_address": "日本、〒107-0052 東京都港区赤坂５丁目１−３８ 赤坂東商ビル 3階",
+    "lat": 35.6742424,
+    "lng": 139.7362931
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "ヴィンチェロ",
+    "name_en": "Vincero",
+    "area": "東京都 新宿御苑前駅",
+    "url": "https://tabelog.com/tokyo/A1304/A130402/13004299/",
+    "rating": 3.74,
+    "review_count_tabelog": 312,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 53,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJnUP57ueMGGARp_LxOiZ21k0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13004299-524f81f45bd8353fd06f6cdcb24729b460c609eb1eb469a1bcd7988338152265.jpg",
+    "place_id": "ChIJnUP57ueMGGARp_LxOiZ21k0",
+    "g_name": "オステリア ヴィンチェロ",
+    "g_rating": 4.2,
+    "g_reviews": 53,
+    "g_address": "日本、〒160-0022 東京都新宿区新宿５丁目１−１３ 丁目 1 階",
+    "lat": 35.6928584,
+    "lng": 139.7123897
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "マンサルヴァ",
+    "name_en": "MANSALVA",
+    "area": "東京都 恵比寿駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130302/13114704/",
+    "rating": 3.73,
+    "review_count_tabelog": 526,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Italian, European, Pasta",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri",
+        "dtl": "18:00 - 23:00 L.O. 20:30",
+        "dtl_text": "18:00 - 23:00 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "12:00 - 15:00 18:00 - 23:00 L.O. 20:30",
+        "dtl_text": "18:00 - 23:00 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "《Lunch》*Reservation required"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 185,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJw97h5hSLGGAROhRt1oORIH8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13114704-4739e0416482708c4341981051c4cb9582a7bccae656eecaeefbbebb2680724d.jpg",
+    "place_id": "ChIJw97h5hSLGGAROhRt1oORIH8",
+    "g_name": "MANSALVA",
+    "g_rating": 4.6,
+    "g_reviews": 185,
+    "g_address": "日本、〒150-0013 東京都渋谷区恵比寿４丁目２３−７ 恵比寿 Leben 2F",
+    "lat": 35.6447583,
+    "lng": 139.7157223
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "オッジ ダルマット 西麻布店",
+    "name_en": "OGGI DAL - MATTO Nishiazabu",
+    "area": "東京都 六本木駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13057753/",
+    "rating": 3.69,
+    "review_count_tabelog": 832,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Italian, Pasta, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 15:20 L.O. 13:30 17:30 - 22:00",
+        "dtl_text": "17:30 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 15:20 17:30 - 22:00",
+        "dtl_text": "17:30 - 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Sat, Sun & Public Holidays": {}
+      },
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 146,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJpelCw-SLGGAR4so-7UMROeQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13057753-3e11408712efb94376feda92040b96bf44403c306ba943f801524cab29b38fe5.jpg",
+    "place_id": "ChIJpelCw-SLGGAR4so-7UMROeQ",
+    "g_name": "OGGI DAL-MATTO 西麻布店",
+    "g_rating": 4.4,
+    "g_reviews": 146,
+    "g_address": "日本、〒106-0031 東京都港区西麻布１丁目１０−８ 第2大晃ビル １F",
+    "lat": 35.6608574,
+    "lng": 139.7242393
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "フィオッキ",
+    "name_en": "Fiocchi",
+    "area": "東京都 祖師ケ谷大蔵駅",
+    "url": "https://tabelog.com/tokyo/A1318/A131814/13003427/",
+    "rating": 3.98,
+    "review_count_tabelog": 372,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 133,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJD6SoBWHxGGARTFjrzh_mNUQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13003427-2e5b9618366091e48c44123c1ccfa2dc880e112a729765bd4ffd3390931d372a.jpg",
+    "place_id": "ChIJD6SoBWHxGGARTFjrzh_mNUQ",
+    "g_name": "フィオッキ祖師谷大蔵",
+    "g_rating": 4.5,
+    "g_reviews": 133,
+    "g_address": "日本、〒157-0072 東京都世田谷区祖師谷３丁目４−９",
+    "lat": 35.6429789,
+    "lng": 139.6065174
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "unito",
+    "name_en": "unito",
+    "area": "東京都 中目黒駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13020531/",
+    "rating": 3.71,
+    "review_count_tabelog": 678,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Italian, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 15:00 L.O. Food 13:00 18:00 - 22:30 L.O. Food 20:00",
+        "dtl_text": "18:00 - 22:30 L.O. Food 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.8,
+    "google_reviews": 22,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJi9dhcwCLGGAR-fentuLuofk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13020531-ff0911134cff6e9d612e5c543ef777dbfb870a30d547764e703bc7dd829e35da.jpg",
+    "place_id": "ChIJi9dhcwCLGGAR-fentuLuofk",
+    "g_name": "UNITO",
+    "g_rating": 4.8,
+    "g_reviews": 22,
+    "g_address": "日本、〒153-0042 東京都目黒区青葉台１丁目２３−３ 青葉台東和ビル 2Ｆ",
+    "lat": 35.6466204,
+    "lng": 139.6969009
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "リストランテ ペガソ",
+    "name_en": "PEGASO",
+    "area": "東京都 広尾駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130703/13152248/",
+    "rating": 3.74,
+    "review_count_tabelog": 384,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 15:00 18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 114,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJxT9AjmWLGGAR6kj2ShHY9Bg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13152248-f647a855e772c89680d5788554e3ec4bac6d171b26b9e33697cd04ec351cf17b.jpg",
+    "place_id": "ChIJxT9AjmWLGGAR6kj2ShHY9Bg",
+    "g_name": "RISTORANTE PEG+ASO(リストランテ ペガソ)",
+    "g_rating": 4.1,
+    "g_reviews": 114,
+    "g_address": "日本、〒107-0062 東京都港区南青山７丁目１２−１２ ムジカーサ南青山",
+    "lat": 35.6577333,
+    "lng": 139.7184303
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "ラ・ピッコラ・ターヴォラ",
+    "name_en": "La Piccola Tavola",
+    "area": "東京都 永福町駅",
+    "url": "https://tabelog.com/tokyo/A1318/A131805/13005575/",
+    "rating": 3.74,
+    "review_count_tabelog": 1372,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Italian, Pizza, Pasta",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 14:30 L.O. 14:00 18:00 - 22:00 L.O. 21:30",
+        "dtl_text": "18:00 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 15:00 L.O. 14:30 17:30 - 22:00 L.O. 21:30",
+        "dtl_text": "17:30 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (substitute holidays may apply on public holidays)"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 868,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ48ZTx1PyGGARluA5cROV-co",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13005575-1900793bf3f180c9c2e4d46e233a81db959a6d30dc277baaff918aff562524c4.jpg",
+    "place_id": "ChIJ48ZTx1PyGGARluA5cROV-co",
+    "g_name": "ラ・ピッコラ・ターヴォラ",
+    "g_rating": 4.4,
+    "g_reviews": 868,
+    "g_address": "日本、〒168-0064 東京都杉並区永福４丁目２−４",
+    "lat": 35.6769041,
+    "lng": 139.6435583
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "WAJO",
+    "name_en": "WAJO",
+    "area": "東京都 代官山駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130303/13254957/",
+    "rating": 3.87,
+    "review_count_tabelog": 182,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays and Mondays"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 36,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJd345966LGGARPQP5CtZ9F9w",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13254957-ca70a8a0f3b405429f47bd6dda45f7f18c84de4b49d08467cff2e73f5124d5a6.jpg",
+    "place_id": "ChIJd345966LGGARPQP5CtZ9F9w",
+    "g_name": "WAJO",
+    "g_rating": 4.6,
+    "g_reviews": 36,
+    "g_address": "日本、〒150-0034 東京都渋谷区代官山町１８−６ 代官山ビル B1F ACN",
+    "lat": 35.6493397,
+    "lng": 139.7043975
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "IL TEATRINO DA SALONE",
+    "name_en": "Il Teatorino da Salone",
+    "area": "東京都 広尾駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130703/13110652/",
+    "rating": 3.81,
+    "review_count_tabelog": 783,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Italian, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 15:00 L.O. Food 13:00 Drinks 14:30 18:00 - 22:00 L.O. Food 19:30 Drinks 21:30",
+        "dtl_text": "18:00 - 22:00 L.O. Food 19:30 Drinks 21:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 155,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJr4prmmWLGGAR_J9lW9kyd_o",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13110652-37db91cbb9e41fb2805b120c407329b94b07525077a7ac6c88b0ee9180ee2b08.jpg",
+    "place_id": "ChIJr4prmmWLGGAR_J9lW9kyd_o",
+    "g_name": "イル・テアトリーノ・ダ・サローネ【イタリアン】",
+    "g_rating": 4.5,
+    "g_reviews": 155,
+    "g_address": "日本、〒107-0062 東京都港区南青山７丁目１１−５ HOUSE7115 B1F",
+    "lat": 35.658621,
+    "lng": 139.7186637
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "マジカメンテ",
+    "name_en": "MAGICAMENTE",
+    "area": "東京都 恵比寿駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130302/13121950/",
+    "rating": 3.68,
+    "review_count_tabelog": 273,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian, Pasta",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 108,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ183CfhGLGGARlponaJK_qzE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13121950-27727e9eb852fa8c61d354dc56d62f83b043a2b80f7af49c81ef37d088adac2e.jpg",
+    "place_id": "ChIJ183CfhGLGGARlponaJK_qzE",
+    "g_name": "マジカメンテ (MAGICAMENTE)",
+    "g_rating": 4.4,
+    "g_reviews": 108,
+    "g_address": "日本、〒150-0013 東京都渋谷区恵比寿３丁目４１−９ 恵比寿台ハイツ １F",
+    "lat": 35.643906,
+    "lng": 139.719083
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "シチリア屋",
+    "name_en": "Sicilia Ya",
+    "area": "東京都 東大前駅",
+    "url": "https://tabelog.com/tokyo/A1323/A132301/13172747/",
+    "rating": 3.68,
+    "review_count_tabelog": 303,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Fri",
+        "dtl": "18:00 - 22:30 L.O. 21:30",
+        "dtl_text": "18:00 - 22:30 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "12:00 - 14:30 L.O. 13:00 17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 176,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKd5BYjWMGGARvicC_mM58q0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13172747-aea72268bd33c521977003ba18044112aad93eee636365d0e8657d85a447f800.jpg",
+    "place_id": "ChIJKd5BYjWMGGARvicC_mM58q0",
+    "g_name": "シチリア屋",
+    "g_rating": 4.1,
+    "g_reviews": 176,
+    "g_address": "日本、〒113-0001 東京都文京区白山１丁目５−５ ＭＣ白山ビル １F",
+    "lat": 35.7157733,
+    "lng": 139.7524447
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "プリンチピオ",
+    "name_en": "Principio",
+    "area": "東京都 麻布十番駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130702/13144481/",
+    "rating": 3.7,
+    "review_count_tabelog": 268,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian, Steak, Wine bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Public Holiday",
+        "dtl": "18:00 - 23:00 L.O. Food 20:30 Drinks 22:30",
+        "dtl_text": "18:00 - 23:00 L.O. Food 20:30 Drinks 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Fri, Sat, Sun",
+        "dtl": "18:30 - 23:00 L.O. Food 20:30 Drinks 22:30",
+        "dtl_text": "18:30 - 23:00 L.O. Food 20:30 Drinks 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "18:30 - 23:00",
+        "dtl_text": "18:30 - 23:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "We take a break 1 to 2 times a week. For details on our monthly closures, please check our Instagram or Facebook."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 102,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJLWwrcZ-LGGARhK4iBOp8WWQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13144481-5cbc517ff175b0f983528b31ef38fb5adf9c4ee2c7c9526c6a3c0ebb864ce745.jpg",
+    "place_id": "ChIJLWwrcZ-LGGARhK4iBOp8WWQ",
+    "g_name": "プリンチピオ",
+    "g_rating": 4.4,
+    "g_reviews": 102,
+    "g_address": "日本、〒106-0045 東京都港区麻布十番２丁目４−８ 麻布 十番館 ２ 階",
+    "lat": 35.6557455,
+    "lng": 139.7348429
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "リナシメント",
+    "name_en": "RINASCIMENTO",
+    "area": "東京都 目黒駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13201061/",
+    "rating": 3.68,
+    "review_count_tabelog": 693,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Italian, Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "18:00 - 22:30 L.O. Food 20:00 Drinks 22:00",
+        "dtl_text": "18:00 - 22:30 L.O. Food 20:00 Drinks 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 15:00 L.O. Food 13:00 Drinks 14:30 18:00 - 22:30 L.O. Food 20:00 Drinks 22:00",
+        "dtl_text": "18:00 - 22:30 L.O. Food 20:00 Drinks 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Lunch service on Mondays"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 201,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKcql8SGLGGARKwaXcW8mMa8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13201061-d26cae0ed91b7e352cda441047608d88aa2278e5774d6dd3dcad536a73a0c8fe.jpg",
+    "place_id": "ChIJKcql8SGLGGARKwaXcW8mMa8",
+    "g_name": "リナシメント",
+    "g_rating": 4.5,
+    "g_reviews": 201,
+    "g_address": "日本、〒153-0064 東京都目黒区下目黒２丁目２３−２ エストラルゴ目黒 1F",
+    "lat": 35.6311766,
+    "lng": 139.7107184
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "リストランティーノ ルベロ",
+    "name_en": "Ristorantino Rubero",
+    "area": "東京都 目黒駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131601/13045711/",
+    "rating": 3.74,
+    "review_count_tabelog": 903,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "12:00 - 15:00 18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "12:00 - 15:00 18:00 - 22:30",
+        "dtl_text": "18:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Lunch": {},
+        "Dinner": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 195,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ02TgYRyLGGAR5W7LzP5kVTs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13045711-ac02f39f346a249aa1065b971fcc1e8523103783be465a087c347ed8eecc2288.jpg",
+    "place_id": "ChIJ02TgYRyLGGAR5W7LzP5kVTs",
+    "g_name": "リストランティーノ・ルベロ",
+    "g_rating": 4.3,
+    "g_reviews": 195,
+    "g_address": "日本、〒141-0021 東京都品川区上大崎３丁目５−１８",
+    "lat": 35.6340997,
+    "lng": 139.7191628
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "リストランテ シンティッラ",
+    "name_en": "ristorante scintilla",
+    "area": "東京都 中目黒駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13240309/",
+    "rating": 3.71,
+    "review_count_tabelog": 279,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Italian, Wine bar, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "17:30 - 23:00",
+        "dtl_text": "17:30 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:30 - 15:00 17:30 - 23:00",
+        "dtl_text": "17:30 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Public Holiday",
+        "dtl": "11:30 - 15:00",
+        "dtl_text": "11:30 - 15:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Tue - Sat": {},
+        "Sat & Public Holidays": {}
+      },
+      "closed_on": "Mondays and Tuesdays only in January, February, and August."
+    },
+    "google_rating": 4.8,
+    "google_reviews": 72,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVfsBKUqLGGAREBFCsJyfKBs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13240309-c0281f743352a4f51433069f799821551998ac43cf92b40d1d8e4e39ebee6345.jpg",
+    "place_id": "ChIJVfsBKUqLGGAREBFCsJyfKBs",
+    "g_name": "リストランテ シンティッラ",
+    "g_rating": 4.8,
+    "g_reviews": 72,
+    "g_address": "日本、〒153-0051 東京都目黒区上目黒２丁目４４−９ クレストモア B1F",
+    "lat": 35.6413708,
+    "lng": 139.6960633
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "インカント",
+    "name_en": "incanto",
+    "area": "東京都 広尾駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130703/13043684/",
+    "rating": 3.77,
+    "review_count_tabelog": 363,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian, Wine bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:30 - 01:00",
+        "dtl_text": "17:30 - 01:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Public Holiday",
+        "dtl": "17:30 - 23:00",
+        "dtl_text": "17:30 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon - Fri": {},
+        "Sat & Public Holidays": {}
+      },
+      "closed_on": "Not fixed (some Mondays)"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 103,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVbSjSgyLGGARIlh4gLjer_0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13043684-a0e37d05da11d97e87fa3e55cbcd88a42a115558b6b67c58b41797ac09e6f27e.jpg",
+    "place_id": "ChIJVbSjSgyLGGARIlh4gLjer_0",
+    "g_name": "incanto",
+    "g_rating": 4.6,
+    "g_reviews": 103,
+    "g_address": "日本、〒106-0047 東京都港区南麻布４丁目１２−２",
+    "lat": 35.6473348,
+    "lng": 139.7239393
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "ドンブラボー",
+    "name_en": "Don Bravo",
+    "area": "東京都 国領駅",
+    "url": "https://tabelog.com/tokyo/A1326/A132601/13144681/",
+    "rating": 4.06,
+    "review_count_tabelog": 674,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Italian, Pizza",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri",
+        "dtl": "12:00 - 15:00 L.O. 14:00 19:00 - 23:00 L.O. 22:00",
+        "dtl_text": "19:00 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "12:00 - 15:00 L.O. 14:00 18:00 - 23:00 L.O. 22:00",
+        "dtl_text": "18:00 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Dinner courses begin simultaneously on weekdays at 19:00 and on weekends and public holidays at 18:00. We kindly ask for your cooperation in arriving on time."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 330,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJvQ_hGVDwGGARBx4X-FL2Wb0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13144681-3495fa887c52cd05acf368616b976fa014a2c5560a655423a983b837af66be42.jpg",
+    "place_id": "ChIJvQ_hGVDwGGARBx4X-FL2Wb0",
+    "g_name": "DonBravo",
+    "g_rating": 4.2,
+    "g_reviews": 330,
+    "g_address": "日本、〒182-0022 東京都調布市国領町３丁目６−４３",
+    "lat": 35.6482424,
+    "lng": 139.5595919
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "DK",
+    "name_en": "DK",
+    "area": "東京都 外苑前駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130603/13278055/",
+    "rating": 3.92,
+    "review_count_tabelog": 73,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays and Mondays"
+    },
+    "google_rating": 3.9,
+    "google_reviews": 8,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ6jgIHeLGGAR9w0Dko05MOs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13278055-f413561eae25cb120d9f935e7c53455db5cff82443f00ba3ec6156bbd65ea295.jpg",
+    "place_id": "ChIJJ6jgIHeLGGAR9w0Dko05MOs",
+    "g_name": "DK",
+    "g_rating": 3.9,
+    "g_reviews": 8,
+    "g_address": "日本、〒107-0062 東京都港区南青山４丁目３−２３ Ｏｒｉｅｎｔａｌ南青山 102",
+    "lat": 35.6660861,
+    "lng": 139.720175
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "プリズマ",
+    "name_en": "PRISMA",
+    "area": "東京都 表参道駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130602/13123890/",
+    "rating": 4.27,
+    "review_count_tabelog": 213,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "18:30 - 21:00",
+        "dtl_text": "18:30 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.8,
+    "google_reviews": 66,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJD7UDAmSLGGAR4jsmxNMCJjs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13123890-4fd7259d06920263a985dfbc1d6da2aab81a7beccdca18b48b87a873444e2acf.jpg",
+    "place_id": "ChIJD7UDAmSLGGAR4jsmxNMCJjs",
+    "g_name": "Prisma",
+    "g_rating": 4.8,
+    "g_reviews": 66,
+    "g_address": "日本、〒107-0062 東京都港区南青山６丁目４−６",
+    "lat": 35.6616169,
+    "lng": 139.7166365
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "リストランテ・ホンダ",
+    "name_en": "RISTORANTE HONDA",
+    "area": "東京都 外苑前駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130603/13016590/",
+    "rating": 3.74,
+    "review_count_tabelog": 510,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 15:30 L.O. 13:30 18:00 - 23:00 L.O. 21:00",
+        "dtl_text": "18:00 - 23:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 209,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJW1qyVr2MGGAR5R7JFPKf8CI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13016590-b8aa01dae9828b42fa72db84ce73d12dc6a19c9147c89dfc4b250fb58e2c2e04.jpg",
+    "place_id": "ChIJW1qyVr2MGGAR5R7JFPKf8CI",
+    "g_name": "リストランテ ホンダ (RISTORANTE HONDA)",
+    "g_rating": 4.4,
+    "g_reviews": 209,
+    "g_address": "日本、〒107-0061 東京都港区北青山２丁目１２−３５ 小島ビル １F",
+    "lat": 35.67027,
+    "lng": 139.7144913
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "オステリア セルヴァジーナ",
+    "name_en": "OSTERIA SELVAGGINA",
+    "area": "東京都 駒込駅",
+    "url": "https://tabelog.com/tokyo/A1323/A132301/13135740/",
+    "rating": 3.79,
+    "review_count_tabelog": 245,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "12:00 - 15:00 18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Thursday - Sunday": {}
+      },
+      "closed_on": "Production and shipping every Friday"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 112,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJf3IzuZaNGGAR9PhcrmEZwgo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13135740-3ff7f4883783fa215e2df3b29a51dffce57de5271c930c533e4d0471fd5e5a94.jpg",
+    "place_id": "ChIJf3IzuZaNGGAR9PhcrmEZwgo",
+    "g_name": "オステリアセルヴァジーナ|OSTERIA SELVAGGINA",
+    "g_rating": 4.3,
+    "g_reviews": 112,
+    "g_address": "日本、〒170-0003 東京都豊島区駒込３丁目２−７ リトル駒込 1階",
+    "lat": 35.736801,
+    "lng": 139.746175
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "luogo",
+    "name_en": "luogo",
+    "area": "東京都 自由が丘駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131703/13279663/",
+    "rating": 4.09,
+    "review_count_tabelog": 155,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Italian, Restaurants, Pasta",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri",
+        "dtl": "18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "12:00 - 14:30 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.8,
+    "google_reviews": 26,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmcg8g0T1GGARv6RI2AxzAio",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13279663-dbccf059550a5325d8340fa7f55411869762fbeafe4902e016f6fb88c34ee6fb.jpg",
+    "place_id": "ChIJmcg8g0T1GGARv6RI2AxzAio",
+    "g_name": "luogo",
+    "g_rating": 4.8,
+    "g_reviews": 26,
+    "g_address": "日本、〒152-0035 東京都目黒区自由が丘１丁目２３−２ DEARE自由ヶ丘 1F",
+    "lat": 35.6114379,
+    "lng": 139.6698725
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "TATSUMI",
+    "name_en": "TATSUMI",
+    "area": "東京都 白金台駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131602/13266170/",
+    "rating": 3.82,
+    "review_count_tabelog": 126,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian, Pasta, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 3.8,
+    "google_reviews": 28,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJF3T82bmLGGARl6_arS4fWzg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13266170-74d26d6414d8a29ba1b18324f491e8db51f8d9ed04fbc22b7dec3641edfe8894.jpg",
+    "place_id": "ChIJF3T82bmLGGARl6_arS4fWzg",
+    "g_name": "イタリアン TATSUMI（タツミ）白金台",
+    "g_rating": 3.8,
+    "g_reviews": 28,
+    "g_address": "日本、〒108-0072 東京都港区白金６丁目１６−４１ ゼクス白金 2F",
+    "lat": 35.6437985,
+    "lng": 139.7229034
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "PRIMO PASSO",
+    "name_en": "PRIMO PASSO",
+    "area": "東京都 新富町駅",
+    "url": "https://tabelog.com/tokyo/A1313/A131301/13280320/",
+    "rating": 4.1,
+    "review_count_tabelog": 204,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian, Creative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 23:30",
+        "dtl_text": "17:00 - 23:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 41,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2SbS7YuLGGAR5cWQy8HeHk4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13280320-8f4c20ca640b16c60d2c52329245da6edb0bee359fe66093ce2c9531f4a0a6c3.jpg",
+    "place_id": "ChIJ2SbS7YuLGGAR5cWQy8HeHk4",
+    "g_name": "プリモ パッソ",
+    "g_rating": 4.6,
+    "g_reviews": 41,
+    "g_address": "日本、〒104-0045 東京都中央区築地１丁目５−１１ Acn築地ビル B1F",
+    "lat": 35.6702443,
+    "lng": 139.7716951
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "SALONE TOKYO",
+    "name_en": "SALONE TOKYO",
+    "area": "東京都 日比谷駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130102/13218266/",
+    "rating": 3.76,
+    "review_count_tabelog": 1077,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Italian, Pasta, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 15:00 L.O. 13:00 18:00 - 22:00 L.O. 19:30",
+        "dtl_text": "18:00 - 22:00 L.O. 19:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "December 31 - January 6"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 222,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJq_OOJO6LGGAR0fbaEf8NyU4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13218266-f6d3c3401b7976a0582dc1e3bf3a4efd411dd4010dab590cea38ee8d26abb99e.jpg",
+    "place_id": "ChIJq_OOJO6LGGAR0fbaEf8NyU4",
+    "g_name": "SALONE TOKYO（サローネトウキョウ）",
+    "g_rating": 4.3,
+    "g_reviews": 222,
+    "g_address": "日本、〒100-0006 東京都千代田区有楽町１丁目１−２ 東京ミッドタウン日比谷 3F 316",
+    "lat": 35.6739622,
+    "lng": 139.7596299
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "グッチオステリアダマッシモボットゥーラ トウキョウ",
+    "name_en": "Gucci Osteria da Massimo Bottura Tokyo",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13257180/",
+    "rating": 3.72,
+    "review_count_tabelog": 369,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 L.O. Food 14:00 Drinks 14:30 17:00 - 23:00 L.O. Food 22:00 Drinks 22:30",
+        "dtl_text": "17:00 - 23:00 L.O. Food 22:00 Drinks 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 227,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGZmQVXyLGGARIr01OW-8CGg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13257180-5a6c3858f5fa150ddfc26aa74a4f2887f1626bbb45594ad25cce455e16eee425.jpg",
+    "place_id": "ChIJGZmQVXyLGGARIr01OW-8CGg",
+    "g_name": "Gucci - グッチ オステリア ダ マッシモ ボットゥーラ トウキョウ",
+    "g_rating": 4,
+    "g_reviews": 227,
+    "g_address": "日本、〒104-0061 東京都中央区銀座６丁目６−１２",
+    "lat": 35.6704668,
+    "lng": 139.7620975
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "Convivio",
+    "name_en": "Convivio",
+    "area": "東京都 北参道駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130901/13149817/",
+    "rating": 3.74,
+    "review_count_tabelog": 423,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Italian, Wine bar, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 14:30 L.O. Food 12:30 Drinks 14:00 18:00 - 22:00 L.O. Food 19:00 Drinks 21:30",
+        "dtl_text": "18:00 - 22:00 L.O. Food 19:00 Drinks 21:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Year-end & New Year Holidays, and other irregular days."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 141,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJB1ZQ86a7JhURpb6TfiSk_vM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13149817-3ae227a500346dc63c3ff64970afb7bf6c1e8c080fe02f7c203730bf0c3bf8ad.jpg",
+    "place_id": "ChIJB1ZQ86a7JhURpb6TfiSk_vM",
+    "g_name": "コンヴィヴィオ(Convivio)",
+    "g_rating": 4.5,
+    "g_reviews": 141,
+    "g_address": "日本、〒151-0051 東京都渋谷区千駄ケ谷３丁目１７−１２ カミムラビル 1F",
+    "lat": 35.6759166,
+    "lng": 139.7080277
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "Regalo",
+    "name_en": "Regalo",
+    "area": "東京都 参宮橋駅",
+    "url": "https://tabelog.com/tokyo/A1318/A131810/13057629/",
+    "rating": 3.91,
+    "review_count_tabelog": 443,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Italian, Pasta",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri",
+        "dtl": "17:30 - 20:30 L.O. 20:30",
+        "dtl_text": "17:30 - 20:30 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "12:00 - 15:30 L.O. 12:30 17:30 - 23:30 L.O. 20:30",
+        "dtl_text": "17:30 - 23:30 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "12:30 - 15:30 17:30 - 21:00",
+        "dtl_text": "17:30 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Public Holiday",
+        "dtl": "12:30 - 15:30 L.O. 12:30 17:30 - 21:00 L.O. 17:30",
+        "dtl_text": "17:30 - 21:00 L.O. 17:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon, Tue, Fri": {},
+        "Sat, Sun": {}
+      },
+      "closed_on": "Wednesdays and Thursdays"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 308,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJNy3hEsuMGGARSQMvAtwVAzI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13057629-483fb48914db9999a5caf29cce6079765db1ed80b97de836c10f7715d424af92.jpg",
+    "place_id": "ChIJNy3hEsuMGGARSQMvAtwVAzI",
+    "g_name": "Regalo",
+    "g_rating": 4.5,
+    "g_reviews": 308,
+    "g_address": "日本、〒151-0053 東京都渋谷区代々木４丁目６−２ B1F",
+    "lat": 35.6783371,
+    "lng": 139.6928569
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "ピアット・スズキ",
+    "name_en": "Piatto Suzuki",
+    "area": "東京都 麻布十番駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130702/13004441/",
+    "rating": 3.69,
+    "review_count_tabelog": 287,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "18:00 - 00:00 L.O. 22:00",
+        "dtl_text": "18:00 - 00:00 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 171,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6ea6DJ-LGGARQf1JmUpJs_A",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13004441-36fd60e0698bc049dcf42f302677ed9c98becbdc540108c691aeebc62ea5456f.jpg",
+    "place_id": "ChIJ6ea6DJ-LGGARQf1JmUpJs_A",
+    "g_name": "ピアット スズキ",
+    "g_rating": 4.5,
+    "g_reviews": 171,
+    "g_address": "日本、〒106-0045 東京都港区麻布十番１丁目７−７ はせべやビル 4F",
+    "lat": 35.6563095,
+    "lng": 139.7349119
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "ポンテ デル ピアット",
+    "name_en": "PONTE DEL PIATTO",
+    "area": "東京都 広尾駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130703/13166111/",
+    "rating": 3.73,
+    "review_count_tabelog": 408,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Italian, Innovative, Pasta",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri",
+        "dtl": "12:00 - 14:30 L.O. Food 12:30 18:00 - 22:00 L.O. Food 19:30",
+        "dtl_text": "18:00 - 22:00 L.O. Food 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 14:30 L.O. Food 12:30 18:00 - 22:00 L.O. Food 19:30",
+        "dtl_text": "18:00 - 22:00 L.O. Food 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 104,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ89mJzBKLGGAR6tcxlMCk3JM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13166111-97904d9a7016c43e17b7e7ec8e441c01c63f6bbd3e39dce8db8a150bf30fad84.jpg",
+    "place_id": "ChIJ89mJzBKLGGAR6tcxlMCk3JM",
+    "g_name": "PONTE DEL PIATTO (ポンテ デル ピアット)",
+    "g_rating": 4.5,
+    "g_reviews": 104,
+    "g_address": "日本、〒150-0012 東京都渋谷区広尾５丁目１９−７ 協和ビル 1F",
+    "lat": 35.6490593,
+    "lng": 139.7202865
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "La Brianza",
+    "name_en": "La Brianza",
+    "area": "東京都 六本木駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13194346/",
+    "rating": 3.76,
+    "review_count_tabelog": 2180,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Italian, Pasta, Meat dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 15:30 L.O. Food 14:00 Drinks 14:30 17:30 - 23:00 L.O. Food 21:00 Drinks 22:00",
+        "dtl_text": "17:30 - 23:00 L.O. Food 21:00 Drinks 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 16:00 L.O. Food 14:00 Drinks 14:30 18:00 - 23:00 L.O. Food 21:00 Drinks 22:00",
+        "dtl_text": "18:00 - 23:00 L.O. Food 21:00 Drinks 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 499,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ60ecVp-LGGARNJc4f-c01zM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13194346-b3fa140e2f4088aa9e997fe62152556f40c7afa57c06245af6affc3e1642b18f.jpg",
+    "place_id": "ChIJ60ecVp-LGGARNJc4f-c01zM",
+    "g_name": "La Brianza 六本木ヒルズ",
+    "g_rating": 4.2,
+    "g_reviews": 499,
+    "g_address": "日本、〒106-0032 東京都港区六本木６丁目１２−３ ヒルズレジデンスC棟 3階",
+    "lat": 35.6588417,
+    "lng": 139.7300086
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "代官山ASO チェレステ 日本橋店",
+    "name_en": "Daikanyama ASO Celeste Nihonbashi Ten",
+    "area": "東京都 三越前駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130202/13021095/",
+    "rating": 3.68,
+    "review_count_tabelog": 700,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Italian, Pasta, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Day before public holiday, Day after public holiday",
+        "dtl": "11:00 - 16:00 L.O. Food 14:30 17:30 - 22:00 L.O. Food 20:00",
+        "dtl_text": "17:30 - 22:00 L.O. Food 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 16:30 L.O. Food 15:30 17:30 - 22:00 L.O. Food 20:00",
+        "dtl_text": "17:30 - 22:00 L.O. Food 20:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "If you wish to enter after these times, please contact us by phone."
+    },
+    "google_rating": 4.1,
+    "google_reviews": 204,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6XSY51WJGGARYJQWQaSF7U0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13021095-fe3d4e7c35559d6a4d34d3328c8ece5259d687f504e9a9ed4e3dcbff2c0b2a7f.jpg",
+    "place_id": "ChIJ6XSY51WJGGARYJQWQaSF7U0",
+    "g_name": "代官山ASO チェレステ 日本橋店",
+    "g_rating": 4.1,
+    "g_reviews": 204,
+    "g_address": "日本、〒103-0022 東京都中央区日本橋室町１丁目４−１ 日本橋三越本店新館 10F",
+    "lat": 35.6850621,
+    "lng": 139.774131
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "リストランテ ラ・バリック トウキョウ",
+    "name_en": "La Barrique Tokyo",
+    "area": "東京都 江戸川橋駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13044652/",
+    "rating": 3.73,
+    "review_count_tabelog": 577,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 15:00 L.O. Food 12:30 18:00 - 23:00 L.O. Food 21:30",
+        "dtl_text": "18:00 - 23:00 L.O. Food 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 147,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-3Sz1lSMGGARpK23F0wcMRg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13044652-cc4e74e60b152980f56bf59065162647df5055dada083403d2199f9c8ed98d2c.jpg",
+    "place_id": "ChIJ-3Sz1lSMGGARpK23F0wcMRg",
+    "g_name": "リストランテ ラ バリック トウキョウ",
+    "g_rating": 4.5,
+    "g_reviews": 147,
+    "g_address": "日本、〒112-0005 東京都文京区水道２丁目１２−２",
+    "lat": 35.7097999,
+    "lng": 139.7348335
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "セルサルサーレ",
+    "name_en": "sel sal sale",
+    "area": "東京都 代官山駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130302/13166739/",
+    "rating": 3.74,
+    "review_count_tabelog": 756,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Italian, Creative, Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "11:30 - 14:45 L.O. Food 13:15 Drinks 14:00 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 235,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJBVecvKX0GGARyawdqI77uIE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13166739-0828146c2ad5d1097334328020748eb76d781219bec5692745c2048f1506a147.jpg",
+    "place_id": "ChIJBVecvKX0GGARyawdqI77uIE",
+    "g_name": "セルサルサーレ",
+    "g_rating": 4.5,
+    "g_reviews": 235,
+    "g_address": "日本、〒150-0021 東京都渋谷区恵比寿西１丁目１６−７",
+    "lat": 35.6486769,
+    "lng": 139.7070732
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "ロマンティコ",
+    "name_en": "Romantico",
+    "area": "東京都 白金台駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131602/13021521/",
+    "rating": 3.76,
+    "review_count_tabelog": 281,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 55,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8TB22QSLGGARQ4fC_g5XKa8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13021521-8e2e93c238d835963c5fb9eb988c0fb0c5bd10bdc00ca3c19cb6f14f87d42b2e.jpg",
+    "place_id": "ChIJ8TB22QSLGGARQ4fC_g5XKa8",
+    "g_name": "ロマンティコ",
+    "g_rating": 4.4,
+    "g_reviews": 55,
+    "g_address": "日本、〒108-0071 東京都港区白金台５丁目１４−８ 白金台Tiny ２F",
+    "lat": 35.638438,
+    "lng": 139.7226044
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "tens.",
+    "name_en": "tens.",
+    "area": "東京都 外苑前駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130603/13301005/",
+    "rating": 4.19,
+    "review_count_tabelog": 108,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:00 - 02:00",
+        "dtl_text": "17:00 - 02:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 17,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ32ttaQCNGGAReSauQo3psQs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13301005-1835b782f1bff45098597a731317935de9bfd642b6de500f91fec7fbd85294c3.jpg",
+    "place_id": "ChIJ32ttaQCNGGAReSauQo3psQs",
+    "g_name": "tens.",
+    "g_rating": 4.4,
+    "g_reviews": 17,
+    "g_address": "日本、〒107-0062 東京都港区南青山２丁目２７−２８ グラン青山ビル B1F",
+    "lat": 35.6697281,
+    "lng": 139.7168511
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "K+",
+    "name_en": "K+",
+    "area": "東京都 広尾駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130703/13213748/",
+    "rating": 3.86,
+    "review_count_tabelog": 639,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian, Wine bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 02:00 L.O. 01:00",
+        "dtl_text": "18:00 - 02:00 L.O. 01:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "17:00 - 00:00 L.O. 23:00",
+        "dtl_text": "17:00 - 00:00 L.O. 23:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 3.9,
+    "google_reviews": 122,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0TL1uHGLGGARCFHxOKbLy5E",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13213748-d9d8255472f2f333a316e45832eac8aa0cbe9f14cd316a78146b2d30fe2459dc.jpg",
+    "place_id": "ChIJ0TL1uHGLGGARCFHxOKbLy5E",
+    "g_name": "西麻布 K+",
+    "g_rating": 3.9,
+    "g_reviews": 122,
+    "g_address": "日本、〒106-0031 東京都港区西麻布４丁目５−８",
+    "lat": 35.6565482,
+    "lng": 139.7231536
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "イル プレージョ",
+    "name_en": "il Pregio",
+    "area": "東京都 代々木上原駅",
+    "url": "https://tabelog.com/tokyo/A1318/A131811/13147391/",
+    "rating": 3.75,
+    "review_count_tabelog": 503,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Sat, Sun",
+        "dtl": "12:00 - 13:00 18:00 - 20:00",
+        "dtl_text": "18:00 - 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu, Fri",
+        "dtl": "18:00 - 20:00",
+        "dtl_text": "18:00 - 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 141,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3_WXXEjzGGARM0DvWO0aGSk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13147391-ba1e3c29641253a051bc4ab7c8f5b3fb2d9c6306003c084f61045d8d5897e496.jpg",
+    "place_id": "ChIJ3_WXXEjzGGARM0DvWO0aGSk",
+    "g_name": "イル プレージョ",
+    "g_rating": 4.2,
+    "g_reviews": 141,
+    "g_address": "日本、〒151-0064 東京都渋谷区上原１丁目１７−７ FRENITYHOUSE ２F",
+    "lat": 35.6689111,
+    "lng": 139.6824632
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "エリオ・ロカンダ・イタリアーナ",
+    "name_en": "Elio Locanda Italiana",
+    "area": "東京都 半蔵門駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130803/13000293/",
+    "rating": 3.73,
+    "review_count_tabelog": 1078,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:45 - 14:15 17:45 - 22:15",
+        "dtl_text": "17:45 - 22:15"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 1126,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJX9Kh7nqMGGARuptTRtDLJk8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13000293-294963f06fa184d6e8c3d28b302f612dc3d75d5f64bbeaf84a67f867eb64a3e5.jpg",
+    "place_id": "ChIJX9Kh7nqMGGARuptTRtDLJk8",
+    "g_name": "エリオ・ロカンダ・イタリアーナ",
+    "g_rating": 4.5,
+    "g_reviews": 1126,
+    "g_address": "日本、〒102-0083 東京都千代田区麹町２丁目５−２ 半蔵門ハウス １F",
+    "lat": 35.6835017,
+    "lng": 139.7406642
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "チニャーレエノテカ",
+    "name_en": "Cignale ENOTECA",
+    "area": "東京都 神泉駅",
+    "url": "https://tabelog.com/tokyo/A1318/A131801/13189915/",
+    "rating": 3.84,
+    "review_count_tabelog": 241,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian",
+    "hours_raw": [],
+    "hours_notes_structured": null,
+    "google_rating": 4.7,
+    "google_reviews": 172,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJr364g8vzGGARJ5gxapNBMv8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13189915-37656a59f5044e3f5d929af58673f071f45d8a4f677410506f66c0ba24eaea8b.jpg",
+    "place_id": "ChIJr364g8vzGGARJ5gxapNBMv8",
+    "g_name": "チニャーレ エノテカ",
+    "g_rating": 4.7,
+    "g_reviews": 172,
+    "g_address": "日本、〒153-0041 東京都目黒区駒場１丁目５−１１",
+    "lat": 35.6556653,
+    "lng": 139.6891824
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "ダペピ",
+    "name_en": "ＤＡ ＰＥＰＩ",
+    "area": "東京都 巣鴨駅",
+    "url": "https://tabelog.com/tokyo/A1323/A132301/13124157/",
+    "rating": 3.72,
+    "review_count_tabelog": 174,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 70,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ66IIf6KNGGARi0UYgSsX_Dk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13124157-f9c9631952fca35e3770a7e9c96c058a553a03221783917dd8ccb788f2dd5311.jpg",
+    "place_id": "ChIJ66IIf6KNGGARi0UYgSsX_Dk",
+    "g_name": "トラットリア ダ ペピ",
+    "g_rating": 4,
+    "g_reviews": 70,
+    "g_address": "日本、〒112-0011 東京都文京区千石４丁目２５−６ ミツコ美容室",
+    "lat": 35.7303105,
+    "lng": 139.7394399
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "ブルガリ イル・リストランテ ルカ・ファンティン",
+    "name_en": "Bulgari Il Ristorante Luca Fantin",
+    "area": "東京都 銀座一丁目駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13045135/",
+    "rating": 3.72,
+    "review_count_tabelog": 486,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:30 - 20:00 L.O. 20:00",
+        "dtl_text": "17:30 - 20:00 L.O. 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 443,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJwVGZA-SLGGARUv9xoysel5c",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13045135-23aa408352fb5a5f06ace81aec1c2230ad87ae60113ce6fad722d425bae3c8b6.jpg",
+    "place_id": "ChIJwVGZA-SLGGARUv9xoysel5c",
+    "g_name": "Bvlgari Il Ristorante - Luca Fantin",
+    "g_rating": 4.5,
+    "g_reviews": 443,
+    "g_address": "日本、〒104-0061 東京都中央区銀座２丁目７−１２ 9階",
+    "lat": 35.672926,
+    "lng": 139.7672446
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "リストランテ アクアパッツァ",
+    "name_en": "ACQUA PAZZA",
+    "area": "東京都 外苑前駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130603/13004578/",
+    "rating": 3.7,
+    "review_count_tabelog": 585,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Italian, Seafood, Vegetable dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 15:00 L.O. Food 14:00 17:30 - 23:00 L.O. Food 20:00",
+        "dtl_text": "17:30 - 23:00 L.O. Food 20:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 547,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJj7nDu7eNGGARRlwH9Tzo8Mo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13004578-334bdcd883d41f5785af82111810f2510f46e48aadbe4d1dede98d772d946621.jpg",
+    "place_id": "ChIJj7nDu7eNGGARRlwH9Tzo8Mo",
+    "g_name": "リストランテ アクアパッツァ (ACQUA PAZZA)",
+    "g_rating": 4.5,
+    "g_reviews": 547,
+    "g_address": "日本、〒107-0062 東京都港区南青山２丁目２７−１８ AOYAMA M’s TOWER（青山エムズタワ パサージュ青山2F",
+    "lat": 35.6691013,
+    "lng": 139.7166933
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "ワインレストラン ラ・マルゲリータ",
+    "name_en": "LA MARGHERITA",
+    "area": "東京都 雑色駅",
+    "url": "https://tabelog.com/tokyo/A1315/A131503/13193685/",
+    "rating": 3.73,
+    "review_count_tabelog": 153,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays, Tuesdays, Thursdays, and Sundays"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 87,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJEdAvw4tgGGARuvTXI6hL27I",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13193685-d9a488197ffc3159e8e3a8577264eaa4803bc393033c1bb1349e6a9ddb56d115.jpg",
+    "place_id": "ChIJEdAvw4tgGGARuvTXI6hL27I",
+    "g_name": "ラ・マルゲリータ",
+    "g_rating": 4.6,
+    "g_reviews": 87,
+    "g_address": "日本、〒144-0056 東京都大田区西六郷２丁目３９−５",
+    "lat": 35.5488599,
+    "lng": 139.7071664
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "草片",
+    "name_en": "Kusabira",
+    "area": "東京都 広尾駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130703/13191105/",
+    "rating": 3.75,
+    "review_count_tabelog": 276,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Italian, Organic, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Dinner": {
+          "Lunch": "(Friday and Saturday only)"
+        }
+      },
+      "closed_on": "Sundays and Mondays"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 85,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJXbooTXCLGGARSYrOIbrYXyE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13191105-30e2697e533aacc501df4415255c09224b2305912aaf43b21f7ac90578597cf7.jpg",
+    "place_id": "ChIJXbooTXCLGGARSYrOIbrYXyE",
+    "g_name": "草片cusavilla",
+    "g_rating": 4.5,
+    "g_reviews": 85,
+    "g_address": "日本、〒106-0031 東京都港区西麻布４丁目４−１６ NISHIAZABU4416 B1F",
+    "lat": 35.6575135,
+    "lng": 139.7235736
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "リストランテ･ヒロ 青山",
+    "name_en": "Ristorante Hiro Aoyama",
+    "area": "東京都 表参道駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130602/13002025/",
+    "rating": 3.64,
+    "review_count_tabelog": 581,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Italian, Vegetable dishes, Meat dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 13:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "*Not fixed; please contact the restaurant directly for confirmation."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 181,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7RO5OGCLGGARzkF091BL1Jo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13002025-1c67aa6eca151e478e8e0386746844bb3191e9d8bda52a9a51fd48c2ede2056b.jpg",
+    "place_id": "ChIJ7RO5OGCLGGARzkF091BL1Jo",
+    "g_name": "リストランテ・ヒロ 青山",
+    "g_rating": 4.5,
+    "g_reviews": 181,
+    "g_address": "日本、〒107-0062 東京都港区南青山５丁目５−２５ Jp南青山ビル 地下1階",
+    "lat": 35.6636827,
+    "lng": 139.7129845
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "ピアッティ カステリーナ",
+    "name_en": "Piatti Castellina",
+    "area": "東京都 神楽坂駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13130769/",
+    "rating": 3.72,
+    "review_count_tabelog": 1039,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Italian, Pasta, European",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 15:00 L.O. Food 13:30 Drinks 14:30 18:00 - 22:00 L.O. Food 20:00 Drinks 21:00",
+        "dtl_text": "18:00 - 22:00 L.O. Food 20:00 Drinks 21:00"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 216,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJoVjamgGNGGAREyU1-Yexl8g",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13130769-da8761f5170e3d444343d7a3eef39da049eee4caa254e3b711005487eb59accf.jpg",
+    "place_id": "ChIJoVjamgGNGGAREyU1-Yexl8g",
+    "g_name": "ピアッティ カステリーナ",
+    "g_rating": 4.2,
+    "g_reviews": 216,
+    "g_address": "日本、〒162-0808 東京都新宿区天神町６８−３ 橋本ビル1F",
+    "lat": 35.7058456,
+    "lng": 139.7308402
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "パルテノペ 恵比寿店",
+    "name_en": "Partenope Ebisu",
+    "area": "東京都 恵比寿駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130302/13005480/",
+    "rating": 3.66,
+    "review_count_tabelog": 1555,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Italian, Pizza, Pasta",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Sun",
+        "dtl": "11:30 - 14:30 L.O. 14:00 17:30 - 22:00 L.O. 21:00",
+        "dtl_text": "17:30 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Fri, Sat",
+        "dtl": "11:30 - 14:30 L.O. 14:00 17:30 - 23:00 L.O. 22:00",
+        "dtl_text": "17:30 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Year-end & New Year Holidays, Summer Break"
+    },
+    "google_rating": 4,
+    "google_reviews": 527,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__97KBWLGGARdXFUiyigHwg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13005480-b7211a4e516c7185117b0b1ea3556a13fb3a5beaae045934e18690aa33aad6d1.jpg",
+    "place_id": "ChIJ__97KBWLGGARdXFUiyigHwg",
+    "g_name": "パルテノペ 恵比寿店",
+    "g_rating": 4,
+    "g_reviews": 527,
+    "g_address": "日本、〒150-0013 東京都渋谷区恵比寿１丁目２２−２０ 恵比寿幸和ビル",
+    "lat": 35.6461604,
+    "lng": 139.7139753
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "トラットリア タンタボッカ",
+    "name_en": "Tanta Bocca",
+    "area": "東京都 北参道駅",
+    "url": "https://tabelog.com/tokyo/A1304/A130403/13058484/",
+    "rating": 3.7,
+    "review_count_tabelog": 1388,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Italian, Pasta, Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 14:00 17:00 - 22:30 L.O. 21:30",
+        "dtl_text": "17:00 - 22:30 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:00 - 14:00 17:00 - 22:30 L.O. 21:30",
+        "dtl_text": "17:00 - 22:30 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "11:00 - 14:00 17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 675,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0U7GfceMGGARDWjJaT0Rz2g",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13058484-9e7c793d03a150718ced05fea93bb9654f44fc1c7363382c3ba4ac9cb23549e5.jpg",
+    "place_id": "ChIJ0U7GfceMGGARDWjJaT0Rz2g",
+    "g_name": "トラットリア タンタボッカ",
+    "g_rating": 4.4,
+    "g_reviews": 675,
+    "g_address": "日本、〒151-0051 東京都渋谷区千駄ケ谷４丁目５−１ ニュー外苑ハイツ １０５",
+    "lat": 35.679647,
+    "lng": 139.704289
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "malca",
+    "name_en": "malca",
+    "area": "東京都 外苑前駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130603/13277748/",
+    "rating": 4.26,
+    "review_count_tabelog": 404,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu, Fri, Sat",
+        "dtl": "12:00 - 15:00 18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "We kindly ask for cashless payments. Please note that cash is not accepted."
+    },
+    "google_rating": 4.6,
+    "google_reviews": 61,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQSJSpzuNGGARHuOwAjN4Iw8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13277748-959cafe5ae9506f4dd0418e02a07bc4590dc0b858030245764a3f5ad630c2a8d.jpg",
+    "place_id": "ChIJQSJSpzuNGGARHuOwAjN4Iw8",
+    "g_name": "malca",
+    "g_rating": 4.6,
+    "g_reviews": 61,
+    "g_address": "日本、〒107-0062 東京都港区南青山２丁目２７−１６ B1",
+    "lat": 35.6686215,
+    "lng": 139.7170012
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "ペペロッソ",
+    "name_en": "Pepe Rosso",
+    "area": "東京都 池ノ上駅",
+    "url": "https://tabelog.com/tokyo/A1318/A131801/13243643/",
+    "rating": 3.78,
+    "review_count_tabelog": 307,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Italian, Wine bar, Dining bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 22:00",
+        "dtl_text": "10:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (once a month on Tuesdays)"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 250,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAESULzGGARP6krrcjGZQA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13243643-037bbc2a9e8078cc376880d1d17c72acb80f9857f4445d5276649873beb88c06.jpg",
+    "place_id": "ChIJAQAESULzGGARP6krrcjGZQA",
+    "g_name": "ペペロッソ（PepeRosso）",
+    "g_rating": 4.2,
+    "g_reviews": 250,
+    "g_address": "日本、〒155-0032 東京都世田谷区代沢２丁目４６−７ エクセル桃井 1F",
+    "lat": 35.6610249,
+    "lng": 139.6728059
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "ARMONICO",
+    "name_en": "ARMONICO",
+    "area": "東京都 代官山駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130303/13156479/",
+    "rating": 3.84,
+    "review_count_tabelog": 441,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri",
+        "dtl": "18:30 - 23:00 L.O. Food 21:00 Drinks 22:30",
+        "dtl_text": "18:30 - 23:00 L.O. Food 21:00 Drinks 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "12:00 - 14:30 L.O. Food 12:00 Drinks 13:30 18:30 - 23:00 L.O. Food 21:00 Drinks 22:30",
+        "dtl_text": "18:30 - 23:00 L.O. Food 21:00 Drinks 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "12:00 - 14:00 18:30 - 23:00 L.O. Food 21:00 Drinks 22:30",
+        "dtl_text": "18:30 - 23:00 L.O. Food 21:00 Drinks 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Public Holiday",
+        "dtl": "18:30 - 23:00",
+        "dtl_text": "18:30 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays and not fixed"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 103,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0Y0_akGLGGARzEw1fN3SgkQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13156479-a4c7841a0fbca786473ce85e53446819465da3b55fc20bd8cfe2f77a320d87c7.jpg",
+    "place_id": "ChIJ0Y0_akGLGGARzEw1fN3SgkQ",
+    "g_name": "ARMONICO",
+    "g_rating": 4.5,
+    "g_reviews": 103,
+    "g_address": "日本、〒150-0034 東京都渋谷区代官山町１２−１６ シンフォニー代官山 102",
+    "lat": 35.6506561,
+    "lng": 139.7035936
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "Il Lato",
+    "name_en": "Il Lato",
+    "area": "東京都 新宿三丁目駅",
+    "url": "https://tabelog.com/tokyo/A1304/A130401/13256289/",
+    "rating": 3.85,
+    "review_count_tabelog": 279,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Day before public holiday, Day after public holiday",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "12:00 - 15:00 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Sun & Public Holidays": {}
+      },
+      "closed_on": "Other irregular holidays"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 66,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJHUndRs2NGGARqWGqAvxKFAI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13256289-5551a39c594124f4444e49a9eb68c20d9e89a5f3f35edc0fb76b4df4100d2cb3.jpg",
+    "place_id": "ChIJHUndRs2NGGARqWGqAvxKFAI",
+    "g_name": "イル ラート",
+    "g_rating": 4.4,
+    "g_reviews": 66,
+    "g_address": "日本、〒160-0022 東京都新宿区新宿３丁目６−２ 栄ビル ４Ｆ",
+    "lat": 35.6910128,
+    "lng": 139.7056242
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "nacol",
+    "name_en": "nacol",
+    "area": "東京都 浅草（つくばＥＸＰ）駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131102/13293222/",
+    "rating": 4.05,
+    "review_count_tabelog": 391,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Day before public holiday, Day after public holiday",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "12:00 - 15:00 17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Lunch - Sat, Sun & Public Holidays": {},
+        "Dinner": {}
+      },
+      "closed_on": "03-6802-3898"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 62,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2YledQuPGGARJ7ej6BW-_y4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13293222-24234e3b8f799991140a33f3766d909324e05ffa37020eddf7bb73db8a6d2b83.jpg",
+    "place_id": "ChIJ2YledQuPGGARJ7ej6BW-_y4",
+    "g_name": "nacol",
+    "g_rating": 4.6,
+    "g_reviews": 62,
+    "g_address": "日本、〒111-0032 東京都台東区浅草３丁目２８−９ サイドプレイス 1階",
+    "lat": 35.7172695,
+    "lng": 139.7988216
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "RODEO",
+    "name_en": "RODEO",
+    "area": "東京都 中目黒駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13213575/",
+    "rating": 3.78,
+    "review_count_tabelog": 1078,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian, Baru (Spanish style bar), Pasta",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "12:00 - 14:00 L.O. 13:00 17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon - Fri": {},
+        "Sat, Sun & Public Holidays": {}
+      },
+      "closed_on": "Year-end & New Year Holidays"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 280,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJofBcPTiLGGARo7YBbrT9_Cc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13213575-c85e213a33cbbd1d2d26a9c9eb19e93f7960c92e42915e00fdcc238a3ff363a5.jpg",
+    "place_id": "ChIJofBcPTiLGGARo7YBbrT9_Cc",
+    "g_name": "RODEO",
+    "g_rating": 4.3,
+    "g_reviews": 280,
+    "g_address": "日本、〒153-0061 東京都目黒区中目黒３丁目５−１",
+    "lat": 35.6407664,
+    "lng": 139.7021116
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "ICARO miyamoto",
+    "name_en": "ICARO",
+    "area": "東京都 中目黒駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13050216/",
+    "rating": 3.83,
+    "review_count_tabelog": 617,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Day before public holiday, Day after public holiday",
+        "dtl": "17:30 - 00:00",
+        "dtl_text": "17:30 - 00:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Public Holiday",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon - Fri": {},
+        "Sat & Public Holidays": {}
+      },
+      "closed_on": "Sundays"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 121,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJq5IMg0mLGGAR0qZRk2B05yk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13050216-52809cacfe99ae1930e93931c3a92c11b23e245b223e17e0e52aab9059a835c3.jpg",
+    "place_id": "ChIJq5IMg0mLGGAR0qZRk2B05yk",
+    "g_name": "ICARO miyamoto",
+    "g_rating": 4.3,
+    "g_reviews": 121,
+    "g_address": "日本、〒153-0051 東京都目黒区上目黒２丁目４４−２４ COMS中目黒 4F",
+    "lat": 35.6419313,
+    "lng": 139.6969073
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "merachi",
+    "name_en": "merachi",
+    "area": "東京都 乃木坂駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13266913/",
+    "rating": 4.07,
+    "review_count_tabelog": 199,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:30 - 00:00 L.O. 22:30",
+        "dtl_text": "17:30 - 00:00 L.O. 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.8,
+    "google_reviews": 57,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJeckfPMuLGGARsDJqYL9J8i4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13266913-1a63add8588f5da6a5575846b97e8d72c6e28bd2b7d7d3d4f4199739d2211199.jpg",
+    "place_id": "ChIJeckfPMuLGGARsDJqYL9J8i4",
+    "g_name": "イタリアン ristorante merachi（メラキ）西麻布",
+    "g_rating": 4.8,
+    "g_reviews": 57,
+    "g_address": "日本、〒106-0031 東京都港区西麻布１丁目４−２３ アルゴ西麻布 1階B号",
+    "lat": 35.6615163,
+    "lng": 139.7240011
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "aniko",
+    "name_en": "aniko",
+    "area": "東京都 赤坂駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130801/13240038/",
+    "rating": 3.74,
+    "review_count_tabelog": 538,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Italian, Wine bar, Baru (Spanish style bar)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu",
+        "dtl": "17:30 - 00:00 L.O. 23:00",
+        "dtl_text": "17:30 - 00:00 L.O. 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Fri",
+        "dtl": "11:30 - 15:00 L.O. 14:00 17:30 - 00:00 L.O. 23:00",
+        "dtl_text": "17:30 - 00:00 L.O. 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Public Holiday",
+        "dtl": "11:30 - 15:00 L.O. 14:00 17:30 - 23:00 L.O. 22:00",
+        "dtl_text": "17:30 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "*Advance reservation is required."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 133,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKwvr03CLGGAR8dCNPznDXAs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13240038-94be3bfe9c21315c3ed49486c89bab489e14f94528c6635d9fe3e1603b9b0eb0.jpg",
+    "place_id": "ChIJKwvr03CLGGAR8dCNPznDXAs",
+    "g_name": "aniko",
+    "g_rating": 4.3,
+    "g_reviews": 133,
+    "g_address": "日本、〒107-0052 東京都港区赤坂６丁目３−８ 高松ビル B1F",
+    "lat": 35.6707957,
+    "lng": 139.7356981
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "オルランド",
+    "name_en": "Orlando",
+    "area": "東京都 神泉駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130301/13174925/",
+    "rating": 3.68,
+    "review_count_tabelog": 272,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian, Baru (Spanish style bar), Wine bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 121,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ50YS6lSLGGARN18OrF9XRKY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13174925-d978bd6acd4af09ce40c2d9de4cda47a4cb767a99a08ec49179f81b7cbbc1355.jpg",
+    "place_id": "ChIJ50YS6lSLGGARN18OrF9XRKY",
+    "g_name": "Orlando",
+    "g_rating": 4.2,
+    "g_reviews": 121,
+    "g_address": "日本、〒153-0042 東京都目黒区青葉台３丁目１−１５",
+    "lat": 35.6532182,
+    "lng": 139.6924593
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "エミリア",
+    "name_en": "EMILIA",
+    "area": "東京都 北参道駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130601/13099554/",
+    "rating": 3.69,
+    "review_count_tabelog": 777,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 L.O. 14:30 17:30 - 22:30 L.O. 21:30",
+        "dtl_text": "17:30 - 22:30 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.8,
+    "google_reviews": 311,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ6dHab2MGGARBp4F33cg_v4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13099554-7cc5fa4ece6f2910ec9401a712bc15ad1beb7e19c3310efed24b1793762ba83f.jpg",
+    "place_id": "ChIJJ6dHab2MGGARBp4F33cg_v4",
+    "g_name": "EMILIA",
+    "g_rating": 3.8,
+    "g_reviews": 311,
+    "g_address": "日本、〒150-0005 東京都渋谷区神宮前２丁目２５−４",
+    "lat": 35.6742888,
+    "lng": 139.7107767
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "イル・ジョット",
+    "name_en": "IL GiOTTO",
+    "area": "東京都 世田谷区",
+    "url": "https://tabelog.com/tokyo/A1317/A131707/13001389/",
+    "rating": 3.71,
+    "review_count_tabelog": 119,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 63,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJWaoddIz0GGARirMkmxg-LNw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13001389-0be3b17c5fa62bb79476bac8cb6393185fd9c86a42a701ac2e95f72df277a68f.jpg",
+    "place_id": "ChIJWaoddIz0GGARirMkmxg-LNw",
+    "g_name": "イルジョット",
+    "g_rating": 4.3,
+    "g_reviews": 63,
+    "g_address": "日本、〒154-0012 東京都世田谷区駒沢５丁目２１−９",
+    "lat": 35.6255978,
+    "lng": 139.6557608
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "L'appartamento di NAOKI",
+    "name_en": "L'appartamento di NAOKI",
+    "area": "東京都 人形町駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130204/13259645/",
+    "rating": 3.77,
+    "review_count_tabelog": 82,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Italian, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "19:00 - 23:59",
+        "dtl_text": "19:00 - 23:59"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "12:00 - 15:30 19:00 - 23:59",
+        "dtl_text": "19:00 - 23:59"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 53,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJG9CMoqGLGGARdbKCERc1eTQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13259645-f8e6f0749884d0497b9d84ff7a676a3069b366f1648ea94dc3f4588c35f6bc57.jpg",
+    "place_id": "ChIJG9CMoqGLGGARdbKCERc1eTQ",
+    "g_name": "ラパルタメントディナオキ",
+    "g_rating": 4.3,
+    "g_reviews": 53,
+    "g_address": "日本、〒103-0013 東京都中央区日本橋人形町２丁目１０−１１ KYOE PLAZA 4F",
+    "lat": 35.6855615,
+    "lng": 139.7839925
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "オステリア・トラマンダーレ",
+    "name_en": "Osteria Tramandare",
+    "area": "東京都 馬喰横山駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130204/13282008/",
+    "rating": 3.65,
+    "review_count_tabelog": 179,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "17:30 - 22:00",
+        "dtl_text": "17:30 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The second Tuesday of each month."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 43,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDXg7dvOJGGARyEngZaANYXU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13282008-63dad25bdeb2a2f09006178ade4d41ffa2e24c9a3bc2edaf0da4e52d76c194fe.jpg",
+    "place_id": "ChIJDXg7dvOJGGARyEngZaANYXU",
+    "g_name": "オステリア・トラマンダーレ｜イタリアンレストラン",
+    "g_rating": 4.2,
+    "g_reviews": 43,
+    "g_address": "日本、〒103-0006 東京都中央区日本橋富沢町１５−６ エマーレ 1F101",
+    "lat": 35.6893669,
+    "lng": 139.7832437
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "アンティカ オステリア デル ポンテ",
+    "name_en": "Antica Osteria Del Ponte",
+    "area": "東京都 二重橋前駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130201/13004061/",
+    "rating": 3.72,
+    "review_count_tabelog": 721,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Italian, French, Wine bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 L.O. 14:00 17:30 - 22:00 L.O. 20:00",
+        "dtl_text": "17:30 - 22:00 L.O. 20:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (building closure days)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 419,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJH8vQ7fmLGGARqCEu3Z-2piU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13004061-8f8a3db65bb21b2ae293327042eee080049876179ae46aba941c929772e18708.jpg",
+    "place_id": "ChIJH8vQ7fmLGGARqCEu3Z-2piU",
+    "g_name": "アンティカ・オステリア・デル・ポンテ",
+    "g_rating": 4.3,
+    "g_reviews": 419,
+    "g_address": "日本、〒100-0005 東京都千代田区丸の内２丁目４−１ 丸の内ビルディング 36F",
+    "lat": 35.6811202,
+    "lng": 139.7640987
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "リストランテ 濱崎",
+    "name_en": "Ristorante Hamasaki",
+    "area": "東京都 明治神宮前駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130601/13270773/",
+    "rating": 3.69,
+    "review_count_tabelog": 97,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "18:00 - 23:00 L.O. 20:00",
+        "dtl_text": "18:00 - 23:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 15:00 L.O. Food 13:00 Drinks 13:30 18:00 - 23:00 L.O. 20:00",
+        "dtl_text": "18:00 - 23:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 176,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJkajiE2KLGGARpJ_PkRSoVqI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13270773-91c0b644b9f0dd01428237eac27b36896cc5b5b333e5da6d169a616e7345913e.jpg",
+    "place_id": "ChIJkajiE2KLGGARpJ_PkRSoVqI",
+    "g_name": "リストランテ濱﨑",
+    "g_rating": 4.5,
+    "g_reviews": 176,
+    "g_address": "日本、〒150-0001 東京都渋谷区神宮前１丁目５−３ 東郷記念館 2階",
+    "lat": 35.67161189999999,
+    "lng": 139.7067072
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "サーラ アマービレ",
+    "name_en": "Sala Amabile",
+    "area": "東京都 銀座一丁目駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13113809/",
+    "rating": 3.67,
+    "review_count_tabelog": 689,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 15:00 L.O. Food 13:00 17:30 - 22:30 L.O. Food 20:30",
+        "dtl_text": "17:30 - 22:30 L.O. Food 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "12:00 - 15:00 L.O. Food 13:00 17:30 - 22:30 L.O. Food 20:30",
+        "dtl_text": "17:30 - 22:30 L.O. Food 20:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Cancellations by phone are not accepted outside of business hours."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 164,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJWWX-DOSLGGARZn5uu8V62to",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13113809-8aef85f4df067f47454be80d2966732fd69464c2cde42f7a98aeb58ed8c68a48.jpg",
+    "place_id": "ChIJWWX-DOSLGGARZn5uu8V62to",
+    "g_name": "Sala Amabile",
+    "g_rating": 4.4,
+    "g_reviews": 164,
+    "g_address": "日本、〒104-0061 東京都中央区銀座２丁目６−５ 銀座トレシャス １２階",
+    "lat": 35.6737665,
+    "lng": 139.767068
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "トラットリア グランボッカ",
+    "name_en": "TRATTORIA GRAN BOCCA",
+    "area": "東京都 飯田橋駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13173167/",
+    "rating": 3.67,
+    "review_count_tabelog": 1514,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Day before public holiday",
+        "dtl": "11:30 - 14:30 17:00 - 22:30",
+        "dtl_text": "17:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:30 - 14:30 17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 598,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2za7a0OMGGARyg515N4HqRg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13173167-a1709734ee47e5af0f584462c878af72f879b65b26081b130261808f503d3793.jpg",
+    "place_id": "ChIJ2za7a0OMGGARyg515N4HqRg",
+    "g_name": "Trattoria Gran Bocca",
+    "g_rating": 4.1,
+    "g_reviews": 598,
+    "g_address": "日本、〒102-0071 東京都千代田区富士見２丁目１０−２ 飯田橋グランブルーム サクラテラス2F",
+    "lat": 35.69899789999999,
+    "lng": 139.7434984
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "falo",
+    "name_en": "falo",
+    "area": "東京都 代官山駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130303/13197255/",
+    "rating": 3.71,
+    "review_count_tabelog": 361,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri",
+        "dtl": "17:00 - 23:00 L.O. Food 21:30 Drinks 22:30",
+        "dtl_text": "17:00 - 23:00 L.O. Food 21:30 Drinks 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "15:00 - 23:00 L.O. Food 21:00 Drinks 22:30",
+        "dtl_text": "15:00 - 23:00 L.O. Food 21:00 Drinks 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 211,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVUI_ESLGGARVcB9OFOUd64",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13197255-4ca8d00611868a133bbe34d16af6fd0f58a48153aae3357223d3199deec17dfa.jpg",
+    "place_id": "ChIJVVUI_ESLGGARVcB9OFOUd64",
+    "g_name": "ファロ",
+    "g_rating": 4.3,
+    "g_reviews": 211,
+    "g_address": "日本、〒150-0034 東京都渋谷区代官山町１４−１０ LUZ代官山 B1階",
+    "lat": 35.6500115,
+    "lng": 139.7042731
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "トルナヴェント",
+    "name_en": "TORNAVENTO",
+    "area": "東京都 六本木駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13022053/",
+    "rating": 3.69,
+    "review_count_tabelog": 207,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:30 18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 48,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJi58CjnCLGGAR9ohKrLl58-E",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13022053-c76c9488b0c0f28d6df600497095a467c5704b91eec86f18040837e0c644e22d.jpg",
+    "place_id": "ChIJi58CjnCLGGAR9ohKrLl58-E",
+    "g_name": "トルナヴェント",
+    "g_rating": 4.5,
+    "g_reviews": 48,
+    "g_address": "日本、〒106-0031 東京都港区西麻布３丁目２１−１４ センチュリーホーム西麻布",
+    "lat": 35.659481,
+    "lng": 139.7249682
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "アンティカ オステリア カルネヤ",
+    "name_en": "ANTICA OSTERIA CARNEYA",
+    "area": "東京都 牛込柳町駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13045549/",
+    "rating": 3.75,
+    "review_count_tabelog": 910,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Italian, Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 14:00 18:00 - 21:30",
+        "dtl_text": "18:00 - 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The first and third Mondays of each month."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 288,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7VfAKfiMGGARrEL4wzlVYlI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13045549-053a2a1abc33658502c645eb5be9a5bde914e8eb0ca5ac1df62d57a21c234b8e.jpg",
+    "place_id": "ChIJ7VfAKfiMGGARrEL4wzlVYlI",
+    "g_name": "イタリアン カルネヤ",
+    "g_rating": 4.5,
+    "g_reviews": 288,
+    "g_address": "日本、〒162-0854 東京都新宿区南山伏町３−６ 市ヶ谷ＮＨビル 1F",
+    "lat": 35.6990489,
+    "lng": 139.72986
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "タランテッラ ダ ルイジ",
+    "name_en": "TARANTELLA da luigi",
+    "area": "東京都 白金高輪駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131602/13122166/",
+    "rating": 3.73,
+    "review_count_tabelog": 799,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Italian, Pizza, Pasta",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "12:00 - 14:00 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 502,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJFe_rCAiLGGARUB3EBK6E8ok",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13122166-92425b479b95e0a32a50fd748cc8be9600e7f8b490d6f90a2a100aef7ce8279f.jpg",
+    "place_id": "ChIJFe_rCAiLGGARUB3EBK6E8ok",
+    "g_name": "タランテッラ ダ ルイジ",
+    "g_rating": 4.2,
+    "g_reviews": 502,
+    "g_address": "日本、〒108-0072 東京都港区白金３丁目２２−２",
+    "lat": 35.6447277,
+    "lng": 139.7312677
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "笠井",
+    "name_en": "Kasai",
+    "area": "東京都 都立大学駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131702/13242439/",
+    "rating": 3.92,
+    "review_count_tabelog": 249,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 23:30 L.O. 23:00",
+        "dtl_text": "17:00 - 23:30 L.O. 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays and occasionally on other days"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13242439-b949ea4dd54e7810cd4cd8ebe02df22947acadb4b7db8e9215160f567747e3b2.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "canade",
+    "name_en": "canade",
+    "area": "東京都 本郷三丁目駅",
+    "url": "https://tabelog.com/tokyo/A1310/A131004/13253467/",
+    "rating": 3.77,
+    "review_count_tabelog": 108,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "18:00 - 23:00 L.O. 21:30",
+        "dtl_text": "18:00 - 23:00 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "17:00 - 23:00 L.O. 21:30",
+        "dtl_text": "17:00 - 23:00 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays; Mondays are occasionally closed."
+    },
+    "google_rating": 4.8,
+    "google_reviews": 59,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJTfH86l-NGGARZ6su3jr-CHs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13253467-82646e923809b313638c2eba67ce64eef9cc39e34a3a10168779474bec6e4fa3.jpg",
+    "place_id": "ChIJTfH86l-NGGARZ6su3jr-CHs",
+    "g_name": "Canade",
+    "g_rating": 4.8,
+    "g_reviews": 59,
+    "g_address": "日本、〒113-0033 東京都文京区本郷２丁目３１−３ 二木ビル 1F",
+    "lat": 35.7052077,
+    "lng": 139.7583454
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "ピャチェーレ",
+    "name_en": "Piacere",
+    "area": "東京都 東京駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130201/13069992/",
+    "rating": 3.53,
+    "review_count_tabelog": 426,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian, Restaurants, Pasta",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:30 - 23:00 L.O. Food 20:30",
+        "dtl_text": "17:30 - 23:00 L.O. Food 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays and Mondays"
+    },
+    "google_rating": 3.9,
+    "google_reviews": 125,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJL6nVJvyLGGARd8HuF3iA5u4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13069992-532b050647c0a952f889b08620126e008421fd8345aef132c909f16c3a1e9a0b.jpg",
+    "place_id": "ChIJL6nVJvyLGGARd8HuF3iA5u4",
+    "g_name": "PIACERE",
+    "g_rating": 3.9,
+    "g_reviews": 125,
+    "g_address": "日本、〒100-8283 東京都千代田区丸の内１丁目８−３ 28階",
+    "lat": 35.6823799,
+    "lng": 139.7694411
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "いんぼすこ 神宮前",
+    "name_en": "Inbosuko Jingumae",
+    "area": "東京都 明治神宮前駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130601/13272681/",
+    "rating": 3.99,
+    "review_count_tabelog": 91,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian",
+    "hours_raw": [],
+    "hours_notes_structured": null,
+    "google_rating": 4.7,
+    "google_reviews": 49,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVfSaca6NGGARwNtjfNuAIDA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13272681-341407f38b21e4f80e191a6e46134b8d5ea1885e104da42ac08044c061105d8d.jpg",
+    "place_id": "ChIJVfSaca6NGGARwNtjfNuAIDA",
+    "g_name": "いんぼすこ神宮前",
+    "g_rating": 4.7,
+    "g_reviews": 49,
+    "g_address": "日本、〒150-0001 東京都渋谷区神宮前２丁目１８−１９",
+    "lat": 35.6730997,
+    "lng": 139.70978
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "TACUBO",
+    "name_en": "TACUBO",
+    "area": "東京都 代官山駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130303/13109940/",
+    "rating": 4.42,
+    "review_count_tabelog": 1004,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "16:00 - 23:00",
+        "dtl_text": "16:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 260,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJf3oYOUGLGGARIgeulHH_FpU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13109940-b79db1828ac322317b0cb211b7adc2ccdb89d8ac59c460dfb337c22d46e09bc2.jpg",
+    "place_id": "ChIJf3oYOUGLGGARIgeulHH_FpU",
+    "g_name": "TACUBO",
+    "g_rating": 4.4,
+    "g_reviews": 260,
+    "g_address": "日本、〒150-0021 東京都渋谷区恵比寿西２丁目１３−１６ ラングス代官山 1F",
+    "lat": 35.6508593,
+    "lng": 139.7060229
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "Shin Harada",
+    "name_en": "Shin Harada",
+    "area": "東京都 銀座一丁目駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13129298/",
+    "rating": 3.8,
+    "review_count_tabelog": 455,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "17:30 - 22:30 L.O. Food 20:30",
+        "dtl_text": "17:30 - 22:30 L.O. Food 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 15:00 L.O. Food 13:00 17:30 - 22:30 L.O. Food 20:30",
+        "dtl_text": "17:30 - 22:30 L.O. Food 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "We do not accept cancellations by phone outside of business hours."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 201,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJWWX-DOSLGGARwI-X2LAtbPc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13129298-b2932de416ac4f677c92140de2e6832601798ef353704ed0e472d39ea4a7aba2.jpg",
+    "place_id": "ChIJWWX-DOSLGGARwI-X2LAtbPc",
+    "g_name": "アロマフレスカ",
+    "g_rating": 4.4,
+    "g_reviews": 201,
+    "g_address": "日本、〒104-0061 東京都中央区銀座２丁目６−５ GINZA TRECIOUS 12F",
+    "lat": 35.6737606,
+    "lng": 139.7670617
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "アルマーニ リストランテ",
+    "name_en": "ARMANI / RISTORANTE",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13044618/",
+    "rating": 3.69,
+    "review_count_tabelog": 671,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Italian, Cafe, Bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 23:00",
+        "dtl_text": "11:30 - 23:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Tuesday - Saturday": {},
+        "Sunday": {}
+      },
+      "closed_on": "Year-end & New Year Holidays and other irregular holidays"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 262,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJFTsH3uWLGGARvJfeVYWHeCs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13044618-106b79ab81b6c888927895e5a58b1eac87d1213e2946ddb009aa4a579ee365ab.jpg",
+    "place_id": "ChIJFTsH3uWLGGARvJfeVYWHeCs",
+    "g_name": "Armani/Ristorante",
+    "g_rating": 4.3,
+    "g_reviews": 262,
+    "g_address": "日本、〒104-0061 東京都中央区銀座５丁目５−４ アルマーニ / 銀座タワー 10-11F",
+    "lat": 35.67167999999999,
+    "lng": 139.7639703
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "commedia",
+    "name_en": "commedia",
+    "area": "東京都 木場駅",
+    "url": "https://tabelog.com/tokyo/A1313/A131303/13276923/",
+    "rating": 4.19,
+    "review_count_tabelog": 127,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian, Pasta",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon - Fri": {},
+        "Sat": {}
+      },
+      "closed_on": "Sundays, Wednesdays, and Not fixed"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 17,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQDE7gCJGGARspMDyzqQ1_g",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13276923-d2ed5110466789daae1fc24a217d4720f57eec61212864216e238ffcfcc5b096.jpg",
+    "place_id": "ChIJAQDE7gCJGGARspMDyzqQ1_g",
+    "g_name": "commedia (コンメディア)",
+    "g_rating": 4.6,
+    "g_reviews": 17,
+    "g_address": "日本、〒135-0016 東京都江東区東陽１丁目１１−３ 桜興業桜マンション 106 東京都 江東区東陽1-11-3 桜マンション 1F",
+    "lat": 35.6684904,
+    "lng": 139.8103301
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "オステリア・オリエーラ",
+    "name_en": "OSTERIA OLIERA",
+    "area": "東京都 新宿三丁目駅",
+    "url": "https://tabelog.com/tokyo/A1304/A130401/13099830/",
+    "rating": 3.68,
+    "review_count_tabelog": 514,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Public Holiday",
+        "dtl": "17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "We take 6 to 7 days off each month, including a long weekend once a month on Sunday and Monday."
+    },
+    "google_rating": 3.8,
+    "google_reviews": 79,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJk_rtZNuMGGARKBxtSPIlKUM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13099830-7698929f65df5a83973417a9a63fdf4b0ae6881a5c0b42a8be9479c229b4c603.jpg",
+    "place_id": "ChIJk_rtZNuMGGARKBxtSPIlKUM",
+    "g_name": "オステリア オリエーラ",
+    "g_rating": 3.8,
+    "g_reviews": 79,
+    "g_address": "日本、〒160-0022 東京都新宿区新宿３丁目７−５",
+    "lat": 35.691017,
+    "lng": 139.7060039
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "TACUBO 白金台",
+    "name_en": "TACUBO Shirokanedai",
+    "area": "東京都 白金台駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131602/13302758/",
+    "rating": 4.03,
+    "review_count_tabelog": 153,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian, Pasta, Wine bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "16:00 - 23:00",
+        "dtl_text": "16:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 23,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJSbVng5mLGGARtxbPqAX7pqM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13302758-02134424632a4d9a6a069450bbc2bdfa235e0af97bbe2a35b6573f5495437159.jpg",
+    "place_id": "ChIJSbVng5mLGGARtxbPqAX7pqM",
+    "g_name": "TACUBO白金台",
+    "g_rating": 4.3,
+    "g_reviews": 23,
+    "g_address": "日本、〒108-0071 東京都港区白金台４丁目１９−２１ 白金GAXbldg B1F",
+    "lat": 35.6397103,
+    "lng": 139.7227939
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "三和",
+    "name_en": "Sanwa",
+    "area": "東京都 白金台駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131602/13264755/",
+    "rating": 4.41,
+    "review_count_tabelog": 415,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian, Steak, Baru (Spanish style bar)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 00:00",
+        "dtl_text": "18:00 - 00:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.7,
+    "google_reviews": 65,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJMRwV-hOLGGARJN5g-bWs51c",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13264755-a361f57eae6a8131f0bf32ef4b01179cdd25e1cdf1556bda63320a2ea0e4cde5.jpg",
+    "place_id": "ChIJMRwV-hOLGGARJN5g-bWs51c",
+    "g_name": "三和",
+    "g_rating": 4.7,
+    "g_reviews": 65,
+    "g_address": "日本、〒108-0071 東京都港区白金台５丁目１３−１４ THE1000 地下一階",
+    "lat": 35.637773,
+    "lng": 139.7228401
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "ラ スフォリーナ",
+    "name_en": "La Sfoglina",
+    "area": "東京都 乃木坂駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130603/13157731/",
+    "rating": 3.71,
+    "review_count_tabelog": 840,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 L.O. 14:30 17:30 - 22:00 L.O. 21:00",
+        "dtl_text": "17:30 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Closed from May 27 to June 13 for training trip."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 257,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGev_RXmLGGARqz_p65mV2rg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13157731-b8efd02ca779fe6d85bbb0ce9fc0a54238912bdb18abefb797a5d6674d91d739.jpg",
+    "place_id": "ChIJGev_RXmLGGARqz_p65mV2rg",
+    "g_name": "La Sfoglina",
+    "g_rating": 4.2,
+    "g_reviews": 257,
+    "g_address": "日本、〒106-0032 東京都港区六本木７丁目３−２２",
+    "lat": 35.6654748,
+    "lng": 139.7278372
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "リストランテASO",
+    "name_en": "Ristorante Aso",
+    "area": "東京都 代官山駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130303/13003356/",
+    "rating": 3.7,
+    "review_count_tabelog": 739,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Italian, Pasta, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri",
+        "dtl": "12:00 - 15:30 L.O. Food 13:30 18:00 - 22:30 L.O. Food 20:00",
+        "dtl_text": "18:00 - 22:30 L.O. Food 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "12:00 - 15:30 L.O. Food 13:30 17:30 - 22:30 L.O. Food 20:00",
+        "dtl_text": "17:30 - 22:30 L.O. Food 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every Wednesday (may be rescheduled if it falls on a public holiday)"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 634,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJc4qNsE-LGGAR5pT0-m6yOrE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13003356-7180df75cedda6ca4dc7f5684e4580bf074aa5764b67e2e4d03dc3ae534d4872.jpg",
+    "place_id": "ChIJc4qNsE-LGGAR5pT0-m6yOrE",
+    "g_name": "リストランテASO",
+    "g_rating": 4.4,
+    "g_reviews": 634,
+    "g_address": "日本、〒150-0033 東京都渋谷区猿楽町２９−３",
+    "lat": 35.6484985,
+    "lng": 139.6993436
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "メログラーノ",
+    "name_en": "Melograno",
+    "area": "東京都 広尾駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130703/13187211/",
+    "rating": 3.7,
+    "review_count_tabelog": 295,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Italian, Pasta, Creative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:00 - 23:30 L.O. Food 22:00",
+        "dtl_text": "17:00 - 23:30 L.O. Food 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "◾️Due to our recent relocation, we will not be offering lunch service for the time being."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 134,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJOaqjKW2LGGARDiuAY_hKYAQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13187211-164b3da443b0e2871d7bfa8f5cd92360615e2db7566e4772c1a385b5f93a1be6.jpg",
+    "place_id": "ChIJOaqjKW2LGGARDiuAY_hKYAQ",
+    "g_name": "Melograno メログラーノ",
+    "g_rating": 4.4,
+    "g_reviews": 134,
+    "g_address": "日本、〒150-0012 東京都渋谷区広尾５丁目２４−２ 1F",
+    "lat": 35.6483706,
+    "lng": 139.7194816
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "テストキッチンエイチ",
+    "name_en": "TEST KITCHEN H",
+    "area": "東京都 表参道駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130602/13220384/",
+    "rating": 3.68,
+    "review_count_tabelog": 519,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Italian, Pasta, Dining bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "15:00 - 22:00 L.O. 21:00",
+        "dtl_text": "15:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Seasonal holidays in summer and winter"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 245,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6b-2L0eLGGAROqtss4bV1cM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13220384-6a53a970c3b54b87811dd75d6edfeeb61299ad4581cb7f94e1328e609c271bfd.jpg",
+    "place_id": "ChIJ6b-2L0eLGGAROqtss4bV1cM",
+    "g_name": "テストキッチン エイチ",
+    "g_rating": 4.4,
+    "g_reviews": 245,
+    "g_address": "日本、〒107-0062 東京都港区南青山５丁目１２−１３",
+    "lat": 35.6609177,
+    "lng": 139.7131173
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "misola",
+    "name_en": "Ristorante Misola",
+    "area": "東京都 表参道駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130602/13258218/",
+    "rating": 3.76,
+    "review_count_tabelog": 151,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Italian, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 14:30 L.O. 13:00 18:00 - 22:00 L.O. 19:30",
+        "dtl_text": "18:00 - 22:00 L.O. 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.7,
+    "google_reviews": 95,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7cxXNp6MGGAR8J4UTGqCFMw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13258218-8d18225cac6f15da507253c12f7956f27d728be4e95e1421312b65200c85aacf.jpg",
+    "place_id": "ChIJ7cxXNp6MGGAR8J4UTGqCFMw",
+    "g_name": "misola",
+    "g_rating": 4.7,
+    "g_reviews": 95,
+    "g_address": "日本、〒107-0062 東京都港区南青山３丁目１０−３８",
+    "lat": 35.6663077,
+    "lng": 139.7146037
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "TOKYO",
+    "name": "メグリヴァ",
+    "name_en": "megriva",
+    "area": "東京都 中目黒駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13225445/",
+    "rating": 4.15,
+    "review_count_tabelog": 178,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian",
+    "hours_raw": [],
+    "hours_notes_structured": null,
+    "google_rating": 4.6,
+    "google_reviews": 69,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJndC6-1SLGGARntkiuxIxYEs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_tokyo/13225445-55d94ef3dc9a992815e6343cb6be51d119bbf1f3035f91c719e502aa26ddf93f.jpg",
+    "place_id": "ChIJndC6-1SLGGARntkiuxIxYEs",
+    "g_name": "メグリヴァ",
+    "g_rating": 4.6,
+    "g_reviews": 69,
+    "g_address": "日本、〒153-0051 東京都目黒区上目黒１丁目１０−５ １０４",
+    "lat": 35.6469982,
+    "lng": 139.6990323
+  }
+]

@@ -1,0 +1,4520 @@
+[
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "梅乃葉",
+    "name_en": "Ume no Ha",
+    "area": "山口県 萩市",
+    "url": "https://tabelog.com/yamaguchi/A3503/A350301/35001584/",
+    "rating": 3.59,
+    "review_count_tabelog": 172,
+    "price_dinner": "-",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Cafeteria, Seafood, Organic",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "5th and Not fixed"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 675,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJa8QiOg84WzURbFyakT-Ve1I",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/35001584-b81de8a6e92151c60d3026d00710c1e7b38bf57f6e04bad13d66b253a8e0d07b.jpg",
+    "place_id": "ChIJa8QiOg84WzURbFyakT-Ve1I",
+    "g_name": "口福の馳走屋 梅乃葉",
+    "g_rating": 4.4,
+    "g_reviews": 675,
+    "g_address": "日本、〒759-3411 山口県萩市須佐５０１０−１",
+    "lat": 34.6224641,
+    "lng": 131.6068799
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "お食事処 大原",
+    "name_en": "Oshokuji Dokoro Ohara",
+    "area": "神奈川県 早川駅",
+    "url": "https://tabelog.com/kanagawa/A1409/A140901/14023879/",
+    "rating": 3.71,
+    "review_count_tabelog": 671,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Cafeteria, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:15 - 14:30 L.O. Food 14:30",
+        "dtl_text": "11:15 - 14:30 L.O. Food 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 693,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJz1hV5-6kGWAR0sh0H62Z2OM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/14023879-395f7ff129833d211d7725792a729857e62240f1264248481628e22c03d6b75f.jpg",
+    "place_id": "ChIJz1hV5-6kGWAR0sh0H62Z2OM",
+    "g_name": "お食事処 大原",
+    "g_rating": 4.4,
+    "g_reviews": 693,
+    "g_address": "日本、〒250-0021 神奈川県小田原市早川１丁目６−１０",
+    "lat": 35.2406744,
+    "lng": 139.1494417
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "うさぎ亭",
+    "name_en": "Usagi Tei",
+    "area": "大分県 佐伯市",
+    "url": "https://tabelog.com/oita/A4401/A440105/44004160/",
+    "rating": 3.59,
+    "review_count_tabelog": 59,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:00",
+        "dtl_text": "11:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 290,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJHUeqaWdfRjURBNmLxGAkjHE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/44004160-0417b2179cf14c94f7670174aabe5637a9cd3d7977eec7c5428542164b16d013.jpg",
+    "place_id": "ChIJHUeqaWdfRjURBNmLxGAkjHE",
+    "g_name": "うさぎ亭",
+    "g_rating": 4.4,
+    "g_reviews": 290,
+    "g_address": "日本、〒876-2401 大分県佐伯市蒲江大字竹野浦河内２１８６−２",
+    "lat": 32.8072198,
+    "lng": 131.9618423
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "西郷食堂",
+    "name_en": "Saigo Shokudo",
+    "area": "鹿児島県 大島郡和泊町",
+    "url": "https://tabelog.com/kagoshima/A4605/A460502/46004806/",
+    "rating": 3.56,
+    "review_count_tabelog": 33,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00 L.O. 13:30",
+        "dtl_text": "11:30 - 14:00 L.O. 13:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 136,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJszAzlW_Y4zQR8fHh1HTyz_s",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/46004806-321db361f897e567c6f5e1716e8f96a97c3d7767ab30a7332bfe612521590236.jpg",
+    "place_id": "ChIJszAzlW_Y4zQR8fHh1HTyz_s",
+    "g_name": "西郷食堂",
+    "g_rating": 4.5,
+    "g_reviews": 136,
+    "g_address": "日本、〒891-9115 鹿児島県大島郡和泊町大字伊延１１６９−２",
+    "lat": 27.4143949,
+    "lng": 128.6423497
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "いし井",
+    "name_en": "Ishii",
+    "area": "東京都 日本橋駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130202/13011465/",
+    "rating": 3.67,
+    "review_count_tabelog": 487,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 13:30 18:00 - 22:00 L.O. Food 19:00",
+        "dtl_text": "18:00 - 22:00 L.O. Food 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 210,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJn5Owg_2LGGAR7vOZ5v4kWOI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/13011465-314b9e29193db095382575d0b78040b76428640ab32fe5d527f6bbb5045f1058.jpg",
+    "place_id": "ChIJn5Owg_2LGGAR7vOZ5v4kWOI",
+    "g_name": "いし井",
+    "g_rating": 4.5,
+    "g_reviews": 210,
+    "g_address": "日本、〒103-0027 東京都中央区日本橋２丁目２−１５",
+    "lat": 35.6819234,
+    "lng": 139.7724953
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "黒川 ゆうあん亭",
+    "name_en": "Kurokawa Yuuan Tei",
+    "area": "愛知県 黒川駅",
+    "url": "https://tabelog.com/aichi/A2301/A230110/23081865/",
+    "rating": 3.6,
+    "review_count_tabelog": 215,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Japanese Cuisine, Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 L.O. 14:30 17:30 - 22:00 L.O. 21:30",
+        "dtl_text": "17:30 - 22:00 L.O. 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 138,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJx-BIXOtxA2ARTqIVXx90aVQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/23081865-eb4207616a2e10bf48eeafe6087306c370c1f8cb0fad4878027b3a9074c41027.jpg",
+    "place_id": "ChIJx-BIXOtxA2ARTqIVXx90aVQ",
+    "g_name": "ゆうあん亭",
+    "g_rating": 4.2,
+    "g_reviews": 138,
+    "g_address": "日本、〒462-0844 愛知県名古屋市北区清水４丁目１５−１",
+    "lat": 35.193354,
+    "lng": 136.912366
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "永井食堂",
+    "name_en": "Nagai Shokudo",
+    "area": "群馬県 渋川市",
+    "url": "https://tabelog.com/gunma/A1004/A100401/10000040/",
+    "rating": 3.67,
+    "review_count_tabelog": 1673,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cafeteria, Pork dishes, Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "09:00 - 18:00",
+        "dtl_text": "09:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "09:00 - 15:00",
+        "dtl_text": "09:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Last order: 17:30"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 5925,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJtXl2dVlnHmARHYmvHf1OMhI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/10000040-b8ff2feee6e2f2c4398ac50137e7ead9835da8df7051cd98b8e54b4ac344f85c.jpg",
+    "place_id": "ChIJtXl2dVlnHmARHYmvHf1OMhI",
+    "g_name": "永井食堂",
+    "g_rating": 4.2,
+    "g_reviews": 5925,
+    "g_address": "日本、〒377-0201 群馬県渋川市上白井４４７７−１",
+    "lat": 36.5651539,
+    "lng": 139.037351
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "かっぱ",
+    "name_en": "Kappa",
+    "area": "岡山県 倉敷市",
+    "url": "https://tabelog.com/okayama/A3302/A330201/33000185/",
+    "rating": 3.58,
+    "review_count_tabelog": 1345,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Yoshoku (Japanese style western cuisine), Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:20 - 14:00 17:00 - 19:30",
+        "dtl_text": "17:00 - 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Regular hours resume from January 3"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 2004,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJwXP72UZWUTUR868AGJkBfXo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/33000185-e79f4788d56ed4be0284719d077ccd6e8f22b7587a98118e8a6355f9b12050cc.jpg",
+    "place_id": "ChIJwXP72UZWUTUR868AGJkBfXo",
+    "g_name": "名代とんかつ かっぱ",
+    "g_rating": 4.2,
+    "g_reviews": 2004,
+    "g_address": "日本、〒710-0055 岡山県倉敷市阿知２丁目１７−２",
+    "lat": 34.5993929,
+    "lng": 133.7690625
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "国八食堂",
+    "name_en": "Kuni Hachi Shokudo",
+    "area": "岐阜県 高山市",
+    "url": "https://tabelog.com/gifu/A2104/A210401/21001354/",
+    "rating": 3.66,
+    "review_count_tabelog": 608,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cafeteria, Regional Cuisine, Tofu dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:40 17:00 - 20:30 L.O. 19:50",
+        "dtl_text": "17:00 - 20:30 L.O. 19:50",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 1916,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7_4uwqqlAmARqjSVpjAupBM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/21001354-a9e433bd3e69a40e517a676a6e75092cd7a0f973bf32447a3737305a9725446e.jpg",
+    "place_id": "ChIJ7_4uwqqlAmARqjSVpjAupBM",
+    "g_name": "国八食堂",
+    "g_rating": 4.3,
+    "g_reviews": 1916,
+    "g_address": "日本、〒506-0041 岐阜県高山市下切町１４４１−３",
+    "lat": 36.1871883,
+    "lng": 137.2544735
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "レバニラ定食 kei楽",
+    "name_en": "Rebanira Teishoku kei Raku",
+    "area": "東京都 清瀬駅",
+    "url": "https://tabelog.com/tokyo/A1328/A132803/13101028/",
+    "rating": 3.6,
+    "review_count_tabelog": 470,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 14:00 L.O. 13:30 17:30 - 22:00 L.O. 21:30",
+        "dtl_text": "17:30 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays"
+    },
+    "google_rating": 3.9,
+    "google_reviews": 474,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAVAYT83nGGARwaWOxeGmgKk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/13101028-fe0c455ac85daca22b93bbc7a2de05bdd1a2f390f1c0c3ab876383cb3c4f2600.jpg",
+    "place_id": "ChIJAVAYT83nGGARwaWOxeGmgKk",
+    "g_name": "KEI楽",
+    "g_rating": 3.9,
+    "g_reviews": 474,
+    "g_address": "日本、〒204-0022 東京都清瀬市松山１丁目２０−３",
+    "lat": 35.7694124,
+    "lng": 139.516989
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "鳥喜多 本店",
+    "name_en": "Torikita Hon Ten",
+    "area": "滋賀県 長浜市",
+    "url": "https://tabelog.com/shiga/A2504/A250402/25000047/",
+    "rating": 3.69,
+    "review_count_tabelog": 918,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Oyako-don (Chicken and egg bowl), Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 13:30 16:30 - 18:30",
+        "dtl_text": "16:30 - 18:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Occasional closures may occur. For the latest updates, please check our Instagram: torikita1931."
+    },
+    "google_rating": 4.1,
+    "google_reviews": 862,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJA6V4UD0pAmAR6s-QOXOXqUI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/25000047-c494da618db78300dfd875e079e768845f03d25bff980d3262d5c15c7fbfafe9.jpg",
+    "place_id": "ChIJA6V4UD0pAmAR6s-QOXOXqUI",
+    "g_name": "鳥喜多本店",
+    "g_rating": 4.1,
+    "g_reviews": 862,
+    "g_address": "日本、〒526-0059 滋賀県長浜市元浜町８−２６",
+    "lat": 35.3796636,
+    "lng": 136.2670753
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "殿田",
+    "name_en": "Tonoda",
+    "area": "京都府 九条駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260604/26011323/",
+    "rating": 3.66,
+    "review_count_tabelog": 609,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cafeteria, Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "10:30 - 17:00",
+        "dtl_text": "10:30 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 998,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJk66G9qwIAWARBpfGn3pYedw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/26011323-e343d5ae9218f89320861dc3946997f36e73441d16a200eb00d02b8e1c8fa401.jpg",
+    "place_id": "ChIJk66G9qwIAWARBpfGn3pYedw",
+    "g_name": "殿田食堂",
+    "g_rating": 4.4,
+    "g_reviews": 998,
+    "g_address": "日本、〒601-8002 京都府京都市南区東九条上殿田町１５",
+    "lat": 34.9819614,
+    "lng": 135.7583429
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "くしろ港町 釧ちゃん食堂 くしろ水産センター店",
+    "name_en": "Kushiro Minato Machi Senchan Shokudo Kushiro Suisan Senta Ten",
+    "area": "北海道 釧路市",
+    "url": "https://tabelog.com/hokkaido/A0112/A011201/1051822/",
+    "rating": 3.49,
+    "review_count_tabelog": 285,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Cafeteria, Curry, Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "07:00 - 15:00",
+        "dtl_text": "07:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 1103,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ___vNnc9cl8RUV6sCLR_Ebw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/1051822-983620b963719eb5ddaf897d8a3bae266d489cb71c60391a96f45f77c4fea97c.jpg",
+    "place_id": "ChIJ___vNnc9cl8RUV6sCLR_Ebw",
+    "g_name": "釧ちゃん食堂 くしろ水産センター店",
+    "g_rating": 4.2,
+    "g_reviews": 1103,
+    "g_address": "日本、〒085-0024 北海道釧路市浜町３−１８ くしろ水産センタ １階",
+    "lat": 42.9897887,
+    "lng": 144.3648034
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "チーナン食堂",
+    "name_en": "Chinan Shokudo",
+    "area": "福島県 いわき市",
+    "url": "https://tabelog.com/fukushima/A0704/A070401/7001301/",
+    "rating": 3.49,
+    "review_count_tabelog": 474,
+    "price_dinner": "～￥999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 16:00",
+        "dtl_text": "11:00 - 16:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.9,
+    "google_reviews": 1196,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJUVtLnLRsIWARokJAKSiblag",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/7001301-2e688c17f391a6de00456000ad0b4f73f3c4f228389fcf9022a4e352cec8ac19.jpg",
+    "place_id": "ChIJUVtLnLRsIWARokJAKSiblag",
+    "g_name": "チーナン食堂",
+    "g_rating": 3.9,
+    "g_reviews": 1196,
+    "g_address": "日本、〒971-8101 福島県いわき市小名浜栄町６６−３０",
+    "lat": 36.9444316,
+    "lng": 140.9131326
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "大黒",
+    "name_en": "Daikoku",
+    "area": "大阪府 大阪難波駅",
+    "url": "https://tabelog.com/osaka/A2701/A270202/27001293/",
+    "rating": 3.65,
+    "review_count_tabelog": 568,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Japanese Cuisine, Regional Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 14:30 L.O. 14:00",
+        "dtl_text": "11:30 - 14:30 L.O. 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.3,
+    "google_reviews": 61,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGzxL72znAGARTYBfQTrn_vs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/27001293-f193b84f8e2804f8b94e20b11e2340592880159d7f189b86322b01b38ca5ec92.jpg",
+    "place_id": "ChIJGzxL72znAGARTYBfQTrn_vs",
+    "g_name": "ダイコクドラッグ なんば店",
+    "g_rating": 3.3,
+    "g_reviews": 61,
+    "g_address": "日本、〒556-0011 大阪府大阪市浪速区難波中１丁目１８−３５",
+    "lat": 34.6644316,
+    "lng": 135.4998869
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "シロクマ食堂",
+    "name_en": "Shirokuma Shokudo",
+    "area": "北海道 小樽市",
+    "url": "https://tabelog.com/hokkaido/A0106/A010601/1037103/",
+    "rating": 3.67,
+    "review_count_tabelog": 423,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Izakaya (Tavern), Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 14:30 L.O. 14:00 18:00 - 22:00 L.O. 21:00",
+        "dtl_text": "18:00 - 22:00 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 15:30 L.O. 15:00 18:00 - 22:00 L.O. 21:00",
+        "dtl_text": "18:00 - 22:00 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays and Thursdays on the 2nd and 4th weeks of the month, but this may vary. Please check our Instagram or contact the restaurant directly for confirmation."
+    },
+    "google_rating": 3.8,
+    "google_reviews": 402,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJN7B2wrbhCl8RRAbh_cTW_RY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/1037103-efa7b8787f6c903b808e33e6fcb2cefb4d726261e7837eac05cc52ca66876656.jpg",
+    "place_id": "ChIJN7B2wrbhCl8RRAbh_cTW_RY",
+    "g_name": "シロクマ食堂",
+    "g_rating": 3.8,
+    "g_reviews": 402,
+    "g_address": "日本、〒047-0031 北海道小樽市色内３丁目６−３",
+    "lat": 43.2063864,
+    "lng": 140.9989164
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "あじフライ食堂かば",
+    "name_en": "Aji Furai Shokudo Kaba",
+    "area": "福岡県 別府駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400202/40057140/",
+    "rating": 3.66,
+    "review_count_tabelog": 167,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cafeteria, Deep-fried foods",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 17:00 - 20:00 L.O. 19:30",
+        "dtl_text": "17:00 - 20:00 L.O. 19:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (announcements will be made via social media and other channels)"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 238,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJlTfxlr-TQTURY8FZKHk2Q8U",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/40057140-937da17d349c608c1370fa8330bcd0633fc1d87c85691ef5a20fb7478976174b.jpg",
+    "place_id": "ChIJlTfxlr-TQTURY8FZKHk2Q8U",
+    "g_name": "あじフライ食堂 かば",
+    "g_rating": 4.5,
+    "g_reviews": 238,
+    "g_address": "日本、〒814-0104 福岡県福岡市城南区別府２丁目２１−５",
+    "lat": 33.5734498,
+    "lng": 130.3690619
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "はまべ",
+    "name_en": "Hamabe",
+    "area": "千葉県 浜金谷駅",
+    "url": "https://tabelog.com/chiba/A1206/A120603/12035117/",
+    "rating": 3.72,
+    "review_count_tabelog": 364,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Cafeteria, Seafood, Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 15:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (Thursdays)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 721,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJF7mbvvoaGGARBZENB3893M8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/12035117-4ef48d5f1ff6a608ec2976e9eeda09c4e6c1f2b7874d6506ae1acb1d13aba22f.jpg",
+    "place_id": "ChIJF7mbvvoaGGARBZENB3893M8",
+    "g_name": "漁師めし はまべ",
+    "g_rating": 4.3,
+    "g_reviews": 721,
+    "g_address": "日本、〒299-1861 千葉県富津市金谷３９７１",
+    "lat": 35.1643221,
+    "lng": 139.8228485
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "朝日屋",
+    "name_en": "Asahiya",
+    "area": "岐阜県 大垣市",
+    "url": "https://tabelog.com/gifu/A2101/A210104/21008822/",
+    "rating": 3.68,
+    "review_count_tabelog": 647,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Udon (Wheat noodles), Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:30 - 17:30",
+        "dtl_text": "10:30 - 17:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 959,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJbfAc-W-xA2ARSOg4uYDWymo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/21008822-a32342e3bc83d5b6b21d5fc9485c0d210d978c89fbe355b36fd3860255c5973e.jpg",
+    "place_id": "ChIJbfAc-W-xA2ARSOg4uYDWymo",
+    "g_name": "手打うどん 朝日屋",
+    "g_rating": 4.3,
+    "g_reviews": 959,
+    "g_address": "日本、〒503-0882 岐阜県大垣市東長町４０",
+    "lat": 35.3609417,
+    "lng": 136.6218417
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "田中田式海鮮食堂 魚忠",
+    "name_en": "Tanakadashiki Seafood Shokudo Uochu",
+    "area": "福岡県 西鉄福岡（天神）駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400103/40040601/",
+    "rating": 3.77,
+    "review_count_tabelog": 516,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 21:30 L.O. 21:00",
+        "dtl_text": "11:30 - 21:30 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "October long holiday: October 7 (Tue) & 8 (Wed)"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 1282,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6fc0XISRQTURaOh4csxp_VQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/40040601-916cee54281749c1892a340aa672fbbcffa022eb6e2351562179ca64b37e6301.jpg",
+    "place_id": "ChIJ6fc0XISRQTURaOh4csxp_VQ",
+    "g_name": "田中田式海鮮食堂 魚忠(うおちゅう)",
+    "g_rating": 4.4,
+    "g_reviews": 1282,
+    "g_address": "日本、〒810-0021 福岡県福岡市中央区今泉１丁目１８−２６",
+    "lat": 33.5853751,
+    "lng": 130.3976874
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "直ちゃん",
+    "name_en": "Naochan",
+    "area": "宮崎県 延岡市",
+    "url": "https://tabelog.com/miyazaki/A4505/A450501/45000063/",
+    "rating": 3.57,
+    "review_count_tabelog": 779,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cafeteria, Chicken dishes, Regional Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "11:00 - 13:45",
+        "dtl_text": "11:00 - 13:45",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 13:45 17:00 - 19:45",
+        "dtl_text": "17:00 - 19:45",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 1671,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJTQIkcbIeRzURSJda5VrIfdQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/45000063-a46c0561ad3ab10f9404537fb26781cd15353f7d5cfc32ef75345e32c73c0618.jpg",
+    "place_id": "ChIJTQIkcbIeRzURSJda5VrIfdQ",
+    "g_name": "元祖 チキン南蛮 直ちゃん",
+    "g_rating": 4.4,
+    "g_reviews": 1671,
+    "g_address": "日本、〒882-0054 宮崎県延岡市栄町９−３",
+    "lat": 32.5891356,
+    "lng": 131.6706166
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "鉢の木",
+    "name_en": "Hachi no Ki",
+    "area": "福島県 福島市",
+    "url": "https://tabelog.com/fukushima/A0701/A070101/7003932/",
+    "rating": 3.57,
+    "review_count_tabelog": 215,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon, Wed - Sun": {}
+      },
+      "closed_on": "Tuesdays"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 570,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJeRTTBY6Eil8RI7SYBgCuCcw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/7003932-756530ae9c2bd7dbc95e3930e13bbdd97bb04acd2c7d4ffc41791c65e76d1d05.jpg",
+    "place_id": "ChIJeRTTBY6Eil8RI7SYBgCuCcw",
+    "g_name": "鉢の木",
+    "g_rating": 4.1,
+    "g_reviews": 570,
+    "g_address": "日本、〒960-8154 福島県福島市伏拝台田９−２",
+    "lat": 37.7235515,
+    "lng": 140.4583356
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "海峡荘",
+    "name_en": "Kaikyo So",
+    "area": "青森県 下北郡大間町",
+    "url": "https://tabelog.com/aomori/A0204/A020403/2000217/",
+    "rating": 3.64,
+    "review_count_tabelog": 349,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Cafeteria, Seafood, Kaisen-don (Seafood bowl)",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Winter break from November to mid-April"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 316,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ3cmf4mcnl8RXIUzTWMOY7U",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/2000217-65a80c0c967c6c905d4d62f2898f0c4d91b00c5d9f27ac570467ed56ccb1fb34.jpg",
+    "place_id": "ChIJQ3cmf4mcnl8RXIUzTWMOY7U",
+    "g_name": "民宿 海峡荘 本館",
+    "g_rating": 4.4,
+    "g_reviews": 316,
+    "g_address": "日本、〒039-4601 青森県下北郡大間町大間大間平１７−７３４",
+    "lat": 41.5462126,
+    "lng": 140.9133772
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "ごはんや 飯すけ",
+    "name_en": "Gohan-ya Hansuke",
+    "area": "福岡県 大濠公園駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400105/40042379/",
+    "rating": 3.66,
+    "review_count_tabelog": 217,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Cafeteria, Seafood, Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00 17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (please check our Instagram or website for updates). You can find us on Instagram by searching for hansukegohan."
+    },
+    "google_rating": 4.1,
+    "google_reviews": 352,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJtZPPCC6SQTUR_Ucj4cimmko",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/40042379-dabc264dc15df76383df9af77f6dd7686f3fbe8c400879d14069f6a3209018fa.jpg",
+    "place_id": "ChIJtZPPCC6SQTUR_Ucj4cimmko",
+    "g_name": "ごはんや 飯すけ",
+    "g_rating": 4.1,
+    "g_reviews": 352,
+    "g_address": "日本、〒810-0074 福岡県福岡市中央区大手門３丁目３−２４ 小金丸ビル １Ｆ",
+    "lat": 33.5907632,
+    "lng": 130.3810405
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "かつれつ四谷たけだ",
+    "name_en": "Katsuretsu Yotsuya Takeda",
+    "area": "東京都 四ツ谷駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130902/13131643/",
+    "rating": 3.71,
+    "review_count_tabelog": 2832,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Croquette, Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 15:30 L.O. 15:00 17:00 - 21:00 L.O. 20:30",
+        "dtl_text": "17:00 - 21:00 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:00 - 15:30 L.O. 15:00",
+        "dtl_text": "11:00 - 15:30 L.O. 15:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 1614,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJx1Vhs4uMGGARefqORFhdLyY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/13131643-05cd14841ed8f4f68e1afbcca88923046c498ddb636b102b377be94dab80ebaf.jpg",
+    "place_id": "ChIJx1Vhs4uMGGARefqORFhdLyY",
+    "g_name": "かつれつ 四谷たけだ",
+    "g_rating": 4.3,
+    "g_reviews": 1614,
+    "g_address": "日本、〒160-0004 東京都新宿区四谷１丁目４−２ 峯村ビル １Ｆ",
+    "lat": 35.68639539999999,
+    "lng": 139.7293001
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "漣 伊勢店",
+    "name_en": "Sazanami Ise Ten",
+    "area": "三重県 伊勢市",
+    "url": "https://tabelog.com/mie/A2403/A240301/24001215/",
+    "rating": 3.58,
+    "review_count_tabelog": 252,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Cafeteria, Deep-fried foods, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:30 L.O. 14:00 17:30 - 21:00 L.O. 20:30",
+        "dtl_text": "17:30 - 21:00 L.O. 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (We will remain open on public holidays and close the following Tuesday.)"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 512,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVTiViGNaBGAR0l67jncPCzc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/24001215-ff6d339eb849070ae2028fa69bc4581658c3b26533d89cbf6f6280848bbb7f30.jpg",
+    "place_id": "ChIJVTiViGNaBGAR0l67jncPCzc",
+    "g_name": "漣 伊勢店",
+    "g_rating": 4.1,
+    "g_reviews": 512,
+    "g_address": "日本、〒516-0017 三重県伊勢市神久３丁目５−５５ ホテルキャッスルイン伊勢 1F",
+    "lat": 34.495345,
+    "lng": 136.7202851
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "魚まる食堂",
+    "name_en": "Uo Maru Shokudo",
+    "area": "青森県 八戸市",
+    "url": "https://tabelog.com/aomori/A0203/A020301/2012503/",
+    "rating": 3.47,
+    "review_count_tabelog": 142,
+    "price_dinner": "-",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Cafeteria, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat",
+        "dtl": "10:00 - 15:00 L.O. 14:30",
+        "dtl_text": "10:00 - 15:00 L.O. 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 173,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJc3gg_dNTm18ROf-5Q1zfk34",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/2012503-a3906357be03925d1e442ca4c3229b6486e575822365704487b8eb86b0428c7c.jpg",
+    "place_id": "ChIJc3gg_dNTm18ROf-5Q1zfk34",
+    "g_name": "尾崎商店 (鮮魚販売 ) 魚まる食堂",
+    "g_rating": 4.2,
+    "g_reviews": 173,
+    "g_address": "日本、〒031-0811 青森県八戸市新湊２丁目１５−１７",
+    "lat": 40.5262118,
+    "lng": 141.5295598
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "松月",
+    "name_en": "Shogetsu",
+    "area": "愛知県 蒲郡市",
+    "url": "https://tabelog.com/aichi/A2306/A230603/23066940/",
+    "rating": 3.54,
+    "review_count_tabelog": 185,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Cafeteria, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat",
+        "dtl": "11:00 - 14:00 L.O. Food 14:00 17:00 - 21:00 L.O. Food 19:00",
+        "dtl_text": "17:00 - 21:00 L.O. Food 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "11:00 - 14:00 L.O. Food 14:00",
+        "dtl_text": "11:00 - 14:00 L.O. Food 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 542,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8SUTbePABGAR0u4rYszTDzA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/23066940-bb1fcfa9f5f2c08baaf54ed66c1c7516eb912496aa2539415672c755e06ff006.jpg",
+    "place_id": "ChIJ8SUTbePABGAR0u4rYszTDzA",
+    "g_name": "松月",
+    "g_rating": 4.3,
+    "g_reviews": 542,
+    "g_address": "日本、〒443-0104 愛知県蒲郡市形原町春日浦２９−１",
+    "lat": 34.7998103,
+    "lng": 137.1909212
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "ここのつ",
+    "name_en": "Kokonotsu",
+    "area": "東京都 北千住駅",
+    "url": "https://tabelog.com/tokyo/A1324/A132402/13158606/",
+    "rating": 3.59,
+    "review_count_tabelog": 1210,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cafeteria, Kara-age (Deep-fried chicken), Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Weekdays": {},
+        "Public Holidays": {}
+      },
+      "closed_on": "Sundays"
+    },
+    "google_rating": 3.9,
+    "google_reviews": 650,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJIzkp_06OGGAR2PhAZocawm8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/13158606-20b766a798608bfda97aa68d38a1e7dba098c901c6fbecf883a8e8477dd6d9a1.jpg",
+    "place_id": "ChIJIzkp_06OGGAR2PhAZocawm8",
+    "g_name": "究極のまかない ここのつ",
+    "g_rating": 3.9,
+    "g_reviews": 650,
+    "g_address": "日本、〒120-0026 東京都足立区千住旭町４３−１３",
+    "lat": 35.75047000000001,
+    "lng": 139.8064512
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "さばめしの鯖匠",
+    "name_en": "Sabameshi no Sabashou",
+    "area": "東京都 水道橋駅",
+    "url": "https://tabelog.com/tokyo/A1310/A131003/13265562/",
+    "rating": 3.68,
+    "review_count_tabelog": 1394,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cafeteria, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 14:30 17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "11:30 - 14:30",
+        "dtl_text": "11:30 - 14:30"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 420,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJBWEEgTyNGGARxwL8sd7Nz-k",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/13265562-8b8f933d27b9c1586d693650f2434962a383c4e8f63d8db6849b127b2ddf1906.jpg",
+    "place_id": "ChIJBWEEgTyNGGARxwL8sd7Nz-k",
+    "g_name": "さばめしの鯖匠",
+    "g_rating": 4.3,
+    "g_reviews": 420,
+    "g_address": "日本、〒101-0061 東京都千代田区神田三崎町２丁目２１−１１",
+    "lat": 35.7014073,
+    "lng": 139.7536757
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "いろり じねん",
+    "name_en": "Irori Jinen",
+    "area": "新潟県 魚沼市",
+    "url": "https://tabelog.com/niigata/A1504/A150401/15001175/",
+    "rating": 3.55,
+    "review_count_tabelog": 61,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Regional Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:00 L.O. Food 13:30",
+        "dtl_text": "11:00 - 14:00 L.O. Food 13:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 139,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJy8VxqV6F9V8Rpw0VM3Mn3hI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/15001175-2e5660912afc21c5eefbab23513f0a1cca920b72ddc789c72da448a8fd7efeeb.jpg",
+    "place_id": "ChIJy8VxqV6F9V8Rpw0VM3Mn3hI",
+    "g_name": "いろりじねん",
+    "g_rating": 4.6,
+    "g_reviews": 139,
+    "g_address": "日本、〒946-0087 新潟県魚沼市上折立７１８",
+    "lat": 37.2032762,
+    "lng": 139.0743164
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "とうふの比嘉",
+    "name_en": "Tofu no Higa",
+    "area": "沖縄県 石垣市",
+    "url": "https://tabelog.com/okinawa/A4705/A470501/47001361/",
+    "rating": 3.49,
+    "review_count_tabelog": 951,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cafeteria, Tofu dishes, Okinawa noodle soup",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "06:30 - 15:00",
+        "dtl_text": "06:30 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 1378,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJff-LcgTgXzQR5BsBI2HQW_8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/47001361-7224108bf5d67817902738ba5505be6d24f1ab586cd95788b482c3181279d971.jpg",
+    "place_id": "ChIJff-LcgTgXzQR5BsBI2HQW_8",
+    "g_name": "とうふの比嘉",
+    "g_rating": 4.3,
+    "g_reviews": 1378,
+    "g_address": "日本、〒907-0023 沖縄県石垣市石垣５７０",
+    "lat": 24.3534495,
+    "lng": 124.1602265
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "こもれび食堂+",
+    "name_en": "Komorebi Shokudo +",
+    "area": "埼玉県 浦和駅",
+    "url": "https://tabelog.com/saitama/A1101/A110102/11036633/",
+    "rating": 3.64,
+    "review_count_tabelog": 265,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Fri, Sat, Sun",
+        "dtl": "11:15 - 15:30 L.O. 15:00 17:30 - 19:30 L.O. 19:00",
+        "dtl_text": "17:30 - 19:30 L.O. 19:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "11:15 - 15:30 L.O. 15:00",
+        "dtl_text": "11:15 - 15:30 L.O. 15:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays and Tuesdays"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 287,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJj8ylB4DqGGARBYyFvU7s4vs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/11036633-2fd655006068b115b4046f8887551de4c46dbae3fe2dd0c85a18687246721b4a.jpg",
+    "place_id": "ChIJj8ylB4DqGGARBYyFvU7s4vs",
+    "g_name": "こもれび食堂＋",
+    "g_rating": 4.4,
+    "g_reviews": 287,
+    "g_address": "日本、〒330-0062 埼玉県さいたま市浦和区仲町２丁目１６−１５ ATビル １階",
+    "lat": 35.8591109,
+    "lng": 139.6504677
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "美味なかよし",
+    "name_en": "Bimi Nakayoshi",
+    "area": "大分県 大分市",
+    "url": "https://tabelog.com/oita/A4401/A440101/44003656/",
+    "rating": 3.65,
+    "review_count_tabelog": 189,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cafeteria, Regional Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 14:00",
+        "dtl_text": "11:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 398,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJp7GhudehRjURTB8hccwqkww",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/44003656-bf7eca1cb3bdae089ccccada4e951080665922e5b570892f7ebbb045a84fee1a.jpg",
+    "place_id": "ChIJp7GhudehRjURTB8hccwqkww",
+    "g_name": "美味なかよし",
+    "g_rating": 4.5,
+    "g_reviews": 398,
+    "g_address": "日本、〒870-0037 大分県大分市東春日町１０−１",
+    "lat": 33.2407431,
+    "lng": 131.5997164
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "銀シャリ屋 ゲコ亭",
+    "name_en": "Ginshariya Geko Tei",
+    "area": "大阪府 寺地町駅",
+    "url": "https://tabelog.com/osaka/A2705/A270501/27003060/",
+    "rating": 3.54,
+    "review_count_tabelog": 895,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "08:00 - 14:00",
+        "dtl_text": "08:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 308,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJUUNMtzndAGAR4ZfCyuPvEVE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/27003060-7214586d0164197372aabc41538f43e9c1e6d614fdbd4ae3bd643e6252882dd0.jpg",
+    "place_id": "ChIJUUNMtzndAGAR4ZfCyuPvEVE",
+    "g_name": "銀シャリ en堺",
+    "g_rating": 4.4,
+    "g_reviews": 308,
+    "g_address": "日本、〒590-0945 大阪府堺市堺区戎之町東３丁１−９ オクムラ ビル 1F",
+    "lat": 34.5791492,
+    "lng": 135.4774138
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "仁亭",
+    "name_en": "Jin Tei",
+    "area": "福島県 郡山市",
+    "url": "https://tabelog.com/fukushima/A0702/A070201/7000028/",
+    "rating": 3.65,
+    "review_count_tabelog": 489,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Yoshoku (Japanese style western cuisine), Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 14:15 17:00 - 20:30",
+        "dtl_text": "17:00 - 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The third Wednesday of each month"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 643,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJV2OGzqRsIGARe9nYXQOTdQo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/7000028-1e89d3257ba18b4c9063f456c126a484b1bd6d74cbbbf714cf89ce289ebc68ae.jpg",
+    "place_id": "ChIJV2OGzqRsIGARe9nYXQOTdQo",
+    "g_name": "仁亭",
+    "g_rating": 4.5,
+    "g_reviews": 643,
+    "g_address": "日本、〒963-8861 福島県郡山市鶴見坦３丁目５−２",
+    "lat": 37.3914573,
+    "lng": 140.3620058
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "菱田屋",
+    "name_en": "Hishida Ya",
+    "area": "東京都 駒場東大前駅",
+    "url": "https://tabelog.com/tokyo/A1318/A131801/13010480/",
+    "rating": 3.74,
+    "review_count_tabelog": 1125,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Seafood, Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 14:00 17:30 - 22:00 L.O. Food 21:30",
+        "dtl_text": "17:30 - 22:00 L.O. Food 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "17:30 - 22:00 L.O. Food 21:30",
+        "dtl_text": "17:30 - 22:00 L.O. Food 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 630,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJTYb8plbzGGAR1t-b63-Rkq8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/13010480-d471dfcedbacfa066a81f11161b33ee05ebfb5a53fedc4f95b42e050a15774bb.jpg",
+    "place_id": "ChIJTYb8plbzGGAR1t-b63-Rkq8",
+    "g_name": "菱田屋",
+    "g_rating": 4,
+    "g_reviews": 630,
+    "g_address": "日本、〒153-0041 東京都目黒区駒場１丁目２７−１２",
+    "lat": 35.6576637,
+    "lng": 139.6858613
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "めんどり屋",
+    "name_en": "Mendoriya",
+    "area": "福岡県 朝倉市",
+    "url": "https://tabelog.com/fukuoka/A4008/A400802/40013231/",
+    "rating": 3.64,
+    "review_count_tabelog": 77,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cafeteria, Kara-age (Deep-fried chicken), Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Saturdays, Sundays, and Public Holidays"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 165,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJm21XeUd0QTURQyK5qfIvT94",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/40013231-e34c1b7fa8059e2c2b2c091539f4c8c03aff7282845aa46425fe0adee513a248.jpg",
+    "place_id": "ChIJm21XeUd0QTURQyK5qfIvT94",
+    "g_name": "めんどり屋",
+    "g_rating": 4.1,
+    "g_reviews": 165,
+    "g_address": "日本、〒838-0025 福岡県朝倉市相窪３７−２",
+    "lat": 33.4085275,
+    "lng": 130.6881607
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "京粕漬 魚久 銀座店",
+    "name_en": "Kyokasuduke Uokyu Ginza Ten",
+    "area": "東京都 東銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13005687/",
+    "rating": 3.65,
+    "review_count_tabelog": 536,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 14:00",
+        "dtl_text": "11:00 - 14:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "*Due to staff shortages, we will be offering a limited menu of 30 meals per day for the time being. Service will end once we reach this limit. We appreciate your understanding and cooperation."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 287,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQCwLeGLGGARNhSs4-8I_l4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/13005687-e3eca4e45357b2e2a28d21b3849d56adf07dc4b1fe87f13458e65d96c044614e.jpg",
+    "place_id": "ChIJAQCwLeGLGGARNhSs4-8I_l4",
+    "g_name": "京粕漬 魚久 銀座店（キョウカスヅケウオキュウ）",
+    "g_rating": 4.3,
+    "g_reviews": 287,
+    "g_address": "日本、〒104-0061 東京都中央区銀座３丁目１０−１５ 東銀第２ビル",
+    "lat": 35.6711669,
+    "lng": 139.7678728
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "炭焼き かどた/お料理すゞ㐂",
+    "name_en": "sumiyaki kadota or yourisu zuki",
+    "area": "東京都 恵比寿駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130302/13016622/",
+    "rating": 3.7,
+    "review_count_tabelog": 1193,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Motsu Nabe (Offel Hot Pot)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 15:00 L.O. 14:30 18:00 - 03:00 L.O. 02:00",
+        "dtl_text": "18:00 - 03:00 L.O. 02:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon - Sat": {}
+      },
+      "closed_on": "Year-end & New Year Holidays and Obon vacation"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 478,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6aAgp0GLGGARgY7SUPthug4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/13016622-9010c3a046368bf3e982179e02f0fe13233a50dc5d3431e1a43c9f20e0f278ac.jpg",
+    "place_id": "ChIJ6aAgp0GLGGARgY7SUPthug4",
+    "g_name": "炭焼き かどた /お料理 すゞ㐂（旧食彩かどた）",
+    "g_rating": 4.3,
+    "g_reviews": 478,
+    "g_address": "日本、〒150-0021 東京都渋谷区恵比寿西１丁目１−２ しんみつビル B1F",
+    "lat": 35.6479096,
+    "lng": 139.7091976
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "海鮮処 かふか",
+    "name_en": "Seafood Dokoro Kafka",
+    "area": "北海道 礼文郡礼文町",
+    "url": "https://tabelog.com/hokkaido/A0109/A010906/1005453/",
+    "rating": 3.51,
+    "review_count_tabelog": 165,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Cafeteria, Kaisen-don (Seafood bowl), Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 21:00",
+        "dtl_text": "11:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Winter Season": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 548,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQaFkl27pD18RG9id2Dp4PQo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/1005453-8be081dfb1a8b76e4c62009fd0dd52ccd4cf52841781c3cc989cddc4ac181e22.jpg",
+    "place_id": "ChIJQaFkl27pD18RG9id2Dp4PQo",
+    "g_name": "海鮮処 かふか",
+    "g_rating": 4.1,
+    "g_reviews": 548,
+    "g_address": "日本、〒097-1201 北海道礼文郡礼文町香深村トンナイ５５８−１",
+    "lat": 45.301968,
+    "lng": 141.0473829
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "キセキ食堂 上尾店",
+    "name_en": "Kiseki Shokudo Kamio Ten",
+    "area": "埼玉県 上尾駅",
+    "url": "https://tabelog.com/saitama/A1104/A110401/11043868/",
+    "rating": 3.61,
+    "review_count_tabelog": 613,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Pork dishes, Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "10:00 - 14:30",
+        "dtl_text": "10:00 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 1230,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGQxdAvTFGGARjxiNDMRCawg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/11043868-e658e6d88a5b6d17edfca03eb5bbfed52e510811f1a309c73805c81d5f09b9d2.jpg",
+    "place_id": "ChIJGQxdAvTFGGARjxiNDMRCawg",
+    "g_name": "キセキ食堂 上尾本店",
+    "g_rating": 4,
+    "g_reviews": 1230,
+    "g_address": "日本、〒362-0014 埼玉県上尾市本町３丁目１１−１３",
+    "lat": 35.9789205,
+    "lng": 139.5941463
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "ミートピア",
+    "name_en": "Meatopia",
+    "area": "山形県 米沢市",
+    "url": "https://tabelog.com/yamagata/A0602/A060201/6000398/",
+    "rating": 3.61,
+    "review_count_tabelog": 290,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Cafeteria, Sukiyaki, Shabu shabu (Japanese hotpot)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 14:00 17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 706,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJo7ohqT_wil8REvRZyNnlz64",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/6000398-fa1aa2636b7e3b6307c3f177b7c5fb80431b231c6a1d05904df6a3df163cc6aa.jpg",
+    "place_id": "ChIJo7ohqT_wil8REvRZyNnlz64",
+    "g_name": "ミートピア",
+    "g_rating": 4.2,
+    "g_reviews": 706,
+    "g_address": "日本、〒992-0045 山形県米沢市中央１丁目１１−９ 2F",
+    "lat": 37.9135085,
+    "lng": 140.1106411
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "梅山鉄平食堂 本店",
+    "name_en": "Umeyama Teppei Shokudo Hon Ten",
+    "area": "福岡県 渡辺通駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400103/40018886/",
+    "rating": 3.69,
+    "review_count_tabelog": 775,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Kaisen-don (Seafood bowl), Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 21:00 L.O. 20:30",
+        "dtl_text": "11:30 - 21:00 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 1518,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJvaxEAZqRQTURqfbaaTQEW8g",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/40018886-c05f01829d56a2fdf37a6278182e6552c864f8d78f70ae8ef13cb161599ec41f.jpg",
+    "place_id": "ChIJvaxEAZqRQTURqfbaaTQEW8g",
+    "g_name": "梅山鉄平食堂 本店",
+    "g_rating": 4.3,
+    "g_reviews": 1518,
+    "g_address": "日本、〒810-0004 福岡県福岡市中央区渡辺通３丁目６−１ 1階",
+    "lat": 33.58555980000001,
+    "lng": 130.4044411
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "西村食堂",
+    "name_en": "Nishimura Shokudo",
+    "area": "三重県 鳥羽市",
+    "url": "https://tabelog.com/mie/A2403/A240302/24000942/",
+    "rating": 3.61,
+    "review_count_tabelog": 278,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Cafeteria, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "11:00 - 19:00",
+        "dtl_text": "11:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 590,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJORoHYcb9BGARQBUR1WNBmDQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/24000942-8fbb23857699498f2f191117f37eed03b0866cc557f572b0ee95141b2b306ac6.jpg",
+    "place_id": "ChIJORoHYcb9BGARQBUR1WNBmDQ",
+    "g_name": "西村食堂",
+    "g_rating": 4.2,
+    "g_reviews": 590,
+    "g_address": "日本、〒517-0026 三重県鳥羽市石鏡町３３６−１",
+    "lat": 34.4466209,
+    "lng": 136.9185061
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "旅路",
+    "name_en": "Tabiji",
+    "area": "青森県 東津軽郡外ヶ浜町",
+    "url": "https://tabelog.com/aomori/A0201/A020103/2007386/",
+    "rating": 3.5,
+    "review_count_tabelog": 69,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Ramen, Kaisen-don (Seafood bowl)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 125,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6-6IYOz3m18RF2YExdTaRas",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/2007386-b82088da4bc15b4d4f52712263107af102149879805c2be711d8ab37888a82bf.jpg",
+    "place_id": "ChIJ6-6IYOz3m18RF2YExdTaRas",
+    "g_name": "ラーメン店 旅路",
+    "g_rating": 4.4,
+    "g_reviews": 125,
+    "g_address": "日本、〒030-1404 青森県東津軽郡外ヶ浜町平舘弥蔵釜１２２−７",
+    "lat": 41.1917553,
+    "lng": 140.6304924
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "旬家ばんちゃん",
+    "name_en": "Shunya Ban Chan",
+    "area": "沖縄県 石垣市",
+    "url": "https://tabelog.com/okinawa/A4705/A470501/47012017/",
+    "rating": 3.59,
+    "review_count_tabelog": 302,
+    "price_dinner": "-",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Cafeteria, Creative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri, Sat, Sun",
+        "dtl": "09:30 - 15:00 L.O. Food 13:30",
+        "dtl_text": "09:30 - 15:00 L.O. Food 13:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays and Thursdays, with occasional temporary closures for training or events. We kindly ask that you make a reservation in advance before visiting."
+    },
+    "google_rating": 4.6,
+    "google_reviews": 437,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJCbZqHSfiXzQRayE2X8RBQ6w",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/47012017-c93b6b21599f4d5d5b98d2f51c42688ff73e06ebecd17ea830a2186c4101ba1c.jpg",
+    "place_id": "ChIJCbZqHSfiXzQRayE2X8RBQ6w",
+    "g_name": "旬家ばんちゃん",
+    "g_rating": 4.6,
+    "g_reviews": 437,
+    "g_address": "日本、〒907-0242 沖縄県石垣市白保１３−１",
+    "lat": 24.3541399,
+    "lng": 124.244876
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "博多ごまさば屋",
+    "name_en": "Hakata Gomasaba Ya",
+    "area": "福岡県 赤坂駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400104/40034751/",
+    "rating": 3.67,
+    "review_count_tabelog": 1377,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Seafood, Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 14:00 L.O. 14:00 17:30 - 21:30 L.O. 21:30",
+        "dtl_text": "17:30 - 21:30 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 2022,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJzTGkh4iRQTURJRTd5fzifgk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/40034751-d50eaaf4ccd6611fde4a9d32f94e777525da497a545463c3655f2769866d460b.jpg",
+    "place_id": "ChIJzTGkh4iRQTURJRTd5fzifgk",
+    "g_name": "博多 ごまさば屋",
+    "g_rating": 4.4,
+    "g_reviews": 2022,
+    "g_address": "日本、〒810-0073 福岡県福岡市中央区舞鶴１丁目２−１１ オガワビル １F",
+    "lat": 33.5909686,
+    "lng": 130.3930237
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "しゃけ小島 本店",
+    "name_en": "Shake Kojima Hon Ten",
+    "area": "東京都 代田橋駅",
+    "url": "https://tabelog.com/tokyo/A1318/A131808/13095793/",
+    "rating": 3.66,
+    "review_count_tabelog": 516,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "-",
+    "sub_categories": "Cafeteria, Seafood, Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 23:00 L.O. 22:00",
+        "dtl_text": "17:00 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 295,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJt5Uc_wTzGGARt9J2c4KYz30",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/13095793-63361812e37dcab12ace990b47891201c331717c360a1ba95d7b9ea4e0e311af.jpg",
+    "place_id": "ChIJt5Uc_wTzGGARt9J2c4KYz30",
+    "g_name": "しゃけ小島 本店",
+    "g_rating": 4.2,
+    "g_reviews": 295,
+    "g_address": "日本、〒168-0063 東京都杉並区和泉１丁目３−１５ めんそーれ市場内",
+    "lat": 35.672698,
+    "lng": 139.6581258
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "民宿 青塚食堂",
+    "name_en": "Minshuku Aotsuka Shokudo",
+    "area": "北海道 小樽市",
+    "url": "https://tabelog.com/hokkaido/A0106/A010601/1001467/",
+    "rating": 3.67,
+    "review_count_tabelog": 778,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Cafeteria, Seafood, Ryokan (Traditional Japanese inn)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 19:00 L.O. 19:00",
+        "dtl_text": "10:00 - 19:00 L.O. 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 2491,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJC-K0uhoeC18RM9hj5FDGz7A",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/1001467-4804d49fdd44b7e4b4ca54e783874489b20c6b65fe5320daa8286b1c58aac4a1.jpg",
+    "place_id": "ChIJC-K0uhoeC18RM9hj5FDGz7A",
+    "g_name": "民宿 青塚食堂",
+    "g_rating": 4.3,
+    "g_reviews": 2491,
+    "g_address": "日本、〒047-0047 北海道小樽市祝津３丁目２１０",
+    "lat": 43.2364971,
+    "lng": 141.0149376
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "割烹 三友",
+    "name_en": "Kappou Sanyu",
+    "area": "東京都 人形町駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130204/13048033/",
+    "rating": 3.63,
+    "review_count_tabelog": 1005,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Croquette, Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed",
+        "dtl": "11:00 - 13:30 18:00 - 20:00 L.O. Food 19:30",
+        "dtl_text": "18:00 - 20:00 L.O. Food 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu, Fri",
+        "dtl": "11:00 - 13:30",
+        "dtl_text": "11:00 - 13:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 403,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJH7VrG1CJGGARQZk6H552gWk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/13048033-551ac188681afd2a0f1204e4a5ecffd22d9b778d5df27a1a897d0c63ac215078.jpg",
+    "place_id": "ChIJH7VrG1CJGGARQZk6H552gWk",
+    "g_name": "割烹 三友(さんゆう)",
+    "g_rating": 4,
+    "g_reviews": 403,
+    "g_address": "日本、〒103-0013 東京都中央区日本橋人形町１丁目１０−８",
+    "lat": 35.6841246,
+    "lng": 139.7827572
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "宇宙軒食堂",
+    "name_en": "Uchu Ken Shokudo",
+    "area": "石川県 金沢市",
+    "url": "https://tabelog.com/ishikawa/A1701/A170101/17000078/",
+    "rating": 3.49,
+    "review_count_tabelog": 828,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cafeteria, Japanese Cuisine, Teppanyaki",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 17:00 - 21:00 L.O. Food 20:40",
+        "dtl_text": "17:00 - 21:00 L.O. Food 20:40",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 1262,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJRQ4mp380-F8R7coBTNj81Gg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/17000078-813dd3bac7bb21bf06ccc30449c1042d16c9d7c3c9a9e4dd5968e13aa4754d6c.jpg",
+    "place_id": "ChIJRQ4mp380-F8R7coBTNj81Gg",
+    "g_name": "宇宙軒食堂",
+    "g_rating": 4.1,
+    "g_reviews": 1262,
+    "g_address": "日本、〒920-0981 石川県金沢市片町１丁目５−２９",
+    "lat": 36.5602086,
+    "lng": 136.6532405
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "濱田商店",
+    "name_en": "Hamada Shoten",
+    "area": "北海道 目梨郡羅臼町",
+    "url": "https://tabelog.com/hokkaido/A0112/A011204/1030424/",
+    "rating": 3.6,
+    "review_count_tabelog": 84,
+    "price_dinner": "-",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Cafeteria, Kaisen-don (Seafood bowl), Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:30 - 15:30",
+        "dtl_text": "10:30 - 15:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 303,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJE3QD17vrbF8RK9UamGpgAjs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/1030424-d4cf67e496c0634dfc018c0da2514bf79cb530f50e09e4ed39ef38ee14eadc49.jpg",
+    "place_id": "ChIJE3QD17vrbF8RK9UamGpgAjs",
+    "g_name": "知床羅臼 濱田商店",
+    "g_rating": 4.3,
+    "g_reviews": 303,
+    "g_address": "日本、〒086-1834 北海道目梨郡羅臼町礼文町３６５−１",
+    "lat": 44.0054033,
+    "lng": 145.1792258
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "花房",
+    "name_en": "Hanafusa",
+    "area": "島根県 出雲市",
+    "url": "https://tabelog.com/shimane/A3202/A320201/32000232/",
+    "rating": 3.7,
+    "review_count_tabelog": 521,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Cafeteria, Seafood, Kaisen-don (Seafood bowl)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 16:00",
+        "dtl_text": "10:00 - 16:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 821,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJrwQ6559eVzURCe8CJKRxhUk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/32000232-6de57626967d9d2640bbf380061326afb791fcc6e0fe4ae68a22c3df675b3fe6.jpg",
+    "place_id": "ChIJrwQ6559eVzURCe8CJKRxhUk",
+    "g_name": "花房",
+    "g_rating": 4.2,
+    "g_reviews": 821,
+    "g_address": "日本、〒699-0763 島根県出雲市大社町日御碕１４８１−１",
+    "lat": 35.431541,
+    "lng": 132.629004
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "食堂なまえ",
+    "name_en": "Kura Zushi",
+    "area": "福島県 喜多方市",
+    "url": "https://tabelog.com/fukushima/A0706/A070601/7000006/",
+    "rating": 3.72,
+    "review_count_tabelog": 1000,
+    "price_dinner": "～￥999",
+    "price_lunch": "-",
+    "sub_categories": "Cafeteria, Ramen, Oyako-don (Chicken and egg bowl)",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Daily": {}
+      },
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 1435,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJC3S5rJK2il8RYLuj6pP-C6E",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/7000006-3bbead0b7500c91754486012526b6c94ce5b3ca853a3934bf4eafb8138d5efe3.jpg",
+    "place_id": "ChIJC3S5rJK2il8RYLuj6pP-C6E",
+    "g_name": "食堂なまえ",
+    "g_rating": 4.1,
+    "g_reviews": 1435,
+    "g_address": "日本、〒966-0838 福島県喜多方市永久７６９３−３",
+    "lat": 37.6457472,
+    "lng": 139.8731351
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "食堂ニューミサ",
+    "name_en": "Shokudo New Misa",
+    "area": "新潟県 上越市",
+    "url": "https://tabelog.com/niigata/A1503/A150301/15000005/",
+    "rating": 3.67,
+    "review_count_tabelog": 517,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat",
+        "dtl": "09:00 - 18:00",
+        "dtl_text": "09:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "09:00 - 16:00",
+        "dtl_text": "09:00 - 16:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.9,
+    "google_reviews": 2365,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJI7MBLxUU9l8RDDlpiCg_c28",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/15000005-de5bfa70d31e409c03a5a6c67962e10582fe2696d0e2947fcc08f9b12341399c.jpg",
+    "place_id": "ChIJI7MBLxUU9l8RDDlpiCg_c28",
+    "g_name": "食堂ニューミサ",
+    "g_rating": 3.9,
+    "g_reviews": 2365,
+    "g_address": "日本、〒949-2315 新潟県上越市中郷区稲荷山３６７",
+    "lat": 36.9448998,
+    "lng": 138.2197357
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "若柳食堂",
+    "name_en": "Wakayanagi Shokudo",
+    "area": "佐賀県 佐賀市",
+    "url": "https://tabelog.com/saga/A4101/A410101/41001919/",
+    "rating": 3.72,
+    "review_count_tabelog": 129,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cafeteria, Champon noodle soup, Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 21:00",
+        "dtl_text": "11:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 261,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJeU4l8Ym1QTURgpOkaymXDoE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/41001919-0f2eb7b1caf411d4938e3255d193f7016b17b5f29040247688da13bb60297a77.jpg",
+    "place_id": "ChIJeU4l8Ym1QTURgpOkaymXDoE",
+    "g_name": "若柳",
+    "g_rating": 4.1,
+    "g_reviews": 261,
+    "g_address": "日本、〒840-0055 佐賀県佐賀市材木２丁目２−１",
+    "lat": 33.2518809,
+    "lng": 130.3096829
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "魚久 イートイン あじみせ 本店",
+    "name_en": "Uokyu Eat-in Ajimise Hon Ten",
+    "area": "東京都 人形町駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130204/13051336/",
+    "rating": 3.69,
+    "review_count_tabelog": 595,
+    "price_dinner": "-",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Cafeteria, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 14:00 L.O. 13:30",
+        "dtl_text": "11:00 - 14:00 L.O. 13:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Summer vacation & Year-end/New Year Holidays (Dec 28 - Jan 3)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 160,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ74pV1k-JGGARnedOBlmmWHQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/13051336-4ab3d969b2691f6234eba0e18eac76537504789cf1bb616860b0e3df56bd5e9a.jpg",
+    "place_id": "ChIJ74pV1k-JGGARnedOBlmmWHQ",
+    "g_name": "京粕漬 魚久 人形町店",
+    "g_rating": 4.3,
+    "g_reviews": 160,
+    "g_address": "日本、〒103-0013 東京都中央区日本橋人形町２丁目４−３",
+    "lat": 35.6854928,
+    "lng": 139.7832544
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "フーナ",
+    "name_en": "Fu-n@",
+    "area": "大阪府 天神橋筋六丁目駅",
+    "url": "https://tabelog.com/osaka/A2701/A270103/27128238/",
+    "rating": 3.59,
+    "review_count_tabelog": 298,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "11:30 - 15:00 L.O. 14:30",
+        "dtl_text": "11:30 - 15:00 L.O. 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu, Fri, Sat",
+        "dtl": "11:30 - 15:00 L.O. 14:30 18:00 - 20:30",
+        "dtl_text": "18:00 - 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 94,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJuzhGG7nnAGARkW5cIIPJkjM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/27128238-a4ec89c5ddfc8d43500704e43f480f776b0fd76a0dc1f58c8f2ea6974d494b4c.jpg",
+    "place_id": "ChIJuzhGG7nnAGARkW5cIIPJkjM",
+    "g_name": "フーナ",
+    "g_rating": 4.1,
+    "g_reviews": 94,
+    "g_address": "日本、〒530-0022 大阪府大阪市北区浪花町５−１４",
+    "lat": 34.7078742,
+    "lng": 135.5106785
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "紀乃川",
+    "name_en": "Kinokawa",
+    "area": "沖縄県 国頭郡本部町",
+    "url": "https://tabelog.com/okinawa/A4702/A470202/47000203/",
+    "rating": 3.5,
+    "review_count_tabelog": 259,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Okinawa cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 19:00 L.O. 18:30",
+        "dtl_text": "11:00 - 19:00 L.O. 18:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The restaurant may also close on other irregular days."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 438,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJbdti7vj75DQR9i2drcQ_bWE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/47000203-a8bb09c46aca690490c4305d7625a796974116ff80267a1b671113c6dc145d58.jpg",
+    "place_id": "ChIJbdti7vj75DQR9i2drcQ_bWE",
+    "g_name": "紀乃川食堂",
+    "g_rating": 4.3,
+    "g_reviews": 438,
+    "g_address": "日本、〒905-0226 沖縄県国頭郡本部町健堅６０３",
+    "lat": 26.6474259,
+    "lng": 127.8865212
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "とんかつ八千代",
+    "name_en": "Tonkatsu Yachiyo",
+    "area": "東京都 市場前駅",
+    "url": "https://tabelog.com/tokyo/A1313/A131306/13227143/",
+    "rating": 3.49,
+    "review_count_tabelog": 588,
+    "price_dinner": "-",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Cafeteria, Tonkatsu (Pork cutlet), Pork dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri",
+        "dtl": "07:00 - 14:00",
+        "dtl_text": "07:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Public Holiday",
+        "dtl": "05:00 - 14:00",
+        "dtl_text": "05:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Building closure days"
+    },
+    "google_rating": 4,
+    "google_reviews": 310,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAANmLGGARGhHlY8Xq9pI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/13227143-20ae634cdd85d2e56999a8efdddf273ae48fd2e5e60c42972b56c3e8375b5a6f.jpg",
+    "place_id": "ChIJAQAAANmLGGARGhHlY8Xq9pI",
+    "g_name": "とんかつ 八千代(やちよ)",
+    "g_rating": 4,
+    "g_reviews": 310,
+    "g_address": "日本、〒135-0061 東京都江東区豊洲６丁目６−１ ７街区 管理施設棟 ３階",
+    "lat": 35.6442332,
+    "lng": 139.7841479
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "食堂 煮魚少年",
+    "name_en": "Shokudo Nizakana Shonen",
+    "area": "福岡県 櫛田神社前駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400101/40048045/",
+    "rating": 3.67,
+    "review_count_tabelog": 329,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cafeteria, Seafood, Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:30 L.O. 15:00 17:00 - 22:00 L.O. 21:30",
+        "dtl_text": "17:00 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 865,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-5zQ3L2RQTURACVyg7pFrqo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/40048045-29716a505b2f5f64b51c508fd576023e179e24d9b4a461a306ac4871dba364ef.jpg",
+    "place_id": "ChIJ-5zQ3L2RQTURACVyg7pFrqo",
+    "g_name": "食堂煮魚少年",
+    "g_rating": 4.6,
+    "g_reviews": 865,
+    "g_address": "日本、〒812-0018 福岡県福岡市博多区住吉２丁目６−３２",
+    "lat": 33.5871728,
+    "lng": 130.4122774
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "スワチカ",
+    "name_en": "Swastika",
+    "area": "東京都 大崎広小路駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131603/13014630/",
+    "rating": 3.67,
+    "review_count_tabelog": 955,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Yoshoku (Japanese style western cuisine), Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 20:30 L.O. 20:00",
+        "dtl_text": "11:00 - 20:30 L.O. 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 398,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJg1TCwvqKGGAR1DscgMw21JA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/13014630-aeeb103635402cdcbadab6a13059f121d930542f16d64e34304f3228e2b48f95.jpg",
+    "place_id": "ChIJg1TCwvqKGGAR1DscgMw21JA",
+    "g_name": "スワチカ",
+    "g_rating": 4.2,
+    "g_reviews": 398,
+    "g_address": "日本、〒141-0031 東京都品川区西五反田１丁目２７−６",
+    "lat": 35.6244267,
+    "lng": 139.7229439
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "阿蘇",
+    "name_en": "Aso",
+    "area": "沖縄県 那覇市",
+    "url": "https://tabelog.com/okinawa/A4701/A470101/47003786/",
+    "rating": 3.62,
+    "review_count_tabelog": 136,
+    "price_dinner": "-",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Cafeteria",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 14:00",
+        "dtl_text": "11:30 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 179,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJi_t9Sp1p5TQRT1LzmUlZk5U",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/47003786-aeb50182427d1e5273b7ef839a4eba95e70f95f26efb09d3a71aed20248468ec.jpg",
+    "place_id": "ChIJi_t9Sp1p5TQRT1LzmUlZk5U",
+    "g_name": "阿蘇",
+    "g_rating": 4.6,
+    "g_reviews": 179,
+    "g_address": "日本、〒900-0032 沖縄県那覇市松山１丁目６−２２ 伊是名マンション",
+    "lat": 26.2174669,
+    "lng": 127.6794233
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "氷見 魚市場食堂",
+    "name_en": "Himi Uoichiba Shokudo",
+    "area": "富山県 氷見市",
+    "url": "https://tabelog.com/toyama/A1604/A160402/16008630/",
+    "rating": 3.58,
+    "review_count_tabelog": 1144,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Izakaya (Tavern), Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "06:30 - 15:00",
+        "dtl_text": "06:30 - 15:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "06:30 - 15:30",
+        "dtl_text": "06:30 - 15:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Please note that the restaurant will be temporarily closed for maintenance on August 19 and 20, 2025."
+    },
+    "google_rating": 4.1,
+    "google_reviews": 2972,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJsWl7NDpz918RBsQ9uXLvMX8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/16008630-6419188ee67e1f0ff69a8bcfbbcf2fd4d71cc539c604b744dcd1a02639c10711.jpg",
+    "place_id": "ChIJsWl7NDpz918RBsQ9uXLvMX8",
+    "g_name": "富山県氷見港魚市場食堂",
+    "g_rating": 4.1,
+    "g_reviews": 2972,
+    "g_address": "日本、〒935-0012 富山県氷見市比美町４３５ 地方卸売市場 氷見魚市場 ２階",
+    "lat": 36.8596784,
+    "lng": 136.9912898
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "定食 めし屋",
+    "name_en": "Teishoku Meshiya",
+    "area": "北海道 二十四軒駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010105/1009451/",
+    "rating": 3.68,
+    "review_count_tabelog": 466,
+    "price_dinner": "-",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Cafeteria, Kaisen-don (Seafood bowl), Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "07:00 - 15:00",
+        "dtl_text": "07:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 354,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ94ltubEpC18RlPQaa61zxz0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/1009451-85e7e323fd25ba9990bd26b99519547ac310f195d2599a4610d32be8298b20a3.jpg",
+    "place_id": "ChIJ94ltubEpC18RlPQaa61zxz0",
+    "g_name": "定食めし屋",
+    "g_rating": 4.4,
+    "g_reviews": 354,
+    "g_address": "日本、〒060-0011 北海道札幌市中央区北１１条西２２丁目１−２６ １階",
+    "lat": 43.0704879,
+    "lng": 141.3203161
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "かつお食堂",
+    "name_en": "Katsuo Shokudo",
+    "area": "東京都 渋谷駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130301/13237611/",
+    "rating": 3.7,
+    "review_count_tabelog": 879,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri",
+        "dtl": "08:30 - 13:00",
+        "dtl_text": "08:30 - 13:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "09:00 - 13:00",
+        "dtl_text": "09:00 - 13:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Basic closure days: the 1st of every month, and every Wednesday and Thursday."
+    },
+    "google_rating": 4,
+    "google_reviews": 598,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5VahuViLGGARdhxzaSEMQ6w",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/13237611-112125b6c79782ae85540220cb0d79b452c49bdc3e176ef1169d7ddc6faf5047.jpg",
+    "place_id": "ChIJ5VahuViLGGARdhxzaSEMQ6w",
+    "g_name": "かつお食堂",
+    "g_rating": 4,
+    "g_reviews": 598,
+    "g_address": "日本、〒150-0032 東京都渋谷区鶯谷町７−１２ GranDuo渋谷 B1",
+    "lat": 35.6541028,
+    "lng": 139.7021033
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "洋庖丁 板橋店",
+    "name_en": "Yo Bocho Itabashi Ten",
+    "area": "東京都 新板橋駅",
+    "url": "https://tabelog.com/tokyo/A1322/A132201/13008895/",
+    "rating": 3.63,
+    "review_count_tabelog": 613,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Yoshoku (Japanese style western cuisine), Hamburger steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:00 17:30 - 21:30",
+        "dtl_text": "17:30 - 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays and every other Tuesday"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 855,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVR-JqSGGARuFIjdY5_Lpc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/13008895-0358f6db7dd630607fced0637f232a0eb9cc92faf4ec3e814c8ecd0db2881ffa.jpg",
+    "place_id": "ChIJVVVR-JqSGGARuFIjdY5_Lpc",
+    "g_name": "洋庖丁 板橋店",
+    "g_rating": 4.2,
+    "g_reviews": 855,
+    "g_address": "日本、〒173-0004 東京都板橋区板橋１丁目４８−１",
+    "lat": 35.7479939,
+    "lng": 139.7194879
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "とんかつ小田保 場内店",
+    "name_en": "Tonkatsu Odayasu Jonai Ten",
+    "area": "東京都 市場前駅",
+    "url": "https://tabelog.com/tokyo/A1313/A131307/13026535/",
+    "rating": 3.74,
+    "review_count_tabelog": 633,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "-",
+    "sub_categories": "Cafeteria, Tonkatsu (Pork cutlet), Croquette",
+    "hours_raw": [],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 234,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJtXT2jySJGGARfMfDVwnB4bo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/13026535-e9d6b440b052794b08eae751b7977c7229c25be028a5cb7a146c6b1553048552.jpg",
+    "place_id": "ChIJtXT2jySJGGARfMfDVwnB4bo",
+    "g_name": "小田保",
+    "g_rating": 4.3,
+    "g_reviews": 234,
+    "g_address": "日本、〒135-0061 東京都江東区豊洲６丁目５−１",
+    "lat": 35.6446704,
+    "lng": 139.7820964
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "海鮮食堂 じゃこや",
+    "name_en": "Seafood Shokudo Jakoya",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37001134/",
+    "rating": 3.58,
+    "review_count_tabelog": 254,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Seafood, Donburi (Rice bowl)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 14:00",
+        "dtl_text": "11:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The first and third Wednesdays of the month (excluding public holidays)"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 837,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJi6_fLcmTUzURiOBCa_sWa20",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/37001134-e0d1834bbc4ae0dcbb4ade3070af114d49b648f88047dd34fc832bb18666c3e6.jpg",
+    "place_id": "ChIJi6_fLcmTUzURiOBCa_sWa20",
+    "g_name": "海鮮食堂 じゃこや",
+    "g_rating": 4.2,
+    "g_reviews": 837,
+    "g_address": "日本、〒761-0123 香川県高松市牟礼町原６３１−５ 道の駅源平の里むれ 内",
+    "lat": 34.3336663,
+    "lng": 134.1575178
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "魚正",
+    "name_en": "Uomasa",
+    "area": "熊本県 天草市",
+    "url": "https://tabelog.com/kumamoto/A4305/A430501/43001082/",
+    "rating": 3.63,
+    "review_count_tabelog": 51,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00",
+        "dtl_text": "11:30 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4,
+    "google_reviews": 146,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJk3E94vTWPzUR476TKYn9CfA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/43001082-a830f3f444663163c8a4547c8cd64766e27f2adc5b55236f20f628ebb895487d.jpg",
+    "place_id": "ChIJk3E94vTWPzUR476TKYn9CfA",
+    "g_name": "魚正",
+    "g_rating": 4,
+    "g_reviews": 146,
+    "g_address": "日本、〒863-1901 熊本県天草市牛深町２２８６−１０１",
+    "lat": 32.193852,
+    "lng": 130.0249764
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "活魚料理 びんび家",
+    "name_en": "Katsugyo Ryori Binbiya",
+    "area": "徳島県 鳴門市",
+    "url": "https://tabelog.com/tokushima/A3601/A360102/36000021/",
+    "rating": 3.72,
+    "review_count_tabelog": 1737,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "09:00 - 16:00 L.O. 15:30",
+        "dtl_text": "09:00 - 16:00 L.O. 15:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "09:00 - 21:00 L.O. 20:30",
+        "dtl_text": "09:00 - 21:00 L.O. 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 5336,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJm6fCAcR6UzURryzKX9Hd0HU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/36000021-9b65c549f99efcdd986b3ba5c94d2e8f0ac27aac5d74021dad2739d5182ea448.jpg",
+    "place_id": "ChIJm6fCAcR6UzURryzKX9Hd0HU",
+    "g_name": "活魚料理 びんび家",
+    "g_rating": 4.2,
+    "g_reviews": 5336,
+    "g_address": "日本、〒771-0372 徳島県鳴門市北灘町粟田ハシカ谷２０−２",
+    "lat": 34.2257975,
+    "lng": 134.5363178
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "お食事処おさない",
+    "name_en": "Oshokuji Dokoro Osanai",
+    "area": "青森県 青森市",
+    "url": "https://tabelog.com/aomori/A0201/A020101/2000071/",
+    "rating": 3.52,
+    "review_count_tabelog": 1382,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Regional Cuisine, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:30 - 14:00 16:30 - 20:00",
+        "dtl_text": "16:30 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 2204,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJp7ONMhyfm18Ry4BfwpDrPT4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/2000071-7b0010cc99a5e38e07e787437b5bccb232224869cd21615aa648623954e6500f.jpg",
+    "place_id": "ChIJp7ONMhyfm18Ry4BfwpDrPT4",
+    "g_name": "お食事処 おさない",
+    "g_rating": 4.2,
+    "g_reviews": 2204,
+    "g_address": "日本、〒030-0801 青森県青森市新町１丁目１−１７ 1F",
+    "lat": 40.8279769,
+    "lng": 140.7359841
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "巣鴨ときわ食堂 本店",
+    "name_en": "Sugamo Tokiwa Shokudo Hon Ten",
+    "area": "東京都 庚申塚駅",
+    "url": "https://tabelog.com/tokyo/A1322/A132201/13012336/",
+    "rating": 3.67,
+    "review_count_tabelog": 1841,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "10:00 - 22:00 L.O. Food 21:30 Drinks 21:40",
+        "dtl_text": "10:00 - 22:00 L.O. Food 21:30 Drinks 21:40"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 201,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ29wd-SeNGGARbYSUp5TodSo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/13012336-d62f0256bda45d2cc965bdab41ae4b84495d649ebb9dddbbcaffa87556a68969.jpg",
+    "place_id": "ChIJ29wd-SeNGGARbYSUp5TodSo",
+    "g_name": "巣鴨ときわ食堂 庚申塚店",
+    "g_rating": 4.1,
+    "g_reviews": 201,
+    "g_address": "日本、〒170-0002 東京都豊島区巣鴨４丁目３３−２",
+    "lat": 35.7386915,
+    "lng": 139.7309841
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "みなと食堂",
+    "name_en": "Minato Shokudo",
+    "area": "青森県 八戸市",
+    "url": "https://tabelog.com/aomori/A0203/A020301/2000865/",
+    "rating": 3.72,
+    "review_count_tabelog": 1410,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Kaisen-don (Seafood bowl), Regional Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "06:00 - 14:00",
+        "dtl_text": "06:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 2577,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJobLoWzNSm18RYSHA-vlPVQA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/2000865-38f2fb8bfee126f6d503e7ae272903bdaa21a768fad97d5f99d5bba0d353da1e.jpg",
+    "place_id": "ChIJobLoWzNSm18RYSHA-vlPVQA",
+    "g_name": "みなと食堂",
+    "g_rating": 4.4,
+    "g_reviews": 2577,
+    "g_address": "日本、〒031-0812 青森県八戸市湊町久保４５−１",
+    "lat": 40.5239765,
+    "lng": 141.5289338
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "もつ煮 太郎",
+    "name_en": "Motsuni Taro",
+    "area": "千葉県 柏市",
+    "url": "https://tabelog.com/chiba/A1203/A120301/12001718/",
+    "rating": 3.67,
+    "review_count_tabelog": 723,
+    "price_dinner": "～￥999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00",
+        "dtl_text": "11:30 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Sun, Mon, Tue, Thu, Fri, Sat, Public Holidays": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 1666,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJqUpuVqyeGGARpxPghyIrpbU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/12001718-04bec3ae941e81fc5ab4c571ceeb1d131e05078f4ad9df6a6c52230d178aa6ed.jpg",
+    "place_id": "ChIJqUpuVqyeGGARpxPghyIrpbU",
+    "g_name": "もつ煮込 噂の太郎",
+    "g_rating": 4.3,
+    "g_reviews": 1666,
+    "g_address": "日本、〒277-0805 千葉県柏市大青田７０６−５",
+    "lat": 35.9087168,
+    "lng": 139.9393755
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "赤目のおやじ",
+    "name_en": "Akame no Oyaji",
+    "area": "北海道 すすきの（市営）駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010103/1064010/",
+    "rating": 3.59,
+    "review_count_tabelog": 170,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "-",
+    "sub_categories": "Cafeteria",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 00:00",
+        "dtl_text": "18:00 - 00:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 145,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJy87q_MgpC18Rfhm4Cd52Zeg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/1064010-bf924a473fddf2c6e3dd90c73d1d60b11383cb08c0c545f7241a17afb0fd923f.jpg",
+    "place_id": "ChIJy87q_MgpC18Rfhm4Cd52Zeg",
+    "g_name": "赤目のおやじ",
+    "g_rating": 4.1,
+    "g_reviews": 145,
+    "g_address": "日本、〒064-0804 北海道札幌市中央区南４条西３丁目１番１ 第３グリーンビル 4階",
+    "lat": 43.0554178,
+    "lng": 141.3544574
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "まるいち食堂",
+    "name_en": "Maruichi Shokudo",
+    "area": "神奈川県 三浦市",
+    "url": "https://tabelog.com/kanagawa/A1406/A140603/14012378/",
+    "rating": 3.55,
+    "review_count_tabelog": 641,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Seafood, Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 21:00 L.O. 20:00",
+        "dtl_text": "11:00 - 21:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.9,
+    "google_reviews": 769,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJCzRnE4U8GGARzOI6SHls07U",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/14012378-e808a7e59dcd221bc4e85256a048fe4b46f52c6419d816673ff2ef28833739d6.jpg",
+    "place_id": "ChIJCzRnE4U8GGARzOI6SHls07U",
+    "g_name": "まるいち食堂",
+    "g_rating": 3.9,
+    "g_reviews": 769,
+    "g_address": "日本、〒238-0243 神奈川県三浦市三崎３丁目５−１２",
+    "lat": 35.1405087,
+    "lng": 139.6183845
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "さすけ食堂",
+    "name_en": "Sasuke Shokudo",
+    "area": "千葉県 浜金谷駅",
+    "url": "https://tabelog.com/chiba/A1206/A120603/12014064/",
+    "rating": 3.67,
+    "review_count_tabelog": 1064,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Seafood, Ramen",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon, Fri, Sat, Sun": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 1544,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVc8QBvEaGGARUOZ4hMjNBNo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/12014064-082bf4372982d901a117004cd8cf0042ebb2a70a402c9728514ab8d563c438c0.jpg",
+    "place_id": "ChIJVc8QBvEaGGARUOZ4hMjNBNo",
+    "g_name": "さすけ食堂",
+    "g_rating": 4.2,
+    "g_reviews": 1544,
+    "g_address": "日本、〒299-1861 千葉県富津市金谷２１９３−５",
+    "lat": 35.167358,
+    "lng": 139.8211982
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "久六",
+    "name_en": "Kyuroku",
+    "area": "千葉県 観音駅",
+    "url": "https://tabelog.com/chiba/A1205/A120501/12000082/",
+    "rating": 3.63,
+    "review_count_tabelog": 277,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Cafeteria, Seafood, Kaisen-don (Seafood bowl)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 16:00",
+        "dtl_text": "12:00 - 16:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays (open on public holidays)"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 357,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3__w0K4iI2ARNHtfuNKqq-c",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/12000082-c5f055a23ede84d630442777ac75e2390e8b9e4b5a3d00523612b3b92fdec376.jpg",
+    "place_id": "ChIJ3__w0K4iI2ARNHtfuNKqq-c",
+    "g_name": "生まぐろ専門店 久六",
+    "g_rating": 4.4,
+    "g_reviews": 357,
+    "g_address": "日本、〒288-0056 千葉県銚子市新生町１丁目３６−４９",
+    "lat": 35.7337707,
+    "lng": 140.8382868
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "いまきん食堂",
+    "name_en": "Imakin Shokudo",
+    "area": "熊本県 阿蘇市",
+    "url": "https://tabelog.com/kumamoto/A4302/A430201/43004788/",
+    "rating": 3.7,
+    "review_count_tabelog": 1580,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Cafeteria, Donburi (Rice bowl), Regional Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 16:00",
+        "dtl_text": "10:00 - 16:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 3169,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-ci6q0whQTURW3UpLfIY2Nk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/43004788-72e9a1bd2482035fab932029c586d609ea644b2811a7e74c9edb66fd2778dcdf.jpg",
+    "place_id": "ChIJ-ci6q0whQTURW3UpLfIY2Nk",
+    "g_name": "お食事処 いまきん食堂",
+    "g_rating": 4.3,
+    "g_reviews": 3169,
+    "g_address": "日本、〒869-2301 熊本県阿蘇市内牧290",
+    "lat": 32.9749728,
+    "lng": 131.0393266
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "津田屋食堂",
+    "name_en": "Tsudaya Shokudo",
+    "area": "福岡県 北九州市小倉北区",
+    "url": "https://tabelog.com/fukuoka/A4004/A400401/40021892/",
+    "rating": 3.63,
+    "review_count_tabelog": 222,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri",
+        "dtl": "11:45 - 17:00 L.O. Food 16:00 17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "11:45 - 17:00 L.O. Food 16:00",
+        "dtl_text": "11:45 - 17:00 L.O. Food 16:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Public Holiday",
+        "dtl": "12:00 - 17:00 L.O. Food 16:00 17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 249,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ97c1U6u4QzURDHRRQjcDuCI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/40021892-43282fdce521300e498d1d0d5f1c15e0df2d1086e2f97a9207585d34da27499c.jpg",
+    "place_id": "ChIJ97c1U6u4QzURDHRRQjcDuCI",
+    "g_name": "津田屋食堂",
+    "g_rating": 4.1,
+    "g_reviews": 249,
+    "g_address": "日本、〒802-0077 福岡県北九州市小倉北区馬借２丁目１−３３",
+    "lat": 33.8789205,
+    "lng": 130.8777897
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "里の宿",
+    "name_en": "Sato no Yado",
+    "area": "東京都 吉祥寺駅",
+    "url": "https://tabelog.com/tokyo/A1320/A132001/13026447/",
+    "rating": 3.69,
+    "review_count_tabelog": 803,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 14:30 17:00 - 20:30",
+        "dtl_text": "17:00 - 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 419,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJdWNDEDnuGGARSHgY1dBq-5I",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/13026447-bc0ab75e08d95cb0702ef059718b186660b22f7221dbc9f5977ecbddf6acdb89.jpg",
+    "place_id": "ChIJdWNDEDnuGGARSHgY1dBq-5I",
+    "g_name": "里の宿",
+    "g_rating": 4.3,
+    "g_reviews": 419,
+    "g_address": "日本、〒180-0003 東京都武蔵野市吉祥寺南町１丁目２８−５ 吉祥寺Court １階",
+    "lat": 35.7009019,
+    "lng": 139.5823823
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "季節料理 魚竹",
+    "name_en": "Kisetsu Ryori Uotake",
+    "area": "東京都 築地駅",
+    "url": "https://tabelog.com/tokyo/A1313/A131301/13002300/",
+    "rating": 3.69,
+    "review_count_tabelog": 709,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Izakaya (Tavern), Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 13:45 17:30 - 20:00",
+        "dtl_text": "17:30 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.6,
+    "google_reviews": 310,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJW8sF59-LGGARL6dcLCFeF18",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/13002300-632323a16e86b72013a8d11fc9dfda753828e9927e4499b10a557ea4d882289f.jpg",
+    "place_id": "ChIJW8sF59-LGGARL6dcLCFeF18",
+    "g_name": "季節料理 魚竹",
+    "g_rating": 4.6,
+    "g_reviews": 310,
+    "g_address": "日本、〒104-0045 東京都中央区築地１丁目９−１",
+    "lat": 35.6695271,
+    "lng": 139.7716826
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "とんかつ ひろ喜 徳庵本店",
+    "name_en": "Tonkatsu Hiroki Tokuanhonten",
+    "area": "大阪府 徳庵駅",
+    "url": "https://tabelog.com/osaka/A2707/A270703/27043187/",
+    "rating": 3.67,
+    "review_count_tabelog": 641,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "-",
+    "sub_categories": "Cafeteria, Croquette, Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat",
+        "dtl": "17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 455,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3ab203TgAGAR0_rkpV6HXIw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/27043187-8d8086f66a1214a31d6a7cf6cdec48b6717e9490f76e275cbe93a6b1abac3168.jpg",
+    "place_id": "ChIJ3ab203TgAGAR0_rkpV6HXIw",
+    "g_name": "とんかつ ひろ喜 徳庵本店",
+    "g_rating": 4.5,
+    "g_reviews": 455,
+    "g_address": "日本、〒577-0007 大阪府東大阪市稲田本町３丁目２０−１１",
+    "lat": 34.6879672,
+    "lng": 135.5815904
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "野口鮮魚店",
+    "name_en": "Noguchi Sengyo Ten",
+    "area": "東京都 本所吾妻橋駅",
+    "url": "https://tabelog.com/tokyo/A1312/A131203/13103727/",
+    "rating": 3.59,
+    "review_count_tabelog": 1017,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Kaisen-don (Seafood bowl), Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 L.O. 14:00 16:00 - 19:00 L.O. 18:30",
+        "dtl_text": "16:00 - 19:00 L.O. 18:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Due to rising raw material costs, we will be adjusting the prices of some items starting May 1, 2025 (Thursday). We appreciate your understanding as we continue to strive to provide you with satisfaction."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 1504,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJwcm3KdKOGGARH4yIA-OuoyQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/13103727-0cf7b8b0113cb8fc8f98bd5a8753eea031ccc2e37b8008abbb288b4c44e3f6fd.jpg",
+    "place_id": "ChIJwcm3KdKOGGARH4yIA-OuoyQ",
+    "g_name": "野口鮮魚店",
+    "g_rating": 4.3,
+    "g_reviews": 1504,
+    "g_address": "日本、〒130-0005 東京都墨田区東駒形４丁目６−９",
+    "lat": 35.7064105,
+    "lng": 139.8056763
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "あおぞら",
+    "name_en": "Aozora",
+    "area": "静岡県 静岡市清水区",
+    "url": "https://tabelog.com/shizuoka/A2201/A220102/22003918/",
+    "rating": 3.66,
+    "review_count_tabelog": 162,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Regional Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:00 - 18:30 L.O. 18:00",
+        "dtl_text": "11:00 - 18:30 L.O. 18:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Fri",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "We have 7 seats available on weekdays. Please note that we may not be able to accommodate groups of 5 or more."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 135,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJXZs65pgyGmARU5HZdh8nR7I",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/22003918-02945ba6c019212e8eae94b10937821e482500e2f060ad7c58efac6638cf65fd.jpg",
+    "place_id": "ChIJXZs65pgyGmARU5HZdh8nR7I",
+    "g_name": "あおぞら",
+    "g_rating": 4.2,
+    "g_reviews": 135,
+    "g_address": "日本、〒421-3111 静岡県静岡市清水区由比今宿１９５−１",
+    "lat": 35.097205,
+    "lng": 138.5523918
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "萩の茶屋",
+    "name_en": "Hagi no Chaya",
+    "area": "高知県 土佐市",
+    "url": "https://tabelog.com/kochi/A3903/A390301/39000589/",
+    "rating": 3.57,
+    "review_count_tabelog": 220,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Cafeteria, Seafood, Yakiniku (BBQ Beef)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 21:30 L.O. 20:30",
+        "dtl_text": "11:00 - 21:30 L.O. 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 791,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJU-vzpW8-TjURBsja9hZfW4g",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/39000589-1e767b828ddc8389f5a0a3b017d02dc7df8959dfc7355ec404d2a7df9a9c456f.jpg",
+    "place_id": "ChIJU-vzpW8-TjURBsja9hZfW4g",
+    "g_name": "萩の茶屋",
+    "g_rating": 4.3,
+    "g_reviews": 791,
+    "g_address": "日本、〒781-1161 高知県土佐市宇佐２７３９",
+    "lat": 33.4483228,
+    "lng": 133.4566528
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "とん汁 たちばな",
+    "name_en": "Tonjiru Tachibana",
+    "area": "新潟県 妙高市",
+    "url": "https://tabelog.com/niigata/A1503/A150303/15000112/",
+    "rating": 3.59,
+    "review_count_tabelog": 627,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "10:30 - 14:30 16:30 - 18:30",
+        "dtl_text": "16:30 - 18:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (Tuesdays if a holiday falls on Monday)"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 2136,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJO_s-eu5y9l8RqaXK4fvz6AU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/15000112-78d216506c83e0309519814d29d0813eee367266ef30d3ec9b40f255ba04ed35.jpg",
+    "place_id": "ChIJO_s-eu5y9l8RqaXK4fvz6AU",
+    "g_name": "とん汁の店 たちばな",
+    "g_rating": 4.1,
+    "g_reviews": 2136,
+    "g_address": "日本、〒944-0007 新潟県妙高市栗原２丁目３−１０",
+    "lat": 37.0423975,
+    "lng": 138.2607163
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "炭火焼き魚弁当 すみさわ",
+    "name_en": "Sumibi Yakisakana Bento Sumisawa",
+    "area": "東京都 松陰神社前駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131709/13252662/",
+    "rating": 3.67,
+    "review_count_tabelog": 173,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Bento (Lunch box)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:00 L.O. 13:50",
+        "dtl_text": "11:00 - 14:00 L.O. 13:50",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.7,
+    "google_reviews": 86,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ15QfEOvzGGARELW1ph11i1U",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/13252662-f9db0917216f9ec634f1be387125ff9152e28bcf88ebf68d39d8e78411fe7926.jpg",
+    "place_id": "ChIJ15QfEOvzGGARELW1ph11i1U",
+    "g_name": "炭火焼魚弁当 すみさわ",
+    "g_rating": 4.7,
+    "g_reviews": 86,
+    "g_address": "日本、〒154-0017 東京都世田谷区世田谷４丁目５−１",
+    "lat": 35.6425293,
+    "lng": 139.653343
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "新潟本町 鈴木鮮魚",
+    "name_en": "Niigata Honcho Suzuki Sengyo",
+    "area": "新潟県 新潟市中央区",
+    "url": "https://tabelog.com/niigata/A1501/A150101/15011022/",
+    "rating": 3.65,
+    "review_count_tabelog": 431,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Kaisen-don (Seafood bowl), Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "09:00 - 17:00",
+        "dtl_text": "09:00 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every third Wednesday"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 567,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJCSrxzu3J9F8RXAqxQ7ZRvUw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/15011022-b67786d575a5878aff22b49446fc1eda40e1252388e34ea8230454c47b76ade7.jpg",
+    "place_id": "ChIJCSrxzu3J9F8RXAqxQ7ZRvUw",
+    "g_name": "本町鈴木鮮魚",
+    "g_rating": 4.3,
+    "g_reviews": 567,
+    "g_address": "日本、〒951-8067 新潟県新潟市中央区本町通６番町１１１４",
+    "lat": 37.9201684,
+    "lng": 139.0462474
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "かてい菜園 ささ木",
+    "name_en": "Katei Saien Sasaki",
+    "area": "東京都 目白駅",
+    "url": "https://tabelog.com/tokyo/A1305/A130502/13012434/",
+    "rating": 3.62,
+    "review_count_tabelog": 192,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 13:45 18:00 - 20:45",
+        "dtl_text": "18:00 - 20:45",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 76,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJK7KIVESNGGARNmX8zJd7DWU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/13012434-d94e59c54422a9ea06f1eb30fece19f01bab332282d7dcd81e4ebe8a426bb0a4.jpg",
+    "place_id": "ChIJK7KIVESNGGARNmX8zJd7DWU",
+    "g_name": "かてい菜園 ささ木",
+    "g_rating": 4.5,
+    "g_reviews": 76,
+    "g_address": "日本、〒161-0033 東京都新宿区下落合３丁目１８−４",
+    "lat": 35.7227397,
+    "lng": 139.704036
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "一富士食堂",
+    "name_en": "Ichifuji Shokudo",
+    "area": "大阪府 大阪天満宮駅",
+    "url": "https://tabelog.com/osaka/A2701/A270103/27031421/",
+    "rating": 3.67,
+    "review_count_tabelog": 928,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cafeteria, Udon (Wheat noodles), Oyako-don (Chicken and egg bowl)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat",
+        "dtl": "11:00 - 14:30",
+        "dtl_text": "11:00 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 848,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJS0qyL9fmAGARAJ3zGa6ahh0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/27031421-86b9cd4657112ab811450d9d221f711aff01343f807167ccabc6fbcc7f893072.jpg",
+    "place_id": "ChIJS0qyL9fmAGARAJ3zGa6ahh0",
+    "g_name": "一富士食堂",
+    "g_rating": 4.3,
+    "g_reviews": 848,
+    "g_address": "日本、〒530-0043 大阪府大阪市北区天満２丁目１３−１６",
+    "lat": 34.6957834,
+    "lng": 135.5176545
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "食事処 池田",
+    "name_en": "Sengyo Ikeda",
+    "area": "千葉県 鴨川市",
+    "url": "https://tabelog.com/chiba/A1207/A120703/12006767/",
+    "rating": 3.58,
+    "review_count_tabelog": 503,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Seafood, Tempura",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 17:00",
+        "dtl_text": "11:00 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "1st and 3rd Sundays"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 913,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3SHXNo9UPWARbVwazekqax4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/12006767-5e0c861b2f4766ead803b55f2035acaa4ba058e45bca4b7cfd40fe1d9d74c96c.jpg",
+    "place_id": "ChIJ3SHXNo9UPWARbVwazekqax4",
+    "g_name": "食事処 池田",
+    "g_rating": 4.4,
+    "g_reviews": 913,
+    "g_address": "日本、〒296-0033 千葉県鴨川市八色５１８−８",
+    "lat": 35.11817509999999,
+    "lng": 140.0890333
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "みなと食堂",
+    "name_en": "Minato Shokudo",
+    "area": "沖縄県 宮古島市",
+    "url": "https://tabelog.com/okinawa/A4705/A470503/47025515/",
+    "rating": 3.56,
+    "review_count_tabelog": 291,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cafeteria, Okinawa noodle soup",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 16:00 L.O. 15:30",
+        "dtl_text": "11:00 - 16:00 L.O. 15:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 318,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJz1SZGvdT9DQR9Ek3QMIP9JE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/47025515-9668d0153ce6c509d63f1d31feda82a0e5b2472c8075996e1ef3288ddd5e50d6.jpg",
+    "place_id": "ChIJz1SZGvdT9DQR9Ek3QMIP9JE",
+    "g_name": "宮古島荷川取漁港 みなと食堂",
+    "g_rating": 4.4,
+    "g_reviews": 318,
+    "g_address": "日本、〒906-0008 沖縄県宮古島市平良荷川取５９３−１０",
+    "lat": 24.8166033,
+    "lng": 125.2805382
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "おおむろ軽食堂",
+    "name_en": "Oomuro Keishokudo",
+    "area": "静岡県 伊東市",
+    "url": "https://tabelog.com/shizuoka/A2205/A220503/22025692/",
+    "rating": 3.53,
+    "review_count_tabelog": 198,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Cafe, Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 16:00 L.O. 15:30",
+        "dtl_text": "10:00 - 16:00 L.O. 15:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Closed when the Omuroyama Lift is not in operation."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 333,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAx5NKzHDGWARIbwQ4R6bpR8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/22025692-d44803a4a683c83b6d735de3ed99a4c818b93f14c92bf9a8e296747603d3a4cd.jpg",
+    "place_id": "ChIJAx5NKzHDGWARIbwQ4R6bpR8",
+    "g_name": "おおむろ軽食堂",
+    "g_rating": 4.4,
+    "g_reviews": 333,
+    "g_address": "日本、〒413-0231 静岡県伊東市富戸１３１７−５ 大室山リフト館1F",
+    "lat": 34.907592,
+    "lng": 139.0969603
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "市場食堂 城南店",
+    "name_en": "Ichiba Shokudo Jonan Ten",
+    "area": "鹿児島県 鹿児島市",
+    "url": "https://tabelog.com/kagoshima/A4601/A460101/46000812/",
+    "rating": 3.65,
+    "review_count_tabelog": 563,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Sushi, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "05:00 - 15:00",
+        "dtl_text": "05:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 965,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7ci7cadgPjURRV8uW0265iM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/46000812-f6ee68a9e12971aec7175826976766b6512455bdfe12267123882edd16313083.jpg",
+    "place_id": "ChIJ7ci7cadgPjURRV8uW0265iM",
+    "g_name": "市場食堂 城南店",
+    "g_rating": 4.2,
+    "g_reviews": 965,
+    "g_address": "日本、〒892-0835 鹿児島県鹿児島市城南町３７−２",
+    "lat": 31.5856194,
+    "lng": 130.5665798
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "島ごはん あったかや",
+    "name_en": "Shima Gohan Attakaya",
+    "area": "沖縄県 宮古島市",
+    "url": "https://tabelog.com/okinawa/A4705/A470503/47027526/",
+    "rating": 3.54,
+    "review_count_tabelog": 141,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "-",
+    "sub_categories": "Cafeteria, Okinawa noodle soup, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 22:00 L.O. Food 21:00 Drinks 21:30",
+        "dtl_text": "17:00 - 22:00 L.O. Food 21:00 Drinks 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 238,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7eA7OCJV9DQRxNf9naEYMpg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/47027526-c413350b41068f2fb391898691222ae4c1af3aea1b43d3bd402030a48998ed2b.jpg",
+    "place_id": "ChIJ7eA7OCJV9DQRxNf9naEYMpg",
+    "g_name": "あったかや",
+    "g_rating": 4.4,
+    "g_reviews": 238,
+    "g_address": "日本、〒906-0303 沖縄県宮古島市下地洲鎌４７３−１",
+    "lat": 24.7457401,
+    "lng": 125.2782658
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "まるやま食堂",
+    "name_en": "Maruyama Shokudo",
+    "area": "東京都 蒲田駅",
+    "url": "https://tabelog.com/tokyo/A1315/A131503/13119166/",
+    "rating": 3.67,
+    "review_count_tabelog": 1693,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria, Tonkatsu (Pork cutlet), Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday",
+        "dtl": "11:00 - 15:00 16:00 - 21:00",
+        "dtl_text": "16:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 1196,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJWT6ZltgGGARm6JvvPOXk10",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/13119166-e2e0bca77449640a3a36c644f5e8bc4cefe845fb9e466499a33e9dae7f9b83bb.jpg",
+    "place_id": "ChIJJWT6ZltgGGARm6JvvPOXk10",
+    "g_name": "まるやま食堂",
+    "g_rating": 4.3,
+    "g_reviews": 1196,
+    "g_address": "日本、〒144-0052 東京都大田区蒲田５丁目２−７ ムーンシャイニー弐番館",
+    "lat": 35.5639664,
+    "lng": 139.7171156
+  },
+  {
+    "category_jp": "食堂",
+    "category_en": "Shokudo (Japanese Diner)",
+    "region": "食堂 百名店",
+    "name": "糸満漁民食堂",
+    "name_en": "Itoman Gyomin Shokudo",
+    "area": "沖縄県 糸満市",
+    "url": "https://tabelog.com/okinawa/A4704/A470402/47012172/",
+    "rating": 3.58,
+    "review_count_tabelog": 491,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafeteria",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 15:00 L.O. 14:30 18:00 - 22:00 L.O. 21:30",
+        "dtl_text": "18:00 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 1539,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJUwQkx-ln5TQRQNaPMZS9J-c",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/shokudo/47012172-31b9dc12ff4c191ce0ad460f78d98ce7c6a2f2927c165175fbec5be60c450e22.jpg",
+    "place_id": "ChIJUwQkx-ln5TQRQNaPMZS9J-c",
+    "g_name": "糸満漁民食堂",
+    "g_rating": 4.4,
+    "g_reviews": 1539,
+    "g_address": "日本、〒901-0306 沖縄県糸満市西崎町４丁目１７−７",
+    "lat": 26.139299,
+    "lng": 127.6599137
+  }
+]

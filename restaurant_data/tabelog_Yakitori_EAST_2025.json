@@ -1,0 +1,4457 @@
+[
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "焼鳥どろまみれ 四谷本店",
+    "name_en": "Yakitori Doromamire Yotsuya Honten",
+    "area": "東京都 曙橋駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130903/13116757/",
+    "rating": 3.68,
+    "review_count_tabelog": 636,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Chicken dishes, Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu",
+        "dtl": "18:00 - 00:00 L.O. 23:30",
+        "dtl_text": "18:00 - 00:00 L.O. 23:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Fri",
+        "dtl": "18:00 - 01:00 L.O. Food 00:00 Drinks 00:30",
+        "dtl_text": "18:00 - 01:00 L.O. Food 00:00 Drinks 00:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "17:00 - 00:00 L.O. 23:30",
+        "dtl_text": "17:00 - 00:00 L.O. 23:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Public Holiday",
+        "dtl": "17:00 - 23:00 L.O. Food 22:00 Drinks 22:30",
+        "dtl_text": "17:00 - 23:00 L.O. Food 22:00 Drinks 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 470,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJccY4PPKMGGARfaFTBmSEVNc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13116757-4d8765a2665b55695333a31fea210018c3da39211c2c631abe35f5e3a45b2c36.jpg",
+    "place_id": "ChIJccY4PPKMGGARfaFTBmSEVNc",
+    "g_name": "どろまみれ/四谷店",
+    "g_rating": 4.4,
+    "g_reviews": 470,
+    "g_address": "日本、〒160-0007 東京都新宿区荒木町２０ ヤカタビル ２Ｆ",
+    "lat": 35.6907125,
+    "lng": 139.7225277
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "千亀",
+    "name_en": "Sen Kame",
+    "area": "愛知県 栄（名古屋）駅",
+    "url": "https://tabelog.com/aichi/A2301/A230103/23001704/",
+    "rating": 3.68,
+    "review_count_tabelog": 788,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Chicken dishes, Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 00:00 L.O. 23:15",
+        "dtl_text": "17:00 - 00:00 L.O. 23:15",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 319,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8YtTVtNwA2AROC0G6lLV5PU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/23001704-8f8fe108951fc0991a666edf15dc9695dbf936709ab22cd93dfac4d6ba360096.jpg",
+    "place_id": "ChIJ8YtTVtNwA2AROC0G6lLV5PU",
+    "g_name": "やきとり 千亀",
+    "g_rating": 4.3,
+    "g_reviews": 319,
+    "g_address": "日本、〒460-0008 愛知県名古屋市中区栄３丁目１−１９ ソフランビル ２F",
+    "lat": 35.1677002,
+    "lng": 136.9032354
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "根津 焼鳥 照隅",
+    "name_en": "Nezu Yakitori Terusumi",
+    "area": "東京都 根津駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131106/13182104/",
+    "rating": 3.81,
+    "review_count_tabelog": 371,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Chicken dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri, Sat, Sun, Public Holiday",
+        "dtl": "18:00 - 23:00 L.O. 21:00",
+        "dtl_text": "18:00 - 23:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 127,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6pO7S6MGGARmlkYoqSTgG0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13182104-abfcef48d7b3ed0ceb1bfef489b624658b2920d8444d323a7a59d4a90ee903df.jpg",
+    "place_id": "ChIJq6pO7S6MGGARmlkYoqSTgG0",
+    "g_name": "根津 照隅",
+    "g_rating": 4.5,
+    "g_reviews": 127,
+    "g_address": "日本、〒113-0031 東京都文京区根津１丁目１−２１ ゼネラル根津",
+    "lat": 35.716952,
+    "lng": 139.7659705
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "ひきざんたしざん",
+    "name_en": "Hikizan Tashizan",
+    "area": "愛知県 池下駅",
+    "url": "https://tabelog.com/aichi/A2301/A230106/23072041/",
+    "rating": 3.78,
+    "review_count_tabelog": 140,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays, Mondays following public holidays, and some irregular Mondays"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 37,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJMaG-WvFxA2ARbayur79PdjM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/23072041-a8360f82013d5bb49f2ff6c20a29ae374ccbba7af0a777a9ceeace9997fdbf7b.jpg",
+    "place_id": "ChIJMaG-WvFxA2ARbayur79PdjM",
+    "g_name": "ひきざん たしざん",
+    "g_rating": 4.6,
+    "g_reviews": 37,
+    "g_address": "日本、〒464-0848 愛知県名古屋市千種区春岡１丁目５−１３ コンフォール池下",
+    "lat": 35.1666373,
+    "lng": 136.9457551
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "焼鳥今井",
+    "name_en": "Yakitori Imai",
+    "area": "東京都 外苑前駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130603/13025995/",
+    "rating": 3.71,
+    "review_count_tabelog": 654,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:30 - 22:30",
+        "dtl_text": "17:30 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (other irregular holidays may apply)."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 273,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJnWSw_piMGGARGeWXT7gDpvQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13025995-4c719a02342ccae9ee06031dcc9f93a74789a2caef44f653ff0d1619c3d666c5.jpg",
+    "place_id": "ChIJnWSw_piMGGARGeWXT7gDpvQ",
+    "g_name": "焼鳥今井",
+    "g_rating": 4.4,
+    "g_reviews": 273,
+    "g_address": "日本、〒150-0001 東京都渋谷区神宮前３丁目４２−１１ 102",
+    "lat": 35.6718214,
+    "lng": 139.7139354
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "鳥つた",
+    "name_en": "Tori Tsuta",
+    "area": "東京都 恵比寿駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130302/13237390/",
+    "rating": 3.65,
+    "review_count_tabelog": 598,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Izakaya (Tavern), Chicken dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:00 - 23:30 L.O. 22:30",
+        "dtl_text": "17:00 - 23:30 L.O. 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "17:00 - 23:00 L.O. 22:00",
+        "dtl_text": "17:00 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Year-end & New Year Holidays"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 122,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJXTPeXGLGGARAkSyZTo032w",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13237390-08a28c6b1ff7ff8807395da71e776254d5e895377ef9d37ba013bb4d4011cd38.jpg",
+    "place_id": "ChIJJXTPeXGLGGARAkSyZTo032w",
+    "g_name": "鳥つた",
+    "g_rating": 4.1,
+    "g_reviews": 122,
+    "g_address": "日本、〒150-0013 東京都渋谷区恵比寿１丁目２２−１２",
+    "lat": 35.6464612,
+    "lng": 139.7145537
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "酒亭 田中",
+    "name_en": "Toritanaka",
+    "area": "東京都 鐘ケ淵駅",
+    "url": "https://tabelog.com/tokyo/A1312/A131203/13285811/",
+    "rating": 4.26,
+    "review_count_tabelog": 325,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Chicken dishes, Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:30 - 19:30 20:00 - 22:00",
+        "dtl_text": "20:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 132,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8Xiw5BuPGGARHnGeYNpnDMY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13285811-288ac91bd6fa196487289f16e8b6622d1a1e1a4daf39aa8638ba67d6124a12b4.jpg",
+    "place_id": "ChIJ8Xiw5BuPGGARHnGeYNpnDMY",
+    "g_name": "酒亭田中",
+    "g_rating": 4.6,
+    "g_reviews": 132,
+    "g_address": "日本、〒131-0031 東京都墨田区墨田３丁目２５−７",
+    "lat": 35.730702,
+    "lng": 139.8195498
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "備長炭焼鳥 鳥しげ",
+    "name_en": "Binchotan Yakitori Torishige",
+    "area": "静岡県 藤枝市",
+    "url": "https://tabelog.com/shizuoka/A2203/A220301/22039162/",
+    "rating": 4.03,
+    "review_count_tabelog": 77,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Day before public holiday, Day after public holiday",
+        "dtl": "18:00 - 21:30",
+        "dtl_text": "18:00 - 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Fri",
+        "dtl": "18:00 - 20:30",
+        "dtl_text": "18:00 - 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "12:00 - 14:30",
+        "dtl_text": "12:00 - 14:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Public Holiday",
+        "dtl": "18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 63,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJp17NRfBPGmARrwEu0c86oYE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/22039162-4580428c547c8c7cc1bd5faaa8bb8dec858042c5da54b5f59aa488e5208b1377.jpg",
+    "place_id": "ChIJp17NRfBPGmARrwEu0c86oYE",
+    "g_name": "備長炭焼鳥 鳥しげ",
+    "g_rating": 4.2,
+    "g_reviews": 63,
+    "g_address": "日本、〒426-0033 静岡県藤枝市小石川町１丁目３−７",
+    "lat": 34.8527748,
+    "lng": 138.2554466
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "やきとり阿部",
+    "name_en": "Yakitori Abe",
+    "area": "東京都 目黒駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131601/13197391/",
+    "rating": 3.7,
+    "review_count_tabelog": 378,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 410,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6fU4IxmLGGARAn-9pT6fFWU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13197391-0f844e08d17c39971371d8bc7ab6781ada163375b5351a466b3a118a16034a5c.jpg",
+    "place_id": "ChIJ6fU4IxmLGGARAn-9pT6fFWU",
+    "g_name": "大衆ビストロジル 目黒",
+    "g_rating": 4.4,
+    "g_reviews": 410,
+    "g_address": "日本、〒153-0063 東京都目黒区目黒１丁目３−１５ リードシー目黒ウェストビル 1F",
+    "lat": 35.634899,
+    "lng": 139.7137558
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "鳥さわ22",
+    "name_en": "Torisawa 22",
+    "area": "東京都 広尾駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130703/13222625/",
+    "rating": 3.86,
+    "review_count_tabelog": 407,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays and public holidays"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 111,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKRXuyyyLGGAR1cpX6FOSJzs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13222625-cc9dc55c55b0685bc087ca4fa0ea99d5ea6e14bc78b5034594baecda3192870d.jpg",
+    "place_id": "ChIJKRXuyyyLGGAR1cpX6FOSJzs",
+    "g_name": "焼き鳥 鳥さわ22",
+    "g_rating": 4.4,
+    "g_reviews": 111,
+    "g_address": "日本、〒106-0031 東京都港区西麻布４丁目１８−１７",
+    "lat": 35.6581641,
+    "lng": 139.7187169
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "やき鳥 宮川",
+    "name_en": "Yakitori Miyagawa",
+    "area": "東京都 茅場町駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130203/13008082/",
+    "rating": 3.68,
+    "review_count_tabelog": 1719,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Chicken dishes, Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 13:30 17:00 - 22:00 L.O. 21:15",
+        "dtl_text": "17:00 - 22:00 L.O. 21:15",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 1195,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2-b83VuJGGARHPLoaVJlvdo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13008082-0bb850ed6eedbf99680205118bbd8e5c04c8ebf184359d1e7326a428d9585f98.jpg",
+    "place_id": "ChIJ2-b83VuJGGARHPLoaVJlvdo",
+    "g_name": "やき鳥 宮川",
+    "g_rating": 4.3,
+    "g_reviews": 1195,
+    "g_address": "日本、〒103-0025 東京都中央区日本橋茅場町３丁目５−１",
+    "lat": 35.67829589999999,
+    "lng": 139.7782904
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "地葉 栄",
+    "name_en": "CHIBA SAKAE",
+    "area": "愛知県 矢場町駅",
+    "url": "https://tabelog.com/aichi/A2301/A230103/23074332/",
+    "rating": 3.77,
+    "review_count_tabelog": 373,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Chicken dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 95,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJIXJ54KBxA2ARXDwWnNZUtoU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/23074332-9852ad1ab813c55d02483aee4c0c5c0805d3e7e165a9469d6df895896fd38c34.jpg",
+    "place_id": "ChIJIXJ54KBxA2ARXDwWnNZUtoU",
+    "g_name": "地葉栄",
+    "g_rating": 4.5,
+    "g_reviews": 95,
+    "g_address": "日本、〒460-0008 愛知県名古屋市中区栄３丁目１９−２０",
+    "lat": 35.16524640000001,
+    "lng": 136.9041355
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "焼鳥 本田",
+    "name_en": "Yakitori Honda",
+    "area": "東京都 新富町駅",
+    "url": "https://tabelog.com/tokyo/A1313/A131301/13143142/",
+    "rating": 3.84,
+    "review_count_tabelog": 119,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Chicken dishes, Oyako-don (Chicken and egg bowl)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays and other irregular days."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 38,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJNfx6LjmJGGARYOmTuORkOQE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13143142-60e39200dbd8d92c4a98752ed94fef1646c2a139fdb5a7a2fbc2975fa6de9b5c.jpg",
+    "place_id": "ChIJNfx6LjmJGGARYOmTuORkOQE",
+    "g_name": "焼鳥 本田",
+    "g_rating": 4.4,
+    "g_reviews": 38,
+    "g_address": "日本、〒104-0043 東京都中央区湊３丁目５−１ エス・ユービル 1F",
+    "lat": 35.6698386,
+    "lng": 139.7782024
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "むなかた屋",
+    "name_en": "Munakata Ya",
+    "area": "福島県 郡山市",
+    "url": "https://tabelog.com/fukushima/A0702/A070201/7000795/",
+    "rating": 3.65,
+    "review_count_tabelog": 201,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Chicken dishes, Mizutaki",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:30 - 00:00 L.O. 23:30",
+        "dtl_text": "17:30 - 00:00 L.O. 23:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 3.9,
+    "google_reviews": 168,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJf9ScBodsIGARFxqxMaFtiiA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/7000795-4fce68dc88cdb7367b309aaf2a2cb1020522e3d9cc17a6a0670298d7baa357d3.jpg",
+    "place_id": "ChIJf9ScBodsIGARFxqxMaFtiiA",
+    "g_name": "むなかた屋",
+    "g_rating": 3.9,
+    "g_reviews": 168,
+    "g_address": "日本、〒963-8002 福島県郡山市駅前１丁目９−５ NATURE倶楽部",
+    "lat": 37.3964126,
+    "lng": 140.3864495
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "焼鳥 ひら野",
+    "name_en": "Yakitori Hirano",
+    "area": "東京都 東銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130103/13267696/",
+    "rating": 3.73,
+    "review_count_tabelog": 587,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "16:00 - 23:00",
+        "dtl_text": "16:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 150,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJNzRT9_aLGGARFAlw5BE7NsA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13267696-1df236f84e356fac98aee1b5a762d0bc189fd8dc1ca241495d8dd2c5f8a1ef3c.jpg",
+    "place_id": "ChIJNzRT9_aLGGARFAlw5BE7NsA",
+    "g_name": "焼鳥 ひら野",
+    "g_rating": 4.4,
+    "g_reviews": 150,
+    "g_address": "日本、〒104-0061 東京都中央区銀座８丁目１２−１５ 全国燃料会館 1F",
+    "lat": 35.6675526,
+    "lng": 139.7631331
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "里葉亭",
+    "name_en": "Riba Tei",
+    "area": "神奈川県 日ノ出町駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140102/14001650/",
+    "rating": 4.05,
+    "review_count_tabelog": 973,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 367,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJY9sy4fRcGGARw4iYzfav7KM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/14001650-d0c508c1fbbba41239ee7581e9767b640432c79e851de90e057bc444ad555322.jpg",
+    "place_id": "ChIJY9sy4fRcGGARw4iYzfav7KM",
+    "g_name": "焼鳥 里葉亭",
+    "g_rating": 4.3,
+    "g_reviews": 367,
+    "g_address": "日本、〒231-0043 神奈川県横浜市中区福富町３−２ 井上共同ビル",
+    "lat": 35.4456324,
+    "lng": 139.631434
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "鳥つる",
+    "name_en": "Tori Tsuru",
+    "area": "愛知県 国際センター駅",
+    "url": "https://tabelog.com/aichi/A2301/A230101/23059160/",
+    "rating": 3.61,
+    "review_count_tabelog": 188,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Chicken dishes, Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Holidays that fall on Mondays"
+    },
+    "google_rating": 3.6,
+    "google_reviews": 151,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJrfqPBdt2A2ARqem5lPW8YWs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/23059160-0293792e9bab7176817cecf25be3e0aa4d8847c3ade948a26d3d9eeb294d95fd.jpg",
+    "place_id": "ChIJrfqPBdt2A2ARqem5lPW8YWs",
+    "g_name": "鳥つる",
+    "g_rating": 3.6,
+    "g_reviews": 151,
+    "g_address": "日本、〒450-0001 愛知県名古屋市中村区那古野１丁目４６−１５",
+    "lat": 35.1738848,
+    "lng": 136.8901058
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "とり茶太郎",
+    "name_en": "Tori Chataro",
+    "area": "東京都 渋谷駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130301/13157208/",
+    "rating": 4.41,
+    "review_count_tabelog": 671,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:30 - 20:30 20:40 - 23:30 L.O. 22:50",
+        "dtl_text": "20:40 - 23:30 L.O. 22:50"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.6,
+    "google_reviews": 202,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJYS0Kb1qLGGARgjyZa8cfFr4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13157208-fdda5eb6c003eb14600706525751ab562244d7e5ca13bf8bf3db4791873ab94c.jpg",
+    "place_id": "ChIJYS0Kb1qLGGARgjyZa8cfFr4",
+    "g_name": "とり茶太郎",
+    "g_rating": 4.6,
+    "g_reviews": 202,
+    "g_address": "日本、〒150-0032 東京都渋谷区鶯谷町７−１２ TAKビル 1F",
+    "lat": 35.6541042,
+    "lng": 139.702142
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "南青山 七鳥目",
+    "name_en": "Minami Aoyama Nana Chome",
+    "area": "東京都 広尾駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130703/13200559/",
+    "rating": 4.2,
+    "review_count_tabelog": 445,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 121,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJn6V1Z2-LGGARNUCVJDec-Uo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13200559-fe9019a9741a36d07ae3d771ad69187eebaaaf8c4475dba4993d981c73687c9e.jpg",
+    "place_id": "ChIJn6V1Z2-LGGARNUCVJDec-Uo",
+    "g_name": "南青山 七鳥目",
+    "g_rating": 4.5,
+    "g_reviews": 121,
+    "g_address": "日本、〒107-0062 東京都港区南青山７丁目１３−１３ フォレストビル B1F",
+    "lat": 35.657133,
+    "lng": 139.7181829
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "おみ乃 椿",
+    "name_en": "Omino Tsubaki",
+    "area": "東京都 京橋駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130202/13290286/",
+    "rating": 4.0,
+    "review_count_tabelog": 153,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00 16:30 - 19:00 19:30 - 22:00",
+        "dtl_text": "19:30 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 48,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJX2anK0OLGGARpcYQJ9wV7_c",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13290286-29f83b5e5300509fd82f3b9e9b4eaf965861e0b2308d66b8d92aab93a2d5a5a1.jpg",
+    "place_id": "ChIJX2anK0OLGGARpcYQJ9wV7_c",
+    "g_name": "おみ乃 椿 京橋",
+    "g_rating": 4.5,
+    "g_reviews": 48,
+    "g_address": "日本、〒134-0031 東京都中央区京橋２丁目５−１７ 京橋SKビル B1F",
+    "lat": 35.6761205,
+    "lng": 139.7704616
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "やきとり 陽火",
+    "name_en": "Yakitori Haruka",
+    "area": "東京都 白金高輪駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131602/13247688/",
+    "rating": 3.77,
+    "review_count_tabelog": 255,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Wine bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:00 - 22:30",
+        "dtl_text": "17:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays and not fixed"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 47,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJx0H_cXaLGGARZcFwJVqZ9lM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13247688-6da20b98ce1d0baec36c110ddd699e737edc1fc6f3c9e8052723d94623da3d50.jpg",
+    "place_id": "ChIJx0H_cXaLGGARZcFwJVqZ9lM",
+    "g_name": "やきとり 陽火",
+    "g_rating": 4.6,
+    "g_reviews": 47,
+    "g_address": "日本、〒108-0072 東京都港区白金５丁目８−１３ 白金ハイツ １階",
+    "lat": 35.6444431,
+    "lng": 139.7263887
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "焼鳥 山香",
+    "name_en": "SANKA",
+    "area": "東京都 神楽坂駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13245585/",
+    "rating": 3.72,
+    "review_count_tabelog": 242,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "17:30 - 23:00 L.O. 22:00",
+        "dtl_text": "17:30 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "17:00 - 23:00 L.O. 22:00",
+        "dtl_text": "17:00 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "If you are a tourist from overseas, please make a reservation through Table Check. Reservations can be made up to one month in advance. Please note that reservations made through Tabelog will not be confirmed."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 73,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJsz9BUxWNGGARI6jUCB6WXgE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13245585-d2e33d2d80bf66c3a75ba45db6420797462904dfdc91b4df7c2adc0ea58a38c1.jpg",
+    "place_id": "ChIJsz9BUxWNGGARI6jUCB6WXgE",
+    "g_name": "焼鳥山香",
+    "g_rating": 4.5,
+    "g_reviews": 73,
+    "g_address": "日本、〒162-0805 東京都新宿区矢来町６４−４ DEAR神楽坂 ２階",
+    "lat": 35.7034749,
+    "lng": 139.7328594
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "ヒヨク之トリ",
+    "name_en": "Sumibi Kushiyaki Hiyoku no Tori",
+    "area": "東京都 麻布十番駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130702/13111237/",
+    "rating": 3.58,
+    "review_count_tabelog": 764,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Kushiyaki, Nihonshu (Japanese sake)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 352,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJNc-wvaaLGGARf-lTrxU8_y8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13111237-8aaa5080c9195ec3fc5fa2fcb6d8621d54bafa6851a052ed00ac886b5a21e4ac.jpg",
+    "place_id": "ChIJNc-wvaaLGGARf-lTrxU8_y8",
+    "g_name": "ヒヨク之トリ",
+    "g_rating": 4.3,
+    "g_reviews": 352,
+    "g_address": "日本、〒106-0044 東京都港区東麻布３丁目２−９",
+    "lat": 35.6575983,
+    "lng": 139.7385285
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "地葉",
+    "name_en": "Chiba",
+    "area": "神奈川県 馬車道駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140104/14070995/",
+    "rating": 3.72,
+    "review_count_tabelog": 348,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 22:30",
+        "dtl_text": "17:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.9,
+    "google_reviews": 356,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZS9poFhcGGAR-d1s2ahhoLI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/14070995-e4bf77639de9a85a4c4e3ac13f4bbcd0bbeb8484afb66221054f96281f2dfafd.jpg",
+    "place_id": "ChIJZS9poFhcGGAR-d1s2ahhoLI",
+    "g_name": "馬車道駅",
+    "g_rating": 3.9,
+    "g_reviews": 356,
+    "g_address": "日本、〒231-0005 神奈川県横浜市中区本町５丁目４９",
+    "lat": 35.4501774,
+    "lng": 139.636271
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "おが和",
+    "name_en": "Ogawa",
+    "area": "東京都 人形町駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130204/13063782/",
+    "rating": 3.71,
+    "review_count_tabelog": 1237,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:25 - 13:30 17:30 - 21:30",
+        "dtl_text": "17:30 - 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 580,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJS5JN8VGJGGARz07p2-6RxNI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13063782-ec016f958691eb681e3954726bc6bef6578d1d851e202056bfafc0e1b56ae426.jpg",
+    "place_id": "ChIJS5JN8VGJGGARz07p2-6RxNI",
+    "g_name": "おが和",
+    "g_rating": 4.5,
+    "g_reviews": 580,
+    "g_address": "日本、〒103-0013 東京都中央区日本橋人形町３丁目１１−２",
+    "lat": 35.687467,
+    "lng": 139.7821814
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "蒼天 南口店",
+    "name_en": "Soten Minamiguchi Ten",
+    "area": "東京都 向原駅",
+    "url": "https://tabelog.com/tokyo/A1323/A132302/13092061/",
+    "rating": 3.67,
+    "review_count_tabelog": 763,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Chicken dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:30 - 23:00 L.O. 22:00",
+        "dtl_text": "17:30 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 283,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJBUOsBXSNGGARENzTEUN5Sb8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13092061-95c262edc9b94e5f369184b7aa0aa27201ff424e520217f49171bb909326dc90.jpg",
+    "place_id": "ChIJBUOsBXSNGGARENzTEUN5Sb8",
+    "g_name": "蒼天",
+    "g_rating": 4,
+    "g_reviews": 283,
+    "g_address": "日本、〒170-0005 東京都豊島区南大塚３丁目３９−１３ 嵯峨加藤ビル",
+    "lat": 35.7295467,
+    "lng": 139.7274315
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "床島",
+    "name_en": "Yakitori Tokoshima",
+    "area": "東京都 西太子堂駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131706/13114433/",
+    "rating": 3.72,
+    "review_count_tabelog": 330,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 22:30 L.O. 21:30",
+        "dtl_text": "17:00 - 22:30 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The first Monday of the month (or the following Tuesday if Monday is a public holiday)"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 151,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4fwh2570GGART8daLBktUDU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13114433-26e2351bc9dfce20a8dc7d7ee7ba43f18adab6f2d7de616882711ad606e60ab2.jpg",
+    "place_id": "ChIJ4fwh2570GGART8daLBktUDU",
+    "g_name": "床島",
+    "g_rating": 4.4,
+    "g_reviews": 151,
+    "g_address": "日本、〒154-0024 東京都世田谷区三軒茶屋２丁目８−１０ ルナパーク三軒茶屋 105",
+    "lat": 35.64259,
+    "lng": 139.6675218
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "花見川 大富",
+    "name_en": "Hanamigawa Ootomi",
+    "area": "千葉県 京成幕張本郷駅",
+    "url": "https://tabelog.com/chiba/A1201/A120102/12052353/",
+    "rating": 3.74,
+    "review_count_tabelog": 232,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Chicken dishes, Oyako-don (Chicken and egg bowl)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:30 - 22:30",
+        "dtl_text": "17:30 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "As this is a small establishment, we kindly ask that you refrain from using strong fragrances or fabric softeners."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 140,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKy0k6tV_GGAR8Nh776XpcNQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/12052353-e8919d356dcb7e5643ab0ade2ede63f4392acba21941261803b5544eb5adfd3a.jpg",
+    "place_id": "ChIJKy0k6tV_GGAR8Nh776XpcNQ",
+    "g_name": "花見川 大富",
+    "g_rating": 4.4,
+    "g_reviews": 140,
+    "g_address": "日本、〒262-0033 千葉県千葉市花見川区幕張本郷１丁目１０−８ サントル ビレッジ 1A",
+    "lat": 35.6723907,
+    "lng": 140.0387688
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "YAKITORI 燃 es",
+    "name_en": "YAKITORI Moe es",
+    "area": "東京都 六本木駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13259508/",
+    "rating": 4.1,
+    "review_count_tabelog": 706,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 268,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJPUoxIZ2LGGAR2MXIJJ85D_w",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13259508-457aac432c67cbe650affb357e900a8b2683b51137d0476b81855538a3f52fc3.jpg",
+    "place_id": "ChIJPUoxIZ2LGGAR2MXIJJ85D_w",
+    "g_name": "YAKITORI燃（ヤキトリ モエ） 六本木本店",
+    "g_rating": 4.4,
+    "g_reviews": 268,
+    "g_address": "日本、〒106-0032 東京都港区六本木３丁目８−１２ ＴＳビル １階",
+    "lat": 35.6631836,
+    "lng": 139.7343284
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "鳥好",
+    "name_en": "Torikou",
+    "area": "秋田県 秋田市",
+    "url": "https://tabelog.com/akita/A0501/A050101/5007853/",
+    "rating": 3.72,
+    "review_count_tabelog": 94,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "【Omakase Course】Course using only Hinai chicken: JPY 10,000"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 81,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJvd_FLe3Cj18RP8nMvMkx4qU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/5007853-10d5eac09db355d30cf5b440e4fef2131575415b2c263e25952d7e4e7131c07a.jpg",
+    "place_id": "ChIJvd_FLe3Cj18RP8nMvMkx4qU",
+    "g_name": "鳥好",
+    "g_rating": 4.4,
+    "g_reviews": 81,
+    "g_address": "日本、〒010-0001 秋田県秋田市中通４丁目１１−５ なかや ビル",
+    "lat": 39.7154704,
+    "lng": 140.1264128
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "鍈輝",
+    "name_en": "Eiki",
+    "area": "東京都 恵比寿駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130302/13230923/",
+    "rating": 4.1,
+    "review_count_tabelog": 374,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "19:00 - 23:00",
+        "dtl_text": "19:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The restaurant will also be closed for an additional two days."
+    },
+    "google_rating": 4.6,
+    "google_reviews": 99,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJETE8pI6LGGARok5jPlkG_HY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13230923-92cd797d6531823afc9041b4db9579bf13d39091c8d09f4163acf586381ac8e9.jpg",
+    "place_id": "ChIJETE8pI6LGGARok5jPlkG_HY",
+    "g_name": "鍈輝",
+    "g_rating": 4.6,
+    "g_reviews": 99,
+    "g_address": "日本、〒150-0013 東京都渋谷区恵比寿２丁目１０−５ ＲＯＺＩＳ ROZIS1階",
+    "lat": 35.645688,
+    "lng": 139.7168416
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "焼鳥 篠原",
+    "name_en": "Yakitori Shinohara",
+    "area": "東京都 乃木坂駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13254666/",
+    "rating": 3.89,
+    "review_count_tabelog": 536,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Chicken dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:30 - 20:00 20:30 - 23:00",
+        "dtl_text": "20:30 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays (and other not fixed days)"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 143,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-SQMaBSLGGAR7AcN6srbPcg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13254666-3292c57c8a5dbd19267afbb5f7249b9086f99f3347869f64ff6a02d72b5a4951.jpg",
+    "place_id": "ChIJ-SQMaBSLGGAR7AcN6srbPcg",
+    "g_name": "焼鳥篠原",
+    "g_rating": 4.2,
+    "g_reviews": 143,
+    "g_address": "日本、〒106-0031 東京都港区西麻布１丁目４−４０ 西麻布篠ビル 1F",
+    "lat": 35.6620776,
+    "lng": 139.7252087
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "喜鈴",
+    "name_en": "Kirin",
+    "area": "東京都 恵比寿駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130302/13188236/",
+    "rating": 3.67,
+    "review_count_tabelog": 822,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Mizutaki, Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "No holidays in November"
+    },
+    "google_rating": 4,
+    "google_reviews": 211,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJUVcJBUGLGGARraFn8VQUTmk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13188236-a0b1ab2124eba7b8d7fdb14b276e2881bca1e2a8032123a540d39234d51e0959.jpg",
+    "place_id": "ChIJUVcJBUGLGGARraFn8VQUTmk",
+    "g_name": "喜鈴(キリン)",
+    "g_rating": 4,
+    "g_reviews": 211,
+    "g_address": "日本、〒150-0021 東京都渋谷区恵比寿西１丁目８−１０ EBISU高橋ビル B1F",
+    "lat": 35.647293,
+    "lng": 139.7084989
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "鳥よし 中目黒本店",
+    "name_en": "Tori Yoshi Nakamegurohonten",
+    "area": "東京都 中目黒駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13003200/",
+    "rating": 3.74,
+    "review_count_tabelog": 772,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Chicken dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "16:00 - 22:00",
+        "dtl_text": "16:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 381,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJIet-TkiLGGARXCtjpLWwA8M",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13003200-49a615001e9cc65d133c3571fe1256fcd15274e4c8b25215b8ee2f92bda5e3e3.jpg",
+    "place_id": "ChIJIet-TkiLGGARXCtjpLWwA8M",
+    "g_name": "焼鳥 鳥よし",
+    "g_rating": 4.4,
+    "g_reviews": 381,
+    "g_address": "日本、〒153-0051 東京都目黒区上目黒２丁目８−６ 谷島ビル 1F",
+    "lat": 35.6423733,
+    "lng": 139.6990932
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "白金 酉玉 本館",
+    "name_en": "Shirogane Toritama Honkan",
+    "area": "東京都 広尾駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131602/13005504/",
+    "rating": 3.66,
+    "review_count_tabelog": 683,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Chicken dishes, Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The third Tuesday and Wednesday of the month"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 102,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJF_J6-BGLGGARQdsw5O91ERQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13005504-54e986b47a90fb874a9a0bb4c891f2923570ff5dc4b4906db906be9c749e0397.jpg",
+    "place_id": "ChIJF_J6-BGLGGARQdsw5O91ERQ",
+    "g_name": "白金酉玉別館",
+    "g_rating": 4.4,
+    "g_reviews": 102,
+    "g_address": "日本、〒150-0013 東京都渋谷区恵比寿２丁目２８−７ 秀マンション 1−右",
+    "lat": 35.6450806,
+    "lng": 139.7212438
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "薪鳥新神戸",
+    "name_en": "Maki Tori Shin Kobe",
+    "area": "東京都 赤坂見附駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130801/13291292/",
+    "rating": 4.43,
+    "review_count_tabelog": 573,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Chicken dishes",
+    "hours_raw": [],
+    "hours_notes_structured": null,
+    "google_rating": 4.6,
+    "google_reviews": 128,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJSbqEHPqLGGARNH1hsv6sBRE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13291292-2c4870ce5948fa6c6baac3a9e2e8da1e22274e486324fe97be3e2d8d3c667996.jpg",
+    "place_id": "ChIJSbqEHPqLGGARNH1hsv6sBRE",
+    "g_name": "薪鳥新神戸",
+    "g_rating": 4.6,
+    "g_reviews": 128,
+    "g_address": "日本、〒107-0052 東京都港区赤坂３丁目９−２ No.R赤坂見附 1F",
+    "lat": 35.6772429,
+    "lng": 139.7360305
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "鳥長",
+    "name_en": "Tori Cho",
+    "area": "東京都 練馬駅",
+    "url": "https://tabelog.com/tokyo/A1321/A132102/13058892/",
+    "rating": 3.78,
+    "review_count_tabelog": 686,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Chicken dishes",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays and Mondays following public holidays"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 226,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJrZ5BxgztGGARE9a_G8peFHk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13058892-dc27fe92b8a75258574d99bb26279c5970e30b2cca953fa24c1dbe1e69022aed.jpg",
+    "place_id": "ChIJrZ5BxgztGGARE9a_G8peFHk",
+    "g_name": "鳥長",
+    "g_rating": 4.4,
+    "g_reviews": 226,
+    "g_address": "日本、〒176-0012 東京都練馬区豊玉北４丁目３１−８",
+    "lat": 35.73461169999999,
+    "lng": 139.6568279
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "炭焼 ちきんかばぶ",
+    "name_en": "Sumiyaki Chicken Kababu",
+    "area": "愛知県 矢場町駅",
+    "url": "https://tabelog.com/aichi/A2301/A230103/23032616/",
+    "rating": 3.68,
+    "review_count_tabelog": 232,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 43,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJoXF1KtBwA2ARqzKzxdi3yvY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/23032616-576d09de054da51fcf3fffa3dc5ec3cb70ee6e40016e672358095aedae7e2a45.jpg",
+    "place_id": "ChIJoXF1KtBwA2ARqzKzxdi3yvY",
+    "g_name": "ちきんかばぶ",
+    "g_rating": 4.1,
+    "g_reviews": 43,
+    "g_address": "日本、〒460-0008 愛知県名古屋市中区栄４丁目１６−８ オフィスビル B1 メンバーズ",
+    "lat": 35.1665487,
+    "lng": 136.9103635
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "炭焼 おかげさん",
+    "name_en": "Sumiyaki Okagesan",
+    "area": "宮城県 北仙台駅",
+    "url": "https://tabelog.com/miyagi/A0401/A040101/4016523/",
+    "rating": 4.08,
+    "review_count_tabelog": 171,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 148,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJm8GMBtcpil8RLP71Eyd0aas",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/4016523-08ac4b9e0e07955eca3ff7278e133354d1e6eefc6ba5e3955a7a1aa5609a0649.jpg",
+    "place_id": "ChIJm8GMBtcpil8RLP71Eyd0aas",
+    "g_name": "酒と炭焼 おかげさん",
+    "g_rating": 4.4,
+    "g_reviews": 148,
+    "g_address": "日本、〒981-0932 宮城県仙台市青葉区木町１１−２",
+    "lat": 38.2779815,
+    "lng": 140.8603311
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "やきとりshira",
+    "name_en": "Yakitori shira",
+    "area": "東京都 梅ケ丘駅",
+    "url": "https://tabelog.com/tokyo/A1318/A131812/13193012/",
+    "rating": 3.94,
+    "review_count_tabelog": 411,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Izakaya (Tavern), Wine bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 00:00 L.O. 23:00",
+        "dtl_text": "17:00 - 00:00 L.O. 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.6,
+    "google_reviews": 176,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8S4FMXTzGGARppgRh2m2kio",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13193012-fa0eb8d7b4b530f8ed39b7ea899d4d748127ddada65b116cedb80272f9c6d8fa.jpg",
+    "place_id": "ChIJ8S4FMXTzGGARppgRh2m2kio",
+    "g_name": "やきとりshira",
+    "g_rating": 4.6,
+    "g_reviews": 176,
+    "g_address": "日本、〒154-0022 東京都世田谷区梅丘１丁目２２−１ Ｙ’ｓステート 地下１階",
+    "lat": 35.6552156,
+    "lng": 139.6532721
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "焼鳥 高はし",
+    "name_en": "Yakitori Takahashi",
+    "area": "東京都 日本橋駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130202/13277790/",
+    "rating": 3.72,
+    "review_count_tabelog": 214,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Public Holiday",
+        "dtl": "17:00 - 22:30",
+        "dtl_text": "17:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon, Tue, Wed, Fri, Sat": {}
+      },
+      "closed_on": "Sundays and Thursdays. For reservations for parties not available online, please contact us by phone."
+    },
+    "google_rating": 4.6,
+    "google_reviews": 58,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJMV-9G12LGGAR0oiaGsScWNY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13277790-0080284478d3affb346067628601db74d72c6193530cf6661c2ffa7e660ac105.jpg",
+    "place_id": "ChIJMV-9G12LGGAR0oiaGsScWNY",
+    "g_name": "焼鳥 髙はし (Yakitori Takahashi)",
+    "g_rating": 4.6,
+    "g_reviews": 58,
+    "g_address": "日本、〒103-0027 東京都中央区日本橋２丁目１０−１１ Ordin日本橋ビル 2階",
+    "lat": 35.6809853,
+    "lng": 139.7745479
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "鳥さわ ジグボーンクラブ",
+    "name_en": "Torisawa Jig Bone Club",
+    "area": "東京都 白金台駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131602/13276341/",
+    "rating": 3.65,
+    "review_count_tabelog": 327,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 00:00 L.O. Food 23:00",
+        "dtl_text": "17:00 - 00:00 L.O. Food 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 94,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJl4fEh5SLGGARGimzwImB4XY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13276341-b084cbed12c53d81795d914c6350de07b3106d946963ff3ad16a85c3117f5302.jpg",
+    "place_id": "ChIJl4fEh5SLGGARGimzwImB4XY",
+    "g_name": "鳥さわ ジグボーンクラブ白金高輪",
+    "g_rating": 4.1,
+    "g_reviews": 94,
+    "g_address": "日本、〒108-0072 東京都港区白金６丁目２−４",
+    "lat": 35.6444732,
+    "lng": 139.7235317
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "1000",
+    "name_en": "1000",
+    "area": "神奈川県 関内駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140104/14083143/",
+    "rating": 4.07,
+    "review_count_tabelog": 451,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "18:00 - 23:30",
+        "dtl_text": "18:00 - 23:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed, Saturdays and Sundays"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 117,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmU-zMMpdGGARim1BFi9jcTE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/14083143-afab397abbd1b9cc704ec52a3e43b8068ae936e6d30703688476bd065629b694.jpg",
+    "place_id": "ChIJmU-zMMpdGGARim1BFi9jcTE",
+    "g_name": "1000 -セン-",
+    "g_rating": 4.2,
+    "g_reviews": 117,
+    "g_address": "日本、〒231-0012 神奈川県横浜市中区相生町２丁目５２ 金子ビル 3F",
+    "lat": 35.4466229,
+    "lng": 139.6381402
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "焼鳥 おがわ",
+    "name_en": "Yakitori Ogawa",
+    "area": "東京都 四谷三丁目駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130903/13158357/",
+    "rating": 3.7,
+    "review_count_tabelog": 358,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "17:00 - 22:30",
+        "dtl_text": "17:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 127,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5cC9c_KMGGARMSnmKR8uyH4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13158357-749284a4fd3a14c944af11e85e9a7dbef79c20092ae01e815dc22596768698d9.jpg",
+    "place_id": "ChIJ5cC9c_KMGGARMSnmKR8uyH4",
+    "g_name": "焼き鳥 おがわ",
+    "g_rating": 4,
+    "g_reviews": 127,
+    "g_address": "日本、〒160-0007 東京都新宿区荒木町９−１ ウインドアラキチョウ １-Ｒ",
+    "lat": 35.6896231,
+    "lng": 139.7221951
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "とりアロマ",
+    "name_en": "Tori Aroma",
+    "area": "東京都 神保町駅",
+    "url": "https://tabelog.com/tokyo/A1310/A131003/13280797/",
+    "rating": 4.05,
+    "review_count_tabelog": 338,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Chicken dishes, Oyako-don (Chicken and egg bowl)",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 50,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJfd3hiJKNGGARa_8XG-weiv0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13280797-f2ed5c6347712dbcc917c355795ae0842dfb954ac01e00af56e48cdd64360a72.jpg",
+    "place_id": "ChIJfd3hiJKNGGARa_8XG-weiv0",
+    "g_name": "鶏馨 とりアロマ",
+    "g_rating": 4.6,
+    "g_reviews": 50,
+    "g_address": "日本、〒101-0051 東京都千代田区神田神保町２丁目１２番３",
+    "lat": 35.6965397,
+    "lng": 139.7566915
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "伊勢廣 京橋本店",
+    "name_en": "Isehiro Kyobashi Honten",
+    "area": "東京都 京橋駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130202/13251802/",
+    "rating": 3.67,
+    "review_count_tabelog": 982,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Chicken dishes, Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 14:00 17:00 - 21:00 L.O. 20:30",
+        "dtl_text": "17:00 - 21:00 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:30 - 14:00 17:00 - 20:30 L.O. 20:00",
+        "dtl_text": "17:00 - 20:30 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 1023,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQdNYKuOLGGARopQD1sOl7VY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13251802-c6a292f9133468508cd1953f62fb7b131c87b7def19b438939a219b65a9bb22a.jpg",
+    "place_id": "ChIJQdNYKuOLGGARopQD1sOl7VY",
+    "g_name": "伊勢廣 京橋本店",
+    "g_rating": 4.4,
+    "g_reviews": 1023,
+    "g_address": "日本、〒104-0031 東京都中央区京橋１丁目４−９",
+    "lat": 35.6784674,
+    "lng": 139.7703284
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "焼き鳥 峠",
+    "name_en": "Yakitori Toge",
+    "area": "東京都 牛込神楽坂駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13225479/",
+    "rating": 3.74,
+    "review_count_tabelog": 241,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Chicken dishes, Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "17:00 - 22:30 L.O. Food 21:30 Drinks 22:00",
+        "dtl_text": "17:00 - 22:30 L.O. Food 21:30 Drinks 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "16:00 - 22:30 L.O. Food 21:30 Drinks 22:00",
+        "dtl_text": "16:00 - 22:30 L.O. Food 21:30 Drinks 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 87,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJe6oheKCNGGAR6hDqIqI2zyc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13225479-4d11138fc08250a9fc07295e15df09d7444897d701f26ae38766dda989c90cfc.jpg",
+    "place_id": "ChIJe6oheKCNGGAR6hDqIqI2zyc",
+    "g_name": "焼き鳥 峠",
+    "g_rating": 4.6,
+    "g_reviews": 87,
+    "g_address": "日本、〒162-0838 東京都新宿区細工町３ 荘 1F",
+    "lat": 35.6989425,
+    "lng": 139.7327445
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "そね田やきとりや",
+    "name_en": "Soneta Yakitoriya",
+    "area": "山形県 山形市",
+    "url": "https://tabelog.com/yamagata/A0601/A060101/6004772/",
+    "rating": 3.65,
+    "review_count_tabelog": 162,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:30 - 21:00",
+        "dtl_text": "17:30 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 164,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJNVJ0-g-2i18RYNBLLx2-_cQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/6004772-1efd43593b4c001b342e79ece30ef974ff88f8f9a4b53f1c20a0c84188d0427e.jpg",
+    "place_id": "ChIJNVJ0-g-2i18RYNBLLx2-_cQ",
+    "g_name": "やきとり そね田",
+    "g_rating": 4.5,
+    "g_reviews": 164,
+    "g_address": "日本、〒990-0039 山形県山形市香澄町１丁目１８−８",
+    "lat": 38.25098759999999,
+    "lng": 140.3295664
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "焼鳥 吉祥",
+    "name_en": "Yakitori Kissho",
+    "area": "愛知県 新栄町駅",
+    "url": "https://tabelog.com/aichi/A2301/A230104/23061531/",
+    "rating": 3.68,
+    "review_count_tabelog": 415,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Chicken dishes, Meat dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday",
+        "dtl": "17:30 - 23:00 L.O. 22:30",
+        "dtl_text": "17:30 - 23:00 L.O. 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "17:30 - 23:00",
+        "dtl_text": "17:30 - 23:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays and some public holidays"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 150,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJxQ5Fi9xwA2ARjW78VMdSYxk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/23061531-fdfa2df8ea9799a517033ce8bfa50ae62ff5a314078cdd8dab92c0dc0cc9f367.jpg",
+    "place_id": "ChIJxQ5Fi9xwA2ARjW78VMdSYxk",
+    "g_name": "焼鳥 吉祥",
+    "g_rating": 4.1,
+    "g_reviews": 150,
+    "g_address": "日本、〒461-0005 愛知県名古屋市東区東桜２丁目１７−４６",
+    "lat": 35.1720811,
+    "lng": 136.9185929
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "とり澤",
+    "name_en": "torisawa",
+    "area": "東京都 中目黒駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13248473/",
+    "rating": 3.76,
+    "review_count_tabelog": 405,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:30 - 23:00",
+        "dtl_text": "17:30 - 23:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 98,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJgR7o_t-LGGAR9FX7dPtS2bg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13248473-96b2b361061777cc57df3410fab6041074eb0fb49fd1398ca33eac35f3a489cb.jpg",
+    "place_id": "ChIJgR7o_t-LGGAR9FX7dPtS2bg",
+    "g_name": "とり澤 中目黒",
+    "g_rating": 4.3,
+    "g_reviews": 98,
+    "g_address": "日本、〒153-0051 東京都目黒区上目黒１丁目５−１３ メゾン中目黒 101",
+    "lat": 35.6448292,
+    "lng": 139.7002275
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "鳥さわ",
+    "name_en": "Tori Sawa",
+    "area": "東京都 亀戸駅",
+    "url": "https://tabelog.com/tokyo/A1312/A131202/13135959/",
+    "rating": 3.76,
+    "review_count_tabelog": 650,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:30 - 23:00",
+        "dtl_text": "17:30 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 215,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJtw83zNqIGGARkAXPzcUFR6w",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13135959-4e816895b4b36a7bcd7383affe51bc0fff2290ce439a0e019216725dc5f3867f.jpg",
+    "place_id": "ChIJtw83zNqIGGARkAXPzcUFR6w",
+    "g_name": "鳥さわ",
+    "g_rating": 4.3,
+    "g_reviews": 215,
+    "g_address": "日本、〒136-0071 東京都江東区亀戸２丁目２４−１３",
+    "lat": 35.6983465,
+    "lng": 139.8237394
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "炭焼 TORI8",
+    "name_en": "Sumiyaki TORI8",
+    "area": "東京都 日本橋駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130202/13293712/",
+    "rating": 4.08,
+    "review_count_tabelog": 260,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Chicken dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:30 - 22:30",
+        "dtl_text": "17:30 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 39,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1-T6UwCJGGARGnQP6_Ez9HI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13293712-3cd19d9957c35a064599ae60eb1e8a1fc1e66e5f9bb862aa268a99611a9dc383.jpg",
+    "place_id": "ChIJ1-T6UwCJGGARGnQP6_Ez9HI",
+    "g_name": "炭焼TORI8",
+    "g_rating": 4.5,
+    "g_reviews": 39,
+    "g_address": "日本、〒103-0027 東京都中央区日本橋２丁目１０−１１ オーディン日本橋ビル ８階",
+    "lat": 35.6810123,
+    "lng": 139.7745634
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "焼鳥 コの字",
+    "name_en": "Yakitori Ko no Ji",
+    "area": "群馬県 高崎市",
+    "url": "https://tabelog.com/gunma/A1001/A100102/10014200/",
+    "rating": 3.77,
+    "review_count_tabelog": 130,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Fri, Sat",
+        "dtl": "17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 39,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJtU3W2_WNHmAR3ww_TTxcTEc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/10014200-ea3e83b10ce066695d0dd67582eb49dddf855e1a9e5435519533782581ae121b.jpg",
+    "place_id": "ChIJtU3W2_WNHmAR3ww_TTxcTEc",
+    "g_name": "コの字",
+    "g_rating": 4.4,
+    "g_reviews": 39,
+    "g_address": "日本、〒370-0824 群馬県高崎市田町１０６−５",
+    "lat": 36.3280829,
+    "lng": 139.0069753
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "かさ原",
+    "name_en": "Kasahara",
+    "area": "東京都 神楽坂駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13266251/",
+    "rating": 4.53,
+    "review_count_tabelog": 450,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon - Sat": {}
+      },
+      "closed_on": "Sundays"
+    },
+    "google_rating": 3.8,
+    "google_reviews": 72,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJy7NdGCyNGGAR1HM38-PteTw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13266251-3f6fc2edc4335d24449d1c92dbce40bfa925321ac6f56687e46111b8561b218c.jpg",
+    "place_id": "ChIJy7NdGCyNGGAR1HM38-PteTw",
+    "g_name": "かさ原",
+    "g_rating": 3.8,
+    "g_reviews": 72,
+    "g_address": "日本、〒162-0813 東京都新宿区東五軒町５−５ 2階",
+    "lat": 35.7063224,
+    "lng": 139.7397962
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "鳥はな",
+    "name_en": "Tori Hana",
+    "area": "東京都 新宿三丁目駅",
+    "url": "https://tabelog.com/tokyo/A1304/A130401/13058653/",
+    "rating": 3.63,
+    "review_count_tabelog": 290,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "18:00 - 21:00 L.O. 20:30",
+        "dtl_text": "18:00 - 21:00 L.O. 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.7,
+    "google_reviews": 25,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ28OcnaCNGGAR1Ot2N3U4DCY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13058653-4575172f60dc9b9e65a136726cc04a5bf87fbf3f0c94bb5fff7e1bac8173fb0c.jpg",
+    "place_id": "ChIJ28OcnaCNGGAR1Ot2N3U4DCY",
+    "g_name": "鳥はな",
+    "g_rating": 3.7,
+    "g_reviews": 25,
+    "g_address": "日本、〒160-0022 東京都新宿区新宿５丁目１８−１８",
+    "lat": 35.6941999,
+    "lng": 139.7065136
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "鳥さみ",
+    "name_en": "Tori Sami",
+    "area": "東京都 亀有駅",
+    "url": "https://tabelog.com/tokyo/A1324/A132403/13256125/",
+    "rating": 3.65,
+    "review_count_tabelog": 150,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:30 - 23:00 L.O. 22:00",
+        "dtl_text": "17:30 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "17:00 - 23:00 L.O. 22:00",
+        "dtl_text": "17:00 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.7,
+    "google_reviews": 68,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJMTdxSLKPGGARjf6jpSHZ3iM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13256125-1ba8d22d533e9904603e29a778d8d9d3a462924642744a91a85a2d849207f667.jpg",
+    "place_id": "ChIJMTdxSLKPGGARjf6jpSHZ3iM",
+    "g_name": "鳥さみ",
+    "g_rating": 4.7,
+    "g_reviews": 68,
+    "g_address": "日本、〒125-0061 東京都葛飾区亀有３丁目２７−１５",
+    "lat": 35.766187,
+    "lng": 139.8500357
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "伊勢廣 ニューオータニ店",
+    "name_en": "Isehiro Nyu Otani Ten",
+    "area": "東京都 麹町駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130803/13000174/",
+    "rating": 3.59,
+    "review_count_tabelog": 508,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Chicken dishes, Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:00 L.O. 13:30 17:00 - 21:00 L.O. 20:30",
+        "dtl_text": "17:00 - 21:00 L.O. 20:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 1023,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQdNYKuOLGGARopQD1sOl7VY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13000174-7d1cf2ed573c9c5b1c2d6e1fed1ebb0a55825b3742a87a91ff020f88ba40eb25.jpg",
+    "place_id": "ChIJQdNYKuOLGGARopQD1sOl7VY",
+    "g_name": "伊勢廣 京橋本店",
+    "g_rating": 4.4,
+    "g_reviews": 1023,
+    "g_address": "日本、〒104-0031 東京都中央区京橋１丁目４−９",
+    "lat": 35.6784674,
+    "lng": 139.7703284
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "やきとり 右羽。",
+    "name_en": "Yakitori Uu.",
+    "area": "東京都 学芸大学駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131702/13253473/",
+    "rating": 3.71,
+    "review_count_tabelog": 252,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:30 - 23:00",
+        "dtl_text": "17:30 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 60,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJw5qSHJT1GGARSfHW2Gsr61M",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13253473-8a731750d921a1b7ea73068819de86a1b4cda72e6deedc994370cf6405f52e47.jpg",
+    "place_id": "ChIJw5qSHJT1GGARSfHW2Gsr61M",
+    "g_name": "やきとり右羽。",
+    "g_rating": 4.5,
+    "g_reviews": 60,
+    "g_address": "日本、〒152-0004 東京都目黒区鷹番２丁目２０−19W 学芸大学 1階",
+    "lat": 35.6296526,
+    "lng": 139.6864585
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "銀座バードランド",
+    "name_en": "Ginza Birdland",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13004097/",
+    "rating": 3.63,
+    "review_count_tabelog": 488,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Chicken dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "17:00 - 21:30",
+        "dtl_text": "17:00 - 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 434,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVby9v-WLGGARQv0iDzabeGo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13004097-287c0b591fdb931b2eec6daa3cf8be560caabba2e2c56a1b69d5f157701c0d9e.jpg",
+    "place_id": "ChIJVby9v-WLGGARQv0iDzabeGo",
+    "g_name": "バードランド",
+    "g_rating": 4.1,
+    "g_reviews": 434,
+    "g_address": "日本、〒104-0061 東京都中央区銀座４丁目２−１５ 塚本素山ビルディング B1F",
+    "lat": 35.672785,
+    "lng": 139.763893
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "焼鳥 美鶏",
+    "name_en": "Yakitori Midori",
+    "area": "神奈川県 日本大通り駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140104/14064998/",
+    "rating": 3.7,
+    "review_count_tabelog": 493,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 212,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ___WtPBcGGARqTjZdkhqtKU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/14064998-35967fb453608a25271e118b4b7018af8c7c06e6c84e31025751fddb79a613d7.jpg",
+    "place_id": "ChIJ___WtPBcGGARqTjZdkhqtKU",
+    "g_name": "焼鳥 美鶏",
+    "g_rating": 4.2,
+    "g_reviews": 212,
+    "g_address": "日本、〒231-0011 神奈川県横浜市中区太田町２丁目３０ 田中ビル 2階",
+    "lat": 35.446713,
+    "lng": 139.6387555
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "焼き鳥 茂 東桜",
+    "name_en": "Yakitori Shige Higashizakura",
+    "area": "愛知県 久屋大通駅",
+    "url": "https://tabelog.com/aichi/A2301/A230103/23077448/",
+    "rating": 3.71,
+    "review_count_tabelog": 270,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Chicken dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 57,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZQZSFsdxA2AR3Sr3lJmE4zw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/23077448-ad62e2d90320ab5121b7e5a36911a7cdacaad7407aad0e674c42c5aae88b74ce.jpg",
+    "place_id": "ChIJZQZSFsdxA2AR3Sr3lJmE4zw",
+    "g_name": "焼き鳥 茂 東桜",
+    "g_rating": 4.5,
+    "g_reviews": 57,
+    "g_address": "日本、〒461-0005 愛知県名古屋市東区東桜１丁目１０−７",
+    "lat": 35.1727289,
+    "lng": 136.9095965
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "興",
+    "name_en": "Kou",
+    "area": "東京都 三ノ輪駅",
+    "url": "https://tabelog.com/tokyo/A1324/A132401/13115926/",
+    "rating": 3.61,
+    "review_count_tabelog": 256,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Izakaya (Tavern), Deep-fried foods",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "17:30 - 23:00 L.O. 22:00",
+        "dtl_text": "17:30 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 172,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJNaC09ImOGGARkzfjsUOFjUQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13115926-38df8a16643c45338b2a7230227e064ec803afbdf1913c84e2d5e324c452fc0f.jpg",
+    "place_id": "ChIJNaC09ImOGGARkzfjsUOFjUQ",
+    "g_name": "興 焼き鳥・串焼き",
+    "g_rating": 4.4,
+    "g_reviews": 172,
+    "g_address": "日本、〒116-0014 東京都荒川区東日暮里１丁目３２−３",
+    "lat": 35.7303282,
+    "lng": 139.7880098
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "焼鳥 はちまん",
+    "name_en": "Yakitori Hachiman",
+    "area": "東京都 早稲田（都電）駅",
+    "url": "https://tabelog.com/tokyo/A1305/A130504/13000055/",
+    "rating": 3.69,
+    "review_count_tabelog": 481,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Chicken dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "12:00 - 15:00 17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays and the 2nd and 4th Wednesdays of each month."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 205,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJEUNJfxmNGGARLm1bbcBEL7Q",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13000055-1661dca703febebffc1f2c0fb82ea5e537b62fc84e01f60deab8e06fd89fe969.jpg",
+    "place_id": "ChIJEUNJfxmNGGARLm1bbcBEL7Q",
+    "g_name": "焼鳥はちまん",
+    "g_rating": 4.4,
+    "g_reviews": 205,
+    "g_address": "日本、〒169-0051 東京都新宿区西早稲田３丁目１−１ B1",
+    "lat": 35.709597,
+    "lng": 139.7163758
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "おみ乃 神谷町",
+    "name_en": "Omino Kamiyacho",
+    "area": "東京都 神谷町駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130704/13255846/",
+    "rating": 3.85,
+    "review_count_tabelog": 461,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Chicken dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri",
+        "dtl": "16:30 - 22:00",
+        "dtl_text": "16:30 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Sat",
+        "dtl": "11:30 - 22:00",
+        "dtl_text": "11:30 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Other irregular holidays may apply."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 133,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0SaEEc6LGGARa4vP9Nr13so",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13255846-1bf37125ce641fe35fc05b3ea69a0af4074d46ff34bc6c398bd7eb4aa8f53500.jpg",
+    "place_id": "ChIJ0SaEEc6LGGARa4vP9Nr13so",
+    "g_name": "おみ乃 神谷町",
+    "g_rating": 4.4,
+    "g_reviews": 133,
+    "g_address": "日本、〒105-0001 東京都港区虎ノ門３丁目１７−１ Tokyu Reit 虎ノ門ビル 1階",
+    "lat": 35.6639913,
+    "lng": 139.7465346
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "炭火焼鳥正ざわ",
+    "name_en": "Sumibi Yakitori Shozawa",
+    "area": "長野県 松本市",
+    "url": "https://tabelog.com/nagano/A2002/A200201/20003246/",
+    "rating": 3.58,
+    "review_count_tabelog": 157,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Chicken dishes, Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 21:30 L.O. 21:00",
+        "dtl_text": "17:00 - 21:30 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Public Holiday",
+        "dtl": "17:00 - 21:00 L.O. Food 20:40 Drinks 20:50",
+        "dtl_text": "17:00 - 21:00 L.O. Food 20:40 Drinks 20:50",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 165,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJaywO-ogOHWARPNxA0ge1s2o",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/20003246-7d6f2586baebb8f158df5bcfe511e08b51247bdee31e8313e525ee7100abe7a4.jpg",
+    "place_id": "ChIJaywO-ogOHWARPNxA0ge1s2o",
+    "g_name": "炭火焼鳥正ざわ",
+    "g_rating": 4.4,
+    "g_reviews": 165,
+    "g_address": "日本、〒390-0811 長野県松本市中央１丁目２７−２１",
+    "lat": 36.2337103,
+    "lng": 137.9642478
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "鳥匠いし井ひな",
+    "name_en": "Torisho Ishii Hina",
+    "area": "東京都 麻布十番駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130702/13271040/",
+    "rating": 4.11,
+    "review_count_tabelog": 534,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Chicken dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:30 - 22:30",
+        "dtl_text": "17:30 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "17:00 - 22:30",
+        "dtl_text": "17:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "【Phone Support Hours】12:00 - 16:00 (Please note that it may be difficult to answer calls during business hours. Thank you for your understanding.)"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 87,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJhQYnH6mLGGAR4pemQmDowes",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13271040-f417fa2757a7a6ef44de6685c1558a386bb024dc57b4342703671e4e15aa1e4f.jpg",
+    "place_id": "ChIJhQYnH6mLGGAR4pemQmDowes",
+    "g_name": "鳥匠いし井ひな",
+    "g_rating": 4.4,
+    "g_reviews": 87,
+    "g_address": "日本、〒106-0047 東京都港区南麻布１丁目２７−７ 1F",
+    "lat": 35.6500192,
+    "lng": 139.7332408
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "焼鳥 うの",
+    "name_en": "Yakitori Uno",
+    "area": "東京都 奥沢駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131711/13130757/",
+    "rating": 3.89,
+    "review_count_tabelog": 378,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers)",
+    "hours_raw": [],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 137,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJpzxLtCL1GGARh6WRezjNk58",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13130757-f331172bd1b44e035dc5d88b0d2f441b18e6499d61821829010c239d6479899c.jpg",
+    "place_id": "ChIJpzxLtCL1GGARh6WRezjNk58",
+    "g_name": "焼鳥 うの",
+    "g_rating": 4.5,
+    "g_reviews": 137,
+    "g_address": "日本、〒158-0083 東京都世田谷区奥沢３丁目３０−１１ トレジャーハイツ B1F",
+    "lat": 35.6024667,
+    "lng": 139.6718626
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "焼き鳥 幸羽",
+    "name_en": "Yakitori Kohane",
+    "area": "静岡県 浜松市中央区",
+    "url": "https://tabelog.com/shizuoka/A2202/A220201/22040511/",
+    "rating": 4.13,
+    "review_count_tabelog": 156,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays (and other irregular days)"
+    },
+    "google_rating": 4.8,
+    "google_reviews": 30,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJzQyZuqPfGmAROQBFtckSHYA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/22040511-e18f9a6e48ec2216d4e16aea5266638c9aae4fc585d73457e634a37f14ae8323.jpg",
+    "place_id": "ChIJzQyZuqPfGmAROQBFtckSHYA",
+    "g_name": "焼き鳥幸羽（こはね）",
+    "g_rating": 4.8,
+    "g_reviews": 30,
+    "g_address": "日本、〒430-0934 静岡県浜松市中区千歳町６ コートクビル 1階 3号室",
+    "lat": 34.7031922,
+    "lng": 137.72931
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "オオクサ",
+    "name_en": "OHKUSA",
+    "area": "東京都 四谷三丁目駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130903/13240980/",
+    "rating": 4.36,
+    "review_count_tabelog": 428,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays, Mondays, and Public Holidays"
+    },
+    "google_rating": 4.7,
+    "google_reviews": 64,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQXefJZuNGGARlxqncIwOqQg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13240980-69595d60b7a34a7526bf282b9695b0f8a35adf0fc1d34048664fbf9041ba8807.jpg",
+    "place_id": "ChIJQXefJZuNGGARlxqncIwOqQg",
+    "g_name": "オオクサ",
+    "g_rating": 4.7,
+    "g_reviews": 64,
+    "g_address": "日本、〒160-0007 東京都新宿区荒木町７−１３ 森戸ビル",
+    "lat": 35.6891044,
+    "lng": 139.7222649
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "阿佐ヶ谷バードランド",
+    "name_en": "Asagaya Bar Dorando",
+    "area": "東京都 阿佐ケ谷駅",
+    "url": "https://tabelog.com/tokyo/A1319/A131905/13026225/",
+    "rating": 3.56,
+    "review_count_tabelog": 399,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Izakaya (Tavern), Wine bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 22:30 L.O. 22:00",
+        "dtl_text": "17:00 - 22:30 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 216,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJb4C51HXyGGARSC7Ay8HEUl0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13026225-aa4b6f1c36410a0437487f98342242344a2bf81ffd433e9999fefb99ca01ce9d.jpg",
+    "place_id": "ChIJb4C51HXyGGARSC7Ay8HEUl0",
+    "g_name": "阿佐ヶ谷 バードランド",
+    "g_rating": 4.2,
+    "g_reviews": 216,
+    "g_address": "日本、〒166-0004 東京都杉並区阿佐谷南３丁目３７−９ パールアサガヤ 1F",
+    "lat": 35.7043566,
+    "lng": 139.6347009
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "焼鳥 せきね",
+    "name_en": "Yakitori Sekine",
+    "area": "東京都 駒込駅",
+    "url": "https://tabelog.com/tokyo/A1323/A132301/13270116/",
+    "rating": 3.73,
+    "review_count_tabelog": 201,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri",
+        "dtl": "17:00 - 22:30 L.O. 22:00",
+        "dtl_text": "17:00 - 22:30 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "16:00 - 22:30 L.O. 22:00",
+        "dtl_text": "16:00 - 22:30 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 76,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJYVxUmcONGGARBxa57-40MkU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13270116-3d0a9995ac2c91bbd3266cfe9d7017e7ef6566b94030a4b22c0ec4358cd9ed3d.jpg",
+    "place_id": "ChIJYVxUmcONGGARBxa57-40MkU",
+    "g_name": "せきね",
+    "g_rating": 4.6,
+    "g_reviews": 76,
+    "g_address": "日本、〒170-0003 東京都豊島区駒込１丁目２９−２",
+    "lat": 35.7370754,
+    "lng": 139.7490274
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "鳥しき",
+    "name_en": "Tori Shiki",
+    "area": "東京都 目黒駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131601/13041029/",
+    "rating": 4.44,
+    "review_count_tabelog": 1318,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 339,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJCdDg_huLGGARkfGN5cbxS-I",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13041029-3390c8c39179f9de91e0f9e046f051a76e50452c91ad8e188651c8b5bab1a5e0.jpg",
+    "place_id": "ChIJCdDg_huLGGARkfGN5cbxS-I",
+    "g_name": "鳥しき",
+    "g_rating": 4.4,
+    "g_reviews": 339,
+    "g_address": "日本、〒141-0021 東京都品川区上大崎２丁目１４−１２",
+    "lat": 35.6342782,
+    "lng": 139.7168892
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "焼鳥 山もと",
+    "name_en": "Yakitori Yamamoto",
+    "area": "東京都 三鷹駅",
+    "url": "https://tabelog.com/tokyo/A1320/A132002/13187433/",
+    "rating": 3.75,
+    "review_count_tabelog": 357,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 302,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJparw4bHvGGARDP9WT1e4PmY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13187433-78be82d713efaeafb28d26e572badb4cd1a0d212919e4cf66ffc13c6872d621a.jpg",
+    "place_id": "ChIJparw4bHvGGARDP9WT1e4PmY",
+    "g_name": "山もと",
+    "g_rating": 4.3,
+    "g_reviews": 302,
+    "g_address": "日本、〒180-0006 東京都武蔵野市中町１丁目１９−８ シティハイツ武蔵野",
+    "lat": 35.7050318,
+    "lng": 139.5626908
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "焼鳥 みずき",
+    "name_en": "Yakitori Mizuki",
+    "area": "岐阜県 岐阜市",
+    "url": "https://tabelog.com/gifu/A2101/A210101/21012245/",
+    "rating": 3.97,
+    "review_count_tabelog": 389,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Chicken dishes, Regional Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "17:30 - 23:00 L.O. Food 22:00 Drinks 22:30",
+        "dtl_text": "17:30 - 23:00 L.O. Food 22:00 Drinks 22:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/21012245-6c8a126b8ff3aaca42137c8a47852f9de2681d34730521a842ef32fe21937cf2.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "焼鳥 おみ乃",
+    "name_en": "Yakitori Omino",
+    "area": "東京都 押上駅",
+    "url": "https://tabelog.com/tokyo/A1312/A131203/13206654/",
+    "rating": 4.09,
+    "review_count_tabelog": 1449,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Chicken dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri",
+        "dtl": "16:30 - 22:30",
+        "dtl_text": "16:30 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Sat",
+        "dtl": "11:30 - 22:30",
+        "dtl_text": "11:30 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "*Please note that we only accept cashless payments."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 401,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQC1MSqPGGAR5m9NVwzZ5Cc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13206654-939370f2d9c1e5770f5d24897db13ad18ec31b2ae511bc7363a377bfaa445fc2.jpg",
+    "place_id": "ChIJAQC1MSqPGGAR5m9NVwzZ5Cc",
+    "g_name": "焼鳥 おみ乃",
+    "g_rating": 4.4,
+    "g_reviews": 401,
+    "g_address": "日本、〒131-0045 東京都墨田区押上１丁目３８−４ 清流ビル 1F",
+    "lat": 35.7098914,
+    "lng": 139.8159185
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "BLESS",
+    "name_en": "BLESS",
+    "area": "東京都 森下駅",
+    "url": "https://tabelog.com/tokyo/A1312/A131201/13246437/",
+    "rating": 3.75,
+    "review_count_tabelog": 721,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Italian, Chicken dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "18:00 - 22:00 L.O. Food 21:00 Drinks 21:30",
+        "dtl_text": "18:00 - 22:00 L.O. Food 21:00 Drinks 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.6,
+    "google_reviews": 133,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ43M1theJGGAR0Igi31iOJ5c",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13246437-3de0cbfa0be1b2239482a8b991b60104fdb7502f6cb4aa5b2459521995d5519c.jpg",
+    "place_id": "ChIJ43M1theJGGAR0Igi31iOJ5c",
+    "g_name": "BLESS",
+    "g_rating": 3.6,
+    "g_reviews": 133,
+    "g_address": "日本、〒135-0004 東京都江東区森下２丁目２０−１３",
+    "lat": 35.6882343,
+    "lng": 139.7995034
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "虎ノ門 焼鳥國よし",
+    "name_en": "Toranomon Yakitori Kuniyoshi",
+    "area": "東京都 虎ノ門ヒルズ駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130802/13213940/",
+    "rating": 3.68,
+    "review_count_tabelog": 368,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Chicken dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Day before public holiday, Day after public holiday",
+        "dtl": "17:00 - 23:00 L.O. 22:00",
+        "dtl_text": "17:00 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Regular business will resume on January 5, 2026, starting at 17:00."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 147,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1bBlbJOLGGARxIZqSQzXMLI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13213940-36c9a66feacdb4498d16659a8642d82e54b68f5b4fdd138651036b8b3ab1c788.jpg",
+    "place_id": "ChIJ1bBlbJOLGGARxIZqSQzXMLI",
+    "g_name": "國よし",
+    "g_rating": 4.4,
+    "g_reviews": 147,
+    "g_address": "日本、〒105-0003 東京都港区西新橋２丁目１５−２ 親和ビル 地下1階",
+    "lat": 35.66705,
+    "lng": 139.75078
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "文ちゃん",
+    "name_en": "Bun Chan",
+    "area": "東京都 飯田橋駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13011406/",
+    "rating": 3.65,
+    "review_count_tabelog": 186,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Chicken dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.8,
+    "google_reviews": 60,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ-hQ_FqMGGAR82j0jGEj78w",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13011406-5e763f39c6656cba9ae4816f09ccc70dff7b824739ed499bfe147ad9be0c779d.jpg",
+    "place_id": "ChIJQ-hQ_FqMGGAR82j0jGEj78w",
+    "g_name": "文ちゃん",
+    "g_rating": 3.8,
+    "g_reviews": 60,
+    "g_address": "日本、〒162-0825 東京都新宿区神楽坂３丁目６ 高橋ビル２ B２",
+    "lat": 35.7006935,
+    "lng": 139.7398188
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "焼鶏 ひらこ",
+    "name_en": "Yakitori Hirako",
+    "area": "東京都 六本木駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13232545/",
+    "rating": 3.72,
+    "review_count_tabelog": 353,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Meat dishes, Chicken dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "18:00 - 20:00 20:30 - 22:30",
+        "dtl_text": "20:30 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays"
+    },
+    "google_rating": 4,
+    "google_reviews": 83,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3wcXnvqLGGARLtqifrf1p2Y",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13232545-d335e4fdb8660f6648f16dda32d68423a7cd0bc2c68ff1b3ddf5bd181366112b.jpg",
+    "place_id": "ChIJ3wcXnvqLGGARLtqifrf1p2Y",
+    "g_name": "焼鶏 ひらこ",
+    "g_rating": 4,
+    "g_reviews": 83,
+    "g_address": "日本、〒106-0031 東京都港区西麻布１丁目５−２３",
+    "lat": 35.6618413,
+    "lng": 139.7257828
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "鳥よし 銀座店",
+    "name_en": "Tori Yoshi Ginza Ten",
+    "area": "東京都 内幸町駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13016582/",
+    "rating": 3.67,
+    "review_count_tabelog": 653,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "16:00 - 22:00 L.O. 21:20",
+        "dtl_text": "16:00 - 22:00 L.O. 21:20"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Year-end & New Year Holidays"
+    },
+    "google_rating": 4,
+    "google_reviews": 496,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJTRFUv-iLGGARZ1k4TTHHtPU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13016582-261910dadcb582b72897f33ae72fb02620511f9ee2cdaf2b94f43871bc8a5441.jpg",
+    "place_id": "ChIJTRFUv-iLGGARZ1k4TTHHtPU",
+    "g_name": "焼鳥 鳥よし 銀座店",
+    "g_rating": 4,
+    "g_reviews": 496,
+    "g_address": "日本、〒104-0061 東京都中央区銀座７丁目２ コリドー街 1F",
+    "lat": 35.6706317,
+    "lng": 139.7596916
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "瀬尾",
+    "name_en": "Seo",
+    "area": "東京都 麻布十番駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130702/13005034/",
+    "rating": 3.76,
+    "review_count_tabelog": 280,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Chicken dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 22:30",
+        "dtl_text": "17:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.6,
+    "google_reviews": 69,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJs2bOG5-LGGARabg-aSvZOz0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13005034-9471b881f659e9fec3b4453de7fd1030d564429ec16214b9e9cc6b3c58f2fad5.jpg",
+    "place_id": "ChIJs2bOG5-LGGARabg-aSvZOz0",
+    "g_name": "鳥善 瀬尾",
+    "g_rating": 4.6,
+    "g_reviews": 69,
+    "g_address": "日本、〒106-0045 東京都港区麻布十番１丁目４−２ カーサツルオカ B1F",
+    "lat": 35.6571824,
+    "lng": 139.7354749
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "鳥よし 赤坂店",
+    "name_en": "Tori Yoshi Akasaka Ten",
+    "area": "東京都 赤坂見附駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130801/13045421/",
+    "rating": 3.58,
+    "review_count_tabelog": 294,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "16:30 - 22:00 L.O. 21:30",
+        "dtl_text": "16:30 - 22:00 L.O. 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays and the 2nd & 4th Mondays of each month"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 274,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQDlJn-MGGARFxoyG_jeh8w",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13045421-dcd54dc4d4227602620098fc1705a4e170d3ad32dc2dabaeb631a858a98701d2.jpg",
+    "place_id": "ChIJAQDlJn-MGGARFxoyG_jeh8w",
+    "g_name": "焼鳥 鳥よし 赤坂店",
+    "g_rating": 4.2,
+    "g_reviews": 274,
+    "g_address": "日本、〒107-0052 東京都港区赤坂３丁目２０−３",
+    "lat": 35.6761196,
+    "lng": 139.7362522
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "鳥焼 笹や",
+    "name_en": "Toriyaki Sasaya",
+    "area": "東京都 目黒駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131601/13045529/",
+    "rating": 3.66,
+    "review_count_tabelog": 566,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:30 - 22:00",
+        "dtl_text": "17:30 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays and Sundays"
+    },
+    "google_rating": 4,
+    "google_reviews": 165,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5c-rxyKLGGAR_ZdZiMX9uj4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13045529-22a354bacd709485ec918aa676b89056030fd5ffb8d88e92751aee88638c7c6d.jpg",
+    "place_id": "ChIJ5c-rxyKLGGAR_ZdZiMX9uj4",
+    "g_name": "鳥焼 笹や",
+    "g_rating": 4,
+    "g_reviews": 165,
+    "g_address": "日本、〒153-0063 東京都目黒区目黒１丁目２４−６",
+    "lat": 35.6352885,
+    "lng": 139.7101376
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "hou",
+    "name_en": "hou",
+    "area": "宮城県 青葉通一番町駅",
+    "url": "https://tabelog.com/miyagi/A0401/A040101/4023532/",
+    "rating": 3.91,
+    "review_count_tabelog": 244,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "16:00 - 22:00",
+        "dtl_text": "16:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "16:00 - 21:00",
+        "dtl_text": "16:00 - 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 100,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJG2ummcYpil8RDPlONDr11p0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/4023532-bbc17314a92e58624a039ecce6439c0952bf3c3401a9b3c387a8a311f1795dc0.jpg",
+    "place_id": "ChIJG2ummcYpil8RDPlONDr11p0",
+    "g_name": "hou",
+    "g_rating": 4.4,
+    "g_reviews": 100,
+    "g_address": "日本、〒980-0811 宮城県仙台市青葉区一番町２丁目３−３ J・BOXビル 3F",
+    "lat": 38.259137,
+    "lng": 140.8737948
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "鳥恵 上野広小路店",
+    "name_en": "Torie Ueno Hiro Koji Ten",
+    "area": "東京都 上野広小路駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131101/13128870/",
+    "rating": 3.69,
+    "review_count_tabelog": 649,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Chicken dishes, Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:30 - 22:30 L.O. Drinks 22:00",
+        "dtl_text": "17:30 - 22:30 L.O. Drinks 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Public Holiday",
+        "dtl": "17:00 - 22:30 L.O. Drinks 22:00",
+        "dtl_text": "17:00 - 22:30 L.O. Drinks 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.6,
+    "google_reviews": 112,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJnTEx_Z-OGGARgdDuI__dhuI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13128870-6c03ecadcae7881cb47f16881f53820a82129718ce64a57e6abc96fb22084fe1.jpg",
+    "place_id": "ChIJnTEx_Z-OGGARgdDuI__dhuI",
+    "g_name": "上野広小路駅",
+    "g_rating": 3.6,
+    "g_reviews": 112,
+    "g_address": "日本、〒110-0005 東京都台東区上野３丁目２９−３",
+    "lat": 35.7078788,
+    "lng": 139.7729859
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "鳥さわ 麻布十番",
+    "name_en": "Torisawa Azabu Juban",
+    "area": "東京都 麻布十番駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130702/13234334/",
+    "rating": 3.74,
+    "review_count_tabelog": 288,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:30 - 23:00",
+        "dtl_text": "17:30 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 111,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKRXuyyyLGGAR1cpX6FOSJzs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13234334-a86141e71351bd1b79ace1681885e4a10a8499654ab969fd38d556ea5e83477c.jpg",
+    "place_id": "ChIJKRXuyyyLGGAR1cpX6FOSJzs",
+    "g_name": "焼き鳥 鳥さわ22",
+    "g_rating": 4.4,
+    "g_reviews": 111,
+    "g_address": "日本、〒106-0031 東京都港区西麻布４丁目１８−１７",
+    "lat": 35.6581641,
+    "lng": 139.7187169
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "焼鳥 嘉とう",
+    "name_en": "Yakitori Katou",
+    "area": "東京都 三田駅",
+    "url": "https://tabelog.com/tokyo/A1314/A131402/13193773/",
+    "rating": 3.7,
+    "review_count_tabelog": 184,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Chicken dishes, Wine bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 111,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJtahRSrCLGGARfLEslWJKCGM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13193773-33f11e2cf519edbb15811b0247ff89e5defac4f74d84f5585c31afe35c853755.jpg",
+    "place_id": "ChIJtahRSrCLGGARfLEslWJKCGM",
+    "g_name": "焼鳥 嘉とう",
+    "g_rating": 4.3,
+    "g_reviews": 111,
+    "g_address": "日本、〒108-0073 東京都港区三田３丁目３−２ 三田豊田ビル 2階",
+    "lat": 35.647303,
+    "lng": 139.74362
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "焼鳥 空",
+    "name_en": "Yakitori Sora",
+    "area": "愛知県 今池駅",
+    "url": "https://tabelog.com/aichi/A2301/A230106/23080203/",
+    "rating": 3.79,
+    "review_count_tabelog": 140,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "18:00 - 20:15 20:45 - 23:00",
+        "dtl_text": "20:45 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 70,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJS3XYqWNxA2ARz78n_KkRz_I",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/23080203-082d33232640a612a081b65673eb46fb9119aff7a56d420c5e3e19ed662bb1df.jpg",
+    "place_id": "ChIJS3XYqWNxA2ARz78n_KkRz_I",
+    "g_name": "空",
+    "g_rating": 4.1,
+    "g_reviews": 70,
+    "g_address": "日本、〒464-0075 愛知県名古屋市千種区内山１丁目４−１０ 都通ビル 105",
+    "lat": 35.1740248,
+    "lng": 136.9382762
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "伸喜",
+    "name_en": "Shinki",
+    "area": "神奈川県 桜木町駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140102/14000552/",
+    "rating": 3.71,
+    "review_count_tabelog": 527,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "17:00 - 21:30",
+        "dtl_text": "17:00 - 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "16:30 - 21:30",
+        "dtl_text": "16:30 - 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 137,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJlckCEGBcGGARAwMZQJypeK4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/14000552-8c75b26cb63973e81b87c34ec536e0d83deb7aea485620ca699731c7ba02c9af.jpg",
+    "place_id": "ChIJlckCEGBcGGARAwMZQJypeK4",
+    "g_name": "伸喜(しんき)",
+    "g_rating": 4.1,
+    "g_reviews": 137,
+    "g_address": "日本、〒231-0064 神奈川県横浜市中区野毛町２丁目８０",
+    "lat": 35.448041,
+    "lng": 139.6294196
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "とり喜",
+    "name_en": "Tori Ki",
+    "area": "東京都 錦糸町駅",
+    "url": "https://tabelog.com/tokyo/A1312/A131201/13026017/",
+    "rating": 3.74,
+    "review_count_tabelog": 1015,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:30 - 00:00 L.O. Drinks 23:45",
+        "dtl_text": "17:30 - 00:00 L.O. Drinks 23:45"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "17:00 - 23:30 L.O. Drinks 23:15",
+        "dtl_text": "17:00 - 23:30 L.O. Drinks 23:15"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.5,
+    "google_reviews": 288,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQDsBCiJGGAR4XTt-YS6N-g",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13026017-2e20507d81cb05556b7f03890dd6ee23c3503bbe3c557d7aafd4b49b49f5415e.jpg",
+    "place_id": "ChIJAQDsBCiJGGAR4XTt-YS6N-g",
+    "g_name": "鳥貴族 錦糸町駅前店",
+    "g_rating": 3.5,
+    "g_reviews": 288,
+    "g_address": "日本、〒130-0022 東京都墨田区江東橋３丁目１４−１３ サンライズビル ４階",
+    "lat": 35.6962094,
+    "lng": 139.813263
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "地葉はなれ",
+    "name_en": "Chiba Hanare",
+    "area": "神奈川県 横浜駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140101/14074964/",
+    "rating": 3.76,
+    "review_count_tabelog": 421,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 00:00",
+        "dtl_text": "17:00 - 00:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "We will operate without designated closing days due to the temporary closure of Bashamichi and Chiba. The Yokohama Chiba branch will remain open."
+    },
+    "google_rating": 4,
+    "google_reviews": 172,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_cygxLJdGGARNYYwwOmwfyg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/14074964-09938e12da184d62828e41318a01bf376544ab4e79c287843a92b547821a6e37.jpg",
+    "place_id": "ChIJ_cygxLJdGGARNYYwwOmwfyg",
+    "g_name": "地葉はなれ",
+    "g_rating": 4,
+    "g_reviews": 172,
+    "g_address": "日本、〒221-0835 神奈川県横浜市神奈川区鶴屋町１丁目7−１ デリス横浜ビル 4F",
+    "lat": 35.4692244,
+    "lng": 139.6242935
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "大銀杏 栄店",
+    "name_en": "Oicho Sakae Ten",
+    "area": "愛知県 矢場町駅",
+    "url": "https://tabelog.com/aichi/A2301/A230103/23047581/",
+    "rating": 3.58,
+    "review_count_tabelog": 821,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Chicken wings, Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu",
+        "dtl": "17:30 - 22:30 L.O. 22:00",
+        "dtl_text": "17:30 - 22:30 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Fri, Sat, Sun",
+        "dtl": "17:30 - 00:30 L.O. 00:00",
+        "dtl_text": "17:30 - 00:30 L.O. 00:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "From June 1, 2025, the hours on Fridays, Saturdays, and Sundays will be changed to 17:30 - 00:30 (Last order at 00:00)."
+    },
+    "google_rating": 3.8,
+    "google_reviews": 274,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8cmbp89wA2ARSYcR0uPhxYY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/23047581-a4606a8ef065032171686bad0385733242b3f81202f0f0891be07562a86e408d.jpg",
+    "place_id": "ChIJ8cmbp89wA2ARSYcR0uPhxYY",
+    "g_name": "大銀杏 栄店",
+    "g_rating": 3.8,
+    "g_reviews": 274,
+    "g_address": "日本、〒460-0008 愛知県名古屋市中区栄５丁目２−１８",
+    "lat": 35.1645216,
+    "lng": 136.9108466
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "鳥おか",
+    "name_en": "Tori Oka",
+    "area": "東京都 神谷町駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13293212/",
+    "rating": 3.75,
+    "review_count_tabelog": 134,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 14:00 18:00 - 20:00",
+        "dtl_text": "18:00 - 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Children aged 6 and above are welcome."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 20,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ0Yh_EiLGGARWnbeD19jVJc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13293212-13ac6fc93a8192c78192dbfe7b2374d5fd4b9d6676c30ec256ebe22f998c5557.jpg",
+    "place_id": "ChIJQ0Yh_EiLGGARWnbeD19jVJc",
+    "g_name": "鳥おか",
+    "g_rating": 4.2,
+    "g_reviews": 20,
+    "g_address": "日本、〒106-0041 東京都港区麻布台１丁目２−４",
+    "lat": 35.6620914,
+    "lng": 139.7415446
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "焼鳥 ひげぼうず",
+    "name_en": "Yakitori Higebozu",
+    "area": "北海道 資生館小学校前駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010103/1070763/",
+    "rating": 4.09,
+    "review_count_tabelog": 120,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "18:30 - 22:00",
+        "dtl_text": "18:30 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 40,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJw3Fh76opC18REk4-TvmUPH0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/1070763-37caedcfd56f84d5a4a2363f30606cdf8df6b9bacae81a78d2877e5fdcb7e9b5.jpg",
+    "place_id": "ChIJw3Fh76opC18REk4-TvmUPH0",
+    "g_name": "焼鳥ひげぼうず",
+    "g_rating": 4.5,
+    "g_reviews": 40,
+    "g_address": "日本、〒064-0805 北海道札幌市中央区南５条西６丁目4",
+    "lat": 43.0537085,
+    "lng": 141.3499637
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "串焼 大助",
+    "name_en": "Kushiyaki Oosuke",
+    "area": "東京都 大門駅",
+    "url": "https://tabelog.com/tokyo/A1314/A131401/13116576/",
+    "rating": 3.64,
+    "review_count_tabelog": 379,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Japanese Cuisine, Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:30 - 22:00",
+        "dtl_text": "17:30 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "17:30 - 21:00",
+        "dtl_text": "17:30 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 180,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__86aMeLGGAR8pjnbKG1SiY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13116576-aa18d730a8e4347aa348354ebae4f7ab507db1c741be9dd30d2f560946ecea36.jpg",
+    "place_id": "ChIJ__86aMeLGGAR8pjnbKG1SiY",
+    "g_name": "串焼 大助",
+    "g_rating": 4.2,
+    "g_reviews": 180,
+    "g_address": "日本、〒105-0012 東京都港区芝大門２丁目１−４",
+    "lat": 35.6566598,
+    "lng": 139.7531792
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "焼鳥 茜",
+    "name_en": "Yakitori Akane",
+    "area": "東京都 神楽坂駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13196727/",
+    "rating": 3.72,
+    "review_count_tabelog": 143,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 67,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJXZVabf-MGGARZNehXKS73yo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13196727-9d8ca36523a6ae0c5d09fddf5b3311ce74c31163a27f80543963a5e0ed31058f.jpg",
+    "place_id": "ChIJXZVabf-MGGARZNehXKS73yo",
+    "g_name": "焼鳥茜",
+    "g_rating": 4.5,
+    "g_reviews": 67,
+    "g_address": "日本、〒162-0808 東京都新宿区天神町 68滝沢ビル１階",
+    "lat": 35.7056197,
+    "lng": 139.7308003
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "道しるべ",
+    "name_en": "Michishirube",
+    "area": "東京都 西武新宿駅",
+    "url": "https://tabelog.com/tokyo/A1304/A130401/13101685/",
+    "rating": 3.72,
+    "review_count_tabelog": 559,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat",
+        "dtl": "18:00 - 01:00",
+        "dtl_text": "18:00 - 01:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays, Sundays, the last Monday of each month, and public holidays."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 131,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJa5BiMiWNGGARGW6H-Ckx7po",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/13101685-ca4a9062b2d8b753028a643eaf41347ff3b55479139b83d31f7e81743e1b2aa0.jpg",
+    "place_id": "ChIJa5BiMiWNGGARGW6H-Ckx7po",
+    "g_name": "道しるべ",
+    "g_rating": 4.4,
+    "g_reviews": 131,
+    "g_address": "日本、〒160-0021 東京都新宿区歌舞伎町１丁目３−７",
+    "lat": 35.6947591,
+    "lng": 139.7036934
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "練馬 鳥長 新潟",
+    "name_en": "Nerima Toricho Niigata",
+    "area": "新潟県 新潟市中央区",
+    "url": "https://tabelog.com/niigata/A1501/A150101/15020003/",
+    "rating": 3.74,
+    "review_count_tabelog": 274,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers), Chicken dishes, Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "18:00 - 21:30",
+        "dtl_text": "18:00 - 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "17:00 - 20:30",
+        "dtl_text": "17:00 - 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Tuesday - Friday": {},
+        "Saturday": {},
+        "Sunday & Public Holidays": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 87,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJk03G3iPJ9F8Ra2jqWgh4EZk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/15020003-34c86991ffe08323d01c2f0cfb1b8d4cce33f8259c691ebd32776714efe71893.jpg",
+    "place_id": "ChIJk03G3iPJ9F8Ra2jqWgh4EZk",
+    "g_name": "練馬鳥長・新潟",
+    "g_rating": 4.3,
+    "g_reviews": 87,
+    "g_address": "日本、〒950-0087 新潟県新潟市中央区東大通２丁目１−７ 松屋ビル ２F",
+    "lat": 37.9148356,
+    "lng": 139.0591565
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "鶏けん",
+    "name_en": "Tori Ken",
+    "area": "福島県 福島市",
+    "url": "https://tabelog.com/fukushima/A0701/A070101/7000904/",
+    "rating": 3.71,
+    "review_count_tabelog": 210,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "18:00 - 23:00 L.O. 22:30",
+        "dtl_text": "18:00 - 23:00 L.O. 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays (open on Sundays if Monday is a public holiday, then closed the following Monday)"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 49,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJs6C_VEiFil8RoljBxr6d4ZY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/7000904-41836935e494ae567b22e6ce7babec143ef3b41ca07330689a6df6c257b58578.jpg",
+    "place_id": "ChIJs6C_VEiFil8RoljBxr6d4ZY",
+    "g_name": "鶏けん",
+    "g_rating": 4.6,
+    "g_reviews": 49,
+    "g_address": "日本、〒960-8031 福島県福島市栄町１２−１ 第一寿ビル 1階",
+    "lat": 37.754451,
+    "lng": 140.4626221
+  },
+  {
+    "category_jp": "焼き鳥",
+    "category_en": "Yakitori",
+    "region": "EAST",
+    "name": "焼鳥 かん田",
+    "name_en": "Yakitori Kanda",
+    "area": "愛知県 市役所",
+    "url": "https://tabelog.com/aichi/A2301/A230109/23066675/",
+    "rating": 3.79,
+    "review_count_tabelog": 60,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Yakitori (Grilled chicken skewers)",
+    "hours_raw": [],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 8,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJf_IQSwBxA2ARhHdsO_OhuGE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/yakitori_east/23066675-38e94d7af7e816d5bd8827251285d6a473ff8218f5e0af563a32f95c323f52f9.jpg",
+    "place_id": "ChIJf_IQSwBxA2ARhHdsO_OhuGE",
+    "g_name": "焼き鳥 かん田",
+    "g_rating": 4.5,
+    "g_reviews": 8,
+    "g_address": "日本、〒461-0001 愛知県名古屋市東区泉２丁目１−２７ ライオンズマンション東片端",
+    "lat": 35.1778802,
+    "lng": 136.9143905
+  }
+]

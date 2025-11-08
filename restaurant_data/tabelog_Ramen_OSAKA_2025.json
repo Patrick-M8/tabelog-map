@@ -1,0 +1,4631 @@
+[
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "KUCHE",
+    "name_en": "KUCHE",
+    "area": "大阪府 上新庄駅",
+    "url": "https://tabelog.com/osaka/A2701/A270307/27076936/",
+    "rating": 3.69,
+    "review_count_tabelog": 672,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 18:00 - 22:00 L.O. 21:45",
+        "dtl_text": "18:00 - 22:00 L.O. 21:45"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 439,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJBV2wFO7jAGARaJ6WppubQfo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27076936-cc72bad063570f08964039e6382fdf2f055533e31f7069351c91e50569e1214f.jpg",
+    "place_id": "ChIJBV2wFO7jAGARaJ6WppubQfo",
+    "g_name": "KÜCHE",
+    "g_rating": 4.2,
+    "g_reviews": 439,
+    "g_address": "日本、〒533-0005 大阪府大阪市東淀川区瑞光１丁目５−３２",
+    "lat": 34.7479911,
+    "lng": 135.5357631
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "麺屋彩々 昭和町本店",
+    "name_en": "Menya Saisai Showa Cho Honten",
+    "area": "大阪府 昭和町駅",
+    "url": "https://tabelog.com/osaka/A2701/A270203/27059500/",
+    "rating": 3.71,
+    "review_count_tabelog": 1290,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "08:00 - 14:30 L.O. 14:15 17:30 - 19:45 L.O. 19:30",
+        "dtl_text": "17:30 - 19:45 L.O. 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 653,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJEQoKutzdAGARTeQ_bH4ah6o",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27059500-f6d2c01e8f46bdcb9b8b396be777be0c5e1798c482d3afe28fad5936a25ea2bb.jpg",
+    "place_id": "ChIJEQoKutzdAGARTeQ_bH4ah6o",
+    "g_name": "麺屋 彩々",
+    "g_rating": 4.1,
+    "g_reviews": 653,
+    "g_address": "日本、〒545-0021 大阪府大阪市阿倍野区阪南町１丁目４６−８",
+    "lat": 34.6339798,
+    "lng": 135.5163706
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "らーめん これこれ",
+    "name_en": "CORE-CORE",
+    "area": "大阪府 江坂駅",
+    "url": "https://tabelog.com/osaka/A2706/A270602/27118157/",
+    "rating": 3.7,
+    "review_count_tabelog": 1276,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:00 - 15:00 17:30 - 22:00",
+        "dtl_text": "17:30 - 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round. Please check our Twitter for updates on any temporary closures."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 702,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJB3xQ3uflAGARPkigvM2GI-Y",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27118157-b38f2951fb2ceb609d448ecba99e680295b05d9fb808c3e065c1e65e3f4f757f.jpg",
+    "place_id": "ChIJB3xQ3uflAGARPkigvM2GI-Y",
+    "g_name": "らーめん これこれ",
+    "g_rating": 4.2,
+    "g_reviews": 702,
+    "g_address": "日本、〒564-0063 大阪府吹田市江坂町１丁目２０−３０ キャロル江坂 1F 103号室",
+    "lat": 34.7583172,
+    "lng": 135.4999197
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "麺や 福はら",
+    "name_en": "Menya Fukuhara",
+    "area": "大阪府 今里（近鉄）駅",
+    "url": "https://tabelog.com/osaka/A2701/A270306/27099659/",
+    "rating": 3.74,
+    "review_count_tabelog": 1290,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 3.7,
+    "google_reviews": 777,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJaxf_qiTeAGAR9nxlE2evY1E",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27099659-70d8fc64c97e941e7e9182be9cdcc08d6d7d1da56693cc197e05b2ec796da80d.jpg",
+    "place_id": "ChIJaxf_qiTeAGAR9nxlE2evY1E",
+    "g_name": "麺や 福はら",
+    "g_rating": 3.7,
+    "g_reviews": 777,
+    "g_address": "日本、〒544-0001 大阪府大阪市生野区新今里５丁目１−８",
+    "lat": 34.6617806,
+    "lng": 135.5489162
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "塩ラーメン あす流",
+    "name_en": "Shio Ramen Asuryu",
+    "area": "大阪府 高槻駅",
+    "url": "https://tabelog.com/osaka/A2706/A270604/27007898/",
+    "rating": 3.72,
+    "review_count_tabelog": 885,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 13:30",
+        "dtl_text": "11:00 - 13:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 312,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6o2dLYCAWARWamJzfLC0BM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27007898-322cdc4f9f05ace2e3fcaeac47559e25bb143acbd8e5d17c23c45f4fe8301824.jpg",
+    "place_id": "ChIJq6o2dLYCAWARWamJzfLC0BM",
+    "g_name": "あす流",
+    "g_rating": 4.3,
+    "g_reviews": 312,
+    "g_address": "日本、〒569-0804 大阪府高槻市紺屋町８−３０ ２階",
+    "lat": 34.8491516,
+    "lng": 135.6181315
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "超多加水純手打ち麺 仁しむら",
+    "name_en": "Chotakasui Jun Teuchi Men Nishimura",
+    "area": "大阪府 布施駅",
+    "url": "https://tabelog.com/osaka/A2707/A270703/27120794/",
+    "rating": 3.72,
+    "review_count_tabelog": 570,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:30 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "11:00 - 14:30",
+        "dtl_text": "11:00 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.8,
+    "google_reviews": 244,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJk_CzMYzfAGAR0P1ANVTi0aw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27120794-af0ee1a3f8bec42493def88693da5627558e09f1bb43195ccaad2f1c7c73a029.jpg",
+    "place_id": "ChIJk_CzMYzfAGAR0P1ANVTi0aw",
+    "g_name": "超多加水純手打ち麺 仁しむら",
+    "g_rating": 3.8,
+    "g_reviews": 244,
+    "g_address": "日本、〒577-0056 大阪府東大阪市長堂１丁目２８−１４",
+    "lat": 34.6689535,
+    "lng": 135.5641929
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "極汁美麺 umami",
+    "name_en": "Gokuju Bimen umami",
+    "area": "大阪府 河内小阪駅",
+    "url": "https://tabelog.com/osaka/A2707/A270703/27093539/",
+    "rating": 3.72,
+    "review_count_tabelog": 940,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "09:00 - 15:00",
+        "dtl_text": "09:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.9,
+    "google_reviews": 520,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJbXcb4L7fAGARw00gRDN7ahg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27093539-40c300f95f3ce6f411285c1706f53d693ef25dc3f68eac85d2c0b8a2e66e7878.jpg",
+    "place_id": "ChIJbXcb4L7fAGARw00gRDN7ahg",
+    "g_name": "極汁美麺 umami",
+    "g_rating": 3.9,
+    "g_reviews": 520,
+    "g_address": "日本、〒577-0807 大阪府東大阪市菱屋西３丁目１−１",
+    "lat": 34.6639483,
+    "lng": 135.5782725
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "鶏 soba 座銀 本店",
+    "name_en": "Tori Soba Zagin Hon Ten",
+    "area": "大阪府 肥後橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270102/27079112/",
+    "rating": 3.72,
+    "review_count_tabelog": 2052,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen, Chicken dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:30 - 22:30 L.O. Food 22:00",
+        "dtl_text": "10:30 - 22:30 L.O. Food 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 2238,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ26BOjvrmAGAR_6R7exQC6V4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27079112-5b7291c9f856e3217c5195aab29bcf0cab32602cb3b24de88808e986b9415f88.jpg",
+    "place_id": "ChIJ26BOjvrmAGAR_6R7exQC6V4",
+    "g_name": "鶏Soba 座銀 本店",
+    "g_rating": 4.5,
+    "g_reviews": 2238,
+    "g_address": "日本、〒550-0002 大阪府大阪市西区江戸堀１丁目１９−２",
+    "lat": 34.68965430000001,
+    "lng": 135.4950405
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "らーめん颯人",
+    "name_en": "Ramen Hayato",
+    "area": "大阪府 南森町駅",
+    "url": "https://tabelog.com/osaka/A2701/A270103/27083921/",
+    "rating": 3.76,
+    "review_count_tabelog": 1382,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The first Monday, the first Tuesday, the second, third, fourth, and fifth Sundays, and occasional closures (please check our official X for updates)"
+    },
+    "google_rating": 3.9,
+    "google_reviews": 819,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJFc6rk9zmAGARJSvaGZmc0QE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27083921-0981c1701bc331912133cd788935d12f5de416efac5d7e300c856798b4224c23.jpg",
+    "place_id": "ChIJFc6rk9zmAGARJSvaGZmc0QE",
+    "g_name": "らーめん颯人(はやと)",
+    "g_rating": 3.9,
+    "g_reviews": 819,
+    "g_address": "日本、〒530-0054 大阪府大阪市北区南森町１丁目２−２",
+    "lat": 34.6956087,
+    "lng": 135.5100352
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "麺のようじ",
+    "name_en": "Men no Youji",
+    "area": "大阪府 日本橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270202/27072765/",
+    "rating": 3.72,
+    "review_count_tabelog": 1341,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen, Abura soba mixed noodle",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 14:40 L.O. 14:20 18:00 - 21:00 L.O. 20:30",
+        "dtl_text": "18:00 - 21:00 L.O. 20:30"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.9,
+    "google_reviews": 1499,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6YNihGnnAGAROeGn__KfVtA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27072765-f1f1a2cc49e3113382ab055fc79dc6cc3dab84f5c855aa6c8b49251c141f2395.jpg",
+    "place_id": "ChIJ6YNihGnnAGAROeGn__KfVtA",
+    "g_name": "namco大阪日本橋店",
+    "g_rating": 3.9,
+    "g_reviews": 1499,
+    "g_address": "日本、〒556-0011 大阪府大阪市浪速区難波中２丁目１−１７ コスモビル 1～3F",
+    "lat": 34.662968,
+    "lng": 135.504374
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "中華そば かみなり雲呑",
+    "name_en": "Chuka Soba Kaminari Wantan",
+    "area": "大阪府 長居駅",
+    "url": "https://tabelog.com/osaka/A2701/A270404/27105005/",
+    "rating": 3.68,
+    "review_count_tabelog": 744,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Fri, Sat",
+        "dtl": "11:30 - 14:30 18:00 - 21:30",
+        "dtl_text": "18:00 - 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "11:30 - 14:30",
+        "dtl_text": "11:30 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:30 - 14:30 18:00 - 20:45",
+        "dtl_text": "18:00 - 20:45",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.9,
+    "google_reviews": 409,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJY4ElWqvdAGARyQfvJh48v7E",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27105005-77ff945a0f5ee4f209c93d9366a8edfacd436eb1f8daeaac5c549ddfe957d995.jpg",
+    "place_id": "ChIJY4ElWqvdAGARyQfvJh48v7E",
+    "g_name": "中華そば かみなり雲呑",
+    "g_rating": 3.9,
+    "g_reviews": 409,
+    "g_address": "日本、〒558-0004 大阪府大阪市住吉区長居東３丁目１４−２２",
+    "lat": 34.6069403,
+    "lng": 135.5136812
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "麺や 紡",
+    "name_en": "Menya Tsumugu",
+    "area": "大阪府 宇野辺駅",
+    "url": "https://tabelog.com/osaka/A2706/A270604/27064537/",
+    "rating": 3.74,
+    "review_count_tabelog": 1160,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen, Donburi (Rice bowl)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Sat, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.9,
+    "google_reviews": 715,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJe9vBAsLfAGARqI0K-dBg4Kw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27064537-0262e36f3801a63ccd52ebdf4566b98ac7ebe104e6c3198ca9ff997d83da7e9d.jpg",
+    "place_id": "ChIJe9vBAsLfAGARqI0K-dBg4Kw",
+    "g_name": "麺や 紡",
+    "g_rating": 3.9,
+    "g_reviews": 715,
+    "g_address": "日本、〒567-0042 大阪府茨木市宇野辺２丁目１−２４",
+    "lat": 34.8035701,
+    "lng": 135.5563266
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "無鉄砲 大阪店",
+    "name_en": "Mutekko Oosakaten",
+    "area": "大阪府 今宮戎駅",
+    "url": "https://tabelog.com/osaka/A2701/A270206/27005006/",
+    "rating": 3.72,
+    "review_count_tabelog": 2166,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 17:30 - 22:30",
+        "dtl_text": "17:30 - 22:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (open on public holidays)"
+    },
+    "google_rating": 3.9,
+    "google_reviews": 2555,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVUxOmTnAGARNuV6uBQbBQ0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27005006-bf317d64f7d68c10440c30953268acfe14936e58c3eefeb72f78c4bb6dd041b0.jpg",
+    "place_id": "ChIJVVUxOmTnAGARNuV6uBQbBQ0",
+    "g_name": "無鉄砲 大阪本店",
+    "g_rating": 3.9,
+    "g_reviews": 2555,
+    "g_address": "日本、〒556-0013 大阪府大阪市浪速区戎本町１丁目５−２１",
+    "lat": 34.6546384,
+    "lng": 135.500222
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "博多とんこつ 天神旗",
+    "name_en": "Hakata Tonkotsu Tenjinki",
+    "area": "大阪府 上新庄駅",
+    "url": "https://tabelog.com/osaka/A2701/A270307/27002613/",
+    "rating": 3.72,
+    "review_count_tabelog": 1066,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:30 L.O. 14:30 18:00 - 20:30 L.O. 20:30",
+        "dtl_text": "18:00 - 20:30 L.O. 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 883,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJd1gKY3jAGAR8gra_fo5gnw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27002613-39f7f88f8132bef077cbaa7a4f4234379898bb6ae88ce82fd9153b912c3070a3.jpg",
+    "place_id": "ChIJJd1gKY3jAGAR8gra_fo5gnw",
+    "g_name": "博多とんこつ 天神旗",
+    "g_rating": 4,
+    "g_reviews": 883,
+    "g_address": "日本、〒533-0006 大阪府大阪市東淀川区上新庄３丁目１９−８７",
+    "lat": 34.7521443,
+    "lng": 135.5324643
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "創作ラーメン STYLE林 本店",
+    "name_en": "Sosaku Ramen STYLE Hayashi Hon Ten",
+    "area": "大阪府 塚本駅",
+    "url": "https://tabelog.com/osaka/A2701/A270302/27089090/",
+    "rating": 3.71,
+    "review_count_tabelog": 888,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen, Soupless Dandan noodles",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:30 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4,
+    "google_reviews": 653,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2RpFbt3lAGARjCnkmTBCfQ0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27089090-7733c6e3dcf81cae651ceafec3df9b3575af7d752ba6ab5de66b66970f24c20c.jpg",
+    "place_id": "ChIJ2RpFbt3lAGARjCnkmTBCfQ0",
+    "g_name": "創作らーめん style林",
+    "g_rating": 4,
+    "g_reviews": 653,
+    "g_address": "日本、〒532-0026 大阪府大阪市淀川区塚本２丁目２３−９",
+    "lat": 34.7125057,
+    "lng": 135.4695477
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "中村商店 高槻本店",
+    "name_en": "Nakamura Shoten Takatsuki Honten",
+    "area": "大阪府 高槻駅",
+    "url": "https://tabelog.com/osaka/A2706/A270604/27064101/",
+    "rating": 3.7,
+    "review_count_tabelog": 1231,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen, Tsukemen, Abura soba mixed noodle",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 22:00",
+        "dtl_text": "11:00 - 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "None"
+    },
+    "google_rating": 4,
+    "google_reviews": 853,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1aeZX7YCAWARiqwqPrCeJ2A",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27064101-3ef9d33e7cc54c91ffe4d6b02e6572cae95b034d8702b21e8fba96c04de6ae82.jpg",
+    "place_id": "ChIJ1aeZX7YCAWARiqwqPrCeJ2A",
+    "g_name": "中村商店 高槻本店",
+    "g_rating": 4,
+    "g_reviews": 853,
+    "g_address": "日本、〒569-0805 大阪府高槻市上田辺町４−１４ 桃井ビル １階",
+    "lat": 34.8498547,
+    "lng": 135.6173838
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "唯一無二のらぁ麺専門店 イ袋ワシづかみ",
+    "name_en": "Yuiitsu Muni no Ramen Senmon Ten Ibukuro Washizukami",
+    "area": "大阪府 四天王寺前夕陽ケ丘駅",
+    "url": "https://tabelog.com/osaka/A2701/A270203/27127973/",
+    "rating": 3.69,
+    "review_count_tabelog": 416,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:30 L.O. 15:30 18:00 - 22:00 L.O. 22:00",
+        "dtl_text": "18:00 - 22:00 L.O. 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 306,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ1D56mvdAGARKz-S14L6gyQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27127973-1b9f8db21c75af25a38a1f0ed3e98f81b7762795d61c6c5ce7582742b7ecc10d.jpg",
+    "place_id": "ChIJZ1D56mvdAGARKz-S14L6gyQ",
+    "g_name": "唯一無二のらぁ麺専門店 イ袋ワシづかみ",
+    "g_rating": 4.3,
+    "g_reviews": 306,
+    "g_address": "日本、〒543-0051 大阪府大阪市天王寺区四天王寺２丁目２−７",
+    "lat": 34.6565872,
+    "lng": 135.5187728
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "らーめん鱗 茨木店",
+    "name_en": "Ramen Uroko Ibaraki Ten",
+    "area": "大阪府 茨木市駅",
+    "url": "https://tabelog.com/osaka/A2706/A270604/27077480/",
+    "rating": 3.64,
+    "review_count_tabelog": 1158,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 L.O. 14:30 17:00 - 22:00 L.O. 21:30",
+        "dtl_text": "17:00 - 22:00 L.O. 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 867,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qeK8_iAGARjMK-wp-ijAU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27077480-87431e066ff13b398056cb6da6a5c300aa17226b88c6d9de57eddcf977ea0658.jpg",
+    "place_id": "ChIJq6qeK8_iAGARjMK-wp-ijAU",
+    "g_name": "らーめん鱗 茨木店",
+    "g_rating": 4.1,
+    "g_reviews": 867,
+    "g_address": "日本、〒567-0816 大阪府茨木市永代町１０−１９ 壱番館クラタ 1F",
+    "lat": 34.81851109999999,
+    "lng": 135.5770673
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "らーめん久遠",
+    "name_en": "Ramen Kuon",
+    "area": "大阪府 堺筋本町駅",
+    "url": "https://tabelog.com/osaka/A2701/A270106/27115366/",
+    "rating": 3.7,
+    "review_count_tabelog": 721,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:00 - 14:30",
+        "dtl_text": "11:00 - 14:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (subject to other facility schedules)"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 601,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmZMgHB7nAGARJ_ue9uLu1jU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27115366-812b4c58909c21c3cd66f5d9ed5940c96d6b6b2636df0178c3a97f1199687add.jpg",
+    "place_id": "ChIJmZMgHB7nAGARJ_ue9uLu1jU",
+    "g_name": "らーめん久遠",
+    "g_rating": 4.4,
+    "g_reviews": 601,
+    "g_address": "日本、〒541-0055 大阪府大阪市中央区船場中央１丁目４−３ 船場センタービル 3号館地下2階",
+    "lat": 34.6819305,
+    "lng": 135.5067901
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "麺屋 はなぶさ",
+    "name_en": "Menya Hanabusa",
+    "area": "大阪府 堺筋本町駅",
+    "url": "https://tabelog.com/osaka/A2701/A270106/27071670/",
+    "rating": 3.71,
+    "review_count_tabelog": 978,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Abura soba mixed noodle",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri",
+        "dtl": "11:00 - 14:30 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Sat",
+        "dtl": "11:00 - 14:30",
+        "dtl_text": "11:00 - 14:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.9,
+    "google_reviews": 266,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_zj-YyHnAGARu91rndAChKY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27071670-434b69c6f9e1b533120ddc9626f9063a063bc7552a115d5460957364049ca742.jpg",
+    "place_id": "ChIJ_zj-YyHnAGARu91rndAChKY",
+    "g_name": "麺屋はなぶさ",
+    "g_rating": 3.9,
+    "g_reviews": 266,
+    "g_address": "日本、〒541-0053 大阪府大阪市中央区本町１丁目１−４",
+    "lat": 34.6838552,
+    "lng": 135.5095421
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "醤油と貝と麺 そして人と夢",
+    "name_en": "Shoyu to Kai to Men Soshite Hito to Yume",
+    "area": "大阪府 塚本駅",
+    "url": "https://tabelog.com/osaka/A2701/A270302/27090343/",
+    "rating": 3.66,
+    "review_count_tabelog": 767,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat",
+        "dtl": "11:00 - 15:00 L.O. 14:45 17:30 - 22:00 L.O. 21:45",
+        "dtl_text": "17:30 - 22:00 L.O. 21:45",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "07:00 - 09:30 L.O. 09:00 11:00 - 15:00 L.O. 14:45 17:30 - 22:00 L.O. 21:45",
+        "dtl_text": "17:30 - 22:00 L.O. 21:45",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (please check our Twitter/Instagram for updates)"
+    },
+    "google_rating": 3.9,
+    "google_reviews": 531,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJkfleC-jlAGARjd2ljWPSXa0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27090343-8d7b2d3c5c4e722ddc3c68563d3a74ef99ac12ba6bab23950af54dd0a201bf9a.jpg",
+    "place_id": "ChIJkfleC-jlAGARjd2ljWPSXa0",
+    "g_name": "醤油と貝と麺そして 人と夢",
+    "g_rating": 3.9,
+    "g_reviews": 531,
+    "g_address": "日本、〒555-0022 大阪府大阪市西淀川区柏里３丁目１２−２２",
+    "lat": 34.7133897,
+    "lng": 135.4675009
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "麺屋 一慶",
+    "name_en": "Menya Ikkei",
+    "area": "大阪府 茨木市駅",
+    "url": "https://tabelog.com/osaka/A2706/A270604/27041576/",
+    "rating": 3.68,
+    "review_count_tabelog": 724,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:00 L.O. Food 14:00 18:00 - 20:30 L.O. Food 20:30",
+        "dtl_text": "18:00 - 20:30 L.O. Food 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu",
+        "dtl": "11:00 - 14:00 L.O. Food 14:00",
+        "dtl_text": "11:00 - 14:00 L.O. Food 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 548,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ481bnM7iAGARDTY_Oa-oazA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27041576-ee8f1350d0e97e82a44c1c066ae019033543fb3556cafe9254a0ba15788a0f90.jpg",
+    "place_id": "ChIJ481bnM7iAGARDTY_Oa-oazA",
+    "g_name": "麺屋 一慶",
+    "g_rating": 4.3,
+    "g_reviews": 548,
+    "g_address": "日本、〒567-0815 大阪府茨木市竹橋町８−２",
+    "lat": 34.8200877,
+    "lng": 135.5753698
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "西中島 光龍益",
+    "name_en": "Nishinakajima Koryumasu",
+    "area": "大阪府 西中島南方駅",
+    "url": "https://tabelog.com/osaka/A2701/A270301/27084534/",
+    "rating": 3.7,
+    "review_count_tabelog": 864,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 14:00 L.O. 13:50 18:00 - 21:00 L.O. 20:50",
+        "dtl_text": "18:00 - 21:00 L.O. 20:50"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 478,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJRztngjrkAGAReGNk5FBFE0o",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27084534-5fd363ac6ed9b9a00967f93f6164877c9513830a2da6b4499ffe8a47b8f6eb48.jpg",
+    "place_id": "ChIJRztngjrkAGAReGNk5FBFE0o",
+    "g_name": "西中島 光龍益",
+    "g_rating": 4,
+    "g_reviews": 478,
+    "g_address": "日本、〒532-0011 大阪府大阪市淀川区西中島６丁目５−２",
+    "lat": 34.7285283,
+    "lng": 135.4969779
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "ラーメン 坊也哲",
+    "name_en": "Ramen Bouya Tetsu",
+    "area": "大阪府 若江岩田駅",
+    "url": "https://tabelog.com/osaka/A2707/A270703/27073370/",
+    "rating": 3.72,
+    "review_count_tabelog": 887,
+    "price_dinner": "～￥999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 L.O. 14:45 17:30 - 21:00 L.O. 20:45",
+        "dtl_text": "17:30 - 21:00 L.O. 20:45",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "11:00 - 15:00 L.O. 14:45",
+        "dtl_text": "11:00 - 15:00 L.O. 14:45",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.7,
+    "google_reviews": 490,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJpyPrpIffAGARW_NAPPVfhaE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27073370-683de0b43e2844bc36213cf386c652191e985bb2e69247468a341472ba911a2e.jpg",
+    "place_id": "ChIJpyPrpIffAGARW_NAPPVfhaE",
+    "g_name": "麺屋7.5Hz 若江岩田店",
+    "g_rating": 3.7,
+    "g_reviews": 490,
+    "g_address": "日本、〒578-0947 大阪府東大阪市西岩田２丁目６−２１",
+    "lat": 34.6650326,
+    "lng": 135.5990729
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "いかれたヌードル フィッシュトンズ",
+    "name_en": "Ikareta Noodle Fish Tons",
+    "area": "大阪府 西大橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270201/27101904/",
+    "rating": 3.74,
+    "review_count_tabelog": 1879,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tsukemen, Ramen, Soupless Dandan noodles",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Sun",
+        "dtl": "11:00 - 15:00 L.O. 15:00 18:00 - 21:30 L.O. 21:00",
+        "dtl_text": "18:00 - 21:30 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Fri, Sat",
+        "dtl": "11:00 - 15:00 L.O. 15:00 18:00 - 23:00 L.O. 22:30",
+        "dtl_text": "18:00 - 23:00 L.O. 22:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Please refer to our social media calendar for confirmation."
+    },
+    "google_rating": 4,
+    "google_reviews": 766,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3TvKjwTnAGARtuz8FhwI7jQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27101904-e12aeecf3cc8de71f04fbee7a24433a17df14c027b134fcaaba43c8f92fa1a3c.jpg",
+    "place_id": "ChIJ3TvKjwTnAGARtuz8FhwI7jQ",
+    "g_name": "いかれたNOODLE Fishtons",
+    "g_rating": 4,
+    "g_reviews": 766,
+    "g_address": "日本、〒550-0013 大阪府大阪市西区新町１丁目２５−１８",
+    "lat": 34.6762846,
+    "lng": 135.4950574
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "自己流ラーメン綿麺",
+    "name_en": "Jikoryu Ramen Watamen",
+    "area": "大阪府 松原市",
+    "url": "https://tabelog.com/osaka/A2708/A270801/27007813/",
+    "rating": 3.69,
+    "review_count_tabelog": 777,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen, Tsukemen, Kara-age (Deep-fried chicken)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Sun",
+        "dtl": "11:00 - 14:00",
+        "dtl_text": "11:00 - 14:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu, Fri, Sat",
+        "dtl": "11:00 - 14:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.3,
+    "google_reviews": 432,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJueVFEB7ZAGAR1svAs4hCP0w",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27007813-6384dbbb188075d328a1da4cc97f74429ab606610d126beec0a96514a3217a8d.jpg",
+    "place_id": "ChIJueVFEB7ZAGAR1svAs4hCP0w",
+    "g_name": "自己流ラーメン 綿麺",
+    "g_rating": 3.3,
+    "g_reviews": 432,
+    "g_address": "日本、〒580-0042 大阪府松原市松ケ丘３丁目６−１５",
+    "lat": 34.5837586,
+    "lng": 135.562243
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "燃えよ麺助",
+    "name_en": "Moeyo Mensuke",
+    "area": "大阪府 福島駅",
+    "url": "https://tabelog.com/osaka/A2701/A270108/27091454/",
+    "rating": 3.77,
+    "review_count_tabelog": 2912,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 15:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:00 - 16:00",
+        "dtl_text": "11:00 - 16:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (including holidays)"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 1659,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJaXqjjj3nAGARxZjXwNa2GdM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27091454-13c49f7fb908a8483ffc1504fb95b3a2027d272de1f03146a39947537bc92cff.jpg",
+    "place_id": "ChIJaXqjjj3nAGARxZjXwNa2GdM",
+    "g_name": "燃えよ麺助",
+    "g_rating": 4.4,
+    "g_reviews": 1659,
+    "g_address": "日本、〒553-0003 大阪府大阪市福島区福島５丁目１２−２１",
+    "lat": 34.6963285,
+    "lng": 135.4868586
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "友愛亭",
+    "name_en": "Yuai Tei",
+    "area": "大阪府 恵美須町駅",
+    "url": "https://tabelog.com/osaka/A2701/A270202/27079226/",
+    "rating": 3.71,
+    "review_count_tabelog": 901,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 17:30 L.O. 17:00",
+        "dtl_text": "11:00 - 17:30 L.O. 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 815,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJsTfqCWjnAGAR9jDZkzPHC2o",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27079226-2cb64d2c7098ed63eeefdb7fbb2bd5e164edf196771611b837bf61737087af33.jpg",
+    "place_id": "ChIJsTfqCWjnAGAR9jDZkzPHC2o",
+    "g_name": "友愛亭",
+    "g_rating": 4.4,
+    "g_reviews": 815,
+    "g_address": "日本、〒556-0005 大阪府大阪市浪速区日本橋４丁目１２−１ 旭日旅行ビル",
+    "lat": 34.6596067,
+    "lng": 135.5055696
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "らぁ麺屋 はりねずみ",
+    "name_en": "Raa Menya Harinezumi",
+    "area": "大阪府 高槻駅",
+    "url": "https://tabelog.com/osaka/A2706/A270604/27097061/",
+    "rating": 3.71,
+    "review_count_tabelog": 628,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:30 L.O. 14:30",
+        "dtl_text": "11:00 - 14:30 L.O. 14:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed: Closure dates will be announced on our website (blog) and official X (harinezumi_17)."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 397,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGfskR7UCAWAR84hWdLOi9SQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27097061-be50103b636ee2b5435f8a9ee30aae0626b42563665dd954fa11ec04a86d271b.jpg",
+    "place_id": "ChIJGfskR7UCAWAR84hWdLOi9SQ",
+    "g_name": "らぁ麺屋 はりねずみ",
+    "g_rating": 4.3,
+    "g_reviews": 397,
+    "g_address": "日本、〒569-0077 大阪府高槻市野見町４−６",
+    "lat": 34.8455758,
+    "lng": 135.6185374
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "ストライク軒",
+    "name_en": "Strike Ken",
+    "area": "大阪府 天神橋筋六丁目駅",
+    "url": "https://tabelog.com/osaka/A2701/A270103/27074457/",
+    "rating": 3.76,
+    "review_count_tabelog": 2385,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 23:00",
+        "dtl_text": "11:00 - 23:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "One Monday each month for staff training and ingredient research. Please check for updates."
+    },
+    "google_rating": 4.1,
+    "google_reviews": 1478,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJWWar0rjmAGAR1r6uT6uDVeg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27074457-45d838723645cbef0cbb1a4a3361ec6cf283b89eb452a934f0b516a2f2042a3e.jpg",
+    "place_id": "ChIJWWar0rjmAGAR1r6uT6uDVeg",
+    "g_name": "ストライク軒 大阪天満総本店",
+    "g_rating": 4.1,
+    "g_reviews": 1478,
+    "g_address": "日本、〒530-0033 大阪府大阪市北区池田町６−８",
+    "lat": 34.7074624,
+    "lng": 135.5123172
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "麺や而今 大東本店",
+    "name_en": "Menya Jikon Daito Honten",
+    "area": "大阪府 鴻池新田駅",
+    "url": "https://tabelog.com/osaka/A2707/A270704/27054613/",
+    "rating": 3.75,
+    "review_count_tabelog": 1300,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Sun",
+        "dtl": "11:00 - 14:00",
+        "dtl_text": "11:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu, Fri, Sat",
+        "dtl": "11:00 - 14:00 18:00 - 21:00 L.O. 20:30",
+        "dtl_text": "18:00 - 21:00 L.O. 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 672,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmYjq-fgfAWARwWHIWqV1YpU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27054613-b0aafe3654563b58492ba2514c3c79fa6f3a20307758792fbc585c87ecc6672a.jpg",
+    "place_id": "ChIJmYjq-fgfAWARwWHIWqV1YpU",
+    "g_name": "麺や而今 大東本店",
+    "g_rating": 4,
+    "g_reviews": 672,
+    "g_address": "日本、〒574-0043 大阪府大東市灰塚６丁目７−９",
+    "lat": 34.6991107,
+    "lng": 135.6075121
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "なにわ 麺次郎",
+    "name_en": "Naniwa Menjiro",
+    "area": "大阪府 大阪難波駅",
+    "url": "https://tabelog.com/osaka/A2701/A270202/27112089/",
+    "rating": 3.72,
+    "review_count_tabelog": 1804,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 22:30 L.O. 22:00",
+        "dtl_text": "11:00 - 22:30 L.O. 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The third Tuesday of each month"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 1291,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJyVzivVznAGARY8GD18dpJl0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27112089-c929945f57ace206567d97fda4cf807e026c317d3d009eeb604430efedbd6746.jpg",
+    "place_id": "ChIJyVzivVznAGARY8GD18dpJl0",
+    "g_name": "なにわ麺次郎",
+    "g_rating": 4.2,
+    "g_reviews": 1291,
+    "g_address": "日本、〒542-0076 大阪府大阪市中央区難波４丁目１−１７ Time's Place ショッピングモール 近鉄大阪難波駅 改札内 Time's Place難波 ごちぶらナンバ",
+    "lat": 34.6671012,
+    "lng": 135.498293
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "布施 細見商店",
+    "name_en": "Fuse Hosomi Shoten",
+    "area": "大阪府 布施駅",
+    "url": "https://tabelog.com/osaka/A2707/A270703/27066822/",
+    "rating": 3.68,
+    "review_count_tabelog": 726,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 15:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 512,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJMSixqTPeAGARIX5ZyBnLCMs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27066822-fa5d9fd95127dcf8d0d776b7fb973c106e9b5a9723817b523c6fe420012b710f.jpg",
+    "place_id": "ChIJMSixqTPeAGARIX5ZyBnLCMs",
+    "g_name": "布施 細見商店",
+    "g_rating": 4.1,
+    "g_reviews": 512,
+    "g_address": "日本、〒577-0057 大阪府東大阪市足代新町８−２",
+    "lat": 34.6642822,
+    "lng": 135.5604035
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "麺や 一想",
+    "name_en": "Menya Issou",
+    "area": "大阪府 久宝寺口駅",
+    "url": "https://tabelog.com/osaka/A2707/A270705/27091749/",
+    "rating": 3.7,
+    "review_count_tabelog": 441,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 L.O. Food 14:20",
+        "dtl_text": "11:30 - 14:30 L.O. Food 14:20",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.4,
+    "google_reviews": 57,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJpfIvwULfAGARGINQ4QcA72Q",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27091749-484e55541f9e66c181f5e809ae2829c8a894a2cdaa87b682a87a881f46ed74b1.jpg",
+    "place_id": "ChIJpfIvwULfAGARGINQ4QcA72Q",
+    "g_name": "久宝寺口駅",
+    "g_rating": 3.4,
+    "g_reviews": 57,
+    "g_address": "日本、〒581-0816 大阪府八尾市佐堂町３丁目１",
+    "lat": 34.6346187,
+    "lng": 135.5904493
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "らーめん香澄 中崎町店",
+    "name_en": "Ramen Kasumi Nakazakicho Ten",
+    "area": "大阪府 中崎町駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27088923/",
+    "rating": 3.7,
+    "review_count_tabelog": 1087,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Abura soba mixed noodle",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 14:30 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 563,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAwEL7mAGARu1zCbgkW0Xs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27088923-6311e0032b8b7f494a9be4960a780bc1d2557f5dd9273a2e97d2cae5daa6bff1.jpg",
+    "place_id": "ChIJAQAwEL7mAGARu1zCbgkW0Xs",
+    "g_name": "らーめん香澄 中崎町店",
+    "g_rating": 4,
+    "g_reviews": 563,
+    "g_address": "日本、〒530-0016 大阪府大阪市北区中崎２丁目１−１ 小川ビル 1 階",
+    "lat": 34.7085128,
+    "lng": 135.5071543
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "中華そば 無限",
+    "name_en": "Chuka Soba Mugen",
+    "area": "大阪府 海老江駅",
+    "url": "https://tabelog.com/osaka/A2701/A270108/27053626/",
+    "rating": 3.76,
+    "review_count_tabelog": 1534,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen, Abura soba mixed noodle",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "11:00 - 16:00",
+        "dtl_text": "11:00 - 16:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 791,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3T9Dk23mAGARZkLf5iAfKRU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27053626-cb6699ba2b4f71d5815418f713021f0c0f85e93c852f68084f71f83c16b66b76.jpg",
+    "place_id": "ChIJ3T9Dk23mAGARZkLf5iAfKRU",
+    "g_name": "中華そば 無限",
+    "g_rating": 4,
+    "g_reviews": 791,
+    "g_address": "日本、〒553-0001 大阪府大阪市福島区海老江５丁目５−１０ 前田ビル",
+    "lat": 34.6966021,
+    "lng": 135.4721997
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "らぁめん しゅき",
+    "name_en": "Ramen Shuki",
+    "area": "大阪府 鶴橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270205/27117861/",
+    "rating": 3.7,
+    "review_count_tabelog": 1173,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "10:00 - 14:40 L.O. 14:40 18:00 - 01:00 L.O. 01:00",
+        "dtl_text": "18:00 - 01:00 L.O. 01:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 559,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJjeW71ErhAGARBNbZyW8Mspo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27117861-0b0674c4609d660611497f0e29898ef15725d494c6817984db0c20f68655ddcc.jpg",
+    "place_id": "ChIJjeW71ErhAGARBNbZyW8Mspo",
+    "g_name": "らぁめん しゅき",
+    "g_rating": 4.2,
+    "g_reviews": 559,
+    "g_address": "日本、〒537-0024 大阪府大阪市東成区東小橋３丁目１４−１０",
+    "lat": 34.6666944,
+    "lng": 135.5314624
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "中華そば ココカラサキゑ",
+    "name_en": "Chuka Soba Kokokara Sakie",
+    "area": "大阪府 三国駅",
+    "url": "https://tabelog.com/osaka/A2701/A270301/27105350/",
+    "rating": 3.72,
+    "review_count_tabelog": 794,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.9,
+    "google_reviews": 433,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJMx0zgy3lAGARIG3ucfiGitc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27105350-7db1c9326cdc68ee2b8a37dd2e579a189476f6d8e4d5dc5ffb931c9a6b82c6af.jpg",
+    "place_id": "ChIJMx0zgy3lAGARIG3ucfiGitc",
+    "g_name": "中華そば ココカラサキゑ",
+    "g_rating": 3.9,
+    "g_reviews": 433,
+    "g_address": "日本、〒532-0004 大阪府大阪市淀川区西宮原１丁目７−３９ メゾン第２新大阪",
+    "lat": 34.7335674,
+    "lng": 135.4906937
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "総大醤",
+    "name_en": "Sodaisho",
+    "area": "大阪府 天神橋筋六丁目駅",
+    "url": "https://tabelog.com/osaka/A2701/A270103/27003383/",
+    "rating": 3.74,
+    "review_count_tabelog": 2512,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 00:00",
+        "dtl_text": "11:00 - 00:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Our restaurant prepares soup throughout the night, ensuring we never run out.": {}
+      },
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 2151,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJC2Pfw73mAGARkdMg82J6N3o",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27003383-c47046c0d835637d92489dc0f58b414bcf27a60aff634e97c1d24ae96cfea649.jpg",
+    "place_id": "ChIJC2Pfw73mAGARkdMg82J6N3o",
+    "g_name": "総大醤",
+    "g_rating": 4.1,
+    "g_reviews": 2151,
+    "g_address": "日本、〒530-0021 大阪府大阪市北区浮田２丁目４−１６",
+    "lat": 34.7103098,
+    "lng": 135.5076754
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "田中の中華そば",
+    "name_en": "Tanaka no Chuka Soba",
+    "area": "大阪府 本町駅",
+    "url": "https://tabelog.com/osaka/A2701/A270106/27102601/",
+    "rating": 3.73,
+    "review_count_tabelog": 1064,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 15:00 19:00 - 21:00",
+        "dtl_text": "19:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (including holidays)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 607,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6S1F8PzmAGAR5FyPO7tcKMY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27102601-d40ac18a25db2c5e9a06ac9518e1b6d83eedc223c5686dab8ea8930c920e6c6b.jpg",
+    "place_id": "ChIJ6S1F8PzmAGAR5FyPO7tcKMY",
+    "g_name": "田中の中華そば",
+    "g_rating": 4.3,
+    "g_reviews": 607,
+    "g_address": "日本、〒550-0004 大阪府大阪市西区靱本町１丁目１８−２３",
+    "lat": 34.6842165,
+    "lng": 135.4950354
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "縁乃助商店",
+    "name_en": "Ennosuke Shoten",
+    "area": "大阪府 淡路駅",
+    "url": "https://tabelog.com/osaka/A2701/A270307/27075534/",
+    "rating": 3.67,
+    "review_count_tabelog": 841,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen, Abura soba mixed noodle",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 3.9,
+    "google_reviews": 532,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ06-zdA7kAGARTEcDfy9SC_Q",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27075534-dc93090c3f5012c91a69834e1b42225629bfd8fdbbd536ec39fdebc86c88e8bb.jpg",
+    "place_id": "ChIJ06-zdA7kAGARTEcDfy9SC_Q",
+    "g_name": "ramen shop 麺でつながる縁 大阪縁乃助商店",
+    "g_rating": 3.9,
+    "g_reviews": 532,
+    "g_address": "日本、〒533-0032 大阪府大阪市東淀川区淡路４丁目９−５ 新淡路ビル Ⅱ",
+    "lat": 34.7401302,
+    "lng": 135.5169355
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "魚々麺 園",
+    "name_en": "Totomen En",
+    "area": "大阪府 布施駅",
+    "url": "https://tabelog.com/osaka/A2707/A270703/27121916/",
+    "rating": 3.72,
+    "review_count_tabelog": 442,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "10:00 - 15:00",
+        "dtl_text": "10:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "10:00 - 14:00",
+        "dtl_text": "10:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 485,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJE1-3KzXeAGARYJt4JDSaYR4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27121916-8eefde898e7e27217c1cc77f656a8a5375d4f21665dcf9a953e4087f5fdf4d4d.jpg",
+    "place_id": "ChIJE1-3KzXeAGARYJt4JDSaYR4",
+    "g_name": "魚々麺 園",
+    "g_rating": 4.2,
+    "g_reviews": 485,
+    "g_address": "日本、〒577-0842 大阪府東大阪市足代南１丁目３−１２",
+    "lat": 34.6610996,
+    "lng": 135.5626993
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "らーめん工房 RISE",
+    "name_en": "Ramen Kobo RISE",
+    "area": "大阪府 近鉄八尾駅",
+    "url": "https://tabelog.com/osaka/A2707/A270705/27051582/",
+    "rating": 3.68,
+    "review_count_tabelog": 513,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen, Donburi (Rice bowl)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sun",
+        "dtl": "11:30 - 14:00 L.O. 14:00",
+        "dtl_text": "11:30 - 14:00 L.O. 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Sat",
+        "dtl": "11:30 - 14:00 L.O. 14:00 18:00 - 21:30",
+        "dtl_text": "18:00 - 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 316,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJcXcI6lDfAGAR1m60mQrX-gQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27051582-0d37710499d9374fd1d27c0e56c42b7de2f25037be82ce1467bf958a292844c1.jpg",
+    "place_id": "ChIJcXcI6lDfAGAR1m60mQrX-gQ",
+    "g_name": "らーめん工房 RISE",
+    "g_rating": 4,
+    "g_reviews": 316,
+    "g_address": "日本、〒581-0003 大阪府八尾市本町３丁目１１−２２",
+    "lat": 34.6278857,
+    "lng": 135.5947938
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "豊中麺哲",
+    "name_en": "Toyonaka Mente Tsu",
+    "area": "大阪府 豊中駅",
+    "url": "https://tabelog.com/osaka/A2706/A270601/27004096/",
+    "rating": 3.7,
+    "review_count_tabelog": 741,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 14:30 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "12:00 - 15:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.4,
+    "google_reviews": 396,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJHyf00bv6AGAR6ecMN3tQiT0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27004096-35968ad005bb385ed7916b981bf1fc1ff2784c4912bb4d5e7dfa770dd439abe0.jpg",
+    "place_id": "ChIJHyf00bv6AGAR6ecMN3tQiT0",
+    "g_name": "豊中 麺哲",
+    "g_rating": 3.4,
+    "g_reviews": 396,
+    "g_address": "日本、〒560-0023 大阪府豊中市岡上の町２丁目２−６",
+    "lat": 34.78482899999999,
+    "lng": 135.4633756
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "塩々",
+    "name_en": "Shoppe Shoppe",
+    "area": "大阪府 中之島駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27100567/",
+    "rating": 3.71,
+    "review_count_tabelog": 599,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays, November 12, 19, 25"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 532,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJla6ptl7mAGARA6maCFXdeM4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27100567-a668899e6b82465e53d83df653efc761c5f66024712a43b23c96ce04756f6ca0.jpg",
+    "place_id": "ChIJla6ptl7mAGARA6maCFXdeM4",
+    "g_name": "塩々",
+    "g_rating": 4.2,
+    "g_reviews": 532,
+    "g_address": "日本、〒553-0004 大阪府大阪市福島区玉川１丁目２−５１",
+    "lat": 34.6897674,
+    "lng": 135.4837007
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "麺屋 丈六 なんば店",
+    "name_en": "Menya Joroku Nanba Ten",
+    "area": "大阪府 難波（南海）駅",
+    "url": "https://tabelog.com/osaka/A2701/A270202/27084754/",
+    "rating": 3.74,
+    "review_count_tabelog": 2434,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "1st Sunday of the month": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 1521,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJpdNZi2vnAGARJ8KqytmSHXw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27084754-c916207206c86fbac9364ddf99f456368a009a8a7afc889426bbe6684dfba218.jpg",
+    "place_id": "ChIJpdNZi2vnAGARJ8KqytmSHXw",
+    "g_name": "なんば駅",
+    "g_rating": 4.1,
+    "g_reviews": 1521,
+    "g_address": "日本、〒542-8503 大阪府大阪市中央区難波５丁目1番60号",
+    "lat": 34.6629331,
+    "lng": 135.5022953
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "麺や 清流",
+    "name_en": "Menya Seiryu",
+    "area": "大阪府 長瀬駅",
+    "url": "https://tabelog.com/osaka/A2707/A270703/27103068/",
+    "rating": 3.72,
+    "review_count_tabelog": 889,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Fri",
+        "dtl": "11:00 - 22:00 L.O. 21:30",
+        "dtl_text": "11:00 - 22:00 L.O. 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Thu",
+        "dtl": "11:00 - 17:00 L.O. 16:30",
+        "dtl_text": "11:00 - 17:00 L.O. 16:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:00 - 15:00 L.O. 14:30",
+        "dtl_text": "11:00 - 15:00 L.O. 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "There may also be irregular operating days, which will be announced on Instagram and Twitter."
+    },
+    "google_rating": 4.1,
+    "google_reviews": 512,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJzzEpzIwfAWARNUmiF9TPBDc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27103068-24d1efaa3bf1595f5241fedfa84111558f28493d88ff73174f62e3f1c822c552.jpg",
+    "place_id": "ChIJzzEpzIwfAWARNUmiF9TPBDc",
+    "g_name": "麺や 清流",
+    "g_rating": 4.1,
+    "g_reviews": 512,
+    "g_address": "日本、〒577-0818 大阪府東大阪市小若江１丁目４−３",
+    "lat": 34.6510709,
+    "lng": 135.5806292
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "中華そば 閃",
+    "name_en": "Chuka Soba Sen",
+    "area": "大阪府 あびこ駅",
+    "url": "https://tabelog.com/osaka/A2701/A270404/27061126/",
+    "rating": 3.68,
+    "review_count_tabelog": 968,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen, Abura soba mixed noodle",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 18:00 - 22:45",
+        "dtl_text": "18:00 - 22:45",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 552,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJzULydRfcAGARlqZU-m9v7Qs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27061126-56a047c7b76ce7f815dab1ba62a9222f0c3b4ba08d92a39aca3ceb967b9c55b8.jpg",
+    "place_id": "ChIJzULydRfcAGARlqZU-m9v7Qs",
+    "g_name": "中華そば 閃",
+    "g_rating": 4,
+    "g_reviews": 552,
+    "g_address": "日本、〒558-0011 大阪府大阪市住吉区苅田７丁目６−１５",
+    "lat": 34.5991746,
+    "lng": 135.514828
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "らぁめん真",
+    "name_en": "Ramen Shin",
+    "area": "大阪府 茨木駅",
+    "url": "https://tabelog.com/osaka/A2706/A270604/27083381/",
+    "rating": 3.71,
+    "review_count_tabelog": 665,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Fri, Sat",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 356,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0cW6ktXiAGAR_esjJfc2OZY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27083381-fe7adb1eee0cb6f4d6b28af40eb60ca0fb029a2606a837d3895b5fe43ba5593d.jpg",
+    "place_id": "ChIJ0cW6ktXiAGAR_esjJfc2OZY",
+    "g_name": "らぁめん真",
+    "g_rating": 4.4,
+    "g_reviews": 356,
+    "g_address": "日本、〒567-0888 大阪府茨木市駅前１丁目３−４",
+    "lat": 34.816332,
+    "lng": 135.5635657
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "麺麓menroku",
+    "name_en": "Menroku menroku",
+    "area": "大阪府 枚方市",
+    "url": "https://tabelog.com/osaka/A2707/A270702/27093194/",
+    "rating": 3.7,
+    "review_count_tabelog": 843,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:30 L.O. 15:00 17:30 - 21:30 L.O. 21:00",
+        "dtl_text": "17:30 - 21:30 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Generally open year-round."
+    },
+    "google_rating": 4,
+    "google_reviews": 831,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQR8NrPobAWARbvtBtyFWyg4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27093194-abe968ebab58b0e6a34377f6427c9ca9510885d020f11245840b1afbb1d28f33.jpg",
+    "place_id": "ChIJQR8NrPobAWARbvtBtyFWyg4",
+    "g_name": "麺麓",
+    "g_rating": 4,
+    "g_reviews": 831,
+    "g_address": "日本、〒573-0146 大阪府枚方市大峰元町１丁目６−３０",
+    "lat": 34.8129253,
+    "lng": 135.6855944
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "麦と麺助",
+    "name_en": "Mugi to Mensuke",
+    "area": "大阪府 中津（大阪メトロ）駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27104891/",
+    "rating": 3.91,
+    "review_count_tabelog": 2075,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri",
+        "dtl": "11:00 - 15:30",
+        "dtl_text": "11:00 - 15:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:00 - 16:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:00 - 16:00",
+        "dtl_text": "11:00 - 16:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 1611,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJheIvSFLnAGAR6tUj_llwgS0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27104891-ffffd264b53a4c6451d6f04a9d251d1dd2353e666db651e41b12e29c2b7b25ed.jpg",
+    "place_id": "ChIJheIvSFLnAGAR6tUj_llwgS0",
+    "g_name": "麦と麺助",
+    "g_rating": 4.4,
+    "g_reviews": 1611,
+    "g_address": "日本、〒531-0072 大阪府大阪市北区豊崎３丁目４−１２",
+    "lat": 34.7113432,
+    "lng": 135.5000039
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "麺一盃",
+    "name_en": "Men Ippai",
+    "area": "大阪府 塚本駅",
+    "url": "https://tabelog.com/osaka/A2701/A270302/27052471/",
+    "rating": 3.69,
+    "review_count_tabelog": 687,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 14:00 18:30 - 22:00",
+        "dtl_text": "18:30 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 285,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJN81zmt3lAGARNCOxjWSvNTE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27052471-690b63ae701ae8dcceccd5fed9a72fdf37524441ea3a90332c3c6f33752c9235.jpg",
+    "place_id": "ChIJN81zmt3lAGARNCOxjWSvNTE",
+    "g_name": "らぁ麺つけ麺 麺一盃",
+    "g_rating": 4,
+    "g_reviews": 285,
+    "g_address": "日本、〒555-0022 大阪府大阪市西淀川区柏里２丁目１−２５",
+    "lat": 34.7112756,
+    "lng": 135.4694673
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "烈志笑魚油 麺香房 三く",
+    "name_en": "Resshi Shoyu Menkobo Sanku",
+    "area": "大阪府 新福島駅",
+    "url": "https://tabelog.com/osaka/A2701/A270108/27058993/",
+    "rating": 3.75,
+    "review_count_tabelog": 2413,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:39 - 15:00 18:39 - 23:00",
+        "dtl_text": "18:39 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 1647,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDwDIuF_mAGAR24ZQR5UC5vo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27058993-4cb970e177c11e088c35b0d234d3b36e514cad88c2ed7f45fdf025d075f2d2d5.jpg",
+    "place_id": "ChIJDwDIuF_mAGAR24ZQR5UC5vo",
+    "g_name": "烈志笑魚油 麺香房 三く",
+    "g_rating": 4.2,
+    "g_reviews": 1647,
+    "g_address": "日本、〒553-0003 大阪府大阪市福島区福島２丁目６−５",
+    "lat": 34.6937556,
+    "lng": 135.485914
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "鯛白湯らーめん ○de▽",
+    "name_en": "Tai Paitan Ramen ○de▽",
+    "area": "大阪府 新大阪駅",
+    "url": "https://tabelog.com/osaka/A2701/A270301/27107953/",
+    "rating": 3.71,
+    "review_count_tabelog": 1690,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "10:30 - 22:00",
+        "dtl_text": "10:30 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "10:00 - 22:00",
+        "dtl_text": "10:00 - 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 1696,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGcLxATzlAGARj4q3OABT_Pg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27107953-cbec68b671a865457cb53d1e021649491d53624fbaffa870728986366d4763a5.jpg",
+    "place_id": "ChIJGcLxATzlAGARj4q3OABT_Pg",
+    "g_name": "鯛白湯らーめん ◯de▽ 新大阪店",
+    "g_rating": 4.4,
+    "g_reviews": 1696,
+    "g_address": "日本、〒532-0004 大阪府大阪市淀川区西宮原１丁目５−６",
+    "lat": 34.7328163,
+    "lng": 135.4941126
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "ラーメン家 あかぎ",
+    "name_en": "Ramenya Akagi",
+    "area": "大阪府 上新庄駅",
+    "url": "https://tabelog.com/osaka/A2701/A270307/27101092/",
+    "rating": 3.74,
+    "review_count_tabelog": 1014,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "2nd Monday": {}
+      },
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 852,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQC0LOzjAGARzWlLG599gjg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27101092-b5d989827fc0aa22fe2d98cd716772fd4368cdd29c4aa346fbcb763d79b2fe18.jpg",
+    "place_id": "ChIJAQC0LOzjAGARzWlLG599gjg",
+    "g_name": "ラーメン家 あかぎ",
+    "g_rating": 4.1,
+    "g_reviews": 852,
+    "g_address": "日本、〒533-0005 大阪府大阪市東淀川区瑞光２丁目２−２１",
+    "lat": 34.7498776,
+    "lng": 135.5370097
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "烈火 本店",
+    "name_en": "Rekka Hon Ten",
+    "area": "大阪府 庄内駅",
+    "url": "https://tabelog.com/osaka/A2706/A270601/27059898/",
+    "rating": 3.69,
+    "review_count_tabelog": 1242,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen, Abura soba mixed noodle",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 01:00 L.O. Food 00:30",
+        "dtl_text": "11:30 - 01:00 L.O. Food 00:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Public Holiday",
+        "dtl": "11:30 - 01:00",
+        "dtl_text": "11:30 - 01:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4,
+    "google_reviews": 809,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJm6DqIA_lAGARaf-y3srM2js",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27059898-b70fda82256299eccc8280c05cb7d98de6d08c89cc2ed571fe06a8af42bcda41.jpg",
+    "place_id": "ChIJm6DqIA_lAGARaf-y3srM2js",
+    "g_name": "山系無双 烈火 本店",
+    "g_rating": 4,
+    "g_reviews": 809,
+    "g_address": "日本、〒561-0831 大阪府豊中市庄内東町２丁目２−１４",
+    "lat": 34.7489476,
+    "lng": 135.4757821
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "中華蕎麦 福はら",
+    "name_en": "Chuka Soba Fukuhara",
+    "area": "大阪府 俊徳道駅",
+    "url": "https://tabelog.com/osaka/A2707/A270703/27122790/",
+    "rating": 3.7,
+    "review_count_tabelog": 535,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.9,
+    "google_reviews": 327,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDRLQYw_fAGARWNk88DBf0ck",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27122790-ec0e76705a15d99c31d9e0827273d108c4ff0d674e75a903a7e4275287933ba1.jpg",
+    "place_id": "ChIJDRLQYw_fAGARWNk88DBf0ck",
+    "g_name": "中華蕎麦福はら",
+    "g_rating": 3.9,
+    "g_reviews": 327,
+    "g_address": "日本、〒577-0831 大阪府東大阪市俊徳町１丁目３−２４",
+    "lat": 34.6575492,
+    "lng": 135.5716842
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "馬鹿坊",
+    "name_en": "Bakabon",
+    "area": "大阪府 天神橋筋六丁目駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27084317/",
+    "rating": 3.7,
+    "review_count_tabelog": 899,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen, Sichuan Cuisine, Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 22:00",
+        "dtl_text": "11:30 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "11:30 - 14:30",
+        "dtl_text": "11:30 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "January 1st"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 372,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJD-hxb77mAGARaTEHQAv0jdY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27084317-b80a14f3cae4f1aeb03dff6276245d2a2e3b46a43dd37f359b2383e041dd20a8.jpg",
+    "place_id": "ChIJD-hxb77mAGARaTEHQAv0jdY",
+    "g_name": "馬鹿坊",
+    "g_rating": 4.2,
+    "g_reviews": 372,
+    "g_address": "日本、〒530-0021 大阪府大阪市北区浮田１丁目４−１０",
+    "lat": 34.7088348,
+    "lng": 135.5080529
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "麺屋 八海山",
+    "name_en": "Menya Hakkaisan",
+    "area": "大阪府 高槻駅",
+    "url": "https://tabelog.com/osaka/A2706/A270604/27061072/",
+    "rating": 3.72,
+    "review_count_tabelog": 934,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 14:30",
+        "dtl_text": "11:30 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4,
+    "google_reviews": 471,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJo3IF0rkCAWARavzZ0fPHUEI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27061072-284ea4e3227ff1411ef8c2afd2ee4539609428c5513a5e5d5307be263b4cc7a6.jpg",
+    "place_id": "ChIJo3IF0rkCAWARavzZ0fPHUEI",
+    "g_name": "麺屋八海山",
+    "g_rating": 4,
+    "g_reviews": 471,
+    "g_address": "日本、〒569-1123 大阪府高槻市芥川町１丁目１４−９",
+    "lat": 34.85346,
+    "lng": 135.6169773
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "NAKAGAWA わず",
+    "name_en": "NAKAGAWA Wazu",
+    "area": "大阪府 ＪＲ淡路駅",
+    "url": "https://tabelog.com/osaka/A2701/A270307/27105320/",
+    "rating": 3.69,
+    "review_count_tabelog": 652,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The restaurant has only 7 counter seats."
+    },
+    "google_rating": 3.8,
+    "google_reviews": 380,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3TsNrPnlAGARZ9h8RoV4uj0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27105320-a906fcc83a2549df72f4331d9718ce02fcc11917794ed57764f789dc7cd977e6.jpg",
+    "place_id": "ChIJ3TsNrPnlAGARZ9h8RoV4uj0",
+    "g_name": "NAKAGAWA わず",
+    "g_rating": 3.8,
+    "g_reviews": 380,
+    "g_address": "日本、〒533-0022 大阪府大阪市東淀川区菅原６丁目２４−１２",
+    "lat": 34.7416258,
+    "lng": 135.5202385
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "麺処 天川",
+    "name_en": "Mendokoro Amakawa",
+    "area": "大阪府 九条（大阪メトロ）駅",
+    "url": "https://tabelog.com/osaka/A2701/A270105/27109749/",
+    "rating": 3.69,
+    "review_count_tabelog": 432,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 14:00 17:00 - 20:30",
+        "dtl_text": "17:00 - 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:00 - 14:00",
+        "dtl_text": "11:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (Open for lunch only on holidays, closed the following day)"
+    },
+    "google_rating": 3.6,
+    "google_reviews": 174,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJjfAK-0vmAGARYKemy6JKcYQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27109749-54207750624b5855890681ba826f0509b2dc884dfc39465bf5435d5c7fef333b.jpg",
+    "place_id": "ChIJjfAK-0vmAGARYKemy6JKcYQ",
+    "g_name": "九条駅",
+    "g_rating": 3.6,
+    "g_reviews": 174,
+    "g_address": "日本、〒550-0027 大阪府大阪市西区九条２丁目３−２",
+    "lat": 34.675207,
+    "lng": 135.4733981
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "麺厨房 華燕",
+    "name_en": "Men Chubo Kaen",
+    "area": "大阪府 高槻市",
+    "url": "https://tabelog.com/osaka/A2706/A270604/27003934/",
+    "rating": 3.66,
+    "review_count_tabelog": 675,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen, Dandan noodles, Soupless Dandan noodles",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:30",
+        "dtl_text": "11:00 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 521,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJNYATUV4dAWAR8rl6ickTtIM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27003934-87af71c5fe5c938ee1d4e44a6fca70bcd5c06167fb60792bdec2af54760bb8b6.jpg",
+    "place_id": "ChIJNYATUV4dAWAR8rl6ickTtIM",
+    "g_name": "麺厨房 華燕",
+    "g_rating": 4.3,
+    "g_reviews": 521,
+    "g_address": "日本、〒569-0855 大阪府高槻市牧田町７−５４",
+    "lat": 34.8217394,
+    "lng": 135.6034379
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "彩色ラーメンきんせい 高槻本店",
+    "name_en": "Saishoku Ramen Kinsei Takatsuki Honten",
+    "area": "大阪府 高槻市駅",
+    "url": "https://tabelog.com/osaka/A2706/A270604/27040392/",
+    "rating": 3.69,
+    "review_count_tabelog": 1422,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen, Tsukemen, Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu",
+        "dtl": "11:00 - 00:00 L.O. Food 23:30",
+        "dtl_text": "11:00 - 00:00 L.O. Food 23:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Fri",
+        "dtl": "11:00 - 08:00",
+        "dtl_text": "11:00 - 08:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "00:01 - 00:00 L.O. Food 23:30",
+        "dtl_text": "00:01 - 00:00 L.O. Food 23:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "Open 24 hours",
+        "dtl_text": "Open 24 hours"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.9,
+    "google_reviews": 800,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3a7YM8oCAWARl4RgtIKqMs4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27040392-87851ef3560454c28e64c2a945f65fcaee1dd3c90f220ec80122174502b96198.jpg",
+    "place_id": "ChIJ3a7YM8oCAWARl4RgtIKqMs4",
+    "g_name": "彩色ラーメンきんせい 高槻本店",
+    "g_rating": 3.9,
+    "g_reviews": 800,
+    "g_address": "日本、〒569-0802 大阪府高槻市北園町１８−１ コーケンビル",
+    "lat": 34.8499244,
+    "lng": 135.6215901
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "カドヤ食堂 総本店",
+    "name_en": "Kadoya Shokudo Sohon Ten",
+    "area": "大阪府 西長堀駅",
+    "url": "https://tabelog.com/osaka/A2701/A270105/27001084/",
+    "rating": 3.8,
+    "review_count_tabelog": 3261,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen, Tsukemen, Abura soba mixed noodle",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 15:00",
+        "dtl_text": "10:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every 2nd and 4th Wednesday (regardless of public holidays)"
+    },
+    "google_rating": 3.9,
+    "google_reviews": 2037,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJoeHGtFTmAGARW1G6B0hBckE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27001084-fe055467d38cecf91a8feee9d5e784a891a22a5a99c29ebdf2c403f7fdc09714.jpg",
+    "place_id": "ChIJoeHGtFTmAGARW1G6B0hBckE",
+    "g_name": "中華そば カドヤ食堂 総本店",
+    "g_rating": 3.9,
+    "g_reviews": 2037,
+    "g_address": "日本、〒550-0013 大阪府大阪市西区新町４丁目１６−１３",
+    "lat": 34.6760951,
+    "lng": 135.4838409
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "世界一暇なラーメン屋",
+    "name_en": "Sekaiichi Himana Ramen Ya",
+    "area": "大阪府 渡辺橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270102/27077402/",
+    "rating": 3.7,
+    "review_count_tabelog": 2233,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Abura soba mixed noodle, Dumplings",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:00 - 22:00",
+        "dtl_text": "11:00 - 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 1851,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_TBna_HmAGARBy1mn-VJekY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27077402-8868d814d9d0e8a53178a079adc35ee3508673ec5d0d376ad04a65db45c57fe0.jpg",
+    "place_id": "ChIJ_TBna_HmAGARBy1mn-VJekY",
+    "g_name": "世界一暇なラーメン屋",
+    "g_rating": 4.2,
+    "g_reviews": 1851,
+    "g_address": "日本、〒530-0005 大阪府大阪市北区中之島３丁目３−２３ 中之島ダイビル 2階",
+    "lat": 34.6929779,
+    "lng": 135.4936523
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "福島壱麺",
+    "name_en": "Fukushima Ichimen",
+    "area": "大阪府 福島駅",
+    "url": "https://tabelog.com/osaka/A2701/A270108/27079245/",
+    "rating": 3.7,
+    "review_count_tabelog": 1239,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Seafood, Nihonshu (Japanese sake)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 237,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ52ApV8fnAGARJ6cWdw2Czp8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27079245-921b0506dba5c3bc22a868c2b5d4d3a8b676145e9d3cb5a61fb0b02e02428dd4.jpg",
+    "place_id": "ChIJ52ApV8fnAGARJ6cWdw2Czp8",
+    "g_name": "ENISHI 大阪本店",
+    "g_rating": 4.1,
+    "g_reviews": 237,
+    "g_address": "日本、〒553-0003 大阪府大阪市福島区福島５丁目６−５",
+    "lat": 34.6963491,
+    "lng": 135.4877726
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "麺匠 而今",
+    "name_en": "Mensho Jikon",
+    "area": "大阪府 滝井駅",
+    "url": "https://tabelog.com/osaka/A2707/A270701/27078739/",
+    "rating": 3.7,
+    "review_count_tabelog": 735,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "11:00 - 14:30 L.O. 14:15",
+        "dtl_text": "11:00 - 14:30 L.O. 14:15",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 14:30 L.O. 14:15 18:00 - 20:30 L.O. 20:15",
+        "dtl_text": "18:00 - 20:30 L.O. 20:15",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:00 - 14:30 L.O. 14:15 18:00 - 20:00 L.O. 19:45",
+        "dtl_text": "18:00 - 20:00 L.O. 19:45",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.9,
+    "google_reviews": 309,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ01PBNnPhAGARpkIRkuk7ZTE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27078739-dc4e0c8e5ff14a4cf5ce1c11d425f693fe53af757fd60bd6aa4fd3b3a8f78c0f.jpg",
+    "place_id": "ChIJ01PBNnPhAGARpkIRkuk7ZTE",
+    "g_name": "麺匠 而今",
+    "g_rating": 3.9,
+    "g_reviews": 309,
+    "g_address": "日本、〒570-0075 大阪府守口市紅屋町６−１６",
+    "lat": 34.7279112,
+    "lng": 135.5567914
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "時屋",
+    "name_en": "Toki Ya",
+    "area": "大阪府 西中島南方駅",
+    "url": "https://tabelog.com/osaka/A2701/A270301/27040424/",
+    "rating": 3.74,
+    "review_count_tabelog": 2155,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 15:00 L.O. 14:50 17:00 - 23:00 L.O. 22:50",
+        "dtl_text": "17:00 - 23:00 L.O. 22:50"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 23:00 L.O. 22:50",
+        "dtl_text": "11:30 - 23:00 L.O. 22:50"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 1388,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7RaDriTkAGARkn0DIUXegUg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27040424-53f12cb9c2f73144e82357d4315721941d3cabde3ff849ab6bc99c6399a81ae4.jpg",
+    "place_id": "ChIJ7RaDriTkAGARkn0DIUXegUg",
+    "g_name": "らーめん 時屋",
+    "g_rating": 4.1,
+    "g_reviews": 1388,
+    "g_address": "日本、〒532-0011 大阪府大阪市淀川区西中島５丁目１−４ モジュール新大阪 1F",
+    "lat": 34.7283309,
+    "lng": 135.5011788
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "銀座 篝 ルクア大阪店",
+    "name_en": "Ginza Kagari Rukuaosakaten",
+    "area": "大阪府 大阪駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27102306/",
+    "rating": 3.68,
+    "review_count_tabelog": 1925,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 23:00",
+        "dtl_text": "11:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.9,
+    "google_reviews": 904,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-_rP2o3mAGARDCLOzAmLed4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27102306-f3465cc795642ee80efa3a51783c685814a3343cf4dcfa8409f1dddf990b1856.jpg",
+    "place_id": "ChIJ-_rP2o3mAGARDCLOzAmLed4",
+    "g_name": "銀座 篝 ルクア大阪店",
+    "g_rating": 3.9,
+    "g_reviews": 904,
+    "g_address": "日本、〒530-0001 大阪府大阪市北区梅田３丁目１−３ B2F バルチカ",
+    "lat": 34.70303639999999,
+    "lng": 135.4959757
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "麺元素",
+    "name_en": "Men Genso",
+    "area": "大阪府 天満駅",
+    "url": "https://tabelog.com/osaka/A2701/A270103/27042439/",
+    "rating": 3.69,
+    "review_count_tabelog": 1446,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:00 - 23:30 L.O. Food 23:00",
+        "dtl_text": "11:00 - 23:30 L.O. Food 23:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 659,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7Y5wobjmAGAR_DtBZ8dfR-Y",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27042439-92674d3e9a95087c383e9b82a4841bf61949bca3f557629326c238682e9be8e6.jpg",
+    "place_id": "ChIJ7Y5wobjmAGAR_DtBZ8dfR-Y",
+    "g_name": "麺元素",
+    "g_rating": 4,
+    "g_reviews": 659,
+    "g_address": "日本、〒531-0041 大阪府大阪市北区天神橋５丁目２−１６",
+    "lat": 34.7072005,
+    "lng": 135.5121646
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "麺や拓",
+    "name_en": "Menya Taku",
+    "area": "大阪府 西長堀駅",
+    "url": "https://tabelog.com/osaka/A2701/A270105/27042868/",
+    "rating": 3.69,
+    "review_count_tabelog": 1018,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 723,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJM8HK5AbnAGARfpQi0TZj7oc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27042868-0296e9a980a19cfdf4025ef9c5e8b7113809cde9e61136894b6e2b84095e8299.jpg",
+    "place_id": "ChIJM8HK5AbnAGARfpQi0TZj7oc",
+    "g_name": "麺や拓 堀江本店",
+    "g_rating": 4,
+    "g_reviews": 723,
+    "g_address": "日本、〒550-0014 大阪府大阪市西区北堀江３丁目５−２",
+    "lat": 34.6730102,
+    "lng": 135.490262
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "手打ち麺 やす田",
+    "name_en": "Teuchi Men Yasuda",
+    "area": "大阪府 新大阪駅",
+    "url": "https://tabelog.com/osaka/A2701/A270301/27060153/",
+    "rating": 3.74,
+    "review_count_tabelog": 1166,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30",
+        "dtl_text": "11:30 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Please note that we may have irregular holidays aside from Mondays."
+    },
+    "google_rating": 4.1,
+    "google_reviews": 442,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJW3RUsz3kAGARH-LBZeOhYus",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27060153-6274f1b521528838f40c04a089f37ab8f6b48676c184ecfc280133a585e1f8f2.jpg",
+    "place_id": "ChIJW3RUsz3kAGARH-LBZeOhYus",
+    "g_name": "手打ち麺 やす田",
+    "g_rating": 4.1,
+    "g_reviews": 442,
+    "g_address": "日本、〒533-0033 大阪府大阪市東淀川区東中島１丁目２１−２ 新大阪ハイツ 106号",
+    "lat": 34.73291440000001,
+    "lng": 135.5040175
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "中華そば うえまち",
+    "name_en": "Chuka Soba Uemachi",
+    "area": "大阪府 谷町六丁目駅",
+    "url": "https://tabelog.com/osaka/A2701/A270204/27069769/",
+    "rating": 3.77,
+    "review_count_tabelog": 1742,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen, Abura soba mixed noodle",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:30 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (closed even on public holidays)"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 1044,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJD2-x3DXnAGARb6Q8qg6UPkU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27069769-04705c476a1bca2aabf725e6302b3593e6822967a83cd88f9810b32921ccd1dd.jpg",
+    "place_id": "ChIJD2-x3DXnAGARb6Q8qg6UPkU",
+    "g_name": "中華そば うえまち",
+    "g_rating": 4.2,
+    "g_reviews": 1044,
+    "g_address": "日本、〒540-0005 大阪府大阪市中央区上町Ａ２２",
+    "lat": 34.6768993,
+    "lng": 135.5210506
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "自家製麺 つきよみ",
+    "name_en": "Jikaseimen Tsukiyomi",
+    "area": "大阪府 上新庄駅",
+    "url": "https://tabelog.com/osaka/A2701/A270307/27117612/",
+    "rating": 3.72,
+    "review_count_tabelog": 870,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Tsukemen, Ramen, Dumplings",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "2nd Monday": {}
+      },
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 486,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ1-waSLjAGAR6EIbk4UeJVY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27117612-3e215f9f8451c26c6929fb9c9505cc2a665bd7953f74848dd03d125dd3808248.jpg",
+    "place_id": "ChIJJ1-waSLjAGAR6EIbk4UeJVY",
+    "g_name": "自家製麺 つきよみ",
+    "g_rating": 4.1,
+    "g_reviews": 486,
+    "g_address": "日本、〒533-0014 大阪府大阪市東淀川区豊新５丁目１１−４",
+    "lat": 34.7461767,
+    "lng": 135.5367528
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "群青",
+    "name_en": "Gunjo",
+    "area": "大阪府 天神橋筋六丁目駅",
+    "url": "https://tabelog.com/osaka/A2701/A270103/27018753/",
+    "rating": 3.75,
+    "review_count_tabelog": 1377,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Tsukemen, Ramen, Abura soba mixed noodle",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri",
+        "dtl": "11:00 - 14:30 17:30 - 19:30",
+        "dtl_text": "17:30 - 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "11:00 - 14:30",
+        "dtl_text": "11:00 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "*Today's menu will be announced on Instagram!*"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 452,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJdYm_ELnmAGAR3G7sbuS-DsA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27018753-14b2c41e8fccd1739d4f444aaf0c6c54fc3addf75c1b0a8b94917ee64f7d9f06.jpg",
+    "place_id": "ChIJdYm_ELnmAGAR3G7sbuS-DsA",
+    "g_name": "群青",
+    "g_rating": 4.1,
+    "g_reviews": 452,
+    "g_address": "日本、〒530-0041 大阪府大阪市北区天神橋６丁目３−２６",
+    "lat": 34.7100315,
+    "lng": 135.5126255
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "鶏Soba 座銀 にぼし店",
+    "name_en": "Tori Soba Zagin Niboshi Ten",
+    "area": "大阪府 心斎橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270201/27086371/",
+    "rating": 3.57,
+    "review_count_tabelog": 1779,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 22:30 L.O. Food 22:00",
+        "dtl_text": "10:00 - 22:30 L.O. Food 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 2503,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGyMr0hvnAGAROuhYj3J4vGY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27086371-98b6d98408d11249c805b6bd513477135d6a48bd022a6c24938f99c8fef7057f.jpg",
+    "place_id": "ChIJGyMr0hvnAGAROuhYj3J4vGY",
+    "g_name": "鶏Soba 座銀 にぼし店",
+    "g_rating": 4.4,
+    "g_reviews": 2503,
+    "g_address": "日本、〒542-0081 大阪府大阪市中央区南船場３丁目９−６",
+    "lat": 34.6776517,
+    "lng": 135.5011215
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "かしや",
+    "name_en": "Kashiya",
+    "area": "大阪府 玉出駅",
+    "url": "https://tabelog.com/osaka/A2701/A270406/27052519/",
+    "rating": 3.7,
+    "review_count_tabelog": 863,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 15:00 L.O. 14:45 18:00 - 21:00 L.O. 20:45",
+        "dtl_text": "18:00 - 21:00 L.O. 20:45",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:30 - 15:00 L.O. 14:45",
+        "dtl_text": "11:30 - 15:00 L.O. 14:45",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 460,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJr8_Tg6HdAGARELLzZAjCJco",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27052519-bb0e1380ee80839b6e152319b3cd6de0d18c97689714d2e89ab2f9513483e7f3.jpg",
+    "place_id": "ChIJr8_Tg6HdAGARELLzZAjCJco",
+    "g_name": "かしや",
+    "g_rating": 4.1,
+    "g_reviews": 460,
+    "g_address": "日本、〒557-0044 大阪府大阪市西成区玉出中２丁目４−２１ ひまわりマンション 1階",
+    "lat": 34.6261638,
+    "lng": 135.491518
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "ラーメン人生JET600",
+    "name_en": "Ramen Jinsei JET 600",
+    "area": "大阪府 玉造（ＪＲ）駅",
+    "url": "https://tabelog.com/osaka/A2701/A270204/27059047/",
+    "rating": 3.74,
+    "review_count_tabelog": 1558,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen, Abura soba mixed noodle",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Year-end & New Year Holidays"
+    },
+    "google_rating": 4,
+    "google_reviews": 1033,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-UzJdrDgAGAR2o6Vb2mbDtM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27059047-4942a21c130bd0f443d26ebf9dba872fc3b6893df4a02be000472d7be94c7469.jpg",
+    "place_id": "ChIJ-UzJdrDgAGAR2o6Vb2mbDtM",
+    "g_name": "ラーメン人生 JET 600",
+    "g_rating": 4,
+    "g_reviews": 1033,
+    "g_address": "日本、〒537-0024 大阪府大阪市東成区東小橋１丁目３−２",
+    "lat": 34.6742388,
+    "lng": 135.5344043
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "彩哲",
+    "name_en": "isato",
+    "area": "大阪府 吹田（ＪＲ）駅",
+    "url": "https://tabelog.com/osaka/A2706/A270602/27114537/",
+    "rating": 3.7,
+    "review_count_tabelog": 467,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 16:00 17:00 - 21:00 L.O. 21:00",
+        "dtl_text": "17:00 - 21:00 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.5,
+    "google_reviews": 234,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJT_xFCX_kAGARBCCLVzeF2nc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27114537-9cea41e16ec9aa242d6ff96a42ff031e1bdebd592f7963ba708cd58fa451dfc8.jpg",
+    "place_id": "ChIJT_xFCX_kAGARBCCLVzeF2nc",
+    "g_name": "吹田駅",
+    "g_rating": 3.5,
+    "g_reviews": 234,
+    "g_address": "日本、〒564-0027 大阪府吹田市朝日町１",
+    "lat": 34.7630033,
+    "lng": 135.5238259
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "麺ファクトリー ジョーズ",
+    "name_en": "Men Factory Jaws",
+    "area": "大阪府 谷町六丁目駅",
+    "url": "https://tabelog.com/osaka/A2701/A270204/27080284/",
+    "rating": 3.7,
+    "review_count_tabelog": 953,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tsukemen, Ramen, Abura soba mixed noodle",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:30 17:30 - 22:30",
+        "dtl_text": "17:30 - 22:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 696,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJwQ37hUnnAGARZ_ukTYDRmj0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27080284-b5128c802de53c13525607226647f7ab04fbdac07582c89102aa22b723f4a030.jpg",
+    "place_id": "ChIJwQ37hUnnAGARZ_ukTYDRmj0",
+    "g_name": "麺FACTORY JAWS",
+    "g_rating": 4.2,
+    "g_reviews": 696,
+    "g_address": "日本、〒542-0062 大阪府大阪市中央区上本町西２丁目１−１１ 楠本ビル 1F",
+    "lat": 34.6732814,
+    "lng": 135.520308
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "上方レインボー",
+    "name_en": "Kamigata Rainbow",
+    "area": "大阪府 桃谷駅",
+    "url": "https://tabelog.com/osaka/A2701/A270203/27116315/",
+    "rating": 3.71,
+    "review_count_tabelog": 714,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Fri, Sat, Sun",
+        "dtl": "10:30 - 15:00 17:30 - 22:00",
+        "dtl_text": "17:30 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "10:30 - 15:00 17:30 - 00:00",
+        "dtl_text": "17:30 - 00:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Please check our social media for updates on temporary closures and special hours."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 507,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJb4k86lXfAGARURFghzkBQCc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27116315-04493b4ff01e1c5d5167d2d037a2a88d96a0fed6abe5eea5246e2e626f0c45fd.jpg",
+    "place_id": "ChIJb4k86lXfAGARURFghzkBQCc",
+    "g_name": "上方レインボー",
+    "g_rating": 4.2,
+    "g_reviews": 507,
+    "g_address": "日本、〒543-0043 大阪府大阪市天王寺区勝山４丁目６−３",
+    "lat": 34.6547906,
+    "lng": 135.5259001
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "大阪麺哲",
+    "name_en": "Osaka Mentetsu",
+    "area": "大阪府 東梅田駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27080479/",
+    "rating": 3.72,
+    "review_count_tabelog": 2102,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 14:30 17:30 - 22:00",
+        "dtl_text": "17:30 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 14:30 17:30 - 21:00",
+        "dtl_text": "17:30 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.5,
+    "google_reviews": 802,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ26yVrZDmAGAR4kTE0f30Y94",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27080479-c02630fc02b8c5ff478cf4f4be8fe96298aa202f8d09c21ae78670b356248a98.jpg",
+    "place_id": "ChIJ26yVrZDmAGAR4kTE0f30Y94",
+    "g_name": "大阪 麺哲",
+    "g_rating": 3.5,
+    "g_reviews": 802,
+    "g_address": "日本、〒530-0057 大阪府大阪市北区曾根崎２丁目１０−２７",
+    "lat": 34.70084,
+    "lng": 135.5017147
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "ラーメン 哲史",
+    "name_en": "Ramen Tetsushi",
+    "area": "大阪府 庄内駅",
+    "url": "https://tabelog.com/osaka/A2706/A270601/27093541/",
+    "rating": 3.7,
+    "review_count_tabelog": 426,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri, Sat",
+        "dtl": "11:30 - 14:00 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "11:30 - 14:00",
+        "dtl_text": "11:30 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:30 - 14:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.5,
+    "google_reviews": 208,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQx-_QwPlAGARZQT70ty_JRo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27093541-c4a096709984d44eca971f1fdcffa2e6e7b262a581c4d08170a539baa07165e2.jpg",
+    "place_id": "ChIJQx-_QwPlAGARZQT70ty_JRo",
+    "g_name": "ラーメン哲史",
+    "g_rating": 3.5,
+    "g_reviews": 208,
+    "g_address": "日本、〒561-0813 大阪府豊中市小曽根４丁目９−２",
+    "lat": 34.7551963,
+    "lng": 135.4834364
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "中華そば いぶき",
+    "name_en": "Chuka Soba Ibuki",
+    "area": "大阪府 天神橋筋六丁目駅",
+    "url": "https://tabelog.com/osaka/A2701/A270103/27062565/",
+    "rating": 3.72,
+    "review_count_tabelog": 1100,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Fri",
+        "dtl": "11:30 - 14:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 14:30 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 368,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJD5tvPb_mAGAR1wY6ADImtHc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27062565-4d5009a3aa731b3455f25c977c42cf92dd3fdacf91f0aca368ea0f4765f5736a.jpg",
+    "place_id": "ChIJD5tvPb_mAGAR1wY6ADImtHc",
+    "g_name": "中華そば いぶき",
+    "g_rating": 4.2,
+    "g_reviews": 368,
+    "g_address": "日本、〒530-0022 大阪府大阪市北区浪花町４−１６ エターナルⅢ",
+    "lat": 34.7075583,
+    "lng": 135.5098933
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "らーめん香澄 阿波座本店",
+    "name_en": "Ramen Kasumi Awaza Honten",
+    "area": "大阪府 阿波座駅",
+    "url": "https://tabelog.com/osaka/A2701/A270105/27065090/",
+    "rating": 3.73,
+    "review_count_tabelog": 1410,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Abura soba mixed noodle",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:00 - 15:00 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round starting November 1, 2025."
+    },
+    "google_rating": 4,
+    "google_reviews": 787,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJR9yq-_jmAGARQl_SIsT6MTo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27065090-ad021a6190667baee2b6153b2bc61476269a92b6809a1159a4a2ca9fb292fade.jpg",
+    "place_id": "ChIJR9yq-_jmAGARQl_SIsT6MTo",
+    "g_name": "らーめん 香澄 阿波座本店",
+    "g_rating": 4,
+    "g_reviews": 787,
+    "g_address": "日本、〒550-0003 大阪府大阪市西区京町堀２丁目１２−１３",
+    "lat": 34.68495300000001,
+    "lng": 135.4893716
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "とんぴととりの光龍益",
+    "name_en": "Tonpito Torino Koryu Masu",
+    "area": "大阪府 桜ノ宮駅",
+    "url": "https://tabelog.com/osaka/A2701/A270304/27015801/",
+    "rating": 3.74,
+    "review_count_tabelog": 1003,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 13:30 18:00 - 19:30",
+        "dtl_text": "18:00 - 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 295,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ87DgmBLnAGAR0FZCgjrQ1kI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27015801-3462da221444b50a9e2305fab22dd1bdb49098be7a4374e70af3187d5aac5c26.jpg",
+    "place_id": "ChIJ87DgmBLnAGAR0FZCgjrQ1kI",
+    "g_name": "とんぴととりの光龍益",
+    "g_rating": 4.3,
+    "g_reviews": 295,
+    "g_address": "日本、〒534-0027 大阪府大阪市都島区中野町５丁目９−５",
+    "lat": 34.7056322,
+    "lng": 135.52308
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "京都 麺屋たけ井 阪急梅田店",
+    "name_en": "Kyoto Menya Takei Hankyu Umeda Ten",
+    "area": "大阪府 大阪梅田（阪急）駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27092383/",
+    "rating": 3.71,
+    "review_count_tabelog": 3063,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tsukemen, Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 22:30 L.O. 22:00",
+        "dtl_text": "11:00 - 22:30 L.O. 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.8,
+    "google_reviews": 1655,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJnZ2RJ5LmAGARo2RaegXOfV4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27092383-b7c2c59f9acb36fd52fa70cdf9ed98e70daaf9b3dc6b5366bd9ff32598d2ffeb.jpg",
+    "place_id": "ChIJnZ2RJ5LmAGARo2RaegXOfV4",
+    "g_name": "京都 麺屋たけ井 阪急梅田店",
+    "g_rating": 3.8,
+    "g_reviews": 1655,
+    "g_address": "日本、〒530-0012 大阪府 大阪市北区芝田１丁目１−２ （阪急梅田駅二階中央改札内西",
+    "lat": 34.7052436,
+    "lng": 135.4980713
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "ラーメン人生JET",
+    "name_en": "Ramen Jinsei JET",
+    "area": "大阪府 福島駅",
+    "url": "https://tabelog.com/osaka/A2701/A270108/27050827/",
+    "rating": 3.77,
+    "review_count_tabelog": 3400,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen, Abura soba mixed noodle",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 2287,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJpaDv6WHmAGARlf2jQOgSl6Y",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27050827-9c2885a73765c64a9aeb74db2562ae87599b14b66bff3fe7aa188fb2ef4c6bc6.jpg",
+    "place_id": "ChIJpaDv6WHmAGARlf2jQOgSl6Y",
+    "g_name": "ラーメン人生JET",
+    "g_rating": 4,
+    "g_reviews": 2287,
+    "g_address": "日本、〒553-0003 大阪府大阪市福島区福島７丁目１２−２",
+    "lat": 34.6986086,
+    "lng": 135.4865983
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "中華蕎麦 葛",
+    "name_en": "Chuka Soba Kazura",
+    "area": "大阪府 本町駅",
+    "url": "https://tabelog.com/osaka/A2701/A270106/27087256/",
+    "rating": 3.76,
+    "review_count_tabelog": 1916,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Sat, Sun",
+        "dtl": "11:00 - 16:00",
+        "dtl_text": "11:00 - 16:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Fri",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Fridays, January 1 (Wednesday), 2 (Thursday), and 3 (Friday)"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 1015,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJq2p2ff3mAGARVOAHcq-v1gs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27087256-8a683eeb2c9e195f195cb50196a5c494cd6f6617b83cbc61c6680a675fccbe86.jpg",
+    "place_id": "ChIJq2p2ff3mAGARVOAHcq-v1gs",
+    "g_name": "中華蕎麦 葛",
+    "g_rating": 4.2,
+    "g_reviews": 1015,
+    "g_address": "日本、〒550-0011 大阪府大阪市西区阿波座１丁目１２−２１",
+    "lat": 34.6813723,
+    "lng": 135.4950022
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "RAMEN ガモウスマイル",
+    "name_en": "RAMEN Gamou Smile",
+    "area": "大阪府 蒲生四丁目駅",
+    "url": "https://tabelog.com/osaka/A2701/A270305/27117675/",
+    "rating": 3.72,
+    "review_count_tabelog": 795,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "07:00 - 15:00",
+        "dtl_text": "07:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.7,
+    "google_reviews": 462,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJSyMBKuHgAGARftWo_IhgkKY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27117675-a9b69f0074013642914dde2a6dc7ff505ee116d17f2128dd19ae55cf81000cc2.jpg",
+    "place_id": "ChIJSyMBKuHgAGARftWo_IhgkKY",
+    "g_name": "ラーメン男塾!! 蒲生四丁目店",
+    "g_rating": 3.7,
+    "g_reviews": 462,
+    "g_address": "日本、〒536-0004 大阪府大阪市城東区今福西３丁目１−４ 大和ビル 1F",
+    "lat": 34.7008297,
+    "lng": 135.5464688
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "洛二神",
+    "name_en": "Raku Nijin",
+    "area": "大阪府 天神橋筋六丁目駅",
+    "url": "https://tabelog.com/osaka/A2701/A270103/27000534/",
+    "rating": 3.73,
+    "review_count_tabelog": 1490,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 14:30 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 498,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJc_QON7_mAGARz3woxO2j_2Y",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27000534-34c65449740e100341a750b61ee8bd68f332f74f11d74c48dbc7fcfa2e600864.jpg",
+    "place_id": "ChIJc_QON7_mAGARz3woxO2j_2Y",
+    "g_name": "洛二神",
+    "g_rating": 4.1,
+    "g_reviews": 498,
+    "g_address": "日本、〒530-0022 大阪府大阪市北区浪花町４−２２ 1F",
+    "lat": 34.7075834,
+    "lng": 135.5105469
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "みつ星製麺所 福島本店",
+    "name_en": "Mitsuboshi Seimenjo Fukushima Honten",
+    "area": "大阪府 福島駅",
+    "url": "https://tabelog.com/osaka/A2701/A270108/27057392/",
+    "rating": 3.65,
+    "review_count_tabelog": 1057,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 17:30 - 21:30",
+        "dtl_text": "17:30 - 21:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed."
+    },
+    "google_rating": 3.9,
+    "google_reviews": 559,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-bp-LmLmAGARBD3z6_nlIME",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27057392-8deffcafcc211f6ac66199d31b74d540d968247559ba24a6ef466dc69e7ec450.jpg",
+    "place_id": "ChIJ-bp-LmLmAGARBD3z6_nlIME",
+    "g_name": "みつ星製麺所 福島本店",
+    "g_rating": 3.9,
+    "g_reviews": 559,
+    "g_address": "日本、〒553-0003 大阪府大阪市福島区福島７丁目１７−２１ ベルメゾン福島",
+    "lat": 34.6995359,
+    "lng": 135.4855108
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "極麺 青二犀",
+    "name_en": "Gokumen Aonisai",
+    "area": "大阪府 相川駅",
+    "url": "https://tabelog.com/osaka/A2706/A270602/27074166/",
+    "rating": 3.73,
+    "review_count_tabelog": 829,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:30 - 15:00 L.O. 14:55",
+        "dtl_text": "10:30 - 15:00 L.O. 14:55",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.7,
+    "google_reviews": 36,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2YbVAQDdAGARFgTBp6Zg5lw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27074166-f925214b7b3fb8b5d3a1b94942108d635d71ef6ecef9a6f38b9d0aa190f2157a.jpg",
+    "place_id": "ChIJ2YbVAQDdAGARFgTBp6Zg5lw",
+    "g_name": "和と鉄板 アオニサイ 堺東 居酒屋 和食",
+    "g_rating": 4.7,
+    "g_reviews": 36,
+    "g_address": "日本、〒590-0077 大阪府堺市堺区中瓦町２丁１−１０ 新栄ビル 1F",
+    "lat": 34.5748083,
+    "lng": 135.4831528
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "Ramen 辻",
+    "name_en": "Ramen Tsuji",
+    "area": "大阪府 谷町四丁目駅",
+    "url": "https://tabelog.com/osaka/A2701/A270104/27092793/",
+    "rating": 3.69,
+    "review_count_tabelog": 1567,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 14:30 17:30 - 21:15",
+        "dtl_text": "17:30 - 21:15"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 21:15",
+        "dtl_text": "11:30 - 21:15"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 1054,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQBz9i_nAGARHewOKv1FVAE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27092793-7669770e6f4b6cdc921056f5e9d2ff86f6297535703007db022947c8c29c1c67.jpg",
+    "place_id": "ChIJAQBz9i_nAGARHewOKv1FVAE",
+    "g_name": "Ramen 辻（ラーメン辻）",
+    "g_rating": 4.1,
+    "g_reviews": 1054,
+    "g_address": "日本、〒540-0027 大阪府大阪市中央区鎗屋町１丁目１−１０",
+    "lat": 34.6828352,
+    "lng": 135.5158507
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "中華そば 桐麺 総本店",
+    "name_en": "Chuka Soba Kirimen Sohon Ten",
+    "area": "大阪府 十三駅",
+    "url": "https://tabelog.com/osaka/A2701/A270302/27097422/",
+    "rating": 3.74,
+    "review_count_tabelog": 1993,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 16:00 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 1187,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJr98mN87lAGARKp8ESayHJUk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27097422-82ad1e73f95ee2f5decf8b1adaabd48f1c1cd4d61cc92f345403e6f909554aaa.jpg",
+    "place_id": "ChIJr98mN87lAGARKp8ESayHJUk",
+    "g_name": "中華そば桐麺 総本店",
+    "g_rating": 4.1,
+    "g_reviews": 1187,
+    "g_address": "日本、〒532-0024 大阪府大阪市淀川区十三本町２丁目１−６",
+    "lat": 34.7201615,
+    "lng": 135.4808712
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "らーめん 小僧",
+    "name_en": "Ramen Kozou",
+    "area": "大阪府 新福島駅",
+    "url": "https://tabelog.com/osaka/A2701/A270108/27077479/",
+    "rating": 3.69,
+    "review_count_tabelog": 1268,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen, Abura soba mixed noodle",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:00 - 15:00 L.O. Food 14:30 18:00 - 22:00 L.O. Food 21:30",
+        "dtl_text": "18:00 - 22:00 L.O. Food 21:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "We warmly welcome guests even at the last order!"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 905,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJt-Rgtl_mAGAR2oe8fOANJfM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27077479-d0314e29189309d7992506965181a8fc95f5933806acebb0c7b0cab6af2d6d69.jpg",
+    "place_id": "ChIJt-Rgtl_mAGAR2oe8fOANJfM",
+    "g_name": "極濃豚骨 らーめん小僧",
+    "g_rating": 4.1,
+    "g_reviews": 905,
+    "g_address": "日本、〒553-0003 大阪府大阪市福島区福島３丁目８−１０",
+    "lat": 34.693534,
+    "lng": 135.4854297
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "人類みな麺類",
+    "name_en": "Jinrui Mina Menrui",
+    "area": "大阪府 南方駅",
+    "url": "https://tabelog.com/osaka/A2701/A270301/27064584/",
+    "rating": 3.76,
+    "review_count_tabelog": 4488,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu",
+        "dtl": "10:00 - 03:00",
+        "dtl_text": "10:00 - 03:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Fri",
+        "dtl": "10:00 - 04:00",
+        "dtl_text": "10:00 - 04:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "09:00 - 04:00",
+        "dtl_text": "09:00 - 04:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "09:00 - 03:00",
+        "dtl_text": "09:00 - 03:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 5193,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJUTiZqiXkAGARWYUEiZNJFFk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27064584-8cab32564795a5467ab511713572b7f91511772c614acf17263669f0c3ce37b5.jpg",
+    "place_id": "ChIJUTiZqiXkAGARWYUEiZNJFFk",
+    "g_name": "人類みな麺類",
+    "g_rating": 4.2,
+    "g_reviews": 5193,
+    "g_address": "日本、〒532-0011 大阪府大阪市淀川区西中島１丁目１２−１５",
+    "lat": 34.7255026,
+    "lng": 135.499257
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "麺や しき",
+    "name_en": "Menya Shiki",
+    "area": "大阪府 守口駅",
+    "url": "https://tabelog.com/osaka/A2707/A270701/27061274/",
+    "rating": 3.71,
+    "review_count_tabelog": 896,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen, Abura soba mixed noodle",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri",
+        "dtl": "11:30 - 14:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 15:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 537,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJU5FYBJ3hAGARRMhShvejlGE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27061274-24fa4dd602f2a383e7d9c3020df4ce552465ede14651dae2929369b14010783b.jpg",
+    "place_id": "ChIJU5FYBJ3hAGARRMhShvejlGE",
+    "g_name": "麺や しき",
+    "g_rating": 4,
+    "g_reviews": 537,
+    "g_address": "日本、〒570-0082 大阪府守口市豊秀町２丁目１−３ エスポワール豊秀ワン",
+    "lat": 34.7383067,
+    "lng": 135.5649111
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "麺匠至誠",
+    "name_en": "Mensho Shisei",
+    "area": "大阪府 四ツ橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270201/27085783/",
+    "rating": 3.68,
+    "review_count_tabelog": 910,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Fri",
+        "dtl": "11:30 - 14:30 17:30 - 20:00",
+        "dtl_text": "17:30 - 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Thu, Sat",
+        "dtl": "11:30 - 14:30",
+        "dtl_text": "11:30 - 14:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "*May close temporarily if soup is unavailable*"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 127,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJr4qbjXznAGARsiJ-oz9T2fA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27085783-1062e11c4e9140b39cf39b6cf06d01a87900eec99a8c62a735735143e2646ec7.jpg",
+    "place_id": "ChIJr4qbjXznAGARsiJ-oz9T2fA",
+    "g_name": "麺匠 至誠",
+    "g_rating": 4.5,
+    "g_reviews": 127,
+    "g_address": "日本、〒550-0013 大阪府大阪市西区新町１丁目５−７ 四ツ橋ビルディング B1",
+    "lat": 34.675639,
+    "lng": 135.4966912
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "OSAKA",
+    "name": "らーめん弥七",
+    "name_en": "Ramen Yashichi",
+    "area": "大阪府 中津（大阪メトロ）駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27003232/",
+    "rating": 3.76,
+    "review_count_tabelog": 1836,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen, Donburi (Rice bowl)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "10:45 - 16:00",
+        "dtl_text": "10:45 - 16:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 1065,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJl7h4XZrmAGARXikRFKY9l4Y",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_osaka/27003232-1c6de7ac8d95dc8fa945f8f99c0f9a3c7e50ccbc051d2f373ebd10f8851dc270.jpg",
+    "place_id": "ChIJl7h4XZrmAGARXikRFKY9l4Y",
+    "g_name": "らーめん 弥七",
+    "g_rating": 4.4,
+    "g_reviews": 1065,
+    "g_address": "日本、〒531-0072 大阪府大阪市北区豊崎３丁目４−８",
+    "lat": 34.7113155,
+    "lng": 135.4997206
+  }
+]

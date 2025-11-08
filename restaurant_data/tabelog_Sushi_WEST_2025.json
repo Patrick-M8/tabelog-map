@@ -1,0 +1,4308 @@
+[
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "鮨 いの",
+    "name_en": "Sushi Ino",
+    "area": "愛媛県 松山市",
+    "url": "https://tabelog.com/ehime/A3801/A380101/38010409/",
+    "rating": 4.16,
+    "review_count_tabelog": 310,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Tuesday": {},
+        "Wednesday - Sunday": {}
+      },
+      "closed_on": "Monday"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 201,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9QEsle7lTzUR0V6SjFUrEd8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/38010409-bece5314bb63b115016a55b3fcbc28803af1f5b1f745e87bc744bcff52c7a8e4.jpg",
+    "place_id": "ChIJ9QEsle7lTzUR0V6SjFUrEd8",
+    "g_name": "鮨いの",
+    "g_rating": 4.4,
+    "g_reviews": 201,
+    "g_address": "MITSUWA320, 3F, １丁目-１０-９ 二番町 松山市 愛媛県 790-0002 日本",
+    "lat": 33.840149,
+    "lng": 132.772316
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "寿司 中川",
+    "name_en": "Sushi Nakagawa",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37000760/",
+    "rating": 3.9,
+    "review_count_tabelog": 216,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 186,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJaVhU1ITrUzUReK5mgCn3Mm4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/37000760-dbaefd455c75af1a42ef6781f098fa4c5923c6864693c1873c6625e1642ca847.jpg",
+    "place_id": "ChIJaVhU1ITrUzUReK5mgCn3Mm4",
+    "g_name": "寿司 中川",
+    "g_rating": 4.3,
+    "g_reviews": 186,
+    "g_address": "日本、〒760-0044 香川県高松市御坊町１０−７",
+    "lat": 34.3433932,
+    "lng": 134.0510156
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "鮨義心",
+    "name_en": "Sushi Gishin",
+    "area": "和歌山県 和歌山市",
+    "url": "https://tabelog.com/wakayama/A3001/A300101/30004938/",
+    "rating": 3.84,
+    "review_count_tabelog": 39,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 54,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJL5RxpOCyAGARBEf7qsBAQI8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/30004938-ca32643c14ae51fe33ceb12b9bd479e8adea8ec1fe9b5114d4ad00ac8907f38c.jpg",
+    "place_id": "ChIJL5RxpOCyAGARBEf7qsBAQI8",
+    "g_name": "鮨義心",
+    "g_rating": 4.5,
+    "g_reviews": 54,
+    "g_address": "日本、〒640-8381 和歌山県和歌山市畑屋敷６",
+    "lat": 34.2353176,
+    "lng": 135.1830984
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "寿し島川",
+    "name_en": "Sushi Shimakawa",
+    "area": "福井県 小浜市",
+    "url": "https://tabelog.com/fukui/A1803/A180304/18001543/",
+    "rating": 3.85,
+    "review_count_tabelog": 48,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Sushi, Crab",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:00 17:30 - 21:30",
+        "dtl_text": "17:30 - 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "17:30 - 21:30",
+        "dtl_text": "17:30 - 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 121,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJp5uxjnDQAWARYh5Fl9COgiA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/18001543-b85a000cf0880a8c99fbf02ab638afd3ad2bf0244f8244375c422b2ede5a6772.jpg",
+    "place_id": "ChIJp5uxjnDQAWARYh5Fl9COgiA",
+    "g_name": "寿し島川",
+    "g_rating": 4.6,
+    "g_reviews": 121,
+    "g_address": "日本、〒917-0084 福井県小浜市小浜広峰８３−１",
+    "lat": 35.4972435,
+    "lng": 135.7440476
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "鮨 おさむ",
+    "name_en": "Sushi Osamu",
+    "area": "福岡県 福岡市南区",
+    "url": "https://tabelog.com/fukuoka/A4001/A400202/40000001/",
+    "rating": 3.87,
+    "review_count_tabelog": 253,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays and Thursdays"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 125,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJE_5I4FORQTURFz2N-bJ7X48",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/40000001-8052f3f9bf3884911d0653c056cd0ea7091d20b54e32d14ead743fd649bb67fa.jpg",
+    "place_id": "ChIJE_5I4FORQTURFz2N-bJ7X48",
+    "g_name": "鮨おさむ",
+    "g_rating": 4.6,
+    "g_reviews": 125,
+    "g_address": "日本、〒811-1362 福岡県福岡市南区長住５丁目１６−１０",
+    "lat": 33.5468857,
+    "lng": 130.3966371
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "鮨 三心",
+    "name_en": "Sushi Sanshin",
+    "area": "大阪府 谷町六丁目駅",
+    "url": "https://tabelog.com/osaka/A2701/A270204/27095402/",
+    "rating": 4.54,
+    "review_count_tabelog": 558,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥30,000～￥39,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 197,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQCJ1zbnAGARflJxiP7XttI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/27095402-495258bd63e315e0ffa5689c9e761df22f1f7f0484fb6039fb42a5906b2b59e2.jpg",
+    "place_id": "ChIJAQCJ1zbnAGARflJxiP7XttI",
+    "g_name": "三心",
+    "g_rating": 4.6,
+    "g_reviews": 197,
+    "g_address": "日本、〒540-0013 大阪府大阪市中央区内久宝寺町２丁目７−１４",
+    "lat": 34.6781519,
+    "lng": 135.5182327
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "鮨 原正",
+    "name_en": "Sushi Harasho",
+    "area": "大阪府 大阪上本町駅",
+    "url": "https://tabelog.com/osaka/A2701/A270205/27104509/",
+    "rating": 3.78,
+    "review_count_tabelog": 166,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat",
+        "dtl": "12:00 - 14:00 18:00 - 20:30",
+        "dtl_text": "18:00 - 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 135,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJjRQYyYbnAGARaKOHYlteIxk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/27104509-d34f92edea9a1bdaf15fd0703d5b43eb7fc21c329eaf64d6960d7418dbe2806f.jpg",
+    "place_id": "ChIJjRQYyYbnAGARaKOHYlteIxk",
+    "g_name": "鮨 原正",
+    "g_rating": 4.4,
+    "g_reviews": 135,
+    "g_address": "日本、〒543-0037 大阪府大阪市天王寺区上之宮町３−３０",
+    "lat": 34.6621874,
+    "lng": 135.5198506
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "鮨処 つく田",
+    "name_en": "Sushi Dokoro Tsukuta",
+    "area": "佐賀県 唐津市",
+    "url": "https://tabelog.com/saga/A4102/A410201/41000031/",
+    "rating": 3.78,
+    "review_count_tabelog": 354,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:00 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 145,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJE12p2WXXQTURP2WCsPqUOt8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/41000031-e55835636d59b7d32f29ca4be823f0104ca04b97f5831411c51c842cedeb382b.jpg",
+    "place_id": "ChIJE12p2WXXQTURP2WCsPqUOt8",
+    "g_name": "鮨処 つく田",
+    "g_rating": 4.3,
+    "g_reviews": 145,
+    "g_address": "日本、〒847-0051 佐賀県唐津市中町１８７９−１",
+    "lat": 33.4482814,
+    "lng": 129.9701141
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "ひとつ",
+    "name_en": "Hitotsu",
+    "area": "宮崎県 宮崎市",
+    "url": "https://tabelog.com/miyazaki/A4501/A450101/45011700/",
+    "rating": 4.11,
+    "review_count_tabelog": 175,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 20:30 21:00 - 23:00",
+        "dtl_text": "21:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The first Tuesday of each month and every Wednesday."
+    },
+    "google_rating": 4.7,
+    "google_reviews": 85,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJe47x-ra3ODURAxSPyJN0kyY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/45011700-f2b4ac0d4b786f29337e62f51a1d716dc53a92022051ab99cd652deb7fb18422.jpg",
+    "place_id": "ChIJe47x-ra3ODURAxSPyJN0kyY",
+    "g_name": "ひとつ",
+    "g_rating": 4.7,
+    "g_reviews": 85,
+    "g_address": "日本、〒880-0805 宮崎県宮崎市橘通東３丁目４−３ Bricks MBビル １階",
+    "lat": 31.9153168,
+    "lng": 131.4232807
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "鮨かわなか",
+    "name_en": "Sushi Kawanaka",
+    "area": "愛媛県 松山市",
+    "url": "https://tabelog.com/ehime/A3801/A380101/38013098/",
+    "rating": 3.89,
+    "review_count_tabelog": 98,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Sushi, Japanese Cuisine, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Tue, Wed, Fri": {},
+        "Thu, Sat, Sun": {}
+      },
+      "closed_on": "Mondays"
+    },
+    "google_rating": 4.7,
+    "google_reviews": 54,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJW1OT297lTzURL4_QUi1C2nE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/38013098-a4c71626e9d7a716e343673682c187d0768fdda17c95b90aa0a7d29ed5dcc82b.jpg",
+    "place_id": "ChIJW1OT297lTzURL4_QUi1C2nE",
+    "g_name": "鮨かわなか",
+    "g_rating": 4.7,
+    "g_reviews": 54,
+    "g_address": "日本、〒790-0001 愛媛県松山市一番町１丁目１１−９ 一番町ガッツビル",
+    "lat": 33.8412016,
+    "lng": 132.7723966
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "立ち喰い鮨 人人",
+    "name_en": "Tachigui Sushi Jinjin",
+    "area": "富山県 富山市",
+    "url": "https://tabelog.com/toyama/A1601/A160101/16010630/",
+    "rating": 3.75,
+    "review_count_tabelog": 275,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "Stand-up sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:00 - 21:00",
+        "dtl_text": "11:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 204,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJrdh9KJqR918RQ3S_L7Gg850",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/16010630-5c439b22ce05b470b8c5dae2dee53f3f355440fcaf9dc024c97248894e97b484.jpg",
+    "place_id": "ChIJrdh9KJqR918RQ3S_L7Gg850",
+    "g_name": "立ち喰い鮨 人人 / 金沢店",
+    "g_rating": 4.1,
+    "g_reviews": 204,
+    "g_address": "日本、〒920-0981 石川県金沢市片町１丁目１０−５ １階",
+    "lat": 36.5586634,
+    "lng": 136.6525619
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "すし処 ひさ田",
+    "name_en": "Sushi Dokoro Hisada",
+    "area": "岡山県 赤磐市",
+    "url": "https://tabelog.com/okayama/A3301/A330104/33000059/",
+    "rating": 4.38,
+    "review_count_tabelog": 265,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "￥40,000～￥49,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 56,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJHx8fJOcTVDURqT-_dXFpPfE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/33000059-1d53fdf54eb44749587cde45a044964305f1d665141789e4e9ce92f044ef01cf.jpg",
+    "place_id": "ChIJHx8fJOcTVDURqT-_dXFpPfE",
+    "g_name": "すし処 ひさ田",
+    "g_rating": 4.5,
+    "g_reviews": 56,
+    "g_address": "日本、〒709-0802 岡山県赤磐市桜が丘西９丁目１−４",
+    "lat": 34.7773543,
+    "lng": 134.0254894
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "江戸町 すぎもと",
+    "name_en": "Edo Machi Sugimoto",
+    "area": "三重県 桑名市",
+    "url": "https://tabelog.com/mie/A2402/A240203/24018684/",
+    "rating": 4.0,
+    "review_count_tabelog": 131,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays"
+    },
+    "google_rating": 4.8,
+    "google_reviews": 44,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmdw4oLybA2AR2BESAchN_Ao",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/24018684-2e5ff487639dbd6e5be60d96f8db34d495e7883404ee1d82c3e7d21639f42d2a.jpg",
+    "place_id": "ChIJmdw4oLybA2AR2BESAchN_Ao",
+    "g_name": "江戸町 すぎもと",
+    "g_rating": 4.8,
+    "g_reviews": 44,
+    "g_address": "日本、〒511-0022 三重県桑名市江戸町２５",
+    "lat": 35.0654264,
+    "lng": 136.6959287
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "我逢人",
+    "name_en": "Gaho Jin",
+    "area": "福岡県 中洲川端駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400103/40055175/",
+    "rating": 4.14,
+    "review_count_tabelog": 228,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥30,000～￥39,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Tuesday": {},
+        "Wednesday": {},
+        "Thursday": {},
+        "Friday": {},
+        "Saturday": {}
+      },
+      "closed_on": "Sundays, Mondays, and Public Holidays"
+    },
+    "google_rating": 3.8,
+    "google_reviews": 285,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJiShWTeuRQTURuHO1zkcLEtI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/40055175-41ebea946f15b6c25aa1ca0d5d4617eaca2aef43ec75da88c223f8d66dcc6ce8.jpg",
+    "place_id": "ChIJiShWTeuRQTURuHO1zkcLEtI",
+    "g_name": "中洲川端駅",
+    "g_rating": 3.8,
+    "g_reviews": 285,
+    "g_address": "日本、〒812-0026 福岡県福岡市博多区上川端町１１",
+    "lat": 33.5944115,
+    "lng": 130.4060654
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "GEJO",
+    "name_en": "GEJO",
+    "area": "富山県 富山市",
+    "url": "https://tabelog.com/toyama/A1601/A160101/16009475/",
+    "rating": 3.82,
+    "review_count_tabelog": 84,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Sushi, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 15:00 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 68,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJya5zPJCZ918RDQONe8XNnAI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/16009475-94026b6cac2f1812004936445aa871adc9d815a59fc4b005633bfadeeeaae958.jpg",
+    "place_id": "ChIJya5zPJCZ918RDQONe8XNnAI",
+    "g_name": "GEJO",
+    "g_rating": 4.1,
+    "g_reviews": 68,
+    "g_address": "日本、〒931-8358 富山県富山市東岩瀬町１８２",
+    "lat": 36.7581228,
+    "lng": 137.2287049
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "墨や",
+    "name_en": "Sumiya",
+    "area": "大阪府 大阪難波駅",
+    "url": "https://tabelog.com/osaka/A2701/A270202/27099496/",
+    "rating": 3.72,
+    "review_count_tabelog": 224,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi, Seafood, Japanese Cuisine",
+    "hours_raw": [],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 98,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJM8SrLhPnAGARwOvM1DKEPwE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/27099496-f96fed130bbcf9698e35c5bd361a685ac041a6190dbc7d364ad921a2deaf3163.jpg",
+    "place_id": "ChIJM8SrLhPnAGARwOvM1DKEPwE",
+    "g_name": "墨や",
+    "g_rating": 4.1,
+    "g_reviews": 98,
+    "g_address": "日本、〒542-0076 大阪府大阪市中央区難波４丁目３−２３",
+    "lat": 34.6659748,
+    "lng": 135.4995756
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "鮨 実紀",
+    "name_en": "Sushi Minoki",
+    "area": "大阪府 北新地駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27118905/",
+    "rating": 3.97,
+    "review_count_tabelog": 177,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 55,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJH1FG1wDnAGARRm1vbJr08DI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/27118905-cb5740b88838eb245d29b8db604c3e2938487a87e4b380665dd96c675904cc99.jpg",
+    "place_id": "ChIJH1FG1wDnAGARRm1vbJr08DI",
+    "g_name": "鮨 実紀",
+    "g_rating": 4.6,
+    "g_reviews": 55,
+    "g_address": "日本、〒530-0002 大阪府大阪市北区曾根崎新地１丁目２−６ 新松リンデンビル 曽根崎新地１－２－６新松リンデンビル１階",
+    "lat": 34.697135,
+    "lng": 135.4981456
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "壮士",
+    "name_en": "Soshi",
+    "area": "広島県 立町駅",
+    "url": "https://tabelog.com/hiroshima/A3401/A340112/34022477/",
+    "rating": 4.27,
+    "review_count_tabelog": 166,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 22:30",
+        "dtl_text": "18:00 - 22:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 136,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJRwX7NQ-iWjURUkZ3VCme7nE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/34022477-b1563c8a37ee1f9bb343f86268919837e411bde9100b7f034f4bea116b71f2f5.jpg",
+    "place_id": "ChIJRwX7NQ-iWjURUkZ3VCme7nE",
+    "g_name": "壮士(旧魚喰い切り壮士)",
+    "g_rating": 4.4,
+    "g_reviews": 136,
+    "g_address": "日本、〒730-0032 広島県広島市中区立町５−１８",
+    "lat": 34.393615,
+    "lng": 132.461563
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "鮨 縁",
+    "name_en": "Sushi En",
+    "area": "岡山県 岡山市北区",
+    "url": "https://tabelog.com/okayama/A3301/A330101/33001952/",
+    "rating": 4.14,
+    "review_count_tabelog": 186,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays"
+    },
+    "google_rating": 5,
+    "google_reviews": 4,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJB-mztDIHVDURHz6V-2t56rE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/33001952-ead0e96e902450dd4397ae1fff377c23d840acd3e517e803ba35e8a3aaf48cff.jpg",
+    "place_id": "ChIJB-mztDIHVDURHz6V-2t56rE",
+    "g_name": "株式会社en'to (エント)",
+    "g_rating": 5,
+    "g_reviews": 4,
+    "g_address": "日本、〒700-0951 岡山県岡山市北区田中１３０−１０２",
+    "lat": 34.6448558,
+    "lng": 133.8812948
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "むら上",
+    "name_en": "Murakami",
+    "area": "熊本県 熊本市中央区",
+    "url": "https://tabelog.com/kumamoto/A4301/A430101/43014482/",
+    "rating": 4.16,
+    "review_count_tabelog": 142,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 100,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJg9qi1Cf1QDUR6SUHSgc5hNc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/43014482-07bf137aa1151f958e9ce44fc0d5e4be27491a1648c3a58c314fa43b9672fcc9.jpg",
+    "place_id": "ChIJg9qi1Cf1QDUR6SUHSgc5hNc",
+    "g_name": "むら上",
+    "g_rating": 4.4,
+    "g_reviews": 100,
+    "g_address": "日本、〒860-0805 熊本県熊本市中央区桜町５−１７ SAKURA TERRACE 2F",
+    "lat": 32.8001112,
+    "lng": 130.7009917
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "髙橋 謙太郎",
+    "name_en": "Takahashi Kentaro",
+    "area": "大阪府 なにわ橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27140862/",
+    "rating": 4.18,
+    "review_count_tabelog": 144,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:45 - 22:30",
+        "dtl_text": "17:45 - 22:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "15:00 - 22:30",
+        "dtl_text": "15:00 - 22:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "15:00 - 21:00",
+        "dtl_text": "15:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.7,
+    "google_reviews": 24,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJnT_mDQDnAGARdm8yctPMXyA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/27140862-1aebde9c8615ed00e94deb9710099349e34fb91652931f37b61ae682cbe38755.jpg",
+    "place_id": "ChIJnT_mDQDnAGARdm8yctPMXyA",
+    "g_name": "鮨 髙橋 謙太郎",
+    "g_rating": 4.7,
+    "g_reviews": 24,
+    "g_address": "日本、〒530-0047 大阪府大阪市北区西天満４丁目７−７ サン・システム 西天満ガストロプラザ 2階",
+    "lat": 34.6966537,
+    "lng": 135.5037912
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "鮨shizuku 西天満",
+    "name_en": "Sushi shizuku Nishitenma",
+    "area": "大阪府 大江橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270102/27130932/",
+    "rating": 3.79,
+    "review_count_tabelog": 189,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [],
+    "hours_notes_structured": null,
+    "google_rating": 4.7,
+    "google_reviews": 59,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmXeJyNPnAGARYKlwaCoU8uY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/27130932-27e9089b6799a62f3bad684c26bab309cfd4c50ccc81b1818b785719e267acd0.jpg",
+    "place_id": "ChIJmXeJyNPnAGARYKlwaCoU8uY",
+    "g_name": "鮨 Shizuku 西天満",
+    "g_rating": 4.7,
+    "g_reviews": 59,
+    "g_address": "日本、〒530-0047 大阪府大阪市北区西天満２丁目３−１５ 千都ビル",
+    "lat": 34.6960983,
+    "lng": 135.5030328
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "すし処 きみや",
+    "name_en": "Sushi Dokoro Kimiya",
+    "area": "鹿児島県 鹿児島市",
+    "url": "https://tabelog.com/kagoshima/A4601/A460101/46016654/",
+    "rating": 3.76,
+    "review_count_tabelog": 122,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Sat",
+        "dtl": "11:30 - 15:30 L.O. 15:30 17:30 - 21:30 L.O. 21:30",
+        "dtl_text": "17:30 - 21:30 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Fri",
+        "dtl": "17:30 - 21:30 L.O. 21:30",
+        "dtl_text": "17:30 - 21:30 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:30 - 21:30 L.O. 21:30",
+        "dtl_text": "11:30 - 21:30 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon, Tue, Sat, Sun": {},
+        "Fri": {}
+      },
+      "closed_on": "Wed & Thu"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 59,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJN2-g7iRnPjUREEr9SMqo6B0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/46016654-3883e0d7545977d566ded6f65bc34d6966fa3e68f142e624830b60397fe7ab2f.jpg",
+    "place_id": "ChIJN2-g7iRnPjUREEr9SMqo6B0",
+    "g_name": "すし処きみや(旧:立喰い鮨きみや)",
+    "g_rating": 4.6,
+    "g_reviews": 59,
+    "g_address": "日本、〒890-0073 鹿児島県鹿児島市宇宿３丁目３２−５",
+    "lat": 31.5441264,
+    "lng": 130.5374307
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "ゆう心",
+    "name_en": "Yushin",
+    "area": "宮崎県 宮崎市",
+    "url": "https://tabelog.com/miyazaki/A4501/A450101/45009581/",
+    "rating": 3.6,
+    "review_count_tabelog": 80,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Sushi, Seafood, Tempura",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri, Sat, Sun",
+        "dtl": "11:00 - 13:00 18:00 - 19:30",
+        "dtl_text": "18:00 - 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.7,
+    "google_reviews": 205,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJdbJzzrXHODURd6qfRKUMIn0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/45009581-894d976ad686b753fa3da5c706a592524dd1d415a26dcd533bcaed9f14a9ef5a.jpg",
+    "place_id": "ChIJdbJzzrXHODURd6qfRKUMIn0",
+    "g_name": "鮨と魚肴 ゆう心",
+    "g_rating": 4.7,
+    "g_reviews": 205,
+    "g_address": "日本、〒889-2162 宮崎県宮崎市青島６丁目１４",
+    "lat": 31.7928958,
+    "lng": 131.4736093
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "すし うえだ",
+    "name_en": "Sushi Ueda",
+    "area": "兵庫県 元町（ＪＲ）駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280102/28053397/",
+    "rating": 4.29,
+    "review_count_tabelog": 192,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥30,000～￥39,999",
+    "sub_categories": "Sushi, Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Day after public holiday",
+        "dtl": "12:00 - 14:00 18:00 - 20:00 20:40 - 22:45",
+        "dtl_text": "20:40 - 22:45"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday, Day before public holiday",
+        "dtl": "12:00 - 14:00 17:00 - 19:00",
+        "dtl_text": "17:00 - 19:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon - Sat": {},
+        "Sun & Public Holidays": {}
+      },
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 85,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJR2y-EwCPAGARWr6WwSZLwFs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/28053397-898f3c6d258a1c05bfb158dc71bcb22ac82eb2234e0ede356ea9d8e60d46b532.jpg",
+    "place_id": "ChIJR2y-EwCPAGARWr6WwSZLwFs",
+    "g_name": "すし うえだ",
+    "g_rating": 4.4,
+    "g_reviews": 85,
+    "g_address": "日本、〒650-0004 兵庫県神戸市中央区中山手通３丁目２−１ トア山手ザ・神戸タワー １１２",
+    "lat": 34.69344420000001,
+    "lng": 135.1875582
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "弥助",
+    "name_en": "Yasuke",
+    "area": "大阪府 宿院駅",
+    "url": "https://tabelog.com/osaka/A2705/A270501/27001079/",
+    "rating": 3.81,
+    "review_count_tabelog": 282,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "12:00 - 13:30 17:30 - 22:00",
+        "dtl_text": "17:30 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 200,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJi6RWzpbcAGARap3w416xZwg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/27001079-1a9e5a8eb1795b52a22e6ae4a159f04638dcfd99242feb49ac57339872b70394.jpg",
+    "place_id": "ChIJi6RWzpbcAGARap3w416xZwg",
+    "g_name": "弥助",
+    "g_rating": 4.4,
+    "g_reviews": 200,
+    "g_address": "日本、〒590-0954 大阪府堺市堺区大町東１丁１−１８",
+    "lat": 34.5763067,
+    "lng": 135.47271
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "祇園 鮨 忠保",
+    "name_en": "Gion Sushi Tadayasu",
+    "area": "京都府 祇園四条駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260301/26029012/",
+    "rating": 3.73,
+    "review_count_tabelog": 247,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4,
+    "google_reviews": 224,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ72OwosEIAWARh2NaNxObqE4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/26029012-9b3aba15485574f3470089f75ae9d7efcc60a39f579d284b91272c4bfcbdaa55.jpg",
+    "place_id": "ChIJ72OwosEIAWARh2NaNxObqE4",
+    "g_name": "祇園 鮨 忠保",
+    "g_rating": 4,
+    "g_reviews": 224,
+    "g_address": "日本、〒605-0074 京都府京都市東山区祇園町南側５７２−９",
+    "lat": 35.0034591,
+    "lng": 135.7745655
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "すし みむろ",
+    "name_en": "Sushi Mimuro",
+    "area": "熊本県 人吉市",
+    "url": "https://tabelog.com/kumamoto/A4304/A430403/43015724/",
+    "rating": 4.06,
+    "review_count_tabelog": 68,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:30 18:00 - 22:30",
+        "dtl_text": "18:00 - 22:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 80,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJtxxjYBlxPzURy0HFTtmCt5g",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/43015724-cad89bdf7ff137f56a08bd7862f7fffdd4a77fc88e4e111b36314f5fc81dc372.jpg",
+    "place_id": "ChIJtxxjYBlxPzURy0HFTtmCt5g",
+    "g_name": "すし みむろ since1976 三駒すし",
+    "g_rating": 4.6,
+    "g_reviews": 80,
+    "g_address": "日本、〒868-0006 熊本県人吉市駒井田町２１２−１",
+    "lat": 32.216442,
+    "lng": 130.7579299
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "鮨 よし田",
+    "name_en": "Sushi Yoshida",
+    "area": "福岡県 久留米市",
+    "url": "https://tabelog.com/fukuoka/A4008/A400801/40010507/",
+    "rating": 4.11,
+    "review_count_tabelog": 105,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 22:30",
+        "dtl_text": "18:00 - 22:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 42,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJtWv5K1SkQTURm8BZ8l7gMDU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/40010507-43a62eaf5fbcb0ce66996257c3ce09cc5e10082ea06be43663f4e125667c5745.jpg",
+    "place_id": "ChIJtWv5K1SkQTURm8BZ8l7gMDU",
+    "g_name": "鮨 よし田",
+    "g_rating": 4.5,
+    "g_reviews": 42,
+    "g_address": "日本、〒830-0031 福岡県久留米市六ツ門町２０−１０",
+    "lat": 33.3124934,
+    "lng": 130.5155813
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "鮨料理 一高",
+    "name_en": "Sushi Ryori Ichitaka",
+    "area": "福岡県 大濠公園駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400105/40052388/",
+    "rating": 4.01,
+    "review_count_tabelog": 213,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Sushi, Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 15:00 L.O. Food 13:30 Drinks 14:30 17:30 - 22:00 L.O. Food 20:00 Drinks 20:30",
+        "dtl_text": "17:30 - 22:00 L.O. Food 20:00 Drinks 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Starting October 2025, the closing days will change from Sunday to Tuesday and Wednesday."
+    },
+    "google_rating": 4,
+    "google_reviews": 128,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJyXTL4D2TQTURoq2Qo69q0lU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/40052388-158f3f9290518e45335384a5de73aef927f036da5ec134ee6f8f0143bcdda583.jpg",
+    "place_id": "ChIJyXTL4D2TQTURoq2Qo69q0lU",
+    "g_name": "鮨料理 一高",
+    "g_rating": 4,
+    "g_reviews": 128,
+    "g_address": "日本、〒810-0062 福岡県福岡市中央区荒戸１丁目２−２ ロワールマンション大濠 101･102",
+    "lat": 33.5906807,
+    "lng": 130.3779449
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "在掌",
+    "name_en": "Zaisho",
+    "area": "福岡県 中洲川端駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400103/40067936/",
+    "rating": 4.02,
+    "review_count_tabelog": 57,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Tuesday": {},
+        "Wednesday": {},
+        "Thursday": {},
+        "Friday": {},
+        "Saturday": {}
+      },
+      "closed_on": "Sunday, Monday, and Public Holidays"
+    },
+    "google_rating": 4.9,
+    "google_reviews": 28,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJyxUcIgCRQTURviHp9YgmJSg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/40067936-23d8549ee20e3dd0059ae00d0536f2b4c01f981f5fb57b94b8815edf56d30828.jpg",
+    "place_id": "ChIJyxUcIgCRQTURviHp9YgmJSg",
+    "g_name": "在掌",
+    "g_rating": 4.9,
+    "g_reviews": 28,
+    "g_address": "日本、〒810-0002 福岡県福岡市中央区西中洲３−２０ LANEラウンドビル 2F",
+    "lat": 33.5908524,
+    "lng": 130.4055558
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "鮨 まつ本",
+    "name_en": "Sushi Matsumoto",
+    "area": "兵庫県 苦楽園口駅",
+    "url": "https://tabelog.com/hyogo/A2803/A280301/28006932/",
+    "rating": 3.93,
+    "review_count_tabelog": 292,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Sat",
+        "dtl": "17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sun",
+        "dtl": "12:00 - 14:00 17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (the following day if a public holiday)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 120,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJuUURNhrzAGARSX3-hddEvvw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/28006932-54b8a3a6f60bf69280c5b423b79b48b403bcd2aaa5ae4aadd0946ae29fc4c5d8.jpg",
+    "place_id": "ChIJuUURNhrzAGARSX3-hddEvvw",
+    "g_name": "鮨 まつ本",
+    "g_rating": 4.3,
+    "g_reviews": 120,
+    "g_address": "日本、〒662-0084 兵庫県西宮市樋之池町２−３３",
+    "lat": 34.7515049,
+    "lng": 135.32403
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "乙女寿司",
+    "name_en": "Otome Zushi",
+    "area": "石川県 金沢市",
+    "url": "https://tabelog.com/ishikawa/A1701/A170101/17000107/",
+    "rating": 4.25,
+    "review_count_tabelog": 576,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat",
+        "dtl": "12:00 - 14:00 17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 355,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJY8-U4X80-F8RhQBJV0MLEUw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/17000107-4dc7bfe1d1a476df41ef5ceaab8d7e3b7c4d7f388a660134e4f6617e1d7c9db5.jpg",
+    "place_id": "ChIJY8-U4X80-F8RhQBJV0MLEUw",
+    "g_name": "乙女寿司(おとめずし)",
+    "g_rating": 4.6,
+    "g_reviews": 355,
+    "g_address": "日本、〒920-0988 石川県金沢市木倉町４−１０",
+    "lat": 36.561428,
+    "lng": 136.6517109
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "たつ庄",
+    "name_en": "Tatsu Sho",
+    "area": "福岡県 渡辺通駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400104/40006240/",
+    "rating": 3.86,
+    "review_count_tabelog": 252,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "12:00 - 14:00 L.O. Food 12:30 Drinks 13:00 18:00 - 22:00 L.O. Food 19:00 Drinks 21:00",
+        "dtl_text": "18:00 - 22:00 L.O. Food 19:00 Drinks 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "11:30 - 14:00 L.O. Food 12:30 Drinks 13:00 18:00 - 22:00 L.O. Food 18:00 Drinks 21:00",
+        "dtl_text": "18:00 - 22:00 L.O. Food 18:00 Drinks 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 14:00 L.O. Food 12:30 Drinks 13:00 18:00 - 22:00 L.O. Food 19:00 Drinks 21:00",
+        "dtl_text": "18:00 - 22:00 L.O. Food 19:00 Drinks 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 279,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJdepxrZ6RQTURyUVcviG75DI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/40006240-ca3533b4a35cfe2853c803919b5a0cce0c27c260756c811ac83ceeee7785cc83.jpg",
+    "place_id": "ChIJdepxrZ6RQTURyUVcviG75DI",
+    "g_name": "寿司たつ庄",
+    "g_rating": 4.5,
+    "g_reviews": 279,
+    "g_address": "日本、〒810-0011 福岡県福岡市中央区高砂１丁目１９−２８ エスポワール渡辺通南 1階",
+    "lat": 33.5805513,
+    "lng": 130.4063674
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "mikami limited50",
+    "name_en": "mikami limited50",
+    "area": "大阪府 四ツ橋",
+    "url": "https://tabelog.com/osaka/A2701/A270201/27124954/",
+    "rating": 4.14,
+    "review_count_tabelog": 86,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [],
+    "hours_notes_structured": null,
+    "google_rating": 5,
+    "google_reviews": 6,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJXSHxK6bnAGARFjZVkiszYXI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/27124954-3e31071e4851070192dc2d8eafe294661478b33487dbbd244b0231bb43a46ac6.jpg",
+    "place_id": "ChIJXSHxK6bnAGARFjZVkiszYXI",
+    "g_name": "mikami limited50",
+    "g_rating": 5,
+    "g_reviews": 6,
+    "g_address": "日本、〒550-0014 大阪府大阪市西区北堀江１丁目１４−６ クレインコート北堀江 Ⅱ2F",
+    "lat": 34.6730499,
+    "lng": 135.4949109
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "SOTO",
+    "name_en": "SOTO",
+    "area": "富山県 富山市",
+    "url": "https://tabelog.com/toyama/A1601/A160101/16009088/",
+    "rating": 3.85,
+    "review_count_tabelog": 64,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat",
+        "dtl": "16:30 - 21:30 L.O. 20:30",
+        "dtl_text": "16:30 - 21:30 L.O. 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.7,
+    "google_reviews": 108,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJwetYrouR918RJuN6jHw1jjU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/16009088-c19ad2e7f7a6b59b497d858fd561cc62929ffc1e4e608015de2d35645cbb1815.jpg",
+    "place_id": "ChIJwetYrouR918RJuN6jHw1jjU",
+    "g_name": "SOTO",
+    "g_rating": 4.7,
+    "g_reviews": 108,
+    "g_address": "日本、〒930-0042 富山県富山市泉町２丁目８−２１",
+    "lat": 36.690452,
+    "lng": 137.2234299
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "寿司つばさ",
+    "name_en": "Sushi Tsubasa",
+    "area": "福岡県 北九州市小倉北区",
+    "url": "https://tabelog.com/fukuoka/A4004/A400401/40043591/",
+    "rating": 4.06,
+    "review_count_tabelog": 215,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:00 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 153,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJY8kwg1K_QzURCoSDeV1kHDU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/40043591-3e4963ffc927becb6526162b10b8770b3786d056aabdcc100aa7d823ac212570.jpg",
+    "place_id": "ChIJY8kwg1K_QzURCoSDeV1kHDU",
+    "g_name": "寿司 つばさ",
+    "g_rating": 4.5,
+    "g_reviews": 153,
+    "g_address": "日本、〒802-0006 福岡県北九州市小倉北区魚町３丁目３−２４ 新米谷 ２階",
+    "lat": 33.8830224,
+    "lng": 130.8797748
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "すし 伍水庵",
+    "name_en": "Sushi Gosuian",
+    "area": "福岡県 大濠公園駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400105/40048273/",
+    "rating": 3.74,
+    "review_count_tabelog": 33,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi, Japanese Cuisine, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays and Mondays"
+    },
+    "google_rating": 4.7,
+    "google_reviews": 56,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6ybelTOSQTURxMlkA6ziXUA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/40048273-ec94598548ef4fd9dbd1614778a412686e6c51c965830bb89381156c4a0ee517.jpg",
+    "place_id": "ChIJ6ybelTOSQTURxMlkA6ziXUA",
+    "g_name": "すし伍水庵(移転後)",
+    "g_rating": 4.7,
+    "g_reviews": 56,
+    "g_address": "日本、〒810-0073 福岡県福岡市中央区舞鶴２丁目８−２３ ルピエ舞鶴 1F",
+    "lat": 33.5916097,
+    "lng": 130.3920887
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "黒杉",
+    "name_en": "Kurosugi",
+    "area": "大阪府 大江橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27086390/",
+    "rating": 3.7,
+    "review_count_tabelog": 289,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Day after public holiday",
+        "dtl": "18:00 - 19:00 20:30 - 22:00",
+        "dtl_text": "20:30 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 14:00 L.O. Food 13:00 18:00 - 19:00 20:30 - 22:00",
+        "dtl_text": "20:30 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 174,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJs1dOYO7mAGAR7NNwoytK084",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/27086390-6b67c58fbd1b734d8a2adc8b475927e2a806d1605594dcaf2b0afe9c86b2a01b.jpg",
+    "place_id": "ChIJs1dOYO7mAGAR7NNwoytK084",
+    "g_name": "寿し処 黒杉",
+    "g_rating": 4,
+    "g_reviews": 174,
+    "g_address": "日本、〒530-0004 大阪府大阪市北区堂島浜１丁目２−１ 新ダイビル 2階",
+    "lat": 34.6956854,
+    "lng": 135.4993014
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "奴寿司",
+    "name_en": "Yakko Zushi",
+    "area": "熊本県 天草市",
+    "url": "https://tabelog.com/kumamoto/A4305/A430501/43001204/",
+    "rating": 3.78,
+    "review_count_tabelog": 316,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Sushi, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "12:00 - 14:00",
+        "dtl_text": "12:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 367,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3cdk01juPzURgCOeamSqR-4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/43001204-1f4c1cc96227c0907f2fb0657d0734f130533d9a5aec85dc31a76a94e5ab4a38.jpg",
+    "place_id": "ChIJ3cdk01juPzURgCOeamSqR-4",
+    "g_name": "奴寿司",
+    "g_rating": 4.3,
+    "g_reviews": 367,
+    "g_address": "日本、〒863-0033 熊本県天草市東町７６−１",
+    "lat": 32.4503391,
+    "lng": 130.2013862
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "扇一 ます寿し本舗",
+    "name_en": "Ogiichi Masuzushi Honpo",
+    "area": "富山県 富山市",
+    "url": "https://tabelog.com/toyama/A1601/A160101/16008103/",
+    "rating": 3.72,
+    "review_count_tabelog": 422,
+    "price_dinner": "-",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Sushi, Regional Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "08:00 - 13:00",
+        "dtl_text": "08:00 - 13:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 276,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_____5CQ918Rn6hMQ56F8yQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/16008103-c1d9b9b20e6af41ff3927da50a35b4f16dd0ce55437df8f87d1e746fd6275988.jpg",
+    "place_id": "ChIJ_____5CQ918Rn6hMQ56F8yQ",
+    "g_name": "扇一ます寿し本舗",
+    "g_rating": 4.4,
+    "g_reviews": 276,
+    "g_address": "日本、〒939-8082 富山県富山市小泉町５４",
+    "lat": 36.6782164,
+    "lng": 137.218179
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "菊鮨",
+    "name_en": "Kiku Zushi",
+    "area": "福岡県 春日市",
+    "url": "https://tabelog.com/fukuoka/A4003/A400301/40010675/",
+    "rating": 4.39,
+    "review_count_tabelog": 485,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 13:50 14:00 - 16:30 18:00 - 20:30",
+        "dtl_text": "18:00 - 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 321,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJxZK3kQmaQTURyuubuFGzdFk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/40010675-d55e5f261a99f5f11a9c25ab6d14db13576ada5ec6af65930ccb0be5703947cf.jpg",
+    "place_id": "ChIJxZK3kQmaQTURyuubuFGzdFk",
+    "g_name": "菊鮨",
+    "g_rating": 4.6,
+    "g_reviews": 321,
+    "g_address": "日本、〒816-0811 福岡県春日市春日公園３丁目５１−３",
+    "lat": 33.5254591,
+    "lng": 130.4737485
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "すし屋 小桜",
+    "name_en": "Sushi-ya Kozakura",
+    "area": "石川県 金沢市",
+    "url": "https://tabelog.com/ishikawa/A1701/A170101/17010028/",
+    "rating": 3.82,
+    "review_count_tabelog": 262,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Sushi, Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 13:30 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 199,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qB8Ggz-F8R6gXTFBygoNs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/17010028-b660e7d473b5a01fb019febed60da887275676f871f204e46512c660769c32bc.jpg",
+    "place_id": "ChIJq6qB8Ggz-F8R6gXTFBygoNs",
+    "g_name": "すし屋 小桜",
+    "g_rating": 4.4,
+    "g_reviews": 199,
+    "g_address": "日本、〒920-0856 石川県金沢市昭和町１５−２１",
+    "lat": 36.5753371,
+    "lng": 136.6480609
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "鮨 志の助",
+    "name_en": "Sushi Shinosuke",
+    "area": "石川県 金沢市",
+    "url": "https://tabelog.com/ishikawa/A1701/A170101/17000173/",
+    "rating": 3.81,
+    "review_count_tabelog": 355,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 14:30 18:00 - 21:30",
+        "dtl_text": "18:00 - 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJF6-tWr00-F8RxSouoDB2-Mg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/17000173-640e852d2768007591f986597d70e55d50a3bf36f697d6e177743362a38b567d.jpg",
+    "place_id": "ChIJF6-tWr00-F8RxSouoDB2-Mg",
+    "g_name": "〒921-8011 石川県金沢市入江３丁目７３ 鮨志の助",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "日本、〒921-8011 石川県金沢市入江３丁目７３ 鮨志の助",
+    "lat": 36.5671267,
+    "lng": 136.6227086
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "寿司 赤酢",
+    "name_en": "Sushi Akazu",
+    "area": "大阪府 北新地駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27114022/",
+    "rating": 3.71,
+    "review_count_tabelog": 369,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Sushi, Japanese Cuisine, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "18:00 - 22:30",
+        "dtl_text": "18:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "12:00 - 14:30 18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 138,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJu9y_nIPnAGAR0qGgGgF6YJQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/27114022-3454c8d29cefca418dd8097af64271ff6dfae727e0e479e85b971413d6d12f96.jpg",
+    "place_id": "ChIJu9y_nIPnAGAR0qGgGgF6YJQ",
+    "g_name": "寿司赤酢",
+    "g_rating": 4.4,
+    "g_reviews": 138,
+    "g_address": "日本、〒530-0003 大阪府大阪市北区堂島１丁目３−４ 谷安ビル B1",
+    "lat": 34.6963789,
+    "lng": 135.4982009
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "鮨まつもと",
+    "name_en": "Sushi Matsumoto",
+    "area": "京都府 祇園四条駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260301/26002579/",
+    "rating": 3.84,
+    "review_count_tabelog": 293,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 219,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6dIeosEIAWARXxd2aOzLKjQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/26002579-72b7a8443890a40b9f12cf4e5661a05732d04a6a681a89d7f20d697d4c183e71.jpg",
+    "place_id": "ChIJ6dIeosEIAWARXxd2aOzLKjQ",
+    "g_name": "鮨まつもと",
+    "g_rating": 4,
+    "g_reviews": 219,
+    "g_address": "日本、〒605-0074 京都府京都市東山区祇園町南側５７０−１２３",
+    "lat": 35.0033891,
+    "lng": 135.7744274
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "菊水鮓 西店",
+    "name_en": "Kikusui Zushi Nishi Ten",
+    "area": "兵庫県 西明石駅",
+    "url": "https://tabelog.com/hyogo/A2804/A280401/28031883/",
+    "rating": 3.78,
+    "review_count_tabelog": 114,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Sushi, Seafood, Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:00 17:00 - 20:30",
+        "dtl_text": "17:00 - 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The first and third Wednesdays of each month."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 107,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2SNzIvXUVDURuotRS_eNhDg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/28031883-a014864cae1c6b8477679cda68fd24b8b4c77ee47a83df3f2ac51f862d9a3233.jpg",
+    "place_id": "ChIJ2SNzIvXUVDURuotRS_eNhDg",
+    "g_name": "菊水鮓 西店",
+    "g_rating": 4.5,
+    "g_reviews": 107,
+    "g_address": "日本、〒673-0016 兵庫県明石市松の内１丁目４−１５",
+    "lat": 34.6645015,
+    "lng": 134.964643
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "鮨と天草大王 天音",
+    "name_en": "Sushi to Amakusa Daio Amane",
+    "area": "福岡県 薬院大通駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400104/40060388/",
+    "rating": 3.77,
+    "review_count_tabelog": 164,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Sushi, Chicken dishes, Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 14:30 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "For reservations of 8 or more guests, please contact us by phone."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 66,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJP_-FuRWRQTURb3dzts26tWs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/40060388-09b57ec37502e4d76ddaa2c0c8670b4ed9a39b425455fbe8e9e45fe160992eae.jpg",
+    "place_id": "ChIJP_-FuRWRQTURb3dzts26tWs",
+    "g_name": "鮨と天草大王 天音",
+    "g_rating": 4.5,
+    "g_reviews": 66,
+    "g_address": "日本、〒810-0022 福岡県福岡市中央区薬院２丁目２−２８ レキシントンスクエア薬院 ２B",
+    "lat": 33.5815129,
+    "lng": 130.396892
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "鮨 行天",
+    "name_en": "Sushi Gyoten",
+    "area": "福岡県 薬院駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400104/40032025/",
+    "rating": 4.4,
+    "review_count_tabelog": 282,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "￥50,000～￥59,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "12:00 - 13:30 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 186,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmyEtKJ2RQTURjimrP9TcZiw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/40032025-5d1f9942e66ce864fc1253666c14530eaaaad620093b75513a3c13b0dfad0b78.jpg",
+    "place_id": "ChIJmyEtKJ2RQTURjimrP9TcZiw",
+    "g_name": "鮨 行天",
+    "g_rating": 4.4,
+    "g_reviews": 186,
+    "g_address": "日本、〒810-0014 福岡県福岡市中央区平尾１丁目２−１２",
+    "lat": 33.5803197,
+    "lng": 130.4011916
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "にしむら",
+    "name_en": "Nishimura",
+    "area": "福岡県 櫛田神社前駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400101/40066477/",
+    "rating": 3.97,
+    "review_count_tabelog": 75,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥30,000～￥39,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "18:00 - 22:30",
+        "dtl_text": "18:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Fri, Sat",
+        "dtl": "12:00 - 14:00 18:00 - 22:30",
+        "dtl_text": "18:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 32,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ36JQAACRQTURx0oRfoZncqY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/40066477-fc89ace71d9eb9ba87aaec550c07360f439c63831ac2134008ebc6a4b54f6a65.jpg",
+    "place_id": "ChIJ36JQAACRQTURx0oRfoZncqY",
+    "g_name": "にしむら",
+    "g_rating": 4.5,
+    "g_reviews": 32,
+    "g_address": "日本、〒812-0018 福岡県福岡市博多区住吉２丁目１１−１３−１ NJKミュトス 2階",
+    "lat": 33.586115,
+    "lng": 130.4124623
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "越中屋",
+    "name_en": "Etchuya",
+    "area": "大阪府 天下茶屋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270406/27018365/",
+    "rating": 3.67,
+    "review_count_tabelog": 201,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Fri, Sat, Sun",
+        "dtl": "17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.6,
+    "google_reviews": 226,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_2io1ZrdAGAR9P44Eb9EnX8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/27018365-d3a344b727ed238b0a0e74ca81f105628c03ba83299098a65b9a06fa68f66c1e.jpg",
+    "place_id": "ChIJ_2io1ZrdAGAR9P44Eb9EnX8",
+    "g_name": "越中屋",
+    "g_rating": 4.6,
+    "g_reviews": 226,
+    "g_address": "日本、〒557-0041 大阪府大阪市西成区岸里１丁目４−１",
+    "lat": 34.6365007,
+    "lng": 135.4946299
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "すし処 めくみ",
+    "name_en": "Sushi Dokoro Mekumi",
+    "area": "石川県 野々市市",
+    "url": "https://tabelog.com/ishikawa/A1702/A170203/17000700/",
+    "rating": 4.5,
+    "review_count_tabelog": 503,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "￥40,000～￥49,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 20:00 20:30 - 22:30",
+        "dtl_text": "20:30 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "12:00 - 14:00 18:00 - 20:00 20:30 - 22:30",
+        "dtl_text": "20:30 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Tue - Sat": {},
+        "Sun": {}
+      },
+      "closed_on": "Mondays and some Tuesdays"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 171,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJX0k-UI01-F8R5e1WQ2vxaUA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/17000700-18fe5adaa77c64339414c3215829e25d26dd62463ccb04dd053050ec3f2c06a3.jpg",
+    "place_id": "ChIJX0k-UI01-F8R5e1WQ2vxaUA",
+    "g_name": "すし処 めくみ",
+    "g_rating": 4.5,
+    "g_reviews": 171,
+    "g_address": "日本、〒921-8831 石川県野々市市下林４丁目４８",
+    "lat": 36.5215594,
+    "lng": 136.6020437
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "鮨仙八",
+    "name_en": "Sushi Senpachi",
+    "area": "福岡県 西鉄平尾駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400104/40065474/",
+    "rating": 4.04,
+    "review_count_tabelog": 252,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "18:00 - 20:00 20:10 - 22:10",
+        "dtl_text": "20:10 - 22:10"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu, Fri",
+        "dtl": "11:30 - 13:00 18:00 - 20:00 20:10 - 22:10",
+        "dtl_text": "20:10 - 22:10"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:30 - 13:00 17:00 - 19:00 19:10 - 21:10",
+        "dtl_text": "19:10 - 21:10"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 227,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7bEurnL0QDURXGXZuEA2DKM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/40065474-e26329c53de9de8771288e4f69c30d1958479bfdda91b904c12ff31ef3b43eda.jpg",
+    "place_id": "ChIJ7bEurnL0QDURXGXZuEA2DKM",
+    "g_name": "鮨 仙八",
+    "g_rating": 4.1,
+    "g_reviews": 227,
+    "g_address": "日本、〒810-0011 福岡県福岡市中央区高砂２丁目１９−４ MGH高砂 1F",
+    "lat": 33.5781,
+    "lng": 130.4081792
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "尽誠",
+    "name_en": "Jinsei",
+    "area": "大阪府 心斎橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270201/27000411/",
+    "rating": 4.29,
+    "review_count_tabelog": 325,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 117,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJo7P8rhbnAGARu7ER8UYRbOo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/27000411-0fa79469f06ab0d8ac92734092987e815c54238df69ac4f3b2a57c5d876e8b58.jpg",
+    "place_id": "ChIJo7P8rhbnAGARu7ER8UYRbOo",
+    "g_name": "尽誠",
+    "g_rating": 4.3,
+    "g_reviews": 117,
+    "g_address": "日本、〒542-0085 大阪府大阪市中央区心斎橋筋２丁目１−３",
+    "lat": 34.6716796,
+    "lng": 135.5020886
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "きう",
+    "name_en": "Kiu",
+    "area": "京都府 烏丸駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260201/26034605/",
+    "rating": 4.35,
+    "review_count_tabelog": 212,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi, Creative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:00 - 22:30",
+        "dtl_text": "17:00 - 22:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 44,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ05hZ5pEJAWARReg2QGU7whI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/26034605-4590e309c7f0ecfc9639e6b316249cc66116993c46ec6b7467ffb952a98f3855.jpg",
+    "place_id": "ChIJ05hZ5pEJAWARReg2QGU7whI",
+    "g_name": "きう",
+    "g_rating": 4.5,
+    "g_reviews": 44,
+    "g_address": "日本、〒600-8092 京都府京都市下京区神明町２３０−２ 2F",
+    "lat": 35.00243,
+    "lng": 135.7625584
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "近松",
+    "name_en": "Chikamatsu",
+    "area": "福岡県 薬院大通駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400104/40000415/",
+    "rating": 4.56,
+    "review_count_tabelog": 240,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "18:00 - 21:30",
+        "dtl_text": "18:00 - 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:00 18:00 - 21:30",
+        "dtl_text": "18:00 - 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "One long weekend per month (dates not fixed)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 78,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7wAMfH-RQTUROw7b2MSgHMA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/40000415-f30a263af578771c8fc4979f0ff91638b90d62a8b02d78e37920ca749e12b2d8.jpg",
+    "place_id": "ChIJ7wAMfH-RQTUROw7b2MSgHMA",
+    "g_name": "近松",
+    "g_rating": 4.3,
+    "g_reviews": 78,
+    "g_address": "日本、〒810-0022 福岡県福岡市中央区薬院２丁目６−１９ グリーンマンション薬院",
+    "lat": 33.5807642,
+    "lng": 130.3932923
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "小松 弥助",
+    "name_en": "Komatsu Yasuke",
+    "area": "石川県 金沢市",
+    "url": "https://tabelog.com/ishikawa/A1701/A170101/17010524/",
+    "rating": 4.29,
+    "review_count_tabelog": 671,
+    "price_dinner": "-",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays and Thursdays."
+    },
+    "google_rating": 4.7,
+    "google_reviews": 513,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJqYx5eGkz-F8Rw9AIvyBwGs8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/17010524-d5e2219757ed7d047bc04109869d60d54649899fac723944ca23010767a7ab26.jpg",
+    "place_id": "ChIJqYx5eGkz-F8Rw9AIvyBwGs8",
+    "g_name": "小松 弥助",
+    "g_rating": 4.7,
+    "g_reviews": 513,
+    "g_address": "日本、〒920-0853 石川県金沢市本町２丁目１７−２１",
+    "lat": 36.5764842,
+    "lng": 136.6498121
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "すし勝",
+    "name_en": "Sushi Katsu",
+    "area": "徳島県 鳴門市",
+    "url": "https://tabelog.com/tokushima/A3601/A360102/36001450/",
+    "rating": 3.72,
+    "review_count_tabelog": 62,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 13:30 17:30 - 21:30 L.O. 21:00",
+        "dtl_text": "17:30 - 21:30 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 85,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJMR8IvIxlUzURzZXIsqb7lIM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/36001450-0b462a610ce612d334f6c42b2f0cf0ae6d58914568af6a7fcb8d24669c6291ba.jpg",
+    "place_id": "ChIJMR8IvIxlUzURzZXIsqb7lIM",
+    "g_name": "すし勝",
+    "g_rating": 4.3,
+    "g_reviews": 85,
+    "g_address": "日本、〒772-0002 徳島県鳴門市撫養町斎田大堤６５−１",
+    "lat": 34.1769037,
+    "lng": 134.6058094
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "鮨 たく未",
+    "name_en": "Sushi Takumi",
+    "area": "大阪府 本町駅",
+    "url": "https://tabelog.com/osaka/A2701/A270106/27127383/",
+    "rating": 3.73,
+    "review_count_tabelog": 111,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 38,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3X8uz53nAGARJ3z-ZyWrKn4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/27127383-447a278fbfc1197f4ee37c2cad8dad87d1a7fdbbaa25be8e5fd1a0bbe292fa55.jpg",
+    "place_id": "ChIJ3X8uz53nAGARJ3z-ZyWrKn4",
+    "g_name": "鮨たく未",
+    "g_rating": 4.2,
+    "g_reviews": 38,
+    "g_address": "日本、〒541-0051 大阪府大阪市中央区備後町３丁目１−２ レアビル 3階",
+    "lat": 34.6855288,
+    "lng": 135.503533
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "大阪天満宮 鮨とよなが",
+    "name_en": "Osaka Tenmangu Sushi Toyonaga",
+    "area": "大阪府 大阪天満宮駅",
+    "url": "https://tabelog.com/osaka/A2701/A270103/27105145/",
+    "rating": 4.19,
+    "review_count_tabelog": 285,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:30 - 23:00",
+        "dtl_text": "17:30 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 87,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJUfFhD27nAGARL7T9iGPhC5k",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/27105145-ec3a7f7e1f7c26776a5edcf2590322153f4b65b245beaf450ac6605beb68c3b8.jpg",
+    "place_id": "ChIJUfFhD27nAGARL7T9iGPhC5k",
+    "g_name": "鮨とよなが",
+    "g_rating": 4.6,
+    "g_reviews": 87,
+    "g_address": "日本、〒530-0041 大阪府大阪市北区天神橋２丁目５−３",
+    "lat": 34.6968598,
+    "lng": 135.5134067
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "鮓 きずな",
+    "name_en": "Sushi Kizuna",
+    "area": "大阪府 京橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270107/27041868/",
+    "rating": 4.37,
+    "review_count_tabelog": 633,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Tue - Sat": {},
+        "Sun & Public Holidays": {}
+      },
+      "closed_on": "The third Tuesday of each month."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 230,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJba7VZijhAGAR0gPzAepijZY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/27041868-4c70ef55b32ac2c56c9c4a9702eb03192211d7dccf148f1c89653ef3b94ac091.jpg",
+    "place_id": "ChIJba7VZijhAGAR0gPzAepijZY",
+    "g_name": "鮓 きずな",
+    "g_rating": 4.5,
+    "g_reviews": 230,
+    "g_address": "日本、〒534-0023 大阪府大阪市都島区都島南通２丁目４−９ 藤美ハイツ",
+    "lat": 34.7010333,
+    "lng": 135.5336074
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "一心鮨 光洋",
+    "name_en": "Isshin Sushi Koyo",
+    "area": "宮崎県 宮崎市",
+    "url": "https://tabelog.com/miyazaki/A4501/A450101/45000157/",
+    "rating": 4.33,
+    "review_count_tabelog": 641,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri",
+        "dtl": "12:00 - 14:00 L.O. 13:00 17:00 - 22:00 L.O. 20:00",
+        "dtl_text": "17:00 - 22:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "17:00 - 22:00 L.O. 20:00",
+        "dtl_text": "17:00 - 22:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 14:00 L.O. 13:00 17:00 - 22:00 L.O. 20:00",
+        "dtl_text": "17:00 - 22:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The first Tuesday of each month (excluding public holidays)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 320,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJASM81Ga3ODURZItuTxupzg4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/45000157-7d8e492cb89d9598e8fd083c11852917a6b5ee2d4cec2cb201ab248e47a447a1.jpg",
+    "place_id": "ChIJASM81Ga3ODURZItuTxupzg4",
+    "g_name": "一心鮨光洋",
+    "g_rating": 4.3,
+    "g_reviews": 320,
+    "g_address": "日本、〒880-0874 宮崎県宮崎市昭和町２１",
+    "lat": 31.908492,
+    "lng": 131.436023
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "幸寿し 本店",
+    "name_en": "Kou Zushi Hon Ten",
+    "area": "石川県 七尾市",
+    "url": "https://tabelog.com/ishikawa/A1703/A170302/17000352/",
+    "rating": 3.85,
+    "review_count_tabelog": 462,
+    "price_dinner": "-",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 12:50 13:00 - 14:30 17:00 - 20:00",
+        "dtl_text": "17:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.6,
+    "google_reviews": 413,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6Q2s_509918Rd6ZsL1BWxNA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/17000352-4f625c53532c1f4c5eabdc164e1400cdb6b55d1f65036fae58202d32f68d9f95.jpg",
+    "place_id": "ChIJ6Q2s_509918Rd6ZsL1BWxNA",
+    "g_name": "幸寿し 本店",
+    "g_rating": 4.6,
+    "g_reviews": 413,
+    "g_address": "日本、〒926-0044 石川県七尾市相生町３０−１",
+    "lat": 37.044465,
+    "lng": 136.9671799
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "寿司 あさ海",
+    "name_en": "Sushi Asauumi",
+    "area": "福岡県 北九州市小倉北区",
+    "url": "https://tabelog.com/fukuoka/A4004/A400401/40047358/",
+    "rating": 3.92,
+    "review_count_tabelog": 129,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 97,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJq_m1j1K_QzURxZ_HeKkIDyI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/40047358-88c25d6592391352a25363ca635f2b6956e7569f959fc52422a57e5194abdf09.jpg",
+    "place_id": "ChIJq_m1j1K_QzURxZ_HeKkIDyI",
+    "g_name": "寿司あさ海",
+    "g_rating": 4.6,
+    "g_reviews": 97,
+    "g_address": "日本、〒802-0006 福岡県北九州市小倉北区魚町３丁目２−４",
+    "lat": 33.882471,
+    "lng": 130.879834
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "寿司 うち田",
+    "name_en": "Sushi Uchida",
+    "area": "大阪府 大江橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27011689/",
+    "rating": 3.76,
+    "review_count_tabelog": 135,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi, Seafood, Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 00:00",
+        "dtl_text": "18:00 - 00:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 71,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJFcuZ2e3mAGARQMLp6q_MNHM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/27011689-b339ddd41721469ac63039820182b66fffc0e4b1348c9f62f849ab28d5fb7fae.jpg",
+    "place_id": "ChIJFcuZ2e3mAGARQMLp6q_MNHM",
+    "g_name": "すし うち田",
+    "g_rating": 4.5,
+    "g_reviews": 71,
+    "g_address": "日本、〒530-0003 大阪府大阪市北区堂島１丁目３−４０ スタック堂島 スタッフ堂島ビル 2F",
+    "lat": 34.6965544,
+    "lng": 135.4985346
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "鮨 さかい",
+    "name_en": "Sushi Sakai",
+    "area": "福岡県 中洲川端駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400103/40034544/",
+    "rating": 4.55,
+    "review_count_tabelog": 684,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "￥40,000～￥49,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Tuesday": {},
+        "Wednesday & Friday": {},
+        "Thursday": {},
+        "Saturday": {}
+      },
+      "closed_on": "Sunday, Monday & Public Holidays"
+    },
+    "google_rating": 4.7,
+    "google_reviews": 347,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ17cQ-ZORQTURYW5ez_XrhaE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/40034544-618b318bc5a6069feae36f23e0c8b0af0acf5e995426d3c6ac7591833003e4ed.jpg",
+    "place_id": "ChIJ17cQ-ZORQTURYW5ez_XrhaE",
+    "g_name": "鮨さかい",
+    "g_rating": 4.7,
+    "g_reviews": 347,
+    "g_address": "日本、〒810-0002 福岡県福岡市中央区西中洲３−２０ LANEラウンドビル 2F",
+    "lat": 33.5908524,
+    "lng": 130.4055558
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "鮨 いくた",
+    "name_en": "Sushi Ikuta",
+    "area": "石川県 金沢市",
+    "url": "https://tabelog.com/ishikawa/A1701/A170101/17012391/",
+    "rating": 3.79,
+    "review_count_tabelog": 186,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 14:30 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 101,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJUW7CICk1-F8RUpeg-oUrS_k",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/17012391-05e5cfb6aa5efcaebbf43a9e67e13503a617e41a0673d22467f344b15bcda211.jpg",
+    "place_id": "ChIJUW7CICk1-F8RUpeg-oUrS_k",
+    "g_name": "鮨 いくた",
+    "g_rating": 4.5,
+    "g_reviews": 101,
+    "g_address": "日本、〒920-0981 石川県金沢市片町１丁目４−４",
+    "lat": 36.5600941,
+    "lng": 136.6535358
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "鮓 たいと",
+    "name_en": "Sushi Taito",
+    "area": "熊本県 天草市",
+    "url": "https://tabelog.com/kumamoto/A4305/A430501/43001426/",
+    "rating": 4.06,
+    "review_count_tabelog": 116,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 20:30",
+        "dtl_text": "12:00 - 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 77,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJS-hNwFfuPzUR-D1_k_hww7w",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/43001426-c56d3f7d7e22381d0ccb2a2691d478109fe3865f07558ef03ee693a785075a86.jpg",
+    "place_id": "ChIJS-hNwFfuPzUR-D1_k_hww7w",
+    "g_name": "鮓たいと",
+    "g_rating": 4.2,
+    "g_reviews": 77,
+    "g_address": "日本、〒863-0034 熊本県天草市浄南町２−２",
+    "lat": 32.4521411,
+    "lng": 130.1937293
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "江戸前鮨 二鶴",
+    "name_en": "Edomae Sushi Nikaku",
+    "area": "福岡県 北九州市小倉北区",
+    "url": "https://tabelog.com/fukuoka/A4004/A400401/40000768/",
+    "rating": 3.95,
+    "review_count_tabelog": 103,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:00 17:00 - 22:00 L.O. 20:45",
+        "dtl_text": "17:00 - 22:00 L.O. 20:45",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The first Tuesday of each month"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 99,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJffW2gGC_QzURDOYFE5Gi9jA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/40000768-1772d7de9647fbb4a92146db6a8a6d4b48a3bf542031d92e8a5222005227f800.jpg",
+    "place_id": "ChIJffW2gGC_QzURDOYFE5Gi9jA",
+    "g_name": "江戸前鮨 二鶴",
+    "g_rating": 4.5,
+    "g_reviews": 99,
+    "g_address": "日本、〒802-0042 福岡県北九州市小倉北区足立１丁目４−３１",
+    "lat": 33.86882629999999,
+    "lng": 130.8982981
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "安春計",
+    "name_en": "Asuke",
+    "area": "福岡県 薬院駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400104/40000037/",
+    "rating": 3.78,
+    "review_count_tabelog": 43,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 31,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJEbSbXIORQTUR9syg3Ynx-Z8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/40000037-03199974918273fa6da54385f15783614b867464b02f1e9bec5e2bbd63be7e0a.jpg",
+    "place_id": "ChIJEbSbXIORQTUR9syg3Ynx-Z8",
+    "g_name": "安春計",
+    "g_rating": 4.2,
+    "g_reviews": 31,
+    "g_address": "日本、〒810-0022 福岡県福岡市中央区薬院１丁目６−２８",
+    "lat": 33.5828195,
+    "lng": 130.3996931
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "枯淡",
+    "name_en": "Kotan",
+    "area": "福岡県 桜坂駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400105/40059069/",
+    "rating": 4.33,
+    "review_count_tabelog": 226,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "11:30 - 14:00 17:30 - 14:00",
+        "dtl_text": "17:30 - 14:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "17:30 - 22:30",
+        "dtl_text": "17:30 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Fri, Sat, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 14:00 17:30 - 22:30",
+        "dtl_text": "17:30 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:30 - 14:30 17:30 - 22:30",
+        "dtl_text": "17:30 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 66,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJwzzVch-TQTUR_5pXnhueg64",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/40059069-068ae9120f2c39ec0cc54f8ae8dea0512f9107bc3fbf27b210640767a050b73e.jpg",
+    "place_id": "ChIJwzzVch-TQTUR_5pXnhueg64",
+    "g_name": "枯淡",
+    "g_rating": 4.5,
+    "g_reviews": 66,
+    "g_address": "日本、〒810-0024 福岡県福岡市中央区桜坂１丁目５−１５",
+    "lat": 33.5786887,
+    "lng": 130.3870739
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "鮨 十兵衛",
+    "name_en": "Sushi Jube",
+    "area": "福井県 福井市",
+    "url": "https://tabelog.com/fukui/A1801/A180101/18001608/",
+    "rating": 4.46,
+    "review_count_tabelog": 427,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 14:00 18:30 - 20:30",
+        "dtl_text": "18:30 - 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 179,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGymXRAS_-F8RIeRNF8la_zY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/18001608-7463f98758e9715d313352f8c3973da789736b6781747314dddb56d5df8b3f0a.jpg",
+    "place_id": "ChIJGymXRAS_-F8RIeRNF8la_zY",
+    "g_name": "鮨 十兵衛",
+    "g_rating": 4.5,
+    "g_reviews": 179,
+    "g_address": "日本、〒910-0017 福井県福井市文京５丁目１７−５",
+    "lat": 36.07666,
+    "lng": 136.2036015
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "くるますし",
+    "name_en": "Kuruma Sushi",
+    "area": "愛媛県 松山市",
+    "url": "https://tabelog.com/ehime/A3801/A380101/38002524/",
+    "rating": 4.45,
+    "review_count_tabelog": 329,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays and not fixed"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 144,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJde5R1ejlTzURIEFbdOHeA6s",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/38002524-5880a12fdf943a51db0fe66999c2815415f646ae8d375acbc46b07e929dda64b.jpg",
+    "place_id": "ChIJde5R1ejlTzURIEFbdOHeA6s",
+    "g_name": "くるますし",
+    "g_rating": 4.6,
+    "g_reviews": 144,
+    "g_address": "日本、〒790-0001 愛媛県松山市一番町１丁目6−９",
+    "lat": 33.8410111,
+    "lng": 132.773524
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "鮨 唐島",
+    "name_en": "Sushi Karashima",
+    "area": "福岡県 桜坂駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400105/40048710/",
+    "rating": 4.21,
+    "review_count_tabelog": 227,
+    "price_dinner": "￥60,000～￥79,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 20:15 20:30 - 23:00",
+        "dtl_text": "20:30 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4,
+    "google_reviews": 129,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJtVlhVdSTQTURkeL4KROrodg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/40048710-8ef70b81e8ba94de81a97ded06a97961d7e6086909a97690a6403f4bf257da53.jpg",
+    "place_id": "ChIJtVlhVdSTQTURkeL4KROrodg",
+    "g_name": "鮨 唐島",
+    "g_rating": 4,
+    "g_reviews": 129,
+    "g_address": "日本、〒810-0042 福岡県福岡市中央区赤坂３丁目１−２ 大東第２ビル Ⅱ101",
+    "lat": 33.5808847,
+    "lng": 130.3877951
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "京極寿司",
+    "name_en": "Kyogoku Zushi",
+    "area": "滋賀県 長浜市",
+    "url": "https://tabelog.com/shiga/A2504/A250402/25002045/",
+    "rating": 4.12,
+    "review_count_tabelog": 394,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 21:00 L.O. Food 20:30",
+        "dtl_text": "11:00 - 21:00 L.O. Food 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "* Our phone lines will be unavailable on closed days. We apologize for any inconvenience and appreciate your understanding."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 300,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ5Q6yyIpAmARhrRT6ebJNkQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/25002045-02cf318bd02b7e319a7c38dd4254ee683ece7a4e72303183389c19b3120dacef.jpg",
+    "place_id": "ChIJZ5Q6yyIpAmARhrRT6ebJNkQ",
+    "g_name": "京極寿司",
+    "g_rating": 4.4,
+    "g_reviews": 300,
+    "g_address": "日本、〒526-0059 滋賀県長浜市元浜町６−１１",
+    "lat": 35.3806997,
+    "lng": 136.2679784
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "鮨処 石ばし",
+    "name_en": "Sushi Dokoro Ishibashi",
+    "area": "福岡県 赤坂駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400104/40038106/",
+    "rating": 3.76,
+    "review_count_tabelog": 209,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 14:00 18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays, public holidays, and the 2nd and 4th Mondays of the month."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 114,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVUFeSqSQTURzMTakd_CAIs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/40038106-493c2a77e20a7dc460d8516fd87b5217d6c8e9b6c9163c484cdaa5faaafbda90.jpg",
+    "place_id": "ChIJVVUFeSqSQTURzMTakd_CAIs",
+    "g_name": "寿し處 石ばし",
+    "g_rating": 4.5,
+    "g_reviews": 114,
+    "g_address": "日本、〒810-0042 福岡県福岡市中央区赤坂１丁目２−６ 赤坂パインマンション 赤坂パインマンション 1f",
+    "lat": 33.5850519,
+    "lng": 130.3902889
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "照寿司",
+    "name_en": "Teru Zushi",
+    "area": "福岡県 北九州市戸畑区",
+    "url": "https://tabelog.com/fukuoka/A4004/A400402/40001637/",
+    "rating": 4.26,
+    "review_count_tabelog": 469,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "￥40,000～￥49,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 14:00 18:00 - 20:00",
+        "dtl_text": "18:00 - 20:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4,
+    "google_reviews": 314,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJkbqy94THQzURGiDqSz5jNe4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/40001637-f288d7bdf5ad4f149bff6e86d9143556e03ab618013c517ad5032a903a9944f0.jpg",
+    "place_id": "ChIJkbqy94THQzURGiDqSz5jNe4",
+    "g_name": "照寿司 TERUZUSHI",
+    "g_rating": 4,
+    "g_reviews": 314,
+    "g_address": "日本、〒804-0044 福岡県北九州市戸畑区菅原３丁目１−７",
+    "lat": 33.886507,
+    "lng": 130.8305893
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "鮨舳",
+    "name_en": "Sushi Tomo",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37000358/",
+    "rating": 3.86,
+    "review_count_tabelog": 158,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "18:00 - 20:00",
+        "dtl_text": "18:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "12:00 - 14:00 18:00 - 20:00 20:30 - 22:30",
+        "dtl_text": "20:30 - 22:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "12:00 - 14:00 18:00 - 20:00",
+        "dtl_text": "18:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "■Reservations can be made through Pocket Concierge."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 110,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKzD6upvrUzUR1fJ57cu4WPM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/37000358-5d028b6f1d08ce64b5bee098c9be0bbcd8e8e0f27a37a64c1327072fe48a38f2.jpg",
+    "place_id": "ChIJKzD6upvrUzUR1fJ57cu4WPM",
+    "g_name": "鮨舳(すしとも)",
+    "g_rating": 4.4,
+    "g_reviews": 110,
+    "g_address": "日本、〒760-0052 香川県高松市瓦町２丁目８−１７",
+    "lat": 34.3400654,
+    "lng": 134.0515699
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "淡路島 亙",
+    "name_en": "Awajishima Nobu",
+    "area": "兵庫県 淡路市",
+    "url": "https://tabelog.com/hyogo/A2806/A280601/28023929/",
+    "rating": 4.03,
+    "review_count_tabelog": 164,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed",
+        "dtl": "11:30 - 13:30 13:35 - 15:30 17:00 - 20:30",
+        "dtl_text": "17:00 - 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 13:25 13:35 - 15:30 17:00 - 20:30",
+        "dtl_text": "17:00 - 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 125,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJXXzl-lC2VDUR0JQKt4ut-BU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/28023929-746c5ba9755abcd1a5742c3655315a502dba676643da1f15dbc63920d3f852a1.jpg",
+    "place_id": "ChIJXXzl-lC2VDUR0JQKt4ut-BU",
+    "g_name": "すし屋 亙（のぶ）",
+    "g_rating": 4.6,
+    "g_reviews": 125,
+    "g_address": "日本、〒656-2131 兵庫県淡路市志筑１８７１−５",
+    "lat": 34.4357458,
+    "lng": 134.8957345
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "鮨 難波",
+    "name_en": "Sushi Namba",
+    "area": "富山県 富山市",
+    "url": "https://tabelog.com/toyama/A1601/A160101/16000585/",
+    "rating": 3.82,
+    "review_count_tabelog": 198,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Sushi, Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 15:00 18:00 - 00:00",
+        "dtl_text": "18:00 - 00:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 188,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJE3oA-6qR918RXD_OMwWXUgY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/16000585-566606ac94debe4856dc75cb0ce295261fb7ff034ad1371cc62682bbe87035d0.jpg",
+    "place_id": "ChIJE3oA-6qR918RXD_OMwWXUgY",
+    "g_name": "鮨 難波",
+    "g_rating": 4.5,
+    "g_reviews": 188,
+    "g_address": "日本、〒939-8002 富山県富山市公文名３４−１２",
+    "lat": 36.6761389,
+    "lng": 137.2348307
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "こま田",
+    "name_en": "Komada",
+    "area": "三重県 伊勢市",
+    "url": "https://tabelog.com/mie/A2403/A240301/24012212/",
+    "rating": 4.5,
+    "review_count_tabelog": 150,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Fri, Sat, Sun",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 65,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJX-9EQmdaBGARQVBSAMc_34c",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/24012212-fedb1c7cd6acb926107f5578435a1914aca8f90ef257f25575e1df0414f5f3b5.jpg",
+    "place_id": "ChIJX-9EQmdaBGARQVBSAMc_34c",
+    "g_name": "こま田",
+    "g_rating": 4.4,
+    "g_reviews": 65,
+    "g_address": "日本、〒516-0009 三重県伊勢市河崎２丁目１４−１８",
+    "lat": 34.4946401,
+    "lng": 136.7152248
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "寿し おおはた",
+    "name_en": "Sushi Oohata",
+    "area": "大阪府 大江橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27057420/",
+    "rating": 4.3,
+    "review_count_tabelog": 359,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon, Tue, Fri, Sat, Sun": {}
+      },
+      "closed_on": "Wednesdays and Thursdays (subject to change on public holidays)"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 132,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKcOY4-3mAGAR622xhp0WMVE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/27057420-1ae261948700b2594319d6436878185e6080a2314444fcfefc2148a77b20f245.jpg",
+    "place_id": "ChIJKcOY4-3mAGAR622xhp0WMVE",
+    "g_name": "寿し おおはた",
+    "g_rating": 4.6,
+    "g_reviews": 132,
+    "g_address": "日本、〒530-0003 大阪府大阪市北区堂島１丁目４−８ 廣ビル 2F",
+    "lat": 34.696024,
+    "lng": 135.4977402
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "鮨 のぐち",
+    "name_en": "Sushi Noguchi",
+    "area": "大阪府 北新地駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27004965/",
+    "rating": 3.76,
+    "review_count_tabelog": 190,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Day before public holiday, Day after public holiday",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 78,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJh4Ir6-3mAGARaoiXsqAjc8I",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/27004965-5a26db7a5cbcfbed2791f5f151ba5144bee199e5ea160674cea4320e4aca2ae3.jpg",
+    "place_id": "ChIJh4Ir6-3mAGARaoiXsqAjc8I",
+    "g_name": "のぐち",
+    "g_rating": 4.2,
+    "g_reviews": 78,
+    "g_address": "日本、〒530-0002 大阪府大阪市北区曾根崎新地１丁目２−８",
+    "lat": 34.6970807,
+    "lng": 135.4979114
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "寿志 城助",
+    "name_en": "Sushi Josuke",
+    "area": "兵庫県 三ノ宮（ＪＲ）駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280103/28006575/",
+    "rating": 4.3,
+    "review_count_tabelog": 296,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:30 - 23:59",
+        "dtl_text": "17:30 - 23:59"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 3.7,
+    "google_reviews": 128,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQcK_cOSOAGAR6vKobpXjaTA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/28006575-782cfe0d9fe4d561496779a99720c57278d72740a825f16624412991e5947838.jpg",
+    "place_id": "ChIJQcK_cOSOAGAR6vKobpXjaTA",
+    "g_name": "寿志 城助 (スシ ジョウスケ)",
+    "g_rating": 3.7,
+    "g_reviews": 128,
+    "g_address": "日本、〒650-0002 兵庫県神戸市中央区北野町２丁目１−１０ 黄能ビル １階",
+    "lat": 34.7001828,
+    "lng": 135.1921905
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "鮨中村",
+    "name_en": "Sushi Nakamura",
+    "area": "熊本県 熊本市中央区",
+    "url": "https://tabelog.com/kumamoto/A4301/A430101/43017173/",
+    "rating": 4.05,
+    "review_count_tabelog": 65,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Sushi, Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Sun",
+        "dtl": "12:00 - 14:00",
+        "dtl_text": "12:00 - 14:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Fri, Sat",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.7,
+    "google_reviews": 95,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJG5QWzg70QDURgTGyNmu2fH8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/43017173-951f69bac9b626afe67b85215a0d16a6c0234968def790706c9eb04b4b3a2590.jpg",
+    "place_id": "ChIJG5QWzg70QDURgTGyNmu2fH8",
+    "g_name": "鮨 中村",
+    "g_rating": 4.7,
+    "g_reviews": 95,
+    "g_address": "日本、〒860-0863 熊本県熊本市中央区坪井１丁目４−２１",
+    "lat": 32.8101959,
+    "lng": 130.7101715
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "鮨 そえ島",
+    "name_en": "Sushi Soejima",
+    "area": "福岡県 福岡市博多区",
+    "url": "https://tabelog.com/fukuoka/A4001/A400101/40045530/",
+    "rating": 3.84,
+    "review_count_tabelog": 125,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:30 - 22:30",
+        "dtl_text": "17:30 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "17:30 - 21:00",
+        "dtl_text": "17:30 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Tue - Sat": {},
+        "Sun": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 112,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6oVKaWRQTURavyRnXcCsnk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/40045530-c1c113206158ff869c93b26d39e65fdbe2cf65727f3437953f6555493353ece9.jpg",
+    "place_id": "ChIJq6oVKaWRQTURavyRnXcCsnk",
+    "g_name": "鮨 そえ島",
+    "g_rating": 4.5,
+    "g_reviews": 112,
+    "g_address": "日本、〒812-0017 福岡県福岡市博多区美野島２丁目６−３４ 早川ビル",
+    "lat": 33.5801492,
+    "lng": 130.4187405
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "天寿し 京町店",
+    "name_en": "Ten Zushi Kyomachi Ten",
+    "area": "福岡県 北九州市小倉北区",
+    "url": "https://tabelog.com/fukuoka/A4004/A400401/40000721/",
+    "rating": 4.58,
+    "review_count_tabelog": 934,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "￥50,000～￥59,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays and Tuesdays"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 351,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJN17nxk6_QzURPLFr2N4pC-4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/40000721-b9a70030ee0b50b2c1972cec842512cbb2fbb23d56b3879a8055672515c2264b.jpg",
+    "place_id": "ChIJN17nxk6_QzURPLFr2N4pC-4",
+    "g_name": "天寿し京町店",
+    "g_rating": 4.5,
+    "g_reviews": 351,
+    "g_address": "日本、〒802-0002 福岡県北九州市小倉北区京町３丁目１１−９",
+    "lat": 33.885243,
+    "lng": 130.8844196
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "飛",
+    "name_en": "Tobi",
+    "area": "石川県 金沢市",
+    "url": "https://tabelog.com/ishikawa/A1701/A170101/17010234/",
+    "rating": 3.78,
+    "review_count_tabelog": 260,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Sat, Sun",
+        "dtl": "12:00 - 14:00 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Fri",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "*Please note that we may be open on holidays. We are also open during busy seasons such as Obon, Golden Week, and year-end."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 135,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__8kZnkz-F8R6OlakxGKeZA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/17010234-d93f7624793448f5e581a410a0da899d9a7015d43e4cb2b3445efc0fdf70c9a1.jpg",
+    "place_id": "ChIJ__8kZnkz-F8R6OlakxGKeZA",
+    "g_name": "飛(とび)",
+    "g_rating": 4.5,
+    "g_reviews": 135,
+    "g_address": "日本、〒920-0918 石川県金沢市尾山町１２−５",
+    "lat": 36.5666749,
+    "lng": 136.6546001
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "鮨 村上二郎",
+    "name_en": "Sushi Murakami Jiro",
+    "area": "大阪府 北新地駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27078821/",
+    "rating": 3.79,
+    "review_count_tabelog": 196,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 02:00",
+        "dtl_text": "18:00 - 02:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 53,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGXSbjannAGARFlEyxuyjF3g",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/27078821-5a5e3d5d0f0975ba5080013378b40e6d55a94e54e27b14f0a2fa98e81f3ff38d.jpg",
+    "place_id": "ChIJGXSbjannAGARFlEyxuyjF3g",
+    "g_name": "鮨 村上二郎",
+    "g_rating": 4.3,
+    "g_reviews": 53,
+    "g_address": "日本、〒530-0002 大阪府大阪市北区曾根崎新地１丁目５−７ 森ビル 1F",
+    "lat": 34.6977399,
+    "lng": 135.4973094
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "鮨 おおが",
+    "name_en": "Sushi Ooga",
+    "area": "大阪府 宿院駅",
+    "url": "https://tabelog.com/osaka/A2705/A270501/27104114/",
+    "rating": 4.32,
+    "review_count_tabelog": 401,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:30 - 22:30",
+        "dtl_text": "17:30 - 22:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 128,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJS3kF0JbcAGAR0OMxhlLTJc4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/27104114-521c2ff494258cfbed6477ce8b1d13c652084a26d2b2394ac11c8d65699040c0.jpg",
+    "place_id": "ChIJS3kF0JbcAGAR0OMxhlLTJc4",
+    "g_name": "おおが",
+    "g_rating": 4.2,
+    "g_reviews": 128,
+    "g_address": "日本、〒590-0954 大阪府堺市堺区大町東１丁２−７",
+    "lat": 34.5762383,
+    "lng": 135.4729485
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "名山 きみや",
+    "name_en": "Meizan Kimiya",
+    "area": "鹿児島県 鹿児島市",
+    "url": "https://tabelog.com/kagoshima/A4601/A460101/46010277/",
+    "rating": 3.96,
+    "review_count_tabelog": 60,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Sushi, Japanese Cuisine, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:30 - 15:00 19:00 - 22:00",
+        "dtl_text": "19:00 - 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 5,
+    "google_reviews": 7,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJE0yjZ79fPjURYhXLtgzidWA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/46010277-20c44fee11759e19bf788ba8586405d39cf2aa2632fab947ff6d12d64de53ead.jpg",
+    "place_id": "ChIJE0yjZ79fPjURYhXLtgzidWA",
+    "g_name": "名山 きみや",
+    "g_rating": 5,
+    "g_reviews": 7,
+    "g_address": "10, 3f, ４-４ 名山町 鹿児島市 鹿児島県 892-0821 日本",
+    "lat": 31.5958789,
+    "lng": 130.5583313
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "鮨 木場谷",
+    "name_en": "Sushi Kibatani",
+    "area": "石川県 金沢市",
+    "url": "https://tabelog.com/ishikawa/A1701/A170101/17010062/",
+    "rating": 4.05,
+    "review_count_tabelog": 264,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 176,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJhxEPtHMz-F8RCreNgLh9xYU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/17010062-117cbc4177eed4701719cc2202e9c9b84cd78f0f3f1ba49bc8991c53de16567e.jpg",
+    "place_id": "ChIJhxEPtHMz-F8RCreNgLh9xYU",
+    "g_name": "鮨 木場谷",
+    "g_rating": 4.5,
+    "g_reviews": 176,
+    "g_address": "日本、〒920-0901 石川県金沢市彦三町１丁目８−２６",
+    "lat": 36.5727153,
+    "lng": 136.6619018
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "鮨 大門",
+    "name_en": "Sushi Daimon",
+    "area": "富山県 魚津市",
+    "url": "https://tabelog.com/toyama/A1602/A160202/16006504/",
+    "rating": 4.08,
+    "review_count_tabelog": 221,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.6,
+    "google_reviews": 157,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJkQMy_6el918Ru1LSdKpfBQk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/16006504-6d2ad49e35606808df4bad85345411510d717b5d8798cf9e78f84b4fe6bd051c.jpg",
+    "place_id": "ChIJkQMy_6el918Ru1LSdKpfBQk",
+    "g_name": "鮨大門",
+    "g_rating": 4.6,
+    "g_reviews": 157,
+    "g_address": "日本、〒937-0067 富山県魚津市釈迦堂１丁目２−３",
+    "lat": 36.8264934,
+    "lng": 137.4067565
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "鮨 Shizuku",
+    "name_en": "Sushi Shizuku",
+    "area": "大阪府 長堀橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270201/27093524/",
+    "rating": 4.04,
+    "review_count_tabelog": 315,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi, Seafood, Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 149,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6o-7RXnAGARp4S87unVIso",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/27093524-cf531b50372e52be9850504ac726465d569cb51c1fe2cea66095dea5d25bf2e1.jpg",
+    "place_id": "ChIJq6o-7RXnAGARp4S87unVIso",
+    "g_name": "鮨 Shizuku",
+    "g_rating": 4.3,
+    "g_reviews": 149,
+    "g_address": "日本、〒542-0083 大阪府大阪市中央区東心斎橋２丁目１−２７ 周防町ウィングス 1F",
+    "lat": 34.6718614,
+    "lng": 135.5057016
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "鮨 ひじり",
+    "name_en": "Sushi Hijiri",
+    "area": "大阪府 福島駅",
+    "url": "https://tabelog.com/osaka/A2701/A270108/27124287/",
+    "rating": 3.77,
+    "review_count_tabelog": 222,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Sushi, Seafood, Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "3 seating times": {}
+      },
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 102,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7ZvE7V3nAGARjLn63s9_L54",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/27124287-1beede32b57da7685900169f1ea47cc2e6afb70668e23387e3f3d7116d18afc6.jpg",
+    "place_id": "ChIJ7ZvE7V3nAGARjLn63s9_L54",
+    "g_name": "鮨ひじり",
+    "g_rating": 4.5,
+    "g_reviews": 102,
+    "g_address": "日本、〒530-0011 大阪府大阪市北区大深町５−５４ グラングリーン大阪 ショップアンドレストラン 南館1階",
+    "lat": 34.7017786,
+    "lng": 135.4914969
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "鮨匠 のむら",
+    "name_en": "Sushi Sho Nomura",
+    "area": "鹿児島県 鹿児島市",
+    "url": "https://tabelog.com/kagoshima/A4601/A460101/46000087/",
+    "rating": 4.38,
+    "review_count_tabelog": 304,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 82,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ-p15q9hPjURz7w1X1AHfyA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/46000087-3970c560b79ab5f8fbc117fedd799a41c293c7f0c284e8eced2fcf672831ef61.jpg",
+    "place_id": "ChIJQ-p15q9hPjURz7w1X1AHfyA",
+    "g_name": "鮨匠のむら",
+    "g_rating": 4.5,
+    "g_reviews": 82,
+    "g_address": "日本、〒892-0833 鹿児島県鹿児島市松原町6−２−１０８",
+    "lat": 31.5876572,
+    "lng": 130.5583816
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "喜一",
+    "name_en": "Kiichi",
+    "area": "兵庫県 芦屋（阪神）駅",
+    "url": "https://tabelog.com/hyogo/A2803/A280302/28040672/",
+    "rating": 3.79,
+    "review_count_tabelog": 161,
+    "price_dinner": "-",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Wed, Thu": {},
+        "Tue, Fri": {},
+        "Sat, Sun": {}
+      },
+      "closed_on": "Mondays"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 82,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ94RyBtHyAGARW7ENlQVAsfM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/28040672-b142b8a812a0e2486334c8ea413c7a55d18831034c79bc9222a8781ef0f6df46.jpg",
+    "place_id": "ChIJ94RyBtHyAGARW7ENlQVAsfM",
+    "g_name": "㐂一",
+    "g_rating": 4.5,
+    "g_reviews": 82,
+    "g_address": "日本、〒659-0066 兵庫県芦屋市大桝町５−８",
+    "lat": 34.72966359999999,
+    "lng": 135.3059847
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "松寿司",
+    "name_en": "Matsu Sushi",
+    "area": "大阪府 北畠駅",
+    "url": "https://tabelog.com/osaka/A2701/A270203/27015415/",
+    "rating": 3.96,
+    "review_count_tabelog": 278,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Sushi, Seafood, Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Wed - Sat": {},
+        "Tue": {}
+      },
+      "closed_on": "Sundays and Mondays"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 135,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJI-26Z8bdAGAREMvSsswsjkc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/27015415-da556c99744e7e8fa6a3b1ba82ae2e185119a2a69267171612e48c72fd902750.jpg",
+    "place_id": "ChIJI-26Z8bdAGAREMvSsswsjkc",
+    "g_name": "松寿司",
+    "g_rating": 4.6,
+    "g_reviews": 135,
+    "g_address": "日本、〒545-0023 大阪府大阪市阿倍野区王子町３丁目１３−６",
+    "lat": 34.6277343,
+    "lng": 135.5099824
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "鮨処 多田",
+    "name_en": "Sushi Dokoro Tada",
+    "area": "大阪府 北新地駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27003367/",
+    "rating": 3.93,
+    "review_count_tabelog": 302,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "-",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 02:00",
+        "dtl_text": "18:00 - 02:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 77,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJbUbgm-3mAGARCRPham4Bg98",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/27003367-48e79c7e05408012b32f9cb464945759ef994be406aa7183e1ebe07503459700.jpg",
+    "place_id": "ChIJbUbgm-3mAGARCRPham4Bg98",
+    "g_name": "鮨処 多田",
+    "g_rating": 4.5,
+    "g_reviews": 77,
+    "g_address": "日本、〒530-0002 大阪府大阪市北区曾根崎新地１丁目５−２６ 永楽リンデンビル 4F",
+    "lat": 34.697814,
+    "lng": 135.4977903
+  },
+  {
+    "category_jp": "寿司",
+    "category_en": "Sushi",
+    "region": "WEST",
+    "name": "赤吉",
+    "name_en": "Aka Kichi",
+    "area": "愛媛県 今治市",
+    "url": "https://tabelog.com/ehime/A3802/A380201/38005035/",
+    "rating": 4.28,
+    "review_count_tabelog": 120,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 117,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJO4UNQitMUDURwSR4L4Q_LY0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/sushi_west/38005035-d3ae478e7d2f7b43ecfe1f0839a166a7a8eb72ecd08cb3792d879e4939798a36.jpg",
+    "place_id": "ChIJO4UNQitMUDURwSR4L4Q_LY0",
+    "g_name": "赤吉",
+    "g_rating": 4.6,
+    "g_reviews": 117,
+    "g_address": "日本、〒794-2304 愛媛県今治市伯方町北浦甲１２０３-８",
+    "lat": 34.2307472,
+    "lng": 133.1010908
+  }
+]

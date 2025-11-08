@@ -1,0 +1,4528 @@
+[
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "さっぽろルーカレーNAGAMIYA",
+    "name_en": "Sapporo Rou Curry NAGAMIYA",
+    "area": "北海道 西１５丁目駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010102/1048553/",
+    "rating": 3.58,
+    "review_count_tabelog": 279,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Curry, Indian curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 14:00 17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open until sold out"
+    },
+    "google_rating": 3.9,
+    "google_reviews": 203,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVUmOJEpC18RvUnGo-Zhv-Q",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1048553-33b75cc567fef1bd59d78f42dadb4d60bb9f21529edd255c4447ec1ed147618a.jpg",
+    "place_id": "ChIJVVUmOJEpC18RvUnGo-Zhv-Q",
+    "g_name": "さっぽろルーカレーNAGAMIYA",
+    "g_rating": 3.9,
+    "g_reviews": 203,
+    "g_address": "日本、〒060-0061 北海道札幌市中央区南１条西１３丁目４−６２ ベストール南大通 １F",
+    "lat": 43.0573212,
+    "lng": 141.3369231
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "珊瑚礁 本店",
+    "name_en": "Sango Sho Hon Ten",
+    "area": "神奈川県 七里ケ浜駅",
+    "url": "https://tabelog.com/kanagawa/A1404/A140402/14000276/",
+    "rating": 3.59,
+    "review_count_tabelog": 1299,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Curry, Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "10:30 - 21:00 L.O. 20:00",
+        "dtl_text": "10:30 - 21:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (the following day if a holiday falls on Monday)"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 2539,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1e4ZQEBPGGARQJbTF5-YN90",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/14000276-b41bdccd5656489095340f163e1e4db1d0f93dbdbba6d58b3b2267627e902d26.jpg",
+    "place_id": "ChIJ1e4ZQEBPGGARQJbTF5-YN90",
+    "g_name": "モアナマカイ珊瑚礁",
+    "g_rating": 4.2,
+    "g_reviews": 2539,
+    "g_address": "日本、〒248-0026 神奈川県鎌倉市七里ガ浜１丁目３−２２",
+    "lat": 35.3057084,
+    "lng": 139.5089711
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "コスギカレー",
+    "name_en": "KOSUGI CURRY",
+    "area": "神奈川県 新丸子駅",
+    "url": "https://tabelog.com/kanagawa/A1405/A140504/14042207/",
+    "rating": 3.71,
+    "review_count_tabelog": 1153,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Bento (Lunch box)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 15:00 L.O. 14:30 17:30 - 21:00 L.O. 20:30",
+        "dtl_text": "17:30 - 21:00 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Day after public holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 415,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7bSxBWX1GGARiNZgB6ev-lM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/14042207-cd4e987c26ebe68ca245b4f9a6bc34d5ad21be31c62afc7e0c357d7468a34361.jpg",
+    "place_id": "ChIJ7bSxBWX1GGARiNZgB6ev-lM",
+    "g_name": "KOSUGI CURRY",
+    "g_rating": 4.1,
+    "g_reviews": 415,
+    "g_address": "日本、〒211-0004 神奈川県川崎市中原区新丸子東２丁目８９７番地１１ ラポール新丸子 １０２号室",
+    "lat": 35.5782666,
+    "lng": 139.6626458
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "ベンベラ・ネットワークカンパニー",
+    "name_en": "Bem Bera network company",
+    "area": "北海道 西８丁目駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010102/1000587/",
+    "rating": 3.68,
+    "review_count_tabelog": 495,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 17:30 - 20:30 L.O. 20:00",
+        "dtl_text": "17:30 - 20:30 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 230,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJG4DgM4UpC18RDhp8ICaZPBc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1000587-9a1d5a41b920f86a25fe2b320a6fe5d63a496d191076bd42123fa396e92c1155.jpg",
+    "place_id": "ChIJG4DgM4UpC18RDhp8ICaZPBc",
+    "g_name": "ベンベラネットワークカンパニー",
+    "g_rating": 4.3,
+    "g_reviews": 230,
+    "g_address": "日本、〒060-0062 北海道札幌市中央区南２条西７丁目 エムズスペース一",
+    "lat": 43.0568278,
+    "lng": 141.3480184
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "アジャンタ 総本家",
+    "name_en": "Ajanta Sohonke",
+    "area": "北海道 元町（札幌）駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010202/1006509/",
+    "rating": 3.62,
+    "review_count_tabelog": 300,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 402,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJz0IY1tIuC18RgXbjKorisFY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1006509-d6dc01e27398f7a82bb9bb8e44e1be74a31c09e581d950e41dbd58e54e6fdaa2.jpg",
+    "place_id": "ChIJz0IY1tIuC18RgXbjKorisFY",
+    "g_name": "薬膳カリィ本舗 アジャンタ 総本家",
+    "g_rating": 4.1,
+    "g_reviews": 402,
+    "g_address": "日本、〒065-0023 北海道札幌市東区北２３条東２０丁目２−１８",
+    "lat": 43.0942604,
+    "lng": 141.3823599
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "スパイス ポット 菊水本店",
+    "name_en": "Spice Pot Kikusuihonten",
+    "area": "北海道 菊水駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010301/1025000/",
+    "rating": 3.64,
+    "review_count_tabelog": 303,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 225,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJHdtFNmMpC18RG2bd1ZIwXt0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1025000-14d1db45248408a0d0d78612dd70c88cc82230427f2e0fea7f422b259a70fad4.jpg",
+    "place_id": "ChIJHdtFNmMpC18RG2bd1ZIwXt0",
+    "g_name": "【スープカレー】カリーキッチン スパイスポット！SPICE POT!",
+    "g_rating": 4.1,
+    "g_reviews": 225,
+    "g_address": "日本、〒003-0806 北海道札幌市白石区菊水６条１丁目６−１１",
+    "lat": 43.0618777,
+    "lng": 141.3762299
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "カラバトカリー",
+    "name_en": "Karabato Curry",
+    "area": "北海道 札幌市南区",
+    "url": "https://tabelog.com/hokkaido/A0101/A010305/1002186/",
+    "rating": 3.6,
+    "review_count_tabelog": 435,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Pakistani",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat",
+        "dtl": "11:30 - 17:00",
+        "dtl_text": "11:30 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 720,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_4Vi92PTCl8RR3f--1XqQZM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1002186-648fbc78faecf67430226409c9a695ef2f22f32e22859134af9e8f933e12d063.jpg",
+    "place_id": "ChIJ_4Vi92PTCl8RR3f--1XqQZM",
+    "g_name": "カラバトカリー",
+    "g_rating": 4.4,
+    "g_reviews": 720,
+    "g_address": "日本、〒061-2282 北海道札幌市南区藤野２条１２丁目６−１",
+    "lat": 42.9613974,
+    "lng": 141.2760479
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "カオスヘブン 札幌店",
+    "name_en": "Chaos Heaven Sapporo Ten",
+    "area": "北海道 豊水すすきの駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010103/1042039/",
+    "rating": 3.66,
+    "review_count_tabelog": 508,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 15:00 L.O. Food 14:30 17:00 - 21:00 L.O. Food 20:30",
+        "dtl_text": "17:00 - 21:00 L.O. Food 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.9,
+    "google_reviews": 479,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJy21IeYEpC18REotrxKeBDI4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1042039-2cc3b395bdf6721618a006a1f1d5ee1f8c9ef8a6ad855841f08b8e8fb619919c.jpg",
+    "place_id": "ChIJy21IeYEpC18REotrxKeBDI4",
+    "g_name": "カオスヘブン",
+    "g_rating": 3.9,
+    "g_reviews": 479,
+    "g_address": "日本、〒060-0055 北海道札幌市中央区南５条東２ １２−３ 2F",
+    "lat": 43.0563189,
+    "lng": 141.3597361
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "CURRY CLUB キュイエール",
+    "name_en": "Cuillere",
+    "area": "神奈川県 大船駅",
+    "url": "https://tabelog.com/kanagawa/A1404/A140401/14054482/",
+    "rating": 3.66,
+    "review_count_tabelog": 667,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Bistro",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:30 L.O. 15:00",
+        "dtl_text": "11:00 - 15:30 L.O. 15:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 435,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQCEH2FFGGARzeHKoRTLY-w",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/14054482-a011c2f907d86b6edb2c285dcbdf86325a7cc4f7b93569b86dae107dfc25cc45.jpg",
+    "place_id": "ChIJAQCEH2FFGGARzeHKoRTLY-w",
+    "g_name": "カレークラブ キュイエール",
+    "g_rating": 4.4,
+    "g_reviews": 435,
+    "g_address": "日本、〒247-0056 神奈川県鎌倉市大船１丁目１３−１１ 岡本ビル 1F B号室",
+    "lat": 35.3504802,
+    "lng": 139.5317947
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "SOUP CURRY KING セントラル",
+    "name_en": "SOUP CURRY KING Sentoraru",
+    "area": "北海道 狸小路駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010102/1055662/",
+    "rating": 3.69,
+    "review_count_tabelog": 761,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry, Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 15:30 L.O. 15:00 17:30 - 21:30 L.O. 21:00",
+        "dtl_text": "17:30 - 21:30 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 21:30 L.O. 21:00",
+        "dtl_text": "11:30 - 21:30 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "We sincerely look forward to welcoming you all to our restaurant!"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 1735,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJk5D2Z4MpC18RPAvy2fbPqJw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1055662-9b7eff65c9c9aac193c8f25535672c8e7fa3d2288974ca8eb8da91e4e36f24ef.jpg",
+    "place_id": "ChIJk5D2Z4MpC18RPAvy2fbPqJw",
+    "g_name": "SOUP CURRY KING セントラル店",
+    "g_rating": 4.5,
+    "g_reviews": 1735,
+    "g_address": "日本、〒060-0062 北海道札幌市中央区南２条西３丁目１３−４ カタオカビルB1",
+    "lat": 43.0580822,
+    "lng": 141.3535597
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "デリー 札幌店",
+    "name_en": "DELHI Sapporo Ten",
+    "area": "北海道 狸小路駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010103/1006116/",
+    "rating": 3.63,
+    "review_count_tabelog": 287,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Indian curry, Soup Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 17:30 - 19:00",
+        "dtl_text": "17:30 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 151,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJB8B3sIMpC18R-MeA0ZmuLRk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1006116-742f7a51a823381607428e13dd28a4d871414040dd37df67c0d7115b4de1956f.jpg",
+    "place_id": "ChIJB8B3sIMpC18R-MeA0ZmuLRk",
+    "g_name": "デリー",
+    "g_rating": 4.2,
+    "g_reviews": 151,
+    "g_address": "日本、〒060-0063 北海道札幌市中央区南３条西１丁目１２ 狸小路 1丁目南側",
+    "lat": 43.0578218,
+    "lng": 141.357465
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "アジョワン",
+    "name_en": "Ajowan",
+    "area": "神奈川県 センター北駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140203/14000168/",
+    "rating": 3.61,
+    "review_count_tabelog": 472,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Indian curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 L.O. 14:30 17:30 - 21:00",
+        "dtl_text": "17:30 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Third Thursday of the month (please feel free to contact us for any changes due to holidays or other circumstances)."
+    },
+    "google_rating": 3.9,
+    "google_reviews": 203,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6bV-ODj2GGARu9l8N8F46Lw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/14000168-da54ea83c93e0af72d89c20b6d59d5d4d38775450ada242327748ae43f7236df.jpg",
+    "place_id": "ChIJ6bV-ODj2GGARu9l8N8F46Lw",
+    "g_name": "アジョワン",
+    "g_rating": 3.9,
+    "g_reviews": 203,
+    "g_address": "日本、〒224-0003 神奈川県横浜市都筑区中川中央１丁目２８−２１ リヴウェル",
+    "lat": 35.5544889,
+    "lng": 139.5801488
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "カリーハウス コロンボ",
+    "name_en": "Curry House Colombo",
+    "area": "北海道 さっぽろ（札幌市営）駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010101/1004447/",
+    "rating": 3.68,
+    "review_count_tabelog": 1322,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 20:30",
+        "dtl_text": "11:00 - 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 19:00",
+        "dtl_text": "11:00 - 19:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The fourth Sunday of each month."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 1548,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJceGfZHUpC18RdusAfEYhGpM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1004447-97736386b58c759dd9c6815b0bd3fb0275efd44b1e7e405b55d0bf8f8ad2a36b.jpg",
+    "place_id": "ChIJceGfZHUpC18RdusAfEYhGpM",
+    "g_name": "カリーハウス コロンボ",
+    "g_rating": 4.3,
+    "g_reviews": 1548,
+    "g_address": "日本、〒060-0004 北海道札幌市中央区北４条西４丁目１ 札幌国際ビル B1F",
+    "lat": 43.0660561,
+    "lng": 141.3502168
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "ピカンティ 札幌駅前店",
+    "name_en": "Picante Sapporoekimaeten",
+    "area": "北海道 さっぽろ（札幌市営）駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010101/1025001/",
+    "rating": 3.6,
+    "review_count_tabelog": 636,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 16:00 L.O. 15:30",
+        "dtl_text": "11:00 - 16:00 L.O. 15:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.7,
+    "google_reviews": 755,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQBfFHYpC18RzhODMi8OfKE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1025001-d6bc1bdcbf22d08a7f966412c5f21c1aadb265287519584d11d2b30daff7b59a.jpg",
+    "place_id": "ChIJAQBfFHYpC18RzhODMi8OfKE",
+    "g_name": "ピカンティ 札幌駅前店",
+    "g_rating": 3.7,
+    "g_reviews": 755,
+    "g_address": "日本、〒060-0002 北海道札幌市中央区北２条西１丁目８番地４ 青山ビル",
+    "lat": 43.0639898,
+    "lng": 141.3546479
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "唯我独尊",
+    "name_en": "Yuiga Dokuson",
+    "area": "北海道 富良野市",
+    "url": "https://tabelog.com/hokkaido/A0104/A010403/1000063/",
+    "rating": 3.62,
+    "review_count_tabelog": 1348,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Curry, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 21:00 L.O. 20:30",
+        "dtl_text": "11:00 - 21:00 L.O. 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 2585,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJHQMlUW9Nc18RsMfqn_MK3WY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1000063-de551a0df28b257d67001a3aa7c90c88670a9bc678769d4118a07fbd1bf064b8.jpg",
+    "place_id": "ChIJHQMlUW9Nc18RsMfqn_MK3WY",
+    "g_name": "唯我独尊",
+    "g_rating": 4.1,
+    "g_reviews": 2585,
+    "g_address": "日本、〒076-0025 北海道富良野市日の出町１１−８",
+    "lat": 43.344792,
+    "lng": 142.3894602
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "gii",
+    "name_en": "gii",
+    "area": "埼玉県 大和田駅",
+    "url": "https://tabelog.com/saitama/A1101/A110103/11003352/",
+    "rating": 3.63,
+    "review_count_tabelog": 596,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 21:30 L.O. 21:20",
+        "dtl_text": "11:30 - 21:30 L.O. 21:20"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round (except for Year-end & New Year Holidays)"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 988,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAwCzEtfAGGAR3POV9BRHhN8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/11003352-71ed07e2dc6945adfee7796255d50f75228d9f2d2dd8d77c4054aa195a834791.jpg",
+    "place_id": "ChIJAwCzEtfAGGAR3POV9BRHhN8",
+    "g_name": "欧風カレー・ギー",
+    "g_rating": 4.2,
+    "g_reviews": 988,
+    "g_address": "日本、〒337-0053 埼玉県さいたま市見沼区大和田町１丁目１５２７−１",
+    "lat": 35.9260635,
+    "lng": 139.6536407
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "マジックスパイス 札幌本店",
+    "name_en": "Magic Spice Sapporo Honten",
+    "area": "北海道 南郷７丁目駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010301/1000163/",
+    "rating": 3.6,
+    "review_count_tabelog": 708,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry, Indonesian, Creative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri",
+        "dtl": "11:00 - 15:00 17:30 - 22:00",
+        "dtl_text": "17:30 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 22:00",
+        "dtl_text": "11:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 1025,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJg4Fpd50pC18R5whoyz0rEPQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1000163-4f4e5e666421cfd864458a6ee1427884e1fd01c4a0d952adf0d4e43a99482ba6.jpg",
+    "place_id": "ChIJg4Fpd50pC18R5whoyz0rEPQ",
+    "g_name": "マジックスパイス 札幌本店",
+    "g_rating": 4.2,
+    "g_reviews": 1025,
+    "g_address": "日本、〒003-0024 北海道札幌市白石区本郷通８丁目南６−２",
+    "lat": 43.0409629,
+    "lng": 141.4135328
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "negombo33",
+    "name_en": "negombo33",
+    "area": "埼玉県 西所沢駅",
+    "url": "https://tabelog.com/saitama/A1106/A110601/11015014/",
+    "rating": 3.84,
+    "review_count_tabelog": 563,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Indian curry, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 15:00",
+        "dtl_text": "11:30 - 15:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.9,
+    "google_reviews": 234,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJo5vlrPbdGGARGlq8wu9TfrU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/11015014-dcfbe2b7711b06b25de711b8d33113e3e649a0f6afac3fde5340998113ff6217.jpg",
+    "place_id": "ChIJo5vlrPbdGGARGlq8wu9TfrU",
+    "g_name": "negombo33",
+    "g_rating": 3.9,
+    "g_reviews": 234,
+    "g_address": "日本、〒359-1127 埼玉県所沢市星の宮１丁目９−１ 星の宮ハイム",
+    "lat": 35.7874867,
+    "lng": 139.4614013
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "ピカンティ",
+    "name_en": "Picante",
+    "area": "北海道 北１２条駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010201/1000060/",
+    "rating": 3.66,
+    "review_count_tabelog": 1003,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 20:00",
+        "dtl_text": "11:30 - 20:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 1461,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJE57Gvw8pC18RkxCaVyqyZVU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1000060-268b73fbcbbd194683c340c93b80b41597d43ad274dbf0a61d4af1e17bc1f1e8.jpg",
+    "place_id": "ChIJE57Gvw8pC18RkxCaVyqyZVU",
+    "g_name": "ピカンティ 本店",
+    "g_rating": 4.3,
+    "g_reviews": 1461,
+    "g_address": "日本、〒001-0013 北海道札幌市北区北１３条西３丁目２−２３ アクロビュー北大前 1F ＡＣＲＯ ＶＩＥＷ ＨＯＫＵＤＡＩＭＡＥ",
+    "lat": 43.0769597,
+    "lng": 141.3486414
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "カレー リーブス",
+    "name_en": "curry leaves",
+    "area": "北海道 札幌市豊平区",
+    "url": "https://tabelog.com/hokkaido/A0101/A010303/1000687/",
+    "rating": 3.62,
+    "review_count_tabelog": 197,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 18:00",
+        "dtl_text": "11:00 - 18:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 213,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVU9h2ZEqC18Rd-DmsCGK-gs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1000687-65e015f67611813566886c5adb715e1d5085147159d3908228fa301bd5b13676.jpg",
+    "place_id": "ChIJVU9h2ZEqC18Rd-DmsCGK-gs",
+    "g_name": "カレーリーブス",
+    "g_rating": 4.1,
+    "g_reviews": 213,
+    "g_address": "日本、〒062-0034 北海道札幌市豊平区西岡４条７丁目７−１０",
+    "lat": 43.0101135,
+    "lng": 141.3873777
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "エイト カリィ",
+    "name_en": "E-itou curry",
+    "area": "北海道 中の島駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010303/1052435/",
+    "rating": 3.59,
+    "review_count_tabelog": 329,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Indian curry, Organic",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "10:00 - 15:00 17:00 - 21:30",
+        "dtl_text": "17:00 - 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "10:00 - 21:30",
+        "dtl_text": "10:00 - 21:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 387,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__9kFzsqC18RqEXefbZ1zy8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1052435-811df5d04cef4a59b61171c45422b7ba4f8e1385322da3bc63f2dcaa85855276.jpg",
+    "place_id": "ChIJ__9kFzsqC18RqEXefbZ1zy8",
+    "g_name": "エイトカリィ平岸本店",
+    "g_rating": 4.1,
+    "g_reviews": 387,
+    "g_address": "日本、〒062-0931 北海道札幌市豊平区平岸１条２丁目７−３３ ミネルバ平岸",
+    "lat": 43.04116339999999,
+    "lng": 141.3638283
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "SAKURA BROWN",
+    "name_en": "SAKURA BROWN",
+    "area": "北海道 琴似（札幌市営）駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010204/1044404/",
+    "rating": 3.61,
+    "review_count_tabelog": 205,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry, Bar, Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "We may also close if we run out of soup."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 167,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJq1If5EsoC18RQ0opQtcX0d0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1044404-06e76d7a102a5dc1fe0331c0ed602dce6d6ceae14be7990f8ef727959111e67c.jpg",
+    "place_id": "ChIJq1If5EsoC18RQ0opQtcX0d0",
+    "g_name": "SAKURA BROWN",
+    "g_rating": 4.2,
+    "g_reviews": 167,
+    "g_address": "日本、〒063-0811 北海道札幌市西区琴似１条５丁目４−１０ シティ・ラ・デファンス 2階",
+    "lat": 43.0754616,
+    "lng": 141.3034443
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "Curry House MUMBAI 松戸店",
+    "name_en": "Curry House MUMBAI Matsudo Ten",
+    "area": "千葉県 松戸駅",
+    "url": "https://tabelog.com/chiba/A1203/A120302/12034462/",
+    "rating": 3.67,
+    "review_count_tabelog": 542,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Curry, Indian curry, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Until December 31, 2024, we will be open until 15:00. Regular operations will resume from January 2, 2025."
+    },
+    "google_rating": 4.1,
+    "google_reviews": 410,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJUU0dBfuEGGARpUSIQvcz10I",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/12034462-c343bbdf35c8962bda4754544d7bf28fc05c471b29f3d72c7ed284d1aeccabfc.jpg",
+    "place_id": "ChIJUU0dBfuEGGARpUSIQvcz10I",
+    "g_name": "カレーハウスムンバイ松戸店",
+    "g_rating": 4.1,
+    "g_reviews": 410,
+    "g_address": "日本、〒271-0092 千葉県松戸市松戸１１５０",
+    "lat": 35.7848922,
+    "lng": 139.9029456
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "オクシモロン コマチ",
+    "name_en": "OXYMORON komachi Komachi",
+    "area": "神奈川県 鎌倉駅",
+    "url": "https://tabelog.com/kanagawa/A1404/A140402/14014612/",
+    "rating": 3.67,
+    "review_count_tabelog": 1177,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 18:00 L.O. 17:30",
+        "dtl_text": "11:00 - 18:00 L.O. 17:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 520,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJC2VH2sBFGGARhBArszCoZVE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/14014612-0acd1ed4f8bbc732f1509d698c7d3c0cfc307077fbc783d865a6ff2b9347368c.jpg",
+    "place_id": "ChIJC2VH2sBFGGARhBArszCoZVE",
+    "g_name": "OXYMORON komachi",
+    "g_rating": 4.3,
+    "g_reviews": 520,
+    "g_address": "日本、〒248-0005 神奈川県鎌倉市雪ノ下１丁目５−３８ こもれび禄岸 2F",
+    "lat": 35.3227432,
+    "lng": 139.5525966
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "カレー専門店cafe New Delhi",
+    "name_en": "Curry Senmon Ten cafe New Delhi",
+    "area": "愛知県 岩塚駅",
+    "url": "https://tabelog.com/aichi/A2301/A230113/23007998/",
+    "rating": 3.59,
+    "review_count_tabelog": 450,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Indian curry, Indian, Soup Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 L.O. 14:30 17:00 - 22:00 L.O. 21:30",
+        "dtl_text": "17:00 - 22:00 L.O. 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 152,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJsyaxtkZ2A2ARa2L4Pcl2_Hg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/23007998-a582bbb8896a404b2d9b252f8e9d533013973e42a8d12a73dd88fea96b8d1ec0.jpg",
+    "place_id": "ChIJsyaxtkZ2A2ARa2L4Pcl2_Hg",
+    "g_name": "ニューデリー",
+    "g_rating": 4,
+    "g_reviews": 152,
+    "g_address": "日本、〒453-0838 愛知県名古屋市中村区向島町４丁目２４−９",
+    "lat": 35.16132350000001,
+    "lng": 136.8486132
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "サッポロスープカレーディップ",
+    "name_en": "sapporo soup curry dip",
+    "area": "北海道 北３４条駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010201/1055946/",
+    "rating": 3.56,
+    "review_count_tabelog": 162,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 17:30 - 21:00",
+        "dtl_text": "17:30 - 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (most often on Wednesdays)"
+    },
+    "google_rating": 3.8,
+    "google_reviews": 116,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJFcu5St0oC18RJke_edPhL0Y",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1055946-f330d19f10c0ca5696aa55c5e075cc35a1a92952e751c6b6e35827cc3e287d6c.jpg",
+    "place_id": "ChIJFcu5St0oC18RJke_edPhL0Y",
+    "g_name": "sapporo soup curry dip",
+    "g_rating": 3.8,
+    "g_reviews": 116,
+    "g_address": "日本、〒001-0029 北海道札幌市北区北２９条西４丁目２−１ ファミール札幌 １１０号室",
+    "lat": 43.096216,
+    "lng": 141.3421975
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "こうひいはうす",
+    "name_en": "Coffee House",
+    "area": "北海道 ロープウェイ入口駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010104/1002169/",
+    "rating": 3.66,
+    "review_count_tabelog": 365,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Soup Curry, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 20:00",
+        "dtl_text": "11:30 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 286,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ64Ji-AUqC18RWkLqHa9GqMg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1002169-79e45e0a53b49cbd18dfd04d92ab36045cef61cd1a8dc5aaafae0eb511bc788e.jpg",
+    "place_id": "ChIJ64Ji-AUqC18RWkLqHa9GqMg",
+    "g_name": "こうひいはうす",
+    "g_rating": 4.3,
+    "g_reviews": 286,
+    "g_address": "日本、〒064-0920 北海道札幌市中央区南２０条西１５丁目２−３ 伏見コーポ",
+    "lat": 43.0322147,
+    "lng": 141.337241
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "ルッカパイパイ",
+    "name_en": "LOOK-Ka PyPy",
+    "area": "北海道 平岸（札幌市営）駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010303/1000683/",
+    "rating": 3.6,
+    "review_count_tabelog": 191,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Sat, Sun",
+        "dtl": "11:30 - 15:00 L.O. 14:30 17:30 - 21:00 L.O. 20:30",
+        "dtl_text": "17:30 - 21:00 L.O. 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu, Fri",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 124,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJnaDhuDgqC18RPGtH5fPek5M",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1000683-d1ac7cbf2dbf69a52c863d061c548ace789340c42acedd1318c3cfe44cc5234b.jpg",
+    "place_id": "ChIJnaDhuDgqC18RPGtH5fPek5M",
+    "g_name": "ルッカパイパイ (look ka pypy)",
+    "g_rating": 4,
+    "g_reviews": 124,
+    "g_address": "日本、〒062-0933 北海道札幌市豊平区平岸３条６丁目６−２０ 若葉マンション",
+    "lat": 43.035847,
+    "lng": 141.3702536
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "メディスンマン",
+    "name_en": "MEDICINEMAN",
+    "area": "北海道 中島公園通駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010104/1003072/",
+    "rating": 3.7,
+    "review_count_tabelog": 970,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri",
+        "dtl": "11:30 - 15:30 L.O. 15:00 17:00 - 21:30 L.O. 21:00",
+        "dtl_text": "17:00 - 21:30 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 21:00 L.O. 20:30",
+        "dtl_text": "11:30 - 21:00 L.O. 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 637,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJTX4D5h8qC18RD6iOmDmKOQY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1003072-3d81eec9567f5bc6bd1f6be9277d64a5331fead874df5b0572c10a9b484f40ff.jpg",
+    "place_id": "ChIJTX4D5h8qC18RD6iOmDmKOQY",
+    "g_name": "メディスンマン",
+    "g_rating": 4.4,
+    "g_reviews": 637,
+    "g_address": "日本、〒064-0912 北海道札幌市中央区南１２条西１０丁目１−１８ グットビル 1F",
+    "lat": 43.0443693,
+    "lng": 141.3435482
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "一文字カリー店",
+    "name_en": "Ichimonji Curry Ten",
+    "area": "北海道 南郷１８丁目駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010301/1024063/",
+    "rating": 3.87,
+    "review_count_tabelog": 1006,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat",
+        "dtl": "11:00 - 14:30 17:30 - 20:00",
+        "dtl_text": "17:30 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.5,
+    "google_reviews": 502,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJU2fHCwsrC18RAehBLiEwRHI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1024063-b9771c489bb7dff8ec7624bc5f8980b5c0b76e353f4cdd8c033bcc005b99b9be.jpg",
+    "place_id": "ChIJU2fHCwsrC18RAehBLiEwRHI",
+    "g_name": "一文字咖喱店",
+    "g_rating": 3.5,
+    "g_reviews": 502,
+    "g_address": "日本、〒003-0026 北海道札幌市白石区本通１７丁目南２−４ ストーンヒル本通１７",
+    "lat": 43.0353,
+    "lng": 141.4327489
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "ハイ，ハウ アー ユー",
+    "name_en": "Hi, How Are You",
+    "area": "神奈川県 日吉駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140204/14040637/",
+    "rating": 3.69,
+    "review_count_tabelog": 874,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 20:30",
+        "dtl_text": "11:30 - 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "11:30 - 16:00",
+        "dtl_text": "11:30 - 16:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The restaurant may be open on Mondays in certain cases, such as holidays. Please check our website for updates."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 435,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJf9lIJHdfGGARa_vXFzozcPc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/14040637-3f01fde52b5b2eac1bacc70ab9ab809fbc73f43b02b4c32949469dee4f36df2c.jpg",
+    "place_id": "ChIJf9lIJHdfGGARa_vXFzozcPc",
+    "g_name": "ハイ,ハウ アー ユー",
+    "g_rating": 4.4,
+    "g_reviews": 435,
+    "g_address": "日本、〒223-0062 神奈川県横浜市港北区日吉本町１丁目２１−５",
+    "lat": 35.5532333,
+    "lng": 139.6460111
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "札幌スープカレー専門店エスパーイトウ 八軒総本店",
+    "name_en": "Sapporo Soup Curry Senmon Ten Esper Ito Hachikensohonten",
+    "area": "北海道 八軒駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010204/1009667/",
+    "rating": 3.56,
+    "review_count_tabelog": 356,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry, Cafe, Vegetable dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:00 - 15:30 L.O. Food 15:00 17:00 - 21:30 L.O. Food 21:00",
+        "dtl_text": "17:00 - 21:30 L.O. Food 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round (Please note that we may close for year-end and New Year holidays (Dec 31 - Jan 2) and for equipment maintenance or internal meetings. For updates, please check our social media.)"
+    },
+    "google_rating": 4,
+    "google_reviews": 707,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ01-eelgoC18Rllu8OEHmaJ8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1009667-65ad2b2617d198191e73254f27dc53f03343b613cd8fb9b429d5e32f9107e723.jpg",
+    "place_id": "ChIJ01-eelgoC18Rllu8OEHmaJ8",
+    "g_name": "札幌スープカレー専門店エスパーイトウ八軒総本店",
+    "g_rating": 4,
+    "g_reviews": 707,
+    "g_address": "日本、〒063-0845 北海道札幌市西区 八軒五条西1丁目2-32 パレスチャギヒラ1F",
+    "lat": 43.0873415,
+    "lng": 141.3142237
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "天竺 札幌清田本店",
+    "name_en": "Tenjiku Sapporo Kiyota Honten",
+    "area": "北海道 札幌市清田区",
+    "url": "https://tabelog.com/hokkaido/A0101/A010304/1039442/",
+    "rating": 3.58,
+    "review_count_tabelog": 320,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry, Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "11:00 - 15:00 L.O. 14:00",
+        "dtl_text": "11:00 - 15:00 L.O. 14:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri",
+        "dtl": "11:00 - 15:00 L.O. 14:30 17:00 - 20:00 L.O. 20:00",
+        "dtl_text": "17:00 - 20:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 20:00 L.O. 20:00",
+        "dtl_text": "11:00 - 20:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.8,
+    "google_reviews": 402,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-U8c6S3VdF8RyO3YuVeJ9xw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1039442-60f738db2f39b8bdcde8db17c1dbc0f15f891529e3151f7a63efa19660ca79a6.jpg",
+    "place_id": "ChIJ-U8c6S3VdF8RyO3YuVeJ9xw",
+    "g_name": "天竺清田店",
+    "g_rating": 3.8,
+    "g_reviews": 402,
+    "g_address": "日本、〒004-0871 北海道札幌市清田区平岡１条１丁目７−１ 長岡ビル",
+    "lat": 42.9968947,
+    "lng": 141.442877
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "タンドゥール",
+    "name_en": "Tandoor",
+    "area": "愛知県 近鉄名古屋駅",
+    "url": "https://tabelog.com/aichi/A2301/A230101/23000920/",
+    "rating": 3.64,
+    "review_count_tabelog": 887,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Indian curry, Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 20:00",
+        "dtl_text": "11:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.9,
+    "google_reviews": 453,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJFzn4mt52A2AR9b_8YS9Iqgs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/23000920-d0faeeb33d6517b127988edb6665caf9598b25a42db2bd0439dcbe54210f9df4.jpg",
+    "place_id": "ChIJFzn4mt52A2AR9b_8YS9Iqgs",
+    "g_name": "タンドゥール",
+    "g_rating": 3.9,
+    "g_reviews": 453,
+    "g_address": "日本、〒450-0002 愛知県名古屋市中村区名駅４丁目９−１０ ミヤコ 地下街",
+    "lat": 35.1685646,
+    "lng": 136.8858793
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "カンクーン",
+    "name_en": "CAN CUN",
+    "area": "北海道 バスセンター前駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010102/1062792/",
+    "rating": 3.57,
+    "review_count_tabelog": 147,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "11:30 - 14:45",
+        "dtl_text": "11:30 - 14:45",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:45 17:00 - 19:45",
+        "dtl_text": "17:00 - 19:45",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 232,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ69VYM5spC18RpN_9Cy7ht3A",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1062792-0b19ebfe8e23430890571b9a87ebcfbf7373f5651caca0c79013793a4025514a.jpg",
+    "place_id": "ChIJ69VYM5spC18RpN_9Cy7ht3A",
+    "g_name": "スープカレー カンクーン",
+    "g_rating": 4.3,
+    "g_reviews": 232,
+    "g_address": "日本、〒060-0052 北海道札幌市中央区南２条東６丁目５ １Ｆ",
+    "lat": 43.0605196,
+    "lng": 141.3648471
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "木多郎 澄川本店",
+    "name_en": "Kitaro Sumikawa Honten",
+    "area": "北海道 澄川駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010305/1000174/",
+    "rating": 3.65,
+    "review_count_tabelog": 296,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri",
+        "dtl": "11:30 - 14:00 L.O. 13:30 17:30 - 20:00 L.O. 19:30",
+        "dtl_text": "17:30 - 20:00 L.O. 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Sat",
+        "dtl": "11:30 - 14:00 L.O. 13:30",
+        "dtl_text": "11:30 - 14:00 L.O. 13:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Second Saturday and public holidays that create a long weekend (open on public holidays that fall on weekdays)"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 303,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJg7uSOIYqC18RWDGvIjKWUtY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1000174-c295c68fe24b5d76469037fa3e37bf8a59e1c79b53b6a36997d8ca17318439c3.jpg",
+    "place_id": "ChIJg7uSOIYqC18RWDGvIjKWUtY",
+    "g_name": "木多郎 澄川本店",
+    "g_rating": 4.4,
+    "g_reviews": 303,
+    "g_address": "日本、〒005-0006 北海道札幌市南区澄川６条４丁目２−１",
+    "lat": 43.0123129,
+    "lng": 141.3750347
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "らっきょ＆Star",
+    "name_en": "Rakkyo & Star",
+    "area": "神奈川県 綱島駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140204/14009431/",
+    "rating": 3.7,
+    "review_count_tabelog": 1258,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry, Cafe, Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 15:00 17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 21:00",
+        "dtl_text": "11:30 - 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Second Wednesday of each month (also closed from December 28 to January 3 for the year-end and New Year holidays)."
+    },
+    "google_rating": 4.1,
+    "google_reviews": 646,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6TGD8RNfGGARcsIHd7jePFU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/14009431-71a557486aa8735e473b36886307a7b75a18737d3e65f78dca010bbfc7a48715.jpg",
+    "place_id": "ChIJ6TGD8RNfGGARcsIHd7jePFU",
+    "g_name": "らっきょ&Star",
+    "g_rating": 4.1,
+    "g_reviews": 646,
+    "g_address": "日本、〒223-0053 神奈川県横浜市港北区綱島西１丁目２−９ ゴールデンパーク １階",
+    "lat": 35.537938,
+    "lng": 139.6353753
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "欧風カレーKEN",
+    "name_en": "European Curry KEN",
+    "area": "北海道 北１３条東駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010202/1041827/",
+    "rating": 3.64,
+    "review_count_tabelog": 505,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Hamburger steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 15:30 L.O. 15:00 17:30 - 21:00 L.O. 20:30",
+        "dtl_text": "17:30 - 21:00 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 21:00 L.O. 20:30",
+        "dtl_text": "11:30 - 21:00 L.O. 20:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 440,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJuSWelBApC18R0UvxrEsx72A",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1041827-bddd792db59896034c506fcbd081c68e0a42e269ab47bf6ea30fef5dd12605a5.jpg",
+    "place_id": "ChIJuSWelBApC18R0UvxrEsx72A",
+    "g_name": "欧風カレーKEN",
+    "g_rating": 4.1,
+    "g_reviews": 440,
+    "g_address": "日本、〒065-0015 北海道札幌市東区北１５条東１丁目２−１７",
+    "lat": 43.0792647,
+    "lng": 141.3541312
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "スパイス・ツリー",
+    "name_en": "spice tree",
+    "area": "神奈川県 逗子駅",
+    "url": "https://tabelog.com/kanagawa/A1406/A140602/14053565/",
+    "rating": 3.67,
+    "review_count_tabelog": 481,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 15:00 L.O. 14:30",
+        "dtl_text": "12:00 - 15:00 L.O. 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Other irregular holidays; please visit our website for more information."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 226,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJT9nEyoxGGGARggKPwo_BlGI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/14053565-ce6f9f507d55fc06c96f6cdb74e8c9221555f244b1d937641b14e6435c84951d.jpg",
+    "place_id": "ChIJT9nEyoxGGGARggKPwo_BlGI",
+    "g_name": "spice tree",
+    "g_rating": 4.2,
+    "g_reviews": 226,
+    "g_address": "日本、〒249-0006 神奈川県逗子市逗子７丁目６−２５",
+    "lat": 35.2968335,
+    "lng": 139.5752154
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "カレー オハナ",
+    "name_en": "CURRY ’OHANA",
+    "area": "北海道 新道東駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010202/1003356/",
+    "rating": 3.55,
+    "review_count_tabelog": 266,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Soup Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 17:30 - 21:00",
+        "dtl_text": "17:30 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "11:30 - 15:00",
+        "dtl_text": "11:30 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 157,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJlYWt8bspC18RaWzgSWrCYwU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1003356-c948c8549f362df06d965cfde4c4046e04fc9801c420b6420fa50d8cba9db71f.jpg",
+    "place_id": "ChIJlYWt8bspC18RaWzgSWrCYwU",
+    "g_name": "CURRY ’OHANA",
+    "g_rating": 4.2,
+    "g_reviews": 157,
+    "g_address": "日本、〒065-0032 北海道東区北３２条東１２丁目１−１３ パシフィック３２",
+    "lat": 43.1018259,
+    "lng": 141.3638713
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "スープカリー スアゲ プラス",
+    "name_en": "soup curry Suage+",
+    "area": "北海道 すすきの（市電）駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010103/1006004/",
+    "rating": 3.69,
+    "review_count_tabelog": 2108,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu",
+        "dtl": "11:30 - 20:30 L.O. 20:00",
+        "dtl_text": "11:30 - 20:30 L.O. 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Fri",
+        "dtl": "11:30 - 21:00 L.O. 20:30",
+        "dtl_text": "11:30 - 21:00 L.O. 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 21:00 L.O. 20:30",
+        "dtl_text": "11:00 - 21:00 L.O. 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 5209,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJv0HGVIQpC18Rc2m8zsIZwJE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1006004-bf72f158f49b69d7da0f6dc2daf8d67e5a7bff233e8cb4fe47192ae6a26d89dc.jpg",
+    "place_id": "ChIJv0HGVIQpC18Rc2m8zsIZwJE",
+    "g_name": "Suage+",
+    "g_rating": 4.3,
+    "g_reviews": 5209,
+    "g_address": "日本、〒064-0804 北海道札幌市中央区南４条西５丁目６−１ 都志松ビル ２階",
+    "lat": 43.0557369,
+    "lng": 141.3512699
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "スープカリー ヒリヒリ2号",
+    "name_en": "Soup Curry Hirihiri 2 Go",
+    "area": "北海道 さっぽろ（札幌市営）駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010101/1004285/",
+    "rating": 3.63,
+    "review_count_tabelog": 976,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry, Curry, Dining bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday",
+        "dtl": "11:30 - 21:30 L.O. 21:00",
+        "dtl_text": "11:30 - 21:30 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round, except for December 31 and January 1 for New Year holidays. Regular business hours resume from January 2."
+    },
+    "google_rating": 4.1,
+    "google_reviews": 885,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJEzD5BaApC18RnefgUbrxjDw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1004285-1339debc1fce400738e3eb12725b81464b245db473cd5ba354f497192bd79f6d.jpg",
+    "place_id": "ChIJEzD5BaApC18RnefgUbrxjDw",
+    "g_name": "スープカレーヒリヒリ2号 Hirihiri curry soup",
+    "g_rating": 4.1,
+    "g_reviews": 885,
+    "g_address": "日本、〒060-0005 北海道札幌市北区北６条西６丁目 WEST6",
+    "lat": 43.0674119,
+    "lng": 141.3458646
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "札幌スープカリー アナンダ",
+    "name_en": "Sapporo Soup Curry Ananda",
+    "area": "神奈川県 横浜駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140102/14010851/",
+    "rating": 3.61,
+    "review_count_tabelog": 565,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry, Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 15:00 L.O. 14:30 18:00 - 21:00 L.O. 20:30",
+        "dtl_text": "18:00 - 21:00 L.O. 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 21:00 L.O. 20:30",
+        "dtl_text": "11:30 - 21:00 L.O. 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round (except for year-end & New Year holidays and designated days)."
+    },
+    "google_rating": 3.8,
+    "google_reviews": 322,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJq9xBQW1cGGARIsMI97fu_uk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/14010851-38352d2dd290ee6a90d2c4db299e7e60507c81d54980a2957ff3213b99f35f5c.jpg",
+    "place_id": "ChIJq9xBQW1cGGARIsMI97fu_uk",
+    "g_name": "札幌スープカリー アナンダ",
+    "g_rating": 3.8,
+    "g_reviews": 322,
+    "g_address": "日本、〒220-0023 神奈川県横浜市西区平沼１丁目３８−２ 咲久良ビル M2F",
+    "lat": 35.461337,
+    "lng": 139.6207357
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "西屯田通りスープカレー本舗",
+    "name_en": "Nishitonden Dori Soup Curry Honpo",
+    "area": "北海道 西線９条旭山公園通駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010104/1007981/",
+    "rating": 3.61,
+    "review_count_tabelog": 269,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 23:00",
+        "dtl_text": "11:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 1735,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJk5D2Z4MpC18RPAvy2fbPqJw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1007981-e1447daaf10f37bdbaf9fbd2817e8b92b3ffee0b0c1cb70270bed1f469760bdc.jpg",
+    "place_id": "ChIJk5D2Z4MpC18RPAvy2fbPqJw",
+    "g_name": "SOUP CURRY KING セントラル店",
+    "g_rating": 4.5,
+    "g_reviews": 1735,
+    "g_address": "日本、〒060-0062 北海道札幌市中央区南２条西３丁目１３−４ カタオカビルB1",
+    "lat": 43.0580822,
+    "lng": 141.3535597
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "五○堂",
+    "name_en": "Go Maru Do",
+    "area": "北海道 山鼻９条駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010104/1029487/",
+    "rating": 3.63,
+    "review_count_tabelog": 280,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry, Indian curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "11:00 - 16:00 L.O. 15:30",
+        "dtl_text": "11:00 - 16:00 L.O. 15:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Fri",
+        "dtl": "11:00 - 16:00 L.O. 15:30 18:00 - 20:00 L.O. 19:30",
+        "dtl_text": "18:00 - 20:00 L.O. 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 20:00 L.O. 19:30",
+        "dtl_text": "11:00 - 20:00 L.O. 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Thursdays (open on public holidays)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 252,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6XePoospC18Rz4eN0kCm5g0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1029487-e6751d44f68f83710afe0f0b47e6ef435e30437db8bfd8af8af9dadd4561d32d.jpg",
+    "place_id": "ChIJ6XePoospC18Rz4eN0kCm5g0",
+    "g_name": "カリー乃 五〇堂",
+    "g_rating": 4.3,
+    "g_reviews": 252,
+    "g_address": "日本、〒064-0808 北海道札幌市中央区南８条西１０丁目１２７７−３７ 山新南８条ビル",
+    "lat": 43.0489257,
+    "lng": 141.3438889
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "Curry&herb Cherry blossom",
+    "name_en": "Curry&herb Cherry blossom",
+    "area": "神奈川県 新百合ケ丘駅",
+    "url": "https://tabelog.com/kanagawa/A1405/A140508/14000777/",
+    "rating": 3.61,
+    "review_count_tabelog": 443,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Curry, Organic",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sun",
+        "dtl": "11:00 - 22:00",
+        "dtl_text": "11:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:30 - 22:00",
+        "dtl_text": "11:30 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round (may close occasionally for preparation)"
+    },
+    "google_rating": 3.8,
+    "google_reviews": 204,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ59kGc2r6GGARb6DSkrmHoTA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/14000777-100d54e5dc87ce6e1ec744b2bd74eeb5473d2d1255783a5ec9b2b2d80ac34d1e.jpg",
+    "place_id": "ChIJ59kGc2r6GGARb6DSkrmHoTA",
+    "g_name": "カレー&ハーブ チェリーブロッサム",
+    "g_rating": 3.8,
+    "g_reviews": 204,
+    "g_address": "日本、〒215-0004 神奈川県川崎市麻生区上麻生１丁目２０−１",
+    "lat": 35.6035544,
+    "lng": 139.5077887
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "匠 三越店",
+    "name_en": "Takumi Mitsukoshi Ten",
+    "area": "愛知県 栄（名古屋）駅",
+    "url": "https://tabelog.com/aichi/A2301/A230103/23007038/",
+    "rating": 3.59,
+    "review_count_tabelog": 386,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 20:00",
+        "dtl_text": "10:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 74,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmSmCe9FwA2ARoxwsrdXaMpA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/23007038-d7981786ebeee4233eeb07649abc0b02d53b677800cf6098e2306c7ec79cd064.jpg",
+    "place_id": "ChIJmSmCe9FwA2ARoxwsrdXaMpA",
+    "g_name": "日本料理 匠 三越店",
+    "g_rating": 4.1,
+    "g_reviews": 74,
+    "g_address": "日本、〒460-8669 愛知県名古屋市中区栄３丁目５−１",
+    "lat": 35.168245,
+    "lng": 136.9080862
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "レッドチリ",
+    "name_en": "RED CHILI",
+    "area": "北海道 西２８丁目駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010105/1003320/",
+    "rating": 3.6,
+    "review_count_tabelog": 317,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Indian curry, Soup Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 15:00 - 23:00 L.O. 22:30",
+        "dtl_text": "15:00 - 23:00 L.O. 22:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 217,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJkY6ktMApC18ROCF9pnBtLzk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1003320-5ab9cc0f4504296efb88d9215b5095d3f4473a3d04d868e30de2e354c66a913a.jpg",
+    "place_id": "ChIJkY6ktMApC18ROCF9pnBtLzk",
+    "g_name": "レッドチリ",
+    "g_rating": 4.3,
+    "g_reviews": 217,
+    "g_address": "日本、〒064-0823 北海道札幌市中央区北３条西２６丁目２−１５ 第２３松井ビル １F",
+    "lat": 43.06062319999999,
+    "lng": 141.3176559
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "SOUP CURRY KING 本店",
+    "name_en": "SOUP CURRY KING Hon Ten",
+    "area": "北海道 南平岸駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010303/1006357/",
+    "rating": 3.58,
+    "review_count_tabelog": 673,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry, Curry, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 15:30 L.O. 15:00 17:30 - 21:30 L.O. 21:00",
+        "dtl_text": "17:30 - 21:30 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 21:30 L.O. 21:00",
+        "dtl_text": "11:30 - 21:30 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "We sincerely look forward to welcoming you all to our restaurant!"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 946,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJV5u8tGgqC18RLMnExyKmkb0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1006357-6215ca7b0f89f3a27091a83bd0aca34a967e64668de2aa6b81b685b762a089b9.jpg",
+    "place_id": "ChIJV5u8tGgqC18RLMnExyKmkb0",
+    "g_name": "SOUP CURRY KING 本店",
+    "g_rating": 4.3,
+    "g_reviews": 946,
+    "g_address": "日本、〒062-0933 北海道札幌市豊平区平岸３条１６丁目１−１ コーポＫ",
+    "lat": 43.0244794,
+    "lng": 141.3678319
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "ラマイ 横浜伊勢佐木モール店",
+    "name_en": "RAMAI Yokohama Isesaki Mo-Ru Ten",
+    "area": "神奈川県 関内駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140104/14045095/",
+    "rating": 3.58,
+    "review_count_tabelog": 1548,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry, Indonesian, Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 22:00 L.O. 21:30",
+        "dtl_text": "11:30 - 22:00 L.O. 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 1644,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJo-s-gPNcGGARBu5hWr6wxRY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/14045095-d6e7e88e130eee04df57d66b8164d146f2405088cc33e3c59f8445eb3ada2d48.jpg",
+    "place_id": "ChIJo-s-gPNcGGARBu5hWr6wxRY",
+    "g_name": "Asian Bar RAMAI 横浜伊勢佐木モール店",
+    "g_rating": 4.4,
+    "g_reviews": 1644,
+    "g_address": "日本、〒231-0045 神奈川県横浜市中区伊勢佐木町１丁目６−５ 亀楽ビル 7F",
+    "lat": 35.4439337,
+    "lng": 139.6324335
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "アルペンジロー 本店",
+    "name_en": "Alpenjiro Hon Ten",
+    "area": "神奈川県 阪東橋駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140306/14000553/",
+    "rating": 3.71,
+    "review_count_tabelog": 1685,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry, Curry, Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 15:00 L.O. 14:30 17:00 - 21:30 L.O. 21:00",
+        "dtl_text": "17:00 - 21:30 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open on Mondays that are public holidays, and closed the following Tuesday."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 1009,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ99FpDO9dGGAR_GtBp9g2mZo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/14000553-4d35ec45584af24e7f38f97db506c080c7c1eb63d7924f7c3e1146689806f12f.jpg",
+    "place_id": "ChIJ99FpDO9dGGAR_GtBp9g2mZo",
+    "g_name": "アルペンジロー 本店",
+    "g_rating": 4.2,
+    "g_reviews": 1009,
+    "g_address": "日本、〒231-0058 神奈川県横浜市中区弥生町３丁目２６",
+    "lat": 35.4395657,
+    "lng": 139.6286652
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "ソウルストア",
+    "name_en": "SOUL STORE",
+    "area": "北海道 資生館小学校前駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010103/1058838/",
+    "rating": 3.66,
+    "review_count_tabelog": 555,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 17:30 - 20:00",
+        "dtl_text": "17:30 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 865,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJHwjg6pUpC18RISsrOlyk6ow",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1058838-9d15c388574479c4180b3aeb651849c822996b40e8bafdbdebf67a69b3402fd3.jpg",
+    "place_id": "ChIJHwjg6pUpC18RISsrOlyk6ow",
+    "g_name": "スープカレー SOUL STORE",
+    "g_rating": 4.4,
+    "g_reviews": 865,
+    "g_address": "日本、〒060-0063 北海道札幌市中央区南３条西７丁目３−２ F-DRESS7 BLD 2F",
+    "lat": 43.056486,
+    "lng": 141.347864
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "スープカレー店 34",
+    "name_en": "THIRTY FOUR",
+    "area": "北海道 豊平公園駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010303/1056693/",
+    "rating": 3.62,
+    "review_count_tabelog": 208,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Soup Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri",
+        "dtl": "11:00 - 15:30 L.O. Food 15:00 17:30 - 21:00 L.O. Food 20:30",
+        "dtl_text": "17:30 - 21:00 L.O. Food 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "11:00 - 20:00 L.O. Food 19:45",
+        "dtl_text": "11:00 - 20:00 L.O. Food 19:45",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.8,
+    "google_reviews": 44,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZUSxsDYqC18R_rSi_Njc8bM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1056693-0850c5cc30f0e641f2e209a0797d5e9fab1308c561bd5b67f52123ea6dc79e2d.jpg",
+    "place_id": "ChIJZUSxsDYqC18R_rSi_Njc8bM",
+    "g_name": "豊平公園駅",
+    "g_rating": 3.8,
+    "g_reviews": 44,
+    "g_address": "日本、〒062-0908 北海道札幌市豊平区豊平８条１３丁目１",
+    "lat": 43.041992,
+    "lng": 141.376344
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "スープカリー 奥芝商店 駅前創成寺",
+    "name_en": "Soup Curry Okushiba Shoten Ekimae Soseiji",
+    "area": "北海道 さっぽろ（札幌市営）駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010101/1041930/",
+    "rating": 3.6,
+    "review_count_tabelog": 1071,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry, Curry, Hamburger steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 L.O. 14:30 17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 1952,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJn8GXRXQpC18ROE27C3HlsNM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1041930-d481aadea1d982552f354797bced66bb0b4c6f4ced510543d7c8e7bc04af487a.jpg",
+    "place_id": "ChIJn8GXRXQpC18ROE27C3HlsNM",
+    "g_name": "スープカレー奥芝商店 駅前創成寺",
+    "g_rating": 4.3,
+    "g_reviews": 1952,
+    "g_address": "日本、〒060-0004 北海道札幌市中央区北４条西１丁目 ホクレンビル B1F パールタウン",
+    "lat": 43.06686850000001,
+    "lng": 141.3542928
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "ZORA",
+    "name_en": "ZORA",
+    "area": "北海道 西８丁目駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010102/1024540/",
+    "rating": 3.64,
+    "review_count_tabelog": 311,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry, Cafe, Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 17:00 L.O. 16:30",
+        "dtl_text": "11:30 - 17:00 L.O. 16:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 2,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJl2VE0pspC18RREQir2sL5I8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1024540-6be92c3e850ae5951afe77ffeecca0fe40c4e115d6f7cb06f91a16b22ba5c6a9.jpg",
+    "place_id": "ChIJl2VE0pspC18RREQir2sL5I8",
+    "g_name": "Zora",
+    "g_rating": 4.5,
+    "g_reviews": 2,
+    "g_address": "日本、〒060-0042 北海道札幌市中央区大通西８丁目２−３９",
+    "lat": 43.0603839,
+    "lng": 141.3443338
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "丸祇羅",
+    "name_en": "Marumasara",
+    "area": "神奈川県 関内駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140104/14079157/",
+    "rating": 3.71,
+    "review_count_tabelog": 894,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 15:00",
+        "dtl_text": "11:30 - 15:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 412,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ______BcGGARjqURQIE5MSE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/14079157-e0ba6c392484d585c8250c86f1a90274cce58a127e3d8aae1c3b729d313d35d2.jpg",
+    "place_id": "ChIJ______BcGGARjqURQIE5MSE",
+    "g_name": "Spice Curry 丸祇羅",
+    "g_rating": 4.1,
+    "g_reviews": 412,
+    "g_address": "日本、〒231-0043 神奈川県横浜市中区福富町仲通４−２ 一和ビル 3階",
+    "lat": 35.445176,
+    "lng": 139.631727
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "スパイスカレー モクロミ",
+    "name_en": "spice curry mokuromi",
+    "area": "埼玉県 せんげん台駅",
+    "url": "https://tabelog.com/saitama/A1102/A110203/11045458/",
+    "rating": 3.87,
+    "review_count_tabelog": 430,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Thursdays and Fridays"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 178,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8QTHlHC-GGAR052APVj42Ls",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/11045458-a539ca82c661b1b5f951fa708de0a8713931485b9ac88f9a4a00dbfdef28764d.jpg",
+    "place_id": "ChIJ8QTHlHC-GGAR052APVj42Ls",
+    "g_name": "spice curry mokuromi",
+    "g_rating": 4.1,
+    "g_reviews": 178,
+    "g_address": "日本、〒343-0041 埼玉県越谷市千間台西５丁目２−３０ 2F",
+    "lat": 35.9325215,
+    "lng": 139.7662546
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "アジアンスープカリー べす",
+    "name_en": "Asian N Soup Curry Besu",
+    "area": "北海道 白石（ＪＲ北海道）駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010301/1049808/",
+    "rating": 3.63,
+    "review_count_tabelog": 371,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry, Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:30 L.O. 15:00 17:30 - 21:00 L.O. 20:30",
+        "dtl_text": "17:30 - 21:00 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 751,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJOxDa34wrC18RNyoXRk27GRc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1049808-6fdba80e680ec293f14fd64adefdef2a71f398d74b4303f58ab133eaea9d603a.jpg",
+    "place_id": "ChIJOxDa34wrC18RNyoXRk27GRc",
+    "g_name": "アジアンスープカリー べす",
+    "g_rating": 4.2,
+    "g_reviews": 751,
+    "g_address": "日本、〒003-0834 北海道札幌市白石区北郷４条６丁目５−１５",
+    "lat": 43.0575665,
+    "lng": 141.4243406
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "アジャンタインドカリ店",
+    "name_en": "Ajanta Indo Curry Ten",
+    "area": "北海道 札幌市中央区",
+    "url": "https://tabelog.com/hokkaido/A0101/A010104/1055967/",
+    "rating": 3.61,
+    "review_count_tabelog": 105,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry, Indian curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 L.O. 14:30",
+        "dtl_text": "11:00 - 15:00 L.O. 14:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Public Holiday",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "11:00 - 15:00"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 184,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJU-SZwXUqC18RdTieOPtj8RA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1055967-21cd83dbee8dc9a89751c653c04a3ec07b779b2275c843ec598ac57d42efc60c.jpg",
+    "place_id": "ChIJU-SZwXUqC18RdTieOPtj8RA",
+    "g_name": "アジャンタインドカリ店",
+    "g_rating": 4.3,
+    "g_reviews": 184,
+    "g_address": "日本、〒064-0929 北海道札幌市中央区南２９条西１０丁目６−５",
+    "lat": 43.02116170000001,
+    "lng": 141.3464393
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "マタレー 円山店",
+    "name_en": "MATALE Maruyama Ten",
+    "area": "北海道 円山公園駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010105/1025101/",
+    "rating": 3.58,
+    "review_count_tabelog": 295,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "11:30 - 21:00 L.O. 20:15",
+        "dtl_text": "11:30 - 21:00 L.O. 20:15",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Fri, Sat, Sun",
+        "dtl": "11:30 - 21:00 L.O. 20:30",
+        "dtl_text": "11:30 - 21:00 L.O. 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 146,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5ZPrBeopC18R507P-TlGAVk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1025101-f646148152e0d813b971b9f3f4f29375b188b44dda037c376a8dcb8efefb9402.jpg",
+    "place_id": "ChIJ5ZPrBeopC18R507P-TlGAVk",
+    "g_name": "円山公園駅",
+    "g_rating": 4,
+    "g_reviews": 146,
+    "g_address": "日本、〒064-0820 北海道札幌市中央区大通西２６丁目２",
+    "lat": 43.0555951,
+    "lng": 141.3182692
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "カレー魂 デストロイヤー",
+    "name_en": "Curry Tamashii Destroyer",
+    "area": "北海道 北１２条駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010201/1061471/",
+    "rating": 3.6,
+    "review_count_tabelog": 166,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 14:30 L.O. Food 14:30",
+        "dtl_text": "11:00 - 14:30 L.O. Food 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "11:00 - 14:30 L.O. 14:30 17:00 - 18:30 L.O. 18:30",
+        "dtl_text": "17:00 - 18:30 L.O. 18:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "*The restaurant may close early if sold out, even during business hours. There is a possibility of selling out before evening service on weekends. Please check our official X and Instagram for the latest updates."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 185,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmaEKGOEpC18RdQ_7EtzcL78",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1061471-9d2369aae43d546c72d63c40469b827d8d1f2381538c2bcf08c0e1d6bbc6ec8c.jpg",
+    "place_id": "ChIJmaEKGOEpC18RdQ_7EtzcL78",
+    "g_name": "カレー魂デストロイヤー",
+    "g_rating": 4.4,
+    "g_reviews": 185,
+    "g_address": "日本、〒001-0014 北海道札幌市北区北１４条西３丁目１−３１ 総業第五ハイム 1F 東側",
+    "lat": 43.0776967,
+    "lng": 141.349221
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "イエロー",
+    "name_en": "soup curry yellow",
+    "area": "北海道 豊水すすきの駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010103/1002181/",
+    "rating": 3.68,
+    "review_count_tabelog": 1669,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Soup Curry, Soup",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 21:00 L.O. 20:30",
+        "dtl_text": "11:30 - 21:00 L.O. 20:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 1531,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAeG5r4MpC18Rg6YfQxbfUlU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1002181-27a06e363e5bf261fbdaa234dee75615934f7c8f37378f64b0facc4df52e6908.jpg",
+    "place_id": "ChIJAeG5r4MpC18Rg6YfQxbfUlU",
+    "g_name": "スープカリー イエロー",
+    "g_rating": 4.1,
+    "g_reviews": 1531,
+    "g_address": "日本、〒060-0061 北海道札幌市中央区南１条西４丁目７−１ クリエイトビル 地下１Ｆ",
+    "lat": 43.0586116,
+    "lng": 141.3513887
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "イン カリー",
+    "name_en": "IN CURRY",
+    "area": "北海道 琴似（札幌市営）駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010204/1065304/",
+    "rating": 3.61,
+    "review_count_tabelog": 111,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 17:00",
+        "dtl_text": "11:30 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 81,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3SVsLK8pC18RNwAOiDzF4ts",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1065304-3c98ca971acd2265b17bab59e3e6dc38992a28780a440dce53ad4e7c3ac587e5.jpg",
+    "place_id": "ChIJ3SVsLK8pC18RNwAOiDzF4ts",
+    "g_name": "IN CURRY",
+    "g_rating": 4.5,
+    "g_reviews": 81,
+    "g_address": "日本、〒063-0803 北海道札幌市西区二十四軒３条５丁目９−３３",
+    "lat": 43.0729356,
+    "lng": 141.3083601
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "サリサリカリー",
+    "name_en": "Sari Sari Curry",
+    "area": "神奈川県 白楽駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140205/14064834/",
+    "rating": 3.66,
+    "review_count_tabelog": 671,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri",
+        "dtl": "11:30 - 15:00 17:00 - 20:00 L.O. 19:30",
+        "dtl_text": "17:00 - 20:00 L.O. 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 20:00 L.O. 19:30",
+        "dtl_text": "11:30 - 20:00 L.O. 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Thursdays and the third Wednesday of each month"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 724,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJC6nBJodeGGAREtYbnKwXZ7U",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/14064834-3686e24e7b9562f68995f1d7709615755ed6e8dc3f54131897c74127d5a4ee87.jpg",
+    "place_id": "ChIJC6nBJodeGGAREtYbnKwXZ7U",
+    "g_name": "サリサリカリー",
+    "g_rating": 4.4,
+    "g_reviews": 724,
+    "g_address": "日本、〒221-0822 神奈川県横浜市神奈川区西神奈川３丁目９−２",
+    "lat": 35.4865861,
+    "lng": 139.6261826
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "中華 大島",
+    "name_en": "Chuka Oshima",
+    "area": "千葉県 柏駅",
+    "url": "https://tabelog.com/chiba/A1203/A120301/12009777/",
+    "rating": 3.66,
+    "review_count_tabelog": 435,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Indian curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Fri, Sat",
+        "dtl": "11:30 - 15:00 17:00 - 20:00",
+        "dtl_text": "17:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "11:30 - 15:00",
+        "dtl_text": "11:30 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "11:30 - 16:00",
+        "dtl_text": "11:30 - 16:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 422,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDU6htt2cGGARQKo2TjPhpcY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/12009777-584cfbbb410b3626b7a5b4ddaf5536ce52ec8b3f3628252984fd88534d773c26.jpg",
+    "place_id": "ChIJDU6htt2cGGARQKo2TjPhpcY",
+    "g_name": "中華 大島",
+    "g_rating": 4.2,
+    "g_reviews": 422,
+    "g_address": "日本、〒277-0023 千葉県柏市中央１丁目６−４",
+    "lat": 35.8577733,
+    "lng": 139.9710514
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "Hot Spice Shop Hood Dog",
+    "name_en": "Hot Spice Shop Hood Dog",
+    "area": "北海道 豊水すすきの駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010103/1063675/",
+    "rating": 3.63,
+    "review_count_tabelog": 176,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Soup Curry, Bread, Dining bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 17:30 - 01:00 L.O. 00:30",
+        "dtl_text": "17:30 - 01:00 L.O. 00:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 146,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJO1jakxEpC18RIHoW_tWAqRc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1063675-1baa5ad5c9891dc02e3d36b3740b60d0985b010d9b11235dbe0e2646b3e89d10.jpg",
+    "place_id": "ChIJO1jakxEpC18RIHoW_tWAqRc",
+    "g_name": "Hot Spice Shop Hood Dog",
+    "g_rating": 4.5,
+    "g_reviews": 146,
+    "g_address": "日本、〒060-0055 北海道札幌市中央区南５条東２丁目２１",
+    "lat": 43.0564844,
+    "lng": 141.3608381
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "元祖インドカレー 小いけ",
+    "name_en": "Ganso Indian Curry Koike",
+    "area": "北海道 函館市",
+    "url": "https://tabelog.com/hokkaido/A0105/A010501/1008130/",
+    "rating": 3.62,
+    "review_count_tabelog": 513,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Katsu-don (Pork cutlet bowl), Oyako-don (Chicken and egg bowl)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:30",
+        "dtl_text": "11:00 - 15:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 693,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ55aoWAbznl8R6MW9ciTsThs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1008130-5ef43acb65224a90391717d3475b45a1f1fcc6c07c740a1b9b85fa73915dc328.jpg",
+    "place_id": "ChIJ55aoWAbznl8R6MW9ciTsThs",
+    "g_name": "元祖 小いけ",
+    "g_rating": 4,
+    "g_reviews": 693,
+    "g_address": "日本、〒040-0043 北海道函館市宝来町２２−４",
+    "lat": 41.7621025,
+    "lng": 140.7197513
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "村上カレー店・プルプル",
+    "name_en": "PULU2",
+    "area": "北海道 中央区役所前駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010102/1000476/",
+    "rating": 3.68,
+    "review_count_tabelog": 447,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 14:30 17:00 - 20:00",
+        "dtl_text": "17:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 20,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJWZll8ZApC18Rda9u6qe3cHE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1000476-a6f774bb3fd70158a6d0b8fe8ed360f094174d21931bb2c89a3e055fde5b97d8.jpg",
+    "place_id": "ChIJWZll8ZApC18Rda9u6qe3cHE",
+    "g_name": "中央区役所前駅",
+    "g_rating": 4.1,
+    "g_reviews": 20,
+    "g_address": "日本、〒060-0061 北海道札幌市中央区南１条西１１丁目",
+    "lat": 43.05744660000001,
+    "lng": 141.3409681
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "カレー専門店 KEN",
+    "name_en": "Curry Senmon Ten KEN",
+    "area": "神奈川県 青葉台駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140202/14010409/",
+    "rating": 3.68,
+    "review_count_tabelog": 684,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 14:30 L.O. 14:00",
+        "dtl_text": "11:30 - 14:30 L.O. 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays and Tuesdays (No substitute business on public holidays)"
+    },
+    "google_rating": 3.7,
+    "google_reviews": 40,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJWyN9T4H5GGARBKljzHoHZn0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/14010409-31370875c6ccf501dc344fd70d894aaba8b9f5b18a747e372ee79eb0d9cf5632.jpg",
+    "place_id": "ChIJWyN9T4H5GGARBKljzHoHZn0",
+    "g_name": "ケンプラザビル",
+    "g_rating": 3.7,
+    "g_reviews": 40,
+    "g_address": "日本、〒227-0062 神奈川県横浜市青葉区青葉台２丁目９−１",
+    "lat": 35.54349,
+    "lng": 139.5162467
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "黒岩咖哩飯店",
+    "name_en": "Kuroiwa Curry Hanten",
+    "area": "北海道 西８丁目駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010102/1049128/",
+    "rating": 3.65,
+    "review_count_tabelog": 452,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Soup Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 19:00 L.O. 18:30",
+        "dtl_text": "11:30 - 19:00 L.O. 18:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 372,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJr5ZW0pspC18RmPzNmmSyqC4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1049128-fc3b7d20b98ed018506083120af454a0de6829be933d59dd4c0aec924b0f012c.jpg",
+    "place_id": "ChIJr5ZW0pspC18RmPzNmmSyqC4",
+    "g_name": "黒岩咖哩飯店 本店",
+    "g_rating": 4.3,
+    "g_reviews": 372,
+    "g_address": "日本、〒060-0042 北海道札幌市中央区大通西８丁目２−３９ 北大通ビル B1F",
+    "lat": 43.0604034,
+    "lng": 141.3443824
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "ヴィラ・アフガン",
+    "name_en": "Villa Afghan",
+    "area": "山梨県 北杜市",
+    "url": "https://tabelog.com/yamanashi/A1902/A190201/19000083/",
+    "rating": 3.59,
+    "review_count_tabelog": 539,
+    "price_dinner": "-",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "11:30 - 14:00",
+        "dtl_text": "11:30 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 14:00 17:00 - 19:00",
+        "dtl_text": "17:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays (the following day if it falls on a public holiday)"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 911,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJqQF0DUgVHGARKho_csSlfwY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/19000083-81615edd835c66fcbf7e5a8812ea8aa615c1450da6adb2f5d910b99a14e81868.jpg",
+    "place_id": "ChIJqQF0DUgVHGARKho_csSlfwY",
+    "g_name": "ヴィラ アフガン",
+    "g_rating": 4.2,
+    "g_reviews": 911,
+    "g_address": "日本、〒409-1501 山梨県北杜市大泉町西井出８２４０−３５１０",
+    "lat": 35.9122189,
+    "lng": 138.4082594
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "ポレポレ",
+    "name_en": "Pore Pore",
+    "area": "北海道 南郷１８丁目駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010301/1002197/",
+    "rating": 3.61,
+    "review_count_tabelog": 190,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry, Southeast Asian, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri, Sat, Sun",
+        "dtl": "10:30 - 19:00",
+        "dtl_text": "10:30 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 190,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmUnNggUrC18Ra2NEXaT5XeY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1002197-573556737184317e41a3870f9fcbd63c8a332e6561752b1e77020d0fea118d88.jpg",
+    "place_id": "ChIJmUnNggUrC18Ra2NEXaT5XeY",
+    "g_name": "ポレポレ",
+    "g_rating": 4.1,
+    "g_reviews": 190,
+    "g_address": "日本、〒003-0021 北海道札幌市白石区栄通１７丁目１−２６ スープカレーポレポレ",
+    "lat": 43.0288491,
+    "lng": 141.4269617
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "カレーハウス チリチリ",
+    "name_en": "Curry House Chirichiri",
+    "area": "埼玉県 戸田公園駅",
+    "url": "https://tabelog.com/saitama/A1102/A110202/11052130/",
+    "rating": 3.66,
+    "review_count_tabelog": 335,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 14:00 L.O. 13:40",
+        "dtl_text": "11:00 - 14:00 L.O. 13:40",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "For temporary closures and changes in business hours, please check our Instagram."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 450,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ76esFpbrGGAR02rEzme2MqM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/11052130-92e976cf33828eef8a650fae90bbab7eead48cdcb3eb757b89f6970311a362dc.jpg",
+    "place_id": "ChIJ76esFpbrGGAR02rEzme2MqM",
+    "g_name": "カレーハウス チリチリ",
+    "g_rating": 4.3,
+    "g_reviews": 450,
+    "g_address": "日本、〒335-0023 埼玉県戸田市本町４丁目１１−１９",
+    "lat": 35.8071992,
+    "lng": 139.6782409
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "Spice&mill",
+    "name_en": "Spice&mill",
+    "area": "北海道 南郷１３丁目駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010301/1050715/",
+    "rating": 3.63,
+    "review_count_tabelog": 400,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry, Cafe, Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "10:30 - 15:00 L.O. Food 14:30 17:00 - 20:30 L.O. Food 20:00",
+        "dtl_text": "17:00 - 20:30 L.O. Food 20:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed; for updates on our days off, please check our Instagram."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 479,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJU4RdZ6IrC18R5WQ26ed7w1Q",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1050715-df93ead1af2c73bd795381c5d8e277416f82f513eca95d3aecce3787474511fe.jpg",
+    "place_id": "ChIJU4RdZ6IrC18R5WQ26ed7w1Q",
+    "g_name": "Spice&mill",
+    "g_rating": 4.4,
+    "g_reviews": 479,
+    "g_address": "日本、〒003-0027 北海道札幌市白石区本通１１丁目北２−１",
+    "lat": 43.0425374,
+    "lng": 141.4233107
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "カレーのふらのや",
+    "name_en": "Curry no Furano Ya",
+    "area": "北海道 森林公園駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010302/1031618/",
+    "rating": 3.58,
+    "review_count_tabelog": 397,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry, Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 17:00 - 21:00 L.O. 20:00",
+        "dtl_text": "17:00 - 21:00 L.O. 20:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 1360,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDdcLq2ZNc18RP_Z6EK3pRFI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1031618-925efcb19fb82788dc149a73cd1988023796aa7eea480c94707322c1bfb7d9ac.jpg",
+    "place_id": "ChIJDdcLq2ZNc18RP_Z6EK3pRFI",
+    "g_name": "カレーのふらのや",
+    "g_rating": 4.3,
+    "g_reviews": 1360,
+    "g_address": "日本、〒076-0018 北海道富良野市弥生町１−４６",
+    "lat": 43.3430207,
+    "lng": 142.3826356
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "カレーの店 マボロシ",
+    "name_en": "Curry no Mise Maboroshi",
+    "area": "神奈川県 相模原市中央区",
+    "url": "https://tabelog.com/kanagawa/A1407/A140701/14040492/",
+    "rating": 3.91,
+    "review_count_tabelog": 521,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Indian curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 14:00",
+        "dtl_text": "11:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 481,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJE_RWQnv9GGARrfCRuz5o1os",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/14040492-9c69357863fb2b76b448b6f74accaaf7c7ba8243c27da70a34912f45f9211044.jpg",
+    "place_id": "ChIJE_RWQnv9GGARrfCRuz5o1os",
+    "g_name": "カレーの店 マボロシ",
+    "g_rating": 4.3,
+    "g_reviews": 481,
+    "g_address": "日本、〒252-0239 神奈川県相模原市中央区中央３丁目７−１",
+    "lat": 35.57156090000001,
+    "lng": 139.3711151
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "クロック",
+    "name_en": "Clock",
+    "area": "北海道 札幌市中央区",
+    "url": "https://tabelog.com/hokkaido/A0101/A010105/1000162/",
+    "rating": 3.63,
+    "review_count_tabelog": 636,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 22:00",
+        "dtl_text": "11:30 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Substitute holidays may apply."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 831,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJm5IZhOIpC18R1PerRX-gmLs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1000162-75f73a8306d11b5bb7c6ea3e30d20bd39b5052b0ef09d6dd45845edafaeec3b5.jpg",
+    "place_id": "ChIJm5IZhOIpC18R1PerRX-gmLs",
+    "g_name": "クロック",
+    "g_rating": 4.3,
+    "g_reviews": 831,
+    "g_address": "日本、〒064-0944 北海道札幌市中央区円山西町９丁目２−２５ 旭山プラザ １Ｆ",
+    "lat": 43.0436865,
+    "lng": 141.3085103
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "松本メーヤウ 信大前店",
+    "name_en": "Matsumoto Meeyau Shindaimae Ten",
+    "area": "長野県 松本市",
+    "url": "https://tabelog.com/nagano/A2002/A200201/20000053/",
+    "rating": 3.6,
+    "review_count_tabelog": 297,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Curry, Indian curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 21:00 L.O. 20:30",
+        "dtl_text": "11:30 - 21:00 L.O. 20:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 346,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJFZogKyEMHWAR8g05GNbDX0M",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/20000053-f0c659277610a3042939e7bb414dd7c96317378dd7c729d35d902e65f5b34ae4.jpg",
+    "place_id": "ChIJFZogKyEMHWAR8g05GNbDX0M",
+    "g_name": "松本メーヤウ 信大前店",
+    "g_rating": 4.5,
+    "g_reviews": 346,
+    "g_address": "日本、〒390-0871 長野県松本市桐２丁目１−２５ 御小柴ハイツ",
+    "lat": 36.25195009999999,
+    "lng": 137.9763029
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "曉",
+    "name_en": "Akatsuki",
+    "area": "北海道 中央区役所前駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010102/1050112/",
+    "rating": 3.63,
+    "review_count_tabelog": 218,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Fri, Sat",
+        "dtl": "11:30 - 14:50 17:30 - 19:10",
+        "dtl_text": "17:30 - 19:10",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "11:30 - 14:50",
+        "dtl_text": "11:30 - 14:50",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 172,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJWZaw4pApC18RRwY3K3UfxN8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1050112-8aeb6734252da7b2e1365430b54d6ecf3c7e39dbab147d5b7c3cde131fa63949.jpg",
+    "place_id": "ChIJWZaw4pApC18RRwY3K3UfxN8",
+    "g_name": "曉",
+    "g_rating": 4.3,
+    "g_reviews": 172,
+    "g_address": "日本、〒060-0061 北海道札幌市中央区南１条西１２丁目３２２−２４ 2F",
+    "lat": 43.05712159999999,
+    "lng": 141.3395941
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "カレーレストラン シバ",
+    "name_en": "Curry Restaurant Shiba",
+    "area": "千葉県 稲毛駅",
+    "url": "https://tabelog.com/chiba/A1201/A120104/12000017/",
+    "rating": 3.68,
+    "review_count_tabelog": 613,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Indian curry, Indian, Nepalese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:00 - 15:00 16:30 - 21:00",
+        "dtl_text": "16:30 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.8,
+    "google_reviews": 432,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZUZqe4ODImARnX5b92nTowk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/12000017-1cdd47ebcbf613f217290fe50f83d312253a69cb2e4884d0669ce2daf581767a.jpg",
+    "place_id": "ChIJZUZqe4ODImARnX5b92nTowk",
+    "g_name": "カレーレストラン シバ",
+    "g_rating": 3.8,
+    "g_reviews": 432,
+    "g_address": "日本、〒263-0031 千葉県千葉市稲毛区稲毛東３丁目１９−１５",
+    "lat": 35.6364,
+    "lng": 140.092688
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "Kikuya Curry",
+    "name_en": "Kikuya Curry",
+    "area": "神奈川県 日ノ出町駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140102/14004143/",
+    "rating": 3.7,
+    "review_count_tabelog": 996,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Indian curry, Soup Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu",
+        "dtl": "11:00 - 14:30",
+        "dtl_text": "11:00 - 14:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 20:00",
+        "dtl_text": "11:00 - 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Fri",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Sat, Sun & Public Holidays (including Mondays)": {}
+      },
+      "closed_on": "The following Tuesday if Monday is a public holiday"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 562,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJSQXqq2FcGGARqNofXoXyypk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/14004143-2e063b218e7620e4f7e886cc07801e41f0666be5ab4d61b15c93c9f59c6c346a.jpg",
+    "place_id": "ChIJSQXqq2FcGGARqNofXoXyypk",
+    "g_name": "KIKUYA CURRY",
+    "g_rating": 4.3,
+    "g_reviews": 562,
+    "g_address": "日本、〒231-0064 神奈川県横浜市中区野毛町４丁目１７３",
+    "lat": 35.4484669,
+    "lng": 139.6270192
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "カレー気分",
+    "name_en": "Curry Kibun",
+    "area": "北海道 札幌市清田区",
+    "url": "https://tabelog.com/hokkaido/A0101/A010304/1000874/",
+    "rating": 3.61,
+    "review_count_tabelog": 172,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry, Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri, Public Holiday",
+        "dtl": "11:30 - 14:30 L.O. 14:15 17:00 - 20:00 L.O. 19:15",
+        "dtl_text": "17:00 - 20:00 L.O. 19:15",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "11:30 - 20:00 L.O. 19:15",
+        "dtl_text": "11:30 - 20:00 L.O. 19:15",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 174,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0TI-rxgrC18RO8fICgJUVgc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1000874-adb13f1f744fe92e3e77a690e2f4816e93613e4b5d49b47482b6d8f1f06660aa.jpg",
+    "place_id": "ChIJ0TI-rxgrC18RO8fICgJUVgc",
+    "g_name": "カレー気分",
+    "g_rating": 4.4,
+    "g_reviews": 174,
+    "g_address": "日本、〒004-0866 北海道札幌市清田区北野６条２丁目１１−4-1F 尾崎ビル",
+    "lat": 43.01929870000001,
+    "lng": 141.4349012
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "スープカレー トムトムキキル",
+    "name_en": "soup curry tom tom kikir",
+    "area": "北海道 札幌市清田区",
+    "url": "https://tabelog.com/hokkaido/A0101/A010304/1037079/",
+    "rating": 3.62,
+    "review_count_tabelog": 268,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry, Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 L.O. 14:30 17:30 - 20:30 L.O. 20:00",
+        "dtl_text": "17:30 - 20:30 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "*We will remain open on full moon days that coincide with weekends or public holidays (with a compensatory day off)."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 398,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJF5lK8MwqC18Rtuy31r0hf_k",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1037079-d2013a48800379366e0970e00e494290826488fdd93173b5e0a25297908dda9b.jpg",
+    "place_id": "ChIJF5lK8MwqC18Rtuy31r0hf_k",
+    "g_name": "スープカレートムトムキキル",
+    "g_rating": 4.2,
+    "g_reviews": 398,
+    "g_address": "日本、〒004-0843 北海道札幌市清田区清田３条２丁目１４−１５",
+    "lat": 42.9987432,
+    "lng": 141.4314607
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "らっきょ",
+    "name_en": "Rakkyo",
+    "area": "北海道 琴似（ＪＲ）駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010204/1000164/",
+    "rating": 3.64,
+    "review_count_tabelog": 529,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry, Seafood, Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:00 - 21:00",
+        "dtl_text": "11:00 - 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The third Wednesday of each month"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 632,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDw2-0VEoC18RfkzR33gDubQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1000164-bfc5015443eeb180100e78a10be491c2eda5420b81a2f14d484181da9eb8d12d.jpg",
+    "place_id": "ChIJDw2-0VEoC18RfkzR33gDubQ",
+    "g_name": "札幌らっきょ",
+    "g_rating": 4.2,
+    "g_reviews": 632,
+    "g_address": "日本、〒063-0811 北海道札幌市西区琴似１条１丁目７−７ カピテーヌ琴似 1F",
+    "lat": 43.0798498,
+    "lng": 141.308253
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "円山教授。",
+    "name_en": "[Curry Senmon Ten] Maruyama Kyoju.",
+    "area": "北海道 西１８丁目駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010105/1054392/",
+    "rating": 3.6,
+    "review_count_tabelog": 692,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 22:00",
+        "dtl_text": "11:00 - 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 964,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ42dIgOwpC18RZ4NOIO-J2x4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1054392-7b0d3201469bdc65f8fd361e1c10557cadea41ba6cf7df1d6cbf1e69414b2559.jpg",
+    "place_id": "ChIJ42dIgOwpC18RZ4NOIO-J2x4",
+    "g_name": "円山教授。円山本店",
+    "g_rating": 4.3,
+    "g_reviews": 964,
+    "g_address": "日本、〒064-0804 北海道札幌市中央区南４条西２１丁目１−２７",
+    "lat": 43.0535467,
+    "lng": 141.3260933
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "ターラ",
+    "name_en": "Spice Bar TARA",
+    "area": "北海道 西４丁目駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010102/1001916/",
+    "rating": 3.63,
+    "review_count_tabelog": 289,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Soup Curry, Bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 14:30 L.O. 14:00 17:00 - 01:00 L.O. Food 23:00 Drinks 00:30",
+        "dtl_text": "17:00 - 01:00 L.O. Food 23:00 Drinks 00:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Year-end & New Year Holidays (December 31, 2019 - January 3, 2020)"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 143,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJxxHyqZwpC18RKBtP3n4linE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1001916-c4575e07b86a875bf652744bdfdcc9f6e0528be38d0e1ef5d1930869503fa70a.jpg",
+    "place_id": "ChIJxxHyqZwpC18RKBtP3n4linE",
+    "g_name": "Spice Bar TARA",
+    "g_rating": 4.1,
+    "g_reviews": 143,
+    "g_address": "日本、〒060-0061 北海道札幌市中央区南１条西４ 日本旅行ビルB1",
+    "lat": 43.059096,
+    "lng": 141.351504
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "スープカレーGARAKU 札幌本店",
+    "name_en": "Soup Curry GARAKU Sapporo Honten",
+    "area": "北海道 狸小路駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010103/1006746/",
+    "rating": 3.6,
+    "review_count_tabelog": 921,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry, Bar, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:30 L.O. 15:00 17:00 - 21:00 L.O. 20:30",
+        "dtl_text": "17:00 - 21:00 L.O. 20:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Please take a numbered ticket from the vending machine": {}
+      },
+      "closed_on": "Not fixed."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 4666,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ21rhoMpC18RmzhfndITzug",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1006746-6913195a58ecdbf23cccc83412206380d6dec40218afe07936cb0cb2cb6dbb70.jpg",
+    "place_id": "ChIJQ21rhoMpC18RmzhfndITzug",
+    "g_name": "スープカレーGARAKU札幌本店",
+    "g_rating": 4.2,
+    "g_reviews": 4666,
+    "g_address": "日本、〒060-0062 北海道札幌市中央区南２条西２丁目６−１ おくむらビル B１",
+    "lat": 43.0580621,
+    "lng": 141.355129
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "キャラウェイ",
+    "name_en": "Caraway",
+    "area": "神奈川県 平塚駅",
+    "url": "https://tabelog.com/kanagawa/A1404/A140407/14004751/",
+    "rating": 3.62,
+    "review_count_tabelog": 435,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Pasta",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 L.O. 14:00 18:00 - 22:00 L.O. 21:00",
+        "dtl_text": "18:00 - 22:00 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 303,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJi7zXBSKtGWARUXfv5bxm5ZM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/14004751-71c0f76338f6e38a8fb8ff89ddce906a293325b8d2724351ca3938b61f4a1ca9.jpg",
+    "place_id": "ChIJi7zXBSKtGWARUXfv5bxm5ZM",
+    "g_name": "キャラウェイ",
+    "g_rating": 4.2,
+    "g_reviews": 303,
+    "g_address": "日本、〒254-0044 神奈川県平塚市錦町１−１６",
+    "lat": 35.3277538,
+    "lng": 139.3453515
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "カレーの店 ボンベイ 本店",
+    "name_en": "Curry no Mise Bombay Hon Ten",
+    "area": "千葉県 柏駅",
+    "url": "https://tabelog.com/chiba/A1203/A120301/12026182/",
+    "rating": 3.71,
+    "review_count_tabelog": 1234,
+    "price_dinner": "～￥999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Indian curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 21:30 L.O. 21:00",
+        "dtl_text": "11:30 - 21:30 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 1097,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJyXu6cOecGGARzfDj0PSc9-0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/12026182-e1a56c73fdd41b339a79dab9e6bf9207d9e8caffca04ea1488355d43c89ef368.jpg",
+    "place_id": "ChIJyXu6cOecGGARzfDj0PSc9-0",
+    "g_name": "カレーの店ボンベイ 本店",
+    "g_rating": 4.2,
+    "g_reviews": 1097,
+    "g_address": "日本、〒277-0005 千葉県柏市柏３丁目６−１６ 磯野ビル １F",
+    "lat": 35.8601913,
+    "lng": 139.9742279
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "ひげ男爵",
+    "name_en": "Hige Danshaku",
+    "area": "北海道 バスセンター前駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010102/1005374/",
+    "rating": 3.68,
+    "review_count_tabelog": 823,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 L.O. 14:30 17:00 - 22:00 L.O. 21:30",
+        "dtl_text": "17:00 - 22:00 L.O. 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 740,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJEUGWBncpC18RLnaTI-isQAM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1005374-582dff9707b94e46e77b3bb83d0f759d4a55807632886dd17826ca23c8315186.jpg",
+    "place_id": "ChIJEUGWBncpC18RLnaTI-isQAM",
+    "g_name": "スープカリーひげ男爵",
+    "g_rating": 4.2,
+    "g_reviews": 740,
+    "g_address": "日本、〒060-0031 北海道札幌市中央区北１条東２丁目５−１２ ビーンズコート",
+    "lat": 43.0634922,
+    "lng": 141.358504
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "キャラウェイ",
+    "name_en": "Caraway",
+    "area": "神奈川県 鎌倉駅",
+    "url": "https://tabelog.com/kanagawa/A1404/A140402/14000589/",
+    "rating": 3.61,
+    "review_count_tabelog": 1375,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Curry, Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 20:00 L.O. 19:30",
+        "dtl_text": "11:30 - 20:00 L.O. 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 1957,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKVp5MsFFGGARIZpKmcFsEno",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/14000589-275562c53a3d29dedfbcecfbd11eedd5a95e67be43c32a77cb859e0e5044ee81.jpg",
+    "place_id": "ChIJKVp5MsFFGGARIZpKmcFsEno",
+    "g_name": "キャラウェイ",
+    "g_rating": 4.4,
+    "g_reviews": 1957,
+    "g_address": "日本、〒248-0006 神奈川県鎌倉市小町２丁目１２−２０",
+    "lat": 35.32192149999999,
+    "lng": 139.553322
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "カレーハウスデリー",
+    "name_en": "Curry House Delhi",
+    "area": "神奈川県 溝の口駅",
+    "url": "https://tabelog.com/kanagawa/A1405/A140505/14009483/",
+    "rating": 3.63,
+    "review_count_tabelog": 768,
+    "price_dinner": "～￥999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Cafeteria",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:30 17:00 - 20:00",
+        "dtl_text": "17:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 395,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ98VdSSf0GGARXX28-ikXMf4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/14009483-bf4cda2471a37c77d95f1b8a4ddfa310490cf0a8ae36a53b0df57de3318722c0.jpg",
+    "place_id": "ChIJ98VdSSf0GGARXX28-ikXMf4",
+    "g_name": "カレーハウスデリー",
+    "g_rating": 4,
+    "g_reviews": 395,
+    "g_address": "日本、〒213-0001 神奈川県川崎市高津区溝口２丁目７−３",
+    "lat": 35.6002398,
+    "lng": 139.6105461
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "か～るま～る",
+    "name_en": "Ka~ru Ma~ru",
+    "area": "北海道 白石（ＪＲ北海道）駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010301/1066208/",
+    "rating": 3.61,
+    "review_count_tabelog": 176,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "11:00 - 15:00 L.O. 14:30",
+        "dtl_text": "11:00 - 15:00 L.O. 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 19:30 L.O. 19:00",
+        "dtl_text": "11:00 - 19:30 L.O. 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 126,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJbQyb4L4rC18R0jwkhEN3Azo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1066208-c664282a58aa10c199db37dfbc7cff8f75661572e81410454e0d5fb652351cd5.jpg",
+    "place_id": "ChIJbQyb4L4rC18R0jwkhEN3Azo",
+    "g_name": "か〜るま〜る",
+    "g_rating": 4.4,
+    "g_reviews": 126,
+    "g_address": "日本、〒003-0833 北海道札幌市白石区北郷３条４丁目１１−１ 田畑ビル 1階",
+    "lat": 43.0581758,
+    "lng": 141.4156586
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "gopのアナグラ",
+    "name_en": "Gop no Anagura",
+    "area": "北海道 札幌市西区",
+    "url": "https://tabelog.com/hokkaido/A0101/A010204/1000635/",
+    "rating": 3.64,
+    "review_count_tabelog": 322,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry, Curry, Indian curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri, Sat",
+        "dtl": "11:30 - 21:30 L.O. 21:00",
+        "dtl_text": "11:30 - 21:30 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:30 - 20:30 L.O. 20:00",
+        "dtl_text": "11:30 - 20:30 L.O. 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 339,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6xVmQTMoC18RFBW2hRMIBf4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1000635-5d6e6d946bb737236780a1d3f91254de0b745b96db4a205f2b561cf371a5b65b.jpg",
+    "place_id": "ChIJ6xVmQTMoC18RFBW2hRMIBf4",
+    "g_name": "gop(ゴップ)のアナグラ",
+    "g_rating": 4.2,
+    "g_reviews": 339,
+    "g_address": "日本、〒063-0003 北海道札幌市西区山の手３条６丁目１−１７ ヴィレッジ山の手",
+    "lat": 43.0685092,
+    "lng": 141.2951363
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "カリーヤ！コング",
+    "name_en": "Curry Kong",
+    "area": "北海道 静修学園前駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010104/1029696/",
+    "rating": 3.8,
+    "review_count_tabelog": 444,
+    "price_dinner": "-",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Soup Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00",
+        "dtl_text": "11:30 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 172,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJz2k-JRgqC18R8sb28zIykjk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1029696-f5a025907bbbcdc123eda666d12f4d41686aad515477fa414f6624ce5724f532.jpg",
+    "place_id": "ChIJz2k-JRgqC18R8sb28zIykjk",
+    "g_name": "CURRY YA! CONG",
+    "g_rating": 4.1,
+    "g_reviews": 172,
+    "g_address": "日本、〒064-0916 北海道札幌市中央区南１６条西６丁目２−１０ ＩＲ山鼻",
+    "lat": 43.0382007,
+    "lng": 141.3524966
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "カリーサボイ",
+    "name_en": "Curry SAVoY",
+    "area": "北海道 札幌（ＪＲ）駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010101/1060249/",
+    "rating": 3.67,
+    "review_count_tabelog": 616,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 15:00 L.O. 14:30 17:00 - 21:30 L.O. 21:00",
+        "dtl_text": "17:00 - 21:30 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "11:30 - 21:30 L.O. 21:00",
+        "dtl_text": "11:30 - 21:30 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 448,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6dW2K4MpC18R_bHiGaLgbJg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1060249-8eb9959d0a995ae85f7d0de53dd2a710e09907b7e858810734a56b5471a739ea.jpg",
+    "place_id": "ChIJ6dW2K4MpC18R_bHiGaLgbJg",
+    "g_name": "Curry SAVOY 札幌駅北口店",
+    "g_rating": 4.1,
+    "g_reviews": 448,
+    "g_address": "日本、〒060-0808 北海道札幌市北区北８条西４ 稲津ビル 地下1階",
+    "lat": 43.0711928,
+    "lng": 141.3492467
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "タイガーカレー",
+    "name_en": "Tiger Curry",
+    "area": "北海道 北２４条駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010201/1003065/",
+    "rating": 3.61,
+    "review_count_tabelog": 628,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soup Curry, Bar, Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri",
+        "dtl": "11:30 - 14:30 17:30 - 21:30",
+        "dtl_text": "17:30 - 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 21:00",
+        "dtl_text": "11:30 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The third Monday of each month"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 400,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJpdFCBuEoC18RmtuUEFHgjVg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1003065-21126bc8ca536cf4718169360cfbd2cdbc8d4d3f7a86832455cfe4f3c4cadf1e.jpg",
+    "place_id": "ChIJpdFCBuEoC18RmtuUEFHgjVg",
+    "g_name": "タイガーカレー 北24条本店",
+    "g_rating": 4.2,
+    "g_reviews": 400,
+    "g_address": "日本、〒001-0023 北海道札幌市北区北２３条西４丁目２−３ プラザハイツ２４ 1F",
+    "lat": 43.0896191,
+    "lng": 141.3443459
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "Bay&Leaf 横浜",
+    "name_en": "Bay & Leaf Yokohama",
+    "area": "神奈川県 戸塚駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140305/14000620/",
+    "rating": 3.69,
+    "review_count_tabelog": 795,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "11:00 - 14:45",
+        "dtl_text": "11:00 - 14:45",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:45 17:00 - 20:30",
+        "dtl_text": "17:00 - 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 442,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJg9zmwJxaGGAReRdBNh2-lCI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/14000620-4f07200b6cc5e38bb6ec7c05569c4d73e453db6ffe5cf7ba6c2488decdc80e85.jpg",
+    "place_id": "ChIJg9zmwJxaGGAReRdBNh2-lCI",
+    "g_name": "Bay & Leaf 横浜",
+    "g_rating": 4.2,
+    "g_reviews": 442,
+    "g_address": "日本、〒244-0003 神奈川県横浜市戸塚区戸塚町１２０ 斎藤ビル ２F",
+    "lat": 35.3978431,
+    "lng": 139.5316391
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "欧風カリー ドモン",
+    "name_en": "European Curry Domon",
+    "area": "北海道 豊平公園駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010303/1060608/",
+    "rating": 3.62,
+    "review_count_tabelog": 354,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Curry, Soup Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 15:30 L.O. 15:00 17:00 - 20:30 L.O. 20:00",
+        "dtl_text": "17:00 - 20:30 L.O. 20:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 357,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ32IXZwUrC18RyTdC2Y7mAKM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/1060608-ef4ca599bf064f15ce1208d45ab9c1c2e0d83d17e626d834a29b1ba1b091830f.jpg",
+    "place_id": "ChIJ32IXZwUrC18RyTdC2Y7mAKM",
+    "g_name": "欧風カリードモン",
+    "g_rating": 4.4,
+    "g_reviews": 357,
+    "g_address": "日本、〒062-0933 北海道札幌市豊平区平岸３条３丁目１−２８",
+    "lat": 43.03969379999999,
+    "lng": 141.3701402
+  },
+  {
+    "category_jp": "カレー",
+    "category_en": "Curry",
+    "region": "EAST",
+    "name": "モアナマカイ珊瑚礁",
+    "name_en": "Moana Makai Sango Sho",
+    "area": "神奈川県 七里ケ浜駅",
+    "url": "https://tabelog.com/kanagawa/A1404/A140402/14000586/",
+    "rating": 3.59,
+    "review_count_tabelog": 1834,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Curry, Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "10:30 - 15:30 L.O. 14:30 16:30 - 21:00 L.O. 20:00",
+        "dtl_text": "16:30 - 21:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu, Fri",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 2539,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1e4ZQEBPGGARQJbTF5-YN90",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_east/14000586-20316ba56986a2e0992017fec4c1097a183f528f86c9fb43e397e1a2bef7d60c.jpg",
+    "place_id": "ChIJ1e4ZQEBPGGARQJbTF5-YN90",
+    "g_name": "モアナマカイ珊瑚礁",
+    "g_rating": 4.2,
+    "g_reviews": 2539,
+    "g_address": "日本、〒248-0026 神奈川県鎌倉市七里ガ浜１丁目３−２２",
+    "lat": 35.3057084,
+    "lng": 139.5089711
+  }
+]

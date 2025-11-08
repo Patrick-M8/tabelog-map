@@ -1,0 +1,4387 @@
+[
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "フレンチ パウンド ハウス 大和郷本店",
+    "name_en": "FRENCH POUND HOUSE Yamato Go Honten",
+    "area": "東京都 巣鴨駅",
+    "url": "https://tabelog.com/tokyo/A1323/A132301/13003828/",
+    "rating": 3.76,
+    "review_count_tabelog": 1395,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cake, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 19:00 L.O. 18:00",
+        "dtl_text": "11:00 - 19:00 L.O. 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "10:30 - 19:00 L.O. 17:00",
+        "dtl_text": "10:30 - 19:00 L.O. 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "10:30 - 18:30 L.O. 17:00",
+        "dtl_text": "10:30 - 18:30 L.O. 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round (excluding Year-end & New Year Holidays)"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 947,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8RJ5JpiNGGARixpgELq7wqY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13003828-965b1643ffc078d5f787120f213c95b9b77220aca6497982c6fe735e6ae64ad5.jpg",
+    "place_id": "ChIJ8RJ5JpiNGGARixpgELq7wqY",
+    "g_name": "フレンチ パウンドハウス 大和郷本店",
+    "g_rating": 4.1,
+    "g_reviews": 947,
+    "g_address": "日本、〒170-0002 東京都豊島区巣鴨１丁目４−４",
+    "lat": 35.7329347,
+    "lng": 139.7418791
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "和kitchen かんな",
+    "name_en": "Wa kitchen Kanna",
+    "area": "東京都 三軒茶屋駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131706/13156812/",
+    "rating": 3.76,
+    "review_count_tabelog": 1436,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kakigori (Shaved ice), Creative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 18:30",
+        "dtl_text": "11:00 - 18:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Shaved Ice": {},
+        "Meals": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 647,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQVDhfVvzGGAR1ul4ZYqRiNE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13156812-0ccc1141ea846cecbc8b3c13e5ea3146ccc8833bab124e4f4e801030a30ec6a9.jpg",
+    "place_id": "ChIJQVDhfVvzGGAR1ul4ZYqRiNE",
+    "g_name": "和kitchenかんな",
+    "g_rating": 4,
+    "g_reviews": 647,
+    "g_address": "日本、〒154-0002 東京都世田谷区下馬２丁目４３−１１ コムズ下馬 2F",
+    "lat": 35.6434354,
+    "lng": 139.6796574
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "パティシェリア",
+    "name_en": "Patisserie",
+    "area": "東京都 新宿駅",
+    "url": "https://tabelog.com/tokyo/A1304/A130401/13039063/",
+    "rating": 3.75,
+    "review_count_tabelog": 678,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "-",
+    "sub_categories": "Cake",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:30 - 19:30",
+        "dtl_text": "10:30 - 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 102,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJnQevs9qMGGARpbzHdvmCUeg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13039063-a6322e70e2129328963192deeed733da909a430ba0d811f3a678ed4aa5f1f0b4.jpg",
+    "place_id": "ChIJnQevs9qMGGARpbzHdvmCUeg",
+    "g_name": "パティシェリア 新宿髙島屋店(洋菓子店)",
+    "g_rating": 4.2,
+    "g_reviews": 102,
+    "g_address": "日本、〒151-0051 東京都渋谷区千駄ケ谷５丁目２４−２",
+    "lat": 35.6879648,
+    "lng": 139.7021742
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "カカオサンパカ 丸の内本店",
+    "name_en": "CACAO SAMPAKA Marunochi Honten",
+    "area": "東京都 二重橋前駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130201/13096438/",
+    "rating": 3.77,
+    "review_count_tabelog": 1175,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Chocolate, Soft serve ice cream",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 20:00",
+        "dtl_text": "11:00 - 20:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (please check the official website for updates)"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 349,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJewLRDPqLGGAR-LWmchB9D-M",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13096438-de07d1492b7c56f27bccc0c6f9a4dea9a25e8953842c96ae8e799b0be045789c.jpg",
+    "place_id": "ChIJewLRDPqLGGAR-LWmchB9D-M",
+    "g_name": "カカオ サンパカ 丸の内本店",
+    "g_rating": 4.2,
+    "g_reviews": 349,
+    "g_address": "日本、〒100-0005 東京都千代田区丸の内２丁目６−１ ブリックスクエア 1F",
+    "lat": 35.6786357,
+    "lng": 139.7625162
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "パティスリー・パリセヴェイユ",
+    "name_en": "patisserie Paris S'eveille",
+    "area": "東京都 自由が丘駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131703/13005198/",
+    "rating": 3.91,
+    "review_count_tabelog": 2898,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cake, Cafe, Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 19:00",
+        "dtl_text": "11:00 - 19:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 963,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJOUEuih71GGARq3n_MhRGXWk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13005198-90f3ba56f91fa7be2d1b7f55185350bbcd90df0f0e6036fb58ae898f8a96c7da.jpg",
+    "place_id": "ChIJOUEuih71GGARq3n_MhRGXWk",
+    "g_name": "パリ セヴェイユ",
+    "g_rating": 4,
+    "g_reviews": 963,
+    "g_address": "日本、〒152-0035 東京都目黒区自由が丘２丁目１４−５",
+    "lat": 35.6069629,
+    "lng": 139.6665734
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "パティスリーサロン・ドゥ・テ アミティエ",
+    "name_en": "Patisserie Salon de The Amitie",
+    "area": "東京都 神楽坂駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13047005/",
+    "rating": 3.75,
+    "review_count_tabelog": 766,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cake, Cafe, Sweets (Western style)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 19:00",
+        "dtl_text": "11:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (Not fixed)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 184,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAyHrIlSMGGARyo2ttEVopuU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13047005-f58fd67e2ba89da4c1afc30032829d3822690d8d8e9d57b372c38d007b71e066.jpg",
+    "place_id": "ChIJAyHrIlSMGGARyo2ttEVopuU",
+    "g_name": "アミティエ 神楽坂",
+    "g_rating": 4.3,
+    "g_reviews": 184,
+    "g_address": "日本、〒162-0818 東京都新宿区築地町８−１０ Kdxレジデンス神楽坂 1F",
+    "lat": 35.7064343,
+    "lng": 139.7357004
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "アディクト オ シュクル",
+    "name_en": "Addict au Sucre",
+    "area": "東京都 都立大学駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131702/13171753/",
+    "rating": 3.77,
+    "review_count_tabelog": 720,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cake, Cafe, Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 17:30",
+        "dtl_text": "11:00 - 17:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 228,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJdcQ4p930GGARFK9BQEE_1iU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13171753-a2067087996a3a19829258b46e508ee3ea9acdc9ef64739f2ae10c739b025dc9.jpg",
+    "place_id": "ChIJdcQ4p930GGARFK9BQEE_1iU",
+    "g_name": "アディクト オ シュクル",
+    "g_rating": 4.4,
+    "g_reviews": 228,
+    "g_address": "日本、〒152-0023 東京都目黒区八雲１丁目１０−６",
+    "lat": 35.6185329,
+    "lng": 139.6724815
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "テオブロマ 渋谷本店",
+    "name_en": "Theobroma Shibuya Honten",
+    "area": "東京都 代々木公園駅",
+    "url": "https://tabelog.com/tokyo/A1318/A131810/13005471/",
+    "rating": 3.75,
+    "review_count_tabelog": 707,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chocolate, Cafe, Cake",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 19:00 L.O. 18:15",
+        "dtl_text": "10:00 - 19:00 L.O. 18:15"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round (closed during Year-end & New Year Holidays)"
+    },
+    "google_rating": 4,
+    "google_reviews": 412,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJIYzax7KMGGAReOa_HGR16wY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13005471-95dbe7cdf5689fe39367d5c57df8c227b026f4343ccface0e7a8595949623213.jpg",
+    "place_id": "ChIJIYzax7KMGGAReOa_HGR16wY",
+    "g_name": "ミュゼ・ドゥ・ショコラ・テオブロマ 本店",
+    "g_rating": 4,
+    "g_reviews": 412,
+    "g_address": "日本、〒151-0063 東京都渋谷区富ケ谷１丁目１４−９",
+    "lat": 35.666528,
+    "lng": 139.6917706
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "おかしやうっちー",
+    "name_en": "Okashiya Ucchi",
+    "area": "東京都 北参道駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130901/13238644/",
+    "rating": 4.16,
+    "review_count_tabelog": 601,
+    "price_dinner": "-",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "Cake, Sweets (Western style)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 18:00",
+        "dtl_text": "12:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 106,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVTWVdi-NGGARMn8A7AVDPaY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13238644-48c578738f70bc970ad2dee726f4ecb4edeea74cb433bebd80ee57e0e44dd5c8.jpg",
+    "place_id": "ChIJVTWVdi-NGGARMn8A7AVDPaY",
+    "g_name": "おかしやうっちー",
+    "g_rating": 4.4,
+    "g_reviews": 106,
+    "g_address": "日本、〒151-0051 東京都渋谷区千駄ケ谷３丁目２７−９ ウェスト青山 1F",
+    "lat": 35.6774258,
+    "lng": 139.7080844
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "ダンデライオン・チョコレート ファクトリー&カフェ蔵前",
+    "name_en": "DANDELION CHOCOLATE Fakutori Ando Kafe Kuramae",
+    "area": "東京都 蔵前駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131103/13191976/",
+    "rating": 3.74,
+    "review_count_tabelog": 1941,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chocolate, Cafe, Sweets (Western style)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "10:00 - 19:00",
+        "dtl_text": "10:00 - 19:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "None (Any closures will be announced on our official website and social media)"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 2373,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJNRb8areOGGARieKkjJf2N34",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13191976-29a5bde917a8ea04f3442b673d414430dfbeca60e1e572d5a1d6c7dc50f4f437.jpg",
+    "place_id": "ChIJNRb8areOGGARieKkjJf2N34",
+    "g_name": "ダンデライオン・チョコレート ファクトリー＆カフェ蔵前",
+    "g_rating": 4.2,
+    "g_reviews": 2373,
+    "g_address": "日本、〒111-0051 東京都台東区蔵前４丁目１４−６",
+    "lat": 35.70365990000001,
+    "lng": 139.7896246
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "パティスリー・スリール",
+    "name_en": "Patisserie SOURIRE",
+    "area": "東京都 祐天寺駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13018799/",
+    "rating": 3.75,
+    "review_count_tabelog": 539,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cake, Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 18:00",
+        "dtl_text": "10:00 - 18:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays (subject to change on public holidays) and other irregular days."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 169,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJcXBKGMr0GGAR_dUQO2b6Cbs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13018799-6ac8b4bff0f788f17d6c0060aec6a9e6b0ea175d9822afffee9a199683ef1b02.jpg",
+    "place_id": "ChIJcXBKGMr0GGAR_dUQO2b6Cbs",
+    "g_name": "パティスリースリール フランス デザート",
+    "g_rating": 4.2,
+    "g_reviews": 169,
+    "g_address": "日本、〒153-0053 東京都目黒区五本木２丁目４０−８ アップライゼ青山",
+    "lat": 35.63467929999999,
+    "lng": 139.6865841
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "Mont St. Clair",
+    "name_en": "Mon St. Clair",
+    "area": "東京都 自由が丘駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131703/13003221/",
+    "rating": 3.79,
+    "review_count_tabelog": 1821,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "-",
+    "sub_categories": "Cake, Macaroon, Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 18:00 L.O. 16:00",
+        "dtl_text": "11:00 - 18:00 L.O. 16:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:00 - 18:00",
+        "dtl_text": "11:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 1436,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJkR90QuH0GGARg9l9OGe-vjU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13003221-6ea75c826f7a851cfedbba5a51592ee38c70ac3d9959e5ad302c3dcbcf5bc2ec.jpg",
+    "place_id": "ChIJkR90QuH0GGARg9l9OGe-vjU",
+    "g_name": "モンサンクレール",
+    "g_rating": 4.3,
+    "g_reviews": 1436,
+    "g_address": "日本、〒152-0035 東京都目黒区自由が丘２丁目２２−４",
+    "lat": 35.6127206,
+    "lng": 139.666475
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "パティスリー ユウ ササゲ",
+    "name_en": "Patisserie Yu Sasage",
+    "area": "東京都 千歳烏山駅",
+    "url": "https://tabelog.com/tokyo/A1318/A131809/13155662/",
+    "rating": 3.88,
+    "review_count_tabelog": 779,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cake, Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 18:00",
+        "dtl_text": "10:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 329,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJnRkDD5LxGGARz2PEQvSkS2c",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13155662-f5ac46d6d32b1dd3d04da5b27fa4cb8e68c9d4f75d1bfb386af40b3fa98e5401.jpg",
+    "place_id": "ChIJnRkDD5LxGGARz2PEQvSkS2c",
+    "g_name": "パティスリー ユウ ササゲ",
+    "g_rating": 4.1,
+    "g_reviews": 329,
+    "g_address": "日本、〒157-0062 東京都世田谷区南烏山６丁目２８−１３ 田谷野ハイツ",
+    "lat": 35.6698943,
+    "lng": 139.5989522
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "フジウ",
+    "name_en": "Patisserie du Chef FUJIU",
+    "area": "東京都 高幡不動駅",
+    "url": "https://tabelog.com/tokyo/A1329/A132903/13006009/",
+    "rating": 3.75,
+    "review_count_tabelog": 567,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cake, Cafe, Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "09:00 - 19:00",
+        "dtl_text": "09:00 - 19:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Take Out": {},
+        "Eat In": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJt9TEPq7jGGARfRNC3rjjTfU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13006009-8c9f845d68a2595827830ac004cf70ca73d3748879e4efe3d0f4d96ca5d94060.jpg",
+    "place_id": "ChIJt9TEPq7jGGARfRNC3rjjTfU",
+    "g_name": "パティスリー・ドゥ・シェフ・フジウ",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "日本、〒191-0031 東京都日野市高幡１７−８ スピカビル",
+    "lat": 35.6615898,
+    "lng": 139.4125926
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "アトリエコータ 神楽坂店",
+    "name_en": "ATELIER KOHTA Kagurazaka Ten",
+    "area": "東京都 神楽坂駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13136823/",
+    "rating": 3.83,
+    "review_count_tabelog": 1629,
+    "price_dinner": "-",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Cake, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 453,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ368F11aMGGARDZkf1GyuiXA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13136823-90056c32c77ff201d087915ec2e078e2d63855e212ae89129747af70b1e4825c.jpg",
+    "place_id": "ChIJ368F11aMGGARDZkf1GyuiXA",
+    "g_name": "アトリエ コータ",
+    "g_rating": 4.3,
+    "g_reviews": 453,
+    "g_address": "日本、〒162-0825 東京都新宿区神楽坂６丁目２５",
+    "lat": 35.7036217,
+    "lng": 139.7363618
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "アステリスク",
+    "name_en": "ASTERISQUE",
+    "area": "東京都 代々木上原駅",
+    "url": "https://tabelog.com/tokyo/A1318/A131811/13140735/",
+    "rating": 3.87,
+    "review_count_tabelog": 1638,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cake",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 18:00",
+        "dtl_text": "10:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The third Wednesday of each month"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 830,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2XJmfEjzGGAR_XcCaKyWvns",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13140735-0d42e1f261b17e7392c3ed74c991c1f2bc032e31f37a90600df2b2c2dd17533d.jpg",
+    "place_id": "ChIJ2XJmfEjzGGAR_XcCaKyWvns",
+    "g_name": "アステリスク",
+    "g_rating": 4.2,
+    "g_reviews": 830,
+    "g_address": "日本、〒151-0064 東京都渋谷区上原１丁目２６−１６ ＴＴＳビル １階",
+    "lat": 35.668273,
+    "lng": 139.681372
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "ラ・ヴィエイユ・フランス 本店",
+    "name_en": "LA VIEILLE FRANCE Hon Ten",
+    "area": "東京都 千歳烏山駅",
+    "url": "https://tabelog.com/tokyo/A1318/A131809/13043939/",
+    "rating": 3.77,
+    "review_count_tabelog": 649,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cake, Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:30 - 19:00",
+        "dtl_text": "10:30 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 287,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJcYPmP4TxGGARSrcwsby9GnE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13043939-95464e746250bb7156a28b228669b718c0902d1c814ef1d29149e704c537c328.jpg",
+    "place_id": "ChIJcYPmP4TxGGARSrcwsby9GnE",
+    "g_name": "ラ・ヴィエイユ・フランス 千歳烏山本店",
+    "g_rating": 4.1,
+    "g_reviews": 287,
+    "g_address": "日本、〒157-0063 東京都世田谷区粕谷４丁目１５−６",
+    "lat": 35.6629607,
+    "lng": 139.6031724
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "ミニマル 富ヶ谷本店",
+    "name_en": "Minimal Tomigaya Honten",
+    "area": "東京都 代々木公園駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130301/13175834/",
+    "rating": 3.85,
+    "review_count_tabelog": 725,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chocolate, Cake, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 19:00 L.O. 18:30",
+        "dtl_text": "11:30 - 19:00 L.O. 18:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Any changes will be announced on our official website and social media."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 526,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJvSobREzzGGARmuAb072hosk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13175834-575d89ae09584c717fb9039cfc7b697221dc3f6991fe8903580b8557c69bfbf4.jpg",
+    "place_id": "ChIJvSobREzzGGARmuAb072hosk",
+    "g_name": "ミニマル 富ヶ谷本店",
+    "g_rating": 4.5,
+    "g_reviews": 526,
+    "g_address": "日本、〒151-0063 東京都渋谷区富ケ谷２丁目１−９",
+    "lat": 35.666774,
+    "lng": 139.6876498
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "ラ･メゾン･デュ･ショコラ 丸の内店",
+    "name_en": "La Maison du Chocolat Marunouchi Ten",
+    "area": "東京都 有楽町駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130102/13000036/",
+    "rating": 3.72,
+    "review_count_tabelog": 1237,
+    "price_dinner": "-",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Chocolate, Cake, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 20:00 L.O. 19:30",
+        "dtl_text": "11:00 - 20:00 L.O. 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 319,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ73jYsPmLGGARMwzAOWlVD8A",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13000036-64ea6cdae445084e6b2b14f134d2c36636afb4b8969e84c0c31d32c05c9b8634.jpg",
+    "place_id": "ChIJ73jYsPmLGGARMwzAOWlVD8A",
+    "g_name": "ラ・メゾン・デュ・ショコラ 丸の内店",
+    "g_rating": 4.4,
+    "g_reviews": 319,
+    "g_address": "国際ビル 1階 千代田区丸の内３丁目４−１新, 東京都 100-0005 日本",
+    "lat": 35.6761778,
+    "lng": 139.76196
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "ザ マンダリン オリエンタル グルメショップ",
+    "name_en": "The Mandarin Oriental Gourmet Shop",
+    "area": "東京都 三越前駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130202/13022977/",
+    "rating": 3.77,
+    "review_count_tabelog": 1239,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cake, Chocolate",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 414,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJzRxfeVWJGGARulQR37YwjdY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13022977-a3b886d3f8f6787715f824ce3cfdb2f712e65e08e5caef2c90f28fb4303bb780.jpg",
+    "place_id": "ChIJzRxfeVWJGGARulQR37YwjdY",
+    "g_name": "ザ マンダリン オリエンタル グルメ ショップ",
+    "g_rating": 4.2,
+    "g_reviews": 414,
+    "g_address": "日本、〒103-8328 東京都中央区日本橋室町２丁目１−１",
+    "lat": 35.6867956,
+    "lng": 139.7729814
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "メゾン・ダーニ",
+    "name_en": "MAISON D'AHNI",
+    "area": "東京都 白金高輪駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131602/13183428/",
+    "rating": 3.8,
+    "review_count_tabelog": 1039,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cake, Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "08:00 - 19:00",
+        "dtl_text": "08:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 371,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2wT-3aeLGGAREYeiaatirsM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13183428-32c08416837468c939e9154dbf7a93ceaa19c9787b8b1e2445b3b09d48561b26.jpg",
+    "place_id": "ChIJ2wT-3aeLGGAREYeiaatirsM",
+    "g_name": "Maison d'Ahni Shirokane",
+    "g_rating": 4.4,
+    "g_reviews": 371,
+    "g_address": "日本、〒108-0072 東京都港区白金１丁目１１−１５",
+    "lat": 35.6455123,
+    "lng": 139.7332484
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "パティスリー カカオエット・パリ",
+    "name_en": "Patisserie Cacao et Paris",
+    "area": "東京都 中目黒駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13039525/",
+    "rating": 3.76,
+    "review_count_tabelog": 818,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cake, Sweets (Western style), Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 19:00",
+        "dtl_text": "11:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 200,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJn0HMm02LGGARmeVrUa7_NCQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13039525-7f8e09d42c1b9fb0fce0d2777e5d4e42b8307e009f7fd23599be49f454379375.jpg",
+    "place_id": "ChIJn0HMm02LGGARmeVrUa7_NCQ",
+    "g_name": "パティスリーカカオエット・パリ 中目黒本店",
+    "g_rating": 4.3,
+    "g_reviews": 200,
+    "g_address": "日本、〒153-0043 東京都目黒区東山１丁目９−６",
+    "lat": 35.6469931,
+    "lng": 139.6942553
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "レ・カカオ 本店",
+    "name_en": "LES CACAOS Hon Ten",
+    "area": "東京都 五反田駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131603/13203619/",
+    "rating": 3.78,
+    "review_count_tabelog": 1165,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Chocolate, Cake, Sweets (Western style)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 19:00",
+        "dtl_text": "11:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 450,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQBsfveKGGARPqp3AdwUAJc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13203619-a993cb42e834f6b2dd669d5b6247eec5ab348006a56386003927a1a0256fe1f3.jpg",
+    "place_id": "ChIJAQBsfveKGGARPqp3AdwUAJc",
+    "g_name": "LES CACAOS 本店",
+    "g_rating": 4.2,
+    "g_reviews": 450,
+    "g_address": "日本、〒141-0022 東京都品川区東五反田２丁目１９−２",
+    "lat": 35.6252703,
+    "lng": 139.7292106
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "パティシエ・ヒロ ヤマモト",
+    "name_en": "patissier Hiro Yamamoto",
+    "area": "東京都 篠崎駅",
+    "url": "https://tabelog.com/tokyo/A1312/A131205/13121679/",
+    "rating": 3.82,
+    "review_count_tabelog": 412,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "-",
+    "sub_categories": "Cake, Macaroon",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 19:30",
+        "dtl_text": "11:30 - 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Occasional temporary closures"
+    },
+    "google_rating": 3.7,
+    "google_reviews": 201,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJo3-NqPyGGGAR2PSHNy76BYI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13121679-e70892e00f41ec3560c69db786c3dfdf1052ef14e3b0e366aa07c6d45dcc8ac7.jpg",
+    "place_id": "ChIJo3-NqPyGGGAR2PSHNy76BYI",
+    "g_name": "パティシエ ヒロ・ヤマモト （patissier Hiro Yamamoto）",
+    "g_rating": 3.7,
+    "g_reviews": 201,
+    "g_address": "日本、〒133-0061 東京都江戸川区篠崎町１丁目７−２３ 1号",
+    "lat": 35.7086089,
+    "lng": 139.9040732
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "ナタ・デ・クリスチアノ",
+    "name_en": "Nata de Cristiano's",
+    "area": "東京都 代々木公園駅",
+    "url": "https://tabelog.com/tokyo/A1318/A131810/13153384/",
+    "rating": 3.78,
+    "review_count_tabelog": 1553,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Sweets, Bread, Cake",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 19:30",
+        "dtl_text": "10:00 - 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 1300,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAZeE1LKMGGARflvU-zRe-W4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13153384-4e4a90c21360316b0eafa2377d3749245a1aeebf3fe591d61db463d59cc863b7.jpg",
+    "place_id": "ChIJAZeE1LKMGGARflvU-zRe-W4",
+    "g_name": "ナタ・デ・クリスチアノ",
+    "g_rating": 4.4,
+    "g_reviews": 1300,
+    "g_address": "日本、〒151-0063 東京都渋谷区富ケ谷１丁目１４−１６ スタンフォードコート 103",
+    "lat": 35.6672535,
+    "lng": 139.6912879
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "クリオロ 本店",
+    "name_en": "CRIOLLO Hon Ten",
+    "area": "東京都 小竹向原駅",
+    "url": "https://tabelog.com/tokyo/A1322/A132202/13194959/",
+    "rating": 3.77,
+    "review_count_tabelog": 1143,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cake, Sweets (Western style), Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "10:00 - 18:00",
+        "dtl_text": "10:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 1228,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJvdMJ3TftGGAR3zNyoIeOWO4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13194959-c08b768a96016c1c4b1295b59394847faf32012e9d69e48969997db84d55639c.jpg",
+    "place_id": "ChIJvdMJ3TftGGAR3zNyoIeOWO4",
+    "g_name": "クリオロ本店",
+    "g_rating": 4.4,
+    "g_reviews": 1228,
+    "g_address": "日本、〒173-0036 東京都板橋区向原３丁目９−２",
+    "lat": 35.7444188,
+    "lng": 139.6824438
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "ラ・プレシューズ 紀尾井町店",
+    "name_en": "La Precieuse Kioimachiten",
+    "area": "東京都 永田町駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130801/13198490/",
+    "rating": 3.75,
+    "review_count_tabelog": 935,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cake, Sweets (Western style), Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "08:30 - 20:00",
+        "dtl_text": "08:30 - 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "08:00 - 20:00",
+        "dtl_text": "08:00 - 20:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Follows the closure schedule of Tokyo Garden Terrace Kioicho."
+    },
+    "google_rating": 4,
+    "google_reviews": 232,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4Z9j7XuMGGARpl1ywgJntOU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13198490-e0933f7aecefef4ac00df671ae85975d697cdd5d453747cd1d34714fd166b067.jpg",
+    "place_id": "ChIJ4Z9j7XuMGGARpl1ywgJntOU",
+    "g_name": "ラ・プレシューズ 紀尾井町",
+    "g_rating": 4,
+    "g_reviews": 232,
+    "g_address": "日本、〒102-0094 東京都千代田区紀尾井町１−２ 東京ガーデンテラス 4F",
+    "lat": 35.6796833,
+    "lng": 139.7373296
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "ロートンヌ 秋津本店",
+    "name_en": "L’AUTOMNE Akitsu Honten",
+    "area": "東京都 新秋津駅",
+    "url": "https://tabelog.com/tokyo/A1328/A132806/13005967/",
+    "rating": 3.8,
+    "review_count_tabelog": 751,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cake, Macaroon, Sweets (Western style)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "10:00 - 12:00 13:00 - 19:00",
+        "dtl_text": "13:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays (open on holidays, with substitute holidays) and other irregular days."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 517,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5SvxgpjnGGAR9Rj0pUOMJ70",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13005967-2b17478080b4cba50c389dae616706ab27afc8ced5156883176d63ab18f0e83d.jpg",
+    "place_id": "ChIJ5SvxgpjnGGAR9Rj0pUOMJ70",
+    "g_name": "ロートンヌ 秋津店",
+    "g_rating": 4.2,
+    "g_reviews": 517,
+    "g_address": "日本、〒189-0001 東京都東村山市秋津町５丁目１３−４",
+    "lat": 35.7781619,
+    "lng": 139.4944339
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "シュークリー",
+    "name_en": "Sucre-rie",
+    "area": "東京都 人形町駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130204/13050996/",
+    "rating": 3.82,
+    "review_count_tabelog": 1524,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cake, Sweets",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "09:30 - 18:00",
+        "dtl_text": "09:30 - 18:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays (excluding Christmas, Valentine's Day, and other special occasions)"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 506,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_Z62tFGJGGARLNQyOUs7c1M",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13050996-657bd44be141568b28eeddcea87de07fe36b635c4b418e6690928f30a8dbaa50.jpg",
+    "place_id": "ChIJ_Z62tFGJGGARLNQyOUs7c1M",
+    "g_name": "シュークリー",
+    "g_rating": 4.2,
+    "g_reviews": 506,
+    "g_address": "日本、〒103-0013 東京都中央区日本橋人形町１丁目５−５",
+    "lat": 35.6852617,
+    "lng": 139.7815257
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "クラブハリエ 日本橋三越店",
+    "name_en": "Club Harie Nihonbashi Mitsukoshimise Ten",
+    "area": "東京都 三越前駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130202/13004023/",
+    "rating": 3.75,
+    "review_count_tabelog": 891,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "-",
+    "sub_categories": "Baumkuchen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:30 - 19:30 L.O. 19:00",
+        "dtl_text": "10:30 - 19:30 L.O. 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (in accordance with Nihonbashi Mitsukoshi Main Store)"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 135,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJiXTqi1WJGGARCqJHA0J-Jic",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13004023-ffd57360dddc570f24ae5cc3e6530b18de2d1a7a1a7ad7be1c7dd424710d2705.jpg",
+    "place_id": "ChIJiXTqi1WJGGARCqJHA0J-Jic",
+    "g_name": "クラブハリエ 日本橋三越店",
+    "g_rating": 4.2,
+    "g_reviews": 135,
+    "g_address": "日本、〒103-0022 東京都中央区日本橋室町１丁目４−１ 日本橋三越本店 新館 B2F",
+    "lat": 35.6851698,
+    "lng": 139.7740283
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "フルーツパーラーゴトー",
+    "name_en": "Fruit Parlour Goto",
+    "area": "東京都 浅草（つくばＥＸＰ）駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131102/13095672/",
+    "rating": 3.77,
+    "review_count_tabelog": 1501,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Fruit parlour, Cafe, Kakigori (Shaved ice)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri, Sat, Sun",
+        "dtl": "11:00 - 19:00 L.O. 18:30",
+        "dtl_text": "11:00 - 19:00 L.O. 18:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Occasional temporary closures"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 893,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJM_HHqOqOGGAR8HBrJvepR5U",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13095672-ff83337f04a7178e851da325b75fea5405b9cb25ccd772671baa80be8251b3c3.jpg",
+    "place_id": "ChIJM_HHqOqOGGAR8HBrJvepR5U",
+    "g_name": "フルーツパーラー ゴトー",
+    "g_rating": 4.3,
+    "g_reviews": 893,
+    "g_address": "日本、〒111-0032 東京都台東区浅草２丁目１５−４",
+    "lat": 35.7157481,
+    "lng": 139.7938199
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "トシ・ヨロイヅカ 東京",
+    "name_en": "ToshiYoroizuka TOKYO",
+    "area": "東京都 京橋駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130202/13202758/",
+    "rating": 3.74,
+    "review_count_tabelog": 1636,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Cake, Cafe, Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:00 - 19:00 L.O. 17:00",
+        "dtl_text": "11:00 - 19:00 L.O. 17:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 1188,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJWQVaGeOLGGARvzzZSjYjclM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13202758-b258737c3729ae2dda19826a0bb9aa6a6f5c05e24c386297c80447ee33e1ee48.jpg",
+    "place_id": "ChIJWQVaGeOLGGARvzzZSjYjclM",
+    "g_name": "トシ ヨロイヅカ 東京",
+    "g_rating": 4.2,
+    "g_reviews": 1188,
+    "g_address": "日本、〒104-0031 東京都中央区京橋２丁目２−１ 京橋エドグラン 1F",
+    "lat": 35.6770013,
+    "lng": 139.7699653
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "オーボンヴュータン 尾山台店",
+    "name_en": "Au Bon Vieux Temps Oyamadai Ten",
+    "area": "東京都 尾山台駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131715/13181654/",
+    "rating": 3.89,
+    "review_count_tabelog": 1227,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cake, Side dishes, Delicatessen, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 17:00",
+        "dtl_text": "10:00 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Please check the official website for details."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 1211,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5xCVw__0GGARZePW6LaDbLU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13181654-561485c13db4b60901147e7b426e37cfe3b8dc1214a7d77361092c317f75d568.jpg",
+    "place_id": "ChIJ5xCVw__0GGARZePW6LaDbLU",
+    "g_name": "AU BON VIEUX TEMPS",
+    "g_rating": 4.3,
+    "g_reviews": 1211,
+    "g_address": "日本、〒158-0082 東京都世田谷区等々力２丁目１−３",
+    "lat": 35.6040657,
+    "lng": 139.6517588
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "ビヤンネートル",
+    "name_en": "PÂTISSERIE BIEN-ÊTRE",
+    "area": "東京都 代々木上原駅",
+    "url": "https://tabelog.com/tokyo/A1318/A131811/13113676/",
+    "rating": 3.74,
+    "review_count_tabelog": 796,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cake, Cafe, Kakigori (Shaved ice)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 19:00",
+        "dtl_text": "11:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 159,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJhUm8tMPzGGARvLgUMcKAHSQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13113676-4250e14b60001e8c54de2918f20f649212cfdb193f2ff21eee4caf19aa2ad207.jpg",
+    "place_id": "ChIJhUm8tMPzGGARvLgUMcKAHSQ",
+    "g_name": "メゾン ビヤンネートル",
+    "g_rating": 4.3,
+    "g_reviews": 159,
+    "g_address": "日本、〒151-0064 東京都渋谷区上原１丁目１７−１１ 2F・3F",
+    "lat": 35.6692157,
+    "lng": 139.68233
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "アルカション 本店",
+    "name_en": "ARCACHON Hon Ten",
+    "area": "東京都 保谷駅",
+    "url": "https://tabelog.com/tokyo/A1321/A132103/13023168/",
+    "rating": 3.76,
+    "review_count_tabelog": 639,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cake, Bread, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:30 - 19:00",
+        "dtl_text": "10:30 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 529,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2YRtCdbuGGARyAYYudTOz-s",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13023168-299c1dd94d8e6033189a581b3955ac5c51c0342e8ad32023f48dc0e4f4907a7c.jpg",
+    "place_id": "ChIJ2YRtCdbuGGARyAYYudTOz-s",
+    "g_name": "アルカション 本店",
+    "g_rating": 4.3,
+    "g_reviews": 529,
+    "g_address": "日本、〒178-0064 東京都練馬区南大泉５丁目３４−４",
+    "lat": 35.7489721,
+    "lng": 139.5696711
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "パティスリー カーヴァンソン",
+    "name_en": "patisserie K.ViNCENT",
+    "area": "東京都 飯田橋駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13035194/",
+    "rating": 3.88,
+    "review_count_tabelog": 751,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Cake, Chocolate, Sweets (Western style)",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Generally closed."
+    },
+    "google_rating": 3.9,
+    "google_reviews": 201,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ96cODFCMGGARwJ1JVY4huyk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13035194-f6f01277441eaaa24ee89509d4835ed00b231b88226f48e94c7184890e67bd36.jpg",
+    "place_id": "ChIJ96cODFCMGGARwJ1JVY4huyk",
+    "g_name": "カー・ヴァンソン",
+    "g_rating": 3.9,
+    "g_reviews": 201,
+    "g_address": "日本、〒162-0815 東京都新宿区筑土八幡町１−２−１０１ 第３ＮＫビル",
+    "lat": 35.7038813,
+    "lng": 139.7411474
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "オクシタニアル 東京本店",
+    "name_en": "Occitanial Tokyo Honten",
+    "area": "東京都 水天宮前駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130204/13164246/",
+    "rating": 3.75,
+    "review_count_tabelog": 1023,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cake, Macaroon, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 19:00",
+        "dtl_text": "11:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "January 1"
+    },
+    "google_rating": 4.9,
+    "google_reviews": 8,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJz_IhRwCJGGARPIb_HzPO4Y0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13164246-ab918da86574373571ce675674f45b9c698e0832121c74b6a366668924bcc6a2.jpg",
+    "place_id": "ChIJz_IhRwCJGGARPIb_HzPO4Y0",
+    "g_name": "オクシタニアル",
+    "g_rating": 4.9,
+    "g_reviews": 8,
+    "g_address": "日本、〒103-0007 東京都中央区日本橋浜町３丁目３−１",
+    "lat": 35.6850587,
+    "lng": 139.7882225
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "ザ・ペニンシュラ ブティック＆カフェ",
+    "name_en": "The Peninsula Boutique & Cafe",
+    "area": "東京都 日比谷駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130102/13043019/",
+    "rating": 3.84,
+    "review_count_tabelog": 1202,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cake, Cafe, Bread",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round (Currently operating for Take Away only)"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 392,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ55FqKPCLGGARYzuoBjmleaA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13043019-2ebab01bf994f8b64651eba5a9ef2cf1b78e1f5ba7711c02954b77fd501cd3e7.jpg",
+    "place_id": "ChIJ55FqKPCLGGARYzuoBjmleaA",
+    "g_name": "ザ・ペニンシュラ ブティック＆カフェ東京",
+    "g_rating": 4.2,
+    "g_reviews": 392,
+    "g_address": "日本、〒100-0006 東京都千代田区有楽町１丁目８−１",
+    "lat": 35.6747224,
+    "lng": 139.7606781
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "クリオロ 中目黒店",
+    "name_en": "Criollo Nakameguro Ten",
+    "area": "東京都 中目黒駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13077927/",
+    "rating": 3.78,
+    "review_count_tabelog": 1192,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "-",
+    "sub_categories": "Cake, Chocolate, Macaroon",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 19:00",
+        "dtl_text": "11:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 373,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJf4_O50iLGGARE2nKz-xoLpk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13077927-6efa1e73ecf5608d82a5ec3f5db57212956332d5b64c49ed0e6fec2b42b0497c.jpg",
+    "place_id": "ChIJf4_O50iLGGARE2nKz-xoLpk",
+    "g_name": "クリオロ 中目黒店",
+    "g_rating": 4.4,
+    "g_reviews": 373,
+    "g_address": "日本、〒153-0051 東京都目黒区上目黒１丁目２３−１ 中目黒アリーナ 103",
+    "lat": 35.6443648,
+    "lng": 139.6996333
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "PATISSERIE ASAKO IWAYANAGI",
+    "name_en": "PATISSERIE ASAKO IWAYANAGI",
+    "area": "東京都 等々力駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131715/13189509/",
+    "rating": 3.83,
+    "review_count_tabelog": 1369,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "-",
+    "sub_categories": "Cake, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 16:00",
+        "dtl_text": "11:00 - 16:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 930,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJz7RQHFb0GGARb_hxcUrI4Ck",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13189509-92703fb5bcf6eae6726ddc530c08993cc19eccd549a5f07b5b08d90dd1f330ed.jpg",
+    "place_id": "ChIJz7RQHFb0GGARb_hxcUrI4Ck",
+    "g_name": "PÂTISSERIE ASAKO IWAYANAGI",
+    "g_rating": 4.2,
+    "g_reviews": 930,
+    "g_address": "日本、〒158-0082 東京都世田谷区等々力４丁目４−５",
+    "lat": 35.6080517,
+    "lng": 139.6501484
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "ノリエット",
+    "name_en": "Noriette",
+    "area": "東京都 下高井戸駅",
+    "url": "https://tabelog.com/tokyo/A1318/A131809/13000687/",
+    "rating": 3.74,
+    "review_count_tabelog": 504,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cake, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 19:00",
+        "dtl_text": "10:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13000687-bbd7569bfdc032852c7cd09e440592da270d56761ff49ae304f23ed57313aa3d.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "パティスリートレカルム",
+    "name_en": "Pâtisserie Très Calme",
+    "area": "東京都 千石駅",
+    "url": "https://tabelog.com/tokyo/A1323/A132301/13175122/",
+    "rating": 3.85,
+    "review_count_tabelog": 684,
+    "price_dinner": "～￥999",
+    "price_lunch": "-",
+    "sub_categories": "Cake, Macaroon, Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 19:00",
+        "dtl_text": "11:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 211,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJh2BGLaONGGARldNNJcLGUrE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13175122-a5dd3c5802d3c755aebc6688fce80fcebc5f7b36a8fdd5c77fd0d4af9232e2f7.jpg",
+    "place_id": "ChIJh2BGLaONGGARldNNJcLGUrE",
+    "g_name": "TRÈS CALME トレカルム",
+    "g_rating": 4.2,
+    "g_reviews": 211,
+    "g_address": "日本、〒112-0011 東京都文京区千石４丁目４０−２５",
+    "lat": 35.72858920000001,
+    "lng": 139.7424064
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "近江屋洋菓子店",
+    "name_en": "Omiya Yogashi Ten",
+    "area": "東京都 淡路町駅",
+    "url": "https://tabelog.com/tokyo/A1310/A131002/13000337/",
+    "rating": 3.73,
+    "review_count_tabelog": 1925,
+    "price_dinner": "～￥999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cake, Bread, Juice stand",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "10:00 - 19:00",
+        "dtl_text": "10:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "10:00 - 17:30",
+        "dtl_text": "10:00 - 17:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 1779,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJp45zWBuMGGAR5SyH9FTxb8Q",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13000337-073fc4ced759f957f07715e9c0cecee978174909f0671edcbb6df6bc91a33ac0.jpg",
+    "place_id": "ChIJp45zWBuMGGAR5SyH9FTxb8Q",
+    "g_name": "近江屋洋菓子店",
+    "g_rating": 4.1,
+    "g_reviews": 1779,
+    "g_address": "日本、〒101-0063 東京都千代田区神田淡路町２丁目４",
+    "lat": 35.6964708,
+    "lng": 139.7677711
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "フレデリック カッセル 銀座三越店",
+    "name_en": "Frederic Cassel Ginza Mitsukoshi Ten",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13116839/",
+    "rating": 3.91,
+    "review_count_tabelog": 1691,
+    "price_dinner": "-",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Cake, Sweets, Chocolate",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "10:00 - 20:00",
+        "dtl_text": "10:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Follows the business days of Ginza Mitsukoshi."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 284,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJX9MhjuaLGGAR08JMDcXX81g",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13116839-7eecd1ef6b8889d7d6dec98d191a9c61a8778851ed1ccc06228e904307c1bafb.jpg",
+    "place_id": "ChIJX9MhjuaLGGAR08JMDcXX81g",
+    "g_name": "フレデリック·カッセル 銀座三越店",
+    "g_rating": 4.4,
+    "g_reviews": 284,
+    "g_address": "日本、〒104-8212 東京都中央区銀座４丁目６−１６",
+    "lat": 35.6712721,
+    "lng": 139.7659393
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "リベルターブル 赤坂店",
+    "name_en": "Libertable Akasaka Ten",
+    "area": "東京都 赤坂駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130801/13160987/",
+    "rating": 3.67,
+    "review_count_tabelog": 1319,
+    "price_dinner": "～￥999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cake, Cafe, Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 20:00",
+        "dtl_text": "11:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 382,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJdze-GYeLGGARMexD6a1Sxs0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13160987-c6a54feb327cfdf18d0a3318bf938cf8b046007bccb044a948445dc00f99002c.jpg",
+    "place_id": "ChIJdze-GYeLGGARMexD6a1Sxs0",
+    "g_name": "リベルターブル 赤坂",
+    "g_rating": 4.1,
+    "g_reviews": 382,
+    "g_address": "日本、〒107-0052 東京都港区赤坂２丁目６−２４",
+    "lat": 35.6731823,
+    "lng": 139.7386404
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "パーラー ローレル",
+    "name_en": "Parlour Laurel",
+    "area": "東京都 九品仏駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131715/13003097/",
+    "rating": 3.77,
+    "review_count_tabelog": 604,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cake, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "09:30 - 18:30 L.O. 18:00",
+        "dtl_text": "09:30 - 18:30 L.O. 18:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 161,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJbZS0ev30GGARpmLupdHNqpQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13003097-9bd77bf9b4630da451b8d3ed2800d7f7c083d275abc28a10896f8a9d65aa375f.jpg",
+    "place_id": "ChIJbZS0ev30GGARpmLupdHNqpQ",
+    "g_name": "パーラーローレル",
+    "g_rating": 4.2,
+    "g_reviews": 161,
+    "g_address": "日本、〒158-0083 東京都世田谷区奥沢７丁目２４−３ 九品仏スカイハイツ",
+    "lat": 35.6066462,
+    "lng": 139.6586004
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "成城アルプス",
+    "name_en": "Seijo Alps",
+    "area": "東京都 成城学園前駅",
+    "url": "https://tabelog.com/tokyo/A1318/A131814/13002002/",
+    "rating": 3.75,
+    "review_count_tabelog": 867,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cake, Kissa (Japanese coffee shop), Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "10:00 - 18:00",
+        "dtl_text": "10:00 - 18:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 696,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJEXCDv2jxGGARTjdccAu8vQ4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13002002-4fa261a94a5b5129fb09a319f1f82b307b1b3f852f25b1e9bf3a93ec2aaf97a5.jpg",
+    "place_id": "ChIJEXCDv2jxGGARTjdccAu8vQ4",
+    "g_name": "成城アルプス",
+    "g_rating": 4.3,
+    "g_reviews": 696,
+    "g_address": "日本、〒157-0066 東京都世田谷区成城６丁目８−１",
+    "lat": 35.6403541,
+    "lng": 139.598053
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "パティスリー レザネフォール 恵比寿本店",
+    "name_en": "Patisserie Les Annees Folles Ebisu Honten",
+    "area": "東京都 代官山駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130302/13149501/",
+    "rating": 3.77,
+    "review_count_tabelog": 1225,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cake",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 21:00",
+        "dtl_text": "10:00 - 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 328,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ88Nj0kaLGGAR5WfmZaTVFLk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13149501-e226de5c2037b41eb6ca256960d8cacc1a21173d5e4ec5aa2fce164c257269ae.jpg",
+    "place_id": "ChIJ88Nj0kaLGGAR5WfmZaTVFLk",
+    "g_name": "パティスリー レザネフォール 恵比寿",
+    "g_rating": 4.2,
+    "g_reviews": 328,
+    "g_address": "日本、〒150-0021 東京都渋谷区恵比寿西１丁目２１−３ グレイス代官山",
+    "lat": 35.6463954,
+    "lng": 139.7062811
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "ショコラティエ パレ ド オール 東京",
+    "name_en": "CHOCOLATIER PALET D’OR Tokyo",
+    "area": "東京都 大手町駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130201/13038473/",
+    "rating": 3.87,
+    "review_count_tabelog": 1781,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Chocolate, Cafe, Cake",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 21:00 L.O. 20:30",
+        "dtl_text": "11:00 - 21:00 L.O. 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "11:00 - 20:00 L.O. 19:30",
+        "dtl_text": "11:00 - 20:00 L.O. 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "January 1 and other days in accordance with the Shin-Marunouchi Building schedule."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 620,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJN4zgs_mLGGARXqUyHIyqsUs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13038473-a35736ad9c2e2bf68555ebb72efe9853ef282199eea8462abcf57c68c4c861a7.jpg",
+    "place_id": "ChIJN4zgs_mLGGARXqUyHIyqsUs",
+    "g_name": "ショコラティエ パレ ド オール 東京",
+    "g_rating": 4.2,
+    "g_reviews": 620,
+    "g_address": "日本、〒100-6501 東京都千代田区丸の内１丁目５−１ 新丸の内ビル 1F",
+    "lat": 35.6827314,
+    "lng": 139.7639987
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "フランス菓子 パティシエ ショコラティエ イナムラショウゾウ",
+    "name_en": "French Gashi Patissier Chocolatier Inamura Shozo",
+    "area": "東京都 日暮里駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131105/13047298/",
+    "rating": 3.85,
+    "review_count_tabelog": 1366,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cake, Chocolate",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 18:00",
+        "dtl_text": "10:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The third Tuesday of each month. If Monday is a public holiday, we will be closed the following Tuesday."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 1221,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJjbjJQNSNGGARmg7OrrpQSRk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13047298-8f5318ebb84325ee1edd7690d4ddb06106194de1c5e03cd6eca7a30502502819.jpg",
+    "place_id": "ChIJjbjJQNSNGGARmg7OrrpQSRk",
+    "g_name": "イナムラショウゾウ",
+    "g_rating": 4.3,
+    "g_reviews": 1221,
+    "g_address": "日本、〒110-0001 東京都台東区谷中７丁目１９−５",
+    "lat": 35.7273921,
+    "lng": 139.7693669
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "GAZTA",
+    "name_en": "GAZTA",
+    "area": "東京都 白金高輪駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131602/13223261/",
+    "rating": 3.85,
+    "review_count_tabelog": 1253,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cake",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "09:00 - 19:00",
+        "dtl_text": "09:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 462,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-1t8fC6LGGARbct-SwIyTkE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13223261-c0b3e7a112344f6ef2b75695f4c60c68f52fb2df7804940979476d7f75af1d34.jpg",
+    "place_id": "ChIJ-1t8fC6LGGARbct-SwIyTkE",
+    "g_name": "GAZTA",
+    "g_rating": 4.2,
+    "g_reviews": 462,
+    "g_address": "日本、〒108-0072 東京都港区白金１丁目１４−１０",
+    "lat": 35.645273,
+    "lng": 139.733477
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "西洋菓子 しろたえ",
+    "name_en": "SIROTAE",
+    "area": "東京都 赤坂見附駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130801/13002850/",
+    "rating": 3.79,
+    "review_count_tabelog": 2803,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cake, Cafe, Kissa (Japanese coffee shop)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "10:30 - 19:30",
+        "dtl_text": "10:30 - 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 1120,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJzVeb736MGGARDLWOQdspiM4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13002850-e2b1833924fd9221422993ee8cc4387a5dcf56a80a4739b5473fc6cc46977375.jpg",
+    "place_id": "ChIJzVeb736MGGARDLWOQdspiM4",
+    "g_name": "洋菓子店 しろたえ",
+    "g_rating": 4.1,
+    "g_reviews": 1120,
+    "g_address": "日本、〒107-0052 東京都港区赤坂４丁目１−４",
+    "lat": 35.6766573,
+    "lng": 139.7354098
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "ラトリエ ア マ ファソン",
+    "name_en": "L'Atelier à Ma Façon",
+    "area": "東京都 上野毛駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131715/13242556/",
+    "rating": 3.95,
+    "review_count_tabelog": 541,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Sweets, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:15 - 15:00 L.O. 14:15",
+        "dtl_text": "10:15 - 15:00 L.O. 14:15",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (please check our Instagram for updates)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 216,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJjx9wnrH1GGAROkzp9rgeTMg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13242556-84e5a2ecad0db863614a4c52d8769fb8c66608683f6a479732e68227f1073221.jpg",
+    "place_id": "ChIJjx9wnrH1GGAROkzp9rgeTMg",
+    "g_name": "ラトリエ・ア・マ・ファソン",
+    "g_rating": 4.3,
+    "g_reviews": 216,
+    "g_address": "日本、〒158-0093 東京都世田谷区上野毛１丁目２６−１４",
+    "lat": 35.6125975,
+    "lng": 139.6388067
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "パティスリー イル・プルー・シュル・ラ・セーヌ",
+    "name_en": "IL PLEUT SUR LA SEINE",
+    "area": "東京都 代官山駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130303/13001912/",
+    "rating": 3.77,
+    "review_count_tabelog": 677,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cake",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Fri, Sat",
+        "dtl": "12:00 - 17:00",
+        "dtl_text": "12:00 - 17:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 137,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJMyUl00-LGGARqmLJC-ABmiQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13001912-3394e986881d2b1163925a182d2df9c8f1b1c583e4928b1ecd546f02069a830d.jpg",
+    "place_id": "ChIJMyUl00-LGGARqmLJC-ABmiQ",
+    "g_name": "イル・プルー・シュル・ラ・セーヌ",
+    "g_rating": 4.4,
+    "g_reviews": 137,
+    "g_address": "日本、〒150-0033 東京都渋谷区猿楽町１７−１６ 代官山フォーラムＡＢ棟 2F",
+    "lat": 35.649535,
+    "lng": 139.6987557
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "パティスリー プレジール",
+    "name_en": "Plaisir",
+    "area": "東京都 西太子堂駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131706/13045491/",
+    "rating": 3.86,
+    "review_count_tabelog": 652,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "-",
+    "sub_categories": "Cake, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Sat & Sun": {}
+      },
+      "closed_on": "Monday to Friday"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 161,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJITHJrmbzGGART2Ajbm9u9_U",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13045491-c345c4ea4480d3f62654d7e392fc353a991ffe08203b09679ac5b2dc2375523c.jpg",
+    "place_id": "ChIJITHJrmbzGGART2Ajbm9u9_U",
+    "g_name": "パティスリー プレジール",
+    "g_rating": 4.2,
+    "g_reviews": 161,
+    "g_address": "日本、〒155-0032 東京都世田谷区代沢４丁目７−３ ベルハイム代沢",
+    "lat": 35.6506864,
+    "lng": 139.6659699
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "フィオレンティーナ ペストリーブティック",
+    "name_en": "Fiorentina Pastry Boutique",
+    "area": "東京都 六本木駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13060521/",
+    "rating": 3.77,
+    "review_count_tabelog": 813,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cake, Bread, Chocolate",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "09:00 - 21:30",
+        "dtl_text": "09:00 - 21:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 148,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKf3d-3aLGGARHWjDlmJmUNA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13060521-84be5bea24473451c7496960a5e9b1bb42cb94cc1f4689bc24d65ff36c9cf8bc.jpg",
+    "place_id": "ChIJKf3d-3aLGGARHWjDlmJmUNA",
+    "g_name": "フィオレンティーナ ペストリーブティック",
+    "g_rating": 4.3,
+    "g_reviews": 148,
+    "g_address": "日本、〒106-0032 東京都港区六本木６丁目１０−３ グランド ハイアット東京 1階",
+    "lat": 35.6596331,
+    "lng": 139.7283632
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "ア コテ パティスリー",
+    "name_en": "A Cote Patisserie",
+    "area": "東京都 白金台駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131602/13051424/",
+    "rating": 3.77,
+    "review_count_tabelog": 582,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Sweets (Western style), Cake, Chocolate",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 17:00",
+        "dtl_text": "11:00 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 3.5,
+    "google_reviews": 81,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJO_ufswGLGGAR7p1fVv096TE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13051424-92e573a057251c10a03f2fdac09b1c43695a38d93aff2594a785b6e9ed7dc07d.jpg",
+    "place_id": "ChIJO_ufswGLGGAR7p1fVv096TE",
+    "g_name": "À Côté Patisserie",
+    "g_rating": 3.5,
+    "g_reviews": 81,
+    "g_address": "日本、〒108-0071 東京都港区白金台２丁目５−１１ 加藤木アパート",
+    "lat": 35.6359951,
+    "lng": 139.7292769
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "ラデュレ サロン・ド・テ 銀座三越店",
+    "name_en": "Laduree Salon de the Ginza Mitsukoshi Ten",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13053865/",
+    "rating": 3.77,
+    "review_count_tabelog": 1494,
+    "price_dinner": "-",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Macaroon, Cafe, French",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Closed in accordance with Mitsukoshi's schedule"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 698,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJO8iZiOaLGGAR2LHU0udcriY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13053865-d3d4112d03be38c44d5e8765cc40a7997f17c396a60acc813577dfbbfd13d8af.jpg",
+    "place_id": "ChIJO8iZiOaLGGAR2LHU0udcriY",
+    "g_name": "ラデュレ 銀座店",
+    "g_rating": 4.1,
+    "g_reviews": 698,
+    "g_address": "日本、〒104-8212 東京都中央区銀座４丁目６−１６ 三越銀座店 本館 地下2F",
+    "lat": 35.6712864,
+    "lng": 139.7657382
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "パティスリー ラ・グリシーヌ",
+    "name_en": "Patisserie　la　glycine",
+    "area": "東京都 池尻大橋駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131705/13150993/",
+    "rating": 3.8,
+    "review_count_tabelog": 498,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cake, Sweets",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 19:00",
+        "dtl_text": "12:00 - 19:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every Monday and the first and third Tuesday of the month (if a holiday falls on these days, we will be closed the following day)."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 161,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJN2kSs6z0GGARtpbGxTpB3vk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13150993-6eb2207ee2b06465a748cd9a4813e11d72aa2cdbef4121358b21c56398b39c3e.jpg",
+    "place_id": "ChIJN2kSs6z0GGARtpbGxTpB3vk",
+    "g_name": "パティスリー ラ グリシーヌ",
+    "g_rating": 4.5,
+    "g_reviews": 161,
+    "g_address": "日本、〒153-0042 東京都目黒区青葉台３丁目１７−７ 佐藤マンション 1F",
+    "lat": 35.6505874,
+    "lng": 139.6910845
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "マッターホーン",
+    "name_en": "MATTERHORN",
+    "area": "東京都 学芸大学駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131702/13003197/",
+    "rating": 3.75,
+    "review_count_tabelog": 1355,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cake, Kissa (Japanese coffee shop), Baumkuchen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "09:00 - 18:30",
+        "dtl_text": "09:00 - 18:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays (Open on public holidays)"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 1308,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJz3mDX870GGARCDmzD7wN4og",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13003197-cd2aaab954e669cf24315833e7b3740834975891249479dad2cbda76e19cf60f.jpg",
+    "place_id": "ChIJz3mDX870GGARCDmzD7wN4og",
+    "g_name": "マッターホーン",
+    "g_rating": 4.2,
+    "g_reviews": 1308,
+    "g_address": "日本、〒152-0004 東京都目黒区鷹番３丁目５−１ カワムラビル",
+    "lat": 35.6281048,
+    "lng": 139.6847244
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "フルーフ・デゥ・セゾン",
+    "name_en": "Fruits de Saison",
+    "area": "東京都 末広町駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131101/13009142/",
+    "rating": 3.72,
+    "review_count_tabelog": 974,
+    "price_dinner": "-",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Fruit parlour, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "10:00 - 17:30 L.O. 17:00",
+        "dtl_text": "10:00 - 17:30 L.O. 17:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 17:30 L.O. 17:00",
+        "dtl_text": "11:30 - 17:30 L.O. 17:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 787,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJz0ryVaeOGGAREe7B9wXIOh0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13009142-893253add3a06fab8a0d954b118f3e44156cf9495695991f95040ea1f165c1d2.jpg",
+    "place_id": "ChIJz0ryVaeOGGAREe7B9wXIOh0",
+    "g_name": "フルーフ･デゥ･セゾン",
+    "g_rating": 4.2,
+    "g_reviews": 787,
+    "g_address": "日本、〒101-0021 東京都千代田区外神田４丁目１１−２ 高關ビル",
+    "lat": 35.7023525,
+    "lng": 139.7729033
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "マテリエル",
+    "name_en": "Materiel",
+    "area": "東京都 大山駅",
+    "url": "https://tabelog.com/tokyo/A1322/A132203/13110008/",
+    "rating": 3.82,
+    "review_count_tabelog": 876,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cake, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri, Sat, Sun",
+        "dtl": "10:00 - 18:00",
+        "dtl_text": "10:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 515,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_Uss_raSGGARJ2FBV_SpLHk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13110008-f9868b34e34d23e1ee45625f3b8f6fb5376984603de6bcde49fa0fb213244dc6.jpg",
+    "place_id": "ChIJ_Uss_raSGGARJ2FBV_SpLHk",
+    "g_name": "マテリエル",
+    "g_rating": 4.3,
+    "g_reviews": 515,
+    "g_address": "日本、〒173-0023 東京都板橋区大山町２１−６",
+    "lat": 35.7482997,
+    "lng": 139.6987421
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "チリムーロ",
+    "name_en": "Chirimulo",
+    "area": "東京都 渋谷駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130301/13164533/",
+    "rating": 3.76,
+    "review_count_tabelog": 607,
+    "price_dinner": "～￥999",
+    "price_lunch": "-",
+    "sub_categories": "Cake, Sweets",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Thu, Sat",
+        "dtl": "12:00 - 18:30",
+        "dtl_text": "12:00 - 18:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Fri",
+        "dtl": "12:00 - 19:30",
+        "dtl_text": "12:00 - 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Irregular hours from Thursday to Sunday, please check our Instagram for updates."
+    },
+    "google_rating": 4.1,
+    "google_reviews": 135,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ12I5FVuLGGARPE9iQLuv41w",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13164533-4d3c8a5550abb42c72ded2492a73323268a2cff66ca05d4b4a297ee90fc08174.jpg",
+    "place_id": "ChIJ12I5FVuLGGARPE9iQLuv41w",
+    "g_name": "チリムーロ",
+    "g_rating": 4.1,
+    "g_reviews": 135,
+    "g_address": "日本、〒150-0033 東京都渋谷区猿楽町１−３",
+    "lat": 35.6536391,
+    "lng": 139.7051795
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "ル・コワンヴェール パトリック・ルメル",
+    "name_en": "Le Coin Vert PATRICK LEMESLE",
+    "area": "東京都 飯田橋駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13058480/",
+    "rating": 3.75,
+    "review_count_tabelog": 835,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cake, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 19:00",
+        "dtl_text": "11:00 - 19:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:00 - 18:00",
+        "dtl_text": "11:00 - 18:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 361,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJc5OnFFuMGGAR7ACnn3XKf6E",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13058480-dda074afcb7ad0a785ac039a0b4ce3248a84fb1bc586a8c7776e146e16d5e354.jpg",
+    "place_id": "ChIJc5OnFFuMGGAR7ACnn3XKf6E",
+    "g_name": "ル・コワンヴェール 神楽坂",
+    "g_rating": 4.5,
+    "g_reviews": 361,
+    "g_address": "日本、〒162-0825 東京都新宿区神楽坂２丁目２０−１４",
+    "lat": 35.6998715,
+    "lng": 139.7406534
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "ノワ・ドゥ・ブール 新宿伊勢丹店",
+    "name_en": "noix de beurre Shinjuku Isetan Ten",
+    "area": "東京都 新宿三丁目駅",
+    "url": "https://tabelog.com/tokyo/A1304/A130401/13124571/",
+    "rating": 3.78,
+    "review_count_tabelog": 1610,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cake, Chocolate",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 20:00",
+        "dtl_text": "10:00 - 20:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (following Isetan Shinjuku's schedule)"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 218,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8WIyV1KNGGAR5Axx2vIEmwc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13124571-dd3d452c46e57963041fa930ad8167c8129ea65cccfd1fb916716db5ae3de127.jpg",
+    "place_id": "ChIJ8WIyV1KNGGAR5Axx2vIEmwc",
+    "g_name": "ノワ・ドゥ・ブール 新宿伊勢丹店",
+    "g_rating": 4.2,
+    "g_reviews": 218,
+    "g_address": "日本、〒160-0022 東京都新宿区新宿３丁目１４−１ 本館 地下1階",
+    "lat": 35.6917388,
+    "lng": 139.704545
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "ひみつ堂",
+    "name_en": "Himitsu Do",
+    "area": "東京都 千駄木駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131106/13126796/",
+    "rating": 3.77,
+    "review_count_tabelog": 2736,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kakigori (Shaved ice), Cafe featuring Japanese sweets",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "10:00 - 17:00",
+        "dtl_text": "10:00 - 17:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "08:00 - 17:00",
+        "dtl_text": "08:00 - 17:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "◾️We will reopen on November 1 (Saturday) at 8:00 AM for the start of our winter season."
+    },
+    "google_rating": 3.7,
+    "google_reviews": 2371,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2-df4NONGGARslLOZGRmWZ8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13126796-af13577bf8033d9a17a6c9e20383c211c98fb2c655aa602cdd781f5815b6172e.jpg",
+    "place_id": "ChIJ2-df4NONGGARslLOZGRmWZ8",
+    "g_name": "ひみつ堂",
+    "g_rating": 3.7,
+    "g_reviews": 2371,
+    "g_address": "日本、〒110-0001 東京都台東区谷中３丁目１１−１８",
+    "lat": 35.72732999999999,
+    "lng": 139.7666143
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "ケンズカフェ東京 総本店",
+    "name_en": "KEN'S CAFE TOKYO Sohon Ten",
+    "area": "東京都 新宿御苑前駅",
+    "url": "https://tabelog.com/tokyo/A1304/A130402/13024643/",
+    "rating": 3.83,
+    "review_count_tabelog": 1571,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Chocolate, Cake",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 19:00",
+        "dtl_text": "11:00 - 19:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 515,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJjy5enOmMGGAR4NkVhSej5z0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13024643-d0583cb7cd39140d5809895392128223c4607e231864cdc1b78ac923b456e8a7.jpg",
+    "place_id": "ChIJjy5enOmMGGAR4NkVhSej5z0",
+    "g_name": "ケンズカフェ東京総本店",
+    "g_rating": 4.2,
+    "g_reviews": 515,
+    "g_address": "日本、〒160-0022 東京都新宿区新宿１丁目２３−３",
+    "lat": 35.6887141,
+    "lng": 139.7138951
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "スタイルズケイクス＆カンパニー",
+    "name_en": "STYLE'S CAKES & CO.",
+    "area": "東京都 神保町駅",
+    "url": "https://tabelog.com/tokyo/A1310/A131003/13125138/",
+    "rating": 3.82,
+    "review_count_tabelog": 869,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cake",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri",
+        "dtl": "12:00 - 18:00",
+        "dtl_text": "12:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Sat, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 173,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJA-B1wBCMGGARiJOAkIDd08I",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13125138-d2df0e927fbd814cb5e5826dd5092ab074e7597a35febec4e75c71e8a7477847.jpg",
+    "place_id": "ChIJA-B1wBCMGGARiJOAkIDd08I",
+    "g_name": "STYLE'S CAKES & CO.",
+    "g_rating": 4.4,
+    "g_reviews": 173,
+    "g_address": "日本、〒101-0052 東京都千代田区神田小川町３丁目１６−５",
+    "lat": 35.696734,
+    "lng": 139.7604738
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "LESS Labo",
+    "name_en": "LESS Labo",
+    "area": "東京都 恵比寿駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130302/13239458/",
+    "rating": 3.93,
+    "review_count_tabelog": 591,
+    "price_dinner": "-",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Cake, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 19:00",
+        "dtl_text": "11:00 - 19:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 189,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmbEO3saLGGARdEc5OWno3PU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13239458-28c51d00ea1317e0151b75e22c7279741e109f2e47d1b91d154d3ae018345c6d.jpg",
+    "place_id": "ChIJmbEO3saLGGARdEc5OWno3PU",
+    "g_name": "LESS by Gabriele Riva & Kanako Sakakura",
+    "g_rating": 4.2,
+    "g_reviews": 189,
+    "g_address": "日本、〒153-0062 東京都目黒区三田１丁目１２−２４ MT 3ビル 1F",
+    "lat": 35.6418993,
+    "lng": 139.7118894
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "レピキュリアン",
+    "name_en": "L'EPICURIEN",
+    "area": "東京都 吉祥寺駅",
+    "url": "https://tabelog.com/tokyo/A1320/A132001/13005891/",
+    "rating": 3.8,
+    "review_count_tabelog": 955,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cake, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "12:00 - 18:00",
+        "dtl_text": "12:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 287,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5X-7_DfuGGARUgazSd5ZPco",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13005891-67772dc37d27bb697edccc6fe75881f0eeaab19d2bc328cf480f0e4bfd02307c.jpg",
+    "place_id": "ChIJ5X-7_DfuGGARUgazSd5ZPco",
+    "g_name": "ケーキ屋 レピキュリアン",
+    "g_rating": 4,
+    "g_reviews": 287,
+    "g_address": "日本、〒180-0003 東京都武蔵野市吉祥寺南町１丁目９−５",
+    "lat": 35.7019463,
+    "lng": 139.5783745
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "ツッカベッカライ カヤヌマ",
+    "name_en": "Zuckerbäckerei Kayanuma",
+    "area": "東京都 溜池山王駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130802/13002756/",
+    "rating": 3.78,
+    "review_count_tabelog": 1139,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "-",
+    "sub_categories": "Cake, Sweets (Western style)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 16:00",
+        "dtl_text": "11:00 - 16:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 662,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJg124CY-LGGARxmHL_0Cx8C8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13002756-299133d0af50abd5bdf6122f7427c8aeed6600abbf5cbf7ccf8a2eece6f45505.jpg",
+    "place_id": "ChIJg124CY-LGGARxmHL_0Cx8C8",
+    "g_name": "ツッカベッカライ カヤヌマ",
+    "g_rating": 4.2,
+    "g_reviews": 662,
+    "g_address": "日本、〒107-0052 東京都港区赤坂１丁目４−５",
+    "lat": 35.6703099,
+    "lng": 139.7439352
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "ヨハン 本店",
+    "name_en": "JOHANN Hon Ten",
+    "area": "東京都 中目黒駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13003450/",
+    "rating": 3.75,
+    "review_count_tabelog": 933,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cake",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 18:30",
+        "dtl_text": "10:00 - 18:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "April - September": {},
+        "October - March": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 319,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJYeb22U6LGGARZKS77JF278k",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13003450-2ba960865db370a743744a87055b870215f2e6f6cdcd9aaee4a893cc9fc8f49c.jpg",
+    "place_id": "ChIJYeb22U6LGGARZKS77JF278k",
+    "g_name": "ヨハン 本店",
+    "g_rating": 4.2,
+    "g_reviews": 319,
+    "g_address": "日本、〒153-0051 東京都目黒区上目黒１丁目１８−１５",
+    "lat": 35.6457712,
+    "lng": 139.6985587
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "パティスリー SATSUKI",
+    "name_en": "Patisserie Satsuki",
+    "area": "東京都 麹町駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130803/13000178/",
+    "rating": 3.84,
+    "review_count_tabelog": 1634,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cake, Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 20:00",
+        "dtl_text": "11:00 - 20:00"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 1329,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ89uL5HyMGGAR151b-bpNrlU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13000178-dbe290d22eabc4104326ee32efdb76d335d05ba720cc1f17282366c8bf6aa19a.jpg",
+    "place_id": "ChIJ89uL5HyMGGAR151b-bpNrlU",
+    "g_name": "パティスリー SATSUKI",
+    "g_rating": 4.2,
+    "g_reviews": 1329,
+    "g_address": "日本、〒102-8578 東京都千代田区紀尾井町４−１ ホテルニューオータニ ザ・メイン ロビィ階",
+    "lat": 35.6809101,
+    "lng": 139.7340409
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "アルノー・ラエール 広尾本店",
+    "name_en": "Arnaud Rael Hiro Honten",
+    "area": "東京都 広尾駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130703/13217253/",
+    "rating": 3.8,
+    "review_count_tabelog": 601,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cake, Chocolate, Macaroon",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "10:30 - 20:30",
+        "dtl_text": "10:30 - 20:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 160,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJY6-qyRKLGGARjL75YEILvTM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13217253-4d3d2e1ab00d66ac61a9d62398c6b3e0c212179bacb4b60f0f5b85b0e3ffde2a.jpg",
+    "place_id": "ChIJY6-qyRKLGGARjL75YEILvTM",
+    "g_name": "アルノー・ラエール パリ GINZA SIX",
+    "g_rating": 4.2,
+    "g_reviews": 160,
+    "g_address": "日本、〒150-0012 東京都中央区銀座６丁目１０−１ B2F",
+    "lat": 35.6695455,
+    "lng": 139.7640451
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "ロートンヌ 中野店",
+    "name_en": "L'AUTOMNE Nakano Ten",
+    "area": "東京都 新江古田駅",
+    "url": "https://tabelog.com/tokyo/A1321/A132101/13118933/",
+    "rating": 3.8,
+    "review_count_tabelog": 597,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cake, Cafe, Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 18:00",
+        "dtl_text": "11:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 501,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJqToqKmjtGGARZZwNDca8HGQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13118933-035d92fbe4b75d64a004f48a1691a4f9e8b0de5333c28fea092001fc78e4db65.jpg",
+    "place_id": "ChIJqToqKmjtGGARZZwNDca8HGQ",
+    "g_name": "ロートンヌ中野店",
+    "g_rating": 4.3,
+    "g_reviews": 501,
+    "g_address": "日本、〒165-0023 東京都中野区江原町２丁目３０−１",
+    "lat": 35.7322755,
+    "lng": 139.6705905
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "ブロンディール",
+    "name_en": "Blondir",
+    "area": "東京都 石神井公園駅",
+    "url": "https://tabelog.com/tokyo/A1321/A132103/13184127/",
+    "rating": 3.81,
+    "review_count_tabelog": 365,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Cake, Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "10:00 - 12:00 13:00 - 18:00",
+        "dtl_text": "13:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 234,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJLYW0NsHcGGARMa3gcSDNGUk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13184127-eb98e7d6cf092fc526c32462b8574fdf32ef02401e7a36178129e33da7aeabe6.jpg",
+    "place_id": "ChIJLYW0NsHcGGARMa3gcSDNGUk",
+    "g_name": "BLONDIR",
+    "g_rating": 4.5,
+    "g_reviews": 234,
+    "g_address": "日本、〒177-0041 東京都練馬区石神井町４丁目２８−１２",
+    "lat": 35.7502448,
+    "lng": 139.6012838
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "松之助 N.Y. 東京・代官山店",
+    "name_en": "MATSUNOSUKE N.Y. Tokyo Daikanyama Ten",
+    "area": "東京都 代官山駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130303/13005179/",
+    "rating": 3.74,
+    "review_count_tabelog": 1135,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cake, Cafe, Pancake",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "09:00 - 18:00 L.O. 17:30",
+        "dtl_text": "09:00 - 18:00 L.O. 17:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (open on public holidays, but closed the following Tuesday as a compensatory day off)"
+    },
+    "google_rating": 4,
+    "google_reviews": 393,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJhwJawhaMGGARPU57jqgvpyE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13005179-83f534f9e86388929a1f8b216edd8f3bb8338ff65f31875e83e1d550412411a8.jpg",
+    "place_id": "ChIJhwJawhaMGGARPU57jqgvpyE",
+    "g_name": "松之助 N.Y. 東京・代官山店",
+    "g_rating": 4,
+    "g_reviews": 393,
+    "g_address": "日本、〒150-0033 東京都渋谷区猿楽町２９−９",
+    "lat": 35.6482085,
+    "lng": 139.7002776
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "巴裡 小川軒 新橋店",
+    "name_en": "Paris Ogawa Ken Shinbashi Ten",
+    "area": "東京都 新橋駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130103/13024996/",
+    "rating": 3.74,
+    "review_count_tabelog": 1174,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Sweets (Western style), Cake",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "10:00 - 18:30",
+        "dtl_text": "10:00 - 18:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "10:00 - 17:00",
+        "dtl_text": "10:00 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 717,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJOWFTtumLGGARteDAjJiyl2Y",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13024996-5ad6cd534d8ca5ed9da0d3c64a939d3f8ce1c0c28b1c084b53536a11e12d6e72.jpg",
+    "place_id": "ChIJOWFTtumLGGARteDAjJiyl2Y",
+    "g_name": "巴裡 小川軒 新橋店",
+    "g_rating": 4.3,
+    "g_reviews": 717,
+    "g_address": "日本、〒105-0004 東京都港区新橋２丁目２０−１５ 新橋駅前ビル1号館 1階 第一京浜側",
+    "lat": 35.6662613,
+    "lng": 139.7597472
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "ラトリエ モトゾー",
+    "name_en": "L'atelier MOTOZO",
+    "area": "東京都 池尻大橋駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131705/13199223/",
+    "rating": 3.76,
+    "review_count_tabelog": 655,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Cake, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Sat, Sun",
+        "dtl": "13:00 - 17:00",
+        "dtl_text": "13:00 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 215,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJw4_R3qv0GGARplvIGsoS7Yg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13199223-928d125caf4e22b1ac32ca2beba735b53676f05ea09a22f0df5247863152204f.jpg",
+    "place_id": "ChIJw4_R3qv0GGARplvIGsoS7Yg",
+    "g_name": "ラトリエ モトゾー",
+    "g_rating": 4.2,
+    "g_reviews": 215,
+    "g_address": "日本、〒153-0043 東京都目黒区東山３丁目１−４ ニューリバー東山",
+    "lat": 35.6507729,
+    "lng": 139.6863493
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "パティスリー ラブリコチエ",
+    "name_en": "Patisserie l’abricotier",
+    "area": "東京都 高円寺駅",
+    "url": "https://tabelog.com/tokyo/A1319/A131904/13100828/",
+    "rating": 3.77,
+    "review_count_tabelog": 805,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cake, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 18:00",
+        "dtl_text": "11:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 292,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4-6_uYDyGGARATc_8mgxbaE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13100828-94bb3260c2caeb41c4ddb83b9ee8fb0a853dbf718a3d6b019b9a1ae9ce4b28c1.jpg",
+    "place_id": "ChIJ4-6_uYDyGGARATc_8mgxbaE",
+    "g_name": "Patisserie l’abricotier パティスリー ラブリコチエ",
+    "g_rating": 4.2,
+    "g_reviews": 292,
+    "g_address": "日本、〒165-0034 東京都中野区大和町１丁目６６−３",
+    "lat": 35.7093514,
+    "lng": 139.6513072
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "パティスリィ ドゥ・ボン・クーフゥ 武蔵小山本店",
+    "name_en": "patisserie de bon coeur  Musashi Koyama Honten",
+    "area": "東京都 武蔵小山駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131710/13032289/",
+    "rating": 3.76,
+    "review_count_tabelog": 876,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "-",
+    "sub_categories": "Cake, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon - Fri": {},
+        "Sat, Sun & Public Holidays": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 355,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJEQWR9tuKGGARYerS5-vB4sM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13032289-4d7fdea33d9a3bb8b6201b616c9015e3a98a12d0862fb17b82564eb057341c1b.jpg",
+    "place_id": "ChIJEQWR9tuKGGARYerS5-vB4sM",
+    "g_name": "ドゥボンクーフゥ",
+    "g_rating": 4.1,
+    "g_reviews": 355,
+    "g_address": "日本、〒142-0062 東京都品川区小山３丁目１１−２",
+    "lat": 35.6199254,
+    "lng": 139.7063421
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "ピエール・エルメ・パリ Aoyama",
+    "name_en": "PIERRE HERME PARIS Aoyama",
+    "area": "東京都 表参道駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130602/13014316/",
+    "rating": 3.78,
+    "review_count_tabelog": 1716,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Cake, Macaroon, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 19:00 L.O. 18:30",
+        "dtl_text": "12:00 - 19:00 L.O. 18:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 876,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJF_UZEqOMGGARn6SasJeB67o",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13014316-2ebc19f46a204869ea24d12135cca09469a32dcfa25afa908019a32227d453e8.jpg",
+    "place_id": "ChIJF_UZEqOMGGARn6SasJeB67o",
+    "g_name": "ピエール・エルメ・パリ 青山",
+    "g_rating": 4.3,
+    "g_reviews": 876,
+    "g_address": "日本、〒150-0001 東京都渋谷区神宮前５丁目５１−８ ラ・ポルト青山 1F・2F",
+    "lat": 35.6628976,
+    "lng": 139.7095311
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "果実園リーベル 東京店",
+    "name_en": "Kajitsuen Liber Tokyo Ten",
+    "area": "東京都 東京駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130201/13131338/",
+    "rating": 3.74,
+    "review_count_tabelog": 1716,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Fruit parlour, Cake, Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 22:00 L.O. 21:00",
+        "dtl_text": "11:00 - 22:00 L.O. 21:00"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.8,
+    "google_reviews": 1277,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJtxODuv6LGGARZ-eox7V3ahA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13131338-cafe155f28855279759cb2a0aa764b8e968becdfd66c06680288ffc337df65fc.jpg",
+    "place_id": "ChIJtxODuv6LGGARZ-eox7V3ahA",
+    "g_name": "果実園リーベル 東京店",
+    "g_rating": 3.8,
+    "g_reviews": 1277,
+    "g_address": "日本、〒100-0005 東京都千代田区丸の内１丁目９−１ 八重北食堂 内",
+    "lat": 35.6822313,
+    "lng": 139.7679736
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "ホットケーキパーラー フルフル 赤坂店",
+    "name_en": "Fru-Full Akasaka Ten",
+    "area": "東京都 赤坂駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130801/13155288/",
+    "rating": 3.78,
+    "review_count_tabelog": 1113,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "-",
+    "sub_categories": "Fruit parlour, Pancake, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 19:30 L.O. 19:00",
+        "dtl_text": "11:00 - 19:30 L.O. 19:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "10:30 - 18:30 L.O. 18:00",
+        "dtl_text": "10:30 - 18:30 L.O. 18:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 522,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ91lPJoSLGGAR8UwQqyEW5eE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13155288-2982e6d2659d465a4e7b663cc45b6ce2197a1424c80087a71e16a23603d2ba34.jpg",
+    "place_id": "ChIJ91lPJoSLGGAR8UwQqyEW5eE",
+    "g_name": "フルフル",
+    "g_rating": 4.4,
+    "g_reviews": 522,
+    "g_address": "日本、〒107-0052 東京都港区赤坂２丁目１７−５２ パラッツオ赤坂 １０３",
+    "lat": 35.6703636,
+    "lng": 139.7388751
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "パンケーキママカフェ VoiVoi",
+    "name_en": "Pancake Mama Cafe VoiVoi",
+    "area": "東京都 三軒茶屋駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131706/13038342/",
+    "rating": 3.73,
+    "review_count_tabelog": 874,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Pancake, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri",
+        "dtl": "11:30 - 18:00 L.O. 17:00",
+        "dtl_text": "11:30 - 18:00 L.O. 17:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 18:00 L.O. 17:00",
+        "dtl_text": "11:00 - 18:00 L.O. 17:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Additionally, please check X (formerly Twitter) for the latest updates."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 394,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJUwDkPKL0GGAR3LyfHRznGAI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13038342-4c05e9faebeacc154be39ad326c0cf72916a6ace61354c1672c8835b9d24e9a6.jpg",
+    "place_id": "ChIJUwDkPKL0GGAR3LyfHRznGAI",
+    "g_name": "パンケーキママカフェ VoiVoi",
+    "g_rating": 4.2,
+    "g_reviews": 394,
+    "g_address": "日本、〒154-0024 東京都世田谷区三軒茶屋１丁目３５−１５",
+    "lat": 35.643087,
+    "lng": 139.6720633
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "Patisserie JUN UJITA",
+    "name_en": "Patisserie JUN UJITA",
+    "area": "東京都 都立大学駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131702/13133033/",
+    "rating": 3.81,
+    "review_count_tabelog": 605,
+    "price_dinner": "～￥999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cake, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:30 - 18:00",
+        "dtl_text": "10:30 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays and Tuesdays. We are open on public holidays."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 236,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_7NIKdT0GGARC0pTbRsvU2k",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13133033-f1186ebd8b5427f8b35129c65d4a2872060ef6af52f5a9e91698a848dbf0e390.jpg",
+    "place_id": "ChIJ_7NIKdT0GGARC0pTbRsvU2k",
+    "g_name": "パティスリー ジュン ウジタ",
+    "g_rating": 4.4,
+    "g_reviews": 236,
+    "g_address": "日本、〒152-0003 東京都目黒区碑文谷４丁目６−６",
+    "lat": 35.6198129,
+    "lng": 139.6863105
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "クレープリー チロル",
+    "name_en": "Creperie Tirol",
+    "area": "東京都 祖師ケ谷大蔵駅",
+    "url": "https://tabelog.com/tokyo/A1318/A131814/13205650/",
+    "rating": 3.81,
+    "review_count_tabelog": 624,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Crepe, Galette",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Fri, Sat, Sun",
+        "dtl": "12:00 - 19:00",
+        "dtl_text": "12:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 317,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJybISc2DxGGARv-hqps7Lujk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13205650-043e18b3ef65c77228dc8def14c560e1191e9fa5ba59114a4e64f38effb676b8.jpg",
+    "place_id": "ChIJybISc2DxGGARv-hqps7Lujk",
+    "g_name": "Creperie Tirol",
+    "g_rating": 4.4,
+    "g_reviews": 317,
+    "g_address": "日本、〒157-0073 東京都世田谷区砧８丁目７−１７",
+    "lat": 35.6411858,
+    "lng": 139.6081808
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "エーグルドゥース",
+    "name_en": "AIGRE DOUCE",
+    "area": "東京都 目白駅",
+    "url": "https://tabelog.com/tokyo/A1305/A130502/13005641/",
+    "rating": 3.99,
+    "review_count_tabelog": 2234,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cake, Macaroon",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 17:00",
+        "dtl_text": "11:00 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The restaurant will be open on Mondays and Tuesdays if they fall on a public holiday."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 1230,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJEQmRkU-NGGAR2GD7JadI6qg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13005641-8b393283dbf011af40e9f51f67c2ecf1347706025956b3b4f67fd1b3e4d60b35.jpg",
+    "place_id": "ChIJEQmRkU-NGGAR2GD7JadI6qg",
+    "g_name": "エーグル ドゥース",
+    "g_rating": 4.4,
+    "g_reviews": 1230,
+    "g_address": "日本、〒161-0033 東京都新宿区下落合３丁目２２−１３",
+    "lat": 35.7224278,
+    "lng": 139.7006485
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "和栗や 谷中店",
+    "name_en": "Waguri Ya Yanaka Ten",
+    "area": "東京都 千駄木駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131106/13130539/",
+    "rating": 3.78,
+    "review_count_tabelog": 1627,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Sweets, Cafe, Gelato, Ice cream",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 17:30 L.O. 16:30",
+        "dtl_text": "11:00 - 17:30 L.O. 16:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 1109,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ656Nd9GNGGARrQhM1-fLwVs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13130539-9480f9a6876a409ff27449b989d8e00c8358c9f117d9b041be4711c426fff858.jpg",
+    "place_id": "ChIJ656Nd9GNGGARrQhM1-fLwVs",
+    "g_name": "和栗や～唯一無二の和栗専門店〜",
+    "g_rating": 4.3,
+    "g_reviews": 1109,
+    "g_address": "日本、〒110-0001 東京都台東区谷中３丁目９−１４",
+    "lat": 35.7276053,
+    "lng": 139.7652906
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "リョウラ",
+    "name_en": "Ryoura",
+    "area": "東京都 用賀駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131707/13188208/",
+    "rating": 3.89,
+    "review_count_tabelog": 863,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "-",
+    "sub_categories": "Cake, Sweets (Western style)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 17:00",
+        "dtl_text": "12:00 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 584,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJd5wbZnT0GGARcAR5_rtaB7s",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13188208-6ffdb6d9473e82e07d7141a2038b54942146bad0e5140129fe323b59367d8651.jpg",
+    "place_id": "ChIJd5wbZnT0GGARcAR5_rtaB7s",
+    "g_name": "リョウラ",
+    "g_rating": 4.4,
+    "g_reviews": 584,
+    "g_address": "日本、〒158-0097 東京都世田谷区用賀４丁目２９−５",
+    "lat": 35.6289406,
+    "lng": 139.6330348
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "Toshi Yoroizuka Mid Town",
+    "name_en": "Toshi Yoroizuka Middo Taun",
+    "area": "東京都 六本木駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13037382/",
+    "rating": 3.79,
+    "review_count_tabelog": 2053,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cake, Sweets (Western style)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 21:00 L.O. 20:00",
+        "dtl_text": "11:00 - 21:00 L.O. 20:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Following the schedule of Tokyo Midtown."
+    },
+    "google_rating": 4,
+    "google_reviews": 471,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJHU98fXiLGGARFVo98cPvr8U",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13037382-541a5c32ea2b02da583715764712fc3d0bb578302340e02f3f2d58dd6b632846.jpg",
+    "place_id": "ChIJHU98fXiLGGARFVo98cPvr8U",
+    "g_name": "トシ ヨロイヅカ 六本木",
+    "g_rating": 4,
+    "g_reviews": 471,
+    "g_address": "日本、〒107-0052 東京都港区赤坂９丁目７−２ 東京 ミッドタウン・イースト 1Ｆ Ｂ－0104",
+    "lat": 35.665432,
+    "lng": 139.7313833
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "オーボンヴュータン 日本橋高島屋店",
+    "name_en": "AU BON VIEUX TEMPS Nihonbashi Takashimaya Ten",
+    "area": "東京都 日本橋駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130202/13023670/",
+    "rating": 3.78,
+    "review_count_tabelog": 749,
+    "price_dinner": "～￥999",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "Cake, Sweets, Side dishes, Delicatessen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:30 - 19:30",
+        "dtl_text": "10:30 - 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 143,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZTl821eJGGARLbDIwq2IR_M",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13023670-93149e69f6d98f2240493d2da510e311623faa2840f8aa8623cc0fdcb618f674.jpg",
+    "place_id": "ChIJZTl821eJGGARLbDIwq2IR_M",
+    "g_name": "AU BON VIEUX TEMPS 日本橋高島屋本館",
+    "g_rating": 4.1,
+    "g_reviews": 143,
+    "g_address": "日本、〒103-8265 東京都中央区日本橋２丁目４−１",
+    "lat": 35.681116,
+    "lng": 139.7733667
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "パティスリー タダシ ヤナギ 八雲店",
+    "name_en": "Patisserie Tadashi Yanagi Yakumo Ten",
+    "area": "東京都 都立大学駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131702/13019733/",
+    "rating": 3.73,
+    "review_count_tabelog": 461,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "-",
+    "sub_categories": "Cake, Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 18:00",
+        "dtl_text": "10:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 103,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJsc0R_t30GGAR5h7rjVxrH74",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13019733-2211abe97d6514ec48e93388a31101c7f31beafd6d953fc965239352ade590e3.jpg",
+    "place_id": "ChIJsc0R_t30GGAR5h7rjVxrH74",
+    "g_name": "パティスリー タダシヤナギ 八雲店",
+    "g_rating": 4.2,
+    "g_reviews": 103,
+    "g_address": "日本、〒152-0023 東京都目黒区八雲２丁目８−１１ 益戸ビル",
+    "lat": 35.6158058,
+    "lng": 139.6711629
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "ハリッツ 上原店",
+    "name_en": "haritts Uehara Ten",
+    "area": "東京都 代々木上原駅",
+    "url": "https://tabelog.com/tokyo/A1318/A131811/13023466/",
+    "rating": 3.79,
+    "review_count_tabelog": 1540,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Donut, Cafe, Sweets (Western style)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "10:00 - 16:00",
+        "dtl_text": "10:00 - 16:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Public Holiday",
+        "dtl": "11:30 - 16:00",
+        "dtl_text": "11:30 - 16:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 497,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJEVYEa0jzGGARYZCh7YrDkls",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13023466-33bca02f71a5c0930de901aa4f8fa79c52c014e04cc3931b431c67ec0cf5bc8f.jpg",
+    "place_id": "ChIJEVYEa0jzGGARYZCh7YrDkls",
+    "g_name": "ハリッツ ドーナツアンドコーヒー上原店",
+    "g_rating": 4.4,
+    "g_reviews": 497,
+    "g_address": "日本、〒151-0064 東京都渋谷区上原１丁目３４−２",
+    "lat": 35.669331,
+    "lng": 139.682016
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "アテスウェイ",
+    "name_en": "a tes souhaits!",
+    "area": "東京都 西荻窪駅",
+    "url": "https://tabelog.com/tokyo/A1320/A132001/13005853/",
+    "rating": 3.94,
+    "review_count_tabelog": 2481,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cake, Sweets",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 18:00",
+        "dtl_text": "11:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 964,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJw96J8WruGGAR500E7F50Om8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13005853-357b10a03bfbb6589ad1e1ab9dece611e3cb8a638715c60da5d5b8c5abad9cb0.jpg",
+    "place_id": "ChIJw96J8WruGGAR500E7F50Om8",
+    "g_name": "アテスウェイ 吉祥寺店",
+    "g_rating": 4.3,
+    "g_reviews": 964,
+    "g_address": "日本、〒180-0002 東京都武蔵野市吉祥寺東町３丁目８−８ カーサ吉祥寺２ カサ吉祥寺2",
+    "lat": 35.7090462,
+    "lng": 139.5906902
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "ラ・プレシューズ 四谷店",
+    "name_en": "La Precieuse Yotsuya Ten",
+    "area": "東京都 四ツ谷駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130902/13138331/",
+    "rating": 3.74,
+    "review_count_tabelog": 503,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cake, Kissa (Japanese coffee shop), Sweets (Western style)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "08:30 - 20:00",
+        "dtl_text": "08:30 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "10:00 - 20:00",
+        "dtl_text": "10:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "10:00 - 19:00",
+        "dtl_text": "10:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (according to Atre Yotsuya's closure days)"
+    },
+    "google_rating": 3.7,
+    "google_reviews": 82,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__gvOoqMGGARFoCeg5uW6mM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13138331-0ecdc2d7d5f44d5b165ed603c19cd0ec3a9e4582f407344b7e09ad55144bd3e4.jpg",
+    "place_id": "ChIJ__gvOoqMGGARFoCeg5uW6mM",
+    "g_name": "ラ・プレシューズ 四谷",
+    "g_rating": 3.7,
+    "g_reviews": 82,
+    "g_address": "日本、〒160-0004 東京都新宿区四谷１丁目５−２５ アトレ四谷 １階",
+    "lat": 35.6861706,
+    "lng": 139.7303759
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "パティスリー リョーコ",
+    "name_en": "Patisserie Ryoko",
+    "area": "東京都 高輪台駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131603/13137010/",
+    "rating": 3.95,
+    "review_count_tabelog": 1203,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cake, Cream Puff, Sweets (Western style)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Fri, Sat, Sun",
+        "dtl": "13:00 - 17:00",
+        "dtl_text": "13:00 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.8,
+    "google_reviews": 350,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJS6h-Q1WKGGARCcJZnoUOnmY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13137010-14b4bf0193808d3009daff8263e762b29a49e546e92b7c38828eb9e48cd13eb6.jpg",
+    "place_id": "ChIJS6h-Q1WKGGARCcJZnoUOnmY",
+    "g_name": "パティスリー リョーコ",
+    "g_rating": 3.8,
+    "g_reviews": 350,
+    "g_address": "日本、〒108-0074 東京都港区高輪３丁目２−８",
+    "lat": 35.6350136,
+    "lng": 139.7327993
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "エシレ・メゾン デュ ブール",
+    "name_en": "Echire Maison du Beurre",
+    "area": "東京都 二重橋前駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130201/13096439/",
+    "rating": 3.79,
+    "review_count_tabelog": 2335,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Cake, Bread, Gelato, Ice cream",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 19:00",
+        "dtl_text": "10:00 - 19:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 1913,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6T8nDfqLGGAR2NB5iV6rCgw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13096439-1e3d336c9c865bc8f319dfa4fe80a1249880f78822c15ab756de35a9e7790264.jpg",
+    "place_id": "ChIJ6T8nDfqLGGAR2NB5iV6rCgw",
+    "g_name": "エシレ・メゾン デュ ブール 丸の内",
+    "g_rating": 4,
+    "g_reviews": 1913,
+    "g_address": "日本、〒100-6901 東京都千代田区丸の内２丁目６−１ ブリックスクエア １階",
+    "lat": 35.6785703,
+    "lng": 139.7625325
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "リュードパッシー",
+    "name_en": "RUE DE PASSY",
+    "area": "東京都 学芸大学駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131702/13005155/",
+    "rating": 3.9,
+    "review_count_tabelog": 673,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cake, Cafe, Bread",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 237,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ23_3L8n0GGARK9SUHwoVDkI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13005155-80b7ab9a6d18407036bedcb68bc9a4c781e88d04545958b3538a83644c98e29a.jpg",
+    "place_id": "ChIJ23_3L8n0GGARK9SUHwoVDkI",
+    "g_name": "リュードパッシー",
+    "g_rating": 4.1,
+    "g_reviews": 237,
+    "g_address": "日本、〒152-0004 東京都目黒区鷹番３丁目１７−６ サンシャイン学大 1階",
+    "lat": 35.6275381,
+    "lng": 139.6832275
+  },
+  {
+    "category_jp": "スイーツ",
+    "category_en": "Sweets",
+    "region": "TOKYO",
+    "name": "アヴランシュ・ゲネー",
+    "name_en": "Avranches Guesnay",
+    "area": "東京都 春日駅",
+    "url": "https://tabelog.com/tokyo/A1310/A131004/13186450/",
+    "rating": 3.9,
+    "review_count_tabelog": 1279,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cake, Chocolate",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 19:00",
+        "dtl_text": "11:00 - 19:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The restaurant may also close on other irregular days."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 560,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJUfE16zeMGGARXuxe-ZdzK-U",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_tokyo/13186450-33a3898446b26dca0647ec14f968bb2394e3d2eda7cb30c629e93cad1e58b8ba.jpg",
+    "place_id": "ChIJUfE16zeMGGARXuxe-ZdzK-U",
+    "g_name": "アヴランシュ ゲネー",
+    "g_rating": 4.3,
+    "g_reviews": 560,
+    "g_address": "日本、〒113-0033 東京都文京区本郷４丁目１７−６ １Ｆ",
+    "lat": 35.7094385,
+    "lng": 139.7535795
+  }
+]

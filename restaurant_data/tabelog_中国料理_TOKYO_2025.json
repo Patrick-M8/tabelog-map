@@ -1,0 +1,4408 @@
+[
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "萬来園",
+    "name_en": "Banraien",
+    "area": "東京都 大井町駅",
+    "url": "https://tabelog.com/tokyo/A1315/A131501/13001657/",
+    "rating": 3.75,
+    "review_count_tabelog": 848,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "12:30 - 13:45 17:30 - 21:30",
+        "dtl_text": "17:30 - 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Thu, Fri, Sat",
+        "dtl": "12:15 - 13:45 17:30 - 21:30",
+        "dtl_text": "17:30 - 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.7,
+    "google_reviews": 243,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJT89TeHyKGGARSim9qeyS-VY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13001657-73b692506b016e5cd9d5a3a510f438269506f2328488b8319da1507552d1e18d.jpg",
+    "place_id": "ChIJT89TeHyKGGARSim9qeyS-VY",
+    "g_name": "中国料理 萬来園",
+    "g_rating": 3.7,
+    "g_reviews": 243,
+    "g_address": "日本、〒140-0011 東京都品川区東大井５丁目６−８",
+    "lat": 35.6072203,
+    "lng": 139.7369437
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "中国飯店 富麗華",
+    "name_en": "Chinese Hanten Fureika",
+    "area": "東京都 麻布十番駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130702/13004967/",
+    "rating": 4.25,
+    "review_count_tabelog": 2411,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00 17:30 - 21:00",
+        "dtl_text": "17:30 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 1245,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJreMNLr2LGGARdYxzqsotyOo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13004967-701977c23d767112fc58ed960dd743756e7862ec40ef25a886410d66714d1f78.jpg",
+    "place_id": "ChIJreMNLr2LGGARdYxzqsotyOo",
+    "g_name": "中国飯店 富麗華",
+    "g_rating": 4.4,
+    "g_reviews": 1245,
+    "g_address": "日本、〒106-0044 東京都港区東麻布３丁目７−５",
+    "lat": 35.6562662,
+    "lng": 139.7384753
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "銀座 上瀧",
+    "name_en": "GINZA JOTAKI",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13267801/",
+    "rating": 4.24,
+    "review_count_tabelog": 67,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "￥40,000～￥49,999",
+    "sub_categories": "Chinese, Sichuan",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 15:00 L.O. 12:00 17:00 - 22:00 L.O. 19:00",
+        "dtl_text": "17:00 - 22:00 L.O. 19:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Year-end & New Year Holidays"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 51,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJvZTiDXHKQTURjUhJmTXQoYc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13267801-aa9083c5a7d4289ad50ffc920caf1d0bf2c89e8fe0fdefb189fc992fdda11860.jpg",
+    "place_id": "ChIJvZTiDXHKQTURjUhJmTXQoYc",
+    "g_name": "銀座 上瀧",
+    "g_rating": 4.4,
+    "g_reviews": 51,
+    "g_address": "日本、〒104-0061 東京都中央区銀座７丁目５−１５ AGIビル 3F",
+    "lat": 35.6697935,
+    "lng": 139.7610439
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "ミモザ",
+    "name_en": "MIMOSA",
+    "area": "東京都 表参道駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130602/13197047/",
+    "rating": 3.8,
+    "review_count_tabelog": 319,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 84,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJA6odS56MGGAR0W7-N9kmmuY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13197047-a80bde6c66f00e084650d3b032bd654cb1eec574e711cc540b0297bd7109dba5.jpg",
+    "place_id": "ChIJA6odS56MGGAR0W7-N9kmmuY",
+    "g_name": "Mimosa (ミモザ)",
+    "g_rating": 4.2,
+    "g_reviews": 84,
+    "g_address": "日本、〒107-0062 東京都港区南青山３丁目１０−４０ フィオラMINAMI AOYAMA Building２F",
+    "lat": 35.6664431,
+    "lng": 139.7143626
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "銀座 やまの辺 江戸中華",
+    "name_en": "Ginza Yamanobe Edo Chuka",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13251366/",
+    "rating": 3.82,
+    "review_count_tabelog": 154,
+    "price_dinner": "￥60,000～￥79,999",
+    "price_lunch": "￥30,000～￥39,999",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 14:00 18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 75,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJV4XLJemLGGARjVJDE4eqPGw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13251366-93869d519e769f5f07960a4521bc0a3f15241f2c3f39af2fb878ebc1069f0f49.jpg",
+    "place_id": "ChIJV4XLJemLGGARjVJDE4eqPGw",
+    "g_name": "銀座 やまの辺 江戸中華",
+    "g_rating": 4.2,
+    "g_reviews": 75,
+    "g_address": "日本、〒104-0061 東京都中央区銀座６丁目７−６ ラペビル ９Ｆ",
+    "lat": 35.6704401,
+    "lng": 139.7627216
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "龍朋",
+    "name_en": "Ryuho",
+    "area": "東京都 神楽坂駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13006446/",
+    "rating": 3.67,
+    "review_count_tabelog": 3236,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Chinese, Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 22:00",
+        "dtl_text": "11:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Note: Starting January 2025, some Mondays will also be closed irregularly, approximately twice a month, regardless of public holidays. For more details, please check our official X account, where we share the monthly business calendar."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 2150,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJb7HNbVaMGGARTSncJrZQ_jE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13006446-c360881385faf9ddba16d16873e6f1d326bca7e609dcd02576d8da169ff59512.jpg",
+    "place_id": "ChIJb7HNbVaMGGARTSncJrZQ_jE",
+    "g_name": "龍朋",
+    "g_rating": 4.2,
+    "g_reviews": 2150,
+    "g_address": "日本、〒162-0805 東京都新宿区矢来町１２３ B1",
+    "lat": 35.7042143,
+    "lng": 139.7335579
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "一平飯店",
+    "name_en": "Ippei Hanten",
+    "area": "東京都 麻布十番駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130702/13268624/",
+    "rating": 4.06,
+    "review_count_tabelog": 216,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Chinese, Dim sum & Yum cha",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 44,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJIXrCrK-LGGARfx-SIkgR5Rs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13268624-16435e6eefb9f6331504f7594b9dd64cd9dcfd55c3f0f9a79caa68970376fc4e.jpg",
+    "place_id": "ChIJIXrCrK-LGGARfx-SIkgR5Rs",
+    "g_name": "一平飯店",
+    "g_rating": 4.5,
+    "g_reviews": 44,
+    "g_address": "日本、〒106-0046 東京都港区元麻布３丁目１２−４１",
+    "lat": 35.6564163,
+    "lng": 139.7317761
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "筑紫樓 銀座店",
+    "name_en": "Tsukushi Rou Ginza Ten",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13030770/",
+    "rating": 3.69,
+    "review_count_tabelog": 1200,
+    "price_dinner": "-",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 22:00 L.O. 21:00",
+        "dtl_text": "11:30 - 22:00 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Year-end & New Year Holidays"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 704,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJz-2yzOeLGGARINNnNeEtssU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13030770-7d5f60fc5f58760af468a9be28a2dab6c805f8071d87c4cdb1d8b954ef05a918.jpg",
+    "place_id": "ChIJz-2yzOeLGGARINNnNeEtssU",
+    "g_name": "筑紫樓(ツクシロウ) 銀座店",
+    "g_rating": 4.2,
+    "g_reviews": 704,
+    "g_address": "日本、〒104-0061 東京都中央区銀座７丁目１０−１",
+    "lat": 35.6688921,
+    "lng": 139.7635703
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "サエキ飯店",
+    "name_en": "Saeki Hanten",
+    "area": "東京都 目黒駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131601/13233311/",
+    "rating": 4.2,
+    "review_count_tabelog": 154,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 00:00",
+        "dtl_text": "18:00 - 00:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 70,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJjarBc6-LGGARWdwD4K05fzI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13233311-9ff6923f520c66dcefa1947d90260c840c48e15106e9ff46481a0c2af2a0c21e.jpg",
+    "place_id": "ChIJjarBc6-LGGARWdwD4K05fzI",
+    "g_name": "サエキ飯店",
+    "g_rating": 4.5,
+    "g_reviews": 70,
+    "g_address": "日本、〒153-0062 東京都目黒区三田２丁目１０−３０ 新井ビル 1F",
+    "lat": 35.6390952,
+    "lng": 139.7124062
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "中国意境菜 白燕",
+    "name_en": "Chugoku Ikkyosai Bai En",
+    "area": "東京都 稲荷町駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131101/13238666/",
+    "rating": 3.76,
+    "review_count_tabelog": 250,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chinese, Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00 L.O. 13:30 18:00 - 22:00 L.O. 21:00",
+        "dtl_text": "18:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 96,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJU5NBM-ePGGARxUnEZBp8pvc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13238666-eaad20811a01dcd88ab4d73d1cf2cffb7316a74aba04155bcaf179dc5f945c43.jpg",
+    "place_id": "ChIJU5NBM-ePGGARxUnEZBp8pvc",
+    "g_name": "中国意境菜 白燕（バイエン）",
+    "g_rating": 4.4,
+    "g_reviews": 96,
+    "g_address": "日本、〒111-0041 東京都台東区元浅草２丁目７−１０ オルタンシア4 2F",
+    "lat": 35.7106846,
+    "lng": 139.7830294
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "桃仙閣 東京",
+    "name_en": "Tosenkaku Tokyo",
+    "area": "東京都 六本木駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13250092/",
+    "rating": 4.0,
+    "review_count_tabelog": 450,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Chinese, Dim sum & Yum cha",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 01:00 L.O. 00:00",
+        "dtl_text": "17:00 - 01:00 L.O. 00:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed. Please check our website for updates."
+    },
+    "google_rating": 4.6,
+    "google_reviews": 103,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3aKWC26LGGARBBFSh4lMEMs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13250092-873b1f02112509cf8254c8510517285527aea768ed7052389b3e440e68b116a6.jpg",
+    "place_id": "ChIJ3aKWC26LGGARBBFSh4lMEMs",
+    "g_name": "桃仙閣 東京",
+    "g_rating": 4.6,
+    "g_reviews": 103,
+    "g_address": "日本、〒106-0032 東京都港区六本木４丁目８−７ 六本木嶋田ビル B1F",
+    "lat": 35.6638888,
+    "lng": 139.7331243
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "對馬",
+    "name_en": "Tsushima",
+    "area": "東京都 六本木駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13245835/",
+    "rating": 4.15,
+    "review_count_tabelog": 276,
+    "price_dinner": "￥60,000～￥79,999",
+    "price_lunch": "￥60,000～￥79,999",
+    "sub_categories": "Chinese, Creative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 52,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQRIAAqiLGGARyhI8krH9msA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13245835-ac82e8f13bbed0a36428e3e223529e144546e9fc877005938589b7d4199eb533.jpg",
+    "place_id": "ChIJQRIAAqiLGGARyhI8krH9msA",
+    "g_name": "對馬",
+    "g_rating": 4.5,
+    "g_reviews": 52,
+    "g_address": "日本、〒106-0046 東京都港区元麻布３丁目２−３ けやき坂NEST1F",
+    "lat": 35.65756289999999,
+    "lng": 139.7276682
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "龍天門",
+    "name_en": "Ryutenmon",
+    "area": "東京都 恵比寿駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130302/13004490/",
+    "rating": 3.67,
+    "review_count_tabelog": 1119,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Chinese, Dim sum & Yum cha, xiaolongbao",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 14:30 17:30 - 21:30",
+        "dtl_text": "17:30 - 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 14:30 17:00 - 21:30",
+        "dtl_text": "17:00 - 21:30"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 437,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJO4Ou6haLGGARDFU3j1ko508",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13004490-d3d084e4b6782d3d2b9e9ecf7cbc5198aaef1dc39751912e8651cdca269e8b01.jpg",
+    "place_id": "ChIJO4Ou6haLGGARDFU3j1ko508",
+    "g_name": "広東料理「龍天門」/ Cantonese Restaurant Ryutenmon",
+    "g_rating": 4,
+    "g_reviews": 437,
+    "g_address": "日本、〒153-8580 東京都目黒区三田１丁目４−１ 2F",
+    "lat": 35.6415778,
+    "lng": 139.7154222
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "みこころ 無添加チャイナ935",
+    "name_en": "Mikokoro Mutenka China 935",
+    "area": "東京都 神保町駅",
+    "url": "https://tabelog.com/tokyo/A1310/A131003/13241715/",
+    "rating": 3.74,
+    "review_count_tabelog": 417,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chinese, Seafood, Sichuan",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 14:00 17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 129,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDdNgUfiNGGAR1JN861YNgaU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13241715-0cb9e8dfa845c389181a69cfb05aa20139c3539bceee160e0b18f4c9932b4529.jpg",
+    "place_id": "ChIJDdNgUfiNGGAR1JN861YNgaU",
+    "g_name": "みこころ無添加チャイナ935",
+    "g_rating": 4.4,
+    "g_reviews": 129,
+    "g_address": "日本、〒101-0052 東京都千代田区神田小川町３丁目２２ 小川町細野ビル 2F",
+    "lat": 35.6964156,
+    "lng": 139.7617312
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "港式料理 鴻禧",
+    "name_en": "Hongshiki Ryori Koki",
+    "area": "東京都 虎ノ門ヒルズ駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130802/13274319/",
+    "rating": 4.19,
+    "review_count_tabelog": 145,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays and public holidays (Not fixed)"
+    },
+    "google_rating": 3.6,
+    "google_reviews": 212,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ01HCL5KLGGAR8RIOsaIwRjU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13274319-bcefe71bdda41798f0a37db5bbe7e6f22a80257501a3f1f2f593a8d92681937e.jpg",
+    "place_id": "ChIJ01HCL5KLGGAR8RIOsaIwRjU",
+    "g_name": "虎ノ門ヒルズ駅",
+    "g_rating": 3.6,
+    "g_reviews": 212,
+    "g_address": "日本、〒105-0001 東京都港区虎ノ門１丁目２２−１２",
+    "lat": 35.6677126,
+    "lng": 139.7479069
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "赤坂 四川飯店",
+    "name_en": "Akasaka Sichuan Hanten",
+    "area": "東京都 永田町駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130803/13000434/",
+    "rating": 3.76,
+    "review_count_tabelog": 1548,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Sichuan, Tantan-men (Spicy noodle soup), Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 L.O. 14:00 17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 1195,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJWdJ11nuMGGARgH4rQuIsdso",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13000434-9fbdc91a19aab0a7f8e506ee64e079132a70d53efcc88ed2f9f176fef6ffd3c0.jpg",
+    "place_id": "ChIJWdJ11nuMGGARgH4rQuIsdso",
+    "g_name": "赤坂四川飯店",
+    "g_rating": 4.3,
+    "g_reviews": 1195,
+    "g_address": "日本、〒102-0093 東京都千代田区平河町２丁目５−５ 全国旅館会館 5F•6F",
+    "lat": 35.6798475,
+    "lng": 139.7393292
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "東京チャイニーズ 一凛",
+    "name_en": "Tokyo Chinese Ichirin",
+    "area": "東京都 新富町駅",
+    "url": "https://tabelog.com/tokyo/A1313/A131301/13153417/",
+    "rating": 3.75,
+    "review_count_tabelog": 1920,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Sichuan, Chinese, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "12:00 - 14:30 L.O. 14:00 18:30 - 21:30 L.O. 21:00",
+        "dtl_text": "18:30 - 21:30 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Thu, Fri",
+        "dtl": "12:00 - 14:30 L.O. 14:00 18:00 - 21:30 L.O. 21:00",
+        "dtl_text": "18:00 - 21:30 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "12:00 - 14:30 L.O. Food 13:30 Drinks 14:00 18:00 - 21:30 L.O. 21:00",
+        "dtl_text": "18:00 - 21:30 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 485,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0SFPdeCLGGARjy7EZktw8Sc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13153417-008e72df49ee2d64dd0e6f82140fb83b71370eaec4734885c3e8196c5450c678.jpg",
+    "place_id": "ChIJ0SFPdeCLGGARjy7EZktw8Sc",
+    "g_name": "東京チャイニーズ 一凛",
+    "g_rating": 4.3,
+    "g_reviews": 485,
+    "g_address": "日本、〒104-0045 東京都中央区築地１丁目５−８ 樋泉ビル 樋泉ビル1F",
+    "lat": 35.6698572,
+    "lng": 139.7715378
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "旬華 なか村",
+    "name_en": "Shunka Nakamura",
+    "area": "東京都 東日本橋駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130204/13261122/",
+    "rating": 3.94,
+    "review_count_tabelog": 193,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Chinese, Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Sat",
+        "dtl": "18:00 - 22:00 L.O. 19:30",
+        "dtl_text": "18:00 - 22:00 L.O. 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Thu, Fri",
+        "dtl": "11:30 - 13:30 L.O. 13:00 18:00 - 22:00 L.O. 19:30",
+        "dtl_text": "18:00 - 22:00 L.O. 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 40,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJxWXHuVmJGGAReZRYkwm3siY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13261122-9c2bc3b1e4c3f51a89cbf4c652441a6d8e2bdf501183e0bf193761ffeb05528b.jpg",
+    "place_id": "ChIJxWXHuVmJGGAReZRYkwm3siY",
+    "g_name": "旬華なか村",
+    "g_rating": 4.6,
+    "g_reviews": 40,
+    "g_address": "日本、〒103-0004 東京都中央区東日本橋２丁目１１−７",
+    "lat": 35.6928372,
+    "lng": 139.7871456
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "筑紫樓 恵比寿店",
+    "name_en": "Tsukushi Rou Ebisu Ten",
+    "area": "東京都 恵比寿駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130302/13003323/",
+    "rating": 3.72,
+    "review_count_tabelog": 1183,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 15:00 L.O. 14:30 17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 22:00 L.O. 21:00",
+        "dtl_text": "11:30 - 22:00 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round (with closures during Year-end & New Year Holidays)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 647,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJC_vAmhOLGGARlWy8M3q6dDs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13003323-50e08b41f1c7362d4a3b728e7eda08c7e2065f1dbbc92fb4d538354811bf960c.jpg",
+    "place_id": "ChIJC_vAmhOLGGARlWy8M3q6dDs",
+    "g_name": "筑紫樓恵比寿店",
+    "g_rating": 4.3,
+    "g_reviews": 647,
+    "g_address": "日本、〒150-0022 東京都渋谷区恵比寿南１丁目１０−２",
+    "lat": 35.6457374,
+    "lng": 139.7086157
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "カントニーズ 燕",
+    "name_en": "Cantonese En",
+    "area": "東京都 東京駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130201/13147494/",
+    "rating": 3.72,
+    "review_count_tabelog": 626,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Chinese, Vegetable dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 L.O. 14:00 17:30 - 21:30 L.O. 20:30",
+        "dtl_text": "17:30 - 21:30 L.O. 20:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 259,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-yVLzvuLGGARQXkX-eEKoBg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13147494-c98ba86a19f4faa99f33820c157ddb4a839b575c5219894076015fc23317e48a.jpg",
+    "place_id": "ChIJ-yVLzvuLGGARQXkX-eEKoBg",
+    "g_name": "中国料理 カントニーズ 燕 丸の内",
+    "g_rating": 4.4,
+    "g_reviews": 259,
+    "g_address": "日本、〒100-0005 東京都千代田区丸の内１丁目９−１ 東京ステーションホテル B1F",
+    "lat": 35.6805615,
+    "lng": 139.765611
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "神田 雲林",
+    "name_en": "Kanda Yunrin",
+    "area": "東京都 淡路町駅",
+    "url": "https://tabelog.com/tokyo/A1310/A131002/13023052/",
+    "rating": 3.69,
+    "review_count_tabelog": 868,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chinese, Sichuan",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 14:00 L.O. Food 13:30 17:30 - 21:30 L.O. Food 20:30",
+        "dtl_text": "17:30 - 21:30 L.O. Food 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 456,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4V7HsByMGGARht32oxL7Zho",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13023052-4ca88cb8128ed6eb3a1d3aae3ca15dd7a2a40478fdf96d800a2402ea1500160d.jpg",
+    "place_id": "ChIJ4V7HsByMGGARht32oxL7Zho",
+    "g_name": "神田 雲林",
+    "g_rating": 4.3,
+    "g_reviews": 456,
+    "g_address": "日本、〒101-0041 東京都千代田区神田須田町１丁目１７ 第2F＆Fロイヤルビル 2F",
+    "lat": 35.6966288,
+    "lng": 139.7686499
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "登龍 麻布店",
+    "name_en": "Tohryu Azabu Ten",
+    "area": "東京都 麻布十番駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130702/13001659/",
+    "rating": 3.66,
+    "review_count_tabelog": 788,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Chinese, Sichuan",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 21:00",
+        "dtl_text": "11:30 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 575,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJN2YEdZ-LGGAR0Pwal0X8pBM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13001659-ce69aac1ce02a67b8160bf1ccc19d50b3f24114e5a5ad0d07b793913363bda00.jpg",
+    "place_id": "ChIJN2YEdZ-LGGAR0Pwal0X8pBM",
+    "g_name": "登龍 麻布店",
+    "g_rating": 4.2,
+    "g_reviews": 575,
+    "g_address": "日本、〒106-0045 東京都港区麻布十番２丁目４−５",
+    "lat": 35.6560208,
+    "lng": 139.7346447
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "ShinoiS",
+    "name_en": "ShinoiS",
+    "area": "東京都 白金台駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131602/13241948/",
+    "rating": 4.24,
+    "review_count_tabelog": 356,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "-",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 20:30",
+        "dtl_text": "17:00 - 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 58,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJoVieO_GLGGARmorh-DZUURk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13241948-97ea551767f8934ef0ba0401d3a82169bdcea75fb194370b29069e6897c9b1a3.jpg",
+    "place_id": "ChIJoVieO_GLGGARmorh-DZUURk",
+    "g_name": "ShinoiS",
+    "g_rating": 4.3,
+    "g_reviews": 58,
+    "g_address": "日本、〒108-0071 東京都港区白金台４丁目２−７ bld桜なみき2階",
+    "lat": 35.6392852,
+    "lng": 139.7281731
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "ヘイフンテラス",
+    "name_en": "Hei Fung Terrace",
+    "area": "東京都 日比谷駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130102/13042931/",
+    "rating": 3.7,
+    "review_count_tabelog": 752,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Chinese, Dim sum & Yum cha",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 14:30 L.O. 14:00 17:30 - 22:00 L.O. 21:00",
+        "dtl_text": "17:30 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:00 - 14:30 L.O. 14:00 17:30 - 22:00 L.O. 21:00",
+        "dtl_text": "17:30 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 234,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJBXOI1--LGGARWXSbmIs4wgs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13042931-06b85c436c1d798bcbd30d5c05470dd7e9db184c58e20afa8dceb192405d0a6c.jpg",
+    "place_id": "ChIJBXOI1--LGGARWXSbmIs4wgs",
+    "g_name": "ヘイフンテラス",
+    "g_rating": 4.2,
+    "g_reviews": 234,
+    "g_address": "日本、〒100-0006 東京都千代田区有楽町１丁目８−１",
+    "lat": 35.674632,
+    "lng": 139.7605885
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "チャイナルーム",
+    "name_en": "Chinaroom",
+    "area": "東京都 六本木駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13017089/",
+    "rating": 3.69,
+    "review_count_tabelog": 642,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Chinese, Dim sum & Yum cha, Chinese hot pot",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 15:00 L.O. 14:30 17:30 - 21:00 L.O. 20:30",
+        "dtl_text": "17:30 - 21:00 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 15:30 L.O. 15:00 17:30 - 21:00 L.O. 20:30",
+        "dtl_text": "17:30 - 21:00 L.O. 20:30"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.9,
+    "google_reviews": 293,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKf3d-3aLGGARvyDF-ToVE4k",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13017089-c0a086015593a3a22008db9f6acb169426ce04f392849919236bdbff8ecdaf70.jpg",
+    "place_id": "ChIJKf3d-3aLGGARvyDF-ToVE4k",
+    "g_name": "中国料理 チャイナルーム",
+    "g_rating": 3.9,
+    "g_reviews": 293,
+    "g_address": "日本、〒106-0032 東京都港区六本木６丁目１０−３ グランド ハイアット東京 6階",
+    "lat": 35.6600777,
+    "lng": 139.7283208
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "中国菜 ARATA",
+    "name_en": "Chinese Sai ARATA",
+    "area": "東京都 人形町駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130204/13277885/",
+    "rating": 3.71,
+    "review_count_tabelog": 211,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 14:00 L.O. 13:00 18:00 - 22:00 L.O. 20:00",
+        "dtl_text": "18:00 - 22:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 41,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJafsdD46JGGARbIk9f8wR384",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13277885-4f84686a1a960e3a31ee04fcf70b0c0ff1936ddba5c4ed83a11b41ddd8084f2e.jpg",
+    "place_id": "ChIJafsdD46JGGARbIk9f8wR384",
+    "g_name": "中国菜ARATA",
+    "g_rating": 4.5,
+    "g_reviews": 41,
+    "g_address": "日本、〒103-0024 東京都中央区日本橋小舟町１５−１７ 日本橋協栄ビル 1F",
+    "lat": 35.6853515,
+    "lng": 139.7797656
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "Ino Cantonese 日本橋 たかせ",
+    "name_en": "Ino Cantonese Nihonbashi Takase",
+    "area": "東京都 人形町駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130204/13273526/",
+    "rating": 3.76,
+    "review_count_tabelog": 145,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Chinese, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri",
+        "dtl": "17:30 - 22:30",
+        "dtl_text": "17:30 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "12:00 - 15:00 17:30 - 22:30",
+        "dtl_text": "17:30 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon - Fri": {},
+        "Sat & Sun": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 40,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJU2JHXm2JGGARYasZrtcOlH4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13273526-a72daee993c79a1b863e4f4fe349179534204de505c23434ee5023c8466f41ab.jpg",
+    "place_id": "ChIJU2JHXm2JGGARYasZrtcOlH4",
+    "g_name": "Ino Cantonese 日本橋たかせ 中華料理",
+    "g_rating": 4.5,
+    "g_reviews": 40,
+    "g_address": "日本、〒103-0012 東京都中央区日本橋堀留町１丁目８−１１ 日本橋人形町スクエア １F",
+    "lat": 35.6876044,
+    "lng": 139.7809956
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "中国料理 四川",
+    "name_en": "Chinese Shisen",
+    "area": "東京都 白金台駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131602/13000014/",
+    "rating": 3.65,
+    "review_count_tabelog": 576,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Sichuan, Chinese, Tantan-men (Spicy noodle soup)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu",
+        "dtl": "06:30 - 10:00 11:30 - 15:00 L.O. 14:00 17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Fri, Sat, Sun",
+        "dtl": "07:00 - 10:00 11:30 - 15:00 L.O. 14:00 17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 291,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJh2FBrwCLGGARK1xEXdfWNng",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13000014-afea16d2c44a2e9e378518680f2d4d082afbd476346fefcc92b81316d1d79805.jpg",
+    "place_id": "ChIJh2FBrwCLGGARK1xEXdfWNng",
+    "g_name": "四川",
+    "g_rating": 4.1,
+    "g_reviews": 291,
+    "g_address": "日本、〒108-8640 東京都港区白金台１丁目１−５０",
+    "lat": 35.6391104,
+    "lng": 139.730315
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "ヤウメイ",
+    "name_en": "YAUMAY",
+    "area": "東京都 二重橋前駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130102/13228215/",
+    "rating": 3.75,
+    "review_count_tabelog": 1535,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Dim sum & Yum cha, Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 15:00 L.O. 14:30 17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 22:00 L.O. 21:00",
+        "dtl_text": "11:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 717,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJLYR_1ciLGGARyF9B0VihIR8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13228215-c3404dbd5edda89abacac6f3e8767072c68360234d6d2042e54a5c4366194dd2.jpg",
+    "place_id": "ChIJLYR_1ciLGGARyF9B0VihIR8",
+    "g_name": "YAUMAY",
+    "g_rating": 4.3,
+    "g_reviews": 717,
+    "g_address": "日本、〒100-0005 東京都千代田区丸の内３丁目２−３ 二重橋スクエアビル 2F",
+    "lat": 35.6776993,
+    "lng": 139.7617349
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "中国菜 智林",
+    "name_en": "Chinese Sai Chirin",
+    "area": "東京都 神楽坂駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13233789/",
+    "rating": 3.67,
+    "review_count_tabelog": 416,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 L.O. 14:00 17:00 - 23:00 L.O. 21:30",
+        "dtl_text": "17:00 - 23:00 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Additionally, closed twice a month on irregular days."
+    },
+    "google_rating": 4.1,
+    "google_reviews": 133,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJz3OsClCNGGAR72xg0vmwyt4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13233789-8cfcf4be9568e050236d330cbfedb9af0d8ed4431cefd4d372bd7d56d0f5b361.jpg",
+    "place_id": "ChIJz3OsClCNGGAR72xg0vmwyt4",
+    "g_name": "中国菜 智林",
+    "g_rating": 4.1,
+    "g_reviews": 133,
+    "g_address": "日本、〒162-0816 東京都新宿区白銀町１２−５ 1F",
+    "lat": 35.7031865,
+    "lng": 139.7393163
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "の弥七",
+    "name_en": "No Yashichi",
+    "area": "東京都 四谷三丁目駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130903/13209784/",
+    "rating": 3.93,
+    "review_count_tabelog": 175,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Chinese, Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 14:30 17:30 - 22:30",
+        "dtl_text": "17:30 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 75,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4evHdfKMGGARLLYiU4DgPW0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13209784-b193f5bd58af95269abc4c9f4063d9de4951394952a01f7dc07ff3b67b41fc9b.jpg",
+    "place_id": "ChIJ4evHdfKMGGARLLYiU4DgPW0",
+    "g_name": "中華・日本料理 の弥七（ノヤシチ）四谷三丁目",
+    "g_rating": 4.4,
+    "g_reviews": 75,
+    "g_address": "日本、〒160-0007 東京都新宿区荒木町２−９",
+    "lat": 35.6885866,
+    "lng": 139.7224139
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "中国飯店 琥珀宮",
+    "name_en": "China Hanten Kohaku Kyu",
+    "area": "東京都 大手町駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130201/13141135/",
+    "rating": 3.9,
+    "review_count_tabelog": 725,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:30 L.O. 14:30 17:30 - 22:00 L.O. 21:00",
+        "dtl_text": "17:30 - 22:00 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 390,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJdX2LBQiMGGAR1NXXf0LrKQA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13141135-8da6b0295c1afe8f12f45d5aa1bd3d415121ec9f318df6e80fb6842c92b5c123.jpg",
+    "place_id": "ChIJdX2LBQiMGGAR1NXXf0LrKQA",
+    "g_name": "中国飯店 琥珀宮(コハクキュウ)",
+    "g_rating": 4.5,
+    "g_reviews": 390,
+    "g_address": "日本、〒100-0005 東京都千代田区丸の内１丁目１−１ パレスホテル東京 ５階",
+    "lat": 35.6845001,
+    "lng": 139.7612211
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "中国菜 老四川 飄香 銀座三越店",
+    "name_en": "Chinese Sai Lao Shisen Pyaoshan Ginza Mitsukoshi Ten",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13115780/",
+    "rating": 3.66,
+    "review_count_tabelog": 522,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Sichuan, Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:30 L.O. 15:00 17:00 - 21:30 L.O. 20:30",
+        "dtl_text": "17:00 - 21:30 L.O. 20:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 223,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJOTomjuaLGGARmi7Xl1cu-So",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13115780-778c0d43b79549f3b1f7e2cee42e8b9c3cb0b2395a07292867cef5f7a7eadd56.jpg",
+    "place_id": "ChIJOTomjuaLGGARmi7Xl1cu-So",
+    "g_name": "飄香 銀座三越店",
+    "g_rating": 4,
+    "g_reviews": 223,
+    "g_address": "日本、〒104-0061 東京都中央区銀座４丁目６−１６ 銀座三越 12F",
+    "lat": 35.6710269,
+    "lng": 139.7659442
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "SEN YO",
+    "name_en": "SEN YO",
+    "area": "東京都 東高円寺駅",
+    "url": "https://tabelog.com/tokyo/A1319/A131904/13135036/",
+    "rating": 3.72,
+    "review_count_tabelog": 526,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chinese, Sichuan, Dim sum & Yum cha",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Sat, Sun",
+        "dtl": "11:30 - 14:00 17:30 - 21:00",
+        "dtl_text": "17:30 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Fri",
+        "dtl": "17:30 - 21:00",
+        "dtl_text": "17:30 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays and Wednesdays (not fixed)"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 328,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKUlmifTyGGARKtHVbnFpwTU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13135036-bbf6445dcb88ae42887c552159922db3581d3264d553b218a6973cee94c2cad4.jpg",
+    "place_id": "ChIJKUlmifTyGGARKtHVbnFpwTU",
+    "g_name": "中華銘菜 圳陽",
+    "g_rating": 4.1,
+    "g_reviews": 328,
+    "g_address": "日本、〒166-0012 東京都杉並区和田３丁目１８−９ パークヒルズ東高円寺",
+    "lat": 35.6941794,
+    "lng": 139.6544915
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "O2",
+    "name_en": "O2",
+    "area": "東京都 清澄白河駅",
+    "url": "https://tabelog.com/tokyo/A1313/A131303/13219958/",
+    "rating": 3.73,
+    "review_count_tabelog": 440,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 23:00 L.O. 22:00",
+        "dtl_text": "17:00 - 23:00 L.O. 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 235,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJLQmNmxeJGGARPF8EFqBjajU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13219958-a1285ba6680099a713c17aa1c8fa6a1a99de1bcb71cce2f5236b41fd02f3fe89.jpg",
+    "place_id": "ChIJLQmNmxeJGGARPF8EFqBjajU",
+    "g_name": "O2",
+    "g_rating": 4.3,
+    "g_reviews": 235,
+    "g_address": "日本、〒135-0022 東京都江東区三好２丁目１５−１２ 峯岸ビル 1F",
+    "lat": 35.6802612,
+    "lng": 139.8026923
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "レンゲ",
+    "name_en": "Renge Equriosity Shinbashi",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13183555/",
+    "rating": 3.79,
+    "review_count_tabelog": 346,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Chinese, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 15:30 17:00 - 23:30",
+        "dtl_text": "17:00 - 23:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 3,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJwZsZaQCLGGARFeEy0DBRYzs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13183555-5b55912b0506b5a5d8aaaddae18c79bfd11fed9cd022812e6ad6bc4001b45e87.jpg",
+    "place_id": "ChIJwZsZaQCLGGARFeEy0DBRYzs",
+    "g_name": "銀座レンゲ華",
+    "g_rating": 4.3,
+    "g_reviews": 3,
+    "g_address": "日本、〒104-0061 東京都中央区銀座７丁目１０−８ 第五太陽ビル 6階",
+    "lat": 35.6684272,
+    "lng": 139.7632208
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "中国菜 膳楽房",
+    "name_en": "Chinese Sai Zenraku Bo",
+    "area": "東京都 飯田橋駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13156026/",
+    "rating": 3.66,
+    "review_count_tabelog": 838,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 L.O. 14:00 17:00 - 23:00 L.O. Food 21:30 Drinks 22:30",
+        "dtl_text": "17:00 - 23:00 L.O. Food 21:30 Drinks 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 362,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmeeOSluMGGAR_NNKeC-lL6U",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13156026-b0c5f28993bc3839a1f3e5cd3736de2ea34f190ce84b30ec14b995ba06275bf0.jpg",
+    "place_id": "ChIJmeeOSluMGGAR_NNKeC-lL6U",
+    "g_name": "中国菜 膳楽房",
+    "g_rating": 4,
+    "g_reviews": 362,
+    "g_address": "日本、〒162-0825 東京都新宿区神楽坂１丁目１１−８",
+    "lat": 35.7003601,
+    "lng": 139.7420221
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "Ji-Cube",
+    "name_en": "Ji-Cube",
+    "area": "東京都 六本木駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13259432/",
+    "rating": 4.14,
+    "review_count_tabelog": 478,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Chinese, Sichuan",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri",
+        "dtl": "17:30 - 22:00",
+        "dtl_text": "17:30 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 15:00 17:30 - 22:00",
+        "dtl_text": "17:30 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 86,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJx2uI496LGGARI6hZvSsxCZI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13259432-4fe30ccba021d8d2e3f1d37bdcbf31561cd60933d9c1d688664411a1c391fd02.jpg",
+    "place_id": "ChIJx2uI496LGGARI6hZvSsxCZI",
+    "g_name": "Ji-Cube",
+    "g_rating": 4.6,
+    "g_reviews": 86,
+    "g_address": "日本、〒106-0031 東京都港区西麻布３丁目１８−１０",
+    "lat": 35.6591237,
+    "lng": 139.7260473
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "中華香彩JASMINE 広尾本店",
+    "name_en": "Chuka Kosai JASMINE Hiro Honten",
+    "area": "東京都 広尾駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130302/13123634/",
+    "rating": 3.68,
+    "review_count_tabelog": 1032,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chinese, Dumpling, Dim sum & Yum cha",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 L.O. 14:00 18:00 - 22:30 L.O. 21:30",
+        "dtl_text": "18:00 - 22:30 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 422,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJf1sMtmyLGGARfb4QcbiuiDM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13123634-2cabb37151b7ef56f44be4c59949ed8528eeed215788d550ce43384dd98d2507.jpg",
+    "place_id": "ChIJf1sMtmyLGGARfb4QcbiuiDM",
+    "g_name": "中華香彩 JASMINE",
+    "g_rating": 4.1,
+    "g_reviews": 422,
+    "g_address": "日本、〒150-0012 東京都渋谷区広尾５丁目２２−３ 広尾西川ビル 1F",
+    "lat": 35.6485932,
+    "lng": 139.7178775
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "エンジン",
+    "name_en": "ENGINE",
+    "area": "東京都 牛込神楽坂駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13178164/",
+    "rating": 3.73,
+    "review_count_tabelog": 515,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The third Monday of each month, Sundays, and public holidays."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 208,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmSaiZFqMGGARKslYF7LMhU4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13178164-54e11ea119be8aaa1bca9136cc59bc47c3226ae46319fd3f2c4305ec525c78ac.jpg",
+    "place_id": "ChIJmSaiZFqMGGARKslYF7LMhU4",
+    "g_name": "エンジン",
+    "g_rating": 4.3,
+    "g_reviews": 208,
+    "g_address": "日本、〒162-0825 東京都新宿区神楽坂５丁目４３−２ ROJI神楽坂 1階",
+    "lat": 35.7022273,
+    "lng": 139.7394695
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "REIKASAI GINZA",
+    "name_en": "Reikasai Ginza The Chinese Imperial Court dishes",
+    "area": "東京都 銀座一丁目駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13196687/",
+    "rating": 3.76,
+    "review_count_tabelog": 443,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Chinese, Dim sum & Yum cha",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 15:00 L.O. Food 13:30 Drinks 14:30 17:00 - 22:00 L.O. Food 20:00 Drinks 21:30",
+        "dtl_text": "17:00 - 22:00 L.O. Food 20:00 Drinks 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 15:00 L.O. Food 13:30 Drinks 14:30 15:30 - 17:00 L.O. Food 15:30 Drinks 16:30 17:00 - 22:00 L.O. Food 20:00 Drinks 21:30",
+        "dtl_text": "17:00 - 22:00 L.O. Food 20:00 Drinks 21:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Weekdays": {
+          "Lunch": "11:30 - 15:00 (Last order 14:30, Final seating 13:30)",
+          "Dinner": "17:00 - 22:00 (Last order 21:30, Final seating 20:00)"
+        },
+        "Weekends & Public Holidays": {
+          "Lunch": "11:30 - 15:00",
+          "Tea Time": "15:30 - 17:00 (Last seating 15:30, Last order 16:30)",
+          "Dinner": "17:00 - 22:00"
+        }
+      },
+      "closed_on": "*Please note that seating may be limited to two hours depending on reservation status."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 141,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6o-iuOLGGAR4dy6tsHUcBw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13196687-4c2be11eb61c262e81d822e5bd086d3fb85fd2f9d4de3a49ca899919dcd8131c.jpg",
+    "place_id": "ChIJq6o-iuOLGGAR4dy6tsHUcBw",
+    "g_name": "REIKASAI GINZA （レイカサイ ギンザ）",
+    "g_rating": 4.2,
+    "g_reviews": 141,
+    "g_address": "日本、〒104-0061 東京都中央区銀座１丁目７−７ ポーラ銀座ビル 9F",
+    "lat": 35.6742329,
+    "lng": 139.7679735
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "ワキヤ 一笑美茶樓",
+    "name_en": "Wakiya Ichiemi Charou",
+    "area": "東京都 赤坂駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130801/13005033/",
+    "rating": 3.7,
+    "review_count_tabelog": 532,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Chinese, Sichuan",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00 17:30 - 21:00",
+        "dtl_text": "17:30 - 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed; Year-end & New Year Holidays"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 329,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJb5MycYGLGGARo-PWlHv5SmY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13005033-86511d7829a1adc86c71c3c4d47c92d1344692b5b44bf4b0b462dd5f2e82c21d.jpg",
+    "place_id": "ChIJb5MycYGLGGARo-PWlHv5SmY",
+    "g_name": "Wakiya 一笑美茶樓",
+    "g_rating": 4.4,
+    "g_reviews": 329,
+    "g_address": "日本、〒107-0052 東京都港区赤坂６丁目１１−１０",
+    "lat": 35.6696389,
+    "lng": 139.7348472
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "北京遊膳",
+    "name_en": "Beijing Yuzen",
+    "area": "東京都 荻窪駅",
+    "url": "https://tabelog.com/tokyo/A1319/A131906/13001102/",
+    "rating": 3.85,
+    "review_count_tabelog": 229,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon - Fri": {},
+        "Sat, Sun & Public Holidays": {}
+      },
+      "closed_on": "Tuesdays and the first Monday of each month"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 75,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJK3hdYfftGGAR1NbNQOE7dnE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13001102-18b8e10e3b146e526bbb4a0efa9eee1074d71f6fdcc0b6ff17d84c6fe6ec40d1.jpg",
+    "place_id": "ChIJK3hdYfftGGAR1NbNQOE7dnE",
+    "g_name": "北京遊膳",
+    "g_rating": 4.4,
+    "g_reviews": 75,
+    "g_address": "日本、〒167-0051 東京都杉並区荻窪５丁目２４−７",
+    "lat": 35.7038585,
+    "lng": 139.6198968
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "広尾はしづめ",
+    "name_en": "Hiroo Hashizume",
+    "area": "東京都 広尾駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130703/13141454/",
+    "rating": 3.63,
+    "review_count_tabelog": 523,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Chinese, Tantan-men (Spicy noodle soup)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 14:30 L.O. 14:00 18:00 - 22:30 L.O. 21:00",
+        "dtl_text": "18:00 - 22:30 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 192,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJU4elxnKLGGARAOl90IjsagU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13141454-f43da305fc648f18532bede422fe65ce4775f655225bcea9a496a09ad85c5cec.jpg",
+    "place_id": "ChIJU4elxnKLGGARAOl90IjsagU",
+    "g_name": "広尾はしづめ",
+    "g_rating": 4.2,
+    "g_reviews": 192,
+    "g_address": "日本、〒106-0047 東京都港区南麻布５丁目１６−１０ カルチェブラン恵比寿 広尾２階",
+    "lat": 35.651304,
+    "lng": 139.723327
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "龍圓",
+    "name_en": "Ryuen",
+    "area": "東京都 浅草（つくばＥＸＰ）駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131102/13003700/",
+    "rating": 3.69,
+    "review_count_tabelog": 465,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Chinese, Crab, Suppon (Soft-shell turtle)",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (open on public holidays, closed the following Tuesday). Please note that we are unable to answer calls on days we are closed."
+    },
+    "google_rating": 3.7,
+    "google_reviews": 360,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8UU86L-OGGARn9PySbX_CnM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13003700-85169af09130175f17c1ae13e2310b61916a7c2aabc5468e34e4d831c941af07.jpg",
+    "place_id": "ChIJ8UU86L-OGGARn9PySbX_CnM",
+    "g_name": "浅草駅",
+    "g_rating": 3.7,
+    "g_reviews": 360,
+    "g_address": "日本、〒111-0035 東京都台東区西浅草３丁目１−１１",
+    "lat": 35.71379530000001,
+    "lng": 139.7923968
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "farm studio #203",
+    "name_en": "farm studio #203",
+    "area": "東京都 学芸大学駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131702/13236333/",
+    "rating": 3.68,
+    "review_count_tabelog": 485,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Sichuan, Asian, Ethnic, Dim sum & Yum cha",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Fri, Sat",
+        "dtl": "12:00 - 14:30 L.O. 14:00 18:00 - 23:00 L.O. 22:00",
+        "dtl_text": "18:00 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu",
+        "dtl": "18:00 - 23:00 L.O. 22:00",
+        "dtl_text": "18:00 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "12:00 - 14:30 L.O. 14:00 18:00 - 22:00 L.O. 21:00",
+        "dtl_text": "18:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 3.8,
+    "google_reviews": 140,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJfZg0VgP1GGARDLWmF3fLfDw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13236333-8d3252c8878dbc04bb95c76ed7b9ece80ee36bca4416be082ea81bd8e2e51dd5.jpg",
+    "place_id": "ChIJfZg0VgP1GGARDLWmF3fLfDw",
+    "g_name": "farm studio #203 (ファームスタジオ203)",
+    "g_rating": 3.8,
+    "g_reviews": 140,
+    "g_address": "日本、〒152-0004 東京都目黒区鷹番２丁目２０−４ 学大十字街ビル 203",
+    "lat": 35.6293386,
+    "lng": 139.6865245
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "中国飯店 三田店",
+    "name_en": "Chinese Hanten Mita Ten",
+    "area": "東京都 三田駅",
+    "url": "https://tabelog.com/tokyo/A1314/A131402/13003506/",
+    "rating": 3.76,
+    "review_count_tabelog": 1178,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00 14:00 - 22:00",
+        "dtl_text": "14:00 - 22:00"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 714,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVajLhbCLGGAR0dATqhYO8Cc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13003506-dfd037d7889560c3a13999e2347d4a38c3251b7b3c757137603e011ae5e015ce.jpg",
+    "place_id": "ChIJVajLhbCLGGAR0dATqhYO8Cc",
+    "g_name": "中国飯店 三田店",
+    "g_rating": 4,
+    "g_reviews": 714,
+    "g_address": "日本、〒108-0014 東京都港区芝５丁目１３−１８ いちご三田ビル １階",
+    "lat": 35.6496817,
+    "lng": 139.7449868
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "広東料理 センス",
+    "name_en": "Canton Ryori Sense",
+    "area": "東京都 三越前駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130202/13020361/",
+    "rating": 3.96,
+    "review_count_tabelog": 1154,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Chinese, Dim sum & Yum cha",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 16:00 L.O. 14:30 17:30 - 22:00 L.O. 20:00",
+        "dtl_text": "17:30 - 22:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 16:00 L.O. 15:30 18:00 - 22:00 L.O. 20:00",
+        "dtl_text": "18:00 - 22:00 L.O. 20:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 351,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQlsfFWJGGARkVc-krREwKs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13020361-f2ea16664a899e735cc3fe9226dd290437413dc51791c8335be56f31da61f657.jpg",
+    "place_id": "ChIJAQlsfFWJGGARkVc-krREwKs",
+    "g_name": "センス",
+    "g_rating": 4.4,
+    "g_reviews": 351,
+    "g_address": "日本、〒103-8328 東京都中央区日本橋室町２丁目１−１",
+    "lat": 35.6870475,
+    "lng": 139.7730634
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "赤坂 桃の木",
+    "name_en": "Akasaka Momo no Ki",
+    "area": "東京都 永田町駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130803/13244424/",
+    "rating": 3.68,
+    "review_count_tabelog": 422,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 14:00 17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 14:00 16:00 - 23:00",
+        "dtl_text": "16:00 - 23:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "We do not accept cancellations by phone outside of business hours."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 145,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJp2XRmq-LGGARkzSemMN0R4s",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13244424-616bb5791522f49a6eafd1b66dfc5e8a83c9bb22228e26088c8e5f7e3a6dc1c1.jpg",
+    "place_id": "ChIJp2XRmq-LGGARkzSemMN0R4s",
+    "g_name": "赤坂 桃の木",
+    "g_rating": 4.3,
+    "g_reviews": 145,
+    "g_address": "日本、〒102-0094 東京都千代田区紀尾井町１−３ 紀尾井テラス 3F 東京ガーデンテラス",
+    "lat": 35.6791974,
+    "lng": 139.7375124
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "シェフス",
+    "name_en": "CHEF'S",
+    "area": "東京都 新宿御苑前駅",
+    "url": "https://tabelog.com/tokyo/A1304/A130402/13000884/",
+    "rating": 3.74,
+    "review_count_tabelog": 695,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 14:00 L.O. 13:45 17:30 - 22:00 L.O. 21:00",
+        "dtl_text": "17:30 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 138,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJq7nMDumMGGARTfmcCT_vKrE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13000884-870ccd75ba38d2992501cd8b72dc9ae22a11e3c820ec3ac92fdb78cf80138d3a.jpg",
+    "place_id": "ChIJq7nMDumMGGARTfmcCT_vKrE",
+    "g_name": "シェフス",
+    "g_rating": 4.1,
+    "g_reviews": 138,
+    "g_address": "日本、〒160-0022 東京都新宿区新宿１丁目２４−１ 藤和ハイタウン新宿 １Ｆ",
+    "lat": 35.6897382,
+    "lng": 139.7142179
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "黒猫夜 銀座店",
+    "name_en": "Kuroneko Yoru Ginza Ten",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13162692/",
+    "rating": 3.59,
+    "review_count_tabelog": 922,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Chinese, Sichuan",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "18:00 - 23:30 L.O. 22:30",
+        "dtl_text": "18:00 - 23:30 L.O. 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "18:00 - 23:00 L.O. 22:00",
+        "dtl_text": "18:00 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 260,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJrdunm-iLGGARGegPhKzl69s",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13162692-51fa6815a4af5a3c6e3a0eea9c2fc183fa328f5129597be49de52709ea336f2b.jpg",
+    "place_id": "ChIJrdunm-iLGGARGegPhKzl69s",
+    "g_name": "黒猫夜 銀座店",
+    "g_rating": 4.1,
+    "g_reviews": 260,
+    "g_address": "日本、〒104-0061 東京都中央区銀座７丁目８−１５ 8F",
+    "lat": 35.6690896,
+    "lng": 139.7621931
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "中国飯店 市ヶ谷店",
+    "name_en": "Chinese Hanten Ichigaya Ten",
+    "area": "東京都 市ケ谷駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130904/13000553/",
+    "rating": 3.72,
+    "review_count_tabelog": 596,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 L.O. 14:30 17:30 - 22:00 L.O. 21:00",
+        "dtl_text": "17:30 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 495,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7-1BdWeMGGARZt7MRFQ0onw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13000553-e62bd5c367e3260e540cfea4b3cb61888ff7e706ff6c374f82025ff2ef336e9c.jpg",
+    "place_id": "ChIJ7-1BdWeMGGARZt7MRFQ0onw",
+    "g_name": "中国飯店 市ヶ谷店",
+    "g_rating": 4.3,
+    "g_reviews": 495,
+    "g_address": "日本、〒102-0073 東京都千代田区九段北４丁目１−７ 九段センタービル B1F",
+    "lat": 35.6930071,
+    "lng": 139.7394592
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "龍口酒家 本店",
+    "name_en": "Ronko Chucha Hon Ten",
+    "area": "東京都 幡ケ谷駅",
+    "url": "https://tabelog.com/tokyo/A1318/A131807/13004350/",
+    "rating": 3.57,
+    "review_count_tabelog": 668,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chinese, Dim sum & Yum cha",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon - Fri": {},
+        "Sat, Sun & Public Holidays": {}
+      },
+      "closed_on": "Mondays and Tuesdays"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 346,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJD73XWjvzGGARzaqktzEX9b0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13004350-eff19f29db28229849bba714c9d3b33a5d07e7091ff8c666ae5dd010c3db5326.jpg",
+    "place_id": "ChIJD73XWjvzGGARzaqktzEX9b0",
+    "g_name": "チャイナハウス 龍口酒家",
+    "g_rating": 4.2,
+    "g_reviews": 346,
+    "g_address": "日本、〒151-0072 東京都渋谷区幡ケ谷１丁目３−１ 幡ヶ谷ゴールデンセンター B1F",
+    "lat": 35.6768478,
+    "lng": 139.6764511
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "4000 Chinese Restaurant",
+    "name_en": "4000 Chinese Restaurant",
+    "area": "東京都 広尾駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130703/13229559/",
+    "rating": 4.04,
+    "review_count_tabelog": 399,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Sichuan",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "*Please check our website for closure dates."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 125,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJE73gHM-LGGAR8lrzu5vYTM0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13229559-4faa4be2d243d0c465b58433b3d7bc3f476ff0785bf3893ce08650fa3346aa3d.jpg",
+    "place_id": "ChIJE73gHM-LGGAR8lrzu5vYTM0",
+    "g_name": "4000 Chinese Restaurant",
+    "g_rating": 4.3,
+    "g_reviews": 125,
+    "g_address": "日本、〒107-0062 東京都港区南青山７丁目１０−１０ パークアクシス",
+    "lat": 35.6588174,
+    "lng": 139.7186666
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "豊栄",
+    "name_en": "Hoei",
+    "area": "東京都 本駒込駅",
+    "url": "https://tabelog.com/tokyo/A1323/A132301/13276558/",
+    "rating": 3.78,
+    "review_count_tabelog": 323,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "Chinese, Sichuan, Tantan-men (Spicy noodle soup)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri",
+        "dtl": "17:30 - 22:00 L.O. Food 21:00 Drinks 21:30",
+        "dtl_text": "17:30 - 22:00 L.O. Food 21:00 Drinks 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 14:30 L.O. Food 13:30 Drinks 14:00 17:30 - 22:00 L.O. Food 21:00 Drinks 21:30",
+        "dtl_text": "17:30 - 22:00 L.O. Food 21:00 Drinks 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (please check our Instagram for updates.)"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 273,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJD8d49bGNGGARhDfP5CU2HhA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13276558-43e3dfd8195615a2df99cbbaf806e52108b01b2d24465f1509c382889e25f003.jpg",
+    "place_id": "ChIJD8d49bGNGGARhDfP5CU2HhA",
+    "g_name": "中国料理 豊栄",
+    "g_rating": 4.1,
+    "g_reviews": 273,
+    "g_address": "日本、〒113-0021 東京都文京区本駒込３丁目１−８ COCOPLUS本駒込 1F",
+    "lat": 35.7258154,
+    "lng": 139.7536663
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "赤坂珉珉",
+    "name_en": "Akasaka Minmin",
+    "area": "東京都 乃木坂駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13001342/",
+    "rating": 3.68,
+    "review_count_tabelog": 1819,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chinese, Dumpling",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 14:00 L.O. Food 13:15 17:30 - 21:30 L.O. Food 21:00",
+        "dtl_text": "17:30 - 21:30 L.O. Food 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 1036,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJa1WMzX-LGGAR659lMQq8tz0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13001342-89890a8d8dfb4f0a3b94b28cd1c0f352c3d588e509fb82a036559f39d6da15af.jpg",
+    "place_id": "ChIJa1WMzX-LGGAR659lMQq8tz0",
+    "g_name": "赤坂 珉珉",
+    "g_rating": 4.2,
+    "g_reviews": 1036,
+    "g_address": "日本、〒107-0052 東京都港区赤坂８丁目７−４",
+    "lat": 35.6707504,
+    "lng": 139.729688
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "黒猫夜 赤坂店",
+    "name_en": "Kuroneko Yoru Akasaka Ten",
+    "area": "東京都 赤坂見附駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130801/13019152/",
+    "rating": 3.66,
+    "review_count_tabelog": 1052,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Chinese, Sichuan",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu",
+        "dtl": "11:30 - 14:00 18:00 - 23:00 L.O. Food 22:00 Drinks 22:30",
+        "dtl_text": "18:00 - 23:00 L.O. Food 22:00 Drinks 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Fri",
+        "dtl": "18:00 - 23:00 L.O. Food 22:00 Drinks 22:30",
+        "dtl_text": "18:00 - 23:00 L.O. Food 22:00 Drinks 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "18:00 - 23:00 L.O. 22:00",
+        "dtl_text": "18:00 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 295,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJV0f81n6MGGARRoojM4uouPQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13019152-66ee4bb3be4712d760757a5666090d4b3e302c2842472d4aa05e76aa6cc589f9.jpg",
+    "place_id": "ChIJV0f81n6MGGARRoojM4uouPQ",
+    "g_name": "黒猫夜 赤坂店",
+    "g_rating": 4.2,
+    "g_reviews": 295,
+    "g_address": "日本、〒107-0052 東京都港区赤坂３丁目９−８ 篠原ビル 3階",
+    "lat": 35.6765705,
+    "lng": 139.7366752
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "蓮香",
+    "name_en": "Ren Shan",
+    "area": "東京都 白金高輪駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131602/13190771/",
+    "rating": 3.82,
+    "review_count_tabelog": 328,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:30 - 23:00",
+        "dtl_text": "18:30 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 133,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJMRr_Mg-LGGARjovYtsVNYW0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13190771-7fde5e4dd1e3937e5e94bb6373d14c72bbb4791a11c6be2db19c16fdfeceab9d.jpg",
+    "place_id": "ChIJMRr_Mg-LGGARjovYtsVNYW0",
+    "g_name": "蓮香",
+    "g_rating": 4.4,
+    "g_reviews": 133,
+    "g_address": "日本、〒108-0072 東京都港区白金４丁目１−７",
+    "lat": 35.6442102,
+    "lng": 139.7267261
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "虎穴",
+    "name_en": "Fushue",
+    "area": "東京都 馬喰横山駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130204/13098919/",
+    "rating": 3.69,
+    "review_count_tabelog": 829,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chinese, Sweets",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 22:00",
+        "dtl_text": "11:30 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "12:00 - 22:00",
+        "dtl_text": "12:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 361,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJC-1Tfk2JGGARMI9klB07h3k",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13098919-4dddc0d04951ca08e4f058850011c471a04ecbf4b18f5efb718b45142e009112.jpg",
+    "place_id": "ChIJC-1Tfk2JGGARMI9klB07h3k",
+    "g_name": "チャイニーズレストラン 虎穴",
+    "g_rating": 4,
+    "g_reviews": 361,
+    "g_address": "日本、〒103-0004 東京都中央区東日本橋３丁目５−１６",
+    "lat": 35.6906049,
+    "lng": 139.7831856
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "わさ",
+    "name_en": "WASA",
+    "area": "東京都 恵比寿駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130302/13251804/",
+    "rating": 4.34,
+    "review_count_tabelog": 350,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "-",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays, Sundays, and not fixed"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 83,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJR-5bFsOLGGARPu5SQs5c8Vk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13251804-171d1f36b4fb0a68b2c2468ea244d25bfe50b82ac6eca58f42249f2bbcac72dd.jpg",
+    "place_id": "ChIJR-5bFsOLGGARPu5SQs5c8Vk",
+    "g_name": "わさ",
+    "g_rating": 4.4,
+    "g_reviews": 83,
+    "g_address": "日本、〒150-0011 東京都渋谷区東３丁目１６−１ ベルザ恵比寿ビル 1F",
+    "lat": 35.6498072,
+    "lng": 139.7101052
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "茶禅華",
+    "name_en": "Sazenka",
+    "area": "東京都 広尾駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130703/13205298/",
+    "rating": 4.56,
+    "review_count_tabelog": 813,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "-",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Public Holiday",
+        "dtl": "16:00 - 23:00 L.O. 19:30",
+        "dtl_text": "16:00 - 23:00 L.O. 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Irregular holidays, primarily on Sundays and Mondays."
+    },
+    "google_rating": 4.6,
+    "google_reviews": 286,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJqZDavAuLGGARV-fj_CVDFnI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13205298-53895d4496807a4f0e68b218be41bbb89ce380de3115ccf28e3771f1cdb08358.jpg",
+    "place_id": "ChIJqZDavAuLGGARV-fj_CVDFnI",
+    "g_name": "茶禅華",
+    "g_rating": 4.6,
+    "g_reviews": 286,
+    "g_address": "日本、〒106-0047 東京都港区南麻布４丁目７−５",
+    "lat": 35.6495743,
+    "lng": 139.728363
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "隼",
+    "name_en": "Toshi",
+    "area": "東京都 六本木駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13225413/",
+    "rating": 4.38,
+    "review_count_tabelog": 483,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "-",
+    "sub_categories": "Chinese, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 67,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJxa6QoSaLGGAR2JDzLlNYX4c",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13225413-7f0e099eb267df0dee15a3f3d338f4f18f5f7e0442c5e525b9197437e44b07e7.jpg",
+    "place_id": "ChIJxa6QoSaLGGAR2JDzLlNYX4c",
+    "g_name": "隼 Toshi",
+    "g_rating": 4.6,
+    "g_reviews": 67,
+    "g_address": "日本、〒106-0032 東京都港区六本木４丁目４−２ ヒルサイドパレス六本木 地下１階",
+    "lat": 35.6652516,
+    "lng": 139.732474
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "香妃園",
+    "name_en": "Kouhi En",
+    "area": "東京都 六本木駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13001271/",
+    "rating": 3.68,
+    "review_count_tabelog": 2272,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday",
+        "dtl": "11:45 - 16:00 L.O. Food 15:00 Drinks 15:30 17:00 - 04:00 L.O. 03:00",
+        "dtl_text": "17:00 - 04:00 L.O. 03:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon - Sat & Public Holidays": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 1239,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJCz5LJJ2LGGARGe24ViQDxEk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13001271-3caaaa9e0c59523b997c4ec5699620dbbc48e2eca8f473425bf49a8d62d870bf.jpg",
+    "place_id": "ChIJCz5LJJ2LGGARGe24ViQDxEk",
+    "g_name": "香妃園(コウヒエン)",
+    "g_rating": 4.2,
+    "g_reviews": 1239,
+    "g_address": "日本、〒106-0032 東京都港区六本木３丁目８−１５ 2F",
+    "lat": 35.6633702,
+    "lng": 139.733952
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "ビーフン東",
+    "name_en": "Bifun Azuma",
+    "area": "東京都 新橋駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130103/13002609/",
+    "rating": 3.65,
+    "review_count_tabelog": 1524,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Taiwanese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 13:45 17:00 - 20:00",
+        "dtl_text": "17:00 - 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:30 - 13:00",
+        "dtl_text": "11:30 - 13:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.9,
+    "google_reviews": 777,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJOWFTtumLGGARc4GX-FupJSc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13002609-44c408d35ccec4883010ab1138f4eb4bf19a301b3a6a031f689a1e299d4f7c60.jpg",
+    "place_id": "ChIJOWFTtumLGGARc4GX-FupJSc",
+    "g_name": "ビーフン東",
+    "g_rating": 3.9,
+    "g_reviews": 777,
+    "g_address": "日本、〒105-0004 東京都港区新橋２丁目２０−１５ 新橋駅前ビル1号館 ２F",
+    "lat": 35.6661775,
+    "lng": 139.7594784
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "好好",
+    "name_en": "Hao Hao",
+    "area": "東京都 不動前駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131710/13007471/",
+    "rating": 3.79,
+    "review_count_tabelog": 219,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Chinese",
+    "hours_raw": [],
+    "hours_notes_structured": null,
+    "google_rating": 3.1,
+    "google_reviews": 150,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9Swy8uOKGGARu1FY9ZO_cB0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13007471-453d3dd46948fab8ad60bcc0869a64d8c98bf178d884b17ab580548e679b1b30.jpg",
+    "place_id": "ChIJ9Swy8uOKGGARu1FY9ZO_cB0",
+    "g_name": "好好ハオハオ",
+    "g_rating": 3.1,
+    "g_reviews": 150,
+    "g_address": "日本、〒141-0031 東京都品川区西五反田３丁目８−１４",
+    "lat": 35.6256837,
+    "lng": 139.7176935
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "中華寝台",
+    "name_en": "Chinese Shindai",
+    "area": "東京都 神泉駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130301/13240037/",
+    "rating": 3.81,
+    "review_count_tabelog": 192,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 64,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJvaHtZuqNGGAR43Gvo7cBCIE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13240037-22091c635b1ec8d9c29aa1145ef4ca19cfef055dc9effc31d97c62021e453fcf.jpg",
+    "place_id": "ChIJvaHtZuqNGGAR43Gvo7cBCIE",
+    "g_name": "中華寝台",
+    "g_rating": 4.5,
+    "g_reviews": 64,
+    "g_address": "日本、〒150-0043 東京都渋谷区道玄坂２丁目２３−１３ 渋谷デリタワービル 2F",
+    "lat": 35.660167,
+    "lng": 139.6961054
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "52",
+    "name_en": "52",
+    "area": "東京都 六本木駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13150543/",
+    "rating": 3.72,
+    "review_count_tabelog": 503,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Chinese, Dumpling",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays and Public Holidays"
+    },
+    "google_rating": 3.9,
+    "google_reviews": 33,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVWCLGGARA6F2aAJmBvM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13150543-1982b3c969a83c50530cebb5bf44ffa6a42ba7e51a6adc4e7a85997632b8e123.jpg",
+    "place_id": "ChIJVVVVVWCLGGARA6F2aAJmBvM",
+    "g_name": "GNM TOKYO GUNHEE & MUJIN",
+    "g_rating": 3.9,
+    "g_reviews": 33,
+    "g_address": "日本、〒150-0001 東京都渋谷区神宮前５丁目４６−３ NIKOPLACE 三階",
+    "lat": 35.664103,
+    "lng": 139.7085309
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "MASA’S KITCHEN 恵比寿",
+    "name_en": "MASA’S KITCHEN Ebisu",
+    "area": "東京都 恵比寿駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130302/13054526/",
+    "rating": 3.7,
+    "review_count_tabelog": 1662,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Chinese, Tantan-men (Spicy noodle soup), Sichuan",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 15:00 L.O. Food 14:00 18:00 - 22:30 L.O. Food 21:30",
+        "dtl_text": "18:00 - 22:30 L.O. Food 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays and the 2nd & 4th Sundays of each month"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 542,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJHxZ20xSLGGARqmVBZgY600A",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13054526-e43787cd8f0d0afa915c11c69f18af0d872f7ea053237342bf53ab34ec53aaa8.jpg",
+    "place_id": "ChIJHxZ20xSLGGARqmVBZgY600A",
+    "g_name": "MASA'S KITCHEN 恵比寿",
+    "g_rating": 4.1,
+    "g_reviews": 542,
+    "g_address": "日本、〒150-0013 東京都渋谷区恵比寿１丁目２１−１３ ＢＰＲレジデンス恵比寿 地下１階",
+    "lat": 35.64664150000001,
+    "lng": 139.714624
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "中華 兆徳",
+    "name_en": "Chuka Chotoku",
+    "area": "東京都 本駒込駅",
+    "url": "https://tabelog.com/tokyo/A1323/A132301/13051394/",
+    "rating": 3.68,
+    "review_count_tabelog": 2159,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Chinese, Dumpling, Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 14:30 17:30 - 22:00",
+        "dtl_text": "17:30 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Year-end & New Year Holidays (January 1 - January 6, 2025)"
+    },
+    "google_rating": 3.9,
+    "google_reviews": 1811,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJEXGQjsmNGGARqqy02Ql1MMs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13051394-6330836e8f7db2a60400391c2bcf0c895f4fdb390ed5ce93f2608f2acaf0bd44.jpg",
+    "place_id": "ChIJEXGQjsmNGGARqqy02Ql1MMs",
+    "g_name": "兆徳",
+    "g_rating": 3.9,
+    "g_reviews": 1811,
+    "g_address": "日本、〒113-0023 東京都文京区向丘１丁目１０−５",
+    "lat": 35.7229078,
+    "lng": 139.7540773
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "赤坂璃宮 銀座店",
+    "name_en": "Akasaka Rikyu Ginza Ten",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13013346/",
+    "rating": 3.73,
+    "review_count_tabelog": 665,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Chinese, Dim sum & Yum cha",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 15:00 L.O. 14:00 17:30 - 22:00 L.O. 21:00",
+        "dtl_text": "17:30 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "11:30 - 21:00 L.O. 20:00",
+        "dtl_text": "11:30 - 21:00 L.O. 20:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "We look forward to welcoming you!"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 317,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKZ_SHeaLGGARfkcXq22LaxU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13013346-e36da7e0a5b99b46bc1be7d48f2758952063d96d96e3648e7b932962f97fc5c3.jpg",
+    "place_id": "ChIJKZ_SHeaLGGARfkcXq22LaxU",
+    "g_name": "赤坂璃宮 銀座店",
+    "g_rating": 4.2,
+    "g_reviews": 317,
+    "g_address": "日本、〒104-0061 東京都中央区銀座６丁目８−７ 交詢ビル 5F",
+    "lat": 35.670077,
+    "lng": 139.7627503
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "敦煌",
+    "name_en": "Tonko",
+    "area": "東京都 曙橋駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130903/13000935/",
+    "rating": 3.67,
+    "review_count_tabelog": 147,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays and Sundays"
+    },
+    "google_rating": 3.7,
+    "google_reviews": 184,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKw5h7PGMGGARDyt7i4OUCFM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13000935-f7c9fb81526d899a96f9dd0c45e68cedcffcc618097b075a68867f201279d802.jpg",
+    "place_id": "ChIJKw5h7PGMGGARDyt7i4OUCFM",
+    "g_name": "曙橋駅",
+    "g_rating": 3.7,
+    "g_reviews": 184,
+    "g_address": "日本、〒162-0065 東京都新宿区住吉町７",
+    "lat": 35.6923758,
+    "lng": 139.7226303
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "小熊飯店",
+    "name_en": "Shaoxiong Hanten",
+    "area": "東京都 北参道駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130901/13142019/",
+    "rating": 3.93,
+    "review_count_tabelog": 81,
+    "price_dinner": "￥100,000～",
+    "price_lunch": "-",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 26,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJRwVPtL6MGGAREBAXbgh4alo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13142019-a4687ece9913999ecd691ebc899dfc093d4ea0b46cdece3c1bb7e4bb2c6daf6d.jpg",
+    "place_id": "ChIJRwVPtL6MGGAREBAXbgh4alo",
+    "g_name": "小熊飯店",
+    "g_rating": 4.5,
+    "g_reviews": 26,
+    "g_address": "日本、〒151-0051 東京都渋谷区千駄ケ谷３丁目１４−１０",
+    "lat": 35.6768867,
+    "lng": 139.7066665
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "私厨房 勇",
+    "name_en": "Shichubo Yung",
+    "area": "東京都 白金台駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131602/13168401/",
+    "rating": 3.87,
+    "review_count_tabelog": 287,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 65,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJFW_E_Q6LGGAR98_tEhZnZjk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13168401-fe89e84811c1ed7169046a548e623400816b77ef30d38e2dbaf4c6ff993da405.jpg",
+    "place_id": "ChIJFW_E_Q6LGGAR98_tEhZnZjk",
+    "g_name": "私厨房 勇",
+    "g_rating": 4.3,
+    "g_reviews": 65,
+    "g_address": "日本、〒108-0072 東京都港区白金６丁目５−５ モリハウス １Ｆ",
+    "lat": 35.6443789,
+    "lng": 139.7251488
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "銀座嘉禅",
+    "name_en": "Ginza Kazen",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13270780/",
+    "rating": 3.74,
+    "review_count_tabelog": 335,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Chinese, Dim sum & Yum cha, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 14:30 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 227,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJA2UBT--LGGARnpEtqCjIx6s",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13270780-58a7254c06a01564a859e26fc3ba1ddbc395203810dd29a96bb0cd48fc5d7f2a.jpg",
+    "place_id": "ChIJA2UBT--LGGARnpEtqCjIx6s",
+    "g_name": "銀座嘉禅 −カントニーズ ギンザカゼン–",
+    "g_rating": 4.3,
+    "g_reviews": 227,
+    "g_address": "日本、〒104-0061 東京都中央区銀座６丁目３−１１ 西銀座ビル 2F",
+    "lat": 35.6711708,
+    "lng": 139.7609396
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "筑紫樓 丸の内店",
+    "name_en": "Tsukushi Rou Marunouchi Ten",
+    "area": "東京都 二重橋前駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130201/13005656/",
+    "rating": 3.61,
+    "review_count_tabelog": 560,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 15:00 L.O. 14:30 17:00 - 22:00 L.O. 21:30",
+        "dtl_text": "17:00 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 22:00 L.O. 21:30",
+        "dtl_text": "11:00 - 22:00 L.O. 21:30"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 306,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJH8vQ7fmLGGARX4-4LMoThXM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13005656-99d355c6caa1e78ed57da46b7c20614c32ac04582e76e87ea697ad5b4dd31ac8.jpg",
+    "place_id": "ChIJH8vQ7fmLGGARX4-4LMoThXM",
+    "g_name": "筑紫樓 丸の内店",
+    "g_rating": 4.1,
+    "g_reviews": 306,
+    "g_address": "日本、〒100-0005 東京都千代田区丸の内２丁目４−１",
+    "lat": 35.6812712,
+    "lng": 139.7635466
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "スーツァン・レストラン陳 渋谷店",
+    "name_en": "Szechuan Restaurant Chin Shibuya Ten",
+    "area": "東京都 渋谷駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130301/13001909/",
+    "rating": 3.71,
+    "review_count_tabelog": 988,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Sichuan",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 L.O. 14:00 17:30 - 22:00 L.O. 21:00",
+        "dtl_text": "17:30 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 385,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2ehjBVeLGGAR4-ohdHuuP0g",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13001909-5f2786a39b6eaf5e6382868bcd23499fde2894195a5821de99bad0a42dcb978d.jpg",
+    "place_id": "ChIJ2ehjBVeLGGAR4-ohdHuuP0g",
+    "g_name": "スーツァンレストラン陳 渋谷",
+    "g_rating": 4.4,
+    "g_reviews": 385,
+    "g_address": "日本、〒150-0031 東京都渋谷区桜丘町２６−１ セルリアンタワー東急ホテル 2F",
+    "lat": 35.6564193,
+    "lng": 139.6994267
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "中華 銀座亭",
+    "name_en": "Chuka Ginza Tei",
+    "area": "東京都 東銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13054334/",
+    "rating": 3.67,
+    "review_count_tabelog": 1726,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Chinese, Dumpling, Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 01:00",
+        "dtl_text": "11:30 - 01:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 1081,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJaeRF2ueLGGARNyoBFbUp0fY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13054334-d6233f2c2507c0b7b3a1682bbb83ea963072f3d2351a8a7eabc2cf7d97c397a2.jpg",
+    "place_id": "ChIJaeRF2ueLGGARNyoBFbUp0fY",
+    "g_name": "中華 銀座亭",
+    "g_rating": 4.2,
+    "g_reviews": 1081,
+    "g_address": "日本、〒104-0061 東京都中央区銀座７丁目１１−１０",
+    "lat": 35.6680423,
+    "lng": 139.763044
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "飄香 広尾店",
+    "name_en": "Piao Xiang Hiro Ten",
+    "area": "東京都 広尾駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130703/13274033/",
+    "rating": 3.72,
+    "review_count_tabelog": 66,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Sichuan",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:30 - 22:00",
+        "dtl_text": "18:30 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "☎︎03-6277-2141"
+    },
+    "google_rating": 4.8,
+    "google_reviews": 23,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJw8sY3t6LGGARrQbArsw9N60",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13274033-5fa2b983b75c6dffaa69c46ddf430d83ff45b326122b1049669c4ad6bb268981.jpg",
+    "place_id": "ChIJw8sY3t6LGGARrQbArsw9N60",
+    "g_name": "飄香",
+    "g_rating": 4.8,
+    "g_reviews": 23,
+    "g_address": "日本、〒150-0012 東京都渋谷区広尾５丁目１９−１ VILLAGE 1F 2",
+    "lat": 35.6490063,
+    "lng": 139.7195864
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "赤坂璃宮 赤坂本店",
+    "name_en": "Akasaka Rikyu Akasaka Mototen",
+    "area": "東京都 赤坂駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130801/13005028/",
+    "rating": 3.68,
+    "review_count_tabelog": 642,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Chinese, Dim sum & Yum cha",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 15:00 L.O. 14:00 17:30 - 22:00 L.O. 21:00",
+        "dtl_text": "17:30 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "We look forward to welcoming you!"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 281,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJn1_2uYCLGGARZ3c753sFF50",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13005028-f09146feec4428b8263085add963f46a16ed44327f6c14fa13adcc42aa02101c.jpg",
+    "place_id": "ChIJn1_2uYCLGGARZ3c753sFF50",
+    "g_name": "赤坂璃宮 赤坂本店",
+    "g_rating": 4.2,
+    "g_reviews": 281,
+    "g_address": "日本、〒107-6302 東京都港区赤坂５丁目３−１ 赤坂Bizタワーatrium2F",
+    "lat": 35.6730888,
+    "lng": 139.7357883
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "series",
+    "name_en": "series",
+    "area": "東京都 六本木一丁目駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13246575/",
+    "rating": 3.9,
+    "review_count_tabelog": 835,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Chinese, Dim sum & Yum cha",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "12:00 - 14:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Seasonal breaks in winter and summer."
+    },
+    "google_rating": 3.6,
+    "google_reviews": 223,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJMTjhMZuLGGARXcv1tE6tSXk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13246575-31c579dd67eae5889e0e453e6cc1d018111a128e85194d6aa4a87fde3f78f0f8.jpg",
+    "place_id": "ChIJMTjhMZuLGGARXcv1tE6tSXk",
+    "g_name": "六本木一丁目駅",
+    "g_rating": 3.6,
+    "g_reviews": 223,
+    "g_address": "日本、〒106-0032 東京都港区六本木１丁目４",
+    "lat": 35.6654626,
+    "lng": 139.7389911
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "錦福 香港美食",
+    "name_en": "Kin Fuku Hong Kong Bishoku",
+    "area": "東京都 九段下駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130906/13218085/",
+    "rating": 3.69,
+    "review_count_tabelog": 233,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Chinese, Wine bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:30 - 22:00 L.O. 21:00",
+        "dtl_text": "17:30 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Year-end & New Year Holidays"
+    },
+    "google_rating": 3.9,
+    "google_reviews": 156,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJpxpQnGqMGGARLE6TUQHCpXs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13218085-de45f0c2a87cc6467f9ba51e4fecfa133c40bba133db5c68cbbb3cc2a5b76616.jpg",
+    "place_id": "ChIJpxpQnGqMGGARLE6TUQHCpXs",
+    "g_name": "錦福 香港美食",
+    "g_rating": 3.9,
+    "g_reviews": 156,
+    "g_address": "日本、〒102-0073 東京都千代田区九段北１丁目９−１２",
+    "lat": 35.6980132,
+    "lng": 139.7507165
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "御膳房 六本木店",
+    "name_en": "Gozenbo Roppongi Ten",
+    "area": "東京都 六本木駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13001852/",
+    "rating": 3.51,
+    "review_count_tabelog": 704,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chinese, Chinese hot pot",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 15:00 L.O. 14:30 17:00 - 22:30 L.O. 21:30",
+        "dtl_text": "17:00 - 22:30 L.O. 21:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round, closed from the evening of December 31 to January 1 for New Year."
+    },
+    "google_rating": 4,
+    "google_reviews": 384,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJO4qVhJ2LGGAR9HZlMVbgLpU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13001852-c31a27b8723a16f2f2898ffbf56e4f9c773831ff02bfae483b8eaf01e16f2fe0.jpg",
+    "place_id": "ChIJO4qVhJ2LGGAR9HZlMVbgLpU",
+    "g_name": "御膳房 六本木店",
+    "g_rating": 4,
+    "g_reviews": 384,
+    "g_address": "日本、〒106-0032 東京都港区六本木６丁目８−１５ 第２五月ビル 1階",
+    "lat": 35.6606933,
+    "lng": 139.7325498
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "中国飯店 六本木店",
+    "name_en": "Chinese Hanten Roppongi Ten",
+    "area": "東京都 六本木駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13001954/",
+    "rating": 3.76,
+    "review_count_tabelog": 1363,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 15:00 L.O. 14:00 17:30 - 00:00 L.O. 23:30",
+        "dtl_text": "17:30 - 00:00 L.O. 23:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "*Last lunch seating is at 14:00, and last dinner seating is at 23:00."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 727,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQB8X3eLGGARla6WZj_LekQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13001954-4d90c8cdb2dd82a03f0348aac445938f8b2851b23799d4e45bc99b785a088689.jpg",
+    "place_id": "ChIJAQB8X3eLGGARla6WZj_LekQ",
+    "g_name": "中国飯店 六本木店",
+    "g_rating": 4.3,
+    "g_reviews": 727,
+    "g_address": "日本、〒106-0031 東京都港区西麻布１丁目１−５ オリエンタルビル 1F",
+    "lat": 35.6615018,
+    "lng": 139.7279815
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "フルタ",
+    "name_en": "Furuta",
+    "area": "東京都 宝町駅",
+    "url": "https://tabelog.com/tokyo/A1313/A131301/13176780/",
+    "rating": 4.33,
+    "review_count_tabelog": 333,
+    "price_dinner": "￥100,000～",
+    "price_lunch": "-",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 22:30 L.O. 20:30",
+        "dtl_text": "17:00 - 22:30 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 63,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ79REpOGLGGARcwjemfilGsE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13176780-46996296c0aca8640620e0b792d3fe442016a2158ad4cb3398d8c07ad6a3623f.jpg",
+    "place_id": "ChIJ79REpOGLGGARcwjemfilGsE",
+    "g_name": "Furuta",
+    "g_rating": 4.3,
+    "g_reviews": 63,
+    "g_address": "日本、〒104-0061 東京都中央区銀座１丁目２１−１４",
+    "lat": 35.6725811,
+    "lng": 139.7707267
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "中華風家庭料理 ふーみん",
+    "name_en": "Chuka Fu Katei Ryori Fumin",
+    "area": "東京都 表参道駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130602/13002096/",
+    "rating": 3.66,
+    "review_count_tabelog": 1257,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chinese, Creative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 15:00 L.O. Food 14:30 18:00 - 21:30 L.O. 20:45",
+        "dtl_text": "18:00 - 21:30 L.O. 20:45"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays, public holidays, and Mondays."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 777,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6YSqimCLGGAREcZLm5ghuTo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13002096-318e1e908d1e5ac04b116c43869278a7d03a042423ec77e09bc10ed489695536.jpg",
+    "place_id": "ChIJ6YSqimCLGGAREcZLm5ghuTo",
+    "g_name": "中華風家庭料理ふーみん",
+    "g_rating": 4.3,
+    "g_reviews": 777,
+    "g_address": "日本、〒107-0062 東京都港区南青山５丁目７−１７ 小原流会館 地下１階",
+    "lat": 35.662325,
+    "lng": 139.71283
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "メゾン・ド・ユーロン",
+    "name_en": "Maison de Yuron",
+    "area": "東京都 赤坂駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130801/13002871/",
+    "rating": 3.74,
+    "review_count_tabelog": 557,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "17:30 - 21:30",
+        "dtl_text": "17:30 - 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Public Holiday",
+        "dtl": "11:30 - 14:30 L.O. 13:30 17:30 - 21:30",
+        "dtl_text": "17:30 - 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 192,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJe_L8CICMGGARMxRd6i41O_w",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13002871-f7e2b2e92f17a7cbd629c58863d115298aeecc2c471cf6df8e7bf952e3085031.jpg",
+    "place_id": "ChIJe_L8CICMGGARMxRd6i41O_w",
+    "g_name": "メゾン・ド・ユーロン",
+    "g_rating": 4.3,
+    "g_reviews": 192,
+    "g_address": "日本、〒107-0052 東京都港区赤坂４丁目１３−１８",
+    "lat": 35.6729642,
+    "lng": 139.7317333
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "慈華",
+    "name_en": "itsuka",
+    "area": "東京都 外苑前駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130603/13242634/",
+    "rating": 3.91,
+    "review_count_tabelog": 238,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "18:00 - 22:00 L.O. Food 20:00 Drinks 21:30",
+        "dtl_text": "18:00 - 22:00 L.O. Food 20:00 Drinks 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "12:00 - 15:00 L.O. Food 13:00 18:00 - 22:00 L.O. Food 20:00 Drinks 21:30",
+        "dtl_text": "18:00 - 22:00 L.O. Food 20:00 Drinks 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every Monday and other irregular days"
+    },
+    "google_rating": 4.7,
+    "google_reviews": 68,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__-T5pyMGGARoS5HMM3m1nA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13242634-ac23ee1627f3265ca82529a34f878af35ccfeae1ada810281d462c9b8b769e22.jpg",
+    "place_id": "ChIJ__-T5pyMGGARoS5HMM3m1nA",
+    "g_name": "中華料理 慈華 (itsuka)",
+    "g_rating": 4.7,
+    "g_reviews": 68,
+    "g_address": "日本、〒107-0062 東京都港区南青山２丁目１４−１５ AOYAMA FUSION Bldg 2F",
+    "lat": 35.6702649,
+    "lng": 139.7202398
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "南方中華料理 南三",
+    "name_en": "Nanpo Chinese Minami",
+    "area": "東京都 四谷三丁目駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130903/13221235/",
+    "rating": 3.75,
+    "review_count_tabelog": 396,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "18:30 - 23:00",
+        "dtl_text": "18:30 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (approximately 2 to 3 days a month)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 120,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJR6Z4k9qNGGARo4cCrx3woJY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13221235-b0a99601c01215b9250d882aa8b82a81af0e761ce6c80d24477408d67161716d.jpg",
+    "place_id": "ChIJR6Z4k9qNGGARo4cCrx3woJY",
+    "g_name": "南方中華料理 南三",
+    "g_rating": 4.3,
+    "g_reviews": 120,
+    "g_address": "日本、〒160-0007 東京都新宿区荒木町１０−１４ 五番館ビル 2F B",
+    "lat": 35.6895261,
+    "lng": 139.7225845
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "老四川 飄香小院",
+    "name_en": "Lao Shisen Piao Xiang Shouin",
+    "area": "東京都 六本木駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13226183/",
+    "rating": 3.65,
+    "review_count_tabelog": 406,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Sichuan, Tantan-men (Spicy noodle soup), Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 L.O. 14:30 17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Closed every Wednesday (from November 1, 2025, we will be open year-round)"
+    },
+    "google_rating": 3.7,
+    "google_reviews": 137,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9dKEVI2LGGARLJAiXJsnZOE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13226183-08b498d2a8215dc751042948ac591135ecb41749024856510d3ab69d3b8835b1.jpg",
+    "place_id": "ChIJ9dKEVI2LGGARLJAiXJsnZOE",
+    "g_name": "老四川 飄香小院 六本木ヒルズ店",
+    "g_rating": 3.7,
+    "g_reviews": 137,
+    "g_address": "日本、〒106-6105 東京都港区六本木６丁目１０−１ ヒルズ ウェストウォーク 5F",
+    "lat": 35.6608003,
+    "lng": 139.7292994
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "蟹王府",
+    "name_en": "Shewanfu",
+    "area": "東京都 三越前駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130202/13253305/",
+    "rating": 3.74,
+    "review_count_tabelog": 829,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Chinese, Dim sum & Yum cha",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 279,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJRb_Jk3GLGGARqzygO8PNf94",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13253305-279a5ac138d130e48064c57d2d043f11d51e263c0170938faa163d6e1ae98f09.jpg",
+    "place_id": "ChIJRb_Jk3GLGGARqzygO8PNf94",
+    "g_name": "成隆行 蟹王府",
+    "g_rating": 4.3,
+    "g_reviews": 279,
+    "g_address": "日本、〒103-0022 東京都中央区日本橋室町２丁目１−１ 三井二号館 1階",
+    "lat": 35.6867838,
+    "lng": 139.7723641
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "中国四川料理 梅香",
+    "name_en": "meisyan",
+    "area": "東京都 牛込神楽坂駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13059767/",
+    "rating": 3.65,
+    "review_count_tabelog": 306,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Sichuan, Chinese hot pot",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri",
+        "dtl": "12:00 - 14:00 17:30 - 22:00",
+        "dtl_text": "17:30 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "12:00 - 14:00 17:30 - 21:00",
+        "dtl_text": "17:30 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 157,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4_UV5FmMGGARQdOGNgB7vW4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13059767-105f10d3b1ff50c4127d968a05a60a056019f4581cc6d731893f859573411d23.jpg",
+    "place_id": "ChIJ4_UV5FmMGGARQdOGNgB7vW4",
+    "g_name": "梅香",
+    "g_rating": 4.3,
+    "g_reviews": 157,
+    "g_address": "中島第一ビル 1F, ３７-３９ 横寺町 新宿区 東京都 162-0831 日本",
+    "lat": 35.70118890000001,
+    "lng": 139.7363514
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "中国料理 礼華 四君子草",
+    "name_en": "Chinese Raika Shikunshiso",
+    "area": "東京都 日比谷駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130102/13219684/",
+    "rating": 3.72,
+    "review_count_tabelog": 446,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Chinese, Wine bar, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 15:00 L.O. 14:00 17:30 - 22:00 L.O. Food 20:30 Drinks 21:30",
+        "dtl_text": "17:30 - 22:00 L.O. Food 20:30 Drinks 21:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "New Year's Day"
+    },
+    "google_rating": 4,
+    "google_reviews": 211,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQdsfJe6LGGARoGfItnnRQc0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13219684-149e9a1a6f403fd2989038a2cce1ba9e38505d187959632e77f302addee4f996.jpg",
+    "place_id": "ChIJQdsfJe6LGGARoGfItnnRQc0",
+    "g_name": "中国料理 礼華 四君子草",
+    "g_rating": 4,
+    "g_reviews": 211,
+    "g_address": "日本、〒100-0006 東京都千代田区有楽町１丁目１−２ 東京ミッドタウン日比谷 3F",
+    "lat": 35.6738474,
+    "lng": 139.7590087
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "四川料理 龍の子",
+    "name_en": "Sichuan Ryori Ryunoko",
+    "area": "東京都 明治神宮前駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130601/13001219/",
+    "rating": 3.68,
+    "review_count_tabelog": 1063,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Sichuan, Tantan-men (Spicy noodle soup), Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday",
+        "dtl": "11:30 - 15:00 L.O. 14:30 17:30 - 21:30 L.O. Food 20:30 Drinks 21:00",
+        "dtl_text": "17:30 - 21:30 L.O. Food 20:30 Drinks 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "*Please note that there are long breaks during the year-end and New Year holidays, as well as summer vacations. Business hours and closing days may change, so please check our website or Instagram calendar for the latest updates."
+    },
+    "google_rating": 4,
+    "google_reviews": 460,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJnb6bX6OMGGAR5S1Zw2HFE6Y",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13001219-40468b8e50b8847ba53c799c0fb6a9ad1b39023298a99999a165eb4305cfbf78.jpg",
+    "place_id": "ChIJnb6bX6OMGGAR5S1Zw2HFE6Y",
+    "g_name": "四川料理 龍の子",
+    "g_rating": 4,
+    "g_reviews": 460,
+    "g_address": "日本、〒150-0001 東京都渋谷区神宮前１丁目８−５ メナー神宮前 B1Ｆ",
+    "lat": 35.6702023,
+    "lng": 139.7064737
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "馥香 浅草橋本店",
+    "name_en": "Fuxiang Asakusabashihonten",
+    "area": "東京都 浅草橋駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131103/13010780/",
+    "rating": 3.68,
+    "review_count_tabelog": 535,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chinese, Dim sum & Yum cha, Tantan-men (Spicy noodle soup)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 14:30 L.O. 14:00 17:30 - 23:00 L.O. 21:30",
+        "dtl_text": "17:30 - 23:00 L.O. 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays (open on public holidays)"
+    },
+    "google_rating": 4,
+    "google_reviews": 313,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJa3AvVrGOGGAR5IAm4xtfifU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13010780-fa3581ec3e0d8fe6800a6f2d6f0d4ea927fce1366d315429782932935021f5a2.jpg",
+    "place_id": "ChIJa3AvVrGOGGAR5IAm4xtfifU",
+    "g_name": "馥香 浅草橋本店(8/31閉店)",
+    "g_rating": 4,
+    "g_reviews": 313,
+    "g_address": "日本、〒111-0052 東京都台東区柳橋２丁目１４−２ アリス・マナー･ガーデン浅草橋1F",
+    "lat": 35.6992687,
+    "lng": 139.7877572
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "竹韻飄香",
+    "name_en": "Juyin Pyaoshan",
+    "area": "東京都 代々木上原駅",
+    "url": "https://tabelog.com/tokyo/A1318/A131811/13264806/",
+    "rating": 3.66,
+    "review_count_tabelog": 97,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Sichuan, Chinese, Tantan-men without the broth",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "18:00 - 22:00 L.O. Food 21:00 Drinks 21:30",
+        "dtl_text": "18:00 - 22:00 L.O. Food 21:00 Drinks 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.8,
+    "google_reviews": 23,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJw8sY3t6LGGARrQbArsw9N60",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13264806-f3f2db19398733c647a0618887451d9528ab321dd4a69a186474d6549fb3e07c.jpg",
+    "place_id": "ChIJw8sY3t6LGGARrQbArsw9N60",
+    "g_name": "飄香",
+    "g_rating": 4.8,
+    "g_reviews": 23,
+    "g_address": "日本、〒150-0012 東京都渋谷区広尾５丁目１９−１ VILLAGE 1F 2",
+    "lat": 35.6490063,
+    "lng": 139.7195864
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "福満苑 鼓楼",
+    "name_en": "Fukumanen Gulou",
+    "area": "東京都 要町駅",
+    "url": "https://tabelog.com/tokyo/A1322/A132202/13228727/",
+    "rating": 3.61,
+    "review_count_tabelog": 317,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00 17:30 - 22:00 L.O. 21:30",
+        "dtl_text": "17:30 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.8,
+    "google_reviews": 149,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ___QT6iSGGARDN3aLIuKrvo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13228727-6ab1e1453dd22de4c75fd9a96fca3c549da7702754c22bd9982931b29114930c.jpg",
+    "place_id": "ChIJ___QT6iSGGARDN3aLIuKrvo",
+    "g_name": "福滿苑 鼓楼(ふくまんえん ぐーろう)",
+    "g_rating": 3.8,
+    "g_reviews": 149,
+    "g_address": "日本、〒171-0043 東京都豊島区要町１丁目１４",
+    "lat": 35.7342518,
+    "lng": 139.6993595
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "家寶 跳龍門",
+    "name_en": "Kapo Choryumon",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13263227/",
+    "rating": 3.76,
+    "review_count_tabelog": 249,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "Chinese, Dim sum & Yum cha",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 16:00 L.O. 15:00 17:30 - 23:00 L.O. 21:30",
+        "dtl_text": "17:30 - 23:00 L.O. 21:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (following the business hours of Ginza SIX)"
+    },
+    "google_rating": 4,
+    "google_reviews": 93,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJU5J7XfaLGGARRNNSn7L3bzs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13263227-62ac94b696d0f170d86b57449869c3f052c2b9d72bdc0d066bbff7c520909f90.jpg",
+    "place_id": "ChIJU5J7XfaLGGARRNNSn7L3bzs",
+    "g_name": "家寳 跳龍門",
+    "g_rating": 4,
+    "g_reviews": 93,
+    "g_address": "日本、〒104-0061 東京都中央区銀座６丁目１０−１ GINZA SIX ６F",
+    "lat": 35.6694867,
+    "lng": 139.7635345
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "虎峰",
+    "name_en": "Koho",
+    "area": "東京都 六本木駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13194122/",
+    "rating": 4.23,
+    "review_count_tabelog": 734,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "18:00 - 21:30 L.O. Food 19:30",
+        "dtl_text": "18:00 - 21:30 L.O. Food 19:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Please note that it may be difficult to reach us by phone after 15:00. For any inquiries, kindly contact us before 15:00."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 145,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4fXQ35yLGGARkk68DZYceIc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13194122-58684edebcabc58b13b9a68767909afa1bd8935c9e7766b4487b4877fd7496d5.jpg",
+    "place_id": "ChIJ4fXQ35yLGGARkk68DZYceIc",
+    "g_name": "虎峰(こほう)",
+    "g_rating": 4.4,
+    "g_reviews": 145,
+    "g_address": "日本、〒106-0032 東京都港区六本木３丁目８−７",
+    "lat": 35.6631657,
+    "lng": 139.7345428
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "中国料理 桃花林",
+    "name_en": "Chinese Toukaryou Toukari",
+    "area": "東京都 虎ノ門ヒルズ駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130802/13238558/",
+    "rating": 3.71,
+    "review_count_tabelog": 228,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Chinese",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 14:30 17:30 - 21:00 L.O. 21:00",
+        "dtl_text": "17:30 - 21:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 15:30 17:30 - 21:00 L.O. 21:00",
+        "dtl_text": "17:30 - 21:00 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 310,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJdVd2oPGGHWARTnhi_ytrHgs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13238558-f21e65c331d6f0ff2bb4de19fe88cdf8ae3ac7c03120ddb4d4f6026a2da9fa83.jpg",
+    "place_id": "ChIJdVd2oPGGHWARTnhi_ytrHgs",
+    "g_name": "桃花林",
+    "g_rating": 4.5,
+    "g_reviews": 310,
+    "g_address": "日本、〒105-0001 東京都港区虎ノ門２丁目１０−４ オークラプレステージ 6階",
+    "lat": 35.666704,
+    "lng": 139.7442871
+  },
+  {
+    "category_jp": "中国料理",
+    "category_en": "中国料理",
+    "region": "TOKYO",
+    "name": "ジュウバー",
+    "name_en": "jiubar",
+    "area": "東京都 飯田橋駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13207885/",
+    "rating": 3.74,
+    "review_count_tabelog": 688,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "-",
+    "sub_categories": "Chinese, Bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 01:00 L.O. 00:00",
+        "dtl_text": "17:00 - 01:00 L.O. 00:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 197,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJX5pbJluMGGAR7TWvI02TBC8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/chinese_tokyo/13207885-a23e94c02976e05bfb71d3719b1d4f6eaf99578723a06594deb3baa80b122941.jpg",
+    "place_id": "ChIJX5pbJluMGGAR7TWvI02TBC8",
+    "g_name": "jiubar / ジュウバー",
+    "g_rating": 4.2,
+    "g_reviews": 197,
+    "g_address": "日本、〒162-0825 東京都新宿区神楽坂２丁目１２ 神楽坂ビル ３階",
+    "lat": 35.7010113,
+    "lng": 139.7414626
+  }
+]

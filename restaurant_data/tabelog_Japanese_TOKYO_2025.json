@@ -1,0 +1,4189 @@
+[
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "麻布十番 ふくだ",
+    "name_en": "Azabu Juban Fukuda",
+    "area": "東京都 麻布十番駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130702/13174951/",
+    "rating": 3.77,
+    "review_count_tabelog": 120,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (recent closures: November 5, 19, 24-26, 30)"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 31,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQDksKGLGGAR9nN2zDvpJWo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13174951-4d67943a954b1c60a12fb65787e3f60c4acf9cf648eb3904966a62b9bf27c988.jpg",
+    "place_id": "ChIJAQDksKGLGGAR9nN2zDvpJWo",
+    "g_name": "麻布十番 ふくだ",
+    "g_rating": 4.1,
+    "g_reviews": 31,
+    "g_address": "日本、〒106-0045 東京都港区麻布十番３丁目７−５ マスコビル麻布弐番館 1階",
+    "lat": 35.6536428,
+    "lng": 139.7350566
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "日本料理 山崎",
+    "name_en": "Japanese Cuisine Yamazaki",
+    "area": "東京都 宝町駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130202/13287123/",
+    "rating": 4.04,
+    "review_count_tabelog": 135,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Japanese Cuisine, Unagi (Eel)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 13:30 L.O. 13:30 18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 166,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJgWqw-jiQ918Ri2uwMwKWOG4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13287123-a2245561125fe12abe3202eaaa204736294838eb55fb99c49a83b570185d2229.jpg",
+    "place_id": "ChIJgWqw-jiQ918Ri2uwMwKWOG4",
+    "g_name": "日本料理 山崎 京橋・宝町",
+    "g_rating": 4.3,
+    "g_reviews": 166,
+    "g_address": "日本、〒104-0031 東京都中央区京橋２丁目６−７",
+    "lat": 35.6764959,
+    "lng": 139.7714252
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "銀座 きた川",
+    "name_en": "Kitagawa",
+    "area": "東京都 銀座一丁目駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13275790/",
+    "rating": 4.35,
+    "review_count_tabelog": 351,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine, Tempura",
+    "hours_raw": [],
+    "hours_notes_structured": null,
+    "google_rating": 4.6,
+    "google_reviews": 77,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJv1ZzHuWLGGAR80F7_9EUMCU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13275790-6a0fe6a02d2345d4dd320426db9e403310f3990c8159e5e54e4ca3077645fd7d.jpg",
+    "place_id": "ChIJv1ZzHuWLGGAR80F7_9EUMCU",
+    "g_name": "銀座 きた川",
+    "g_rating": 4.6,
+    "g_reviews": 77,
+    "g_address": "日本、〒104-0061 東京都中央区銀座２丁目１０−１１ マロニエ通り銀座 館3階",
+    "lat": 35.6720976,
+    "lng": 139.7682378
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "松蔭鶴水",
+    "name_en": "Shouin Tsurumizu",
+    "area": "東京都 松陰神社前駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131709/13220685/",
+    "rating": 3.94,
+    "review_count_tabelog": 123,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.8,
+    "google_reviews": 42,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJn9ofJnzzGGARzpKNVZPBd9Q",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13220685-127d19f0bf06e709492ebc4a90c51791f53fd3addf3ffdebcfaf67e502a78be8.jpg",
+    "place_id": "ChIJn9ofJnzzGGARzpKNVZPBd9Q",
+    "g_name": "松陰鶴水",
+    "g_rating": 4.8,
+    "g_reviews": 42,
+    "g_address": "日本、〒154-0023 東京都世田谷区若林４丁目２０−１０",
+    "lat": 35.6445322,
+    "lng": 139.6556619
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "宮坂",
+    "name_en": "Miyasaka",
+    "area": "東京都 表参道駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130602/13264981/",
+    "rating": 4.24,
+    "review_count_tabelog": 140,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (other irregular holidays may apply, and we may be open on public holidays)."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 24,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-2EUbPmLGGARkgBRK0jZmac",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13264981-2d7b934c89c970df2c202dee9a4600df669f5e39b908b6705731b56ebd03a07e.jpg",
+    "place_id": "ChIJ-2EUbPmLGGARkgBRK0jZmac",
+    "g_name": "宮坂 Miyasaka",
+    "g_rating": 4.2,
+    "g_reviews": 24,
+    "g_address": "日本、〒107-0062 東京都港区南青山５丁目４−３０ ヴィラソレイユ E号",
+    "lat": 35.6624562,
+    "lng": 139.7143784
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "多仁本",
+    "name_en": "Tanimoto",
+    "area": "東京都 飯田橋駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13288233/",
+    "rating": 4.11,
+    "review_count_tabelog": 103,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥30,000～￥39,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:30 - 20:00 20:15 - 22:30",
+        "dtl_text": "20:15 - 22:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "January 1, 2, 3, 4, 5, 6, 13, 19, 26"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 86,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJScElk_KMGGARgaxmq-wDEIs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13288233-c11b435afc42a2402782e1fe87be2457206d8608c71e38b8000fae9143eed494.jpg",
+    "place_id": "ChIJScElk_KMGGARgaxmq-wDEIs",
+    "g_name": "多仁本 神楽坂",
+    "g_rating": 4.6,
+    "g_reviews": 86,
+    "g_address": "日本、〒162-0825 東京都新宿区神楽坂３丁目１ 軽子坂プレイス ３階",
+    "lat": 35.7022415,
+    "lng": 139.7410465
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "銀座 稲葉",
+    "name_en": "Ginza Inaba",
+    "area": "東京都 東銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13259495/",
+    "rating": 3.85,
+    "review_count_tabelog": 312,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays"
+    },
+    "google_rating": 4.8,
+    "google_reviews": 103,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ28VJ6RiLGGARGZqMx9Z8Ugc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13259495-a52fbbffab2a05b39f4e77a246cb6b87eccd36f0c20b2c0ae35251968624b9ab.jpg",
+    "place_id": "ChIJ28VJ6RiLGGARGZqMx9Z8Ugc",
+    "g_name": "銀座 稲葉",
+    "g_rating": 4.8,
+    "g_reviews": 103,
+    "g_address": "日本、〒104-0061 東京都中央区銀座８丁目１２−１５ 全国燃料会館 1F",
+    "lat": 35.6676904,
+    "lng": 139.7630902
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "江戸前芝浜",
+    "name_en": "Edo Mae Shibahama",
+    "area": "東京都 芝公園駅",
+    "url": "https://tabelog.com/tokyo/A1314/A131401/13260165/",
+    "rating": 3.79,
+    "review_count_tabelog": 60,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [],
+    "hours_notes_structured": null,
+    "google_rating": 4.6,
+    "google_reviews": 39,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJqfhWjbeLGGAR7bcMF5RV2Dc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13260165-ce39f41cc349f91a215dd250948b74910914b1fd4d6b31de508311a0b3865188.jpg",
+    "place_id": "ChIJqfhWjbeLGGAR7bcMF5RV2Dc",
+    "g_name": "江戸前芝浜",
+    "g_rating": 4.6,
+    "g_reviews": 39,
+    "g_address": "日本、〒105-0014 東京都港区芝２丁目２２−２３ 冨味ビル １階",
+    "lat": 35.6514069,
+    "lng": 139.7505001
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "感情",
+    "name_en": "Kanjou",
+    "area": "東京都 六本木駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13267945/",
+    "rating": 4.16,
+    "review_count_tabelog": 205,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine, Chicken dishes, Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.7,
+    "google_reviews": 45,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4WnYMRCLGGARznWntLe9xEw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13267945-35a5e42529d0c51a42c89e2734b3fa522b273be86f6c41ba901955007db11f3c.jpg",
+    "place_id": "ChIJ4WnYMRCLGGARznWntLe9xEw",
+    "g_name": "感情",
+    "g_rating": 4.7,
+    "g_reviews": 45,
+    "g_address": "日本、〒106-0032 東京都港区六本木４丁目１２−５ 六本木１４４ビル 3f",
+    "lat": 35.6644702,
+    "lng": 139.7316325
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "NK",
+    "name_en": "NK",
+    "area": "東京都 牛込神楽坂駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13249655/",
+    "rating": 4.44,
+    "review_count_tabelog": 304,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "￥40,000～￥49,999",
+    "sub_categories": "Japanese Cuisine, Creative",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays, Mondays (twice a month), public holidays, and during the first week of May, mid-August, and year-end & New Year holidays."
+    },
+    "google_rating": 4.9,
+    "google_reviews": 83,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJNVZ7iZeNGGARwaCgfQr6Xws",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13249655-f3ff458c7693b1c2069dc2805bf6d92bde92868046e7833a3284735dcb338cc8.jpg",
+    "place_id": "ChIJNVZ7iZeNGGARwaCgfQr6Xws",
+    "g_name": "NK (New Wonderful Companions feat. Kakuland）",
+    "g_rating": 4.9,
+    "g_reviews": 83,
+    "g_address": "日本、〒162-0825 東京都新宿区神楽坂５丁目３７ 相良ビル 1F",
+    "lat": 35.7012692,
+    "lng": 139.7392813
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "樋口",
+    "name_en": "Higuchi",
+    "area": "東京都 北参道駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130601/13001215/",
+    "rating": 4.21,
+    "review_count_tabelog": 198,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat",
+        "dtl": "18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.8,
+    "google_reviews": 150,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJhZw22riMGGARF95drS3lJ2A",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13001215-6b0b4494feda20e98fb4839ccc3da432fd9869295aca0be23946e323c26c6cd7.jpg",
+    "place_id": "ChIJhZw22riMGGARF95drS3lJ2A",
+    "g_name": "北参道駅",
+    "g_rating": 3.8,
+    "g_reviews": 150,
+    "g_address": "日本、〒151-0051 東京都渋谷区千駄ケ谷３丁目４１",
+    "lat": 35.6783688,
+    "lng": 139.7055537
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "味ひろ",
+    "name_en": "Aji Hiro",
+    "area": "東京都 新富町駅",
+    "url": "https://tabelog.com/tokyo/A1313/A131301/13293039/",
+    "rating": 4.19,
+    "review_count_tabelog": 81,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [],
+    "hours_notes_structured": null,
+    "google_rating": 4.9,
+    "google_reviews": 17,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJEeMnHwCJGGAR3jmt49Jr7MI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13293039-e81f791e3a8f463f9184e5c2f082c8e60dfd2051cb424a8a1c3356c670e447d7.jpg",
+    "place_id": "ChIJEeMnHwCJGGAR3jmt49Jr7MI",
+    "g_name": "味ひろ",
+    "g_rating": 4.9,
+    "g_reviews": 17,
+    "g_address": "日本、〒104-0042 東京都中央区入船３丁目８−９ ドミシールカワイ 102",
+    "lat": 35.6705272,
+    "lng": 139.7771193
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "麻布室井",
+    "name_en": "Azabu Muroi",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13292026/",
+    "rating": 4.17,
+    "review_count_tabelog": 124,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13292026-62683336aa56033306e485fcbc9ec555b47437539b1c3031499b7475af06ee29.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "おかもと",
+    "name_en": "Okamoto",
+    "area": "東京都 神谷町駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130704/13144115/",
+    "rating": 3.88,
+    "review_count_tabelog": 78,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "18:00 - 22:00 L.O. 21:00",
+        "dtl_text": "18:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 14:00 18:00 - 22:00 L.O. 21:00",
+        "dtl_text": "18:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed."
+    },
+    "google_rating": 4.6,
+    "google_reviews": 34,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJG3s9IZeLGGARSp_FOjqzkvI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13144115-4e337bdfa4095a465af80fbf7a3afdb64fde9e519095834f4af2ee7ec6fc843e.jpg",
+    "place_id": "ChIJG3s9IZeLGGARSp_FOjqzkvI",
+    "g_name": "おかもと",
+    "g_rating": 4.6,
+    "g_reviews": 34,
+    "g_address": "日本、〒105-0001 東京都港区虎ノ門５丁目２−８",
+    "lat": 35.6626602,
+    "lng": 139.7444361
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "とく山",
+    "name_en": "Tokuyama",
+    "area": "東京都 広尾駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130703/13002088/",
+    "rating": 3.93,
+    "review_count_tabelog": 205,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine, Fugu (Pufferfish)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.7,
+    "google_reviews": 84,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJe_SNp3qLGGARA9pxyTzWIyw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13002088-2607e5adcc9933f1bada32eea4512d1251a99d9f818faedcd6d0fd5411ed1a49.jpg",
+    "place_id": "ChIJe_SNp3qLGGARA9pxyTzWIyw",
+    "g_name": "とく山",
+    "g_rating": 4.7,
+    "g_reviews": 84,
+    "g_address": "日本、〒106-0031 東京都港区西麻布４丁目１１−２８ 麻布エンパイアマンション B1F",
+    "lat": 35.659361,
+    "lng": 139.72251
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "豊後もん 江とう",
+    "name_en": "Bungo Mon Eto",
+    "area": "東京都 牛込神楽坂駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13268276/",
+    "rating": 3.95,
+    "review_count_tabelog": 53,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [],
+    "hours_notes_structured": null,
+    "google_rating": 5,
+    "google_reviews": 6,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJNVxYW96NGGARcDeKVU0b6E0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13268276-2235b41d56ce7787453bb25c96120c3f333c3008321b5e66bef4b1f429d41f40.jpg",
+    "place_id": "ChIJNVxYW96NGGARcDeKVU0b6E0",
+    "g_name": "豊後もん 江とう",
+    "g_rating": 5,
+    "g_reviews": 6,
+    "g_address": "日本、〒162-0825 東京都新宿区神楽坂５丁目 高村ビル 1f",
+    "lat": 35.7012593,
+    "lng": 139.7394228
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "はらまさ",
+    "name_en": "Haramasa",
+    "area": "東京都 四谷三丁目駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130903/13151542/",
+    "rating": 4.22,
+    "review_count_tabelog": 697,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:30 17:00 - 22:30",
+        "dtl_text": "17:00 - 22:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 168,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJeaHR1vOMGGARo1f9QHYtCrw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13151542-1eed64675cdbf39dbf27d01b29096ae318b6f613da57c549f213732e0fa25f1f.jpg",
+    "place_id": "ChIJeaHR1vOMGGARo1f9QHYtCrw",
+    "g_name": "懐石料理屋 はらまさ",
+    "g_rating": 4.1,
+    "g_reviews": 168,
+    "g_address": "日本、〒160-0004 東京都新宿区四谷４丁目８ 店舗棟B1F ライオンズ四谷タワーゲート",
+    "lat": 35.6879309,
+    "lng": 139.7165371
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "伯雲",
+    "name_en": "Hakuun",
+    "area": "東京都 外苑前駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130603/13255456/",
+    "rating": 4.2,
+    "review_count_tabelog": 197,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:30 - 23:30",
+        "dtl_text": "17:30 - 23:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon - Sat": {}
+      },
+      "closed_on": "Sundays and not fixed"
+    },
+    "google_rating": 4.7,
+    "google_reviews": 74,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJW0Sto0SLGGAR4q18Q_Fh4bk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13255456-c5d75da52344f873c58c90b403ae2ed273ef502d3954e59ad82b8a0409bd1ba9.jpg",
+    "place_id": "ChIJW0Sto0SLGGAR4q18Q_Fh4bk",
+    "g_name": "日本料理 伯雲",
+    "g_rating": 4.7,
+    "g_reviews": 74,
+    "g_address": "日本、〒107-0062 東京都港区南青山４丁目１１−２",
+    "lat": 35.6660611,
+    "lng": 139.718115
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "乃木坂 しん",
+    "name_en": "Nogizaka Shin",
+    "area": "東京都 乃木坂駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13196404/",
+    "rating": 3.95,
+    "review_count_tabelog": 165,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine, Wine bar, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:30 - 23:00 L.O. Food 21:00 Drinks 22:30",
+        "dtl_text": "17:30 - 23:00 L.O. Food 21:00 Drinks 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every Sunday and occasionally on other days."
+    },
+    "google_rating": 4.6,
+    "google_reviews": 97,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ4ig-X6LGGAR7jKZ0y3b8T0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13196404-42d0e210408de8600cb3eec46d75301c54437556f9a2a38b2327cdf861974b65.jpg",
+    "place_id": "ChIJQ4ig-X6LGGAR7jKZ0y3b8T0",
+    "g_name": "乃木坂しん",
+    "g_rating": 4.6,
+    "g_reviews": 97,
+    "g_address": "日本、〒107-0052 東京都港区赤坂８丁目１１−１９ エクレール乃木坂 関根ビル １F",
+    "lat": 35.6685799,
+    "lng": 139.7289823
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "山﨑",
+    "name_en": "Yamasaki",
+    "area": "東京都 乃木坂駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13225691/",
+    "rating": 4.46,
+    "review_count_tabelog": 465,
+    "price_dinner": "￥60,000～￥79,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:30 - 23:00",
+        "dtl_text": "17:30 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 104,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qm4XqLGGARL_fxabarQvo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13225691-281ee1d4790b44bdfbdb25649c4940b108674eed3a6db9c35f3a1e0e054658fa.jpg",
+    "place_id": "ChIJq6qm4XqLGGARL_fxabarQvo",
+    "g_name": "山﨑",
+    "g_rating": 4.6,
+    "g_reviews": 104,
+    "g_address": "日本、〒106-0031 東京都港区西麻布１丁目１５−３ 西麻布ＵＯＵ 1F ビル",
+    "lat": 35.6617873,
+    "lng": 139.7232951
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "日本料理 久丹",
+    "name_en": "Japanese cuisine Kutan",
+    "area": "東京都 新富町駅",
+    "url": "https://tabelog.com/tokyo/A1313/A131301/13220750/",
+    "rating": 4.05,
+    "review_count_tabelog": 240,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Day before public holiday, Day after public holiday",
+        "dtl": "18:00 - 23:15 L.O. Food 22:00",
+        "dtl_text": "18:00 - 23:15 L.O. Food 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon - Sat": {}
+      },
+      "closed_on": "Sundays and public holidays"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 103,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJlem96IqJGGARvMGghbakQxo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13220750-4300b2cf67d827e9861cd0a426fa70b7417515a7f36b0371285dfef2918cdc5c.jpg",
+    "place_id": "ChIJlem96IqJGGARvMGghbakQxo",
+    "g_name": "日本料理 久丹",
+    "g_rating": 4.3,
+    "g_reviews": 103,
+    "g_address": "日本、〒104-0041 東京都中央区新富２丁目５−５ ＭＳビル 1F",
+    "lat": 35.6716029,
+    "lng": 139.7740198
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "虎白",
+    "name_en": "Kohaku",
+    "area": "東京都 飯田橋駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13296900/",
+    "rating": 4.22,
+    "review_count_tabelog": 146,
+    "price_dinner": "￥60,000～￥79,999",
+    "price_lunch": "￥60,000～￥79,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "17:00 - 22:30",
+        "dtl_text": "17:00 - 22:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "12:00 - 15:00 17:00 - 22:30",
+        "dtl_text": "17:00 - 22:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.6,
+    "google_reviews": 258,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJiSRxIluMGGARgaWss9mCC6o",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13296900-1ae46207090469d9de0aedd619d09fb500ced7a258c25e29133c01755ee61675.jpg",
+    "place_id": "ChIJiSRxIluMGGARgaWss9mCC6o",
+    "g_name": "虎白",
+    "g_rating": 4.6,
+    "g_reviews": 258,
+    "g_address": "日本、〒162-0825 東京都新宿区神楽坂３丁目５−５",
+    "lat": 35.7007043,
+    "lng": 139.7409953
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "赤坂 菊乃井",
+    "name_en": "Kikunoi",
+    "area": "東京都 赤坂駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130801/13002514/",
+    "rating": 3.93,
+    "review_count_tabelog": 529,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 14:00 17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Year-end & New Year Holidays and during the Obon season"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 421,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJk6mYo4GLGGARvnt5nw4Dbbs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13002514-d5e3719fde6403b17f648486032355121a5c05efb5484893a5786dcd697d181b.jpg",
+    "place_id": "ChIJk6mYo4GLGGARvnt5nw4Dbbs",
+    "g_name": "赤坂 菊乃井",
+    "g_rating": 4.5,
+    "g_reviews": 421,
+    "g_address": "日本、〒107-0052 東京都港区赤坂６丁目１３−８",
+    "lat": 35.6698832,
+    "lng": 139.7340185
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "無題",
+    "name_en": "Mudai",
+    "area": "東京都 神谷町駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13296933/",
+    "rating": 3.75,
+    "review_count_tabelog": 49,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Day before public holiday, Day after public holiday",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.9,
+    "google_reviews": 9,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJix8vnwCLGGARW82VAgvYlik",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13296933-2a68fa3761ce248a0f7b9029f20f0d206dd35810754eeb9796b6bb2101bad7d5.jpg",
+    "place_id": "ChIJix8vnwCLGGARW82VAgvYlik",
+    "g_name": "無題",
+    "g_rating": 4.9,
+    "g_reviews": 9,
+    "g_address": "日本、〒106-0041 東京都港区麻布台１丁目３−１ ヒルズ タワープラザ FREUDE by BMW 2F",
+    "lat": 35.6604094,
+    "lng": 139.7411153
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "赤坂おぎ乃",
+    "name_en": "Akasaka Ogino",
+    "area": "東京都 赤坂駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130801/13245499/",
+    "rating": 4.46,
+    "review_count_tabelog": 356,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:30 - 23:00",
+        "dtl_text": "17:30 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.9,
+    "google_reviews": 65,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJgfE59QKLGGAReEAgbOnNNb8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13245499-317a44c40e3c22e5d84a1802ffd10d67453fae6fdddf6fabd972b0e7bb4f3e6f.jpg",
+    "place_id": "ChIJgfE59QKLGGAReEAgbOnNNb8",
+    "g_name": "赤坂おぎ乃",
+    "g_rating": 4.9,
+    "g_reviews": 65,
+    "g_address": "日本、〒107-0052 東京都港区赤坂６丁目３−１３ 一階",
+    "lat": 35.6708724,
+    "lng": 139.7352596
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "銀座 小十",
+    "name_en": "Ginza Koju",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13005683/",
+    "rating": 3.87,
+    "review_count_tabelog": 428,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "￥30,000～￥39,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 13:00 18:00 - 21:30",
+        "dtl_text": "18:00 - 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays and public holidays (Not fixed)"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 267,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVWDJ2-iLGGARrb9VTXObGIE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13005683-56ef562beac13d979c67abb4b48825529cd187266ec85d7ea3c663523218c27e.jpg",
+    "place_id": "ChIJVWDJ2-iLGGARrb9VTXObGIE",
+    "g_name": "銀座 小十",
+    "g_rating": 4.1,
+    "g_reviews": 267,
+    "g_address": "日本、〒104-0061 東京都中央区銀座５丁目４−８ 銀座カリオカビル 4F",
+    "lat": 35.6713873,
+    "lng": 139.7630784
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "ひろ作",
+    "name_en": "Hiro Saku",
+    "area": "東京都 新橋駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130103/13015266/",
+    "rating": 3.92,
+    "review_count_tabelog": 370,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:45 - 13:00 18:00 - 20:00",
+        "dtl_text": "18:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Year-end & New Year Holidays"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 57,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJu79RpuuLGGARz4fJW2k648I",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13015266-8dcafd74a5b88f4dbf900501c05daaf015bfb73a877a424094f22db86a1347ff.jpg",
+    "place_id": "ChIJu79RpuuLGGARz4fJW2k648I",
+    "g_name": "ひろ作",
+    "g_rating": 4.5,
+    "g_reviews": 57,
+    "g_address": "日本、〒105-0004 東京都港区新橋３丁目６−１３",
+    "lat": 35.6662255,
+    "lng": 139.7551709
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "川田",
+    "name_en": "Kawada",
+    "area": "東京都 人形町駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130204/13232330/",
+    "rating": 4.0,
+    "review_count_tabelog": 213,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "￥40,000～￥49,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:30 - 21:00",
+        "dtl_text": "17:30 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 29,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-7ARZDmJGGARZt3QoobwNQA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13232330-17da96b375bab8a60574c6a1682c41823527c8aa7090cb532346644e1bdc157c.jpg",
+    "place_id": "ChIJ-7ARZDmJGGARZt3QoobwNQA",
+    "g_name": "川田",
+    "g_rating": 4.2,
+    "g_reviews": 29,
+    "g_address": "日本、〒103-0013 東京都中央区日本橋人形町１丁目５−５ 芳町ビルB1",
+    "lat": 35.6853796,
+    "lng": 139.7817026
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "礒田",
+    "name_en": "Isoda",
+    "area": "東京都 人形町駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130204/13303109/",
+    "rating": 4.22,
+    "review_count_tabelog": 136,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.7,
+    "google_reviews": 65,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJazPplSGJGGARQImhVQD3j-E",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13303109-e5690b0448c064c56a915aaac0ce61883f6d5efea30d4247df2da3af3b669edf.jpg",
+    "place_id": "ChIJazPplSGJGGARQImhVQD3j-E",
+    "g_name": "礒田",
+    "g_rating": 4.7,
+    "g_reviews": 65,
+    "g_address": "日本、〒103-0013 東京都中央区日本橋人形町１丁目５−１０ 芸者新道ビル 3F",
+    "lat": 35.6852674,
+    "lng": 139.7820592
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "あき山",
+    "name_en": "Akiyama",
+    "area": "東京都 白金台駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131602/13218136/",
+    "rating": 3.96,
+    "review_count_tabelog": 113,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:00 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 63,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJx1GM-w6LGGARL3mqBGJoHxs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13218136-55f61c37be56dcd465b756047d3e2d8fc2b90cee7622694a39c9dd48a4344612.jpg",
+    "place_id": "ChIJx1GM-w6LGGARL3mqBGJoHxs",
+    "g_name": "あき山",
+    "g_rating": 4.6,
+    "g_reviews": 63,
+    "g_address": "日本、〒108-0072 東京都港区白金６丁目５−３ さくら白金101",
+    "lat": 35.6444158,
+    "lng": 139.7247368
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "宮わき",
+    "name_en": "Miyawaki",
+    "area": "東京都 赤羽橋駅",
+    "url": "https://tabelog.com/tokyo/A1314/A131401/13276093/",
+    "rating": 3.94,
+    "review_count_tabelog": 225,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Sat",
+        "dtl": "17:30 - 22:30",
+        "dtl_text": "17:30 - 22:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 13:10 17:30 - 22:30",
+        "dtl_text": "17:30 - 22:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 111,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5cC9c_KMGGARZHBwSjlrDn8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13276093-00885cdc208551fe333c32e6026be4227b51ab1327ad22219bd9a29214f2ec78.jpg",
+    "place_id": "ChIJ5cC9c_KMGGARZHBwSjlrDn8",
+    "g_name": "宮わき",
+    "g_rating": 4.3,
+    "g_reviews": 111,
+    "g_address": "日本、〒108-0073 東京都港区三田１丁目３−２８",
+    "lat": 35.6545176,
+    "lng": 139.7439458
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "白金台こばやし",
+    "name_en": "Shirokanedai Kobayashi",
+    "area": "東京都 白金台駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131602/13162454/",
+    "rating": 3.82,
+    "review_count_tabelog": 188,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "18:30 - 23:00 L.O. Food 19:00 Drinks 23:00",
+        "dtl_text": "18:30 - 23:00 L.O. Food 19:00 Drinks 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 55,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJa_ngVxCLGGARf46MYUxAHX0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13162454-df7a7de35ecb11479ab2dab5eac8be9bb42fb26395766ef3d7abf21f03f7ece9.jpg",
+    "place_id": "ChIJa_ngVxCLGGARf46MYUxAHX0",
+    "g_name": "白金台こばやし",
+    "g_rating": 4.5,
+    "g_reviews": 55,
+    "g_address": "日本、〒108-0071 東京都港区白金台５丁目１１−３ バルビゾン９１ 1階102",
+    "lat": 35.6414143,
+    "lng": 139.7193978
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "麻布 かどわき",
+    "name_en": "Azabu Kadowaki",
+    "area": "東京都 麻布十番駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130702/13001664/",
+    "rating": 3.94,
+    "review_count_tabelog": 567,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:30 - 23:00 L.O. 22:00",
+        "dtl_text": "17:30 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 258,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJYU2Yvp-LGGAR1DkkJqFIZz4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13001664-b7a9ad1b4b0969f58e5867fd9d5b1265dacd81c74036605619011fca05e49e69.jpg",
+    "place_id": "ChIJYU2Yvp-LGGAR1DkkJqFIZz4",
+    "g_name": "麻布 かどわき",
+    "g_rating": 4.1,
+    "g_reviews": 258,
+    "g_address": "日本、〒106-0045 東京都港区麻布十番２丁目７−２",
+    "lat": 35.6559533,
+    "lng": 139.7336194
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "銀座くどう",
+    "name_en": "Ginza Kudo",
+    "area": "東京都 東銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13212919/",
+    "rating": 3.71,
+    "review_count_tabelog": 164,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 14:00 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 49,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJCzdsReeLGGARBHDhURUNYmE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13212919-e6f8d1716c5cfacae1c5666fc0f4f80b8cce6b8808308c2bfc66983cba7ad171.jpg",
+    "place_id": "ChIJCzdsReeLGGARBHDhURUNYmE",
+    "g_name": "銀座くどう",
+    "g_rating": 4.4,
+    "g_reviews": 49,
+    "g_address": "日本、〒104-0061 東京都中央区銀座５丁目１４−１４ サンリット銀座ビルIII 3F",
+    "lat": 35.6685893,
+    "lng": 139.7668702
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "帰燕",
+    "name_en": "Kien",
+    "area": "東京都 溜池山王駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130802/13100055/",
+    "rating": 3.73,
+    "review_count_tabelog": 555,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 15:00 L.O. 13:00 18:00 - 23:00 L.O. 21:00",
+        "dtl_text": "18:00 - 23:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays or public holidays (Open on Wednesdays during weeks with public holidays)"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 279,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJFQZirIWLGGARMjecr1hSs_c",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13100055-8bab3d1cd3bcd5e76f5150aa5a7a23c3faee3fb7d6f6d4cb2436cf7d43424e85.jpg",
+    "place_id": "ChIJFQZirIWLGGARMjecr1hSs_c",
+    "g_name": "あか坂帰燕",
+    "g_rating": 4.4,
+    "g_reviews": 279,
+    "g_address": "日本、〒107-0052 東京都港区赤坂２丁目１８−８ 長野コーポ",
+    "lat": 35.6688848,
+    "lng": 139.7398426
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "龍吟",
+    "name_en": "Ryugin",
+    "area": "東京都 日比谷駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130102/13001457/",
+    "rating": 4.15,
+    "review_count_tabelog": 299,
+    "price_dinner": "￥80,000～￥99,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 23:00 L.O. 19:30",
+        "dtl_text": "18:00 - 23:00 L.O. 19:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed. For more details, please check our website."
+    },
+    "google_rating": 4.1,
+    "google_reviews": 514,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJaZF5wHmLGGARycW1JhshDjY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13001457-a3f2413fcb876459998546d1c6af7ead05a7234fa4fdee986ac4a07e75ccb9c7.jpg",
+    "place_id": "ChIJaZF5wHmLGGARycW1JhshDjY",
+    "g_name": "日本料理 龍吟",
+    "g_rating": 4.1,
+    "g_reviews": 514,
+    "g_address": "日本、〒100-0006 東京都千代田区有楽町１丁目１−２ 東京ミッドタウン日比谷 7階",
+    "lat": 35.6742704,
+    "lng": 139.7592781
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "神楽坂 石かわ",
+    "name_en": "Kagurazaka Ishikawa",
+    "area": "東京都 牛込神楽坂駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13004079/",
+    "rating": 4.4,
+    "review_count_tabelog": 671,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "￥50,000～￥59,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays, Mondays, and public holidays (with breaks in late March, mid-August, and during the year-end and New Year holidays)"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 279,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJa0WEW1qMGGARPztXG-uvYjI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13004079-038623937ff8e398a5032b1677c9cefb552d914c4078d6adbc3d9a3d123ac255.jpg",
+    "place_id": "ChIJa0WEW1qMGGARPztXG-uvYjI",
+    "g_name": "神楽坂 石かわ",
+    "g_rating": 4.6,
+    "g_reviews": 279,
+    "g_address": "日本、〒162-0825 東京都新宿区神楽坂５丁目３７ 高村ビル 1f",
+    "lat": 35.7012024,
+    "lng": 139.7394666
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "森ふじ",
+    "name_en": "Mori Fuji",
+    "area": "東京都 牛込神楽坂駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13240181/",
+    "rating": 4.13,
+    "review_count_tabelog": 134,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [],
+    "hours_notes_structured": null,
+    "google_rating": 4.6,
+    "google_reviews": 12,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJIcqXTnaNGGAR-LIrnd7kNZ8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13240181-339b75ba1980f89b3b5695aab81054961700ac24cb26629f590d80d62b4e66b7.jpg",
+    "place_id": "ChIJIcqXTnaNGGAR-LIrnd7kNZ8",
+    "g_name": "森ふじ",
+    "g_rating": 4.6,
+    "g_reviews": 12,
+    "g_address": "ザ・フィガロ市ヶ谷, 1F, ３２−３ 納戸町 新宿区 東京都 162-0837 日本",
+    "lat": 35.6976898,
+    "lng": 139.7338138
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "喰善 あべ",
+    "name_en": "Shokuzen Abe",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13162190/",
+    "rating": 3.79,
+    "review_count_tabelog": 179,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 20:00",
+        "dtl_text": "18:00 - 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 53,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJi7BFZuaLGGARIeRRYNU6SzM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13162190-158d93bddf124637abbc07dd06d45a690fb8fc2dd7ce43add3164fda92339be4.jpg",
+    "place_id": "ChIJi7BFZuaLGGARIeRRYNU6SzM",
+    "g_name": "喰善あべ",
+    "g_rating": 4.5,
+    "g_reviews": 53,
+    "g_address": "日本、〒104-0061 東京都中央区銀座５丁目６−１０ ミヤコビル 6F １０MIYAKO BLD4F",
+    "lat": 35.6707451,
+    "lng": 139.7636606
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "豪龍久保",
+    "name_en": "Goryu Kubo",
+    "area": "東京都 乃木坂駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13260180/",
+    "rating": 3.85,
+    "review_count_tabelog": 52,
+    "price_dinner": "￥60,000～￥79,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 57,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ80DoxGSLGGARDkSbKrpx5yY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13260180-ab4a05d7da54a72f399761a325cb9be58e43f0acbffc186d1579bac9010bc10d.jpg",
+    "place_id": "ChIJ80DoxGSLGGARDkSbKrpx5yY",
+    "g_name": "豪龍久保",
+    "g_rating": 4.4,
+    "g_reviews": 57,
+    "g_address": "日本、〒106-0031 東京都港区西麻布１丁目１３−１４ シャロム西麻布 3階",
+    "lat": 35.6606449,
+    "lng": 139.7233873
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "割烹 室井",
+    "name_en": "Kappo Muroi",
+    "area": "東京都 乃木坂駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13286652/",
+    "rating": 4.21,
+    "review_count_tabelog": 105,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "17:30, 18:00, 18:30, 20:30"
+    },
+    "google_rating": 4.8,
+    "google_reviews": 24,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJD7jmvWiLGGARZ7KIXeeVv7U",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13286652-c602a3ee3e4ab972f76b47c277811e4b14262f7c41978599dcc60a62eb1c4730.jpg",
+    "place_id": "ChIJD7jmvWiLGGARZ7KIXeeVv7U",
+    "g_name": "割烹 室井",
+    "g_rating": 4.8,
+    "g_reviews": 24,
+    "g_address": "日本、〒106-0031 東京都港区西麻布２丁目１６−４ 1f",
+    "lat": 35.6617503,
+    "lng": 139.7208153
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "わたなべ",
+    "name_en": "Watanabe",
+    "area": "東京都 白金高輪駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131602/13254996/",
+    "rating": 4.08,
+    "review_count_tabelog": 125,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 00:00",
+        "dtl_text": "17:00 - 00:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.9,
+    "google_reviews": 21,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQVF6P0uLGGARVpVSATfJCJo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13254996-9c98713be06f88a909499e9ed2a70c20249247e9e92a0466e5c07072ccefe02c.jpg",
+    "place_id": "ChIJQVF6P0uLGGARVpVSATfJCJo",
+    "g_name": "わたなべ",
+    "g_rating": 4.9,
+    "g_reviews": 21,
+    "g_address": "日本、〒108-0072 東京都港区白金１丁目２９−９ ライオンズマンション白金東 102",
+    "lat": 35.6431745,
+    "lng": 139.7338779
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "霞町 やまがみ",
+    "name_en": "Kasumicho Yamagami",
+    "area": "東京都 広尾駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130703/13220317/",
+    "rating": 3.79,
+    "review_count_tabelog": 84,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 31,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJn-qMGlGLGGARpRkn686CTY8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13220317-000e93d91e09ac4200d4204d18d36670bf6cabe9823a966c5621702784c18118.jpg",
+    "place_id": "ChIJn-qMGlGLGGARpRkn686CTY8",
+    "g_name": "霞町 やまがみ",
+    "g_rating": 4.6,
+    "g_reviews": 31,
+    "g_address": "日本、〒106-0031 東京都港区西麻布４丁目２−１３ 八幡ビル ３階",
+    "lat": 35.658643,
+    "lng": 139.7231849
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "櫻木",
+    "name_en": "Sakuragi",
+    "area": "東京都 築地駅",
+    "url": "https://tabelog.com/tokyo/A1313/A131301/13275135/",
+    "rating": 4.15,
+    "review_count_tabelog": 94,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13275135-cc19b646b43bb1cb92b0e2beb907ff1dee9096d27b280bc500333bdb7cc07275.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "常",
+    "name_en": "Towa",
+    "area": "東京都 広尾駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130703/13220791/",
+    "rating": 3.84,
+    "review_count_tabelog": 171,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Day before public holiday, Day after public holiday",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays, public holidays, Golden Week, and year-end & New Year holidays."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 54,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJS23v00uLGGARcfZS2ZmUOV0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13220791-36336cad7d62274078ea1ce981a6203ffd882b70a430bbc7549eb62a840a812d.jpg",
+    "place_id": "ChIJS23v00uLGGARcfZS2ZmUOV0",
+    "g_name": "常",
+    "g_rating": 4.4,
+    "g_reviews": 54,
+    "g_address": "日本、〒106-0031 東京都港区西麻布４丁目１１−２５ モダンフォルム西麻布ビルパートIII 2F",
+    "lat": 35.6592118,
+    "lng": 139.722365
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "明寂",
+    "name_en": "Myoujyaku",
+    "area": "東京都 六本木駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13270958/",
+    "rating": 4.4,
+    "review_count_tabelog": 229,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:00 - 22:30",
+        "dtl_text": "17:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.8,
+    "google_reviews": 84,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJxxsn3a-LGGARYqb5FTmUL98",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13270958-48fdea6086c36c22522ab5e29bb7b0a18346dc72398653ab7a9d41f2e89995d6.jpg",
+    "place_id": "ChIJxxsn3a-LGGARYqb5FTmUL98",
+    "g_name": "日本料理 明寂",
+    "g_rating": 4.8,
+    "g_reviews": 84,
+    "g_address": "日本、〒106-0031 東京都港区西麻布３丁目２−３４ B1F",
+    "lat": 35.659423,
+    "lng": 139.7266587
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "日本料理 晴山",
+    "name_en": "Japanese cuisine Seizan",
+    "area": "東京都 田町駅",
+    "url": "https://tabelog.com/tokyo/A1314/A131402/13127807/",
+    "rating": 4.49,
+    "review_count_tabelog": 1103,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "￥40,000～￥49,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "17:30 - 23:00",
+        "dtl_text": "17:30 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "12:00 - 14:00 17:30 - 23:00",
+        "dtl_text": "17:30 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.7,
+    "google_reviews": 330,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6pmg6-LGGARhJ-wWOu2HYo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13127807-cdb847f10221cba5a6eea0940f1f1e40d748337f4f2f0e8d02410c9cec5abefe.jpg",
+    "place_id": "ChIJq6pmg6-LGGARhJ-wWOu2HYo",
+    "g_name": "日本料理 晴山",
+    "g_rating": 4.7,
+    "g_reviews": 330,
+    "g_address": "日本、〒108-0073 東京都港区三田２丁目１７−２９",
+    "lat": 35.6474821,
+    "lng": 139.7399477
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "末冨",
+    "name_en": "Suetomi",
+    "area": "東京都 渋谷区",
+    "url": "https://tabelog.com/tokyo/A1303/A130301/13259485/",
+    "rating": 4.46,
+    "review_count_tabelog": 160,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays"
+    },
+    "google_rating": 4.8,
+    "google_reviews": 4,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJFdN965eLGGARpJIrCWHlLJg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13259485-6cc768e519112f93d3a3be5553b4ca35597aca185593569c67ea22643f7efdff.jpg",
+    "place_id": "ChIJFdN965eLGGARpJIrCWHlLJg",
+    "g_name": "末富",
+    "g_rating": 4.8,
+    "g_reviews": 4,
+    "g_address": "日本、〒150-0002 東京都渋谷区渋谷２丁目６−１１",
+    "lat": 35.6599249,
+    "lng": 139.7079836
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "香嵐",
+    "name_en": "Koran",
+    "area": "東京都 東銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13263638/",
+    "rating": 4.05,
+    "review_count_tabelog": 96,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 14:30 19:00 - 22:00",
+        "dtl_text": "19:00 - 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed."
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13263638-c6574d56e479c95e0cb8aacd8f4f0a77e59781df425c47ab51a0fc01f91fbaac.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "鉄板焼き いわ倉",
+    "name_en": "Teppanyaki Iwakura",
+    "area": "東京都 牛込神楽坂駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13189075/",
+    "rating": 3.73,
+    "review_count_tabelog": 345,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine, Steak, Teppanyaki",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 23:00 L.O. 22:30",
+        "dtl_text": "17:00 - 23:00 L.O. 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 91,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ58Y9CFqMGGAReZzpd5pxt4w",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13189075-6431974d6f4e357c83ae33011cc4cc9b9644026b82ba79711156a9a27e4fa52d.jpg",
+    "place_id": "ChIJ58Y9CFqMGGAReZzpd5pxt4w",
+    "g_name": "いわ倉",
+    "g_rating": 4.3,
+    "g_reviews": 91,
+    "g_address": "日本、〒162-0825 東京都新宿区岩戸町１ Ｍ’ｓ神楽坂 3F",
+    "lat": 35.7021944,
+    "lng": 139.7377699
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "銀座ふじやま",
+    "name_en": "Ginza Fujiyama",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13232735/",
+    "rating": 3.85,
+    "review_count_tabelog": 143,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.7,
+    "google_reviews": 40,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJPX3EAoWLGGAR_GKcqt7Drbc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13232735-1c5a30ef55d0e2d33ca333472fcb4cc89ccc43c036b96786109bf60b9bf0ba15.jpg",
+    "place_id": "ChIJPX3EAoWLGGAR_GKcqt7Drbc",
+    "g_name": "銀座 ふじやま",
+    "g_rating": 4.7,
+    "g_reviews": 40,
+    "g_address": "日本、〒104-0061 東京都中央区銀座３丁目３−６ 森田ビル 7F",
+    "lat": 35.6731203,
+    "lng": 139.7655234
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "時喰み",
+    "name_en": "Tokihami",
+    "area": "東京都 東銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13233337/",
+    "rating": 3.77,
+    "review_count_tabelog": 377,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine, Wine bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 23:00 L.O. 22:30",
+        "dtl_text": "18:00 - 23:00 L.O. 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 103,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJnwElbiiLGGARth6Ff7TRft0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13233337-bfb0597ee01a9a76dc4e24d2e8cb0cb0750c3d53e5435c4112c7635d8ef6f91f.jpg",
+    "place_id": "ChIJnwElbiiLGGARth6Ff7TRft0",
+    "g_name": "時喰み",
+    "g_rating": 4.5,
+    "g_reviews": 103,
+    "g_address": "日本、〒104-0061 東京都中央区銀座３丁目１１−６ 鈴木ビル 2F",
+    "lat": 35.6708207,
+    "lng": 139.768861
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "赤坂 渡なべ",
+    "name_en": "Akasaka Watanabe",
+    "area": "東京都 赤坂駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130801/13224478/",
+    "rating": 3.79,
+    "review_count_tabelog": 218,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Public Holiday",
+        "dtl": "18:00 - 22:30",
+        "dtl_text": "18:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "12:00 - 14:30 18:00 - 22:30",
+        "dtl_text": "18:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Tue - Fri, Sat, Sun & Public Holidays": {}
+      },
+      "closed_on": "Mondays and other not fixed days."
+    },
+    "google_rating": 4.7,
+    "google_reviews": 63,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1dVSF6CLGGARJ5Q6fYWlSaY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13224478-953c0f577223083360a95d497662603de5581a91680576a464ed979c88ce3ebe.jpg",
+    "place_id": "ChIJ1dVSF6CLGGARJ5Q6fYWlSaY",
+    "g_name": "赤坂渡なべ",
+    "g_rating": 4.7,
+    "g_reviews": 63,
+    "g_address": "日本、〒107-0052 東京都港区赤坂２丁目１７−５９ エスポワール赤坂 2階",
+    "lat": 35.6706356,
+    "lng": 139.7380028
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "寛幸",
+    "name_en": "Hiroyuki",
+    "area": "東京都 東銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13187102/",
+    "rating": 3.75,
+    "review_count_tabelog": 214,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Japanese Cuisine, Creative, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "18:00 - 22:00 L.O. Food 20:30",
+        "dtl_text": "18:00 - 22:00 L.O. Food 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 14:00 L.O. Food 12:30 18:00 - 22:00 L.O. Food 20:30",
+        "dtl_text": "18:00 - 22:00 L.O. Food 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "12:00 - 14:30 L.O. Food 12:30 18:00 - 23:00 L.O. Food 20:30",
+        "dtl_text": "18:00 - 23:00 L.O. Food 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "12:00 - 14:30 L.O. Food 12:30 17:00 - 23:00 L.O. Food 20:30",
+        "dtl_text": "17:00 - 23:00 L.O. Food 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Day before public holiday",
+        "dtl": "11:30 - 14:00 L.O. Food 12:30 18:00 - 23:00 L.O. Food 20:30",
+        "dtl_text": "18:00 - 23:00 L.O. Food 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Day after public holiday",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "New Year's Day and Not fixed"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 55,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJkwGL1OaLGGARVAkJIJrVZqQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13187102-72165d19f5d39c9f354ba9d4b3f3f60e22d528837c1ea3e95574e2535281f852.jpg",
+    "place_id": "ChIJkwGL1OaLGGARVAkJIJrVZqQ",
+    "g_name": "寛幸",
+    "g_rating": 4.4,
+    "g_reviews": 55,
+    "g_address": "日本、〒104-0061 東京都中央区銀座４丁目１０−１ HOLON-GINZA 6F",
+    "lat": 35.6707872,
+    "lng": 139.7675306
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "一宇",
+    "name_en": "Ichi-u",
+    "area": "東京都 飯田橋駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13268887/",
+    "rating": 3.75,
+    "review_count_tabelog": 94,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine, Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.7,
+    "google_reviews": 110,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJB5fAzxGNGGAR8DAK0QuL7M8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13268887-0b563db0ffb135ca6359e0215a4122c9084d0ca0f493aa2d3f7ff63d4fb7175e.jpg",
+    "place_id": "ChIJB5fAzxGNGGAR8DAK0QuL7M8",
+    "g_name": "一宇",
+    "g_rating": 4.7,
+    "g_reviews": 110,
+    "g_address": "日本、〒162-0825 東京都新宿区神楽坂２丁目２２",
+    "lat": 35.7004605,
+    "lng": 139.7410565
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "赤坂とゝや魚新",
+    "name_en": "Akasaka Totoya Uoshin",
+    "area": "東京都 赤坂駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130801/13002818/",
+    "rating": 3.75,
+    "review_count_tabelog": 343,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Japanese Cuisine, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "18:00 - 22:30",
+        "dtl_text": "18:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 14:00 18:00 - 22:30",
+        "dtl_text": "18:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 123,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJcXVgYH-MGGAR9RBqPKTIOXo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13002818-fd2ef2829bfd7b1524f856ebe1b8181ddd4e0f484d2d550b4c7bfdc233e49611.jpg",
+    "place_id": "ChIJcXVgYH-MGGAR9RBqPKTIOXo",
+    "g_name": "赤坂とゝや魚新",
+    "g_rating": 4.3,
+    "g_reviews": 123,
+    "g_address": "日本、〒107-0052 東京都港区赤坂５丁目１−３４",
+    "lat": 35.6740104,
+    "lng": 139.7357215
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "鈴田式",
+    "name_en": "Suzuta Shiki",
+    "area": "東京都 乃木坂駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13293100/",
+    "rating": 4.21,
+    "review_count_tabelog": 309,
+    "price_dinner": "￥60,000～￥79,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 94,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ7OnwkOLGGARSr1xasdXzZU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13293100-31b547d70534d5df7e8573640a4aff66174c8c0285ae515d621a116f658d84ad.jpg",
+    "place_id": "ChIJJ7OnwkOLGGARSr1xasdXzZU",
+    "g_name": "鈴田式 SUZUTASHIKI",
+    "g_rating": 4.6,
+    "g_reviews": 94,
+    "g_address": "日本、〒106-0031 東京都港区西麻布１丁目９−５ THE CITY西麻布Ⅱ 2F",
+    "lat": 35.6610397,
+    "lng": 139.7253387
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "松川",
+    "name_en": "Matsukawa",
+    "area": "東京都 六本木一丁目駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13124391/",
+    "rating": 4.58,
+    "review_count_tabelog": 525,
+    "price_dinner": "￥80,000～￥99,999",
+    "price_lunch": "￥60,000～￥79,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri",
+        "dtl": "18:00 - 22:00 L.O. 20:00",
+        "dtl_text": "18:00 - 22:00 L.O. 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu, Sat",
+        "dtl": "12:00 - 15:00 L.O. 13:00 18:00 - 22:00 L.O. 20:00",
+        "dtl_text": "18:00 - 22:00 L.O. 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "For details, please refer to the calendar on our official website."
+    },
+    "google_rating": 4.7,
+    "google_reviews": 160,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJqaIe_4-LGGARboakRXb_LCg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13124391-dde1fbd08a2b0b61ce311e174160155f7827a846b3a6bad054d4e9babe3b0228.jpg",
+    "place_id": "ChIJqaIe_4-LGGARboakRXb_LCg",
+    "g_name": "松川",
+    "g_rating": 4.7,
+    "g_reviews": 160,
+    "g_address": "日本、〒107-0052 東京都港区赤坂１丁目１１−６ 赤坂テラスハウス 1F",
+    "lat": 35.6674522,
+    "lng": 139.742417
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "赤坂 詠月",
+    "name_en": "Akasaka Eigetsu",
+    "area": "東京都 赤坂見附駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130801/13116523/",
+    "rating": 4.07,
+    "review_count_tabelog": 350,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 46,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6XzOqXiMGGARKAMc4r_5-30",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13116523-557b1b18c7a27e8c4aa51e18397dc349a43fdf8e14e9c820cc6a552fa8562df9.jpg",
+    "place_id": "ChIJ6XzOqXiMGGARKAMc4r_5-30",
+    "g_name": "赤坂詠月",
+    "g_rating": 4.3,
+    "g_reviews": 46,
+    "g_address": "日本、〒107-0052 東京都港区赤坂３丁目１１−７ ソシアル赤坂 4F",
+    "lat": 35.6746039,
+    "lng": 139.7376371
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "よし澤",
+    "name_en": "Yoshizawa",
+    "area": "東京都 六本木駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13226102/",
+    "rating": 3.76,
+    "review_count_tabelog": 362,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Monday and Not fixed"
+    },
+    "google_rating": 4.8,
+    "google_reviews": 197,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJS1tA_WuLGGARFkFAmYgS3nw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13226102-d3d143f0e1517704c6336f29ac476c9477e907dc98154c80871d133bbec687d5.jpg",
+    "place_id": "ChIJS1tA_WuLGGARFkFAmYgS3nw",
+    "g_name": "よし澤",
+    "g_rating": 4.8,
+    "g_reviews": 197,
+    "g_address": "日本、〒106-6608 東京都港区六本木６丁目１０−１ 六本木ヒルズ森タワー ウェストウォーク 5階",
+    "lat": 35.6600924,
+    "lng": 139.728942
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "愚直に",
+    "name_en": "Guchoku Ni",
+    "area": "東京都 飯田橋駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13251541/",
+    "rating": 3.93,
+    "review_count_tabelog": 179,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥30,000～￥39,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays, Mondays, public holidays, and during certain periods in early May, mid-August, and year-end & New Year holidays."
+    },
+    "google_rating": 4.7,
+    "google_reviews": 48,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJfWmTv_2NGGARObiNI3xIl1I",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13251541-0b9804d854e84b0629f0aad0f6a6a2d31059146fd391bafed4161e347df51cfd.jpg",
+    "place_id": "ChIJfWmTv_2NGGARObiNI3xIl1I",
+    "g_name": "愚直に",
+    "g_rating": 4.7,
+    "g_reviews": 48,
+    "g_address": "日本、〒162-0825 東京都新宿区神楽坂４丁目３ 近江屋ビル 4F",
+    "lat": 35.70158869999999,
+    "lng": 139.7400216
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "六寛",
+    "name_en": "Rokkan",
+    "area": "東京都 中央区",
+    "url": "https://tabelog.com/tokyo/A1313/A131301/13178685/",
+    "rating": 3.84,
+    "review_count_tabelog": 98,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 28,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJP4yjD2KJGGARL0QOqZCu2GM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13178685-14cdf120ea2edd4298ece699f73b96ad7dc417462073a43cea1acf394ccf5238.jpg",
+    "place_id": "ChIJP4yjD2KJGGARL0QOqZCu2GM",
+    "g_name": "六寛",
+    "g_rating": 4.5,
+    "g_reviews": 28,
+    "g_address": "日本、〒104-0045 東京都中央区築地６丁目６−６",
+    "lat": 35.6652872,
+    "lng": 139.7733809
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "車力門 おの澤",
+    "name_en": "Sharikimon Onozawa",
+    "area": "東京都 四谷三丁目駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130903/13247076/",
+    "rating": 4.12,
+    "review_count_tabelog": 332,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine, Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:30 - 23:00",
+        "dtl_text": "17:30 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.7,
+    "google_reviews": 84,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJEW1EjtWNGGAR_RWUwNDAiy0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13247076-c1b5b4f0c9483988c4ad44647aa3f4fbcff49f5ce8c676f51b0ead18ad780188.jpg",
+    "place_id": "ChIJEW1EjtWNGGAR_RWUwNDAiy0",
+    "g_name": "車力門 おの澤",
+    "g_rating": 4.7,
+    "g_reviews": 84,
+    "g_address": "日本、〒160-0007 東京都新宿区荒木町６−３９ GARDEN TREE1階",
+    "lat": 35.6892271,
+    "lng": 139.7225863
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "炎水",
+    "name_en": "En Sui",
+    "area": "東京都 中目黒駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13254619/",
+    "rating": 4.0,
+    "review_count_tabelog": 198,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:00 - 23:00 L.O. 23:00",
+        "dtl_text": "17:00 - 23:00 L.O. 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 68,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGYctX1qLGGARF_Vu_i51A8U",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13254619-293e897712394264a0dbf48f826254596d85c86f5948020434e931d19ef9d19f.jpg",
+    "place_id": "ChIJGYctX1qLGGARF_Vu_i51A8U",
+    "g_name": "日本料理 炎水 中目黒",
+    "g_rating": 4.5,
+    "g_reviews": 68,
+    "g_address": "日本、〒153-0061 東京都目黒区中目黒１丁目５−１２ ATRIO1F",
+    "lat": 35.6442913,
+    "lng": 139.7024371
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "日本料理 太月",
+    "name_en": "Japanese cuisine Tagetsu",
+    "area": "東京都 表参道駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130602/13160021/",
+    "rating": 4.09,
+    "review_count_tabelog": 583,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 14:00 L.O. 12:00 18:00 - 23:00 L.O. 21:00",
+        "dtl_text": "18:00 - 23:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Year-end & New Year Holidays"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 223,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGSs7ZKCMGGAR8FkkWeGgEek",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13160021-480363c0c76c1031012397f89066502312ec0db7134e8bcfe5c76f2f237bced8.jpg",
+    "place_id": "ChIJGSs7ZKCMGGAR8FkkWeGgEek",
+    "g_name": "日本料理 太月",
+    "g_rating": 4.5,
+    "g_reviews": 223,
+    "g_address": "日本、〒107-0061 東京都港区北青山３丁目１３−１ 関根ビル B1F",
+    "lat": 35.6641157,
+    "lng": 139.7095036
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "日本料理 柳燕",
+    "name_en": "Japanese cuisine Ryuen",
+    "area": "東京都 人形町駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130204/13258874/",
+    "rating": 3.88,
+    "review_count_tabelog": 119,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.9,
+    "google_reviews": 30,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJdY8kqdCJGGARuy6JL07XIK8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13258874-6b7b6a475e7ca9f8a37cc801ff83c3cfb2bb2c299d3f7a5b07a3de6eea78cad2.jpg",
+    "place_id": "ChIJdY8kqdCJGGARuy6JL07XIK8",
+    "g_name": "柳燕",
+    "g_rating": 4.9,
+    "g_reviews": 30,
+    "g_address": "日本、〒103-0013 東京都中央区日本橋人形町２丁目１０−１１ 7階 KYOE PLAZA NINGYOCHO",
+    "lat": 35.6855619,
+    "lng": 139.7839933
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "井雪",
+    "name_en": "Iyuki",
+    "area": "東京都 中央区",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13030881/",
+    "rating": 4.31,
+    "review_count_tabelog": 239,
+    "price_dinner": "￥80,000～￥99,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.6,
+    "google_reviews": 68,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ98rwROeLGGARA_25lH-p9Sc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13030881-57ee09969023fcfb283434feef9cda66f431aeb5a34284a9f91ead895596b432.jpg",
+    "place_id": "ChIJ98rwROeLGGARA_25lH-p9Sc",
+    "g_name": "井雪",
+    "g_rating": 4.6,
+    "g_reviews": 68,
+    "g_address": "日本、〒104-0061 東京都中央区銀座５丁目１４−１５ サンリット銀座ビル 1F",
+    "lat": 35.6687397,
+    "lng": 139.7670368
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "赤坂 島袋",
+    "name_en": "Akasaka Shimabukuro",
+    "area": "東京都 赤坂見附駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130801/13300943/",
+    "rating": 4.15,
+    "review_count_tabelog": 97,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:00 - 23:30",
+        "dtl_text": "17:00 - 23:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.9,
+    "google_reviews": 16,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4Z0iCgCNGGARKVCXKZIrEAI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13300943-b7c7c1028854003e0180f5e2955bf5e9d7c4ef72ffbb4cdeb30cc925556a5bc6.jpg",
+    "place_id": "ChIJ4Z0iCgCNGGARKVCXKZIrEAI",
+    "g_name": "赤坂 島袋",
+    "g_rating": 4.9,
+    "g_reviews": 16,
+    "g_address": "日本、〒107-0052 東京都港区赤坂３丁目２１−８ 久保ビル ３F",
+    "lat": 35.6764667,
+    "lng": 139.7361833
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "西麻布野口",
+    "name_en": "Nishiazabu Noguchi",
+    "area": "東京都 乃木坂駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13267556/",
+    "rating": 3.78,
+    "review_count_tabelog": 128,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 35,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmxUochCLGGARXKl40W1F5zk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13267556-290638b70b692d549b7464a0c283f1bfc494f3a7255e0574f04d1a803ac8807d.jpg",
+    "place_id": "ChIJmxUochCLGGARXKl40W1F5zk",
+    "g_name": "西麻布 野口",
+    "g_rating": 4.6,
+    "g_reviews": 35,
+    "g_address": "日本、〒106-0031 東京都港区西麻布１丁目１０−１６ ロイヤルビル 1F 102",
+    "lat": 35.661409,
+    "lng": 139.7242309
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "まき村",
+    "name_en": "Makimura",
+    "area": "東京都 大森海岸駅",
+    "url": "https://tabelog.com/tokyo/A1315/A131502/13003338/",
+    "rating": 4.42,
+    "review_count_tabelog": 369,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Holidays that fall on Mondays and some Wednesdays"
+    },
+    "google_rating": 4.7,
+    "google_reviews": 153,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJtczSjs1hGGAR4_N7fuVVxxI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13003338-d45d35c7f683bb790cc93b97dae050a7efc0eb7feaf34d8887f0ef9dfff14e31.jpg",
+    "place_id": "ChIJtczSjs1hGGAR4_N7fuVVxxI",
+    "g_name": "まき村",
+    "g_rating": 4.7,
+    "g_reviews": 153,
+    "g_address": "日本、〒140-0013 東京都品川区南大井３丁目１１−５",
+    "lat": 35.5908086,
+    "lng": 139.7354203
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "もりかわ",
+    "name_en": "Morikawa",
+    "area": "東京都 港区",
+    "url": "https://tabelog.com/tokyo/A1308/A130801/13002772/",
+    "rating": 3.89,
+    "review_count_tabelog": 101,
+    "price_dinner": "￥100,000～",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 26,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5dqM3H6MGGAR_a-EGk9bO0w",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13002772-882edb1e9920684c4f62a9d2749f9a5106fb000da3ccb86e8012efb850792ea3.jpg",
+    "place_id": "ChIJ5dqM3H6MGGAR_a-EGk9bO0w",
+    "g_name": "もりかわ",
+    "g_rating": 4.2,
+    "g_reviews": 26,
+    "g_address": "日本、〒107-0052 東京都港区赤坂３丁目２１−６ 河村ビル",
+    "lat": 35.676696,
+    "lng": 139.736064
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "銀座 鼓門",
+    "name_en": "Ginza Komon",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13270743/",
+    "rating": 3.7,
+    "review_count_tabelog": 92,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine, Crab",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Day before public holiday, Day after public holiday",
+        "dtl": "18:00 - 22:30",
+        "dtl_text": "18:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays and other irregular days. Please note that there may be temporary openings or closures."
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13270743-b1e9b8bbbe7e215e4cb3d7aa04cba14b5f9bf79d0270257eb32d235947b84b20.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "銀座 しのはら",
+    "name_en": "Ginza Shinohara",
+    "area": "東京都 銀座一丁目駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13200949/",
+    "rating": 4.56,
+    "review_count_tabelog": 1271,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "￥40,000～￥49,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Fri",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Thu, Sat",
+        "dtl": "12:00 - 15:00 17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 318,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJR_yX_-OLGGARsCa9A8FfuIA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13200949-c3151cd90698c3fbbebfefc28bd4d71f15d5c1d60d3f95189c4acf4a64abd7b1.jpg",
+    "place_id": "ChIJR_yX_-OLGGARsCa9A8FfuIA",
+    "g_name": "しのはら",
+    "g_rating": 4.6,
+    "g_reviews": 318,
+    "g_address": "日本、〒104-0061 東京都中央区銀座２丁目８−１７",
+    "lat": 35.6730236,
+    "lng": 139.7678385
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "銀座うち山",
+    "name_en": "Ginza Uchiyama",
+    "area": "東京都 新富町駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13002322/",
+    "rating": 3.8,
+    "review_count_tabelog": 634,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 13:30 L.O. Food 11:30 18:00 - 21:00 L.O. Food 19:00",
+        "dtl_text": "18:00 - 21:00 L.O. Food 19:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.8,
+    "google_reviews": 45,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJxallMPGJGGAReNq6BNdIxM8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13002322-dc5943b2eb3ab74c9f6af109e622549a0fd7296900f506ea2a530e0a07d25541.jpg",
+    "place_id": "ChIJxallMPGJGGAReNq6BNdIxM8",
+    "g_name": "焼鳥うちやま",
+    "g_rating": 3.8,
+    "g_reviews": 45,
+    "g_address": "日本、〒104-0032 東京都中央区八丁堀２丁目１１−１",
+    "lat": 35.6766292,
+    "lng": 139.7758812
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "銀座 よし澤",
+    "name_en": "Ginza Yoshizawa",
+    "area": "東京都 銀座一丁目駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13175030/",
+    "rating": 3.74,
+    "review_count_tabelog": 380,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed",
+        "dtl": "18:00 - 22:00 L.O. 19:30",
+        "dtl_text": "18:00 - 22:00 L.O. 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu, Fri, Sat",
+        "dtl": "11:30 - 14:30 L.O. 12:30 18:00 - 22:00 L.O. 19:30",
+        "dtl_text": "18:00 - 22:00 L.O. 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 220,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJx994YeGLGGARUiQI3nZznX0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13175030-10b4a3bec543141017b29163eea7ce6c4cee44ca753568871ea3db7d1de36f64.jpg",
+    "place_id": "ChIJx994YeGLGGARUiQI3nZznX0",
+    "g_name": "銀座よし澤",
+    "g_rating": 4.6,
+    "g_reviews": 220,
+    "g_address": "日本、〒104-0061 東京都中央区銀座１丁目１３−８",
+    "lat": 35.6733902,
+    "lng": 139.7693958
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "かんだ",
+    "name_en": "Kanda",
+    "area": "東京都 虎ノ門ヒルズ駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130802/13270674/",
+    "rating": 4.01,
+    "review_count_tabelog": 142,
+    "price_dinner": "￥60,000～￥79,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Day before public holiday, Day after public holiday",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "*Reservations can be made by phone after noon."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 185,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJP-dHJnSLGGAR6lRM5169Uj0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13270674-405befce88590e03531f22a67fa6c66fd58cd758637067ff3cfa6e378f6f282d.jpg",
+    "place_id": "ChIJP-dHJnSLGGAR6lRM5169Uj0",
+    "g_name": "日本料理 かんだ",
+    "g_rating": 4.5,
+    "g_reviews": 185,
+    "g_address": "日本、〒105-0002 東京都港区愛宕１丁目１−１ 虎ノ門ヒルズレジデンシャルタワ １階",
+    "lat": 35.6658899,
+    "lng": 139.7481676
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "紀茂登",
+    "name_en": "Kimoto",
+    "area": "東京都 神楽坂駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13226856/",
+    "rating": 4.38,
+    "review_count_tabelog": 433,
+    "price_dinner": "￥80,000～￥99,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays, first and third Sundays"
+    },
+    "google_rating": 4,
+    "google_reviews": 105,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJFUcx4lqMGGARwtK0H4S5y2o",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13226856-7fee13708307795899a4e48e733377b0875d2f9790553581718fd6b3f196b701.jpg",
+    "place_id": "ChIJFUcx4lqMGGARwtK0H4S5y2o",
+    "g_name": "神楽坂 鮨 きもと",
+    "g_rating": 4,
+    "g_reviews": 105,
+    "g_address": "日本、〒162-0825 東京都新宿区神楽坂３丁目6−１９ 青柳LKビル 3F-B",
+    "lat": 35.7012137,
+    "lng": 139.7405962
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "味享",
+    "name_en": "Mitaka",
+    "area": "東京都 内幸町駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130103/13228116/",
+    "rating": 4.38,
+    "review_count_tabelog": 220,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [],
+    "hours_notes_structured": null,
+    "google_rating": 3.4,
+    "google_reviews": 101,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5d7mW-yLGGARiCOIek8Dmns",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13228116-9ca37d703805e5cd65736c13d43e56d05853af8ffe9c08ec100d5d2cde4c29a4.jpg",
+    "place_id": "ChIJ5d7mW-yLGGARiCOIek8Dmns",
+    "g_name": "内幸町駅",
+    "g_rating": 3.4,
+    "g_reviews": 101,
+    "g_address": "日本、〒100-0011 東京都千代田区内幸町２丁目２−３",
+    "lat": 35.6693954,
+    "lng": 139.7553294
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "味幸",
+    "name_en": "Aji Yuki",
+    "area": "東京都 新富町駅",
+    "url": "https://tabelog.com/tokyo/A1313/A131301/13277529/",
+    "rating": 4.22,
+    "review_count_tabelog": 83,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays"
+    },
+    "google_rating": 4.8,
+    "google_reviews": 10,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4yKuk4iJGGARUJ5KWvjEoC4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13277529-6b17dddff27b63efeea235723e83738cdf781b8441eb0a8c44e06a6ce41a31e2.jpg",
+    "place_id": "ChIJ4yKuk4iJGGARUJ5KWvjEoC4",
+    "g_name": "味幸",
+    "g_rating": 4.8,
+    "g_reviews": 10,
+    "g_address": "日本、〒104-0043 東京都中央区湊３丁目４−２ vann amor 1階",
+    "lat": 35.6699457,
+    "lng": 139.7777787
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "津の守坂 小柴",
+    "name_en": "Tsunokamizaka Koshiba",
+    "area": "東京都 曙橋駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130903/13200286/",
+    "rating": 4.22,
+    "review_count_tabelog": 218,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Wed, Sat": {},
+        "Mon - Sat": {}
+      },
+      "closed_on": "Temporary opening from January 5th (Feel free to contact us for inquiries.)"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 80,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJzyKmyvOMGGARr1iop6HMadU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13200286-ee0f0ff108340ea3f9bed470b5c62e4d4bc4e5251882c6fef7c0665c89392662.jpg",
+    "place_id": "ChIJzyKmyvOMGGARr1iop6HMadU",
+    "g_name": "津の守坂 小柴",
+    "g_rating": 4.6,
+    "g_reviews": 80,
+    "g_address": "日本、〒160-0007 東京都新宿区荒木町１５ 2F",
+    "lat": 35.6910333,
+    "lng": 139.7247019
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "徳うち山",
+    "name_en": "Tokuuchi Yama",
+    "area": "東京都 東銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13129656/",
+    "rating": 3.75,
+    "review_count_tabelog": 487,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 14:00 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Tue - Sat": {},
+        "Mon - Sat": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 106,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVW1Ow-CLGGARFzeSZ9Fc7UQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13129656-ee9854814f4c2f5d7ec0f3191f48b2e079b075411f3f8db627173ec7727188c7.jpg",
+    "place_id": "ChIJVW1Ow-CLGGARFzeSZ9Fc7UQ",
+    "g_name": "徳うち山",
+    "g_rating": 4.4,
+    "g_reviews": 106,
+    "g_address": "日本、〒104-0061 東京都中央区銀座３丁目１２−９",
+    "lat": 35.6703045,
+    "lng": 139.7687911
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "御成門はる",
+    "name_en": "Onarimon Haru",
+    "area": "東京都 御成門駅",
+    "url": "https://tabelog.com/tokyo/A1314/A131401/13233057/",
+    "rating": 4.13,
+    "review_count_tabelog": 218,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "12:00 - 15:00 18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.7,
+    "google_reviews": 40,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJbbyqNhyLGGARLmFpRXkMQjA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13233057-5e0867f0000c5ea67f164bf15413fb199335faa31c085dd1a826e006d3f8fcd6.jpg",
+    "place_id": "ChIJbbyqNhyLGGARLmFpRXkMQjA",
+    "g_name": "御成門 はる",
+    "g_rating": 4.7,
+    "g_reviews": 40,
+    "g_address": "日本、〒105-0012 東京都港区芝大門１丁目２−２ 中川ビル 1階",
+    "lat": 35.6601709,
+    "lng": 139.7544689
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "うぶか",
+    "name_en": "Ubuka",
+    "area": "東京都 四谷三丁目駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130903/13139225/",
+    "rating": 3.76,
+    "review_count_tabelog": 304,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 114,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJhUiHj_KMGGARITbHliNHtTc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13139225-0e06dec92b94a1750edcfdd267f6e6f223b93d80e5842dadbc8585da4c9c41fd.jpg",
+    "place_id": "ChIJhUiHj_KMGGARITbHliNHtTc",
+    "g_name": "うぶか（甲殻類料理専門）",
+    "g_rating": 4.4,
+    "g_reviews": 114,
+    "g_address": "日本、〒160-0007 東京都新宿区荒木町２−１４ アイエスビル ２- 1F",
+    "lat": 35.6886432,
+    "lng": 139.7224323
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "時限堂",
+    "name_en": "Jigen Do",
+    "area": "東京都 赤坂見附駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130801/13292021/",
+    "rating": 4.15,
+    "review_count_tabelog": 248,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [],
+    "hours_notes_structured": null,
+    "google_rating": 4.6,
+    "google_reviews": 26,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJa6OPdmSNGGARsPFL6drYVoA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13292021-24e3dbb511b9abe43fdd9311686a88bb3e1b6812bcd50dec9501d32170990008.jpg",
+    "place_id": "ChIJa6OPdmSNGGARsPFL6drYVoA",
+    "g_name": "時限堂 ZIGENDO",
+    "g_rating": 4.6,
+    "g_reviews": 26,
+    "g_address": "日本、〒107-0052 東京都港区赤坂３丁目９−２ No.R赤坂見附 1F",
+    "lat": 35.677357,
+    "lng": 139.7363823
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "御料理 無窮",
+    "name_en": "Oryori Mukyu",
+    "area": "東京都 六本木駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13216329/",
+    "rating": 3.72,
+    "review_count_tabelog": 348,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays and during the Year-end & New Year Holidays"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 86,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJG9GOYHaLGGARvMR9xf7-c4M",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13216329-e5a137a2395d1e87e16e325082c42dd5f5934481172086831b613ffe21c6f143.jpg",
+    "place_id": "ChIJG9GOYHaLGGARvMR9xf7-c4M",
+    "g_name": "茶寮宮坂",
+    "g_rating": 4.3,
+    "g_reviews": 86,
+    "g_address": "日本、〒106-0032 東京都港区六本木６丁目１２−２ ヒルズけやき坂通り 3階",
+    "lat": 35.6587027,
+    "lng": 139.7293745
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "麻布 幸村",
+    "name_en": "Azabu Yukimura",
+    "area": "東京都 麻布十番駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130702/13005316/",
+    "rating": 4.05,
+    "review_count_tabelog": 175,
+    "price_dinner": "￥60,000～￥79,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:30 - 20:00",
+        "dtl_text": "17:30 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 81,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJCZ4rOp6LGGAR70qNb20VOF4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13005316-cd6518e2e44b6f4fcb77077d8c9396e20f3337488457303f1ddc0d51dc0fba9b.jpg",
+    "place_id": "ChIJCZ4rOp6LGGAR70qNb20VOF4",
+    "g_name": "麻布 幸村",
+    "g_rating": 4.4,
+    "g_reviews": 81,
+    "g_address": "日本、〒106-0045 東京都港区麻布十番１丁目５−５−３",
+    "lat": 35.6573283,
+    "lng": 139.7329213
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "茂幸",
+    "name_en": "Shigeyuki",
+    "area": "東京都 代々木上原駅",
+    "url": "https://tabelog.com/tokyo/A1318/A131807/13250288/",
+    "rating": 3.75,
+    "review_count_tabelog": 60,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 22:30",
+        "dtl_text": "18:00 - 22:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.7,
+    "google_reviews": 24,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJz2_eg2DzGGARN4nqTinkTxA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13250288-1edf3f0fab1c457139acc9dbdc559ef60296b9ef9629e05be74da793a3c85b28.jpg",
+    "place_id": "ChIJz2_eg2DzGGARN4nqTinkTxA",
+    "g_name": "日本料理 割烹 茂幸 代々木上原",
+    "g_rating": 4.7,
+    "g_reviews": 24,
+    "g_address": "日本、〒151-0066 東京都渋谷区西原２丁目１７−３",
+    "lat": 35.673143,
+    "lng": 139.6787508
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "くろぎ",
+    "name_en": "Kurogi",
+    "area": "東京都 大門駅",
+    "url": "https://tabelog.com/tokyo/A1314/A131401/13094789/",
+    "rating": 4.19,
+    "review_count_tabelog": 445,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "￥50,000～￥59,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 14:30 17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 203,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqqiGMGGARbjWaAWhDAqQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13094789-a4b20dc168c57e253b4e898871c362ceb9a5593363dda0cf767213327f08bf26.jpg",
+    "place_id": "ChIJq6qqqiGMGGARbjWaAWhDAqQ",
+    "g_name": "日本料理 くろぎ 大門 東京割烹",
+    "g_rating": 4.5,
+    "g_reviews": 203,
+    "g_address": "日本、〒105-0011 東京都港区芝公園１丁目７−１０",
+    "lat": 35.6574197,
+    "lng": 139.752671
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "蓮 三四七",
+    "name_en": "Ren Mishina",
+    "area": "東京都 内幸町駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13221959/",
+    "rating": 4.16,
+    "review_count_tabelog": 215,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥30,000～￥39,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Lunch": {},
+        "Dinner": {}
+      },
+      "closed_on": "Sundays, Mondays (twice a month), and public holidays (early May, mid-August, and year-end & New Year holidays)"
+    },
+    "google_rating": 3.4,
+    "google_reviews": 101,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5d7mW-yLGGARiCOIek8Dmns",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13221959-c0014f0058b515be4f36d4bf56a9d677da727bbb2629862f458ac631f9e65bf6.jpg",
+    "place_id": "ChIJ5d7mW-yLGGARiCOIek8Dmns",
+    "g_name": "内幸町駅",
+    "g_rating": 3.4,
+    "g_reviews": 101,
+    "g_address": "日本、〒100-0011 東京都千代田区内幸町２丁目２−３",
+    "lat": 35.6693954,
+    "lng": 139.7553294
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "茜坂大沼",
+    "name_en": "Akanezaka Oonuma",
+    "area": "東京都 赤坂駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130801/13244397/",
+    "rating": 3.97,
+    "review_count_tabelog": 261,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Japanese Cuisine, Nihonshu (Japanese sake)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 14:00 18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Monday": {},
+        "Tuesday - Saturday": {}
+      },
+      "closed_on": "Lunch service is not available on Mondays."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 67,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJy2dYnnqLGGARVouhg7TVpLM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13244397-34e3fc63bd74b64518876e1327e4dbfe79995423ac1bf52c6db99185ce9ef48c.jpg",
+    "place_id": "ChIJy2dYnnqLGGARVouhg7TVpLM",
+    "g_name": "茜坂 大沼",
+    "g_rating": 4.3,
+    "g_reviews": 67,
+    "g_address": "日本、〒107-0052 東京都港区赤坂３丁目１２−２ 赤坂慶和ビル 3Ｆ",
+    "lat": 35.674049,
+    "lng": 139.7377999
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "さ行",
+    "name_en": "Sakou",
+    "area": "東京都 港区",
+    "url": "https://tabelog.com/tokyo/A1308/A130801/13118721/",
+    "rating": 3.84,
+    "review_count_tabelog": 192,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine, Creative",
+    "hours_raw": [],
+    "hours_notes_structured": null,
+    "google_rating": 4.8,
+    "google_reviews": 88,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6z9fnYCLGGARnlOY7WJ7OTU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13118721-9a1f6b9321f1d8c5a5cf28334c7b2c0bfd6373557a62f7236e70ecfa49b29e38.jpg",
+    "place_id": "ChIJ6z9fnYCLGGARnlOY7WJ7OTU",
+    "g_name": "日本料理【さ行】",
+    "g_rating": 4.8,
+    "g_reviews": 88,
+    "g_address": "日本、〒107-0052 東京都港区赤坂５丁目１−３０",
+    "lat": 35.6734347,
+    "lng": 139.7352088
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "恵比寿 くろいわ",
+    "name_en": "Ebisu Kuroiwa",
+    "area": "東京都 恵比寿駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130302/13186582/",
+    "rating": 3.75,
+    "review_count_tabelog": 139,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 23:00 L.O. 20:00",
+        "dtl_text": "17:00 - 23:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 88,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_YmpYhOLGGARohy416cPHbQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13186582-b492c220befd10e69b21da6a33c44fe99f5e51d4115f10cb9e19f2d7ba068a23.jpg",
+    "place_id": "ChIJ_YmpYhOLGGARohy416cPHbQ",
+    "g_name": "恵比寿くろいわ",
+    "g_rating": 4.6,
+    "g_reviews": 88,
+    "g_address": "日本、〒150-0013 東京都渋谷区恵比寿４丁目１１−１２",
+    "lat": 35.6451353,
+    "lng": 139.7145709
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "ぎんざ 一二岐",
+    "name_en": "Ginza Ibuki",
+    "area": "東京都 新富町駅",
+    "url": "https://tabelog.com/tokyo/A1313/A131301/13115557/",
+    "rating": 3.8,
+    "review_count_tabelog": 548,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed",
+        "dtl": "18:00 - 22:00 L.O. 19:30",
+        "dtl_text": "18:00 - 22:00 L.O. 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu, Fri, Sat",
+        "dtl": "11:30 - 14:30 L.O. 12:30 18:00 - 22:00 L.O. 19:30",
+        "dtl_text": "18:00 - 22:00 L.O. 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 437,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9bbfOOSLGGARo2EnEChKui0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13115557-28a33c2adc302d1dcd11eb132daa977d7514f403830ae0e5f1bda37585498df7.jpg",
+    "place_id": "ChIJ9bbfOOSLGGARo2EnEChKui0",
+    "g_name": "WASHOKU SUSHI いぶき IBUKI 銀座店",
+    "g_rating": 4,
+    "g_reviews": 437,
+    "g_address": "日本、〒104-0061 東京都中央区銀座３丁目４−１ 大倉別館 B1F",
+    "lat": 35.6733511,
+    "lng": 139.7660052
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "新ばし 星野",
+    "name_en": "Shimbashi Hoshino",
+    "area": "東京都 御成門駅",
+    "url": "https://tabelog.com/tokyo/A1314/A131401/13136847/",
+    "rating": 4.62,
+    "review_count_tabelog": 290,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.9,
+    "google_reviews": 49,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJt3alDBWLGGARpEsFXAV9gZU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13136847-8395eec37460bf8e0eeb65a9c3ab0c2ca69e9b09e76baed2572d22452b32e32a.jpg",
+    "place_id": "ChIJt3alDBWLGGARpEsFXAV9gZU",
+    "g_name": "新ばし 星野",
+    "g_rating": 4.9,
+    "g_reviews": 49,
+    "g_address": "日本、〒105-0004 東京都港区新橋５丁目３１−３ 石井ビル",
+    "lat": 35.6624206,
+    "lng": 139.755325
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "かわさき",
+    "name_en": "Kawasaki",
+    "area": "東京都 広尾駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130703/13219503/",
+    "rating": 3.8,
+    "review_count_tabelog": 78,
+    "price_dinner": "-",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 00:00",
+        "dtl_text": "17:00 - 00:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.7,
+    "google_reviews": 26,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0dFlnGWLGGARlLE-1xZN2Hs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13219503-62edd301a89f4adca306096879e085609b3fdae5b865c4791130db02dbe14938.jpg",
+    "place_id": "ChIJ0dFlnGWLGGARlLE-1xZN2Hs",
+    "g_name": "西麻布 かわさき",
+    "g_rating": 4.7,
+    "g_reviews": 26,
+    "g_address": "日本、〒106-0031 東京都港区西麻布４丁目１７−２２ グレイシス西麻布1F",
+    "lat": 35.6586143,
+    "lng": 139.7188908
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "御料理 辻",
+    "name_en": "Oryori Tsuji",
+    "area": "東京都 麻布十番駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130702/13209899/",
+    "rating": 3.8,
+    "review_count_tabelog": 125,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Fri",
+        "dtl": "18:00 - 22:30",
+        "dtl_text": "18:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Thu, Sat",
+        "dtl": "12:00 - 14:00 18:00 - 22:30",
+        "dtl_text": "18:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 83,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJE3_OcaKLGGARmskzAnuOsl8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13209899-f29aea03bcbcb7bf213c9d4847648128c2fba727817fc73f05bc33d73493cf20.jpg",
+    "place_id": "ChIJE3_OcaKLGGARmskzAnuOsl8",
+    "g_name": "御料理 辻",
+    "g_rating": 4.4,
+    "g_reviews": 83,
+    "g_address": "日本、〒106-0044 東京都港区東麻布３丁目３−９ アネックス麻布十番地下１階",
+    "lat": 35.65721509999999,
+    "lng": 139.738861
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "お料理 志ぶう",
+    "name_en": "Oryori Shibuu",
+    "area": "東京都 銀座一丁目駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13215411/",
+    "rating": 3.76,
+    "review_count_tabelog": 37,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "￥40,000～￥49,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 14:00 L.O. Food 13:00 Drinks 14:00 18:00 - 21:00 L.O. 21:00",
+        "dtl_text": "18:00 - 21:00 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAwOaLGGARTmluXrmVL60",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13215411-18a7275f12f2ba091f4b92d012c8d22569e1e80ea424df4e0aac8d6ffbd88ec8.jpg",
+    "place_id": "ChIJAQAAwOaLGGARTmluXrmVL60",
+    "g_name": "オリョウリ シブウ",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "日本、〒104-0061 東京都中央区銀座１丁目２−４−１９",
+    "lat": 35.6749664,
+    "lng": 139.7683917
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "新ばし 笹田",
+    "name_en": "Shimbashi Sasada",
+    "area": "東京都 虎ノ門駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130103/13020781/",
+    "rating": 3.91,
+    "review_count_tabelog": 172,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.7,
+    "google_reviews": 70,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJtWLCpOyLGGARvwp1ZVmN3Kw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13020781-283f4bca1207a827e095b2f14cc71ced763e205f315776c9531ca96acc9d1197.jpg",
+    "place_id": "ChIJtWLCpOyLGGARvwp1ZVmN3Kw",
+    "g_name": "新ばし 笹田",
+    "g_rating": 4.7,
+    "g_reviews": 70,
+    "g_address": "日本、〒105-0003 東京都港区西新橋１丁目２３−７ プレシャスコート虎ノ門",
+    "lat": 35.6681539,
+    "lng": 139.7515853
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "膳司 水光庵",
+    "name_en": "Kashiwade no Tsukasa Suikouan",
+    "area": "東京都 赤羽橋駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130702/13286120/",
+    "rating": 4.04,
+    "review_count_tabelog": 93,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Thu, Sat",
+        "dtl": "19:00 - 21:30",
+        "dtl_text": "19:00 - 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Fri",
+        "dtl": "17:30 - 23:00",
+        "dtl_text": "17:30 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.8,
+    "google_reviews": 24,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJjZAEuhqLGGARTKaDsRyIXEI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13286120-e95d2863db0d68907eda780a9d4e6a3fe60f57ecf87acb691ab297d0f093951c.jpg",
+    "place_id": "ChIJjZAEuhqLGGARTKaDsRyIXEI",
+    "g_name": "膳司 水光庵",
+    "g_rating": 4.8,
+    "g_reviews": 24,
+    "g_address": "日本、〒106-0044 東京都港区東麻布２丁目１４−８ フィル・パーク東麻布 1階",
+    "lat": 35.6571621,
+    "lng": 139.7405505
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "TOKYO",
+    "name": "と村",
+    "name_en": "Tomura",
+    "area": "東京都 虎ノ門駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130802/13005027/",
+    "rating": 3.87,
+    "review_count_tabelog": 182,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 20:00 L.O. 20:30",
+        "dtl_text": "18:00 - 20:00 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 56,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4x7R9pKLGGARMw8GWluDPdQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_tokyo/13005027-6d51f5a9d4cd78ab7f13ecab76362b252bd00d15d5c9109dfdeae709744209de.jpg",
+    "place_id": "ChIJ4x7R9pKLGGARMw8GWluDPdQ",
+    "g_name": "と村",
+    "g_rating": 4.4,
+    "g_reviews": 56,
+    "g_address": "日本、〒105-0001 東京都港区虎ノ門１丁目１１−１４ 第二ジェスペールビル 1",
+    "lat": 35.6689556,
+    "lng": 139.7501466
+  }
+]

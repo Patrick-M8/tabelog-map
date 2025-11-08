@@ -1,0 +1,4567 @@
+[
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "CRUZ BURGERS & CRAFT BEERS",
+    "name_en": "CRUZ BURGERS & CRAFT BEERS",
+    "area": "東京都 四ツ谷駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130902/13189090/",
+    "rating": 3.69,
+    "review_count_tabelog": 1053,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Beer bar, Dining bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 21:00 L.O. 20:30",
+        "dtl_text": "11:00 - 21:00 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 957,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8efCroyMGGARrNy2Z-S86VE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/13189090-f63387af80521c17d99c0d897d0544939aa2959546da826ddbdb04ee362af71c.jpg",
+    "place_id": "ChIJ8efCroyMGGARrNy2Z-S86VE",
+    "g_name": "CRUZ BURGERS & CRAFT BEERS",
+    "g_rating": 4.5,
+    "g_reviews": 957,
+    "g_address": "日本、〒160-0008 東京都新宿区四谷三栄町１５−６ オグラビル",
+    "lat": 35.6881152,
+    "lng": 139.726407
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "佐世保バーガー BigMan 京町本店",
+    "name_en": "Sasebo Burger BigMan Kyochohonten",
+    "area": "長崎県 佐世保市",
+    "url": "https://tabelog.com/nagasaki/A4202/A420201/42000078/",
+    "rating": 3.65,
+    "review_count_tabelog": 1345,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Hamburger, Bread, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "09:00 - 20:00 L.O. 19:30",
+        "dtl_text": "09:00 - 20:00 L.O. 19:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round. Please note that the restaurant may close occasionally for unexpected maintenance."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 2786,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1fcQVDCUajURpq6KYGq8QjI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/42000078-df80bf3f1fc82f6987ca9af3358db1f2f3cda4dd8fdff6f05c4227d5cc687251.jpg",
+    "place_id": "ChIJ1fcQVDCUajURpq6KYGq8QjI",
+    "g_name": "BigMan 上京町本店",
+    "g_rating": 4.2,
+    "g_reviews": 2786,
+    "g_address": "日本、〒857-0872 長崎県佐世保市上京町７−１０",
+    "lat": 33.1697196,
+    "lng": 129.721739
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "ミサロッソ",
+    "name_en": "misa*rosso",
+    "area": "長崎県 佐世保市",
+    "url": "https://tabelog.com/nagasaki/A4202/A420201/42000523/",
+    "rating": 3.74,
+    "review_count_tabelog": 546,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Hamburger, Pizza",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "10:00 - 19:00",
+        "dtl_text": "10:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays, except on public holidays"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 1024,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJXfe5nj-UajURldtPWhkw_ss",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/42000523-cd55cb19342d6b54c69350dcb86d3b31ec4892bdc2165844128252398540db60.jpg",
+    "place_id": "ChIJXfe5nj-UajURldtPWhkw_ss",
+    "g_name": "ミサロッソ",
+    "g_rating": 4.4,
+    "g_reviews": 1024,
+    "g_address": "日本、〒857-0034 長崎県佐世保市万徳町２−１５",
+    "lat": 33.1816359,
+    "lng": 129.7147858
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "ザ リスコ",
+    "name_en": "THE RISCO",
+    "area": "愛知県 東別院駅",
+    "url": "https://tabelog.com/aichi/A2301/A230105/23059609/",
+    "rating": 3.69,
+    "review_count_tabelog": 909,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Fri, Sat",
+        "dtl": "11:00 - 15:00 17:00 - 21:00 L.O. 20:30",
+        "dtl_text": "17:00 - 21:00 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "11:00 - 16:00",
+        "dtl_text": "11:00 - 16:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays (with occasional closures)"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 573,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6r22LJwA2ARrXRbSdyiyJc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/23059609-bc9bef7ae7d952151bc3fdfde069277a3a15de49820e62ef8a24c36244c62e77.jpg",
+    "place_id": "ChIJq6r22LJwA2ARrXRbSdyiyJc",
+    "g_name": "THE RISCO リスコ Cafe & Authentic Burgers",
+    "g_rating": 4.4,
+    "g_reviews": 573,
+    "g_address": "日本、〒460-0021 愛知県名古屋市中区平和１丁目１６−６ チサンマンション東別院 １Ｆ",
+    "lat": 35.1477038,
+    "lng": 136.9035159
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "ザ ブッチャー",
+    "name_en": "THE BUTCHER",
+    "area": "大阪府 難波（南海）駅",
+    "url": "https://tabelog.com/osaka/A2701/A270202/27091986/",
+    "rating": 3.65,
+    "review_count_tabelog": 522,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Steak, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 16:00 L.O. 15:30 17:00 - 21:00 L.O. 20:30",
+        "dtl_text": "17:00 - 21:00 L.O. 20:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 703,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJxRiZsWvnAGARl8dSAji96zA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/27091986-149eeffeeeb7481d0afc054d25e391e446c523e32e875b05297056e3f42e3ded.jpg",
+    "place_id": "ChIJxRiZsWvnAGARl8dSAji96zA",
+    "g_name": "Stake&Burger THE BUTCHER ブッチャー",
+    "g_rating": 4.1,
+    "g_reviews": 703,
+    "g_address": "日本、〒542-0075 大阪府大阪市中央区難波千日前１０−１３",
+    "lat": 34.664602,
+    "lng": 135.5036243
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "ペペキッチン",
+    "name_en": "PEPE KITCHEN",
+    "area": "青森県 弘前市",
+    "url": "https://tabelog.com/aomori/A0202/A020201/2007884/",
+    "rating": 3.7,
+    "review_count_tabelog": 222,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Bar, American",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.6,
+    "google_reviews": 359,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJy4gFd5IBm18Rm-vMdzYKOb4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/2007884-baaa24bd4583cd84adc8aed79fb9ed84c7e760cf2be4ec7756e0a2e0abd84caf.jpg",
+    "place_id": "ChIJy4gFd5IBm18Rm-vMdzYKOb4",
+    "g_name": "ペペキッチン",
+    "g_rating": 4.6,
+    "g_reviews": 359,
+    "g_address": "日本、〒036-8097 青森県弘前市稲田２丁目１−１",
+    "lat": 40.6022826,
+    "lng": 140.488846
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "hide mode",
+    "name_en": "hide mode",
+    "area": "東京都 本郷三丁目駅",
+    "url": "https://tabelog.com/tokyo/A1310/A131004/13222449/",
+    "rating": 3.71,
+    "review_count_tabelog": 480,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "-",
+    "sub_categories": "Hamburger, Bistro, Dumpling",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:00 - 22:00 L.O. Food 21:00 Drinks 21:30",
+        "dtl_text": "17:00 - 22:00 L.O. Food 21:00 Drinks 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "17:00 - 21:00 L.O. Food 20:00 Drinks 20:30",
+        "dtl_text": "17:00 - 21:00 L.O. Food 20:00 Drinks 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Reservations may be required for Sunday service."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 136,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6fctbTyMGGAR5F79ahGvLt8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/13222449-e829ce2c2dc5634e777b172b042b2ea11875dcb7c6e3223d8f2060c27296ea28.jpg",
+    "place_id": "ChIJ6fctbTyMGGAR5F79ahGvLt8",
+    "g_name": "hide mode (ハイドモード)",
+    "g_rating": 4.5,
+    "g_reviews": 136,
+    "g_address": "日本、〒113-0033 東京都文京区本郷２丁目３０−１０",
+    "lat": 35.7053132,
+    "lng": 139.758844
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "ハンサム バーガー",
+    "name_en": "HANDSOME BURGER",
+    "area": "愛知県 伏見駅",
+    "url": "https://tabelog.com/aichi/A2301/A230102/23058190/",
+    "rating": 3.55,
+    "review_count_tabelog": 642,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Hamburger",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Sat",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Fri",
+        "dtl": "11:00 - 19:00",
+        "dtl_text": "11:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 599,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAxWdHCp3A2ARcScWjFLix3E",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/23058190-e3eb7648ef5fef6eb4372b75874da8dca5e1b1ae55e5f0ded015f38b2cf12802.jpg",
+    "place_id": "ChIJAxWdHCp3A2ARcScWjFLix3E",
+    "g_name": "HANDSOME BURGER",
+    "g_rating": 4.4,
+    "g_reviews": 599,
+    "g_address": "日本、〒460-0003 愛知県名古屋市中区錦２丁目１３−２４ 伏見地下街39-40",
+    "lat": 35.169487,
+    "lng": 136.898545
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "HYOE'S BURGERS + FRIES",
+    "name_en": "HYOE'S BURGERS + FRIES",
+    "area": "兵庫県 三宮（神戸市営）駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280101/28059053/",
+    "rating": 3.65,
+    "review_count_tabelog": 505,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 16:00 L.O. 15:30 17:00 - 20:00 L.O. 19:30",
+        "dtl_text": "17:00 - 20:00 L.O. 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "11:00 - 15:30 L.O. Food 15:30 17:00 - 19:30 L.O. Food 19:30",
+        "dtl_text": "17:00 - 19:30 L.O. Food 19:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Please check our Instagram @hyoeskobe."
+    },
+    "google_rating": 4.8,
+    "google_reviews": 926,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJoZqOus2PAGARz13vloczGGU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/28059053-d1ef720429f8f8a4814c4b47e45061be1c240d19c476715ebd7f00b9a23e304f.jpg",
+    "place_id": "ChIJoZqOus2PAGARz13vloczGGU",
+    "g_name": "HYOE'S BURGERS+FRIES ヒョウエズバーガーズアンドフライズ",
+    "g_rating": 4.8,
+    "g_reviews": 926,
+    "g_address": "日本、〒650-0004 兵庫県神戸市中央区中山手通２丁目１２−１０ マンションリーベ 1-A",
+    "lat": 34.6966055,
+    "lng": 135.1899767
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "ブラザーズ 日本橋高島屋店",
+    "name_en": "Brothers Nihonbashi Takashimaya Ten",
+    "area": "東京都 日本橋駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130202/13226533/",
+    "rating": 3.67,
+    "review_count_tabelog": 1078,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Cafe, Dining bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 21:30 L.O. 21:00",
+        "dtl_text": "11:00 - 21:30 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (following the schedule of Nihonbashi Takashimaya S.C.)"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 322,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDZP9lqKJGGARMNRl8zDCJUU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/13226533-92d9b9699ddce0d7ee5880bfd41d533566c1fbe2acb1c78da13ad87e1c992809.jpg",
+    "place_id": "ChIJDZP9lqKJGGARMNRl8zDCJUU",
+    "g_name": "ブラザーズ日本橋高島屋店",
+    "g_rating": 4.2,
+    "g_reviews": 322,
+    "g_address": "日本、〒103-0027 東京都中央区日本橋２丁目５−１ 高島屋S.C 新館 7F",
+    "lat": 35.6813921,
+    "lng": 139.7736852
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "からつバーガー 虹ノ松原本店",
+    "name_en": "Karatsu Burger Nijinomatsubara Honten",
+    "area": "佐賀県 唐津市",
+    "url": "https://tabelog.com/saga/A4102/A410201/41000364/",
+    "rating": 3.49,
+    "review_count_tabelog": 627,
+    "price_dinner": "～￥999",
+    "price_lunch": "-",
+    "sub_categories": "Hamburger",
+    "hours_raw": [],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 2182,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJPXO-C6TXQTURqY5T8sFUl_o",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/41000364-109f18583b9aa0b50fb3ac7d954b526c257d66cad3db07da7e2edd6f9d1eeed0.jpg",
+    "place_id": "ChIJPXO-C6TXQTURqY5T8sFUl_o",
+    "g_name": "からつバーガー 唐津地区·松原本店",
+    "g_rating": 4.3,
+    "g_reviews": 2182,
+    "g_address": "日本、〒847-0022 佐賀県唐津市鏡４",
+    "lat": 33.4442713,
+    "lng": 130.0000972
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "ブラッカウズ",
+    "name_en": "BLACOWS",
+    "area": "東京都 代官山駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130302/13096437/",
+    "rating": 3.65,
+    "review_count_tabelog": 1947,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Bistro",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:00 - 15:00 L.O. 14:00 17:00 - 21:00 L.O. 20:00",
+        "dtl_text": "17:00 - 21:00 L.O. 20:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Year-end & New Year Holidays (Dec 31 - Jan 2)"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 1325,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJA6_y7UOLGGARR0HVb-2uF9A",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/13096437-2e1fe897dd82ee3a1fc73ee098269c0a8883db9d7d90ff121f0faf975b4739c7.jpg",
+    "place_id": "ChIJA6_y7UOLGGARR0HVb-2uF9A",
+    "g_name": "BLACOWS -ZERO- Real Wagyu Burger",
+    "g_rating": 4.2,
+    "g_reviews": 1325,
+    "g_address": "日本、〒150-0021 東京都渋谷区恵比寿西２丁目１１−９ 東光ホワイトビル 1F",
+    "lat": 35.6494566,
+    "lng": 139.707133
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "パントリー コヨーテ",
+    "name_en": "PANTRY COYOTE",
+    "area": "千葉県 葭川公園駅",
+    "url": "https://tabelog.com/chiba/A1201/A120101/12020222/",
+    "rating": 3.76,
+    "review_count_tabelog": 825,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, American, Dining bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri",
+        "dtl": "11:30 - 22:00 L.O. 21:00",
+        "dtl_text": "11:30 - 22:00 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 18:00 L.O. 17:00",
+        "dtl_text": "11:30 - 18:00 L.O. 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "1st and 3rd Tuesdays, Wednesdays"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 586,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJpUKnLcuEImAROgXLwUr3u9Q",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/12020222-78b47d1650b319da0e4df03cb8f8a7f258195e9fc25ab6434be0fd1258cd6702.jpg",
+    "place_id": "ChIJpUKnLcuEImAROgXLwUr3u9Q",
+    "g_name": "パントリーコヨーテ",
+    "g_rating": 4.4,
+    "g_reviews": 586,
+    "g_address": "日本、〒260-0013 千葉県千葉市中央区中央３丁目１１−１１",
+    "lat": 35.607944,
+    "lng": 140.124666
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "ジャックスピザアンドバーガーズ",
+    "name_en": "jack's pizza and burgers",
+    "area": "兵庫県 塚口（阪急）駅",
+    "url": "https://tabelog.com/hyogo/A2803/A280304/28034838/",
+    "rating": 3.52,
+    "review_count_tabelog": 439,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Pizza",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 22:00",
+        "dtl_text": "11:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (open on public holidays)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 695,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJl8THxtXvAGARmPdK-qJO1Jo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/28034838-95e37ff630587f2cc8e85ec636245932399a3b73f9841200c5c70bd11943ea47.jpg",
+    "place_id": "ChIJl8THxtXvAGARmPdK-qJO1Jo",
+    "g_name": "ジャックス ピザアンドバーガーズ",
+    "g_rating": 4.3,
+    "g_reviews": 695,
+    "g_address": "日本、〒661-0012 兵庫県尼崎市南塚口町２丁目２４−１２",
+    "lat": 34.7500794,
+    "lng": 135.4158752
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "マティーニバーガー",
+    "name_en": "MARTINIBURGER",
+    "area": "東京都 神楽坂駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13117569/",
+    "rating": 3.57,
+    "review_count_tabelog": 813,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Cafe, Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "11:00 - 18:00 L.O. 17:30",
+        "dtl_text": "11:00 - 18:00 L.O. 17:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 21:00 L.O. 20:30",
+        "dtl_text": "11:00 - 21:00 L.O. 20:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 571,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJM-LDbv-MGGARBZWAMvDOepI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/13117569-5a55b1adaaa82cea7eae376a922edcd70f17f5b8330e906b9ede39d76c591ecc.jpg",
+    "place_id": "ChIJM-LDbv-MGGARBZWAMvDOepI",
+    "g_name": "マティーニバーガー",
+    "g_rating": 4.1,
+    "g_reviews": 571,
+    "g_address": "日本、〒162-0804 東京都新宿区中里町３１",
+    "lat": 35.70558400000001,
+    "lng": 139.731094
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "ショーグンバーガー 新宿店",
+    "name_en": "SHOGUN BURGER Shinjuku Ten",
+    "area": "東京都 新宿西口駅",
+    "url": "https://tabelog.com/tokyo/A1304/A130401/13227776/",
+    "rating": 3.69,
+    "review_count_tabelog": 2206,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Cafe, Beer bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 04:00 L.O. 03:30",
+        "dtl_text": "11:30 - 04:00 L.O. 03:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:30 - 23:00 L.O. 22:00",
+        "dtl_text": "11:30 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Year-end & New Year Holidays"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 3779,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ7Wde1KNGGAR9-XMuzYbQo0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/13227776-65967b61940165dab3458074be2a9626f022b0584a872fa42c92c0f47c54d848.jpg",
+    "place_id": "ChIJJ7Wde1KNGGAR9-XMuzYbQo0",
+    "g_name": "ショーグンバーガー 新宿総本店",
+    "g_rating": 4.5,
+    "g_reviews": 3779,
+    "g_address": "日本、〒160-0021 東京都新宿区歌舞伎町１丁目１５−１２ ピアットビル 1階",
+    "lat": 35.6940754,
+    "lng": 139.7024699
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "エーエス クラシックス ダイナー KOMAZAWA",
+    "name_en": "AS CLASSICS DINER KOMAZAWA",
+    "area": "東京都 目黒区",
+    "url": "https://tabelog.com/tokyo/A1317/A131707/13022762/",
+    "rating": 3.58,
+    "review_count_tabelog": 1136,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, American, Sandwich",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 21:00 L.O. 20:00",
+        "dtl_text": "11:00 - 21:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open on Tuesdays that are public holidays. The following Wednesday will be a substitute holiday."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 763,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJN5yPuuv0GGARL5HpkBEE6PU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/13022762-0dad71ed0171eb5fe22b7e855bb6450504888656fcaeb4769f85e4600d345ad4.jpg",
+    "place_id": "ChIJN5yPuuv0GGARL5HpkBEE6PU",
+    "g_name": "AS CLASSICS DINER",
+    "g_rating": 4.2,
+    "g_reviews": 763,
+    "g_address": "日本、〒152-0023 東京都目黒区八雲５丁目９−２２ オリオン駒沢",
+    "lat": 35.6250824,
+    "lng": 139.6675077
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "R-S",
+    "name_en": "R-S",
+    "area": "千葉県 松戸市",
+    "url": "https://tabelog.com/chiba/A1203/A120302/12006175/",
+    "rating": 3.72,
+    "review_count_tabelog": 1019,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Sandwich, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "11:00 - 15:30",
+        "dtl_text": "11:00 - 15:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 20:15",
+        "dtl_text": "11:00 - 20:15"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 992,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJv6GlH1uDGGARsrVLfWjZaXw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/12006175-0f3ebe326c46096d5043992c38651954826ff43b33edec9593fde3eadf43290e.jpg",
+    "place_id": "ChIJv6GlH1uDGGARsrVLfWjZaXw",
+    "g_name": "アールズ",
+    "g_rating": 4.5,
+    "g_reviews": 992,
+    "g_address": "日本、〒270-0021 千葉県松戸市小金原６丁目２−６",
+    "lat": 35.8196379,
+    "lng": 139.9456117
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "バーガーショップホットボックス",
+    "name_en": "BurgerShop HOTBOX",
+    "area": "北海道 函館市",
+    "url": "https://tabelog.com/hokkaido/A0105/A010501/1044607/",
+    "rating": 3.65,
+    "review_count_tabelog": 156,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Dining bar, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:30 - 15:00 L.O. 14:30 18:00 - 20:00 L.O. 19:30",
+        "dtl_text": "18:00 - 20:00 L.O. 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 375,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJH_Wk2p_znl8Rgf5xFxVvAgU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/1044607-2fd278b28be2c555bc1254468ffd5e8e7596bb92f1a3c876d607d25ce36e5b99.jpg",
+    "place_id": "ChIJH_Wk2p_znl8Rgf5xFxVvAgU",
+    "g_name": "Burger Shop HOTBOX",
+    "g_rating": 4.6,
+    "g_reviews": 375,
+    "g_address": "日本、〒040-0035 北海道函館市松風町３−１１",
+    "lat": 41.7712069,
+    "lng": 140.7320896
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "ラルフズ バーガーレストラン",
+    "name_en": "Ralph's Burger Restaurant",
+    "area": "沖縄県 沖縄市",
+    "url": "https://tabelog.com/okinawa/A4703/A470301/47021518/",
+    "rating": 3.72,
+    "review_count_tabelog": 267,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Hamburger",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Sat, Sun",
+        "dtl": "11:00 - 15:30 L.O. 15:00",
+        "dtl_text": "11:00 - 15:30 L.O. 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu, Fri",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.7,
+    "google_reviews": 436,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJkz4UUW0S5TQR4Gp9of-97X4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/47021518-bb69c1025fe8a410ee1a3db51f786306b50694a4b01b8d64cc7f5933153cbd98.jpg",
+    "place_id": "ChIJkz4UUW0S5TQR4Gp9of-97X4",
+    "g_name": "ラルフズ バーガーレストラン",
+    "g_rating": 4.7,
+    "g_reviews": 436,
+    "g_address": "日本、〒904-0022 沖縄県沖縄市園田１丁目２−２８",
+    "lat": 26.3317721,
+    "lng": 127.7977187
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "バーガーマニア 広尾店",
+    "name_en": "Burger Mania Hiro Ten",
+    "area": "東京都 広尾駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130703/13123717/",
+    "rating": 3.61,
+    "review_count_tabelog": 860,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Cafe, Pancake",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 22:00",
+        "dtl_text": "11:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 600,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8cAekHKLGGARKVP9qhWQ1ug",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/13123717-01d71aa1c0e2d9942cfb4c81dfb5209b9478c882ab685488561635f267cb3b6c.jpg",
+    "place_id": "ChIJ8cAekHKLGGARKVP9qhWQ1ug",
+    "g_name": "バーガーマニア 広尾店",
+    "g_rating": 4.2,
+    "g_reviews": 600,
+    "g_address": "日本、〒106-0047 東京都港区南麻布５丁目１５−２５ 広尾 六幸館 ２F",
+    "lat": 35.6518496,
+    "lng": 139.7224117
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "Jack37Burger",
+    "name_en": "Jack37Burger",
+    "area": "東京都 小伝馬町駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130204/13186781/",
+    "rating": 3.69,
+    "review_count_tabelog": 1217,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Cafe, Bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Public Holiday",
+        "dtl": "11:30 - 16:00 L.O. 15:30",
+        "dtl_text": "11:30 - 16:00 L.O. 15:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri",
+        "dtl": "11:30 - 16:00 L.O. 15:30 18:00 - 21:30 L.O. 21:00",
+        "dtl_text": "18:00 - 21:30 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "11:30 - 16:30 L.O. 16:00 18:00 - 21:30 L.O. 21:00",
+        "dtl_text": "18:00 - 21:30 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 825,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJj1oZxayOGGARav5eUa_vAk0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/13186781-324cb6b2980ca324a33f1f30fd75db6a5696ebfcdd7f9cb781b368bdd78a9745.jpg",
+    "place_id": "ChIJj1oZxayOGGARav5eUa_vAk0",
+    "g_name": "Jack37Burger",
+    "g_rating": 4.5,
+    "g_reviews": 825,
+    "g_address": "日本、〒103-0001 東京都中央区日本橋小伝馬町１６−１６",
+    "lat": 35.6921549,
+    "lng": 139.7799063
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "アイコウシャ",
+    "name_en": "I-Kousya",
+    "area": "東京都 水道橋駅",
+    "url": "https://tabelog.com/tokyo/A1310/A131003/13006525/",
+    "rating": 3.71,
+    "review_count_tabelog": 1343,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Sandwich, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 17:00 L.O. 16:30",
+        "dtl_text": "11:30 - 17:00 L.O. 16:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 380,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6edLOD6MGGARse6qSI5hyn8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/13006525-38943cb3289b12fd40b44f1e1d60ed226686619df25e91d690a4da1bf6bbb315.jpg",
+    "place_id": "ChIJ6edLOD6MGGARse6qSI5hyn8",
+    "g_name": "アイコウシャ（I-Kousya）",
+    "g_rating": 4.3,
+    "g_reviews": 380,
+    "g_address": "日本、〒101-0065 東京都千代田区西神田１丁目４−１１ サンポウ水道橋ビル 1F",
+    "lat": 35.6999597,
+    "lng": 139.7570221
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "クリッターズバーガー",
+    "name_en": "CRITTERS BURGER",
+    "area": "大阪府 心斎橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270201/27041627/",
+    "rating": 3.68,
+    "review_count_tabelog": 1157,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Pancake, Dining bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 22:00 L.O. 21:00",
+        "dtl_text": "11:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Lunch": {}
+      },
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 1326,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJpwUlnRrnAGAR64kqC-ftbhQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/27041627-4f8857625e28847aa8e00156ada62de1033cb8ca85a0a8e3cf85a97d59c9f397.jpg",
+    "place_id": "ChIJpwUlnRrnAGAR64kqC-ftbhQ",
+    "g_name": "CRITTERS BURGER",
+    "g_rating": 4.4,
+    "g_reviews": 1326,
+    "g_address": "日本、〒542-0086 大阪府大阪市中央区西心斎橋１丁目１０−３５ アルシュ 11 １F",
+    "lat": 34.6742364,
+    "lng": 135.4986347
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "CARLY BURGER",
+    "name_en": "CARLY BURGER",
+    "area": "岐阜県 可児市",
+    "url": "https://tabelog.com/gifu/A2102/A210203/21017158/",
+    "rating": 3.52,
+    "review_count_tabelog": 108,
+    "price_dinner": "～￥999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Sandwich",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "11:30 - 21:30",
+        "dtl_text": "11:30 - 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 275,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQe8ASBARA2ARo3eDEqL8fi8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/21017158-2d12966e0f6cf14877bf18a3d04358f61f847d864301d36a7215811338100fc4.jpg",
+    "place_id": "ChIJQe8ASBARA2ARo3eDEqL8fi8",
+    "g_name": "カーリーバーガー",
+    "g_rating": 4.4,
+    "g_reviews": 275,
+    "g_address": "日本、〒509-0207 岐阜県可児市今渡９−９ ビクトリア今渡1F",
+    "lat": 35.4329316,
+    "lng": 137.03024
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "ヘンリーズ バーガー 代官山",
+    "name_en": "HENRY'S BURGER Daikanyama Daikanyama",
+    "area": "東京都 代官山駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130303/13190156/",
+    "rating": 3.59,
+    "review_count_tabelog": 1334,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Meat dishes, Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 20:00",
+        "dtl_text": "11:00 - 20:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round (with closures during year-end & New Year holidays and summer break)"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 1110,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-dl-7kWLGGARs8XRqb3pGGM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/13190156-d2a8b9c9d3606ac840f21a3d4efb361eaa54839bb497107730ba387b1b31a000.jpg",
+    "place_id": "ChIJ-dl-7kWLGGARs8XRqb3pGGM",
+    "g_name": "ヘンリーズ バーガー 代官山",
+    "g_rating": 4.2,
+    "g_reviews": 1110,
+    "g_address": "日本、〒150-0021 東京都渋谷区恵比寿西１丁目３６−６",
+    "lat": 35.6473938,
+    "lng": 139.7021136
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "ダグズ・バーガー 宮古島本店",
+    "name_en": "DOUG'S BURGER Miyakojima Honten",
+    "area": "沖縄県 宮古島市",
+    "url": "https://tabelog.com/okinawa/A4705/A470503/47009921/",
+    "rating": 3.65,
+    "review_count_tabelog": 1370,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 20:00 L.O. 19:30",
+        "dtl_text": "11:00 - 20:00 L.O. 19:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every third Wednesday of the month (Open all summer)"
+    },
+    "google_rating": 4,
+    "google_reviews": 1902,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJi3AVgglU9DQRGIi_VHFKurA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/47009921-bc00544ad4f6ff935f1e625a1a4663571cd209b0ad6c2ec290b19b66e7b93020.jpg",
+    "place_id": "ChIJi3AVgglU9DQRGIi_VHFKurA",
+    "g_name": "DOUG‘S BURGER",
+    "g_rating": 4,
+    "g_reviews": 1902,
+    "g_address": "日本、〒906-0013 沖縄県宮古島市平良下里１１５３−３−１０１",
+    "lat": 24.7957357,
+    "lng": 125.2868122
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "No.18",
+    "name_en": "No.18",
+    "area": "東京都 池袋駅",
+    "url": "https://tabelog.com/tokyo/A1305/A130501/13172081/",
+    "rating": 3.71,
+    "review_count_tabelog": 1227,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Dining bar, Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 16:00 L.O. 15:00",
+        "dtl_text": "11:00 - 16:00 L.O. 15:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 767,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJT21kF2SNGGARRAG_OpQJdAc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/13172081-3215ba90c336a951110053db8d483c73624a1981a3d7e1f42b10a3484f992f1a.jpg",
+    "place_id": "ChIJT21kF2SNGGARRAG_OpQJdAc",
+    "g_name": "No.18ハンバーガー",
+    "g_rating": 4.4,
+    "g_reviews": 767,
+    "g_address": "日本、〒170-0013 東京都豊島区東池袋２丁目５７−２ コスモ東池袋 １０５",
+    "lat": 35.7331821,
+    "lng": 139.7179286
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "バーガーマニア 恵比寿店",
+    "name_en": "Burger Mania Ebisu Ten",
+    "area": "東京都 恵比寿駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130302/13166437/",
+    "rating": 3.67,
+    "review_count_tabelog": 1309,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Beer bar, Baru (Spanish style bar)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 22:00",
+        "dtl_text": "11:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round (Not fixed)"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 960,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0yIkNxWLGGARxAega2ivf2c",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/13166437-0c727402babb09924f68f4b1024741cc858efff9d3a0c3421f077280049ca0da.jpg",
+    "place_id": "ChIJ0yIkNxWLGGARxAega2ivf2c",
+    "g_name": "Burger Mania Ebisu",
+    "g_rating": 4.2,
+    "g_reviews": 960,
+    "g_address": "日本、〒150-0013 東京都渋谷区恵比寿４丁目９−５",
+    "lat": 35.6459909,
+    "lng": 139.7130692
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "ゴーディーズ",
+    "name_en": "GORDIE’S",
+    "area": "沖縄県 中頭郡北谷町",
+    "url": "https://tabelog.com/okinawa/A4703/A470304/47002074/",
+    "rating": 3.57,
+    "review_count_tabelog": 1030,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 20:00",
+        "dtl_text": "11:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 1895,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJhxuqTKIT5TQR_YjFE_6moIY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/47002074-8be43bf61c94966e6f24e914b9dde35aca90d7bd909aaec173aadfe8aee965e3.jpg",
+    "place_id": "ChIJhxuqTKIT5TQR_YjFE_6moIY",
+    "g_name": "GORDIE'S",
+    "g_rating": 4.5,
+    "g_reviews": 1895,
+    "g_address": "日本、〒904-0111 沖縄県中頭郡北谷町砂辺１００",
+    "lat": 26.3340413,
+    "lng": 127.7474926
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "CENTER4 HAMBURGERS",
+    "name_en": "CENTER4 HAMBURGERS",
+    "area": "岐阜県 高山市",
+    "url": "https://tabelog.com/gifu/A2104/A210401/21009922/",
+    "rating": 3.73,
+    "review_count_tabelog": 396,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Beer bar, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:30 17:30 - 20:30",
+        "dtl_text": "17:30 - 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Occasional closures may occur."
+    },
+    "google_rating": 4.6,
+    "google_reviews": 1256,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJu0g0DNu6AmARjMiC03W7nOc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/21009922-3325f8bd8a69b17ad5bb073c55a6bd41d1e69a789ca9a2e6f6df48255500dc1c.jpg",
+    "place_id": "ChIJu0g0DNu6AmARjMiC03W7nOc",
+    "g_name": "CENTER4 HAMBURGERS",
+    "g_rating": 4.6,
+    "g_reviews": 1256,
+    "g_address": "日本、〒506-0844 岐阜県高山市上一之町９４",
+    "lat": 36.1410647,
+    "lng": 137.2610393
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "JACK's KITCHEN",
+    "name_en": "JACK's KITCHEN",
+    "area": "愛知県 高岳駅",
+    "url": "https://tabelog.com/aichi/A2301/A230104/23052177/",
+    "rating": 3.52,
+    "review_count_tabelog": 294,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Creative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon, Thu - Sun": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 152,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJG-fgot9wA2AR97wbbSCNq2Y",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/23052177-55f49692bf3a11661f41e6b76b067ccf7d61958b89ca3418726e421d8352aeab.jpg",
+    "place_id": "ChIJG-fgot9wA2AR97wbbSCNq2Y",
+    "g_name": "ジャックスキッチン",
+    "g_rating": 4.3,
+    "g_reviews": 152,
+    "g_address": "日本、〒461-0001 愛知県名古屋市東区泉３丁目４−２３ ラ メゾン エスト １階",
+    "lat": 35.1784382,
+    "lng": 136.9203888
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "ブッチャーズテーブル 大泉学園店",
+    "name_en": "BUTCHER'S TABLE Ooizumigakuen Ten",
+    "area": "東京都 大泉学園駅",
+    "url": "https://tabelog.com/tokyo/A1321/A132103/13091061/",
+    "rating": 3.59,
+    "review_count_tabelog": 630,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Sandwich, Beer bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:30 L.O. 15:00 18:00 - 21:00 L.O. 20:00",
+        "dtl_text": "18:00 - 21:00 L.O. 20:00"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 612,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8Y21frnuGGARly8DtFbP3CQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/13091061-3bd59d4a959bb372b0220a485326e67ca00c692ea943c47b38940629a3c289df.jpg",
+    "place_id": "ChIJ8Y21frnuGGARly8DtFbP3CQ",
+    "g_name": "ハンバーガー ブッチャーズテーブル 大泉学園",
+    "g_rating": 4.3,
+    "g_reviews": 612,
+    "g_address": "日本、〒178-0063 東京都練馬区東大泉２丁目９−１８",
+    "lat": 35.7517282,
+    "lng": 139.5938164
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "ハニービー",
+    "name_en": "HONEY BEE",
+    "area": "神奈川県 汐入駅",
+    "url": "https://tabelog.com/kanagawa/A1406/A140601/14000902/",
+    "rating": 3.54,
+    "review_count_tabelog": 1455,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, American",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 21:00",
+        "dtl_text": "11:30 - 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 1736,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJrxvdA3RAGGARjMxUJJa0w2g",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/14000902-0f9352ffff9b1812ec680330676c2aa3c09e4419a977fb4af78cda721c5feb7f.jpg",
+    "place_id": "ChIJrxvdA3RAGGARjMxUJJa0w2g",
+    "g_name": "ハニービー",
+    "g_rating": 4.1,
+    "g_reviews": 1736,
+    "g_address": "日本、〒238-0041 神奈川県横須賀市本町２丁目１ 本町ビル 1F ハニービ",
+    "lat": 35.2822139,
+    "lng": 139.666005
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "エース バーガー カフェ",
+    "name_en": "Ace Burger Cafe",
+    "area": "三重県 伊勢市",
+    "url": "https://tabelog.com/mie/A2403/A240301/24013160/",
+    "rating": 3.56,
+    "review_count_tabelog": 235,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, American, Pancake",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Sun",
+        "dtl": "10:00 - 16:00 L.O. 15:30",
+        "dtl_text": "10:00 - 16:00 L.O. 15:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Fri, Sat",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 307,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__hS-05aBGARnCYLrex_Ib0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/24013160-5615ab78f11ed4e21e0c0d1d1b8db8b47a97fc7c2d9f03645d9f70f5c76d2421.jpg",
+    "place_id": "ChIJ__hS-05aBGARnCYLrex_Ib0",
+    "g_name": "エースバーガーカフェ",
+    "g_rating": 4.2,
+    "g_reviews": 307,
+    "g_address": "日本、〒516-0802 三重県伊勢市御薗町新開７２５−７",
+    "lat": 34.5098512,
+    "lng": 136.7218133
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "レイヤーズ 丸の内 本店",
+    "name_en": "LAYER'S Marunochi Honten",
+    "area": "愛知県 久屋大通駅",
+    "url": "https://tabelog.com/aichi/A2301/A230103/23006213/",
+    "rating": 3.61,
+    "review_count_tabelog": 823,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Hamburger, Cafe, Beer garden",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 22:00 L.O. 21:00",
+        "dtl_text": "11:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 424,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJeSH3QStxA2ARLyTlGuYfThg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/23006213-32651225041cb0a60e01ad2fbb4a58fc3653d19d2544d542ef18bbafd071c782.jpg",
+    "place_id": "ChIJeSH3QStxA2ARLyTlGuYfThg",
+    "g_name": "レイヤーズ",
+    "g_rating": 4.1,
+    "g_reviews": 424,
+    "g_address": "日本、〒460-0002 愛知県名古屋市中区丸の内３丁目８−２６",
+    "lat": 35.1762859,
+    "lng": 136.9040039
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "Burger Stand Tender",
+    "name_en": "Burger Stand Tender",
+    "area": "新潟県 新潟市中央区",
+    "url": "https://tabelog.com/niigata/A1501/A150101/15018604/",
+    "rating": 3.71,
+    "review_count_tabelog": 219,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:30 L.O. 15:00",
+        "dtl_text": "11:00 - 15:30 L.O. 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 269,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJYZ4P2v_J9F8RhR-zwEOxOI0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/15018604-cbf66d4509812cdb77cdf2910a03ff8ae6002d0f29c07feb9125933557c54e05.jpg",
+    "place_id": "ChIJYZ4P2v_J9F8RhR-zwEOxOI0",
+    "g_name": "バーガースタンド テンダー",
+    "g_rating": 4.5,
+    "g_reviews": 269,
+    "g_address": "日本、〒951-8116 新潟県新潟市中央区東中通１番町８６−１２",
+    "lat": 37.9172049,
+    "lng": 139.0375179
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "THE BURGER HEARTS",
+    "name_en": "THE BURGER HEARTS",
+    "area": "岩手県 大船渡市",
+    "url": "https://tabelog.com/iwate/A0304/A030403/3005292/",
+    "rating": 3.71,
+    "review_count_tabelog": 190,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 19:30 L.O. Food 18:30",
+        "dtl_text": "11:30 - 19:30 L.O. Food 18:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 239,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJUbBO0SuniF8RDbIPhAWblkg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/3005292-0cb05cb51da938164c2b78e67911e9651a290e71de43bb68e4c5ba0cf6b7a3a3.jpg",
+    "place_id": "ChIJUbBO0SuniF8RDbIPhAWblkg",
+    "g_name": "The Burger Hearts",
+    "g_rating": 4.5,
+    "g_reviews": 239,
+    "g_address": "日本、〒022-0003 岩手県大船渡市盛町町９−５",
+    "lat": 39.0870703,
+    "lng": 141.7094486
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "ヒッチ ハイカーズ バーガー スタンド",
+    "name_en": "HITCH HIKERS BURGER STAND",
+    "area": "群馬県 前橋市",
+    "url": "https://tabelog.com/gunma/A1001/A100101/10019951/",
+    "rating": 3.48,
+    "review_count_tabelog": 73,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri, Sat",
+        "dtl": "11:30 - 14:30 L.O. 14:00 17:30 - 21:00 L.O. 20:30",
+        "dtl_text": "17:30 - 21:00 L.O. 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:30 - 15:00",
+        "dtl_text": "11:30 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 71,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ19k_vvbzHmARxCRveL2GcXo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/10019951-13a871d5189ebf7c7f947dee06cb9bf00bf6be526a577e348a9c02ed461a89d7.jpg",
+    "place_id": "ChIJ19k_vvbzHmARxCRveL2GcXo",
+    "g_name": "HITCH HIKERS BURGER STAND",
+    "g_rating": 4.1,
+    "g_reviews": 71,
+    "g_address": "日本、〒371-0018 群馬県前橋市三俣町３丁目２７−３",
+    "lat": 36.3994303,
+    "lng": 139.0883823
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "ザ・コーナー ハンバーガー＆サルーン",
+    "name_en": "THE CORNER Hamburger & Saloon",
+    "area": "愛知県 国際センター駅",
+    "url": "https://tabelog.com/aichi/A2301/A230101/23036425/",
+    "rating": 3.7,
+    "review_count_tabelog": 840,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Cafe, Dining bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri",
+        "dtl": "11:00 - 15:00 L.O. 14:00 19:00 - 00:00 L.O. 23:00",
+        "dtl_text": "19:00 - 00:00 L.O. 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "11:00 - 15:00 L.O. 14:00",
+        "dtl_text": "11:00 - 15:00 L.O. 14:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "10:00 - 19:00 L.O. 18:00",
+        "dtl_text": "10:00 - 19:00 L.O. 18:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 656,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJN0u6ocR2A2ARZ5s23ZxbLA0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/23036425-144cd480314df0374586b703b45c6fc875786813d823008b7d97195613da7f1b.jpg",
+    "place_id": "ChIJN0u6ocR2A2ARZ5s23ZxbLA0",
+    "g_name": "THE CORNER Hamburger & Saloon",
+    "g_rating": 4.2,
+    "g_reviews": 656,
+    "g_address": "日本、〒451-0042 愛知県名古屋市西区那古野２丁目１８−７ いなだ第一マンション １Ｆ",
+    "lat": 35.1757601,
+    "lng": 136.8885236
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "魔女のちいさな森のハンバーガー",
+    "name_en": "Majo no Chiisana Mori no Hamburger",
+    "area": "東京都 自由が丘駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131703/13054778/",
+    "rating": 3.65,
+    "review_count_tabelog": 971,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Cafe, Organic",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 20:00 L.O. 19:00",
+        "dtl_text": "11:30 - 20:00 L.O. 19:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 485,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ74glfh_1GGARXxNndkExg-8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/13054778-d572f59f453d8bbfdbde850d5b815e9bb79946c7ff7ea5e0ad029ba093e6fc86.jpg",
+    "place_id": "ChIJ74glfh_1GGARXxNndkExg-8",
+    "g_name": "自由が丘バーガー 本店",
+    "g_rating": 4.2,
+    "g_reviews": 485,
+    "g_address": "日本、〒152-0035 東京都目黒区自由が丘１丁目３−１５ 4F",
+    "lat": 35.6084553,
+    "lng": 139.6706901
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "Reg-On Diner 渋谷本店",
+    "name_en": "Reg-On Diner Shibuya Honten",
+    "area": "東京都 渋谷駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130301/13054359/",
+    "rating": 3.67,
+    "review_count_tabelog": 1219,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Cafe, American",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:00 - 20:00 L.O. 19:45",
+        "dtl_text": "11:00 - 20:00 L.O. 19:45"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 486,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGRNgFl2LGGARRALrT_3quOQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/13054359-0beadb47abb7348871ff199984de05d98ec4511b325f16250b30c17f8d4a6969.jpg",
+    "place_id": "ChIJGRNgFl2LGGARRALrT_3quOQ",
+    "g_name": "Reg-On Diner",
+    "g_rating": 4.3,
+    "g_reviews": 486,
+    "g_address": "日本、〒150-0011 東京都渋谷区東１丁目８−１ K HOUSE 1F",
+    "lat": 35.6555537,
+    "lng": 139.709875
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "オールドニューダイナー",
+    "name_en": "OLD NEW DINER",
+    "area": "東京都 西国立駅",
+    "url": "https://tabelog.com/tokyo/A1329/A132901/13196856/",
+    "rating": 3.63,
+    "review_count_tabelog": 732,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Dining bar, Bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 21:00 L.O. 20:30",
+        "dtl_text": "11:00 - 21:00 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (Open if Monday is a public holiday; the following Tuesday will be closed.)"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 674,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJz_yzpWPhGGARCPo1JvrZG_I",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/13196856-a40081191a00ed3d6fe1542bc0fed519d85c9d6e62a9414addbc854b8a1ca66f.jpg",
+    "place_id": "ChIJz_yzpWPhGGARCPo1JvrZG_I",
+    "g_name": "OLDNEWDINER",
+    "g_rating": 4.4,
+    "g_reviews": 674,
+    "g_address": "日本、〒190-0022 東京都立川市錦町１丁目８−５ イーグル立川 1F",
+    "lat": 35.695666,
+    "lng": 139.419065
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "ラッキーピエロ ベイエリア本店",
+    "name_en": "LUCKY PIERROT Beieria Honten",
+    "area": "北海道 函館市",
+    "url": "https://tabelog.com/hokkaido/A0105/A010501/1000019/",
+    "rating": 3.5,
+    "review_count_tabelog": 1538,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Hamburger, Katsu-don (Pork cutlet bowl), Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "10:00 - 21:00 L.O. Food 20:30 Drinks 20:45",
+        "dtl_text": "10:00 - 21:00 L.O. Food 20:30 Drinks 20:45",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 5803,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_____57znl8RaGQJufpTH28",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/1000019-e00b328f392a9caefbdb9228f09d51523a52de57b7f2f872d730bde0b8350bde.jpg",
+    "place_id": "ChIJ_____57znl8RaGQJufpTH28",
+    "g_name": "ラッキーピエロ 函館駅前店",
+    "g_rating": 4,
+    "g_reviews": 5803,
+    "g_address": "日本、〒040-0063 北海道函館市若松町８−８ ２階",
+    "lat": 41.7717666,
+    "lng": 140.7255401
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "66",
+    "name_en": "66",
+    "area": "千葉県 柏駅",
+    "url": "https://tabelog.com/chiba/A1203/A120301/12004138/",
+    "rating": 3.66,
+    "review_count_tabelog": 675,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu",
+        "dtl": "11:30 - 22:00 L.O. 21:00",
+        "dtl_text": "11:30 - 22:00 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Fri",
+        "dtl": "11:30 - 23:00 L.O. 22:00",
+        "dtl_text": "11:30 - 23:00 L.O. 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:00 - 23:00 L.O. 22:00",
+        "dtl_text": "11:00 - 23:00 L.O. 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "11:00 - 21:00 L.O. 20:00",
+        "dtl_text": "11:00 - 21:00 L.O. 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4,
+    "google_reviews": 442,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJXTuBlt2cGGARHpQE7p5cUiY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/12004138-1e1a63f83da2b448787c7e2478d3befe855b5fd93a53cdc49008995cf9e4c231.jpg",
+    "place_id": "ChIJXTuBlt2cGGARHpQE7p5cUiY",
+    "g_name": "66(ダブルシックス)",
+    "g_rating": 4,
+    "g_reviews": 442,
+    "g_address": "日本、〒277-0021 千葉県柏市中央町４",
+    "lat": 35.8586466,
+    "lng": 139.9709827
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "The Burger Stand N’s",
+    "name_en": "The Burger Stand N’s",
+    "area": "愛知県 池下駅",
+    "url": "https://tabelog.com/aichi/A2301/A230106/23066099/",
+    "rating": 3.52,
+    "review_count_tabelog": 575,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:00 - 21:00 L.O. 20:30",
+        "dtl_text": "11:00 - 21:00 L.O. 20:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 348,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJnZjHZGFwA2ARSXwXok_j3RQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/23066099-45276bcefb6ad2d890c905db9f6771460eae8a8ea741277ef2fd04390d572d3b.jpg",
+    "place_id": "ChIJnZjHZGFwA2ARSXwXok_j3RQ",
+    "g_name": "The Burger Stand N's＋B",
+    "g_rating": 4.1,
+    "g_reviews": 348,
+    "g_address": "日本、〒464-0067 愛知県名古屋市千種区池下１丁目４−２０",
+    "lat": 35.1684022,
+    "lng": 136.9446932
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "CHATTY CHATTY",
+    "name_en": "CHATTY CHATTY",
+    "area": "東京都 新宿御苑前駅",
+    "url": "https://tabelog.com/tokyo/A1304/A130402/13171395/",
+    "rating": 3.57,
+    "review_count_tabelog": 840,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Cafe, Bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:00 - 20:30 L.O. 20:00",
+        "dtl_text": "11:00 - 20:30 L.O. 20:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "None"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 1922,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4Uyv6umMGGARXa59RI6p5vk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/13171395-fc544e8bc03ea9b8de0f125401a0d83b3579e066cc49918c11aebd6779265b6b.jpg",
+    "place_id": "ChIJ4Uyv6umMGGARXa59RI6p5vk",
+    "g_name": "burger kitchen CHATTY CHATTY",
+    "g_rating": 4.5,
+    "g_reviews": 1922,
+    "g_address": "日本、〒160-0022 東京都新宿区新宿１丁目１２−１",
+    "lat": 35.6888283,
+    "lng": 139.7128672
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "マンチズ バーガー シャック",
+    "name_en": "MUNCH'S BURGER SHACK",
+    "area": "東京都 芝公園駅",
+    "url": "https://tabelog.com/tokyo/A1314/A131401/13121856/",
+    "rating": 3.77,
+    "review_count_tabelog": 2635,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, American, Dining bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri",
+        "dtl": "11:00 - 14:30 17:30 - 20:00",
+        "dtl_text": "17:30 - 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "11:00 - 15:00 17:30 - 20:00",
+        "dtl_text": "17:30 - 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Public Holiday",
+        "dtl": "11:00 - 15:30",
+        "dtl_text": "11:00 - 15:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "November 24 (Public Holiday, Mon) Lunch 11:00 - 15:30 (No dinner service)"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 2378,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJSdE_xbeLGGARAJ81ubQroH4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/13121856-9f620c443ca44ce0735de3ce2061a05079a6738e75583199f476dc0115995900.jpg",
+    "place_id": "ChIJSdE_xbeLGGARAJ81ubQroH4",
+    "g_name": "MUNCH'S BURGER SHACK 芝公園本店",
+    "g_rating": 4.4,
+    "g_reviews": 2378,
+    "g_address": "日本、〒105-0014 東京都港区芝２丁目２６−１ I・SMARTビル 1F・2F",
+    "lat": 35.6510213,
+    "lng": 139.7518265
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "CENTRAL BURGER SHOP",
+    "name_en": "CENTRAL BURGER SHOP",
+    "area": "神奈川県 石川町駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140105/14087178/",
+    "rating": 3.68,
+    "review_count_tabelog": 512,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 22:00 L.O. Food 21:00 Drinks 21:30",
+        "dtl_text": "11:00 - 22:00 L.O. Food 21:00 Drinks 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 339,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQxzXwu1dGGAR93aROzZV0AU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/14087178-78d838e4be2d154f2d436eee22a38a84ce92d0394ca809115ca911b8fdb56906.jpg",
+    "place_id": "ChIJQxzXwu1dGGAR93aROzZV0AU",
+    "g_name": "CENTRAL BURGER SHOP",
+    "g_rating": 4.3,
+    "g_reviews": 339,
+    "g_address": "日本、〒231-0868 神奈川県横浜市中区石川町２丁目８５−５",
+    "lat": 35.4375602,
+    "lng": 139.6422109
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "マクレーン オールドバーガースタンド",
+    "name_en": "McLean -old burger stand-",
+    "area": "東京都 蔵前駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131103/13195774/",
+    "rating": 3.65,
+    "review_count_tabelog": 784,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 21:00 L.O. Food 20:30",
+        "dtl_text": "11:30 - 21:00 L.O. Food 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:30 - 19:00",
+        "dtl_text": "11:30 - 19:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Third Monday of each month"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 312,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJaYZODVWPGGARM3mdeD_MQe8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/13195774-043aa3eb595b0ab0cdc697465edff0078e98063459eb9344b0ece0cee36e371e.jpg",
+    "place_id": "ChIJaYZODVWPGGARM3mdeD_MQe8",
+    "g_name": "McLean-OLD FASHIONED DINER-",
+    "g_rating": 4.5,
+    "g_reviews": 312,
+    "g_address": "日本、〒111-0051 東京都台東区蔵前２丁目５−４",
+    "lat": 35.7029725,
+    "lng": 139.7911604
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "ハングリー ヘブン 目黒店",
+    "name_en": "HUNGRY HEAVEN Meguro Ten",
+    "area": "東京都 目黒駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131601/13119994/",
+    "rating": 3.52,
+    "review_count_tabelog": 1241,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 16:00 L.O. 15:30",
+        "dtl_text": "11:00 - 16:00 L.O. 15:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 16:30 L.O. 16:00",
+        "dtl_text": "11:00 - 16:30 L.O. 16:00"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 759,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJUVni3RiLGGARpH7JcN61Xyc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/13119994-af412567767a38d7ac553964fcbd83dbf65e347696567668d446bdec2225a619.jpg",
+    "place_id": "ChIJUVni3RiLGGARpH7JcN61Xyc",
+    "g_name": "ハングリーへブン 目黒店",
+    "g_rating": 4.1,
+    "g_reviews": 759,
+    "g_address": "日本、〒153-0064 東京都目黒区下目黒１丁目２−２２ セザール目黒 2F",
+    "lat": 35.6339343,
+    "lng": 139.713676
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "BURGER&MILKSHAKE CRANE",
+    "name_en": "CRANE",
+    "area": "東京都 末広町駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131101/13202745/",
+    "rating": 3.58,
+    "review_count_tabelog": 1071,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Cafe, American",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 21:30 L.O. 21:00",
+        "dtl_text": "11:30 - 21:30 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 1281,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJvQxLuB-MGGARJALXYm8Bszs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/13202745-280d3e093df9bef1ce926d8238ef6c366272e21a3511dcd64416b931cb9e569f.jpg",
+    "place_id": "ChIJvQxLuB-MGGARJALXYm8Bszs",
+    "g_name": "BURGER & MILKSHAKE CRANE",
+    "g_rating": 4.5,
+    "g_reviews": 1281,
+    "g_address": "日本、〒101-0021 東京都千代田区外神田６丁目１６−３ 国際6163ビル",
+    "lat": 35.7049756,
+    "lng": 139.7714255
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "THE GREAT BURGER",
+    "name_en": "THE GREAT BURGER",
+    "area": "東京都 明治神宮前駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130601/13042654/",
+    "rating": 3.71,
+    "review_count_tabelog": 2779,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Pancake, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 22:00 L.O. 21:30",
+        "dtl_text": "11:30 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 22:00 L.O. 21:30",
+        "dtl_text": "11:00 - 22:00 L.O. 21:30"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 2443,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJFxfAKKSMGGAR1Y9CEkP_nG0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/13042654-0340f9e09dda4cc35837fcebf1c61ff835f5ad69c2405d80d7edaae48cd5774e.jpg",
+    "place_id": "ChIJFxfAKKSMGGAR1Y9CEkP_nG0",
+    "g_name": "THE GREAT BURGER",
+    "g_rating": 4.2,
+    "g_reviews": 2443,
+    "g_address": "日本、〒150-0001 東京都渋谷区神宮前６丁目１２−５",
+    "lat": 35.666222,
+    "lng": 139.704688
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "BRISK STAND 神戸本店",
+    "name_en": "BRISK STAND Kobe Honten",
+    "area": "兵庫県 花隈駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280102/28054419/",
+    "rating": 3.58,
+    "review_count_tabelog": 544,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "10:30 - 16:30 L.O. 16:00",
+        "dtl_text": "10:30 - 16:30 L.O. 16:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "10:30 - 18:30 L.O. 18:00",
+        "dtl_text": "10:30 - 18:30 L.O. 18:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "*Please check our Instagram for any temporary closures."
+    },
+    "google_rating": 4.6,
+    "google_reviews": 1172,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJWy_ze--PAGAR9Jv2yIVIMGU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/28054419-347798a45f550b2213dcaa651bb7133f77155a2f59634701fe345fe32ac622f2.jpg",
+    "place_id": "ChIJWy_ze--PAGAR9Jv2yIVIMGU",
+    "g_name": "BRISK STAND 神戸本店(ブリスクスタンド神戸本店)",
+    "g_rating": 4.6,
+    "g_reviews": 1172,
+    "g_address": "日本、〒650-0022 兵庫県神戸市中央区元町通５丁目４−８ 三木ビル 1F",
+    "lat": 34.685346,
+    "lng": 135.181772
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "アルデバラン",
+    "name_en": "ALDEBARAN",
+    "area": "東京都 麻布十番駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130702/13278678/",
+    "rating": 3.98,
+    "review_count_tabelog": 1197,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Hamburger, Creative, Meat dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 21:00",
+        "dtl_text": "11:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 383,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJFwt-TsmLGGARYAnlRz5N7u8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/13278678-6fa1f3a4c488fbb0a81cce8325f4e17b24de6dec60d6fdeace9874c6c76bb60c.jpg",
+    "place_id": "ChIJFwt-TsmLGGARYAnlRz5N7u8",
+    "g_name": "アルデバラン",
+    "g_rating": 4.4,
+    "g_reviews": 383,
+    "g_address": "日本、〒106-0045 東京都港区麻布十番３丁目３−１ 三喜ビル 3Ｆ",
+    "lat": 35.6538103,
+    "lng": 139.7352952
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "ズートンズ 久茂地店",
+    "name_en": "Zooton's Kumoji Ten",
+    "area": "沖縄県 那覇市",
+    "url": "https://tabelog.com/okinawa/A4701/A470101/47002146/",
+    "rating": 3.65,
+    "review_count_tabelog": 865,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Cafe, Dining bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 20:00",
+        "dtl_text": "11:00 - 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Sun",
+        "dtl": "11:00 - 15:30",
+        "dtl_text": "11:00 - 15:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 844,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9eV-t3dp5TQRe4-7-sPk7JI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/47002146-ea7d2b003d2d9340ed2ba6d7166504668dcb3f12b33e4937945ee818b2734c08.jpg",
+    "place_id": "ChIJ9eV-t3dp5TQRe4-7-sPk7JI",
+    "g_name": "Zooton's ズートンズ",
+    "g_rating": 4.4,
+    "g_reviews": 844,
+    "g_address": "日本、〒900-0015 沖縄県那覇市久茂地３丁目４−９ 河田ビル",
+    "lat": 26.2148601,
+    "lng": 127.6827344
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "ムースヒルズバーガー",
+    "name_en": "MOOSE HILLS BURGER",
+    "area": "山梨県 南都留郡富士河口湖町",
+    "url": "https://tabelog.com/yamanashi/A1903/A190303/19003886/",
+    "rating": 3.68,
+    "review_count_tabelog": 897,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 16:00 L.O. 15:30 17:30 - 20:00 L.O. 19:30",
+        "dtl_text": "17:30 - 20:00 L.O. 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 16:00 L.O. 15:30 17:30 - 21:00 L.O. 20:30",
+        "dtl_text": "17:30 - 21:00 L.O. 20:30"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 1826,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVJLOJfGWARO3JbeDTJ2OA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/19003886-680e38c18b5d25a0bb05b02834c9b7fab00f985edc90d7b12fc4204ff15009bf.jpg",
+    "place_id": "ChIJVVVJLOJfGWARO3JbeDTJ2OA",
+    "g_name": "ムースヒルズバーガー",
+    "g_rating": 4.3,
+    "g_reviews": 1826,
+    "g_address": "日本、〒401-0310 山梨県南都留郡富士河口湖町勝山３２９０−１",
+    "lat": 35.4866412,
+    "lng": 138.7337518
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "ドロール ダイナー",
+    "name_en": "DROOL DINER",
+    "area": "茨城県 つくば市",
+    "url": "https://tabelog.com/ibaraki/A0802/A080201/8023963/",
+    "rating": 3.64,
+    "review_count_tabelog": 89,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 14:00",
+        "dtl_text": "11:30 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 148,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJOQmGEgUJImARaqVAzdN_WRs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/8023963-c61623a568be0276525a9785e5d79860f0a6359f95a96c4ee4395a816332567c.jpg",
+    "place_id": "ChIJOQmGEgUJImARaqVAzdN_WRs",
+    "g_name": "Drool Diner",
+    "g_rating": 4.2,
+    "g_reviews": 148,
+    "g_address": "日本、〒300-2647 茨城県つくば市手子生９２４−７",
+    "lat": 36.1064645,
+    "lng": 140.0307383
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "Gui's Burger by Humans of Wagyu",
+    "name_en": "Gui's Burger by Humans of Wagyu",
+    "area": "兵庫県 芦屋（阪神）駅",
+    "url": "https://tabelog.com/hyogo/A2803/A280302/28065298/",
+    "rating": 3.66,
+    "review_count_tabelog": 282,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.7,
+    "google_reviews": 223,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJlRqR85PzAGARcK-eZjbMW9k",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/28065298-2358f23ae476cc415801e43c9da41a65e4e6d640ce0ce7b82fefa83b13aaced7.jpg",
+    "place_id": "ChIJlRqR85PzAGARcK-eZjbMW9k",
+    "g_name": "Gui's Burger ギーズバーガー芦屋",
+    "g_rating": 4.7,
+    "g_reviews": 223,
+    "g_address": "日本、〒659-0066 兵庫県芦屋市大桝町７−４",
+    "lat": 34.7290906,
+    "lng": 135.3060149
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "ラコスバーガー",
+    "name_en": "RACCOS BURGER",
+    "area": "岡山県 岡山市北区",
+    "url": "https://tabelog.com/okayama/A3301/A330101/33000365/",
+    "rating": 3.54,
+    "review_count_tabelog": 270,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "12:00 - 00:00 L.O. Food 23:00 Drinks 23:30",
+        "dtl_text": "12:00 - 00:00 L.O. Food 23:00 Drinks 23:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 184,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7cfh-DUGVDURY83HZx2fT_E",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/33000365-75f087a566dd7c5731e36c2c48d6942656ff29af2ee4d18f67c0ff4f5ac382bb.jpg",
+    "place_id": "ChIJ7cfh-DUGVDURY83HZx2fT_E",
+    "g_name": "ラコスバーガー",
+    "g_rating": 4,
+    "g_reviews": 184,
+    "g_address": "日本、〒700-0826 岡山県岡山市北区磨屋町５−１９",
+    "lat": 34.6638946,
+    "lng": 133.9247516
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "Nick&Renée 豊中本店",
+    "name_en": "Nick&Renée Toyonaka Honten",
+    "area": "大阪府 豊中市",
+    "url": "https://tabelog.com/osaka/A2706/A270602/27043816/",
+    "rating": 3.65,
+    "review_count_tabelog": 520,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Hamburger",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "11:00 - 15:00 L.O. 14:30",
+        "dtl_text": "11:00 - 15:00 L.O. 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu, Fri, Sat",
+        "dtl": "11:00 - 15:00 L.O. 14:30 18:00 - 21:00 L.O. 20:30",
+        "dtl_text": "18:00 - 21:00 L.O. 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "11:00 - 15:00 L.O. 14:30 18:00 - 20:00 L.O. 19:30",
+        "dtl_text": "18:00 - 20:00 L.O. 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays and Wednesdays (open on public holidays)"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 470,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJqfrMV9v6AGAR0WAzJNB-9bs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/27043816-3f7d75a534780995095153dbaac7bbe52c02bf88ec32c3cb4f89ff6bc08cc051.jpg",
+    "place_id": "ChIJqfrMV9v6AGAR0WAzJNB-9bs",
+    "g_name": "ニック&レネイ",
+    "g_rating": 4.4,
+    "g_reviews": 470,
+    "g_address": "日本、〒560-0003 大阪府豊中市東豊中町６丁目１−１１",
+    "lat": 34.7937211,
+    "lng": 135.4786023
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "ビッグスマイル",
+    "name_en": "BIG SMILE",
+    "area": "茨城県 取手市",
+    "url": "https://tabelog.com/ibaraki/A0803/A080301/8000941/",
+    "rating": 3.7,
+    "review_count_tabelog": 278,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 15:00 L.O. 14:30 18:00 - 20:30 L.O. 20:00",
+        "dtl_text": "18:00 - 20:30 L.O. 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 19:30 L.O. 19:00",
+        "dtl_text": "11:00 - 19:30 L.O. 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 265,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6z3Hc6dGGARPHDAprzjxu4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/8000941-16e34026f75ed8c45d0b7e262f8f7da05ca5a4e03b89dfa031b2bb8412a5f1c0.jpg",
+    "place_id": "ChIJq6z3Hc6dGGARPHDAprzjxu4",
+    "g_name": "ビッグスマイル",
+    "g_rating": 4.5,
+    "g_reviews": 265,
+    "g_address": "日本、〒302-0034 茨城県取手市戸頭２丁目３−１２",
+    "lat": 35.9196386,
+    "lng": 140.016401
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "コディーズ",
+    "name_en": "codie's",
+    "area": "神奈川県 元町・中華街駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140105/14077868/",
+    "rating": 3.74,
+    "review_count_tabelog": 571,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 22:00 L.O. Food 21:30",
+        "dtl_text": "11:00 - 22:00 L.O. Food 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.6,
+    "google_reviews": 434,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3-UWtKJdGGARF5-1Zy9myRs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/14077868-901b5b0425708c65ef0465c6d8f7b2e142d13f3e46e816150899b77795a7a8b9.jpg",
+    "place_id": "ChIJ3-UWtKJdGGARF5-1Zy9myRs",
+    "g_name": "codie's",
+    "g_rating": 4.6,
+    "g_reviews": 434,
+    "g_address": "日本、〒231-0801 神奈川県横浜市中区新山下１丁目５−７",
+    "lat": 35.4420587,
+    "lng": 139.6547713
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "チョッパーズ",
+    "name_en": "CHOPPERS HAMBURGER & CAFE",
+    "area": "埼玉県 小手指駅",
+    "url": "https://tabelog.com/saitama/A1106/A110601/11040099/",
+    "rating": 3.73,
+    "review_count_tabelog": 279,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Sat, Sun",
+        "dtl": "11:30 - 15:30 L.O. 15:00",
+        "dtl_text": "11:30 - 15:30 L.O. 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Fri",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Dinner service will be available on the 2nd and 3rd Saturdays starting in June, from 18:00 to last order at 20:00, closing at 20:30."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 293,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVWBEmXeGGARTbqmIN6KetI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/11040099-823e234a50a23d1f3c1023afa963d6f29c8bcaf377bdbafbdd9762a5675685a3.jpg",
+    "place_id": "ChIJVVWBEmXeGGARTbqmIN6KetI",
+    "g_name": "チョッパーズ ハンバーガー & カフェ",
+    "g_rating": 4.4,
+    "g_reviews": 293,
+    "g_address": "日本、〒359-1141 埼玉県所沢市小手指町３丁目１１−１９ メイゾン小手指弐番館 1階",
+    "lat": 35.8007426,
+    "lng": 139.434437
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "THE BURGER STAND FELLOWS",
+    "name_en": "THE BURGER STAND FELLOWS",
+    "area": "東京都 表参道駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130602/13020792/",
+    "rating": 3.67,
+    "review_count_tabelog": 1418,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, American",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 16:00 L.O. 15:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:30 - 18:30",
+        "dtl_text": "11:30 - 18:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (open on public holidays, closed the following Tuesday) and the second Tuesday of each month."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 602,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJj4FqR6CMGGARxpEKkocEE2E",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/13020792-e2e12e659ab14d4791e21f2c0c4b4eb6d42d6d58ba1e603db0f8af940c0dbd87.jpg",
+    "place_id": "ChIJj4FqR6CMGGARxpEKkocEE2E",
+    "g_name": "フェローズ",
+    "g_rating": 4.2,
+    "g_reviews": 602,
+    "g_address": "日本、〒107-0061 東京都港区北青山３丁目８−１１",
+    "lat": 35.6649611,
+    "lng": 139.7102387
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "BAKERY & BURGER JB'S TOKYO",
+    "name_en": "JB's TOKYO",
+    "area": "東京都 代々木駅",
+    "url": "https://tabelog.com/tokyo/A1304/A130403/13260771/",
+    "rating": 3.61,
+    "review_count_tabelog": 1018,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Hamburger",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 22:00 L.O. 21:30",
+        "dtl_text": "11:00 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 753,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJI42jra-NGGARz8-Vdy1WPx4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/13260771-3a20598f1ef7e29e65eb1e00220b090d2fb974fad834d3a301f063b465771eda.jpg",
+    "place_id": "ChIJI42jra-NGGARz8-Vdy1WPx4",
+    "g_name": "BAKERY & BURGER JB'S TOKYO",
+    "g_rating": 4.5,
+    "g_reviews": 753,
+    "g_address": "日本、〒151-0053 東京都渋谷区代々木１丁目３３−３",
+    "lat": 35.68279920000001,
+    "lng": 139.7021823
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "ヒカリ 本店",
+    "name_en": "Hikari Hon Ten",
+    "area": "長崎県 佐世保市",
+    "url": "https://tabelog.com/nagasaki/A4202/A420201/42000079/",
+    "rating": 3.53,
+    "review_count_tabelog": 424,
+    "price_dinner": "～￥999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 17:00 L.O. 16:40",
+        "dtl_text": "10:00 - 17:00 L.O. 16:40",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 1185,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJV59pJUiUajURVIqgt5m3Lfg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/42000079-bd86baacdf0f33fb2c6294f28bb9596e9694cbd03f8ebc5241feeaf89aa8dcbd.jpg",
+    "place_id": "ChIJV59pJUiUajURVIqgt5m3Lfg",
+    "g_name": "ハンバーガーショップ ヒカリ本店",
+    "g_rating": 4,
+    "g_reviews": 1185,
+    "g_address": "日本、〒857-0047 長崎県佐世保市矢岳町１−１",
+    "lat": 33.1731994,
+    "lng": 129.7130958
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "シェイクツリー バーガー＆バー",
+    "name_en": "shake tree burger&bar",
+    "area": "東京都 錦糸町駅",
+    "url": "https://tabelog.com/tokyo/A1312/A131201/13134063/",
+    "rating": 3.67,
+    "review_count_tabelog": 1606,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Bar, American",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 15:00 L.O. Food 14:30 17:00 - 20:30 L.O. Food 20:00",
+        "dtl_text": "17:00 - 20:30 L.O. Food 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 20:30 L.O. 20:00",
+        "dtl_text": "11:00 - 20:30 L.O. 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 1693,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJs3na3i2JGGARJLQ9YwH-Prk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/13134063-6e3957639c652cd7e7ee244087c65ee82a964c14d5a0f289e1deda1e8b7964fa.jpg",
+    "place_id": "ChIJs3na3i2JGGARJLQ9YwH-Prk",
+    "g_name": "Shake Tree Burger & Bar",
+    "g_rating": 4.4,
+    "g_reviews": 1693,
+    "g_address": "日本、〒130-0014 東京都墨田区亀沢３丁目１３−６ 岩崎ビル 1F",
+    "lat": 35.6972082,
+    "lng": 139.8051498
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "ファイヤーハウス",
+    "name_en": "FIRE HOUSE",
+    "area": "東京都 本郷三丁目駅",
+    "url": "https://tabelog.com/tokyo/A1310/A131004/13003538/",
+    "rating": 3.67,
+    "review_count_tabelog": 2914,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Restaurants, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 21:30 L.O. 21:00",
+        "dtl_text": "11:00 - 21:30 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round (please inquire about Year-end & New Year holidays)"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 66,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJy1bEyDyMGGAR1YV7AF0Owvw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/13003538-9cdab4f31002596f5f6cbc9ddc55d8db97d365c07535bb06b38958623676403b.jpg",
+    "place_id": "ChIJy1bEyDyMGGAR1YV7AF0Owvw",
+    "g_name": "FIRE HOUSE DELIVERY SERVICE",
+    "g_rating": 4.1,
+    "g_reviews": 66,
+    "g_address": "日本、〒113-0033 東京都文京区本郷３丁目２７−２ 興正ビル",
+    "lat": 35.7059028,
+    "lng": 139.7620795
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "ブラザーズ 新富町店",
+    "name_en": "BROZERS' Shintomichoten",
+    "area": "東京都 新富町駅",
+    "url": "https://tabelog.com/tokyo/A1313/A131301/13144295/",
+    "rating": 3.56,
+    "review_count_tabelog": 1257,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Cafe, Sandwich",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 21:30 L.O. 21:00",
+        "dtl_text": "11:00 - 21:30 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round (except for Year-end & New Year Holidays)"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 1093,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ9ULI-CLGGARrT7RpkW4WQE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/13144295-758243c014b114f99e24852d13fae6f1c301d99c0502733021486875c4962b06.jpg",
+    "place_id": "ChIJJ9ULI-CLGGARrT7RpkW4WQE",
+    "g_name": "ブラザーズ 新富町店",
+    "g_rating": 4.2,
+    "g_reviews": 1093,
+    "g_address": "日本、〒104-0041 東京都中央区新富２丁目２−１１",
+    "lat": 35.6714616,
+    "lng": 139.7723771
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "Burger POLICE",
+    "name_en": "Burger POLICE",
+    "area": "東京都 都立大学駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131702/13255370/",
+    "rating": 3.75,
+    "review_count_tabelog": 1078,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Hamburger, Bistro, Baru (Spanish style bar)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri",
+        "dtl": "11:30 - 15:00 L.O. 14:30 17:00 - 22:00 L.O. 21:30",
+        "dtl_text": "17:00 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 17:00 17:00 - 21:00 L.O. 20:30",
+        "dtl_text": "17:00 - 21:00 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Lunch menu available until 17:00."
+    },
+    "google_rating": 4.1,
+    "google_reviews": 250,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJK-8U8z31GGARjeZP1U2AMA4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/13255370-0f195b0b5f8c5c2c06b840969eea582d47d90135673aeede15d484b62632a5d8.jpg",
+    "place_id": "ChIJK-8U8z31GGARjeZP1U2AMA4",
+    "g_name": "Burger POLICE",
+    "g_rating": 4.1,
+    "g_reviews": 250,
+    "g_address": "日本、〒152-0003 東京都目黒区碑文谷４丁目２４−１６ モナーク碑文谷 １０４",
+    "lat": 35.620656,
+    "lng": 139.6809679
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "THE BURGER SHOP",
+    "name_en": "The Burger Shop Kioichō",
+    "area": "東京都 麹町駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130803/13217432/",
+    "rating": 3.59,
+    "review_count_tabelog": 613,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 21:00",
+        "dtl_text": "11:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 18:00",
+        "dtl_text": "11:00 - 18:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 432,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1848dHuMGGARXBhI37ipM80",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/13217432-6bd24900ca38a4cc17506c0381873d75868bd2e3b5baca0ca1a8c781b6fd440d.jpg",
+    "place_id": "ChIJ1848dHuMGGARXBhI37ipM80",
+    "g_name": "THE BURGER SHOP 紀尾井町店",
+    "g_rating": 4.3,
+    "g_reviews": 432,
+    "g_address": "日本、〒102-0094 東京都千代田区紀尾井町３−２８ ADMIRAL 紀尾井町 1F",
+    "lat": 35.6819287,
+    "lng": 139.7380773
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "ザグッドベアーバーガー",
+    "name_en": "The Good Bear Burger",
+    "area": "群馬県 高崎市",
+    "url": "https://tabelog.com/gunma/A1001/A100102/10014094/",
+    "rating": 3.67,
+    "review_count_tabelog": 300,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Hamburger",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat",
+        "dtl": "11:00 - 15:30 L.O. 14:50 17:30 - 22:00 L.O. 21:20",
+        "dtl_text": "17:30 - 22:00 L.O. 21:20"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:00 - 15:30 L.O. 14:50 17:30 - 21:00 L.O. 20:20",
+        "dtl_text": "17:30 - 21:00 L.O. 20:20"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "■Temporary closure"
+    },
+    "google_rating": 4,
+    "google_reviews": 231,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJjVfM9WqNHmARXX4QLeGmqII",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/10014094-e3054e84143375183a80f3f00c071ef60fa3b03fa2da10f32f8f9529f0a599da.jpg",
+    "place_id": "ChIJjVfM9WqNHmARXX4QLeGmqII",
+    "g_name": "The Good Bear Burger",
+    "g_rating": 4,
+    "g_reviews": 231,
+    "g_address": "日本、〒370-0042 群馬県高崎市貝沢町７４０−１",
+    "lat": 36.3455484,
+    "lng": 139.0196387
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "1/3 HAMBURGER FACTORY",
+    "name_en": "1/3 HAMBURGER FACTORY",
+    "area": "石川県 金沢市",
+    "url": "https://tabelog.com/ishikawa/A1701/A170101/17013126/",
+    "rating": 3.75,
+    "review_count_tabelog": 151,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Hamburger",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 20:30 L.O. 20:00",
+        "dtl_text": "11:00 - 20:30 L.O. 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 261,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJbVeFSbDN-V8R8rOrmmofH_k",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/17013126-13ad9350cb722265d3967e8647278b7af9a3399d441b412a73b396495bba9808.jpg",
+    "place_id": "ChIJbVeFSbDN-V8R8rOrmmofH_k",
+    "g_name": "1/3 HAMBURGER FACTORY 金沢店",
+    "g_rating": 4.5,
+    "g_reviews": 261,
+    "g_address": "日本、〒920-0344 石川県金沢市畝田東４丁目１１２５",
+    "lat": 36.599175,
+    "lng": 136.6122279
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "ノンズ・バーガー・イズ・ヘブンリー",
+    "name_en": "Non's Burger is heavenly",
+    "area": "岐阜県 各務原市",
+    "url": "https://tabelog.com/gifu/A2101/A210102/21016569/",
+    "rating": 3.53,
+    "review_count_tabelog": 113,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, American",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 14:00 18:00 - 00:00",
+        "dtl_text": "18:00 - 00:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:30 - 14:00",
+        "dtl_text": "11:30 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays and Tuesdays (please check for holidays)"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 166,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVWlEd8HA2ARKOdniHL5jws",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/21016569-b67330406048b49dd6ec462a209301705c0a0174786cdc28074982737f9192cc.jpg",
+    "place_id": "ChIJVVWlEd8HA2ARKOdniHL5jws",
+    "g_name": "non's burger.is.heavenly",
+    "g_rating": 4.2,
+    "g_reviews": 166,
+    "g_address": "日本、〒504-0912 岐阜県各務原市那加桜町２丁目３２９−１ 桜ビル 101",
+    "lat": 35.4004025,
+    "lng": 136.8477091
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "tbz 覚王山本店",
+    "name_en": "tbz Kakuozan Honten",
+    "area": "愛知県 覚王山駅",
+    "url": "https://tabelog.com/aichi/A2301/A230107/23074354/",
+    "rating": 3.7,
+    "review_count_tabelog": 485,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:30 L.O. 15:00 17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Lunch service only on November 8, 9, 15, 16, and 30 (11:30 - 15:30), last order at 15:00"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 249,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJt_tFX0lxA2ARLINeirB72eY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/23074354-33f1396d92ccd6b9559dcb92ecebffb2e598c6fc150a44b543376995999bc5df.jpg",
+    "place_id": "ChIJt_tFX0lxA2ARLINeirB72eY",
+    "g_name": "tbz 覚王山本店",
+    "g_rating": 4.1,
+    "g_reviews": 249,
+    "g_address": "日本、〒464-0841 愛知県名古屋市千種区覚王山通９丁目８−２ キリン堂ビル １Ｆ",
+    "lat": 35.1665813,
+    "lng": 136.9506712
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "Viva la Burger",
+    "name_en": "Viva la Burger",
+    "area": "東京都 池袋駅",
+    "url": "https://tabelog.com/tokyo/A1305/A130501/13233786/",
+    "rating": 3.59,
+    "review_count_tabelog": 595,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Dining bar, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 16:00 17:30 - 21:00",
+        "dtl_text": "17:30 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays and the first, third, and fifth Wednesdays of the month."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 303,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJYyGB_a6NGGARGj8hT-iLA9c",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/13233786-4328b6b7e44b19f96c6b7fefc8b837761130412834f3db24ac52a5020f7990cf.jpg",
+    "place_id": "ChIJYyGB_a6NGGARGj8hT-iLA9c",
+    "g_name": "Viva la Burger",
+    "g_rating": 4.4,
+    "g_reviews": 303,
+    "g_address": "日本、〒171-0014 東京都豊島区池袋２丁目５９−５ 1F",
+    "lat": 35.7346756,
+    "lng": 139.7084452
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "ベーカーバウンス",
+    "name_en": "Baker Bounce",
+    "area": "東京都 西太子堂駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131706/13004780/",
+    "rating": 3.65,
+    "review_count_tabelog": 1275,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, American, Sandwich",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri",
+        "dtl": "10:30 - 15:00",
+        "dtl_text": "10:30 - 15:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Sat, Sun, Public Holiday",
+        "dtl": "10:30 - 19:00",
+        "dtl_text": "10:30 - 19:00"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 646,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJTz08xmHzGGARqWSkp9tyWP0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/13004780-78465657f4efd81d63b8865df8d33a46d9d0350fa294d63b959856c3f58a872b.jpg",
+    "place_id": "ChIJTz08xmHzGGARqWSkp9tyWP0",
+    "g_name": "ベーカーバウンス 三軒茶屋本店",
+    "g_rating": 4.2,
+    "g_reviews": 646,
+    "g_address": "日本、〒154-0004 東京都世田谷区太子堂５丁目１３−５",
+    "lat": 35.6472836,
+    "lng": 139.6673954
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "ハングリーヘブン 福岡今泉店",
+    "name_en": "HUNGRY HEAVEN Fukuoka Imaizumi Ten",
+    "area": "福岡県 西鉄福岡（天神）駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400103/40029521/",
+    "rating": 3.67,
+    "review_count_tabelog": 620,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Bar, Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 22:00",
+        "dtl_text": "11:00 - 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "January 1"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 735,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJzxDAoWRQTURNELqV4aSEXA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/40029521-5ae55bf9e42d262abd7e8086f593bad2568cf57380f87dea8655b81e78ce6814.jpg",
+    "place_id": "ChIJJzxDAoWRQTURNELqV4aSEXA",
+    "g_name": "ハングリーヘブン 福岡今泉店",
+    "g_rating": 4.2,
+    "g_reviews": 735,
+    "g_address": "日本、〒810-0021 福岡県福岡市中央区今泉１丁目１７−１４ １Ｆ",
+    "lat": 33.5861482,
+    "lng": 130.3986532
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "エスビーダイナー コウベ",
+    "name_en": "S.B.DINER-KOBE",
+    "area": "兵庫県 神戸三宮（阪急）駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280101/28025659/",
+    "rating": 3.65,
+    "review_count_tabelog": 864,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri",
+        "dtl": "11:30 - 15:00 L.O. 14:30 18:00 - 20:30 L.O. 20:00",
+        "dtl_text": "18:00 - 20:30 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 17:00 L.O. 16:00",
+        "dtl_text": "11:00 - 17:00 L.O. 16:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays and not fixed (please check our Instagram for updates)"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 309,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9_4POOOOAGARqslN83NPsq0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/28025659-25dac0403389f3958a8c92f3bcd26e3cdcfe66920547319ae75d6549472560e4.jpg",
+    "place_id": "ChIJ9_4POOOOAGARqslN83NPsq0",
+    "g_name": "S.B. DINER KOBE",
+    "g_rating": 4.1,
+    "g_reviews": 309,
+    "g_address": "日本、〒650-0012 兵庫県神戸市中央区北長狭通２丁目４−５ 大永ビル 2F",
+    "lat": 34.6919969,
+    "lng": 135.1903913
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "オーセンティック",
+    "name_en": "Authentic",
+    "area": "東京都 赤坂駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130802/13030795/",
+    "rating": 3.67,
+    "review_count_tabelog": 1342,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Sandwich",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 15:30 L.O. 15:00 17:30 - 21:30 L.O. 21:00",
+        "dtl_text": "17:30 - 21:30 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 19:30 L.O. 19:00",
+        "dtl_text": "11:00 - 19:30 L.O. 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 943,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJNVGPOISLGGARaiX4GQkjqQo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/13030795-089ad27b0f6712d91d3322f5ac4646ebfa5f1d309706df5f5e922846dfc628d9.jpg",
+    "place_id": "ChIJNVGPOISLGGARaiX4GQkjqQo",
+    "g_name": "Authentic",
+    "g_rating": 4.2,
+    "g_reviews": 943,
+    "g_address": "日本、〒107-0052 東京都港区赤坂２丁目１８−１９",
+    "lat": 35.6693346,
+    "lng": 139.7387149
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "エーバーガーズ カフェ",
+    "name_en": "A Burgers Cafe",
+    "area": "長崎県 島原市",
+    "url": "https://tabelog.com/nagasaki/A4203/A420302/42006200/",
+    "rating": 3.73,
+    "review_count_tabelog": 91,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Cafe, Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri, Sat, Sun",
+        "dtl": "11:30 - 13:30",
+        "dtl_text": "11:30 - 13:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 157,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKRgwwmBsQDURzEE8wdZd3Ko",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/42006200-17adcea2543458d661736d21c4960b66dcaaa27156b08e20d98d8ca1dead241b.jpg",
+    "place_id": "ChIJKRgwwmBsQDURzEE8wdZd3Ko",
+    "g_name": "島原グルメバーガー A Burgers Cafe",
+    "g_rating": 4.3,
+    "g_reviews": 157,
+    "g_address": "日本、〒855-0073 長崎県島原市本光寺町４３３８番地６",
+    "lat": 32.7888659,
+    "lng": 130.353643
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "アームズ",
+    "name_en": "Arms Burger",
+    "area": "東京都 代々木八幡駅",
+    "url": "https://tabelog.com/tokyo/A1318/A131810/13019608/",
+    "rating": 3.54,
+    "review_count_tabelog": 927,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Sandwich, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 20:30 L.O. 20:00",
+        "dtl_text": "11:00 - 20:30 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "08:00 - 10:00 11:00 - 20:30 L.O. 20:00",
+        "dtl_text": "11:00 - 20:30 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (Open on public holidays), with year-end & New Year holidays"
+    },
+    "google_rating": 3.8,
+    "google_reviews": 50,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKdJ0vEzzGGAR7OpuHRNbBM4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/13019608-7f6d7ab0fae35f480d36220502554e3db31f82e74802c584e9840e6961fbabf5.jpg",
+    "place_id": "ChIJKdJ0vEzzGGAR7OpuHRNbBM4",
+    "g_name": "ARMS Delivery & Take out shop",
+    "g_rating": 3.8,
+    "g_reviews": 50,
+    "g_address": "日本、〒151-0063 東京都渋谷区富ケ谷１丁目９−２１ レイ上原ビル 4f",
+    "lat": 35.6685374,
+    "lng": 139.6901151
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "BURGERLION UTSUBO A GOGO",
+    "name_en": "Burgerlion",
+    "area": "大阪府 肥後橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270102/27119587/",
+    "rating": 3.6,
+    "review_count_tabelog": 317,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Cafe, Baru (Spanish style bar)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:00 - 21:30 L.O. 21:00",
+        "dtl_text": "11:00 - 21:30 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 579,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJd1W2TFbmAGARmZ-w1R_6rbs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/27119587-414916d8ff52264de4a8e6a6d97fc6c23e7dd467a00523e9e7af80b51178f914.jpg",
+    "place_id": "ChIJd1W2TFbmAGARmZ-w1R_6rbs",
+    "g_name": "BURGERLION-UTSUBO A GOGO-",
+    "g_rating": 4.2,
+    "g_reviews": 579,
+    "g_address": "日本、〒550-0003 大阪府大阪市西区京町堀１丁目９−１０",
+    "lat": 34.6873477,
+    "lng": 135.4953792
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "リーフ バーガー",
+    "name_en": "Reef Burger",
+    "area": "熊本県 熊本市南区",
+    "url": "https://tabelog.com/kumamoto/A4301/A430101/43007888/",
+    "rating": 3.7,
+    "review_count_tabelog": 209,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Sandwich, Donut",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "09:00 - 16:30",
+        "dtl_text": "09:00 - 16:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 523,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0xZWO8f0QDURks_28LskgnI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/43007888-4112cfc413f2836dc2281f91c262e0722707ecc607d35dde01048c06a14b1ce0.jpg",
+    "place_id": "ChIJ0xZWO8f0QDURks_28LskgnI",
+    "g_name": "リーフ バーガー",
+    "g_rating": 4.4,
+    "g_reviews": 523,
+    "g_address": "日本、〒861-4101 熊本県熊本市南区近見６丁目２１−３５",
+    "lat": 32.7626287,
+    "lng": 130.6939
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "ダコタ ラスティック テーブル",
+    "name_en": "DAKOTA RUSTIC TABLE",
+    "area": "兵庫県 神戸市北区",
+    "url": "https://tabelog.com/hyogo/A2801/A280112/28052720/",
+    "rating": 3.61,
+    "review_count_tabelog": 288,
+    "price_dinner": "-",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Hamburger, Cake",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 16:00 L.O. 15:30",
+        "dtl_text": "11:00 - 16:00 L.O. 15:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 365,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJxbOn2pdlAGAREL1frDaW-0I",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/28052720-be9ba26ad44f692e61e689169381c759dd039735861242c0543259177ca57113.jpg",
+    "place_id": "ChIJxbOn2pdlAGAREL1frDaW-0I",
+    "g_name": "DAKOTA RUSTIC TABLE",
+    "g_rating": 4.5,
+    "g_reviews": 365,
+    "g_address": "日本、〒651-1511 兵庫県神戸市北区長尾町宅原７０７−１",
+    "lat": 34.8701577,
+    "lng": 135.2045013
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "ルーフトップス",
+    "name_en": "ROOFTOPS",
+    "area": "神奈川県 鎌倉駅",
+    "url": "https://tabelog.com/kanagawa/A1404/A140402/14058323/",
+    "rating": 3.66,
+    "review_count_tabelog": 590,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Dining bar, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 21:00 L.O. 20:00",
+        "dtl_text": "11:00 - 21:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 610,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJD5h-fsFFGGARk-MKmNjp0So",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/14058323-08d315f4d6ce7e1fae224f5363dfbe125cf873077976de00188674ea06524461.jpg",
+    "place_id": "ChIJD5h-fsFFGGARk-MKmNjp0So",
+    "g_name": "ROOFTOPS",
+    "g_rating": 4.4,
+    "g_reviews": 610,
+    "g_address": "日本、〒248-0006 神奈川県鎌倉市小町１丁目６−１７ 鎌倉 マーク ビル 6F",
+    "lat": 35.3194656,
+    "lng": 139.5512465
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "World Burger 新潟駅前店",
+    "name_en": "World Burger Nigata Ten",
+    "area": "新潟県 新潟市中央区",
+    "url": "https://tabelog.com/niigata/A1501/A150101/15021928/",
+    "rating": 3.54,
+    "review_count_tabelog": 116,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 15:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 99,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKVh3YKfJ9F8RkesMmQbPAVc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/15021928-6ce7c6ec1f3b8797a6e183fe54d6b5ebe5e4eff3b34c5fbbe6ec487f28cf4ae3.jpg",
+    "place_id": "ChIJKVh3YKfJ9F8RkesMmQbPAVc",
+    "g_name": "WorldBurger新潟駅前店",
+    "g_rating": 4.6,
+    "g_reviews": 99,
+    "g_address": "日本、〒950-0901 新潟県新潟市中央区弁天３丁目２−２４",
+    "lat": 37.9134014,
+    "lng": 139.0582503
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "Craft Burger co. 北堀江店",
+    "name_en": "Craft Burger co. Kita Horie Ten",
+    "area": "大阪府 四ツ橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270201/27088635/",
+    "rating": 3.53,
+    "review_count_tabelog": 541,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Beer bar, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 22:30 L.O. 22:00",
+        "dtl_text": "11:30 - 22:30 L.O. 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "New Year Holidays"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 1311,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJOa49OAXnAGARQrphfPiKh2c",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/27088635-69bca91a20d4649c6af86661e848be016719ac9b137becb2a6cba404932a5d05.jpg",
+    "place_id": "ChIJOa49OAXnAGARQrphfPiKh2c",
+    "g_name": "クラフトバーガー 北堀江店",
+    "g_rating": 4.6,
+    "g_reviews": 1311,
+    "g_address": "日本、〒550-0014 大阪府大阪市西区北堀江１丁目６−１２",
+    "lat": 34.67414530000001,
+    "lng": 135.4963034
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "ソウルダイナー",
+    "name_en": "SOUL DINER",
+    "area": "愛知県 植田（名古屋市営）駅",
+    "url": "https://tabelog.com/aichi/A2301/A230111/23046143/",
+    "rating": 3.53,
+    "review_count_tabelog": 358,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Sports bar, Dining bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 15:00 L.O. 14:30 17:00 - 00:00 L.O. 23:00",
+        "dtl_text": "17:00 - 00:00 L.O. 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:00 - 15:00 L.O. 14:30 17:00 - 22:00 L.O. 21:30",
+        "dtl_text": "17:00 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 353,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJG8kWJs5kA2ARF-1GkCQN1ps",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/23046143-0d028271b09245c2e4379e5253e43458f92933c83333bc8889b0e2b2947b4081.jpg",
+    "place_id": "ChIJG8kWJs5kA2ARF-1GkCQN1ps",
+    "g_name": "ソウルダイナー",
+    "g_rating": 4.2,
+    "g_reviews": 353,
+    "g_address": "日本、〒468-0051 愛知県名古屋市天白区植田３丁目１７０１ ワイズビル 1F",
+    "lat": 35.128122,
+    "lng": 136.9870006
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "キャプテンカンガルー",
+    "name_en": "Captain Kangaroo",
+    "area": "沖縄県 国頭郡本部町",
+    "url": "https://tabelog.com/okinawa/A4702/A470202/47027004/",
+    "rating": 3.71,
+    "review_count_tabelog": 1015,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:00 - 17:00 L.O. 16:30",
+        "dtl_text": "11:00 - 17:00 L.O. 16:30"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 2750,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJadnTJG3_5DQRR_QxSU0-iP8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/47027004-884482f9e93c2484ccfe242021d27567eca35f005ef8d99d5751e791646c57d0.jpg",
+    "place_id": "ChIJadnTJG3_5DQRR_QxSU0-iP8",
+    "g_name": "キャプテンカンガルー",
+    "g_rating": 4.3,
+    "g_reviews": 2750,
+    "g_address": "日本、〒905-0225 沖縄県国頭郡本部町崎本部９３０−１",
+    "lat": 26.622816,
+    "lng": 127.8902399
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "さくらバーガー",
+    "name_en": "SAKURA BURGER",
+    "area": "奈良県 奈良市",
+    "url": "https://tabelog.com/nara/A2901/A290101/29006078/",
+    "rating": 3.68,
+    "review_count_tabelog": 683,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Sandwich, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "09:00 - 18:00 L.O. 17:30",
+        "dtl_text": "09:00 - 18:00 L.O. 17:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 1234,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJc9RId4c5AWARMDe7HvpXeZM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/29006078-3d051e8e469c28116ef13ce1ae68c68bd008e4831c77dc9346149c1ff2f5ca47.jpg",
+    "place_id": "ChIJc9RId4c5AWARMDe7HvpXeZM",
+    "g_name": "さくらバーガー",
+    "g_rating": 4.6,
+    "g_reviews": 1234,
+    "g_address": "日本、〒630-8214 奈良県奈良市東向北町６ 東向北商店街",
+    "lat": 34.6848948,
+    "lng": 135.8287716
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "ブラザーズ 人形町本店",
+    "name_en": "BROZERS' Ningyochohonten",
+    "area": "東京都 人形町駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130204/13003002/",
+    "rating": 3.66,
+    "review_count_tabelog": 3019,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Cafe, Sandwich",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 21:30 L.O. 21:00",
+        "dtl_text": "11:00 - 21:30 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round (except for Year-end & New Year Holidays)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 1774,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJLbg-UE6JGGARQhxb1pkOwuY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/13003002-8e8658660fc170a4c31ad1b261fc7ef372ea10837bd9be9d668fd94094687540.jpg",
+    "place_id": "ChIJLbg-UE6JGGARQhxb1pkOwuY",
+    "g_name": "ブラザーズ 人形町本店",
+    "g_rating": 4.3,
+    "g_reviews": 1774,
+    "g_address": "日本、〒103-0013 東京都中央区日本橋人形町２丁目２８−５",
+    "lat": 35.6872037,
+    "lng": 139.7850339
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "COOKER'S GRILL",
+    "name_en": "COOKER'S GRILL",
+    "area": "神奈川県 辻堂駅",
+    "url": "https://tabelog.com/kanagawa/A1404/A140404/14066337/",
+    "rating": 3.7,
+    "review_count_tabelog": 609,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Dining bar, Oyster Bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu",
+        "dtl": "11:30 - 15:00 17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "11:30 - 15:00",
+        "dtl_text": "11:30 - 15:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Fri",
+        "dtl": "11:30 - 15:00 17:00 - 23:00 L.O. 22:00",
+        "dtl_text": "17:00 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:00 - 15:00 17:00 - 23:00 L.O. 22:00",
+        "dtl_text": "17:00 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:00 - 15:00 17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "*Lunch service only on Tuesdays"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 316,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJD29vCgBOGGARuVJqBXobUsA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/14066337-f66057a568caf172951add9679609d92f1d73962daeade248b0a704c70950cff.jpg",
+    "place_id": "ChIJD29vCgBOGGARuVJqBXobUsA",
+    "g_name": "クッカーズグリル",
+    "g_rating": 4.2,
+    "g_reviews": 316,
+    "g_address": "日本、〒251-0047 神奈川県藤沢市辻堂２丁目９−３５ 太田ビル 一階",
+    "lat": 35.3361126,
+    "lng": 139.4466653
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "ハングリー ヘブン 上板橋店",
+    "name_en": "Hungry Heaven Kamitabashi Ten",
+    "area": "東京都 上板橋駅",
+    "url": "https://tabelog.com/tokyo/A1322/A132203/13204777/",
+    "rating": 3.55,
+    "review_count_tabelog": 491,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Sat, Sun",
+        "dtl": "11:00 - 17:00 17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Fri",
+        "dtl": "11:00 - 17:00 17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 610,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAANvsGGARkIQv8_KJR0k",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/13204777-081f3ee1860f3b1aac5739acbbad9b9fd8891320c67092e231109ac11fb84d6a.jpg",
+    "place_id": "ChIJAQAAANvsGGARkIQv8_KJR0k",
+    "g_name": "ハングリーヘブン 上板橋店",
+    "g_rating": 4.3,
+    "g_reviews": 610,
+    "g_address": "日本、〒174-0071 東京都板橋区常盤台４丁目３３−３ 浅香ビル",
+    "lat": 35.76389,
+    "lng": 139.6763607
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "ザ ビーチ バーガー ハウス",
+    "name_en": "The BEACH BURGER HOUSE",
+    "area": "宮崎県 宮崎市",
+    "url": "https://tabelog.com/miyazaki/A4501/A450101/45009161/",
+    "rating": 3.71,
+    "review_count_tabelog": 202,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 17:00 L.O. 16:00",
+        "dtl_text": "11:00 - 17:00 L.O. 16:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every 2nd and 4th Wednesday"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 524,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJV4-spzu6ODUR6aTqGdRQRoo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/45009161-a06266e9b32c0507b2bb50f556322a7cacb9f045ddb038e706006e8eff4e9d7e.jpg",
+    "place_id": "ChIJV4-spzu6ODUR6aTqGdRQRoo",
+    "g_name": "The BEACH BURGER HOUSE",
+    "g_rating": 4.2,
+    "g_reviews": 524,
+    "g_address": "日本、〒880-0835 宮崎県宮崎市阿波岐原町１４００−１６",
+    "lat": 31.9290719,
+    "lng": 131.4679319
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "folk burgers&beers",
+    "name_en": "folk burgers & beers",
+    "area": "東京都 神保町駅",
+    "url": "https://tabelog.com/tokyo/A1310/A131003/13224811/",
+    "rating": 3.73,
+    "review_count_tabelog": 940,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Beer bar, Pub",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "11:30 - 15:00 L.O. Food 14:30",
+        "dtl_text": "11:30 - 15:00 L.O. Food 14:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "11:30 - 15:00 L.O. Food 14:30 17:00 - 21:30 L.O. Food 20:45 Drinks 21:00",
+        "dtl_text": "17:00 - 21:30 L.O. Food 20:45 Drinks 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu, Fri",
+        "dtl": "11:30 - 15:00 L.O. 14:30 17:00 - 21:30 L.O. Food 20:45 Drinks 21:00",
+        "dtl_text": "17:00 - 21:30 L.O. Food 20:45 Drinks 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 20:00 L.O. 19:30",
+        "dtl_text": "11:30 - 20:00 L.O. 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays and Tuesdays (open on Mondays if it's a public holiday). Please note that due to staff shortages, Tuesday operations are not fixed."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 459,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJzdH-Ym2NGGARNTgMz5QhTvw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/13224811-3fff799392e210e1d928ace2522b79062cb63da2a8f9e279f8d2a286940f478a.jpg",
+    "place_id": "ChIJzdH-Ym2NGGARNTgMz5QhTvw",
+    "g_name": "folk burgers & beers",
+    "g_rating": 4.5,
+    "g_reviews": 459,
+    "g_address": "日本、〒101-0051 東京都千代田区神田神保町２丁目８−１ レフィール神保町 0101",
+    "lat": 35.6968368,
+    "lng": 139.7556113
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "バーガーマニア 白金店",
+    "name_en": "Burger Mania Shirokane Ten",
+    "area": "東京都 白金台駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131602/13047335/",
+    "rating": 3.58,
+    "review_count_tabelog": 774,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Hamburger, Cafe, Pancake",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 22:00",
+        "dtl_text": "11:00 - 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 124,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-aLAmROLGGARB_C1qzxqUwc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/13047335-3368c32db60472839ea32f5d622944ea6bd5c2a47715ef6db75f8036d187467b.jpg",
+    "place_id": "ChIJ-aLAmROLGGARB_C1qzxqUwc",
+    "g_name": "バーガーマニア 白金高輪店",
+    "g_rating": 4.4,
+    "g_reviews": 124,
+    "g_address": "日本、〒108-0072 東京都港区白金１丁目２８−２８",
+    "lat": 35.6437445,
+    "lng": 139.7332554
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "フランクリン・アベニュー",
+    "name_en": "7025 Franklin Avenue",
+    "area": "東京都 五反田駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131603/13001556/",
+    "rating": 3.69,
+    "review_count_tabelog": 1670,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Hamburger, Sandwich",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "11:00 - 14:30",
+        "dtl_text": "11:00 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 19:30",
+        "dtl_text": "11:00 - 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "11:00 - 16:00",
+        "dtl_text": "11:00 - 16:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 971,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJfaQPLfiKGGARw3D38-5to50",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/13001556-2329f86a6825a510c73385fdeeeb0f48e019b30aad36d6aeb7088de270c5adcd.jpg",
+    "place_id": "ChIJfaQPLfiKGGARw3D38-5to50",
+    "g_name": "7025 フランクリン アベニュー",
+    "g_rating": 4.2,
+    "g_reviews": 971,
+    "g_address": "日本、〒141-0022 東京都品川区東五反田３丁目１５−１８",
+    "lat": 35.6258949,
+    "lng": 139.7295724
+  },
+  {
+    "category_jp": "ハンバーガー",
+    "category_en": "Hamburger",
+    "region": "ハンバーガー 百名店",
+    "name": "ログキット 佐世保本店",
+    "name_en": "LOG KIT Sasebo Ten",
+    "area": "長崎県 佐世保市",
+    "url": "https://tabelog.com/nagasaki/A4202/A420201/42000138/",
+    "rating": 3.52,
+    "review_count_tabelog": 400,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Hamburger, Regional Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 745,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJV59pJUiUajUR4Bc4NYrtkEU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/hamburger/42000138-c7439b92ad9e75bbd5456318a6ca7e451f98ebb1fca28be7f32e09acb5cf343d.jpg",
+    "place_id": "ChIJV59pJUiUajUR4Bc4NYrtkEU",
+    "g_name": "ログキット 本店",
+    "g_rating": 4.2,
+    "g_reviews": 745,
+    "g_address": "日本、〒857-0047 長崎県佐世保市矢岳町１−１ ２F",
+    "lat": 33.1732126,
+    "lng": 129.7131769
+  }
+]

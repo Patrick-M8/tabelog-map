@@ -1,0 +1,4632 @@
+[
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "葉隠",
+    "name_en": "Hagakure",
+    "area": "東京都 赤坂見附駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130801/13024229/",
+    "rating": 3.66,
+    "review_count_tabelog": 701,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Izakaya (Japanese style tavern), Curry Udon",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 14:30 18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 161,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJK5cfKH-MGGARDO01Fs506xU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13024229-3564ce2e3110d0cc0da17afdb1af108eb5c71a9f4b9bc2e9f832a5d2ae9792b0.jpg",
+    "place_id": "ChIJK5cfKH-MGGARDO01Fs506xU",
+    "g_name": "葉隠",
+    "g_rating": 4.2,
+    "g_reviews": 161,
+    "g_address": "日本、〒107-0052 東京都港区赤坂３丁目１０−２０ 第3対翠館ビルB1F",
+    "lat": 35.6764157,
+    "lng": 139.7365165
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "讃岐うどん いわい",
+    "name_en": "Sanuki Udon Iwai",
+    "area": "東京都 十条駅",
+    "url": "https://tabelog.com/tokyo/A1323/A132304/13141130/",
+    "rating": 3.73,
+    "review_count_tabelog": 1182,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu",
+        "dtl": "10:30 - 14:30",
+        "dtl_text": "10:30 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Fri, Sat",
+        "dtl": "10:30 - 14:30 17:30 - 21:00",
+        "dtl_text": "17:30 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "10:00 - 15:00",
+        "dtl_text": "10:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 681,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJawqjUeySGGARbJroKjWZiEM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13141130-9ee339288574f5bdbbf6758effcee78ce90320e96fd0c7a1536fb3bf137cbc82.jpg",
+    "place_id": "ChIJawqjUeySGGARbJroKjWZiEM",
+    "g_name": "讃岐うどん いわい",
+    "g_rating": 4.3,
+    "g_reviews": 681,
+    "g_address": "日本、〒114-0034 東京都北区上十条３丁目２８−７",
+    "lat": 35.7615553,
+    "lng": 139.7188666
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "手打 しまだ",
+    "name_en": "Teuchi Shimada",
+    "area": "東京都 表参道駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130602/13006991/",
+    "rating": 3.62,
+    "review_count_tabelog": 1018,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles), Soba (Buckwheat noodles), Izakaya (Japanese style tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 13:45 18:00 - 23:30",
+        "dtl_text": "18:00 - 23:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays"
+    },
+    "google_rating": 4,
+    "google_reviews": 405,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8ygPzZ-MGGARGRxOIhm2QKs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13006991-747f07f4fd0830ca4ea076b9a5a882f7a876597d77e2321649dfc99adacee1bb.jpg",
+    "place_id": "ChIJ8ygPzZ-MGGARGRxOIhm2QKs",
+    "g_name": "しまだ",
+    "g_rating": 4,
+    "g_reviews": 405,
+    "g_address": "日本、〒107-0062 東京都港区南青山３丁目１３−３",
+    "lat": 35.6658597,
+    "lng": 139.7138914
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "手打うどん あかう",
+    "name_en": "Teuchi Udon Akau",
+    "area": "東京都 日暮里駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131105/13018604/",
+    "rating": 3.66,
+    "review_count_tabelog": 859,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles), Izakaya (Japanese style tavern), Regional Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri",
+        "dtl": "11:30 - 14:30 17:00 - 22:00 L.O. 21:30",
+        "dtl_text": "17:00 - 22:00 L.O. 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 22:00 L.O. 21:30",
+        "dtl_text": "11:30 - 22:00 L.O. 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 309,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJdZzqRNaNGGARgnNMjNVjsZI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13018604-dd3366e395ba4f9e14ddb82d4f8ffa808751dfda1ceba71dd01ffff6e4e69970.jpg",
+    "place_id": "ChIJdZzqRNaNGGARgnNMjNVjsZI",
+    "g_name": "手打ちうどん あかう",
+    "g_rating": 4.2,
+    "g_reviews": 309,
+    "g_address": "日本、〒116-0013 東京都荒川区西日暮里２丁目３９−６",
+    "lat": 35.7307638,
+    "lng": 139.7708405
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "雅楽",
+    "name_en": "Garak",
+    "area": "東京都 飯田橋駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13032356/",
+    "rating": 3.62,
+    "review_count_tabelog": 779,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles), Izakaya (Japanese style tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 14:30 17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:30 - 14:30 17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 398,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJb89ZGkSMGGARSBXfZs4_uhY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13032356-37a369a403471158648eb4686d3aac160494ed1cf2adecdcd29d8a02aa47bd73.jpg",
+    "place_id": "ChIJb89ZGkSMGGARSBXfZs4_uhY",
+    "g_name": "雅楽",
+    "g_rating": 4,
+    "g_reviews": 398,
+    "g_address": "日本、〒102-0072 東京都千代田区飯田橋３丁目７−３ 岡田ビル １階",
+    "lat": 35.7018508,
+    "lng": 139.7468125
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "野村屋本店",
+    "name_en": "Nomura Ya Honten",
+    "area": "栃木県 佐野市",
+    "url": "https://tabelog.com/tochigi/A0902/A090202/9001007/",
+    "rating": 3.62,
+    "review_count_tabelog": 386,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles), Soba (Buckwheat noodles), Regional Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:00 L.O. Food 14:00 16:30 - 19:00 L.O. Food 19:00",
+        "dtl_text": "16:30 - 19:00 L.O. Food 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 534,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJo3-KArE7H2ARsZ8s1U1IA8g",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/9001007-c21e3f9300274bff49808f25885d383d1ec1b93262e102aea910923860bf30a6.jpg",
+    "place_id": "ChIJo3-KArE7H2ARsZ8s1U1IA8g",
+    "g_name": "野村屋本店",
+    "g_rating": 4.1,
+    "g_reviews": 534,
+    "g_address": "日本、〒327-0023 栃木県佐野市相生町２８１９",
+    "lat": 36.313201,
+    "lng": 139.5820169
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "カレーうどん 鯱乃家",
+    "name_en": "Curry Udon Shachinoya",
+    "area": "愛知県 黒川駅",
+    "url": "https://tabelog.com/aichi/A2301/A230110/23000050/",
+    "rating": 3.5,
+    "review_count_tabelog": 636,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Curry Udon, Udon (Wheat noodles), Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat",
+        "dtl": "11:00 - 14:00 17:30 - 21:00",
+        "dtl_text": "17:30 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "11:00 - 14:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Third Monday": {},
+        "If the third Monday is a public holiday": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 529,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJn-hy40hxA2ARts8IleOOsl8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/23000050-617726f59dc298cf8fe8259ddc469f92e543d68f3231b010eaaaa4b21238a683.jpg",
+    "place_id": "ChIJn-hy40hxA2ARts8IleOOsl8",
+    "g_name": "カレーうどん 鯱乃家",
+    "g_rating": 4.1,
+    "g_reviews": 529,
+    "g_address": "日本、〒462-0843 愛知県名古屋市北区田幡２丁目１４−１",
+    "lat": 35.1963225,
+    "lng": 136.9103131
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "うどん 丸香",
+    "name_en": "Udon Maruka",
+    "area": "東京都 神保町駅",
+    "url": "https://tabelog.com/tokyo/A1310/A131003/13000629/",
+    "rating": 3.85,
+    "review_count_tabelog": 6281,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri",
+        "dtl": "11:00 - 16:00 17:00 - 20:30 L.O. 19:30",
+        "dtl_text": "17:00 - 20:30 L.O. 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "11:00 - 16:00 17:00 - 20:30 L.O. Food 19:30 Drinks 19:00",
+        "dtl_text": "17:00 - 20:30 L.O. Food 19:30 Drinks 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:00 - 15:30 L.O. Food 14:30",
+        "dtl_text": "11:00 - 15:30 L.O. Food 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Closed from December 30 to January 6."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 3449,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJyZAT2BCMGGAR3ORQ8u1l4Cs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13000629-c2bc609363fcd4bf642b3a480b0ff9ef3e59a140b289a33635a64c91812cb649.jpg",
+    "place_id": "ChIJyZAT2BCMGGAR3ORQ8u1l4Cs",
+    "g_name": "うどん 丸香",
+    "g_rating": 4.3,
+    "g_reviews": 3449,
+    "g_address": "日本、〒101-0052 東京都千代田区神田小川町３丁目１６−１ ニュー駿河台ビル 1F",
+    "lat": 35.6966954,
+    "lng": 139.7601155
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "讃岐うどん 蔵之介",
+    "name_en": "Sanuki Udon Kuranosuke",
+    "area": "東京都 高田馬場駅",
+    "url": "https://tabelog.com/tokyo/A1305/A130503/13049983/",
+    "rating": 3.65,
+    "review_count_tabelog": 1279,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri",
+        "dtl": "11:00 - 14:00 17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:30 - 15:00 17:00 - 20:00",
+        "dtl_text": "17:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "11:30 - 15:00",
+        "dtl_text": "11:30 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Weekdays": {},
+        "Saturday": {},
+        "Sunday": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": 3.7,
+    "google_reviews": 405,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJOSeAxD6NGGAR9SJ3qoxZDLU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13049983-e992dfbf6dcb9052cf085c31c4ca766e0c5660af8b489b874798037f7f759277.jpg",
+    "place_id": "ChIJOSeAxD6NGGAR9SJ3qoxZDLU",
+    "g_name": "うどん蔵之介",
+    "g_rating": 3.7,
+    "g_reviews": 405,
+    "g_address": "日本、〒171-0033 東京都豊島区高田３丁目７−１５",
+    "lat": 35.7145021,
+    "lng": 139.7075078
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "手打うどん 松屋",
+    "name_en": "Teuchi Udon Matsuya",
+    "area": "埼玉県 桶川駅",
+    "url": "https://tabelog.com/saitama/A1104/A110401/11004724/",
+    "rating": 3.69,
+    "review_count_tabelog": 347,
+    "price_dinner": "～￥999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles), Curry Udon",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:30 - 13:00",
+        "dtl_text": "10:30 - 13:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 227,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJC_VAT6nPGGARyhrmIWYCvLA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/11004724-dcf364a2a7ef11dccbb4a4d029b6d2a8799ec720eb5a30809c6ff4de61246d93.jpg",
+    "place_id": "ChIJC_VAT6nPGGARyhrmIWYCvLA",
+    "g_name": "手打ちうどん 松屋",
+    "g_rating": 4.2,
+    "g_reviews": 227,
+    "g_address": "日本、〒363-0016 埼玉県桶川市寿１丁目１１−１８",
+    "lat": 36.0020955,
+    "lng": 139.5643272
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "うどん山長",
+    "name_en": "Udon Yamacho",
+    "area": "東京都 恵比寿駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130302/13045327/",
+    "rating": 3.7,
+    "review_count_tabelog": 2210,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles), Tempura, Izakaya (Japanese style tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "12:00 - 15:30 L.O. 15:00 17:00 - 22:00 L.O. 21:30",
+        "dtl_text": "17:00 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 1107,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ--gb0UGLGGARYisuJQ1c7Zs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13045327-5e43db79f42b93eefabec66d5f159ba1e87cd1fc60aafee91a04b2e71f020892.jpg",
+    "place_id": "ChIJ--gb0UGLGGARYisuJQ1c7Zs",
+    "g_name": "うどん山長 恵比寿店",
+    "g_rating": 4.2,
+    "g_reviews": 1107,
+    "g_address": "日本、〒150-0013 東京都渋谷区恵比寿１丁目１−５ エビスオークビル 1 1F",
+    "lat": 35.6482915,
+    "lng": 139.7111154
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "村山 満月うどん",
+    "name_en": "Murayama Mangetsu Udon",
+    "area": "東京都 武蔵村山市",
+    "url": "https://tabelog.com/tokyo/A1329/A132901/13026307/",
+    "rating": 3.84,
+    "review_count_tabelog": 545,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 L.O. 14:30",
+        "dtl_text": "11:00 - 15:00 L.O. 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Evening": {}
+      },
+      "closed_on": "Mondays and Tuesdays"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 756,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_9P5v-XfGGARWx2XGTp0_Qc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13026307-5c9a5f4a50022228cb22d81d37a7effd3bbc1078bd86079256ce3ddbd80245fe.jpg",
+    "place_id": "ChIJ_9P5v-XfGGARWx2XGTp0_Qc",
+    "g_name": "村山満月うどん",
+    "g_rating": 4.4,
+    "g_reviews": 756,
+    "g_address": "日本、〒208-0032 東京都武蔵村山市三ツ木１丁目１２−１０",
+    "lat": 35.757686,
+    "lng": 139.3793009
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "藤店うどん",
+    "name_en": "Fujidana Udon",
+    "area": "埼玉県 さいたま市西区",
+    "url": "https://tabelog.com/saitama/A1101/A110103/11000476/",
+    "rating": 3.78,
+    "review_count_tabelog": 1047,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles), Deep-fried foods, Regional Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "10:00 - 15:00",
+        "dtl_text": "10:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 2718,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0_Vw4ArEGGARJBZo5OGPTNs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/11000476-dcf57f39ffd830c6ce55e5780a5a9174d6b883bbe36aeb9a16e95a1845997288.jpg",
+    "place_id": "ChIJ0_Vw4ArEGGARJBZo5OGPTNs",
+    "g_name": "藤店うどん",
+    "g_rating": 4.3,
+    "g_reviews": 2718,
+    "g_address": "日本、〒331-0052 埼玉県さいたま市西区三橋６丁目１４−７",
+    "lat": 35.91063980000001,
+    "lng": 139.5904403
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "手打ちうどん こげら",
+    "name_en": "Teuchi Udon Kogera",
+    "area": "東京都 東村山市",
+    "url": "https://tabelog.com/tokyo/A1328/A132805/13163619/",
+    "rating": 3.66,
+    "review_count_tabelog": 334,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Tempura",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri, Sat, Sun",
+        "dtl": "11:00 - 13:00",
+        "dtl_text": "11:00 - 13:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 331,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJS0J2DdbmGGARBE8pi0bgA6Y",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13163619-188b78ac848dd35da6136a9bb8fb5c8be235dffa650ce2a86b715d57d59814a8.jpg",
+    "place_id": "ChIJS0J2DdbmGGARBE8pi0bgA6Y",
+    "g_name": "手打ちうどん こげら",
+    "g_rating": 4.4,
+    "g_reviews": 331,
+    "g_address": "日本、〒189-0024 東京都東村山市富士見町２丁目６−７２",
+    "lat": 35.7421757,
+    "lng": 139.4509629
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "太常うどん 銀座本店",
+    "name_en": "Daitsune Udon Ginza Hon Ten",
+    "area": "東京都 東銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13104580/",
+    "rating": 3.65,
+    "review_count_tabelog": 1031,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Tempura, Izakaya (Japanese style tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Sat",
+        "dtl": "11:00 - 14:30 L.O. 14:20",
+        "dtl_text": "11:00 - 14:30 L.O. 14:20",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 14:30 L.O. 14:20 17:00 - 21:00 L.O. Food 20:30 Drinks 20:45",
+        "dtl_text": "17:00 - 21:00 L.O. Food 20:30 Drinks 20:45",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 737,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJL83cf-eLGGARdQVuT0Kzx4E",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13104580-f80f35ed497080093cd6c7c10f6d158438cc7e1b9c8f2c4abc91bf8eba8766e8.jpg",
+    "place_id": "ChIJL83cf-eLGGARdQVuT0Kzx4E",
+    "g_name": "だいつねうどん 銀座本店",
+    "g_rating": 4.1,
+    "g_reviews": 737,
+    "g_address": "日本、〒104-0061 東京都中央区銀座７丁目１５−１７ だいつねビル 1F",
+    "lat": 35.6673375,
+    "lng": 139.7652647
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "賞讃",
+    "name_en": "Shozan",
+    "area": "東京都 京成立石駅",
+    "url": "https://tabelog.com/tokyo/A1324/A132403/13022111/",
+    "rating": 3.65,
+    "review_count_tabelog": 432,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 14:30",
+        "dtl_text": "11:30 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:00 - 14:30",
+        "dtl_text": "11:00 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 420,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJYw1NFFuPGGARkYmn30-g_60",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13022111-41e553e1348682615c55059480fd7c0f6a0d64d8861e0585a58dcb1ba4ef3ee1.jpg",
+    "place_id": "ChIJYw1NFFuPGGARkYmn30-g_60",
+    "g_name": "賞讃",
+    "g_rating": 4.2,
+    "g_reviews": 420,
+    "g_address": "日本、〒124-0014 東京都葛飾区東四つ木２丁目１８−４",
+    "lat": 35.7303388,
+    "lng": 139.8459825
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "トウキョウライトブルー ホンゴウスリー",
+    "name_en": "TOKYO LIGHT BLUE HONGO-3",
+    "area": "東京都 本郷三丁目駅",
+    "url": "https://tabelog.com/tokyo/A1310/A131004/13240246/",
+    "rating": 3.69,
+    "review_count_tabelog": 1235,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Tempura",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "07:00 - 23:00",
+        "dtl_text": "07:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "10:00 - 20:00",
+        "dtl_text": "10:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 914,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6rugzyMGGARrF6qVOfFCQM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13240246-d633a73fb2891c0f7548ccd152eff85037124440f8c36c511d11e5d7648a3417.jpg",
+    "place_id": "ChIJq6rugzyMGGARrF6qVOfFCQM",
+    "g_name": "うどんTOKYO LIGHT BLUE HONGO-3",
+    "g_rating": 4.2,
+    "g_reviews": 914,
+    "g_address": "日本、〒113-0033 東京都文京区本郷２丁目３９−７ エチソウビル",
+    "lat": 35.7064762,
+    "lng": 139.7605613
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "永井",
+    "name_en": "Nagai",
+    "area": "埼玉県 入間郡三芳町",
+    "url": "https://tabelog.com/saitama/A1103/A110302/11033420/",
+    "rating": 3.7,
+    "review_count_tabelog": 500,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles), Tempura, Curry Udon",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJoU6S7CXdGGARQtD8RG5rm7g",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/11033420-1cc01cf403a92786f8351fe25c35e6297edabe9bbac27965c87e6c5dcff6704c.jpg",
+    "place_id": "ChIJoU6S7CXdGGARQtD8RG5rm7g",
+    "g_name": "北永井",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "日本、〒354-0044 埼玉県入間郡三芳町北永井",
+    "lat": 35.8357075,
+    "lng": 139.5157116
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "純手打ち讃岐うどん五郎",
+    "name_en": "Jun Teuchi Sanuki Udon Goro",
+    "area": "東京都 錦糸町駅",
+    "url": "https://tabelog.com/tokyo/A1312/A131201/13156107/",
+    "rating": 3.68,
+    "review_count_tabelog": 884,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Fri",
+        "dtl": "13:00 - 15:00",
+        "dtl_text": "13:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Thu, Sat, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 569,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJMQWh8iiJGGARxT3SufPr7sM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13156107-ff5544883e4df548ae24af8570da5f9740a42208d00535f2b80047c90d887287.jpg",
+    "place_id": "ChIJMQWh8iiJGGARxT3SufPr7sM",
+    "g_name": "純手打ち讃岐うどん 五郎",
+    "g_rating": 4.4,
+    "g_reviews": 569,
+    "g_address": "日本、〒130-0022 東京都墨田区江東橋１丁目１３−１",
+    "lat": 35.6958173,
+    "lng": 139.8105839
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "武蔵野うどん 澤村",
+    "name_en": "Musashino Udon Sawamura",
+    "area": "埼玉県 北戸田駅",
+    "url": "https://tabelog.com/saitama/A1102/A110202/11049204/",
+    "rating": 3.66,
+    "review_count_tabelog": 915,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 16:00 L.O. 15:30",
+        "dtl_text": "11:00 - 16:00 L.O. 15:30"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 1797,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_XSUsNfrGGAR0ID4lA2kX04",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/11049204-d3c82326cf49756e7061da9b69f7a26c2106aa4a0672c70612b906715ef328b5.jpg",
+    "place_id": "ChIJ_XSUsNfrGGAR0ID4lA2kX04",
+    "g_name": "武蔵野うどん 澤村",
+    "g_rating": 4.2,
+    "g_reviews": 1797,
+    "g_address": "日本、〒335-0038 埼玉県戸田市美女木北１丁目２−２５",
+    "lat": 35.8338537,
+    "lng": 139.6536568
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "おにやんま 中目黒店",
+    "name_en": "Oniyanma Nakameguro Ten",
+    "area": "東京都 中目黒駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13199054/",
+    "rating": 3.62,
+    "review_count_tabelog": 1643,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "07:00 - 22:30",
+        "dtl_text": "07:00 - 22:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 801,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGZAnL0mLGGARbDnsI4rA8Mo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13199054-810c10f85e95bdafa05a08a221f00cbfa45fbe9bdd11f61ec1326ff28264bacd.jpg",
+    "place_id": "ChIJGZAnL0mLGGARbDnsI4rA8Mo",
+    "g_name": "おにやんま 中目黒店",
+    "g_rating": 4,
+    "g_reviews": 801,
+    "g_address": "日本、〒153-0051 東京都目黒区上目黒３丁目３−１",
+    "lat": 35.6446312,
+    "lng": 139.6984829
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "おにやんま 新橋店",
+    "name_en": "Oniyanma Shinbashi Ten",
+    "area": "東京都 新橋駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130103/13162575/",
+    "rating": 3.7,
+    "review_count_tabelog": 3380,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "07:00 - 22:30",
+        "dtl_text": "07:00 - 22:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "07:00 - 22:00",
+        "dtl_text": "07:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 2334,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJx8BEMeqLGGARvjR_k-OPAzo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13162575-0ee39ef6a9fa7960e83a18686b3ae2f78ab347ea8b6fc8326c1cbb31e4f1211a.jpg",
+    "place_id": "ChIJx8BEMeqLGGARvjR_k-OPAzo",
+    "g_name": "おにやんま 新橋店",
+    "g_rating": 4,
+    "g_reviews": 2334,
+    "g_address": "日本、〒105-0004 東京都港区新橋３丁目１６−２３",
+    "lat": 35.6658208,
+    "lng": 139.7566451
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "ウドンスタンド五頭",
+    "name_en": "Udon Stand Gozu",
+    "area": "東京都 三鷹駅",
+    "url": "https://tabelog.com/tokyo/A1320/A132002/13117283/",
+    "rating": 3.64,
+    "review_count_tabelog": 437,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Izakaya (Japanese style tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 14:30 L.O. 14:00 18:00 - 22:00 L.O. 21:20",
+        "dtl_text": "18:00 - 22:00 L.O. 21:20"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.9,
+    "google_reviews": 214,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-VHqG6_vGGARj1owS3j7rNQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13117283-e60db97d612a91ecd962b1698c735d9a0cc285beccba3dd9df39c6c2379cb2db.jpg",
+    "place_id": "ChIJ-VHqG6_vGGARj1owS3j7rNQ",
+    "g_name": "ウドンスタンド五頭",
+    "g_rating": 3.9,
+    "g_reviews": 214,
+    "g_address": "日本、〒180-0013 東京都武蔵野市西久保１丁目６−２０",
+    "lat": 35.7073324,
+    "lng": 139.560711
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "麺許皆伝",
+    "name_en": "Menkyo Kaiden",
+    "area": "山梨県 富士吉田市",
+    "url": "https://tabelog.com/yamanashi/A1903/A190301/19000136/",
+    "rating": 3.65,
+    "review_count_tabelog": 681,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Regional Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 14:00",
+        "dtl_text": "11:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 1281,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJvwk8PitnGWAR2zmdVvzBBo8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/19000136-cf39d5b19532aa08ec7db9e62eb82969c768be4ca0e2504816614e4143a94f04.jpg",
+    "place_id": "ChIJvwk8PitnGWAR2zmdVvzBBo8",
+    "g_name": "手打うどん 麺許皆伝",
+    "g_rating": 4.2,
+    "g_reviews": 1281,
+    "g_address": "日本、〒403-0032 山梨県富士吉田市上吉田東１丁目４−５８",
+    "lat": 35.4791325,
+    "lng": 138.8006149
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "竹や",
+    "name_en": "Takeya",
+    "area": "東京都 御茶ノ水駅",
+    "url": "https://tabelog.com/tokyo/A1310/A131002/13005072/",
+    "rating": 3.67,
+    "review_count_tabelog": 1287,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Curry Udon, Izakaya (Japanese style tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 15:00 17:00 - 23:00 L.O. 22:00",
+        "dtl_text": "17:00 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Public Holiday",
+        "dtl": "11:00 - 15:00 17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The restaurant operates on weekdays (Monday to Saturday) even during public holidays. However, if a public holiday falls on a Sunday, the restaurant will remain closed."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 712,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJl7YRHRmMGGAReoVumUJxnjI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13005072-c8ad449c044b1e8ff89cf87de542ba6904652c8c754134970a5918492da8ecd0.jpg",
+    "place_id": "ChIJl7YRHRmMGGAReoVumUJxnjI",
+    "g_name": "細打ちうどん竹や 御茶ノ水本店",
+    "g_rating": 4.2,
+    "g_reviews": 712,
+    "g_address": "日本、〒113-0034 東京都文京区湯島１丁目９−１５",
+    "lat": 35.70181820000001,
+    "lng": 139.7661022
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "田舎うどん てつ",
+    "name_en": "Inaka Udon Tetsu",
+    "area": "埼玉県 川越市",
+    "url": "https://tabelog.com/saitama/A1103/A110303/11004160/",
+    "rating": 3.7,
+    "review_count_tabelog": 434,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles), Regional Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri, Sat, Sun, Public Holiday, Day before public holiday",
+        "dtl": "11:00 - 14:00",
+        "dtl_text": "11:00 - 14:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays and Thursdays (Open on public holidays that fall on these days)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 672,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5w0OYV_DGGARSYkQzp7AQzA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/11004160-cb0b9773f368f2ccf0345af6e045531d77d15e7940198a48bad9d8129089286a.jpg",
+    "place_id": "ChIJ5w0OYV_DGGARSYkQzp7AQzA",
+    "g_name": "田舎 うどん てつ",
+    "g_rating": 4.3,
+    "g_reviews": 672,
+    "g_address": "日本、〒350-0011 埼玉県川越市久下戸２８８１",
+    "lat": 35.8898173,
+    "lng": 139.5447714
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "玉川 豊橋広小路本店",
+    "name_en": "Tamgawa",
+    "area": "愛知県 豊橋市",
+    "url": "https://tabelog.com/aichi/A2306/A230601/23009617/",
+    "rating": 3.64,
+    "review_count_tabelog": 1210,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles), Curry Udon, Izakaya (Japanese style tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:00 - 15:00 L.O. 14:30 17:00 - 21:00 L.O. 20:20",
+        "dtl_text": "17:00 - 21:00 L.O. 20:20"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 1330,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJTSjITgnSBGAR67ZMNTiO_s8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/23009617-12b77cfa5de3f9d911e3779f584cd46abfdd4ca351a9f85147e4b9384882f135.jpg",
+    "place_id": "ChIJTSjITgnSBGAR67ZMNTiO_s8",
+    "g_name": "玉川うどん 豊橋広小路本店",
+    "g_rating": 4.1,
+    "g_reviews": 1330,
+    "g_address": "日本、〒440-0881 愛知県豊橋市広小路１丁目１３",
+    "lat": 34.7644284,
+    "lng": 137.384453
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "めん専門店 味良",
+    "name_en": "Men Senmon Ten Ajiyoshi",
+    "area": "愛知県 名古屋市北区",
+    "url": "https://tabelog.com/aichi/A2301/A230110/23013430/",
+    "rating": 3.63,
+    "review_count_tabelog": 434,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Curry Udon",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 14:00",
+        "dtl_text": "11:30 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 298,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ6gcaf1zA2AReq2Jpr9q6yM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/23013430-df7139e7a1a823e932f7a6113d615baecc13d5d8504aaac102ba2a29448c589f.jpg",
+    "place_id": "ChIJQ6gcaf1zA2AReq2Jpr9q6yM",
+    "g_name": "味良",
+    "g_rating": 4.5,
+    "g_reviews": 298,
+    "g_address": "日本、〒462-0022 愛知県名古屋市北区川中町４−３ 中切住宅",
+    "lat": 35.2123409,
+    "lng": 136.910964
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "本格手打うどん あらた",
+    "name_en": "Honkaku Teuchi Udon Arata",
+    "area": "東京都 八王子駅",
+    "url": "https://tabelog.com/tokyo/A1329/A132904/13025001/",
+    "rating": 3.67,
+    "review_count_tabelog": 422,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Curry Udon",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Sat",
+        "dtl": "11:00 - 14:30 17:30 - 21:00 L.O. 20:00",
+        "dtl_text": "17:30 - 21:00 L.O. 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Fri",
+        "dtl": "11:00 - 14:30",
+        "dtl_text": "11:00 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 230,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJCUkytXkeGWARO4op2piy4C4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13025001-30cf768b6e33666f4d5f2640148b176326f2ecead4d5e672b8682683c063abf8.jpg",
+    "place_id": "ChIJCUkytXkeGWARO4op2piy4C4",
+    "g_name": "本格手打うどん あらた",
+    "g_rating": 4.2,
+    "g_reviews": 230,
+    "g_address": "日本、〒192-0071 東京都八王子市八日町１０−１",
+    "lat": 35.6602209,
+    "lng": 139.3335338
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "手打ちうどん まつ奈",
+    "name_en": "Teuchi Udon Matsuna",
+    "area": "埼玉県 浦和駅",
+    "url": "https://tabelog.com/saitama/A1101/A110102/11028299/",
+    "rating": 3.63,
+    "review_count_tabelog": 323,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 L.O. 14:30",
+        "dtl_text": "11:00 - 15:00 L.O. 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.7,
+    "google_reviews": 157,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJWe79W4XqGGARLpQ7Lfb_26Q",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/11028299-41c4e8a0680e671011bcd082b1f9b755cb27cae2e4ce0e42a5b8dca30982480d.jpg",
+    "place_id": "ChIJWe79W4XqGGARLpQ7Lfb_26Q",
+    "g_name": "まつ奈",
+    "g_rating": 3.7,
+    "g_reviews": 157,
+    "g_address": "日本、〒330-0064 埼玉県さいたま市浦和区岸町３丁目３−１６ 手打うどんまつ奈",
+    "lat": 35.85364630000001,
+    "lng": 139.659679
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "ががちゃ屋",
+    "name_en": "Kagacha",
+    "area": "埼玉県 一本松駅",
+    "url": "https://tabelog.com/saitama/A1103/A110304/11017604/",
+    "rating": 3.68,
+    "review_count_tabelog": 266,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles), Curry Udon, Izakaya (Japanese style tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 L.O. Food 14:00",
+        "dtl_text": "11:30 - 14:30 L.O. Food 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 111,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJE3XriGvXGGARorunt6MWoYc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/11017604-f9849b5c4883064e7ae9d6b2ed86756e18a2d33a1ae52f61ac03e1d35b09c76c.jpg",
+    "place_id": "ChIJE3XriGvXGGARorunt6MWoYc",
+    "g_name": "ががちゃ屋",
+    "g_rating": 4.2,
+    "g_reviews": 111,
+    "g_address": "日本、〒350-2222 埼玉県鶴ヶ島市下新田１２−８",
+    "lat": 35.9428456,
+    "lng": 139.3700687
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "手打うどん 長谷沼",
+    "name_en": "Hasenuma",
+    "area": "埼玉県 本川越駅",
+    "url": "https://tabelog.com/saitama/A1103/A110303/11033610/",
+    "rating": 3.74,
+    "review_count_tabelog": 895,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Deep-fried foods",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 591,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJD4_xF1zaGGAR4oPYluSRn4Q",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/11033610-888873a47d15f8b48d925c664b08b6445880ff2c95a04f4b01a27e6759ba89f4.jpg",
+    "place_id": "ChIJD4_xF1zaGGAR4oPYluSRn4Q",
+    "g_name": "手打うどん 長谷沼",
+    "g_rating": 4.4,
+    "g_reviews": 591,
+    "g_address": "日本、〒350-0042 埼玉県川越市中原町２丁目１−１３",
+    "lat": 35.9157322,
+    "lng": 139.4815347
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "手打うどん長谷川",
+    "name_en": "Teuchi Udon Hasegawa",
+    "area": "東京都 大泉学園駅",
+    "url": "https://tabelog.com/tokyo/A1321/A132103/13105083/",
+    "rating": 3.71,
+    "review_count_tabelog": 747,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Japanese sake bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 L.O. 14:00 18:00 - 20:30 L.O. 20:00",
+        "dtl_text": "18:00 - 20:30 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "First and last Tuesday of each month (open on public holidays)"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 362,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJO2ze9ujuGGARZXN5RI7UFzY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13105083-dfb11b8875035bcf16a71102c8e393fb7ebe1ff7e6a38bf0d487f4c7c0f63292.jpg",
+    "place_id": "ChIJO2ze9ujuGGARZXN5RI7UFzY",
+    "g_name": "長谷川",
+    "g_rating": 4.2,
+    "g_reviews": 362,
+    "g_address": "日本、〒178-0063 東京都練馬区東大泉４丁目３−１８ 102",
+    "lat": 35.7507667,
+    "lng": 139.5851416
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "豚や",
+    "name_en": "Butaya",
+    "area": "東京都 杉並区",
+    "url": "https://tabelog.com/tokyo/A1319/A131907/13018776/",
+    "rating": 3.63,
+    "review_count_tabelog": 492,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Sat, Sun",
+        "dtl": "11:00 - 14:30",
+        "dtl_text": "11:00 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Fri",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 437,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ6JzTwruGGARO-1N34SMH_U",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13018776-cb1cb4d42ed12b977569a13287bd5d8618424e8e0a5af8f0d2f94a5005f2bb0a.jpg",
+    "place_id": "ChIJJ6JzTwruGGARO-1N34SMH_U",
+    "g_name": "東京うどん 豚や",
+    "g_rating": 4,
+    "g_reviews": 437,
+    "g_address": "日本、〒167-0043 東京都杉並区上荻４丁目１９−２３",
+    "lat": 35.7109493,
+    "lng": 139.6076273
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "玉丁本店 八重洲店",
+    "name_en": "Tamacho Honten Yaesu Ten",
+    "area": "東京都 東京駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130201/13015841/",
+    "rating": 3.64,
+    "review_count_tabelog": 1793,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles), Regional Cuisine, Gelato, Ice cream",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 22:00 L.O. 21:00",
+        "dtl_text": "11:00 - 22:00 L.O. 21:00"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.8,
+    "google_reviews": 976,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8efq7_yLGGARoWIgnVt4R7Q",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13015841-8c2868652948f4fb9165150667774be5f3b37105a35b7f5badef6393edf6698a.jpg",
+    "place_id": "ChIJ8efq7_yLGGARoWIgnVt4R7Q",
+    "g_name": "玉丁本店 八重洲店",
+    "g_rating": 3.8,
+    "g_reviews": 976,
+    "g_address": "日本、〒104-0028 東京都中央区八重洲２丁目１ 八重洲地下街 南一番街",
+    "lat": 35.6792713,
+    "lng": 139.7682005
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "おにやんま 五反田本店",
+    "name_en": "Oniyanma Gotanda Honten",
+    "area": "東京都 五反田駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131603/13111869/",
+    "rating": 3.75,
+    "review_count_tabelog": 4548,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "07:00 - 03:00",
+        "dtl_text": "07:00 - 03:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "07:00 - 00:00",
+        "dtl_text": "07:00 - 00:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round (with occasional temporary closures)"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 2963,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJHR69_fqKGGAR9y7Ha529UaA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13111869-953823672df4f024a5cf95a6185c1285169d21bad48c9557456c4b22c79284ab.jpg",
+    "place_id": "ChIJHR69_fqKGGAR9y7Ha529UaA",
+    "g_name": "おにやんま 五反田本店",
+    "g_rating": 4.1,
+    "g_reviews": 2963,
+    "g_address": "日本、〒141-0031 東京都品川区西五反田１丁目６−３",
+    "lat": 35.62542639999999,
+    "lng": 139.7239524
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "きしや",
+    "name_en": "Kishiya",
+    "area": "愛知県 池下駅",
+    "url": "https://tabelog.com/aichi/A2301/A230106/23001708/",
+    "rating": 3.63,
+    "review_count_tabelog": 627,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles), Ramen, Curry Udon",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:00 17:30 - 21:00",
+        "dtl_text": "17:30 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 363,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9bDww2FwA2ARfMErsDGY3Ck",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/23001708-378e4c19d34e3a2fe0261c81f7f813b8f5fd56094db54ab3819fa27830b7a3db.jpg",
+    "place_id": "ChIJ9bDww2FwA2ARfMErsDGY3Ck",
+    "g_name": "㐂しや",
+    "g_rating": 4.3,
+    "g_reviews": 363,
+    "g_address": "日本、〒464-0074 愛知県名古屋市千種区仲田２丁目１７−７ 池下タワーズ １F",
+    "lat": 35.168625,
+    "lng": 136.9424867
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "難波千日前 釜たけうどん 八重洲北口店",
+    "name_en": "Nanba Sennichimae Kamatake Udon Yaezukahokuguchiten",
+    "area": "東京都 東京駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130201/13156494/",
+    "rating": 3.7,
+    "review_count_tabelog": 2604,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Curry Udon",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 23:00 L.O. 22:00",
+        "dtl_text": "11:00 - 23:00 L.O. 22:00"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.9,
+    "google_reviews": 650,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGeYlX_mLGGARIICYwD3-vM4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13156494-d04858be318aa84b57bc94ab071d53a59fa720010dc45bade7aa840e790d4a4a.jpg",
+    "place_id": "ChIJGeYlX_mLGGARIICYwD3-vM4",
+    "g_name": "難波千日前 釜たけうどん 八重洲北口",
+    "g_rating": 3.9,
+    "g_reviews": 650,
+    "g_address": "日本、〒100-0005 東京都千代田区丸の内１丁目９−１ JR 東京駅 八重洲北口改札 外 グランスタ八重北１階",
+    "lat": 35.6824693,
+    "lng": 139.7680737
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "五代目 花山うどん 銀座店",
+    "name_en": "Godaime Hanayama Udon Ginza Ten",
+    "area": "東京都 東銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13200630/",
+    "rating": 3.64,
+    "review_count_tabelog": 1335,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles), Izakaya (Japanese style tavern), Deep-fried foods",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 15:30 L.O. Food 15:00 17:30 - 21:30",
+        "dtl_text": "17:30 - 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 16:00 L.O. Food 15:30",
+        "dtl_text": "11:00 - 16:00 L.O. Food 15:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 2113,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3Q5zleCLGGARnuvHr-FOgMM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13200630-6402e50fb052ee99476a1b9715d5bc8cf1e6f5ac88697178d1257bb305a6a54c.jpg",
+    "place_id": "ChIJ3Q5zleCLGGARnuvHr-FOgMM",
+    "g_name": "五代目 花山うどん 銀座店",
+    "g_rating": 4.2,
+    "g_reviews": 2113,
+    "g_address": "日本、〒104-0061 東京都中央区銀座３丁目１４−１３",
+    "lat": 35.6699002,
+    "lng": 139.7691376
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "正太郎うどん",
+    "name_en": "Shotaro Udon",
+    "area": "東京都 上井草駅",
+    "url": "https://tabelog.com/tokyo/A1321/A132105/13095768/",
+    "rating": 3.63,
+    "review_count_tabelog": 349,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Curry Udon",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "11:00 - 14:00",
+        "dtl_text": "11:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:00 17:00 - 20:00",
+        "dtl_text": "17:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 266,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJa6GX7n3uGGARfcMFCIVe5ZA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13095768-26ef1cbe9c01be5caed37ca7dc932ac22ae689321d34715c1a6ab286ad6dc0c9.jpg",
+    "place_id": "ChIJa6GX7n3uGGARfcMFCIVe5ZA",
+    "g_name": "正太郎うどん",
+    "g_rating": 4.2,
+    "g_reviews": 266,
+    "g_address": "日本、〒177-0042 東京都練馬区下石神井５丁目１−３５",
+    "lat": 35.7298953,
+    "lng": 139.603519
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "讃岐うどん 條辺",
+    "name_en": "Sanuki Udon Jobe",
+    "area": "埼玉県 上福岡駅",
+    "url": "https://tabelog.com/saitama/A1103/A110302/11004258/",
+    "rating": 3.74,
+    "review_count_tabelog": 1109,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Tempura, Curry Udon",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "09:00 - 15:00",
+        "dtl_text": "09:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 1239,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJO51QKqfcGGARQUSvmPZLXX8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/11004258-e16f0b0e7ae4fcecfdd517997e5742b01a7d5ddc50a324566c0a3dcf07ae2717.jpg",
+    "place_id": "ChIJO51QKqfcGGARQUSvmPZLXX8",
+    "g_name": "讃岐うどん條辺",
+    "g_rating": 4.4,
+    "g_reviews": 1239,
+    "g_address": "日本、〒356-0004 埼玉県ふじみ野市上福岡１丁目７−９",
+    "lat": 35.874961,
+    "lng": 139.512956
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "六助うどん",
+    "name_en": "Rokusuke Udon",
+    "area": "埼玉県 本庄市",
+    "url": "https://tabelog.com/saitama/A1105/A110504/11004153/",
+    "rating": 3.68,
+    "review_count_tabelog": 474,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles), Curry Udon, Katsu-don (Pork cutlet bowl)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 14:00 17:30 - 20:30 L.O. 20:00",
+        "dtl_text": "17:30 - 20:30 L.O. 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:00 - 14:00",
+        "dtl_text": "11:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 892,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJid_gzzHdHmARq2i4ixWnn-A",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/11004153-4eeb0dcaa85ceb8e5fe8dd00caf832efa3d3e98ac18254db49ed711da2a02b8f.jpg",
+    "place_id": "ChIJid_gzzHdHmARq2i4ixWnn-A",
+    "g_name": "六助うどん",
+    "g_rating": 4.2,
+    "g_reviews": 892,
+    "g_address": "日本、〒367-0017 埼玉県本庄市傍示堂５７５",
+    "lat": 36.2366682,
+    "lng": 139.2100335
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "麺匠 釜善",
+    "name_en": "KAMAYOSHI",
+    "area": "東京都 淡路町駅",
+    "url": "https://tabelog.com/tokyo/A1310/A131002/13201863/",
+    "rating": 3.79,
+    "review_count_tabelog": 864,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Curry Udon, Tempura",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 15:00 L.O. 14:45 17:30 - 20:20 L.O. 20:00",
+        "dtl_text": "17:30 - 20:20 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:00 - 15:00 L.O. 14:45",
+        "dtl_text": "11:00 - 15:00 L.O. 14:45"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 365,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJRcu6ggOMGGAR62_THvo-ho4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13201863-96a5f63e4b0de999ee797911c4b9b4ffa8b939b4d0dc0fc9e05810d5a289ee05.jpg",
+    "place_id": "ChIJRcu6ggOMGGAR62_THvo-ho4",
+    "g_name": "麺匠 釜善（KAMAYOSHI）",
+    "g_rating": 4.2,
+    "g_reviews": 365,
+    "g_address": "日本、〒101-0048 東京都千代田区神田司町２丁目１４−１５ 高梨ビル 1F",
+    "lat": 35.69369289999999,
+    "lng": 139.7683106
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "由す美",
+    "name_en": "Yoshisumi",
+    "area": "埼玉県 行田市",
+    "url": "https://tabelog.com/saitama/A1104/A110403/11003505/",
+    "rating": 3.67,
+    "review_count_tabelog": 353,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Tempura, Donburi (Rice bowl)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:00 17:00 - 20:15",
+        "dtl_text": "17:00 - 20:15"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 309,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ93oO_fErH2ARSZ0dxnCdqGs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/11003505-a3f8147761e937cd3651b78ad48beeecb864e2c30317f341fd45c71854b5ca0f.jpg",
+    "place_id": "ChIJ93oO_fErH2ARSZ0dxnCdqGs",
+    "g_name": "由す美",
+    "g_rating": 4.2,
+    "g_reviews": 309,
+    "g_address": "日本、〒361-0041 埼玉県行田市棚田町２丁目３−６",
+    "lat": 36.1247498,
+    "lng": 139.4364924
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "自家製さぬきうどんと肉 甚三 大門店",
+    "name_en": "Jikasei Sanuki Udon to Niku Jinza Daimon Ten",
+    "area": "東京都 大門駅",
+    "url": "https://tabelog.com/tokyo/A1314/A131401/13188754/",
+    "rating": 3.68,
+    "review_count_tabelog": 1885,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Curry Udon, Tempura",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "None (Year-end & New Year Holidays may apply)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 1048,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4_qHlseLGGARhwuFUYLFG6U",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13188754-8aef0823960bd4139f36a745d3ec3e82c6f35b06252f56bd88b4594835a1715c.jpg",
+    "place_id": "ChIJ4_qHlseLGGARhwuFUYLFG6U",
+    "g_name": "自家製さぬきうどん 甚三 大門店",
+    "g_rating": 4.3,
+    "g_reviews": 1048,
+    "g_address": "日本、〒105-0012 東京都港区芝大門２丁目６−１０ コンフォート芝大門",
+    "lat": 35.6548557,
+    "lng": 139.7536083
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "谷や",
+    "name_en": "Taniya",
+    "area": "東京都 水天宮前駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130204/13114085/",
+    "rating": 3.7,
+    "review_count_tabelog": 2545,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 21:30 L.O. 21:15",
+        "dtl_text": "11:00 - 21:30 L.O. 21:15"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 1629,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJP0ncf0-JGGARuVGs16pMwdo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13114085-2e71cf4aa5b4f89b3f4f32f2e057e74cafd4b522549a05f201a18a7a45f54480.jpg",
+    "place_id": "ChIJP0ncf0-JGGARuVGs16pMwdo",
+    "g_name": "谷や",
+    "g_rating": 4.1,
+    "g_reviews": 1629,
+    "g_address": "日本、〒103-0013 東京都中央区日本橋人形町２丁目１５−１７",
+    "lat": 35.6846089,
+    "lng": 139.7857266
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "武蔵野 伝統の味 涼太郎",
+    "name_en": "Musashino Dentou no Aji Ryotaro",
+    "area": "埼玉県 所沢駅",
+    "url": "https://tabelog.com/saitama/A1106/A110601/11000460/",
+    "rating": 3.65,
+    "review_count_tabelog": 511,
+    "price_dinner": "～￥999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles), Curry Udon",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:45",
+        "dtl_text": "11:00 - 14:45",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.9,
+    "google_reviews": 328,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ28zQ1XznGGARmAq7EcR7zF0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/11000460-c14af9ecd6130db7962ad993ca11a5ea5a3175a1a624105f5098294c2df23831.jpg",
+    "place_id": "ChIJ28zQ1XznGGARmAq7EcR7zF0",
+    "g_name": "手打ちうどん 涼太郎 所沢店",
+    "g_rating": 3.9,
+    "g_reviews": 328,
+    "g_address": "日本、〒359-0037 埼玉県所沢市くすのき台３丁目１４−４",
+    "lat": 35.7870845,
+    "lng": 139.4773314
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "あそび",
+    "name_en": "Asobi",
+    "area": "埼玉県 比企郡小川町",
+    "url": "https://tabelog.com/saitama/A1105/A110605/11017560/",
+    "rating": 3.66,
+    "review_count_tabelog": 323,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles), Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:00",
+        "dtl_text": "11:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 355,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJoUsGrM_THmARvXJzRmJNd5Q",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/11017560-2c6d8022244edba4a6a74cc250b8336c33ac0602510fb7fa99797a5ae42f0768.jpg",
+    "place_id": "ChIJoUsGrM_THmARvXJzRmJNd5Q",
+    "g_name": "手打ちうどん あそび",
+    "g_rating": 4.1,
+    "g_reviews": 355,
+    "g_address": "日本、〒355-0332 埼玉県比企郡小川町増尾４７３−６",
+    "lat": 36.0512808,
+    "lng": 139.2515756
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "とこ井",
+    "name_en": "Tokoi",
+    "area": "東京都 高円寺駅",
+    "url": "https://tabelog.com/tokyo/A1319/A131904/13153065/",
+    "rating": 3.64,
+    "review_count_tabelog": 874,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Public Holiday",
+        "dtl": "11:00 - 16:00 17:00 - 21:00 L.O. 20:45",
+        "dtl_text": "17:00 - 21:00 L.O. 20:45"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "11:00 - 21:00 L.O. 20:45",
+        "dtl_text": "11:00 - 21:00 L.O. 20:45"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (the following Tuesday if a holiday falls on Monday)"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 542,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJMSzCSn3yGGARo-r2LsyYIX4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13153065-613679c20db52bcae2db398e22d53390eeeba58e5008713684501f1ca9924d7d.jpg",
+    "place_id": "ChIJMSzCSn3yGGARo-r2LsyYIX4",
+    "g_name": "肉汁饂飩屋 とこ井",
+    "g_rating": 4.1,
+    "g_reviews": 542,
+    "g_address": "日本、〒166-0003 東京都杉並区高円寺南４丁目７−５ 久万乃ビル 1F",
+    "lat": 35.7033217,
+    "lng": 139.6491082
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "うちたて家",
+    "name_en": "Uchitate ya",
+    "area": "東京都 池袋駅",
+    "url": "https://tabelog.com/tokyo/A1305/A130501/13003889/",
+    "rating": 3.7,
+    "review_count_tabelog": 2837,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 21:00 L.O. 20:30",
+        "dtl_text": "11:00 - 21:00 L.O. 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 1711,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ8cSyWmNGGAR7Ax6gcdCnTI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13003889-9f8b5ad3e785fabe6b8101fc410d7920550ef4eec922718765c1f409c688d015.jpg",
+    "place_id": "ChIJJ8cSyWmNGGAR7Ax6gcdCnTI",
+    "g_name": "武蔵野うどん うちたて家",
+    "g_rating": 4,
+    "g_reviews": 1711,
+    "g_address": "日本、〒171-0022 東京都豊島区南池袋３丁目１３−１７ Mashita5ビル １Ｆ",
+    "lat": 35.7261485,
+    "lng": 139.712655
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "本手打ちうどん庄司",
+    "name_en": "Hon Teuchi Udon Shoji",
+    "area": "埼玉県 比企郡川島町",
+    "url": "https://tabelog.com/saitama/A1105/A110502/11001574/",
+    "rating": 3.72,
+    "review_count_tabelog": 645,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Regional Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:30 - 14:30",
+        "dtl_text": "10:30 - 14:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed. Please check our official Instagram for updates on our closing days."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 1424,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJx9uigSPRGGARdDShT7v4xZw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/11001574-fc7fe2cfe3a8de498ae6d3ab071f859b2e9462b795994d96008af1b50726e29a.jpg",
+    "place_id": "ChIJx9uigSPRGGARdDShT7v4xZw",
+    "g_name": "本手打うどん庄司",
+    "g_rating": 4.2,
+    "g_reviews": 1424,
+    "g_address": "日本、〒350-0152 埼玉県比企郡川島町上伊草７４３−９",
+    "lat": 35.9727968,
+    "lng": 139.4621232
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "稲庭うどんとめし 金子半之助 コレド室町店",
+    "name_en": "Inaniwa Udon to Meshi Kaneko Hannosuke Coredo Muromachi Ten",
+    "area": "東京都 三越前駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130202/13193074/",
+    "rating": 3.63,
+    "review_count_tabelog": 2009,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles), Ten-don (Tempura bowl), Kaisen-don (Seafood bowl)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 21:00",
+        "dtl_text": "11:00 - 21:00"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 871,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJl92kr1WJGGARTW3vwEAHXe8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13193074-107a992e95d3894e631ece123a09f03dc8a2b2f01999805ea09fc93378a6ac81.jpg",
+    "place_id": "ChIJl92kr1WJGGARTW3vwEAHXe8",
+    "g_name": "稲庭うどんとめし 金子半之助",
+    "g_rating": 4.1,
+    "g_reviews": 871,
+    "g_address": "日本、〒103-0022 東京都中央区日本橋室町２丁目３−１ コレド室町2 地下1階",
+    "lat": 35.6868821,
+    "lng": 139.7747414
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "あんぷく 池袋店",
+    "name_en": "Anpuku Ikebukuro Ten",
+    "area": "東京都 池袋駅",
+    "url": "https://tabelog.com/tokyo/A1305/A130501/13097934/",
+    "rating": 3.62,
+    "review_count_tabelog": 1651,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Izakaya (Japanese style tavern), Curry Udon",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday",
+        "dtl": "11:00 - 15:00 L.O. 14:30 17:00 - 23:00 L.O. 22:00",
+        "dtl_text": "17:00 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:00 - 15:00 L.O. 14:30 17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "In 2025, we will reopen for dinner at 17:00 on January 4."
+    },
+    "google_rating": 3.8,
+    "google_reviews": 415,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJSUP2h16NGGAR5Bm1GxYV6Z4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13097934-284a419e2465ccd9c1a168eda8d1f7d5c35fa34e466e5846259c2d1b3cf61c5b.jpg",
+    "place_id": "ChIJSUP2h16NGGAR5Bm1GxYV6Z4",
+    "g_name": "あんぷく池袋店",
+    "g_rating": 3.8,
+    "g_reviews": 415,
+    "g_address": "日本、〒171-0021 東京都豊島区西池袋１丁目３７−８ Ｊ・Ｐビル 1F",
+    "lat": 35.7324319,
+    "lng": 139.7089887
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "うどん 慎",
+    "name_en": "Udon Shin",
+    "area": "東京都 南新宿駅",
+    "url": "https://tabelog.com/tokyo/A1304/A130401/13125862/",
+    "rating": 3.7,
+    "review_count_tabelog": 2497,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:00 - 22:00",
+        "dtl_text": "11:00 - 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Year-end & New Year Holidays (Dec 30 - Jan 2)"
+    },
+    "google_rating": 4,
+    "google_reviews": 4740,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQCl79GMGGARZheneHqgIUs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13125862-fa4d7d971bd1322dff4d96a3d6661c904e9d2932359ace75147c6aac02054389.jpg",
+    "place_id": "ChIJAQCl79GMGGARZheneHqgIUs",
+    "g_name": "うどん 慎",
+    "g_rating": 4,
+    "g_reviews": 4740,
+    "g_address": "日本、〒151-0053 東京都渋谷区代々木２丁目２０−１６ 相馬ビル １F",
+    "lat": 35.6864899,
+    "lng": 139.6969979
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "五島うどん びぜん家",
+    "name_en": "Goto Udon Bizenya",
+    "area": "東京都 武蔵小金井駅",
+    "url": "https://tabelog.com/tokyo/A1325/A132501/13126103/",
+    "rating": 3.66,
+    "review_count_tabelog": 488,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles), Regional Cuisine, Tempura",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 14:15",
+        "dtl_text": "11:30 - 14:15",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 14:30",
+        "dtl_text": "11:30 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (Tuesdays if a holiday falls on Monday)"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 238,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJf1-btrzlGGARpaYsrv2Q9N0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13126103-bdc53cfeaef4350e09d1329e130d50203c316a2b97653f9e06899ef77ac067c0.jpg",
+    "place_id": "ChIJf1-btrzlGGARpaYsrv2Q9N0",
+    "g_name": "びぜん家",
+    "g_rating": 4.1,
+    "g_reviews": 238,
+    "g_address": "日本、〒184-0004 東京都小金井市本町６丁目９−４２ ＳＫビル",
+    "lat": 35.6997621,
+    "lng": 139.5036983
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "小平うどん 小平本店",
+    "name_en": "Kodaira Udon Kodaira Honten",
+    "area": "東京都 小平市",
+    "url": "https://tabelog.com/tokyo/A1328/A132804/13087964/",
+    "rating": 3.66,
+    "review_count_tabelog": 903,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 20:00",
+        "dtl_text": "11:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.9,
+    "google_reviews": 1854,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3Vk2btDlGGARlc5o2QB5hCY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13087964-8b7e240032fde682d5e3957dd3eb135fccc4037b5e4002508ff6cb4c25fd032d.jpg",
+    "place_id": "ChIJ3Vk2btDlGGARlc5o2QB5hCY",
+    "g_name": "小平うどん 小平本店",
+    "g_rating": 3.9,
+    "g_reviews": 1854,
+    "g_address": "日本、〒187-0013 東京都小平市回田町３００−２",
+    "lat": 35.7169433,
+    "lng": 139.4967792
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "手打うどん すみた",
+    "name_en": "Teuchi Udon Sumita",
+    "area": "東京都 赤羽岩淵駅",
+    "url": "https://tabelog.com/tokyo/A1323/A132305/13003783/",
+    "rating": 3.8,
+    "review_count_tabelog": 1465,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles), Tempura, Oden",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Fri, Sat",
+        "dtl": "11:00 - 14:00 L.O. Food 13:30 18:00 - 21:30 L.O. Food 20:30",
+        "dtl_text": "18:00 - 21:30 L.O. Food 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "11:00 - 14:00 L.O. Food 13:30",
+        "dtl_text": "11:00 - 14:00 L.O. Food 13:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 644,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ56wJAQKTGGARHV2IHb4KpGo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13003783-40c2768dbb7d5d48596dda5a3a90484d9465dcd36fda87393ce71c62e2e289ca.jpg",
+    "place_id": "ChIJ56wJAQKTGGARHV2IHb4KpGo",
+    "g_name": "手打うどん すみた",
+    "g_rating": 4.1,
+    "g_reviews": 644,
+    "g_address": "日本、〒115-0042 東京都北区志茂２丁目５２−８ キヨハイツ",
+    "lat": 35.7805002,
+    "lng": 139.7266233
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "ぶつをのうどん",
+    "name_en": "Butsu no Udon",
+    "area": "栃木県 宇都宮市",
+    "url": "https://tabelog.com/tochigi/A0901/A090101/9003113/",
+    "rating": 3.65,
+    "review_count_tabelog": 397,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Donburi (Rice bowl), Onigiri (Rice ball)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 L.O. 14:30 17:00 - 20:00 L.O. 19:45",
+        "dtl_text": "17:00 - 20:00 L.O. 19:45",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 372,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJS5Zxkr1nH2AReAMWbWLZ6w4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/9003113-dde45c1250e351a0327cc284629b4f309e70529bb363ad1aac99890d8d5a70f9.jpg",
+    "place_id": "ChIJS5Zxkr1nH2AReAMWbWLZ6w4",
+    "g_name": "ぶつをのうどん",
+    "g_rating": 4.2,
+    "g_reviews": 372,
+    "g_address": "日本、〒320-0807 栃木県宇都宮市松が峰２丁目９−３ Tmビル 1階",
+    "lat": 36.5557455,
+    "lng": 139.8818383
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "酒と味噌煮込み 味噌煮込罠",
+    "name_en": "Sake to Misonikomi Misonikomin",
+    "area": "東京都 本郷三丁目駅",
+    "url": "https://tabelog.com/tokyo/A1310/A131004/13036030/",
+    "rating": 3.67,
+    "review_count_tabelog": 934,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 14:30 17:30 - 21:00 L.O. 21:00",
+        "dtl_text": "17:30 - 21:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:30 - 14:30",
+        "dtl_text": "11:30 - 14:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 479,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7fo0vTyMGGARN5bvPRRQL6w",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13036030-0b17bd3c71407b151e66f540f0cc7fdb33e3ccc373f5b2dd1364970817a21b54.jpg",
+    "place_id": "ChIJ7fo0vTyMGGARN5bvPRRQL6w",
+    "g_name": "味噌煮込罠",
+    "g_rating": 4.2,
+    "g_reviews": 479,
+    "g_address": "日本、〒113-0033 東京都文京区本郷３丁目３１−１５ 菅谷ビル",
+    "lat": 35.7064067,
+    "lng": 139.7614332
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "慶屋",
+    "name_en": "Keiya",
+    "area": "東京都 日比谷駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130102/13044658/",
+    "rating": 3.67,
+    "review_count_tabelog": 1116,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Soba (Buckwheat noodles), Curry Udon",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 23:00",
+        "dtl_text": "11:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "11:00 - 19:00",
+        "dtl_text": "11:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.8,
+    "google_reviews": 327,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1559lO-LGGARf41O0tGfwrU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13044658-d38370eb37ed74d2a9fe854833909a34427608bc2d56aa03f8bc1487ef053e4e.jpg",
+    "place_id": "ChIJ1559lO-LGGARf41O0tGfwrU",
+    "g_name": "慶屋",
+    "g_rating": 3.8,
+    "g_reviews": 327,
+    "g_address": "日本、〒100-0006 東京都千代田区有楽町２丁目４−１１",
+    "lat": 35.6737382,
+    "lng": 139.7617039
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "楢製麺",
+    "name_en": "Nara Seimen",
+    "area": "東京都 南新宿駅",
+    "url": "https://tabelog.com/tokyo/A1304/A130401/13234984/",
+    "rating": 3.63,
+    "review_count_tabelog": 1394,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles), Ramen, Noodles",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:00 - 21:00 L.O. 21:00",
+        "dtl_text": "11:00 - 21:00 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open from 11:00 on Jan 3"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 684,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJtxzri8mNGGARME1CGWPYl9s",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13234984-bb6ef0db1516957d31624aa2cd8b0d46b4aa0efc5c64f141d6cade8a9b4e12cf.jpg",
+    "place_id": "ChIJtxzri8mNGGARME1CGWPYl9s",
+    "g_name": "楢製麺",
+    "g_rating": 4.1,
+    "g_reviews": 684,
+    "g_address": "日本、〒151-0053 東京都渋谷区代々木２丁目２６−２ 第２桑野ビル",
+    "lat": 35.6852958,
+    "lng": 139.6993173
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "がむしゃら",
+    "name_en": "Gamushara",
+    "area": "埼玉県 仏子駅",
+    "url": "https://tabelog.com/saitama/A1106/A110602/11029324/",
+    "rating": 3.67,
+    "review_count_tabelog": 443,
+    "price_dinner": "～￥999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles), Tempura, Curry Udon",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:00",
+        "dtl_text": "11:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 392,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJm3NhbXwnGWARzeFNj41HXL4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/11029324-e8ac4dbe68e97f6b3eb532728647429de700c4cdd35e30c8fe43472e6f3aa05e.jpg",
+    "place_id": "ChIJm3NhbXwnGWARzeFNj41HXL4",
+    "g_name": "武蔵野うどん がむしゃら",
+    "g_rating": 4.1,
+    "g_reviews": 392,
+    "g_address": "日本、〒358-0054 埼玉県入間市野田８８６−３",
+    "lat": 35.8459978,
+    "lng": 139.3609004
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "手打麺舗丸一",
+    "name_en": "Teuchi Menpo Maruichi",
+    "area": "愛知県 上前津駅",
+    "url": "https://tabelog.com/aichi/A2301/A230105/23013180/",
+    "rating": 3.59,
+    "review_count_tabelog": 207,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 14:30 L.O. 14:00",
+        "dtl_text": "11:00 - 14:30 L.O. 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Obon and Year-end & New Year Holidays"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 356,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJMYzFu8pwA2AR3uJcOoIi-Zw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/23013180-bbfa29fc0dd7f203565785ccb5a5b679ab7a56bc75a2e8eea52db0e5edb0489a.jpg",
+    "place_id": "ChIJMYzFu8pwA2AR3uJcOoIi-Zw",
+    "g_name": "手打麺舗 丸一",
+    "g_rating": 4.2,
+    "g_reviews": 356,
+    "g_address": "日本、〒460-0013 愛知県名古屋市中区上前津１丁目１２−２６ 手打麺舗丸一",
+    "lat": 35.155262,
+    "lng": 136.9035097
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "天茶屋 七蔵",
+    "name_en": "Tenchaya Nanakura",
+    "area": "東京都 新橋駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130103/13002602/",
+    "rating": 3.69,
+    "review_count_tabelog": 2277,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 14:30",
+        "dtl_text": "11:00 - 14:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 923,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJOWFTtumLGGARwtn90fPthVY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13002602-44797fc0dbe7538b8c6fe6331acf67ab51eaee8fdab5d9722f4e8c6139ed4160.jpg",
+    "place_id": "ChIJOWFTtumLGGARwtn90fPthVY",
+    "g_name": "稲庭うどん七蔵",
+    "g_rating": 4.3,
+    "g_reviews": 923,
+    "g_address": "日本、〒105-0004 東京都港区新橋２丁目２０−１５ 新橋駅前ビル1号館 2F",
+    "lat": 35.6661538,
+    "lng": 139.7595306
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "讃岐うどん いそや",
+    "name_en": "Isoya",
+    "area": "東京都 京王八王子駅",
+    "url": "https://tabelog.com/tokyo/A1329/A132904/13022380/",
+    "rating": 3.68,
+    "review_count_tabelog": 438,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Japanese sake bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 14:15 17:30 - 21:00",
+        "dtl_text": "17:30 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:00 - 15:00 L.O. 14:30 17:30 - 21:00",
+        "dtl_text": "17:30 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "11:00 - 15:00 L.O. 14:30",
+        "dtl_text": "11:00 - 15:00 L.O. 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays"
+    },
+    "google_rating": 4,
+    "google_reviews": 178,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJaaCRCHYeGWARDIlmK9j522o",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13022380-c6f9df693483e8b71e128c86ac1b64e124214c087f26a688a3738afba12fe0e3.jpg",
+    "place_id": "ChIJaaCRCHYeGWARDIlmK9j522o",
+    "g_name": "讃岐うどん いそや",
+    "g_rating": 4,
+    "g_reviews": 178,
+    "g_address": "日本、〒192-0063 東京都八王子市元横山町２丁目１−１４ 中島ビル 103",
+    "lat": 35.6613468,
+    "lng": 139.3397041
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "釜揚げうどん専門店もと",
+    "name_en": "Kamaage Udon Senmon Ten Moto",
+    "area": "神奈川県 平塚駅",
+    "url": "https://tabelog.com/kanagawa/A1404/A140407/14061080/",
+    "rating": 3.62,
+    "review_count_tabelog": 546,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles), Japanese Cuisine, Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 15:00 L.O. Food 14:30 17:30 - 21:00 L.O. Food 20:30",
+        "dtl_text": "17:30 - 21:00 L.O. Food 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 354,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJyZVLTietGWARCEkozt9kz9k",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/14061080-c4962d6af25045706f088500f1bb7df17e489d002ad9641851a51b7cfa7e5b47.jpg",
+    "place_id": "ChIJyZVLTietGWARCEkozt9kz9k",
+    "g_name": "釜揚げうどん専門店 もと",
+    "g_rating": 4.2,
+    "g_reviews": 354,
+    "g_address": "日本、〒254-0036 神奈川県平塚市宮松町６−２６ １F",
+    "lat": 35.3342353,
+    "lng": 139.3505749
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "おにやんま 人形町店",
+    "name_en": "Oniyanma Ningyo Cho Ten",
+    "area": "東京都 人形町駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130204/13216456/",
+    "rating": 3.67,
+    "review_count_tabelog": 1270,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "07:00 - 23:00",
+        "dtl_text": "07:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "07:00 - 22:00",
+        "dtl_text": "07:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 668,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJK65z1FGJGGARgt5gMj09HlU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13216456-1d63c502910ae05dae656b46e4c9aeb3f0989d813b23331666c824b8dded2bd4.jpg",
+    "place_id": "ChIJK65z1FGJGGARgt5gMj09HlU",
+    "g_name": "おにやんま 人形町店",
+    "g_rating": 4,
+    "g_reviews": 668,
+    "g_address": "日本、〒103-0013 東京都中央区日本橋人形町２丁目６−１",
+    "lat": 35.6859982,
+    "lng": 139.7827679
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "手打ちうどん いしづか",
+    "name_en": "Teuchi Udon Ishizuka",
+    "area": "埼玉県 桶川駅",
+    "url": "https://tabelog.com/saitama/A1104/A110401/11005554/",
+    "rating": 3.73,
+    "review_count_tabelog": 645,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:00 17:00 - 20:00",
+        "dtl_text": "17:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 476,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJY-FiYqjPGGARr7bPmbn_eHc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/11005554-7b3c7a3c93cbbd717e6fd805ecfc8a338428cca39df1f0653caeb18b8be0e423.jpg",
+    "place_id": "ChIJY-FiYqjPGGARr7bPmbn_eHc",
+    "g_name": "手打ちうどん いしづか",
+    "g_rating": 4.2,
+    "g_reviews": 476,
+    "g_address": "日本、〒363-0015 埼玉県桶川市南１丁目７−５",
+    "lat": 35.9999657,
+    "lng": 139.5663678
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "手打うどん いわしや 青山店",
+    "name_en": "Teuchi Udon Iwashiya Aoyama Ten",
+    "area": "東京都 青山一丁目駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130603/13224471/",
+    "rating": 3.68,
+    "review_count_tabelog": 1121,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 18:00",
+        "dtl_text": "11:00 - 18:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:00 - 14:00",
+        "dtl_text": "11:00 - 14:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 242,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVYps-zCNGGAR1ylRsm5y9XI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13224471-28ccfc8a55e75365a2ef5b6958fccf715b425486278708056a802d2a7a3eed56.jpg",
+    "place_id": "ChIJVYps-zCNGGAR1ylRsm5y9XI",
+    "g_name": "手打うどん いわしや",
+    "g_rating": 4,
+    "g_reviews": 242,
+    "g_address": "日本、〒107-0061 東京都港区北青山１丁目２−３ 青山ビルヂング B1F",
+    "lat": 35.6729861,
+    "lng": 139.7231328
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "うどん料理 千",
+    "name_en": "Udon Ryori Sen",
+    "area": "愛知県 伏見駅",
+    "url": "https://tabelog.com/aichi/A2301/A230102/23007583/",
+    "rating": 3.61,
+    "review_count_tabelog": 656,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Curry Udon, Udon (Wheat noodles), Oden",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 14:00 L.O. 13:30 17:30 - 23:00 L.O. 22:00",
+        "dtl_text": "17:30 - 23:00 L.O. 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.5,
+    "google_reviews": 506,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ21bG-il3A2ARN13LaNgshmI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/23007583-54ee752fe10270065275692eb8714cab7c2cccad8a8ae7464d240334d8c6d9d0.jpg",
+    "place_id": "ChIJ21bG-il3A2ARN13LaNgshmI",
+    "g_name": "伏見駅",
+    "g_rating": 3.5,
+    "g_reviews": 506,
+    "g_address": "日本、〒460-0003 愛知県名古屋市中区錦２丁目１７",
+    "lat": 35.1692512,
+    "lng": 136.8974207
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "みうらうどん",
+    "name_en": "Miura Udon",
+    "area": "山梨県 富士吉田市",
+    "url": "https://tabelog.com/yamanashi/A1903/A190301/19000359/",
+    "rating": 3.67,
+    "review_count_tabelog": 1380,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Regional Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun, Public Holiday, Day after public holiday",
+        "dtl": "10:00 - 14:00",
+        "dtl_text": "10:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.9,
+    "google_reviews": 1609,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJPfhiZTdnGWARQN7WoG3MebA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/19000359-e4bbef6c71f4d456f4ee007775f95f4c16202b48abab7ec2ec88a036208d1550.jpg",
+    "place_id": "ChIJPfhiZTdnGWARQN7WoG3MebA",
+    "g_name": "みうらうどん",
+    "g_rating": 3.9,
+    "g_reviews": 1609,
+    "g_address": "日本、〒403-0004 山梨県富士吉田市下吉田１丁目２２−５",
+    "lat": 35.4945527,
+    "lng": 138.8089797
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "武蔵野うどん 藤原 北与野本店",
+    "name_en": "Musashino Udon Fujiwara Kita Yono Honten",
+    "area": "埼玉県 北与野駅",
+    "url": "https://tabelog.com/saitama/A1101/A110101/11004286/",
+    "rating": 3.67,
+    "review_count_tabelog": 563,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 14:50 L.O. 14:20",
+        "dtl_text": "11:00 - 14:50 L.O. 14:20"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays, and on the 1st (Monday), 15th (Monday), and from December 28 (Sunday) to January 4 (Sunday)."
+    },
+    "google_rating": 4.1,
+    "google_reviews": 544,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1UbTpHbBGGART_1gzPNSTkM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/11004286-0f8065656e2ed3aabc065bca65b61b4de0fa1f0e0ffce6f3af11be85a1f037ef.jpg",
+    "place_id": "ChIJ1UbTpHbBGGART_1gzPNSTkM",
+    "g_name": "武蔵野うどん藤原 北与野本店",
+    "g_rating": 4.1,
+    "g_reviews": 544,
+    "g_address": "日本、〒338-0001 埼玉県さいたま市中央区上落合３丁目１２−３６ ニューシティマンション ニューシティマンション 1F",
+    "lat": 35.8894065,
+    "lng": 139.6242715
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "三丁目の手打うどん",
+    "name_en": "Sanchome no Teuchi Udon",
+    "area": "埼玉県 武蔵藤沢駅",
+    "url": "https://tabelog.com/saitama/A1106/A110602/11001573/",
+    "rating": 3.65,
+    "review_count_tabelog": 302,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles), Tempura, Curry Udon",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30",
+        "dtl_text": "11:30 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 243,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDSl5i8LeGGARpwbOv-1RgSY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/11001573-43d9464e3609a0ccd22ef63c2c8f82ade123878493c189cd81655be22e0559b2.jpg",
+    "place_id": "ChIJDSl5i8LeGGARpwbOv-1RgSY",
+    "g_name": "三丁目の手打うどん",
+    "g_rating": 4.2,
+    "g_reviews": 243,
+    "g_address": "日本、〒350-1317 埼玉県狭山市水野１２６６−４９",
+    "lat": 35.8214311,
+    "lng": 139.4183565
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "うどん 錦",
+    "name_en": "Udon Nishiki",
+    "area": "愛知県 栄（名古屋）駅",
+    "url": "https://tabelog.com/aichi/A2301/A230103/23000374/",
+    "rating": 3.72,
+    "review_count_tabelog": 1884,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Curry Udon",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 13:30 18:00 - 23:30",
+        "dtl_text": "18:00 - 23:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "18:00 - 23:30",
+        "dtl_text": "18:00 - 23:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 952,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qaV9RwA2ARY-MzDMpwFYM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/23000374-d05c146ed3b627fd5fdbe5f5e41427b9bef79d73108ae20e4a41e5240b6d0a7c.jpg",
+    "place_id": "ChIJq6qaV9RwA2ARY-MzDMpwFYM",
+    "g_name": "手打うどん 錦",
+    "g_rating": 4.1,
+    "g_reviews": 952,
+    "g_address": "日本、〒460-0003 愛知県名古屋市中区錦３丁目１８−９ 錦花園ビル",
+    "lat": 35.1705783,
+    "lng": 136.9054558
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "切麦や 甚六",
+    "name_en": "Kirimugi Ya Jinroku",
+    "area": "東京都 新宿御苑前駅",
+    "url": "https://tabelog.com/tokyo/A1304/A130402/13182646/",
+    "rating": 3.63,
+    "review_count_tabelog": 1871,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles), Tempura, Izakaya (Japanese style tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 16:00 L.O. 15:30 17:30 - 23:30 L.O. 22:30",
+        "dtl_text": "17:30 - 23:30 L.O. 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "11:00 - 16:00 L.O. 15:30 17:30 - 23:00 L.O. 22:00",
+        "dtl_text": "17:30 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Year-end & New Year Holidays"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 1080,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJb8xO0emMGGAR3_zscpnx72Y",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13182646-6fb468f3fed32943008405f843838185eae921198a330f44e75a93866a64d992.jpg",
+    "place_id": "ChIJb8xO0emMGGAR3_zscpnx72Y",
+    "g_name": "切麦や 甚六 新宿御苑",
+    "g_rating": 4.2,
+    "g_reviews": 1080,
+    "g_address": "日本、〒160-0022 東京都新宿区新宿１丁目１７−１ LAND・DEN1F",
+    "lat": 35.6891585,
+    "lng": 139.7118617
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "手打うどん 福助",
+    "name_en": "Teuchi Udon Fukusuke",
+    "area": "東京都 青梅街道駅",
+    "url": "https://tabelog.com/tokyo/A1328/A132804/13149268/",
+    "rating": 3.64,
+    "review_count_tabelog": 310,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Japanese sake bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:15 - 14:00",
+        "dtl_text": "11:15 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays and Tuesdays (Open on holidays; please call the restaurant for details.)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 209,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7YbppZHmGGAR8XeuGIQGwVM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13149268-05a57d18e836485ee347b12709a33427d0b07050ed1fec8206276e1aab8a3fe3.jpg",
+    "place_id": "ChIJ7YbppZHmGGAR8XeuGIQGwVM",
+    "g_name": "手打うどん 福助",
+    "g_rating": 4.3,
+    "g_reviews": 209,
+    "g_address": "日本、〒187-0032 東京都小平市小川町２丁目１３０７−２０ エスポワール小平",
+    "lat": 35.7274191,
+    "lng": 139.4749515
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "手打うどん かとう",
+    "name_en": "Teuchi Udon Kato",
+    "area": "愛知県 太閤通駅",
+    "url": "https://tabelog.com/aichi/A2301/A230101/23039141/",
+    "rating": 3.66,
+    "review_count_tabelog": 1087,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles), Tempura, Oden",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:00 17:30 - 21:00",
+        "dtl_text": "17:30 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed; please check our official Instagram for details."
+    },
+    "google_rating": 4.1,
+    "google_reviews": 715,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJxZ-ApPp2A2AROgmjZ6mx98A",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/23039141-62706613451bbd7d7f538911b5bfbca2d71d9c75bde3bab393d1d7cde9bf4a04.jpg",
+    "place_id": "ChIJxZ-ApPp2A2AROgmjZ6mx98A",
+    "g_name": "手打うどん かとう",
+    "g_rating": 4.1,
+    "g_reviews": 715,
+    "g_address": "日本、〒453-0811 愛知県名古屋市中村区太閤通３丁目２６",
+    "lat": 35.1674625,
+    "lng": 136.8728338
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "駕籠休み",
+    "name_en": "Kago Yasumi",
+    "area": "埼玉県 さいたま新都心駅",
+    "url": "https://tabelog.com/saitama/A1101/A110101/11005442/",
+    "rating": 3.73,
+    "review_count_tabelog": 911,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 15:00 L.O. 14:10",
+        "dtl_text": "10:00 - 15:00 L.O. 14:10",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 1072,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJBbGrOxPBGGARfLro9TfH0Z8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/11005442-759e4954cb98443baadd9da90fa72c76caf9599bea1dad626326b72a07e59281.jpg",
+    "place_id": "ChIJBbGrOxPBGGARfLro9TfH0Z8",
+    "g_name": "駕籠休み",
+    "g_rating": 4.1,
+    "g_reviews": 1072,
+    "g_address": "日本、〒330-0843 埼玉県さいたま市大宮区吉敷町２丁目１０８−１２",
+    "lat": 35.9009115,
+    "lng": 139.6311596
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "こんぴら茶屋",
+    "name_en": "Konpira Chaya",
+    "area": "東京都 目黒駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131601/13013189/",
+    "rating": 3.65,
+    "review_count_tabelog": 1963,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles), Curry Udon",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 23:00",
+        "dtl_text": "11:00 - 23:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round (excluding Year-end & New Year Holidays)"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 1189,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4eJcEhyLGGAROI5SSZc6650",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13013189-c3b0320a3acd721cd1bc0de7d0ca8b578baf98606a37eae431073d700e5e433b.jpg",
+    "place_id": "ChIJ4eJcEhyLGGAROI5SSZc6650",
+    "g_name": "手打ちうどん こんぴら茶屋",
+    "g_rating": 4.2,
+    "g_reviews": 1189,
+    "g_address": "日本、〒141-0021 東京都品川区上大崎３丁目３−１",
+    "lat": 35.633817,
+    "lng": 139.717618
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "讃岐のおうどん 花は咲く 新中野本店",
+    "name_en": "Sanuki no Udon Hana wa Saku Shinnakano Honten",
+    "area": "東京都 新中野駅",
+    "url": "https://tabelog.com/tokyo/A1319/A131902/13156851/",
+    "rating": 3.65,
+    "review_count_tabelog": 1147,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles), Izakaya (Japanese style tavern), Tempura",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:00 - 15:00 17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "※※※Temporary closure dates※※※"
+    },
+    "google_rating": 4,
+    "google_reviews": 708,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJg2KDruvyGGARb4o2V5Y-WqU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13156851-6e72bb1e749906ab3002e9f6cb4ac78984e0d68c011190d00b6cdf40f66824e3.jpg",
+    "place_id": "ChIJg2KDruvyGGARb4o2V5Y-WqU",
+    "g_name": "讃岐のおうどん 花は咲く 新中野本店",
+    "g_rating": 4,
+    "g_reviews": 708,
+    "g_address": "日本、〒164-0011 東京都中野区中央４丁目６−１２ 新中野マンション 1F",
+    "lat": 35.6988527,
+    "lng": 139.6678898
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "信濃屋",
+    "name_en": "Shinano Ya",
+    "area": "岐阜県 多治見市",
+    "url": "https://tabelog.com/gifu/A2103/A210301/21000027/",
+    "rating": 3.71,
+    "review_count_tabelog": 669,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles), Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Thu, Fri, Sat",
+        "dtl": "11:30 - 14:00",
+        "dtl_text": "11:30 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 314,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJl2MoTGNqA2ARnClC7GkPIxo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/21000027-a85c82b10b1aabe8cdbb953b5f25a6c0a4b9a53acbe8304e971ee29e7d83d428.jpg",
+    "place_id": "ChIJl2MoTGNqA2ARnClC7GkPIxo",
+    "g_name": "信濃屋",
+    "g_rating": 4.1,
+    "g_reviews": 314,
+    "g_address": "日本、〒507-0027 岐阜県多治見市上野町３丁目４６",
+    "lat": 35.3383066,
+    "lng": 137.1261535
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "根津 釜竹",
+    "name_en": "Nezu Kamachiku",
+    "area": "東京都 根津駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131106/13020252/",
+    "rating": 3.65,
+    "review_count_tabelog": 1124,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Udon (Wheat noodles), Japanese sake bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Public Holiday",
+        "dtl": "11:30 - 15:00 L.O. Food 14:30 17:30 - 21:30 L.O. 20:30",
+        "dtl_text": "17:30 - 21:30 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 993,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJcRRPoS6MGGARe-LEXkndq_s",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13020252-7a133111152c6a6b3bcce751e49ab8def42641bc4c3bd82574a6e521d1c9442d.jpg",
+    "place_id": "ChIJcRRPoS6MGGARe-LEXkndq_s",
+    "g_name": "根津うどん 釜竹",
+    "g_rating": 4.3,
+    "g_reviews": 993,
+    "g_address": "日本、〒113-0031 東京都文京区根津２丁目１４−１８",
+    "lat": 35.7180829,
+    "lng": 139.7669646
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "うどん処 おはな",
+    "name_en": "Udon Dokoro Ohana",
+    "area": "埼玉県 朝霞台駅",
+    "url": "https://tabelog.com/saitama/A1103/A110301/11022150/",
+    "rating": 3.68,
+    "review_count_tabelog": 608,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Izakaya (Japanese style tavern), Curry Udon",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:00 17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 214,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ99VjXr_pGGAR1_v80bOcseY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/11022150-c54677130974ee9f3a2eeb39311f42c9e97cc3be651cb724f5ff89c185086739.jpg",
+    "place_id": "ChIJ99VjXr_pGGAR1_v80bOcseY",
+    "g_name": "うどん処おはな",
+    "g_rating": 4,
+    "g_reviews": 214,
+    "g_address": "日本、〒351-0021 埼玉県朝霞市西弁財１丁目１０−２５ 保第一ビル",
+    "lat": 35.8146372,
+    "lng": 139.5850656
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "本格手打 もり家 東京店",
+    "name_en": "Honkaku Teuchi Moriya Tokyo Ten",
+    "area": "東京都 浜松町駅",
+    "url": "https://tabelog.com/tokyo/A1314/A131401/13227953/",
+    "rating": 3.69,
+    "review_count_tabelog": 1345,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles), Tempura, Udon-suki",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 15:00 L.O. 14:30 17:30 - 22:00 L.O. 21:30",
+        "dtl_text": "17:30 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:00 - 15:00 L.O. 14:30",
+        "dtl_text": "11:00 - 15:00 L.O. 14:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 390,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJvWerKEKLGGARH521Epc3TPE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13227953-c967df8de4c748c53a982d4ff23ef43dbbbc90a19b39048b08eeb103994ead8a.jpg",
+    "place_id": "ChIJvWerKEKLGGARH521Epc3TPE",
+    "g_name": "本格手打もり家 東京店",
+    "g_rating": 4.2,
+    "g_reviews": 390,
+    "g_address": "日本、〒105-0013 東京都港区浜松町２丁目６−５ エクセレントビルポンテせとうみ ２Ｆ",
+    "lat": 35.6544101,
+    "lng": 139.7558479
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "香川 一福 神田店",
+    "name_en": "Kagawa Ippuku Kanda Ten",
+    "area": "東京都 小川町駅",
+    "url": "https://tabelog.com/tokyo/A1310/A131002/13185500/",
+    "rating": 3.62,
+    "review_count_tabelog": 2942,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Tempura, Curry Udon",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 20:00 L.O. Food 19:30",
+        "dtl_text": "11:00 - 20:00 L.O. Food 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "11:00 - 17:00 L.O. Food 16:45",
+        "dtl_text": "11:00 - 17:00 L.O. Food 16:45"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 1634,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJwRCIDQSMGGAR2z5vzqg4M-Q",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13185500-cbb5d9c09ab83b321c4de0d4905be0e70f46cb507495f7d2d189bcb8f4d2e84e.jpg",
+    "place_id": "ChIJwRCIDQSMGGAR2z5vzqg4M-Q",
+    "g_name": "香川一福 神田本店",
+    "g_rating": 4.1,
+    "g_reviews": 1634,
+    "g_address": "日本、〒101-0047 東京都千代田区内神田１丁目１８−１１ 東京ロイヤルプラザ 102",
+    "lat": 35.6919051,
+    "lng": 139.7671648
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "讃州手打ちうどん 我龍",
+    "name_en": "Sanshu Teuchi Udon Garyu",
+    "area": "愛知県 西尾市",
+    "url": "https://tabelog.com/aichi/A2305/A230504/23032890/",
+    "rating": 3.62,
+    "review_count_tabelog": 411,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles), Curry Udon, Tempura",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 559,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJiZ4ybhKWBGAR88LsqBIR_rM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/23032890-76ab1c2e392a42f29be9b824093afdd699a5f4b6293993c3b4a664f970bbafca.jpg",
+    "place_id": "ChIJiZ4ybhKWBGAR88LsqBIR_rM",
+    "g_name": "我龍",
+    "g_rating": 4.2,
+    "g_reviews": 559,
+    "g_address": "日本、〒445-0012 愛知県西尾市下羽角町六反６０−１",
+    "lat": 34.8807064,
+    "lng": 137.1200552
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "cuud",
+    "name_en": "cuud Terminal 1",
+    "area": "東京都 羽田空港第１ターミナル（東京モノレール）駅",
+    "url": "https://tabelog.com/tokyo/A1315/A131504/13193378/",
+    "rating": 3.62,
+    "review_count_tabelog": 2318,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles), Curry Udon",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "10:00 - 20:00 L.O. 19:30",
+        "dtl_text": "10:00 - 20:00 L.O. 19:30"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.8,
+    "google_reviews": 783,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJNYNvuvdjGGARKD1tLvAVr_g",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13193378-871f2182597e887d7f35ad120e69059d238cd8971fe20804c916eed59b21fbd8.jpg",
+    "place_id": "ChIJNYNvuvdjGGARKD1tLvAVr_g",
+    "g_name": "cuud 第1旅客ターミナル店",
+    "g_rating": 3.8,
+    "g_reviews": 783,
+    "g_address": "日本、〒144-0041 東京都大田区羽田空港３丁目３−２ 羽田空港 第1ターミナル 南ウィング出発ロビー2階",
+    "lat": 35.5480874,
+    "lng": 139.7850334
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "おのうどん",
+    "name_en": "Ono Udon",
+    "area": "埼玉県 北与野駅",
+    "url": "https://tabelog.com/saitama/A1101/A110101/11000761/",
+    "rating": 3.65,
+    "review_count_tabelog": 353,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat",
+        "dtl": "11:00 - 15:00 L.O. 14:30",
+        "dtl_text": "11:00 - 15:00 L.O. 14:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 51,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ45wvBSbBGGAREPn4B5aM9Pg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/11000761-3dbe13846cf0b97fdba8d4b25213d35e3eb08a424e043b30ed875ffa6f677953.jpg",
+    "place_id": "ChIJ45wvBSbBGGAREPn4B5aM9Pg",
+    "g_name": "おのうどん",
+    "g_rating": 4.4,
+    "g_reviews": 51,
+    "g_address": "日本、〒338-0003 埼玉県さいたま市中央区本町東５丁目１３−２０",
+    "lat": 35.89036,
+    "lng": 139.6193133
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "よしふじ",
+    "name_en": "Yoshifuji",
+    "area": "東京都 小平駅",
+    "url": "https://tabelog.com/tokyo/A1328/A132804/13080472/",
+    "rating": 3.66,
+    "review_count_tabelog": 407,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:30 L.O. 14:00",
+        "dtl_text": "11:00 - 14:30 L.O. 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 320,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9e2SDW_mGGARRBhj1iyC_U4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13080472-1340e6c974a33376c4dcfa001e51adabbd2d43a41a0e35efb3c8f9d3abd469c2.jpg",
+    "place_id": "ChIJ9e2SDW_mGGARRBhj1iyC_U4",
+    "g_name": "手打ちうどん よしふじ",
+    "g_rating": 4,
+    "g_reviews": 320,
+    "g_address": "日本、〒187-0001 東京都小平市大沼町７丁目６−６",
+    "lat": 35.7370644,
+    "lng": 139.498956
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "熊たまや",
+    "name_en": "Kuma Tamaya",
+    "area": "埼玉県 熊谷駅",
+    "url": "https://tabelog.com/saitama/A1105/A110501/11020450/",
+    "rating": 3.65,
+    "review_count_tabelog": 703,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:30 - 20:00",
+        "dtl_text": "10:30 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 499,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJP1Ok9b4pH2ARjUSRk-j2MMA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/11020450-432b27ea0808c0859adc079fe6ba2bdddbd830333781ec51df0a6b3e32ed83d2.jpg",
+    "place_id": "ChIJP1Ok9b4pH2ARjUSRk-j2MMA",
+    "g_name": "熊谷うどん 熊たまや",
+    "g_rating": 4,
+    "g_reviews": 499,
+    "g_address": "日本、〒360-0036 埼玉県熊谷市桜木町１丁目２０１−１",
+    "lat": 36.1393597,
+    "lng": 139.389345
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "藤店うどん 川越店",
+    "name_en": "Fujidana Udon Kawagoe Ten",
+    "area": "埼玉県 川越市",
+    "url": "https://tabelog.com/saitama/A1103/A110303/11004070/",
+    "rating": 3.71,
+    "review_count_tabelog": 614,
+    "price_dinner": "～￥999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles), Tempura",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "10:00 - 15:00",
+        "dtl_text": "10:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "For summer holidays and year-end & New Year holidays, please contact each restaurant."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 1219,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJX7MmXKzbGGAREMhsCvE7xSc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/11004070-879a122fdaac715e69d54e6a7411cf3673dfc7ac3c7f70985155194340fe1fe4.jpg",
+    "place_id": "ChIJX7MmXKzbGGAREMhsCvE7xSc",
+    "g_name": "藤店うどん 川越店",
+    "g_rating": 4.3,
+    "g_reviews": 1219,
+    "g_address": "日本、〒350-1124 埼玉県川越市新宿町４丁目１−５",
+    "lat": 35.8980042,
+    "lng": 139.4807013
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "きつね庵",
+    "name_en": "Kitsune An",
+    "area": "東京都 東銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13181414/",
+    "rating": 3.66,
+    "review_count_tabelog": 793,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 15:30 L.O. 15:00 17:00 - 20:30 L.O. 20:00",
+        "dtl_text": "17:00 - 20:30 L.O. 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 15:30 L.O. 15:00",
+        "dtl_text": "11:00 - 15:30 L.O. 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 3.8,
+    "google_reviews": 392,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6oVtuaLGGAR2iPAMVvUn3o",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13181414-11d7dcd6dc09c2dca4b3bfcc69ce19218834135976233d7908492bf5b4d5c570.jpg",
+    "place_id": "ChIJq6oVtuaLGGAR2iPAMVvUn3o",
+    "g_name": "京うどん きつね庵",
+    "g_rating": 3.8,
+    "g_reviews": 392,
+    "g_address": "日本、〒104-0061 東京都中央区銀座３丁目８−１３ 光生ビル 2F",
+    "lat": 35.6716559,
+    "lng": 139.7673828
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "うどん家 一",
+    "name_en": "Udonya Kazu",
+    "area": "埼玉県 小手指駅",
+    "url": "https://tabelog.com/saitama/A1106/A110601/11026435/",
+    "rating": 3.7,
+    "review_count_tabelog": 586,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles), Tempura, Curry Udon",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Sun",
+        "dtl": "11:00 - 15:00 L.O. 15:00",
+        "dtl_text": "11:00 - 15:00 L.O. 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Fri, Sat",
+        "dtl": "11:00 - 15:00 L.O. 15:00 17:30 - 19:30 L.O. 19:30",
+        "dtl_text": "17:30 - 19:30 L.O. 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays and the 2nd and 4th Tuesdays"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 590,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJgQCiZnveGGARwxH2fAeBpQE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/11026435-99baa39569327a77833c558e2995779ac8195f86ee0f721dda6ac3b799d51d80.jpg",
+    "place_id": "ChIJgQCiZnveGGARwxH2fAeBpQE",
+    "g_name": "うどん家 一",
+    "g_rating": 4.3,
+    "g_reviews": 590,
+    "g_address": "日本、〒359-1141 埼玉県所沢市小手指町１丁目２９−３",
+    "lat": 35.8052301,
+    "lng": 139.4380021
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "手打ちうどん ムサシ",
+    "name_en": "Teuchi Udon Musashi",
+    "area": "山梨県 富士吉田市",
+    "url": "https://tabelog.com/yamanashi/A1903/A190301/19000243/",
+    "rating": 3.63,
+    "review_count_tabelog": 527,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Regional Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "10:30 - 14:00",
+        "dtl_text": "10:30 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Thursdays (open on public holidays)"
+    },
+    "google_rating": 3.8,
+    "google_reviews": 446,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJTYTNMddgGWARDmjgmbLt__4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/19000243-bb173dc566a9be6b4be5b08087e0c7e0d52056855567944b51cff40f579acb22.jpg",
+    "place_id": "ChIJTYTNMddgGWARDmjgmbLt__4",
+    "g_name": "手打ちうどんムサシ",
+    "g_rating": 3.8,
+    "g_reviews": 446,
+    "g_address": "日本、〒403-0005 山梨県富士吉田市上吉田６丁目１０−１９",
+    "lat": 35.4760959,
+    "lng": 138.7913415
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "おにやんま 東品川店",
+    "name_en": "Oniyanma Higashishinagawa Ten",
+    "area": "東京都 青物横丁駅",
+    "url": "https://tabelog.com/tokyo/A1315/A131501/13142095/",
+    "rating": 3.69,
+    "review_count_tabelog": 1162,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "07:00 - 22:30",
+        "dtl_text": "07:00 - 22:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "07:00 - 22:00",
+        "dtl_text": "07:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 1204,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJp4B_D3GKGGAR-WGIKU5EruI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13142095-34006589f2d1507761ac1094021d27ccc6d61ead6cb60b93e9450694aaf66942.jpg",
+    "place_id": "ChIJp4B_D3GKGGAR-WGIKU5EruI",
+    "g_name": "おにやんま 東品川店",
+    "g_rating": 4,
+    "g_reviews": 1204,
+    "g_address": "日本、〒140-0002 東京都品川区東品川４丁目１−２０ マンションニュー東品川",
+    "lat": 35.6108485,
+    "lng": 139.7453351
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "釜あげうどん はつとみ",
+    "name_en": "Kamaage Udon Hatsutomi",
+    "area": "東京都 江戸川橋駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13095976/",
+    "rating": 3.68,
+    "review_count_tabelog": 726,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri, Sat",
+        "dtl": "11:30 - 14:30 L.O. 14:00 17:30 - 21:00 L.O. 20:45",
+        "dtl_text": "17:30 - 21:00 L.O. 20:45",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "11:30 - 14:30 L.O. 14:00",
+        "dtl_text": "11:30 - 14:30 L.O. 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 300,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJzqCRwCNGGARGMHdb0Y4AuE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13095976-3790180faac6d00729f0d5b3b7fc9d6867f4e345626390c1e413c0105fb2d2e3.jpg",
+    "place_id": "ChIJJzqCRwCNGGARGMHdb0Y4AuE",
+    "g_name": "釜揚げうどん はつとみ",
+    "g_rating": 4.2,
+    "g_reviews": 300,
+    "g_address": "日本、〒112-0014 東京都文京区関口１丁目４８−５ イシダビル",
+    "lat": 35.709547,
+    "lng": 139.730359
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "むさしの エン座",
+    "name_en": "Musashino Enza",
+    "area": "東京都 石神井公園駅",
+    "url": "https://tabelog.com/tokyo/A1321/A132103/13022818/",
+    "rating": 3.65,
+    "review_count_tabelog": 369,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:30",
+        "dtl_text": "11:00 - 15:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The first Tuesday of each month"
+    },
+    "google_rating": 3.6,
+    "google_reviews": 143,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJHW2nWYXuGGARUdcdFwAsPiI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13022818-627b07825ee75b124de2c9597f06da907ba7d5c80d29c6d7a309db64b5586426.jpg",
+    "place_id": "ChIJHW2nWYXuGGARUdcdFwAsPiI",
+    "g_name": "エン座",
+    "g_rating": 3.6,
+    "g_reviews": 143,
+    "g_address": "日本、〒177-0041 東京都練馬区石神井町５丁目１２−１６",
+    "lat": 35.73757,
+    "lng": 139.5994432
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "一滴八銭屋 新宿本店",
+    "name_en": "Itteki Hassenya Shinjuku Hon Ten",
+    "area": "東京都 新宿駅",
+    "url": "https://tabelog.com/tokyo/A1304/A130401/13000760/",
+    "rating": 3.63,
+    "review_count_tabelog": 1772,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Izakaya (Japanese style tavern), Oden",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 14:30 L.O. 14:30 17:30 - 22:00 L.O. 21:30",
+        "dtl_text": "17:30 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 14:30 L.O. 14:30 17:00 - 22:00 L.O. 21:30",
+        "dtl_text": "17:00 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Obon & Year-end/New Year Holidays (Dec 30 - Jan 4)"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 594,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJS_BTadGMGGAR1rOdofKaH-g",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13000760-78808a5fe9b91cba7540c807c653e211f9c49cd9f5ef30184b71c3240e90fdbb.jpg",
+    "place_id": "ChIJS_BTadGMGGAR1rOdofKaH-g",
+    "g_name": "創作うどん 一滴八銭屋",
+    "g_rating": 4.1,
+    "g_reviews": 594,
+    "g_address": "日本、〒160-0023 東京都新宿区西新宿１丁目１５−９ Kcビル ２階",
+    "lat": 35.6890414,
+    "lng": 139.6971427
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "桜井うどん",
+    "name_en": "Sakurai Udon",
+    "area": "山梨県 富士吉田市",
+    "url": "https://tabelog.com/yamanashi/A1903/A190301/19000357/",
+    "rating": 3.63,
+    "review_count_tabelog": 463,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Regional Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "10:00 - 14:00",
+        "dtl_text": "10:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 648,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJMQs_njNnGWARAIqYdjHwlD4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/19000357-83c85b995cfab2f5ec6427870e0ddac789ba9ce498204477f4aa744a4bd4ca57.jpg",
+    "place_id": "ChIJMQs_njNnGWARAIqYdjHwlD4",
+    "g_name": "桜井うどん",
+    "g_rating": 4.1,
+    "g_reviews": 648,
+    "g_address": "日本、〒403-0004 山梨県富士吉田市下吉田５丁目１−３３",
+    "lat": 35.4890864,
+    "lng": 138.8021478
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "EAST",
+    "name": "関西風手打うどん いらっしゃい",
+    "name_en": "Kansai Fu Teuchi Udon Irasshai",
+    "area": "東京都 入谷駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131104/13042758/",
+    "rating": 3.64,
+    "review_count_tabelog": 407,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Thu, Fri, Sat",
+        "dtl": "11:30 - 14:00 18:00 - 20:00",
+        "dtl_text": "18:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "11:30 - 13:30 18:00 - 20:00",
+        "dtl_text": "18:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 140,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJyaXZUOSPGGAR3V3-84k8CEw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_east/13042758-2990163434262724574c944eccbef0de5d929b3286b810fd6daf07950440f04a.jpg",
+    "place_id": "ChIJyaXZUOSPGGAR3V3-84k8CEw",
+    "g_name": "関西風手打ちうどん いらっしゃい",
+    "g_rating": 4.4,
+    "g_reviews": 140,
+    "g_address": "日本、〒110-0004 東京都台東区下谷１丁目１３ 下谷岩瀬ビル",
+    "lat": 35.7204137,
+    "lng": 139.7817286
+  }
+]

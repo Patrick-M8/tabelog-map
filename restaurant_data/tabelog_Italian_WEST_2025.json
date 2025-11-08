@@ -1,0 +1,4462 @@
+[
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "アユート",
+    "name_en": "Aiuto",
+    "area": "石川県 輪島市",
+    "url": "https://tabelog.com/ishikawa/A1704/A170401/17008177/",
+    "rating": 3.74,
+    "review_count_tabelog": 53,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian",
+    "hours_raw": [],
+    "hours_notes_structured": null,
+    "google_rating": 4.7,
+    "google_reviews": 112,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJW-RIu1wu8V8RGeNwbBNJFw0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/17008177-f60ec5212da69cec196f332dcf98fb54ef756997b363e87952a627a73c82163e.jpg",
+    "place_id": "ChIJW-RIu1wu8V8RGeNwbBNJFw0",
+    "g_name": "アユート輪島",
+    "g_rating": 4.7,
+    "g_reviews": 112,
+    "g_address": "日本、〒928-0001 石川県輪島市河井町3−１５８−１",
+    "lat": 37.3932103,
+    "lng": 136.9045211
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "ラッフィナート",
+    "name_en": "raffinato",
+    "area": "兵庫県 芦屋（ＪＲ）駅",
+    "url": "https://tabelog.com/hyogo/A2803/A280302/28002280/",
+    "rating": 3.81,
+    "review_count_tabelog": 350,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "12:00 - 15:00 L.O. 13:00 18:00 - 22:00 L.O. 20:30",
+        "dtl_text": "18:00 - 22:00 L.O. 20:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 209,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJD_ercSfzAGAR4qDjXUSY67I",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/28002280-f13c81f8a758cf85d84e58af3b97d9eb1adc5c17550289265190fb40d346c205.jpg",
+    "place_id": "ChIJD_ercSfzAGAR4qDjXUSY67I",
+    "g_name": "リストランテ ラッフィナート",
+    "g_rating": 4.2,
+    "g_reviews": 209,
+    "g_address": "日本、〒659-0093 兵庫県芦屋市船戸町５−２４",
+    "lat": 34.7364361,
+    "lng": 135.3063064
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "il PePe",
+    "name_en": "il PePe",
+    "area": "大阪府 北新地駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27051831/",
+    "rating": 3.68,
+    "review_count_tabelog": 400,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Italian, Yoshoku (Japanese style western cuisine), Pasta",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:00 - 13:30 18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 74,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVJkvLmAGAR7zEnpi44uNA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/27051831-f989f89e9353ea96417b9835cedab1f471a7f8a3dcc3367c4f43e72a63ae6bbf.jpg",
+    "place_id": "ChIJVVVJkvLmAGAR7zEnpi44uNA",
+    "g_name": "il PePe",
+    "g_rating": 4.1,
+    "g_reviews": 74,
+    "g_address": "日本、〒530-0002 大阪府大阪市北区曾根崎新地１丁目４−７ 小西ビル ２Ｆ−２０２",
+    "lat": 34.6979947,
+    "lng": 135.4959365
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "Bekk",
+    "name_en": "Bekk",
+    "area": "福岡県 北九州市小倉北区",
+    "url": "https://tabelog.com/fukuoka/A4004/A400401/40043710/",
+    "rating": 4.18,
+    "review_count_tabelog": 143,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Italian, Pasta, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "11:50 - 14:00 18:00 - 21:30",
+        "dtl_text": "18:00 - 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "18:00 - 21:30",
+        "dtl_text": "18:00 - 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 105,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVVK_QzURZE_-uxXSze8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/40043710-9e1d3eef205be86d94084758709978b5444c5c6bf5ce2843b09385f8115111b1.jpg",
+    "place_id": "ChIJVVVVVVK_QzURZE_-uxXSze8",
+    "g_name": "Bekk",
+    "g_rating": 4.5,
+    "g_reviews": 105,
+    "g_address": "日本、〒802-0006 福岡県北九州市小倉北区魚町４丁目３−８ モナトリエ 1F",
+    "lat": 33.881297,
+    "lng": 130.8804129
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "チーロ",
+    "name_en": "CiRO",
+    "area": "兵庫県 山陽明石駅",
+    "url": "https://tabelog.com/hyogo/A2804/A280401/28001981/",
+    "rating": 3.68,
+    "review_count_tabelog": 396,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Italian, Pizza, Pasta",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 15:00 L.O. Food 13:30 Drinks 14:30 18:00 - 22:00 L.O. Food 20:30 Drinks 21:30",
+        "dtl_text": "18:00 - 22:00 L.O. Food 20:30 Drinks 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Fri",
+        "dtl": "18:00 - 22:00 L.O. Food 20:30 Drinks 21:30",
+        "dtl_text": "18:00 - 22:00 L.O. Food 20:30 Drinks 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 791,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ681C7DUVDURP8lWX7Zwf7I",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/28001981-edfd7212db6a5a3449ce46edf0fbef46102680ab9429d4196df816fc4576d436.jpg",
+    "place_id": "ChIJJ681C7DUVDURP8lWX7Zwf7I",
+    "g_name": "チーロ",
+    "g_rating": 4.4,
+    "g_reviews": 791,
+    "g_address": "日本、〒673-0892 兵庫県明石市本町１丁目１７−３ １Ｆ",
+    "lat": 34.645267,
+    "lng": 134.9923364
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "ア・カント",
+    "name_en": "a canto",
+    "area": "大阪府 谷町四丁目駅",
+    "url": "https://tabelog.com/osaka/A2701/A270104/27104963/",
+    "rating": 3.77,
+    "review_count_tabelog": 57,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 15:30 L.O. 12:30 17:30 - 23:00 L.O. 19:30",
+        "dtl_text": "17:30 - 23:00 L.O. 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays and occasionally on other days."
+    },
+    "google_rating": 4.8,
+    "google_reviews": 46,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJCXN2H1_nAGARf6sEMKS_Ui4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/27104963-31ae7759145f3daa6300a64c782cdd567530ce21e740fd323a0eb523648cdb95.jpg",
+    "place_id": "ChIJCXN2H1_nAGARf6sEMKS_Ui4",
+    "g_name": "a canto",
+    "g_rating": 4.8,
+    "g_reviews": 46,
+    "g_address": "日本、〒540-0013 大阪府大阪市中央区内久宝寺町３丁目１−１０",
+    "lat": 34.6789465,
+    "lng": 135.5157165
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "リストランテ ベリーニ",
+    "name_en": "Ristorante Bellini",
+    "area": "兵庫県 芦屋川駅",
+    "url": "https://tabelog.com/hyogo/A2803/A280302/28001314/",
+    "rating": 3.61,
+    "review_count_tabelog": 317,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Italian, European",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 L.O. 13:30 17:00 - 22:00 L.O. 20:30",
+        "dtl_text": "17:00 - 22:00 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Year-end & New Year Holidays (Dec 26 - Jan 3)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 282,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJYR_1e9XyAGARejpEpdiBox4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/28001314-d5797937b34a904997bbb9899540d346271cf275829fd0c2dc1d86500135120a.jpg",
+    "place_id": "ChIJYR_1e9XyAGARejpEpdiBox4",
+    "g_name": "リストランテ ベリーニ",
+    "g_rating": 4.3,
+    "g_reviews": 282,
+    "g_address": "日本、〒659-0084 兵庫県芦屋市月若町２−１７",
+    "lat": 34.733776,
+    "lng": 135.301381
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "bekki",
+    "name_en": "bekki",
+    "area": "福岡県 薬院大通駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400104/40057926/",
+    "rating": 3.92,
+    "review_count_tabelog": 93,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Italian, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 13:30 L.O. 12:00 18:00 - 21:00 L.O. 19:00",
+        "dtl_text": "18:00 - 21:00 L.O. 19:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 23,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJa-zSawCRQTURsmXmGcQchYc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/40057926-613fcb7a2dd874fe660eb48551d4c0ab17a2b4833819a6463244bae380a33764.jpg",
+    "place_id": "ChIJa-zSawCRQTURsmXmGcQchYc",
+    "g_name": "bekki",
+    "g_rating": 4,
+    "g_reviews": 23,
+    "g_address": "日本、〒810-0023 福岡県福岡市中央区警固２丁目２−１１ シャンボール警固 103",
+    "lat": 33.5833188,
+    "lng": 130.3920874
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "リストランテKubotsu",
+    "name_en": "Ristorante Kubotsu",
+    "area": "福岡県 西鉄福岡（天神）駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400103/40028249/",
+    "rating": 3.9,
+    "review_count_tabelog": 308,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Italian, Pasta, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 L.O. 13:30 17:30 - 22:00 L.O. 20:00",
+        "dtl_text": "17:30 - 22:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays (open as usual on public holidays)"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 315,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJu_K3gI-RQTUR-S3pKr4f6Z0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/40028249-68ee51d580741fb592d8c899b9f700ff1f6aadb39634a7fafdefc09fa6a5936b.jpg",
+    "place_id": "ChIJu_K3gI-RQTUR-S3pKr4f6Z0",
+    "g_name": "リストランテKubotsu",
+    "g_rating": 4.4,
+    "g_reviews": 315,
+    "g_address": "日本、〒810-0001 福岡県福岡市中央区天神２丁目５−５５ ４Ｆ",
+    "lat": 33.5884576,
+    "lng": 130.3983655
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "しろ",
+    "name_en": "shiro",
+    "area": "京都府 烏丸御池駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260202/26041485/",
+    "rating": 4.15,
+    "review_count_tabelog": 93,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Italian, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri",
+        "dtl": "18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "12:00 - 14:30 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 37,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJTSusUpcIAWARa3cNBfYluQs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/26041485-8d599295263e81801192a3db5010b289e3378ce9b07ce6dbce053168245fd1e3.jpg",
+    "place_id": "ChIJTSusUpcIAWARa3cNBfYluQs",
+    "g_name": "SHIRO 大丸京都店",
+    "g_rating": 4.4,
+    "g_reviews": 37,
+    "g_address": "日本、〒600-8007 京都府京都市下京区四条通高倉西入立売西町７９ 大丸京都店 1F",
+    "lat": 35.0044344,
+    "lng": 135.762045
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "オオシマ",
+    "name_en": "Oshima",
+    "area": "大阪府 新福島駅",
+    "url": "https://tabelog.com/osaka/A2701/A270108/27114526/",
+    "rating": 3.68,
+    "review_count_tabelog": 132,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Italian, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 15:00 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 76,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJoe3PNW3nAGARMRI8s_qKSAM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/27114526-c2e45495806fb7f104cefa4857f6a02a228579b3f5624304badaad6aeb8c26d8.jpg",
+    "place_id": "ChIJoe3PNW3nAGARMRI8s_qKSAM",
+    "g_name": "Oshima",
+    "g_rating": 4.6,
+    "g_reviews": 76,
+    "g_address": "日本、〒553-0003 大阪府大阪市福島区福島３丁目１４−９",
+    "lat": 34.6942273,
+    "lng": 135.4850485
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "熙怡",
+    "name_en": "Kii",
+    "area": "京都府 四条（京都市営）駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260201/26032423/",
+    "rating": 3.73,
+    "review_count_tabelog": 29,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Italian, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 15:00 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.9,
+    "google_reviews": 13,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ075ucikJAWARDCDk_yHeC48",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/26032423-325d1eda03e07021e5b0a4a29260aab582d615dd72217b4d088deadf992eb226.jpg",
+    "place_id": "ChIJ075ucikJAWARDCDk_yHeC48",
+    "g_name": "熙怡kii",
+    "g_rating": 4.9,
+    "g_reviews": 13,
+    "g_address": "日本、〒600-8423 京都府京都市下京区釘隠町２４２",
+    "lat": 35.0009304,
+    "lng": 135.7586313
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "WINE食堂 緒乃",
+    "name_en": "WINE Shokudo Ono",
+    "area": "大阪府 北新地駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27124092/",
+    "rating": 3.76,
+    "review_count_tabelog": 170,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian, Wine bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "18:00 - 23:00 L.O. Food 22:00 Drinks 22:30",
+        "dtl_text": "18:00 - 23:00 L.O. Food 22:00 Drinks 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6pOke3mAGARqQF_d1H9UzU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/27124092-eb09677894e5a5cddf4f259b9458bb40eec3224dc66f63dc3d70954dbde608c8.jpg",
+    "place_id": "ChIJq6pOke3mAGARqQF_d1H9UzU",
+    "g_name": "KOU",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "日本、〒530-0001 大阪府 大阪市北区曽根崎新地1-2-22 北リンデンビル 4F",
+    "lat": 34.6974262,
+    "lng": 135.4977922
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "リストランテ リンコントロ",
+    "name_en": "Ristorante L’incontro",
+    "area": "奈良県 奈良市",
+    "url": "https://tabelog.com/nara/A2901/A290101/29008699/",
+    "rating": 3.72,
+    "review_count_tabelog": 170,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.9,
+    "google_reviews": 130,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5YhFcX07AWAR6xRD4sqI1Rg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/29008699-f97d6a555b700f3b876e716c04730d14546df474a64472c73b71bef458b5598e.jpg",
+    "place_id": "ChIJ5YhFcX07AWAR6xRD4sqI1Rg",
+    "g_name": "トラットリア ラ クロチェッタ",
+    "g_rating": 3.9,
+    "g_reviews": 130,
+    "g_address": "日本、〒631-0824 奈良県西大寺南町5−５−７",
+    "lat": 34.692812,
+    "lng": 135.782982
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "IL CASINO",
+    "name_en": "IL CASINO",
+    "area": "熊本県 熊本市中央区",
+    "url": "https://tabelog.com/kumamoto/A4301/A430101/43011842/",
+    "rating": 3.88,
+    "review_count_tabelog": 91,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 22:00 L.O. 20:30",
+        "dtl_text": "18:00 - 22:00 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 46,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJFwT_Tgz0QDURL4E0mcELuAA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/43011842-970783799b571613645d414fc0a7418facc7059e83227c5a512e2c2545a3a512.jpg",
+    "place_id": "ChIJFwT_Tgz0QDURL4E0mcELuAA",
+    "g_name": "IL CASINO",
+    "g_rating": 4.4,
+    "g_reviews": 46,
+    "g_address": "日本、〒860-0808 熊本県熊本市中央区手取本町３−７",
+    "lat": 32.80307820000001,
+    "lng": 130.7087697
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "cenci",
+    "name_en": "cenci",
+    "area": "京都府 神宮丸太町駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260302/26024914/",
+    "rating": 4.13,
+    "review_count_tabelog": 438,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Italian, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 15:00 L.O. Food 12:00 18:00 - 21:30 L.O. Food 18:30",
+        "dtl_text": "18:00 - 21:30 L.O. Food 18:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed, including Sundays"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 366,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJw2vMBfAIAWAR86pLyFaUBas",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/26024914-ce7b7edf46b21049cbefaaf600c7fe1ce0e5b735cfdf02998e47969dc3d22ae5.jpg",
+    "place_id": "ChIJw2vMBfAIAWAR86pLyFaUBas",
+    "g_name": "cenci",
+    "g_rating": 4.6,
+    "g_reviews": 366,
+    "g_address": "日本、〒606-8323 京都府京都市左京区聖護院円頓美町４４−７",
+    "lat": 35.0170639,
+    "lng": 135.7801615
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "アンファロ",
+    "name_en": "Unfalo",
+    "area": "兵庫県 芦屋（阪神）駅",
+    "url": "https://tabelog.com/hyogo/A2803/A280302/28057165/",
+    "rating": 3.82,
+    "review_count_tabelog": 110,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Italian, Creative, Pasta",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "For detailed business days, please check our Instagram."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 48,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJkV2Q3FjzAGARv9rFWz56elk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/28057165-2521a651e5db16980dd7eec7abed839f6a72a151572337dc12710fbe6076b055.jpg",
+    "place_id": "ChIJkV2Q3FjzAGARv9rFWz56elk",
+    "g_name": "un falo 薪火レストラン",
+    "g_rating": 4.4,
+    "g_reviews": 48,
+    "g_address": "日本、〒659-0066 兵庫県芦屋市大桝町７−９",
+    "lat": 34.7293049,
+    "lng": 135.3067487
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "ヴィラ・デラ・パーチェ",
+    "name_en": "VILLA DELLA PACE",
+    "area": "石川県 七尾市",
+    "url": "https://tabelog.com/ishikawa/A1703/A170302/17012559/",
+    "rating": 4.05,
+    "review_count_tabelog": 63,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥30,000～￥39,999",
+    "sub_categories": "Italian, Auberge",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 15:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays and Mondays"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 83,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJN988CP09918RQt2UUA3IQcI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/17012559-831eea9737fe11a5dc92cedea59c480c767b81c78682df8e76fac78d3d8f6d4e.jpg",
+    "place_id": "ChIJN988CP09918RQt2UUA3IQcI",
+    "g_name": "Villa della pace",
+    "g_rating": 4.6,
+    "g_reviews": 83,
+    "g_address": "日本、〒929-2234 石川県七尾市中島町塩津 乙は部26-1",
+    "lat": 37.0865352,
+    "lng": 136.8671049
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "IL PAPPALARDO",
+    "name_en": "IL PAPPALARDO",
+    "area": "京都府 七条駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260304/26001638/",
+    "rating": 3.71,
+    "review_count_tabelog": 352,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Italian, Pizza, Pasta",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 13:30 18:00 - 20:30",
+        "dtl_text": "18:00 - 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4,
+    "google_reviews": 334,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJO5StvcwIAWARVgafM9nzeX0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/26001638-9745fbe807f97f65ab5e3a25311c77d449cdbf5c0e26fded7dbf990689e8acfc.jpg",
+    "place_id": "ChIJO5StvcwIAWARVgafM9nzeX0",
+    "g_name": "イルパッパラルド",
+    "g_rating": 4,
+    "g_reviews": 334,
+    "g_address": "日本、〒605-0932 京都府京都市東山区妙法院前側町４５１−１",
+    "lat": 34.9894612,
+    "lng": 135.7753437
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "キメラ",
+    "name_en": "CHIMERA",
+    "area": "京都府 祇園四条駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260301/26005284/",
+    "rating": 3.83,
+    "review_count_tabelog": 521,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Two days a week; additional closures will be posted on our website."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 147,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJC-IWg8QIAWARh3GwXIQj_ng",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/26005284-b92c62336e8f22b96765eef35f3f12d823946f8b46706bd1e9efc725e458fb5c.jpg",
+    "place_id": "ChIJC-IWg8QIAWARh3GwXIQj_ng",
+    "g_name": "RISTORANTE ITALIANO CHIMERA",
+    "g_rating": 4.2,
+    "g_reviews": 147,
+    "g_address": "日本、〒605-0074 京都府京都市東山区祇園町南側５０４",
+    "lat": 35.002423,
+    "lng": 135.778673
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "ヴェーナ",
+    "name_en": "Vena",
+    "area": "京都府 丸太町（京都市営）駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260202/26028480/",
+    "rating": 3.76,
+    "review_count_tabelog": 149,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 127,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJbdO2YIcIAWARhz-h0oecuVE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/26028480-ff9cfc1adfd058ba05e86cf613392994020c74893c513c6dedabd43f55506672.jpg",
+    "place_id": "ChIJbdO2YIcIAWARhz-h0oecuVE",
+    "g_name": "Vena",
+    "g_rating": 4.5,
+    "g_reviews": 127,
+    "g_address": "日本、〒604-0002 京都府京都市中京区 夷川上ル鏡屋町46-3",
+    "lat": 35.0151646,
+    "lng": 135.7581293
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "かま叶",
+    "name_en": "Kamado",
+    "area": "大阪府 なにわ橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27139470/",
+    "rating": 3.71,
+    "review_count_tabelog": 168,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Italian, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 15:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.8,
+    "google_reviews": 78,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJLTrbeOfmAGARnN4yhWYYCdY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/27139470-c4ba214e394c643d981cb72d6d0c50101bf83bb7a26967a7f87cd7ed7fb3021b.jpg",
+    "place_id": "ChIJLTrbeOfmAGARnN4yhWYYCdY",
+    "g_name": "なにわ橋駅",
+    "g_rating": 3.8,
+    "g_reviews": 78,
+    "g_address": "日本、〒530-0005 大阪府大阪市北区中之島１丁目１",
+    "lat": 34.6928554,
+    "lng": 135.5061422
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "ドーディチ",
+    "name_en": "DODICI",
+    "area": "京都府 京都市役所前駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260202/26035328/",
+    "rating": 3.73,
+    "review_count_tabelog": 104,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Italian, Innovative, French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri, Sat, Sun, Public Holiday",
+        "dtl": "18:00 - 22:00 L.O. 19:00",
+        "dtl_text": "18:00 - 22:00 L.O. 19:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon, Fri - Sun & Public Holidays": {},
+        "Mon, Tue, Thu - Sun & Public Holidays": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 76,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJU-CK_ksJAWARKRojwg1e98o",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/26035328-61a3c4c12d6440a99f3a5dcf21992562facb0822719408d1d85f0e246e3c8218.jpg",
+    "place_id": "ChIJU-CK_ksJAWARKRojwg1e98o",
+    "g_name": "イタリアンレストラン DODICI",
+    "g_rating": 4.6,
+    "g_reviews": 76,
+    "g_address": "日本、〒604-0943 京都府京都市中京区上白山町２３９",
+    "lat": 35.0118836,
+    "lng": 135.7657119
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "自然イタリア料理 ダ ゼロ",
+    "name_en": "da zero",
+    "area": "高知県 高岡郡佐川町",
+    "url": "https://tabelog.com/kochi/A3903/A390302/39007022/",
+    "rating": 3.73,
+    "review_count_tabelog": 24,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Italian, Organic",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 L.O. 14:00 17:00 - 21:00 L.O. 20:00",
+        "dtl_text": "17:00 - 21:00 L.O. 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 79,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJFZ_8nks3TjURnw0s_g2p2WU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/39007022-df4c91bff3675bfb999ba0bc45745a420cbef5aa71f6ee72ec1940179594f1c5.jpg",
+    "place_id": "ChIJFZ_8nks3TjURnw0s_g2p2WU",
+    "g_name": "da zero",
+    "g_rating": 4.5,
+    "g_reviews": 79,
+    "g_address": "日本、〒789-1203 高知県高岡郡佐川町丙３０５１",
+    "lat": 33.5131128,
+    "lng": 133.2699201
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "Ｆridge",
+    "name_en": "Ｆ ridge",
+    "area": "福岡県 渡辺通駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400103/40005331/",
+    "rating": 3.75,
+    "review_count_tabelog": 132,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian, Wine bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "16:00 - 21:00",
+        "dtl_text": "16:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "14:00 - 21:00",
+        "dtl_text": "14:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 102,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7VaQyZCRQTUR_tA6ZXz1UDI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/40005331-db4ff683e121982ab173fa3289ec2b830eb0557f561c77fc1b7a4eff1e401169.jpg",
+    "place_id": "ChIJ7VaQyZCRQTUR_tA6ZXz1UDI",
+    "g_name": "フリッジ",
+    "g_rating": 4.3,
+    "g_reviews": 102,
+    "g_address": "日本、〒810-0004 福岡県福岡市中央区渡辺通５丁目８−５ 天神エクセル12",
+    "lat": 33.5870022,
+    "lng": 130.4053871
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "IL GARAGE",
+    "name_en": "IL GARAGE",
+    "area": "京都府 烏丸御池駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260202/26031986/",
+    "rating": 3.97,
+    "review_count_tabelog": 75,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays and occasionally on other days"
+    },
+    "google_rating": 4.7,
+    "google_reviews": 43,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJNfHrQUYJAWARPWwA2OX1Z8w",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/26031986-0ca6ead82e46c48924afd3e1f6a6991f5e81923c1b7dba516ea0f3fb914d933f.jpg",
+    "place_id": "ChIJNfHrQUYJAWARPWwA2OX1Z8w",
+    "g_name": "IL GARAGE/イル ガラージュ",
+    "g_rating": 4.7,
+    "g_reviews": 43,
+    "g_address": "日本、〒604-8118 京都府京都市中京区道祐町147 2F",
+    "lat": 35.0078107,
+    "lng": 135.7631827
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "KYuNii",
+    "name_en": "KYuNii",
+    "area": "福岡県 薬院大通駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400104/40065082/",
+    "rating": 3.79,
+    "review_count_tabelog": 79,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian, Pasta, Meat dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "18:00 - 23:00 L.O. Food 22:00",
+        "dtl_text": "18:00 - 23:00 L.O. Food 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "15:00 - 23:00 L.O. Food 22:00",
+        "dtl_text": "15:00 - 23:00 L.O. Food 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 32,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJfyGMsgSRQTURWfwI-ja799Q",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/40065082-1e88448c1be152deb20ca759c7fce6a374c121438657d8d6411281d31d43ceac.jpg",
+    "place_id": "ChIJfyGMsgSRQTURWfwI-ja799Q",
+    "g_name": "KYuNii",
+    "g_rating": 4.2,
+    "g_reviews": 32,
+    "g_address": "日本、〒810-0023 福岡県福岡市中央区警固１丁目６−４",
+    "lat": 33.58444,
+    "lng": 130.3954119
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "ヴィラ・アイーダ",
+    "name_en": "Villa Aida",
+    "area": "和歌山県 岩出市",
+    "url": "https://tabelog.com/wakayama/A3001/A300102/30000104/",
+    "rating": 4.24,
+    "review_count_tabelog": 194,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian, Auberge",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 60,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJFUuB5U81B2ARkTWAg-CCMt4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/30000104-6818df4df6fdb0d25f92ec6038232f250b4f43468fdfac195c8fbf677b366b10.jpg",
+    "place_id": "ChIJFUuB5U81B2ARkTWAg-CCMt4",
+    "g_name": "Villa AiDA",
+    "g_rating": 4.1,
+    "g_reviews": 60,
+    "g_address": "日本、〒649-6231 和歌山県岩出市川尻７１−５",
+    "lat": 34.2671833,
+    "lng": 135.3092712
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "バール チッチャ",
+    "name_en": "Bar Ciccia",
+    "area": "兵庫県 三ノ宮（ＪＲ）駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280101/28046909/",
+    "rating": 3.76,
+    "review_count_tabelog": 713,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "Italian, Baru (Spanish style bar), Pizza",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 15:00 17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 175,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJRZFI8eaOAGAR0qHoLry5Rig",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/28046909-51848d8c0bab93f2672d39ef8d25f5b0fb03d31e91c51aea91238ad593da5aa6.jpg",
+    "place_id": "ChIJRZFI8eaOAGAR0qHoLry5Rig",
+    "g_name": "Bar Ciccia （バールチッチャ）",
+    "g_rating": 4.2,
+    "g_reviews": 175,
+    "g_address": "日本、〒650-0001 兵庫県神戸市中央区加納町２丁目１−２ 日光ビル 2F",
+    "lat": 34.6987767,
+    "lng": 135.1935864
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "キアラ",
+    "name_en": "Chiara",
+    "area": "大阪府 四天王寺前夕陽ケ丘駅",
+    "url": "https://tabelog.com/osaka/A2701/A270203/27114331/",
+    "rating": 3.59,
+    "review_count_tabelog": 38,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:00 - 23:00 L.O. Food 20:55 Drinks 21:00",
+        "dtl_text": "17:00 - 23:00 L.O. Food 20:55 Drinks 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays"
+    },
+    "google_rating": 3.8,
+    "google_reviews": 36,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJXYJ-4XXnAGARvdTfyk1r57w",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/27114331-77e98b42ca88e9bf175b0b4652f5db51c9e1d171cf73f5d2cc75b94a988be70b.jpg",
+    "place_id": "ChIJXYJ-4XXnAGARvdTfyk1r57w",
+    "g_name": "CHIARA-CUCINA ITALIAN",
+    "g_rating": 3.8,
+    "g_reviews": 36,
+    "g_address": "日本、〒543-0041 大阪府大阪市天王寺区真法院町２０−２",
+    "lat": 34.6581069,
+    "lng": 135.5196472
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "ラ ピニャータ",
+    "name_en": "La Pinata",
+    "area": "大阪府 堺筋本町駅",
+    "url": "https://tabelog.com/osaka/A2701/A270106/27072091/",
+    "rating": 3.73,
+    "review_count_tabelog": 478,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian, Steak, Meat dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 23:00 L.O. 21:30",
+        "dtl_text": "18:00 - 23:00 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "We are excited to share that our third location, Italian Bar La Pignata, opened in Umeda Barchika 03 in July 2024!"
+    },
+    "google_rating": 3.9,
+    "google_reviews": 298,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJwciP-xjnAGAR0k_qlZxN90I",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/27072091-7567ba59278e48e4a97e0867589436b5e4f0f5eebf0e8c0e0b1d0bab0897164b.jpg",
+    "place_id": "ChIJwciP-xjnAGAR0k_qlZxN90I",
+    "g_name": "ラ・ピニャータ",
+    "g_rating": 3.9,
+    "g_reviews": 298,
+    "g_address": "日本、〒541-0058 大阪府大阪市中央区南久宝寺町２丁目５−３ 南久宝寺ときわビル",
+    "lat": 34.679373,
+    "lng": 135.5043709
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "イル ギオットーネ ディ ピュー",
+    "name_en": "IL GHIOTTONE di piu",
+    "area": "大阪府 大阪駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27072626/",
+    "rating": 3.6,
+    "review_count_tabelog": 367,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "Italian, Pasta, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 20:00",
+        "dtl_text": "18:00 - 20:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Lunch": {}
+      },
+      "closed_on": "In accordance with the operating hours of Grand Front Osaka"
+    },
+    "google_rating": 3.8,
+    "google_reviews": 222,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJw0LI_YvmAGARyPPcEx_yNrM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/27072626-c401c0ecd797d4f7363cbe323520747eef2e44c77aec0d6c9ab39ab0805d4978.jpg",
+    "place_id": "ChIJw0LI_YvmAGARyPPcEx_yNrM",
+    "g_name": "イル ギオットーネ ディ ピュー",
+    "g_rating": 3.8,
+    "g_reviews": 222,
+    "g_address": "日本、〒530-0011 大阪府大阪市北区大深町３−１ グランフロント大阪 北館 1F",
+    "lat": 34.70531680000001,
+    "lng": 135.4949777
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "ラ・ルッチョラ",
+    "name_en": "La Lucciola",
+    "area": "大阪府 福島（阪神）駅",
+    "url": "https://tabelog.com/osaka/A2701/A270108/27113735/",
+    "rating": 3.69,
+    "review_count_tabelog": 110,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 00:00",
+        "dtl_text": "18:00 - 00:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 102,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ999dBIrmAGARCSlrbMSkriA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/27113735-a337ef59744508b6699c375dc54545c5237ce8b226660739d55794cce7ee7b5d.jpg",
+    "place_id": "ChIJ999dBIrmAGARCSlrbMSkriA",
+    "g_name": "ラ ルッチョラ",
+    "g_rating": 4.3,
+    "g_reviews": 102,
+    "g_address": "日本、〒553-0003 大阪府大阪市福島区福島５丁目７−３",
+    "lat": 34.696576,
+    "lng": 135.4885892
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "なかがわ",
+    "name_en": "Nakagawa",
+    "area": "福岡県 渡辺通駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400103/40048828/",
+    "rating": 3.71,
+    "review_count_tabelog": 219,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "Italian, Creative, French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:45 - 15:00 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 120,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_cOvKJWRQTUR05PAf1X46-Y",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/40048828-eaf02f104a182428a7e883b482d141259c2c7c54cfc931d15bdeca39a09c49dc.jpg",
+    "place_id": "ChIJ_cOvKJWRQTUR05PAf1X46-Y",
+    "g_name": "NAKAGAWA なかがわ",
+    "g_rating": 4.4,
+    "g_reviews": 120,
+    "g_address": "日本、〒810-0004 福岡県福岡市中央区渡辺通２丁目１−８２ 電気ビル本館 北館 B1F",
+    "lat": 33.5844743,
+    "lng": 130.4039205
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "名前のないイタリア料理店",
+    "name_en": "Namae no Nai Italia Ryori Ten",
+    "area": "愛媛県 松山市",
+    "url": "https://tabelog.com/ehime/A3801/A380101/38009262/",
+    "rating": 4.09,
+    "review_count_tabelog": 200,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Italian, French, Pasta",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 14:00 18:00 - 22:30",
+        "dtl_text": "18:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "11:30 - 14:00 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 78,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJY7S2IfPlTzURP7TvvcUm-c8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/38009262-5e886eb3b261daac473e8bd51a419b523651c42c3c3fd714256dc02efd03956a.jpg",
+    "place_id": "ChIJY7S2IfPlTzURP7TvvcUm-c8",
+    "g_name": "名前のないイタリア料理店",
+    "g_rating": 4.1,
+    "g_reviews": 78,
+    "g_address": "日本、〒790-0011 愛媛県松山市千舟町４丁目１−４ ヒラキビル １Ｆ",
+    "lat": 33.8365806,
+    "lng": 132.7673959
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "ラ・セーラ",
+    "name_en": "La Sera",
+    "area": "愛媛県 松山市",
+    "url": "https://tabelog.com/ehime/A3801/A380101/38000678/",
+    "rating": 3.66,
+    "review_count_tabelog": 211,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Italian, Pasta, Pizza",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 L.O. 14:00 18:00 - 22:00 L.O. 21:00",
+        "dtl_text": "18:00 - 22:00 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The fourth Thursday of each month"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 249,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVZbn-PLlTzUR6Cq5_meopro",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/38000678-6e22a6be5c7787b6fac36270f59c1b8388cbb0fbc28b1c14b14b9c203453fb99.jpg",
+    "place_id": "ChIJVZbn-PLlTzUR6Cq5_meopro",
+    "g_name": "タベルナ ラ・セーラ",
+    "g_rating": 4.4,
+    "g_reviews": 249,
+    "g_address": "日本、〒790-0011 愛媛県松山市千舟町３丁目２−４ 鴻池ビル 2F",
+    "lat": 33.8365232,
+    "lng": 132.7685231
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "monk",
+    "name_en": "monk",
+    "area": "京都府 京都市左京区",
+    "url": "https://tabelog.com/kyoto/A2601/A260302/26026737/",
+    "rating": 3.67,
+    "review_count_tabelog": 55,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian, Pizza",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays and Mondays"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 322,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJF7ckRhsJAWAR4RfB9jaYHt4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/26026737-93f02c99ee86f9500d32758f757adfc49fe8763592b2d1b3850313450245fdbf.jpg",
+    "place_id": "ChIJF7ckRhsJAWAR4RfB9jaYHt4",
+    "g_name": "Monk",
+    "g_rating": 4.6,
+    "g_reviews": 322,
+    "g_address": "日本、〒606-8404 京都府京都市左京区浄土寺下南田町１４７",
+    "lat": 35.0231341,
+    "lng": 135.7957722
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "クッカーニャ",
+    "name_en": "CUCCAGNA",
+    "area": "福岡県 天神南駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400103/40039583/",
+    "rating": 4.08,
+    "review_count_tabelog": 70,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:30 - 23:00",
+        "dtl_text": "17:30 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 47,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQa461ZaRQTURz8sMuhPnboU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/40039583-802d8c4a24f6e4f5bb251da03a975d276c3ec9748503e6333b5eae40f1712b53.jpg",
+    "place_id": "ChIJQa461ZaRQTURz8sMuhPnboU",
+    "g_name": "クッカーニャ",
+    "g_rating": 4.4,
+    "g_reviews": 47,
+    "g_address": "日本、〒810-0003 福岡県福岡市中央区春吉３丁目２５−２１",
+    "lat": 33.5879966,
+    "lng": 130.4058931
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "Cucina Italiana 東洞",
+    "name_en": "Cucina Italiana Todo",
+    "area": "京都府 丸太町（京都市営）駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260202/26007432/",
+    "rating": 3.7,
+    "review_count_tabelog": 368,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Italian, Pasta",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 L.O. 14:00 17:30 - 23:00 L.O. 22:00",
+        "dtl_text": "17:30 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The second and third Wednesdays of each month."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 149,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJIToxR48IAWARkGjUc6FNfgs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/26007432-d6b62325d3fe043faf909f317c64b5066c51e2552e7bd236eb2dcdd36bfeb9b5.jpg",
+    "place_id": "ChIJIToxR48IAWARkGjUc6FNfgs",
+    "g_name": "Cucina Italiana 東洞",
+    "g_rating": 4.2,
+    "g_reviews": 149,
+    "g_address": "日本、〒604-0872 京都府京都市中京区三本木五丁目４９６−３ ＣＵＣＩＮＡ ＩＴＡＬＩＡＮＡ東洞",
+    "lat": 35.0151339,
+    "lng": 135.760913
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "logue",
+    "name_en": "logue",
+    "area": "高知県 土佐市",
+    "url": "https://tabelog.com/kochi/A3901/A390101/39007234/",
+    "rating": 3.87,
+    "review_count_tabelog": 73,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:30 18:00 - 21:30",
+        "dtl_text": "18:00 - 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Thursdays (Please note that the regular closing day may change.)"
+    },
+    "google_rating": 4.7,
+    "google_reviews": 33,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJr6xbqUs_TjUR8mjkN6E8ADc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/39007234-ba31912739d5af8baa3882f8760fe3726ba589c52c03f49e2309733e699c38c7.jpg",
+    "place_id": "ChIJr6xbqUs_TjUR8mjkN6E8ADc",
+    "g_name": "ローグ",
+    "g_rating": 4.7,
+    "g_reviews": 33,
+    "g_address": "日本、〒781-1165 高知県土佐市宇佐町竜５９９−６",
+    "lat": 33.4241134,
+    "lng": 133.4540897
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "ラピ",
+    "name_en": "L'API",
+    "area": "愛媛県 伊予市",
+    "url": "https://tabelog.com/ehime/A3801/A380103/38013130/",
+    "rating": 3.96,
+    "review_count_tabelog": 37,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 66,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6bmYZOnlTzURl7_uXABFaGQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/38013130-7ec660e717aac1ef348760b1b6a2de6035a6dff0f256b6e6be964ea6df69f4f5.jpg",
+    "place_id": "ChIJ6bmYZOnlTzURl7_uXABFaGQ",
+    "g_name": "ラピ",
+    "g_rating": 4.3,
+    "g_reviews": 66,
+    "g_address": "日本、〒799-3104 愛媛県伊予市上三谷甲２２０９-１３",
+    "lat": 33.7626987,
+    "lng": 132.7420822
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "jibunchi",
+    "name_en": "jibunchi",
+    "area": "石川県 金沢市",
+    "url": "https://tabelog.com/ishikawa/A1701/A170101/17012833/",
+    "rating": 3.76,
+    "review_count_tabelog": 29,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 23:30",
+        "dtl_text": "18:00 - 23:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 43,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGf8q6p01-F8RIgURP8O7C0w",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/17012833-272c007bed1486b6348195fa449fc55889813dd5f4b63426990ed803a463485b.jpg",
+    "place_id": "ChIJGf8q6p01-F8RIgURP8O7C0w",
+    "g_name": "ジブンチ jibunchi",
+    "g_rating": 4.3,
+    "g_reviews": 43,
+    "g_address": "日本、〒920-0866 石川県金沢市中央通町１１−４９",
+    "lat": 36.5641258,
+    "lng": 136.6476751
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "マカウダ",
+    "name_en": "Macauda",
+    "area": "大阪府 谷町四丁目駅",
+    "url": "https://tabelog.com/osaka/A2701/A270104/27112899/",
+    "rating": 3.68,
+    "review_count_tabelog": 492,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00 17:30 - 22:30",
+        "dtl_text": "17:30 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "17:30 - 22:30",
+        "dtl_text": "17:30 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 229,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJY3_2zsfnAGARxzASPvWFycs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/27112899-fc18fa191a86f0751805d000c45fdb8dfdc1a29616bbafab8d82698386be947b.jpg",
+    "place_id": "ChIJY3_2zsfnAGARxzASPvWFycs",
+    "g_name": "Macauda",
+    "g_rating": 4.1,
+    "g_reviews": 229,
+    "g_address": "日本、〒540-0028 大阪府大阪市中央区常盤町２丁目１−３ ハイネス常磐 101",
+    "lat": 34.6824414,
+    "lng": 135.5143061
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "バードランド",
+    "name_en": "BIRD LAND",
+    "area": "福井県 坂井市",
+    "url": "https://tabelog.com/fukui/A1801/A180102/18000038/",
+    "rating": 3.71,
+    "review_count_tabelog": 242,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Italian, Pizza",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 17:30 - 21:00",
+        "dtl_text": "17:30 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 272,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJx6VGKFfv-F8Rb7uF24znjj0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/18000038-b42fbe5bfa9e13eb11e377595f64175f21b5de8b03bed30f7a98d7120b4e69d5.jpg",
+    "place_id": "ChIJx6VGKFfv-F8Rb7uF24znjj0",
+    "g_name": "バードランド",
+    "g_rating": 4.2,
+    "g_reviews": 272,
+    "g_address": "日本、〒913-0048 福井県坂井市三国町緑ケ丘４丁目１９−２１",
+    "lat": 36.2238421,
+    "lng": 136.1555575
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "ペッシェ・ロッソ",
+    "name_en": "PESCE ROSSO",
+    "area": "大阪府 長堀橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270201/27049992/",
+    "rating": 3.6,
+    "review_count_tabelog": 206,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:30 - 23:00 L.O. Food 21:00 Drinks 22:30",
+        "dtl_text": "17:30 - 23:00 L.O. Food 21:00 Drinks 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (the following day if it falls on a public holiday)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 72,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJlxmeFhbnAGAR0rhKbWGfHPs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/27049992-35cb66114839285d74656bf37335da8e8efb4f5078b3a887162d8b2eb2941235.jpg",
+    "place_id": "ChIJlxmeFhbnAGAR0rhKbWGfHPs",
+    "g_name": "PESCE ROSSO（ペッシェ ロッソ）",
+    "g_rating": 4.3,
+    "g_reviews": 72,
+    "g_address": "日本、〒542-0083 大阪府大阪市中央区東心斎橋１丁目３−１８",
+    "lat": 34.6737067,
+    "lng": 135.5053846
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "アンナータ",
+    "name_en": "Annata",
+    "area": "高知県 高知市",
+    "url": "https://tabelog.com/kochi/A3901/A390101/39007166/",
+    "rating": 3.79,
+    "review_count_tabelog": 32,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian, Creative, Pasta",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 35,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJu_g3n1QZTjUR9F7KCp-MkWw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/39007166-4da39ff81c628d36e54f2dad921b06149079e35a2da1ec95092644fa95bbaec6.jpg",
+    "place_id": "ChIJu_g3n1QZTjUR9F7KCp-MkWw",
+    "g_name": "アンナータ",
+    "g_rating": 4.5,
+    "g_reviews": 35,
+    "g_address": "日本、〒780-0833 高知県高知市南はりまや町１丁目１７−２３ MPビル ２Ｆ",
+    "lat": 33.5587965,
+    "lng": 133.5438143
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "RADICE",
+    "name_en": "RADICE",
+    "area": "京都府 丸太町（京都市営）駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260202/26023199/",
+    "rating": 4.1,
+    "review_count_tabelog": 199,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu",
+        "dtl": "18:30 - 22:00",
+        "dtl_text": "18:30 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Fri, Sat, Sun, Public Holiday",
+        "dtl": "12:00 - 15:00 18:30 - 22:00",
+        "dtl_text": "18:30 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "*Please note that we will be temporarily closed from October 28 to November 6. For inquiries during this period, please reach out via the contact section on our official website."
+    },
+    "google_rating": 4.6,
+    "google_reviews": 82,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJe55FZocIAWAR3-7WNuJxFvo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/26023199-e0183a544373eafca7012248fb2195ed13d7b1f789a20e566b2d447a46255048.jpg",
+    "place_id": "ChIJe55FZocIAWAR3-7WNuJxFvo",
+    "g_name": "Radice",
+    "g_rating": 4.6,
+    "g_reviews": 82,
+    "g_address": "日本、〒604-0002 京都府京都市中京区鏡屋町50番地",
+    "lat": 35.0149759,
+    "lng": 135.7582827
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "fudo",
+    "name_en": "fudo",
+    "area": "京都府 京都市役所前駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260202/26029086/",
+    "rating": 3.73,
+    "review_count_tabelog": 257,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian, Creative, Wine bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Sun",
+        "dtl": "17:00 - 23:00 L.O. Food 22:00",
+        "dtl_text": "17:00 - 23:00 L.O. Food 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "17:00 - 23:00 L.O. Food 23:00",
+        "dtl_text": "17:00 - 23:00 L.O. Food 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Fri, Sat",
+        "dtl": "17:00 - 00:00",
+        "dtl_text": "17:00 - 00:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Public Holiday",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Day before public holiday",
+        "dtl": "17:00 - 00:00 L.O. Food 23:00",
+        "dtl_text": "17:00 - 00:00 L.O. Food 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The restaurant will be open on August 13, 2024 (Tuesday)."
+    },
+    "google_rating": 4.6,
+    "google_reviews": 203,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVWGa44IAWARW8qsdqWZKCA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/26029086-b8d13af31b140f6e3ee6c40131caecfa4dc4d177e337795c6cefd4235d8eec3a.jpg",
+    "place_id": "ChIJVVWGa44IAWARW8qsdqWZKCA",
+    "g_name": "fudo",
+    "g_rating": 4.6,
+    "g_reviews": 203,
+    "g_address": "日本、〒604-0942 京都府京都市中京区御池大東町５９０ 加納ビル B1F",
+    "lat": 35.01115,
+    "lng": 135.7654185
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "katecuore",
+    "name_en": "katecuore",
+    "area": "佐賀県 伊万里市",
+    "url": "https://tabelog.com/saga/A4102/A410202/41006295/",
+    "rating": 4.5,
+    "review_count_tabelog": 159,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥30,000～￥39,999",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Please be aware that it may be difficult to reach us by phone."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 49,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJU9S5iROEajURW8jD4LLFrRU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/41006295-e3af5d8c860396e91732effc92bfe2969cbea66092511c30b0dae0916823df0e.jpg",
+    "place_id": "ChIJU9S5iROEajURW8jD4LLFrRU",
+    "g_name": "kate cuore",
+    "g_rating": 4.4,
+    "g_reviews": 49,
+    "g_address": "日本、〒848-0027 佐賀県伊万里市立花町３９９７−４",
+    "lat": 33.2737081,
+    "lng": 129.8836568
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "グリーチネ",
+    "name_en": "Glicine",
+    "area": "滋賀県 草津市",
+    "url": "https://tabelog.com/shiga/A2502/A250201/25005562/",
+    "rating": 3.68,
+    "review_count_tabelog": 60,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Italian, Pasta, Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 15:00 18:30 - 21:30",
+        "dtl_text": "18:30 - 21:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.8,
+    "google_reviews": 77,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJc3eO_4pyAWAROL24_F6AUJQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/25005562-40263f0e6d59f394112e9294ceebcf4a6a7cbcad9f16599e015c98d5ed7c0d76.jpg",
+    "place_id": "ChIJc3eO_4pyAWAROL24_F6AUJQ",
+    "g_name": "グリーチネ",
+    "g_rating": 4.8,
+    "g_reviews": 77,
+    "g_address": "日本、〒525-0055 滋賀県草津市野路町４６９−４ 2階",
+    "lat": 35.0069229,
+    "lng": 135.9396536
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "THE SODOH HIGASHIYAMA KYOTO",
+    "name_en": "THE SODOH HIGASHIYAMA KYOTO",
+    "area": "京都府 祇園四条駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260301/26003300/",
+    "rating": 3.65,
+    "review_count_tabelog": 1083,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "08:30 - 21:30 L.O. Food 20:30",
+        "dtl_text": "08:30 - 21:30 L.O. Food 20:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 1959,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJdeIDXMUIAWARR5_dz5gha20",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/26003300-61a3e6541977da6c55912b90f0ba6b328d557ab84ecf47642359cf2ddd50c0f5.jpg",
+    "place_id": "ChIJdeIDXMUIAWARR5_dz5gha20",
+    "g_name": "ザ ソウドウ 東山 京都",
+    "g_rating": 4.3,
+    "g_reviews": 1959,
+    "g_address": "日本、〒605-0827 京都府京都市東山区八坂通下河原東入八坂上町３６６",
+    "lat": 34.998918,
+    "lng": 135.7799807
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "legno",
+    "name_en": "legno",
+    "area": "兵庫県 元町（阪神）駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280102/28048454/",
+    "rating": 3.64,
+    "review_count_tabelog": 321,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Italian, Pizza, Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri",
+        "dtl": "17:00 - 23:00 L.O. Food 21:00 Drinks 22:00",
+        "dtl_text": "17:00 - 23:00 L.O. Food 21:00 Drinks 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:30 - 14:30 L.O. Food 13:00 Drinks 13:30 17:00 - 23:00 L.O. Food 21:00 Drinks 22:00",
+        "dtl_text": "17:00 - 23:00 L.O. Food 21:00 Drinks 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:30 - 14:30 L.O. Food 13:00 Drinks 13:30 17:00 - 22:00 L.O. Food 21:00 Drinks 22:00",
+        "dtl_text": "17:00 - 22:00 L.O. Food 21:00 Drinks 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 140,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5R2IXv2OAGARoiFJu6FiJs0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/28048454-8a4dcb0863423e20b7e68ddc9d7f5259b4d1594e5ca4df44fa80b254976de5e9.jpg",
+    "place_id": "ChIJ5R2IXv2OAGARoiFJu6FiJs0",
+    "g_name": "legno",
+    "g_rating": 4.3,
+    "g_reviews": 140,
+    "g_address": "日本、〒650-0022 兵庫県神戸市中央区元町通２丁目９",
+    "lat": 34.688937,
+    "lng": 135.1871417
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "チェルカ トローヴァ",
+    "name_en": "Cerca Trova",
+    "area": "宮崎県 延岡市",
+    "url": "https://tabelog.com/miyazaki/A4505/A450501/45003573/",
+    "rating": 4.05,
+    "review_count_tabelog": 55,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon - Sat, Public Holidays, and the day before Public Holidays": {}
+      },
+      "closed_on": "Sundays"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 48,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQB9TE0ZRzURgavwi6DTsHs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/45003573-52498d7f9691888ed98bb7e686d446b1a4994cbbd145a8e9a4ea5ba23bcfd260.jpg",
+    "place_id": "ChIJAQB9TE0ZRzURgavwi6DTsHs",
+    "g_name": "チェルカトローヴァ（CERCA TROVA）",
+    "g_rating": 4.4,
+    "g_reviews": 48,
+    "g_address": "日本、〒882-0044 宮崎県延岡市博労町４−１４",
+    "lat": 32.5861782,
+    "lng": 131.6701242
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "京都 ネーゼ",
+    "name_en": "Kyoto Neze",
+    "area": "京都府 三条駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260202/26005142/",
+    "rating": 3.65,
+    "review_count_tabelog": 183,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.7,
+    "google_reviews": 101,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKQUNgYMIAWARN6I_uC-7MT8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/26005142-712d849a45c19dafbba4cbadda7177fae166d74976d20e99a39ad40e07161e3c.jpg",
+    "place_id": "ChIJKQUNgYMIAWARN6I_uC-7MT8",
+    "g_name": "京都 ネーゼ",
+    "g_rating": 4.7,
+    "g_reviews": 101,
+    "g_address": "日本、〒604-8004 京都府京都市中京区中島町９６ ＳＡＮＪＯ ＫＩＹＡＭＡＣＨＩ ＢＬＤ． セカンド３階（１階、２階はめなみ）（４階MICHIya",
+    "lat": 35.0090999,
+    "lng": 135.7705872
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "イタリア料理 今井",
+    "name_en": "Italian Ryori Imai",
+    "area": "兵庫県 芦屋（阪神）駅",
+    "url": "https://tabelog.com/hyogo/A2803/A280302/28056034/",
+    "rating": 4.31,
+    "review_count_tabelog": 117,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 46,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJI_25k3fzAGARByLuH4XUGCU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/28056034-c654945f011f6a9fffbc5a9578c6b3fedb1cd85b232f474591d73392f0e7ae9f.jpg",
+    "place_id": "ChIJI_25k3fzAGARByLuH4XUGCU",
+    "g_name": "イタリア料理 今井",
+    "g_rating": 4.3,
+    "g_reviews": 46,
+    "g_address": "日本、〒659-0065 兵庫県芦屋市公光町１０−２１",
+    "lat": 34.7287437,
+    "lng": 135.3051246
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "ヴィア パーチェ",
+    "name_en": "VIA PACE",
+    "area": "岡山県 岡山市北区",
+    "url": "https://tabelog.com/okayama/A3301/A330101/33010293/",
+    "rating": 3.7,
+    "review_count_tabelog": 236,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian, Pasta, Baru (Spanish style bar)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu",
+        "dtl": "17:30 - 00:00 L.O. 23:00",
+        "dtl_text": "17:30 - 00:00 L.O. 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Fri, Sat",
+        "dtl": "17:30 - 01:00 L.O. 00:00",
+        "dtl_text": "17:30 - 01:00 L.O. 00:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 157,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmwFgR0oGVDURqVa-O5DLCZo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/33010293-7fb9e8a40654e6047708fd4a65ff9a4ea54f1f501ef104011b0e9cca6f5b4258.jpg",
+    "place_id": "ChIJmwFgR0oGVDURqVa-O5DLCZo",
+    "g_name": "VIA PACE",
+    "g_rating": 4.2,
+    "g_reviews": 157,
+    "g_address": "日本、〒700-0827 岡山県岡山市北区平和町５−２４",
+    "lat": 34.664053,
+    "lng": 133.923001
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "Bini",
+    "name_en": "Bini",
+    "area": "京都府 丸太町（京都市営）駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260202/26017022/",
+    "rating": 3.66,
+    "review_count_tabelog": 49,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Italian, European, French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 15:00 18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 42,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ43SrXn0IAWARqdFL-HOFvx0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/26017022-c48cc40b4a0d11028b3d50d1d6318b6a73bf5bee0fc3ee10d3a8a739f8dad85c.jpg",
+    "place_id": "ChIJ43SrXn0IAWARqdFL-HOFvx0",
+    "g_name": "Bini",
+    "g_rating": 4.3,
+    "g_reviews": 42,
+    "g_address": "日本、〒604-0871 京都府京都市中京区東洞院通丸太町下る三本木町４４５−１",
+    "lat": 35.0168608,
+    "lng": 135.7607437
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "ラ・バルカッチャ",
+    "name_en": "La Barcaccia",
+    "area": "大阪府 中津（大阪メトロ）駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27054558/",
+    "rating": 3.62,
+    "review_count_tabelog": 423,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian, Pizza",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri",
+        "dtl": "18:00 - 22:30 L.O. Food 21:30 Drinks 22:30",
+        "dtl_text": "18:00 - 22:30 L.O. Food 21:30 Drinks 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "12:00 - 15:00 L.O. Food 14:00 Drinks 15:00 17:30 - 22:30 L.O. Food 21:30 Drinks 22:30",
+        "dtl_text": "17:30 - 22:30 L.O. Food 21:30 Drinks 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "12:00 - 21:30 L.O. Food 21:00 Drinks 21:30",
+        "dtl_text": "12:00 - 21:30 L.O. Food 21:00 Drinks 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Public Holiday",
+        "dtl": "12:00 - 15:00 L.O. Food 14:00 Drinks 15:00 17:30 - 22:00 L.O. Food 21:00 Drinks 22:00",
+        "dtl_text": "17:30 - 22:00 L.O. Food 21:00 Drinks 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 215,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJWZKBYJrmAGARCEGb8rZWZps",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/27054558-24d909ba6ce758beb884c9095535a479884dcc4ecffdb4cb48426696a9e10551.jpg",
+    "place_id": "ChIJWZKBYJrmAGARCEGb8rZWZps",
+    "g_name": "ラ・バルカッチャ",
+    "g_rating": 4.1,
+    "g_reviews": 215,
+    "g_address": "日本、〒531-0072 大阪府大阪市北区豊崎３丁目５ 17 1階",
+    "lat": 34.7111489,
+    "lng": 135.4995028
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "ポンテ ベッキオ",
+    "name_en": "PONTE VECCHIO",
+    "area": "大阪府 北浜駅",
+    "url": "https://tabelog.com/osaka/A2701/A270102/27000522/",
+    "rating": 3.75,
+    "review_count_tabelog": 573,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 15:00 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Year-end & New Year Holidays (Dec 31 - Jan 3)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 323,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJh4sB4t3mAGAR_sRIp21V5Is",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/27000522-3cb71f39f0824c95340d0faaf9912f23d9610650578fd9cad4ffe6c24b779f9d.jpg",
+    "place_id": "ChIJh4sB4t3mAGAR_sRIp21V5Is",
+    "g_name": "ポンテベッキオ",
+    "g_rating": 4.3,
+    "g_reviews": 323,
+    "g_address": "日本、〒541-0041 大阪府大阪市中央区北浜１丁目８−１６",
+    "lat": 34.6914424,
+    "lng": 135.5073063
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "ピアット スズキ チンクエ",
+    "name_en": "Piatto Suzuki Cinque",
+    "area": "富山県 富山市",
+    "url": "https://tabelog.com/toyama/A1601/A160101/16008259/",
+    "rating": 3.69,
+    "review_count_tabelog": 92,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 16:00 L.O. Food 14:00 18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 207,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ46nCjOKY918Rs95OU27PAQE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/16008259-e478fbe2217414fdde03936211b1ddaa9d5cd108a2b87ace3d62a6387b509108.jpg",
+    "place_id": "ChIJ46nCjOKY918Rs95OU27PAQE",
+    "g_name": "ピアット スズキ チンクエ",
+    "g_rating": 4.4,
+    "g_reviews": 207,
+    "g_address": "日本、〒931-8358 富山県富山市東岩瀬町９３",
+    "lat": 36.7583945,
+    "lng": 137.2281742
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "センティウ",
+    "name_en": "SENTI.U",
+    "area": "鹿児島県 鹿屋市",
+    "url": "https://tabelog.com/kagoshima/A4604/A460401/46013967/",
+    "rating": 4.17,
+    "review_count_tabelog": 65,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 13:30 L.O. 13:30 18:30 - 20:00 L.O. 20:00",
+        "dtl_text": "18:30 - 20:00 L.O. 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 42,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJRxSit5yRPjUR0kqLqikzcro",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/46013967-43c97f1b27547338b050cd9fe5262a1dc40b363dce3314561ced8ce945d82290.jpg",
+    "place_id": "ChIJRxSit5yRPjUR0kqLqikzcro",
+    "g_name": "senti u",
+    "g_rating": 4.4,
+    "g_reviews": 42,
+    "g_address": "日本、〒893-0015 鹿児島県鹿屋市新川町５８７",
+    "lat": 31.3723429,
+    "lng": 130.8671856
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "祗園245",
+    "name_en": "Gion 245",
+    "area": "京都府 三条京阪駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260301/26018705/",
+    "rating": 3.64,
+    "review_count_tabelog": 196,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian, French, Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 86,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJwfwekI0IAWARhG94Berdg8I",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/26018705-0d21a1533077b3729374595d40afc245c90db5e9692ba41893e497ede1b9289f.jpg",
+    "place_id": "ChIJwfwekI0IAWARhG94Berdg8I",
+    "g_name": "祇園245",
+    "g_rating": 4.3,
+    "g_reviews": 86,
+    "g_address": "日本、〒605-0082 京都府京都市東山区中之町２４５−１",
+    "lat": 35.0063829,
+    "lng": 135.7756455
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "ルーデンス",
+    "name_en": "Ludens",
+    "area": "京都府 丸太町（京都市営）駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260202/26029857/",
+    "rating": 3.68,
+    "review_count_tabelog": 66,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Italian, Innovative, Creative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "12:00 - 15:00 L.O. Food 12:00 18:00 - 21:30",
+        "dtl_text": "18:00 - 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 15:00 18:00 - 21:30",
+        "dtl_text": "18:00 - 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays and Mondays"
+    },
+    "google_rating": 4.7,
+    "google_reviews": 86,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJdfO_KYYIAWAR6_YkggmTWB0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/26029857-b128f1b4dcd218877113f50b2d9330d890fa41bf9fb7c2e4c1284968e88635c5.jpg",
+    "place_id": "ChIJdfO_KYYIAWAR6_YkggmTWB0",
+    "g_name": "LUDENS",
+    "g_rating": 4.7,
+    "g_reviews": 86,
+    "g_address": "日本、〒604-0000 京都府京都市中京区間之町通二条上る夷町５６０−８",
+    "lat": 35.0145605,
+    "lng": 135.7617757
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "オット エ セッテ 大分",
+    "name_en": "Otto e Sette Oita",
+    "area": "大分県 別府市",
+    "url": "https://tabelog.com/oita/A4402/A440202/44008843/",
+    "rating": 3.72,
+    "review_count_tabelog": 114,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 198,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJE7O31aGnRjURR1KqS1dgfUc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/44008843-dba8c0d7be2f3e8ac21eb6a9e131fdcdab747b1f394f257d8fb5ce5a622b1def.jpg",
+    "place_id": "ChIJE7O31aGnRjURR1KqS1dgfUc",
+    "g_name": "Otto e Sette Oita(オット エ セッテ オオイタ)",
+    "g_rating": 4.3,
+    "g_reviews": 198,
+    "g_address": "日本、〒874-0043 大分県別府市井田２",
+    "lat": 33.3160238,
+    "lng": 131.4785463
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "アネロ",
+    "name_en": "anello",
+    "area": "大阪府 天神橋筋六丁目駅",
+    "url": "https://tabelog.com/osaka/A2701/A270103/27079346/",
+    "rating": 3.63,
+    "review_count_tabelog": 423,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian, Baru (Spanish style bar)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:30 - 00:00 L.O. 23:30",
+        "dtl_text": "17:30 - 00:00 L.O. 23:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 1,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJw1OUIUdvAWARsOs-_vlyW8U",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/27079346-43717aef4920c677a4577f4a2ed2f1bcd90ec375f7fcf1f94ed56e196729ab8a.jpg",
+    "place_id": "ChIJw1OUIUdvAWARsOs-_vlyW8U",
+    "g_name": "Amazon ロッカー - 大阪メトロ_天六駅",
+    "g_rating": 4,
+    "g_reviews": 1,
+    "g_address": "日本、〒530-0022 大阪府 大阪メトロ 天神橋筋六丁目駅 大阪市北区浪花町6-14-28",
+    "lat": 34.7108434,
+    "lng": 135.5114798
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "やまぐち",
+    "name_en": "Yamaguchi",
+    "area": "京都府 祇園四条駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260301/26018397/",
+    "rating": 4.45,
+    "review_count_tabelog": 424,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Day before public holiday, Day after public holiday",
+        "dtl": "17:00 - 21:30",
+        "dtl_text": "17:00 - 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays, Mondays, and Public Holidays"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 122,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJaT376MMIAWARpm5Ig00OHvs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/26018397-b6770d8a84d247599e21e1eb812b1802552dd71543f3e2e0b9fee9f495b1524e.jpg",
+    "place_id": "ChIJaT376MMIAWARpm5Ig00OHvs",
+    "g_name": "やまぐち",
+    "g_rating": 4.4,
+    "g_reviews": 122,
+    "g_address": "日本、〒605-0074 京都府京都市東山区祇園町南側５７０−１８５",
+    "lat": 35.0025676,
+    "lng": 135.7764985
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "MAKIBI",
+    "name_en": "MAKIBI",
+    "area": "大阪府 なにわ橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270102/27108201/",
+    "rating": 3.67,
+    "review_count_tabelog": 358,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian, Pizza, Pasta",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 23:00 L.O. Food 22:00 Drinks 22:30",
+        "dtl_text": "17:00 - 23:00 L.O. Food 22:00 Drinks 22:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round (please note that we may occasionally close for exceptional reasons)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 139,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJvUKOkTLnAGARmhlMXZ2HT2c",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/27108201-c027492e1b4b53c03509af9dded5779bbf288c62ae84d88702cd8b60d7335a3c.jpg",
+    "place_id": "ChIJvUKOkTLnAGARmhlMXZ2HT2c",
+    "g_name": "MAKIBI",
+    "g_rating": 4.3,
+    "g_reviews": 139,
+    "g_address": "日本、〒530-0047 大阪府大阪市北区西天満３丁目１−２７ Mebius 西天満 Bldg. １F",
+    "lat": 34.6942937,
+    "lng": 135.5091802
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "クイントカント",
+    "name_en": "Ristorante Quintocanto",
+    "area": "大阪府 渡辺橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270108/27073813/",
+    "rating": 3.98,
+    "review_count_tabelog": 1100,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 15:00 L.O. Food 13:00 18:00 - 22:00 L.O. Food 19:30",
+        "dtl_text": "18:00 - 22:00 L.O. Food 19:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round (subject to occasional closures)"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 347,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJITtdTvHmAGAR4F1NZrgXPHU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/27073813-4d29b18da9b613d22c3e3c7462f69a04c840b49fecca309dc8597eec863560a9.jpg",
+    "place_id": "ChIJITtdTvHmAGAR4F1NZrgXPHU",
+    "g_name": "Ristorante QUINTOCANTO（リストランテ クイントカント）",
+    "g_rating": 4.5,
+    "g_reviews": 347,
+    "g_address": "日本、〒530-0005 大阪府大阪市北区中之島３丁目６−３２ ダイビル本館 1F",
+    "lat": 34.69327,
+    "lng": 135.492491
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "ヴェローナ",
+    "name_en": "Verona",
+    "area": "福岡県 天神南駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400103/40000304/",
+    "rating": 3.8,
+    "review_count_tabelog": 177,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Italian, Pasta, Pizza",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri",
+        "dtl": "11:30 - 15:00 17:00 - 20:00",
+        "dtl_text": "17:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 20:00",
+        "dtl_text": "11:30 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 180,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7dkavpqRQTURGWfYcsQf8Yw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/40000304-1c73261ec0b0f13f299f554ada468068af8cacaa2c6204f512cada0ccc07226f.jpg",
+    "place_id": "ChIJ7dkavpqRQTURGWfYcsQf8Yw",
+    "g_name": "ヴェローナ",
+    "g_rating": 4.2,
+    "g_reviews": 180,
+    "g_address": "日本、〒810-0004 福岡県福岡市中央区渡辺通４丁目８−２８ B1",
+    "lat": 33.586341,
+    "lng": 130.401857
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "ラ・ロカンダ ザ・リッツ・カールトン京都",
+    "name_en": "La Locanda Za Rittsu Karuton Kyoto",
+    "area": "京都府 京都市役所前駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260202/26023294/",
+    "rating": 3.65,
+    "review_count_tabelog": 271,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Italian, European, Restaurants",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Public Holiday",
+        "dtl": "12:00 - 15:30 L.O. 14:30",
+        "dtl_text": "12:00 - 15:30 L.O. 14:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 15:30 L.O. 14:30 18:00 - 21:30 L.O. 20:30",
+        "dtl_text": "18:00 - 21:30 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "- Lunch service on the public holiday Monday, with dinner closed"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 134,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJm9uMM40IAWARNl83218JE7c",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/26023294-6745bce2b7317c3c08d8196a72a88487e4f99681f6741986b2bd42058b25ef77.jpg",
+    "place_id": "ChIJm9uMM40IAWARNl83218JE7c",
+    "g_name": "ラ・ロカンダ",
+    "g_rating": 4.5,
+    "g_reviews": 134,
+    "g_address": "日本、〒604-0902 京都府京都市中京区土手町通二条上る鉾田町５４３ 鴨川二条大橋畔",
+    "lat": 35.013768,
+    "lng": 135.770837
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "ラ・プリマ・ヴォルタ",
+    "name_en": "La Prima Vorta",
+    "area": "高知県 高知市",
+    "url": "https://tabelog.com/kochi/A3901/A390101/39004068/",
+    "rating": 3.86,
+    "review_count_tabelog": 85,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian, French, Spain",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays and the third Monday of each month"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 109,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJq4Ho8ksZTjURCoTa-uykclI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/39004068-6f38f8d44ab38452db857af2730ec3a66f93aafc77501312460358200edcbff9.jpg",
+    "place_id": "ChIJq4Ho8ksZTjURCoTa-uykclI",
+    "g_name": "la.Prima vorta",
+    "g_rating": 4.6,
+    "g_reviews": 109,
+    "g_address": "日本、〒780-0822 高知県高知市はりまや町２丁目１０−１",
+    "lat": 33.56100929999999,
+    "lng": 133.5446884
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "GIGLI",
+    "name_en": "GIGLI",
+    "area": "宮崎県 宮崎市",
+    "url": "https://tabelog.com/miyazaki/A4501/A450101/45012006/",
+    "rating": 3.67,
+    "review_count_tabelog": 32,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian, Wine bar, French",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 45,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJt-G4VBW3ODURjJQul2ir6PY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/45012006-a839d0108a54c103d09b5d516f648f6fbb9eb5a8639911b11058e6f998dea296.jpg",
+    "place_id": "ChIJt-G4VBW3ODURjJQul2ir6PY",
+    "g_name": "GIGLI",
+    "g_rating": 4.1,
+    "g_reviews": 45,
+    "g_address": "日本、〒880-0002 宮崎県宮崎市中央道３−２２ 高野ビル 1F",
+    "lat": 31.9166663,
+    "lng": 131.4212115
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "リストランテ ナカモト",
+    "name_en": "ristorante nakamoto",
+    "area": "京都府 木津駅",
+    "url": "https://tabelog.com/kyoto/A2607/A260705/26018907/",
+    "rating": 4.1,
+    "review_count_tabelog": 172,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Italian, French, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 15:00 18:00 - 22:30",
+        "dtl_text": "18:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Approximately 8 times a month, mainly on Wednesdays."
+    },
+    "google_rating": 4.6,
+    "google_reviews": 132,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGclA1Bs8AWARzuCCBPHjC4I",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/26018907-e641c2ed64886ed74e9817eacdae7e93e436c19e936105b902cc6fc7889702ef.jpg",
+    "place_id": "ChIJGclA1Bs8AWARzuCCBPHjC4I",
+    "g_name": "リストランテ ナカモト",
+    "g_rating": 4.6,
+    "g_reviews": 132,
+    "g_address": "日本、〒619-0214 京都府木津川市南垣外１２２−１",
+    "lat": 34.73677199999999,
+    "lng": 135.821072
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "FORNI",
+    "name_en": "FORNI",
+    "area": "京都府 二条城前駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260203/26034900/",
+    "rating": 3.69,
+    "review_count_tabelog": 225,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Italian, Pizza, Pasta",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 17:30 - 21:30",
+        "dtl_text": "17:30 - 21:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 195,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJA4lS7lUJAWAR_zqXF7RoWvc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/26034900-79b3f7e53a2b7e3bc37e24b385e3f6950afb1788c56a018402c89e9d3618029f.jpg",
+    "place_id": "ChIJA4lS7lUJAWAR_zqXF7RoWvc",
+    "g_name": "FORNI",
+    "g_rating": 4.4,
+    "g_reviews": 195,
+    "g_address": "日本、〒604-0051 京都府京都市中京区油小路通二条下る二条油小路町２８４",
+    "lat": 35.0134333,
+    "lng": 135.7525946
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "トラットリア チェーロ",
+    "name_en": "Trattoria Cielo",
+    "area": "大阪府 西中島南方駅",
+    "url": "https://tabelog.com/osaka/A2701/A270301/27010362/",
+    "rating": 3.59,
+    "review_count_tabelog": 619,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Italian, Beef dishes, Pasta",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00 17:30 - 21:30",
+        "dtl_text": "17:30 - 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 559,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3T2FkjDkAGARjUCEbut6mmk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/27010362-cbf9808413aea9167a0334ac0f33e452e2297b1be2bbffbe8b96bcb05de0291c.jpg",
+    "place_id": "ChIJ3T2FkjDkAGARjUCEbut6mmk",
+    "g_name": "トラットリアチェーロ",
+    "g_rating": 4.3,
+    "g_reviews": 559,
+    "g_address": "日本、〒532-0011 大阪府大阪市淀川区西中島６丁目３−１３ 新大阪ハイツさこ",
+    "lat": 34.7288982,
+    "lng": 135.4958664
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "DIRETTO",
+    "name_en": "DIRETTO",
+    "area": "広島県 中電前駅",
+    "url": "https://tabelog.com/hiroshima/A3401/A340117/34027088/",
+    "rating": 3.93,
+    "review_count_tabelog": 89,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 15:00 18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 3.9,
+    "google_reviews": 32,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJcRSurWujWjURCPPsqC76S3w",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/34027088-30751b32c6925ace3e4b7d23abd31bce65dd4a951c3c596d697bc20d3777bcaa.jpg",
+    "place_id": "ChIJcRSurWujWjURCPPsqC76S3w",
+    "g_name": "DIRETTO",
+    "g_rating": 3.9,
+    "g_reviews": 32,
+    "g_address": "日本、〒730-0043 広島県広島市中区富士見町５−１６",
+    "lat": 34.3875585,
+    "lng": 132.4605612
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "ダ・ルーポ322",
+    "name_en": "Da Ruopo 322",
+    "area": "兵庫県 西宮（阪神）駅",
+    "url": "https://tabelog.com/hyogo/A2803/A280301/28002576/",
+    "rating": 3.71,
+    "review_count_tabelog": 59,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.6,
+    "google_reviews": 21,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJA-fgh_byAGAR9AYICZ6hMts",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/28002576-109e58898538d07ae1d24072c45bbc023d6d468371c87d4851611270895c3569.jpg",
+    "place_id": "ChIJA-fgh_byAGAR9AYICZ6hMts",
+    "g_name": "リストランテ ダ ルーポ322",
+    "g_rating": 4.6,
+    "g_reviews": 21,
+    "g_address": "日本、〒662-0978 兵庫県西宮市産所町３−２２",
+    "lat": 34.7366713,
+    "lng": 135.3345311
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "pizzeria da ENZO",
+    "name_en": "pizzeria da ENZO",
+    "area": "沖縄県 国頭郡恩納村",
+    "url": "https://tabelog.com/okinawa/A4703/A470303/47015653/",
+    "rating": 3.73,
+    "review_count_tabelog": 459,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Italian, Pizza, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 L.O. 14:15 17:30 - 22:00 L.O. 21:00",
+        "dtl_text": "17:30 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (open during Year-end & New Year holidays!)"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 1070,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJzcdhn38Q5TQRYRSrZ35zwuE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/47015653-beaff6958a6461b2f30494c2899325f44c549758f9c7b7beff9562cab94229cc.jpg",
+    "place_id": "ChIJzcdhn38Q5TQRYRSrZ35zwuE",
+    "g_name": "Pizzeria da Enzo",
+    "g_rating": 4.4,
+    "g_reviews": 1070,
+    "g_address": "日本、〒904-0417 沖縄県国頭郡恩納村真栄田７１５−３",
+    "lat": 26.440234,
+    "lng": 127.768698
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "KAI",
+    "name_en": "KAI",
+    "area": "鹿児島県 出水市",
+    "url": "https://tabelog.com/kagoshima/A4602/A460204/46016438/",
+    "rating": 4.19,
+    "review_count_tabelog": 68,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "12:00 - 15:00 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 21,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJSymNXKG3PzURz8MJa0ldve8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/46016438-f2ae8a2b49f3079b0790da4dabebd0101b7a4e5883cb114bdd6c7f06d03373f7.jpg",
+    "place_id": "ChIJSymNXKG3PzURz8MJa0ldve8",
+    "g_name": "KAI",
+    "g_rating": 4.3,
+    "g_reviews": 21,
+    "g_address": "日本、〒899-0202 鹿児島県出水市昭和町５０−１９",
+    "lat": 32.0869514,
+    "lng": 130.3573027
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "グシテ",
+    "name_en": "gucite",
+    "area": "大阪府 天満橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270104/27093817/",
+    "rating": 4.25,
+    "review_count_tabelog": 173,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat",
+        "dtl": "18:00 - 00:00",
+        "dtl_text": "18:00 - 00:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "14:00 - 22:00",
+        "dtl_text": "14:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 109,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQCMo9fmAGARwdxxh2gT1l8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/27093817-f1f08676c7c10e7ec00761164d224d735506621cc14b1d5f0a2f641839b8cdfd.jpg",
+    "place_id": "ChIJAQCMo9fmAGARwdxxh2gT1l8",
+    "g_name": "グシテ",
+    "g_rating": 4.5,
+    "g_reviews": 109,
+    "g_address": "日本、〒530-0043 大阪府大阪市北区天満２丁目７−１ 末澤ビル",
+    "lat": 34.6933461,
+    "lng": 135.5172196
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "島之内フジマル醸造所",
+    "name_en": "Shimanouchi Fujimaru Jozosho",
+    "area": "大阪府 松屋町駅",
+    "url": "https://tabelog.com/osaka/A2701/A270204/27071950/",
+    "rating": 3.68,
+    "review_count_tabelog": 569,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "Italian, Wine bar, Dining bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 23:00 L.O. Food 21:30",
+        "dtl_text": "12:00 - 23:00 L.O. Food 21:30"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 189,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJBU9185znAGAR9f2SUTGBPKI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/27071950-c9a0f360e19fb773c43f85ffae7bd4e49611ccfd6edd30f6ea8065d3c3800bb3.jpg",
+    "place_id": "ChIJBU9185znAGAR9f2SUTGBPKI",
+    "g_name": "島之内フジマル醸造所",
+    "g_rating": 4.3,
+    "g_reviews": 189,
+    "g_address": "日本、〒542-0082 大阪府大阪市中央区島之内１丁目１−１４ 三和ビル 1階",
+    "lat": 34.6746157,
+    "lng": 135.5106432
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "檪の丘",
+    "name_en": "Kunugi no Oka",
+    "area": "大分県 由布市",
+    "url": "https://tabelog.com/oita/A4402/A440201/44000453/",
+    "rating": 3.7,
+    "review_count_tabelog": 532,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Italian, Pizza, Pasta",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri",
+        "dtl": "08:30 - 09:30 L.O. 09:00 11:00 - 15:00 L.O. 14:30 17:30 - 21:00 L.O. 20:00",
+        "dtl_text": "17:30 - 21:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "08:30 - 09:30 L.O. 09:00 10:30 - 15:00 L.O. 14:30 17:30 - 21:00 L.O. 20:00",
+        "dtl_text": "17:30 - 21:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays (open on public holidays)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 1272,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJyjCO5itRjURFbzbVoiVAdk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/44000453-4137ec96599d92bd2a2f0e6e35bc4036ac5303a62e2d1cfd527634e164adcf96.jpg",
+    "place_id": "ChIJJyjCO5itRjURFbzbVoiVAdk",
+    "g_name": "Pizzeria 櫟の丘",
+    "g_rating": 4.3,
+    "g_reviews": 1272,
+    "g_address": "日本、〒879-5114 大分県由布市湯布院町川北８９３−１",
+    "lat": 33.2632675,
+    "lng": 131.3299407
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "villa del nido",
+    "name_en": "villa del nido",
+    "area": "長崎県 雲仙市",
+    "url": "https://tabelog.com/nagasaki/A4203/A420301/42009254/",
+    "rating": 4.31,
+    "review_count_tabelog": 154,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Italian, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays and Wednesdays"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 52,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJb4anndNqQDURMBP6uen-gOA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/42009254-db87bf6451dfa5864431cc6ba0da70ebc1e7b57df4407e133f8e7569f2133641.jpg",
+    "place_id": "ChIJb4anndNqQDURMBP6uen-gOA",
+    "g_name": "ヴィッラ デル ニード",
+    "g_rating": 4.6,
+    "g_reviews": 52,
+    "g_address": "日本、〒859-1321 長崎県雲仙市国見町多比良甲３１３−２",
+    "lat": 32.8659471,
+    "lng": 130.3116282
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "エノテカ・ベルベルバール",
+    "name_en": "enoteca ber ber bar",
+    "area": "兵庫県 三宮（神戸市営）駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280101/28015970/",
+    "rating": 3.56,
+    "review_count_tabelog": 216,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Wine bar, Bistro, Pasta",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 23:00 L.O. 22:00",
+        "dtl_text": "18:00 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.8,
+    "google_reviews": 77,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJW-QwDeSOAGARD2CMXh0SyzA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/28015970-d9f54d79d701435064e25eea456b671861cbbce2f7833a2d612668e79e236d61.jpg",
+    "place_id": "ChIJW-QwDeSOAGARD2CMXh0SyzA",
+    "g_name": "エノテカ ベルベルバール",
+    "g_rating": 3.8,
+    "g_reviews": 77,
+    "g_address": "日本、〒650-0004 兵庫県神戸市中央区中山手通１丁目９−５",
+    "lat": 34.6955021,
+    "lng": 135.1920871
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "トラットリア ダ ジャコモ",
+    "name_en": "Trattoria da giacomo",
+    "area": "大阪府 福島（ＪＲ西日本）駅",
+    "url": "https://tabelog.com/osaka/A2701/A270108/27001173/",
+    "rating": 3.61,
+    "review_count_tabelog": 453,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Italian, Pasta",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 14:30 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "18:00 - 20:00",
+        "dtl_text": "18:00 - 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (the following day if a holiday)"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 225,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJU4DVHWDmAGARXnAMbYNVxv8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/27001173-75112fd43728b1391569b6a172913b9a0636ba49ddf5f91855a03ffe8202a5c8.jpg",
+    "place_id": "ChIJU4DVHWDmAGARXnAMbYNVxv8",
+    "g_name": "Trattoria da giacomo",
+    "g_rating": 4.4,
+    "g_reviews": 225,
+    "g_address": "日本、〒553-0003 大阪府大阪市福島区福島５丁目６−１２ シュエット吉本",
+    "lat": 34.6964791,
+    "lng": 135.4873111
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "トムクリオーザ",
+    "name_en": "TOM Curiosa",
+    "area": "大阪府 北新地駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27135015/",
+    "rating": 4.32,
+    "review_count_tabelog": 255,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Tue, Thu, Fri, Sat": {},
+        "Wed": {}
+      },
+      "closed_on": "Sundays, Mondays, and not fixed"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 127,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJkZOi1-3mAGARqlNsjGMWGQU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/27135015-2e0440a7bf8dc368d8ce24573c04cd618ff72b02fac7f0454f07cf6915f1b5de.jpg",
+    "place_id": "ChIJkZOi1-3mAGARqlNsjGMWGQU",
+    "g_name": "トムクリオーザ",
+    "g_rating": 4.5,
+    "g_reviews": 127,
+    "g_address": "日本、〒530-0002 大阪府大阪市北区曽根崎新地１丁目２−７ 櫻ビル ３F",
+    "lat": 34.6970598,
+    "lng": 135.4979835
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "リストランテ ハナタニ",
+    "name_en": "Ristorante Hanatani",
+    "area": "兵庫県 三宮（神戸市営）駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280101/28032418/",
+    "rating": 3.8,
+    "review_count_tabelog": 255,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Italian, Wine bar, Pasta",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Sat",
+        "dtl": "12:00 - 14:30 18:00 - 22:30",
+        "dtl_text": "18:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Fri",
+        "dtl": "18:00 - 22:30",
+        "dtl_text": "18:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 161,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ74RfQOGOAGARywn-CNDkIL8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/28032418-6b89fb1e501e4679fba185367479776e872290a3f1c555ff22bdb65cbe7ea1d6.jpg",
+    "place_id": "ChIJ74RfQOGOAGARywn-CNDkIL8",
+    "g_name": "リストランテ ハナタニ",
+    "g_rating": 4.3,
+    "g_reviews": 161,
+    "g_address": "日本、〒650-0004 兵庫県神戸市中央区中山手通１丁目２７−１２ 富士産業ビル 1F",
+    "lat": 34.697139,
+    "lng": 135.1904967
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "リストランテ ティー ブイ ビー",
+    "name_en": "Ristorante t.v.b",
+    "area": "京都府 祇園四条駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260301/26004765/",
+    "rating": 3.65,
+    "review_count_tabelog": 236,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Italian, Wine bar, European",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 15:00 L.O. 13:00 18:00 - 22:00 L.O. 20:00",
+        "dtl_text": "18:00 - 22:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every Sunday and some weekdays"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 73,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ-43YcEIAWARz-J7irldGus",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/26004765-18f76fb86ee7c95af0eb25496335c054034345051a00daa93203a093c1bc37c7.jpg",
+    "place_id": "ChIJZ-43YcEIAWARz-J7irldGus",
+    "g_name": "Ristorante t.v.b",
+    "g_rating": 4.4,
+    "g_reviews": 73,
+    "g_address": "日本、〒605-0074 京都府京都市東山区祇園町南側５７０−１５５",
+    "lat": 35.0024533,
+    "lng": 135.7755215
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "北野坂 木下",
+    "name_en": "Kitanozaka Kinoshita",
+    "area": "兵庫県 三宮（神戸市営）駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280101/28057663/",
+    "rating": 4.53,
+    "review_count_tabelog": 316,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "18:00 - 20:45",
+        "dtl_text": "18:00 - 20:45",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 14:30 18:00 - 20:45",
+        "dtl_text": "18:00 - 20:45",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.8,
+    "google_reviews": 58,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJq8-rHJWPAGARMinrfFZ8AIk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/28057663-e3d1be921125b62fbf81ccc26ddfdeb1b2ced8821f77e9369f880c53968f41bf.jpg",
+    "place_id": "ChIJq8-rHJWPAGARMinrfFZ8AIk",
+    "g_name": "北野坂木下",
+    "g_rating": 4.8,
+    "g_reviews": 58,
+    "g_address": "日本、〒650-0004 兵庫県神戸市中央区中山手通１丁目２４−１４ ペンシルビル 2F",
+    "lat": 34.6972754,
+    "lng": 135.191678
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "リストランテ野呂",
+    "name_en": "Ristorante Noro",
+    "area": "京都府 二条駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260203/26029064/",
+    "rating": 3.59,
+    "review_count_tabelog": 234,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Italian, Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 L.O. 13:30 17:30 - 22:00",
+        "dtl_text": "17:30 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 347,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJPfOZE9MHAWARiXSrNgVeg1I",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/26029064-6471970de24b7433bbc8a517bcbc488aa0418b28f85e444c8bc951d0b695f006.jpg",
+    "place_id": "ChIJPfOZE9MHAWARiXSrNgVeg1I",
+    "g_name": "リストランテ 野呂",
+    "g_rating": 4.2,
+    "g_reviews": 347,
+    "g_address": "日本、〒604-8381 京都府京都市中京区西ノ京職司町６７−１４",
+    "lat": 35.0110962,
+    "lng": 135.745804
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "il Sorriso",
+    "name_en": "il Sorriso",
+    "area": "宮崎県 宮崎市",
+    "url": "https://tabelog.com/miyazaki/A4501/A450101/45008051/",
+    "rating": 3.74,
+    "review_count_tabelog": 30,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian, Pasta",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 17,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAcemq3ODURUs5j7NtqG0E",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/45008051-b5dd6ea8e4c9bc6e010b9a069bb816fcf15e6f06faa92651da00033da03c7f9f.jpg",
+    "place_id": "ChIJAQAcemq3ODURUs5j7NtqG0E",
+    "g_name": "Il Sorriso (イル ソリーゾ)",
+    "g_rating": 4.6,
+    "g_reviews": 17,
+    "g_address": "日本、〒880-0805 宮崎県宮崎市橘通東３丁目５−２８ 長ビル 1階",
+    "lat": 31.9154008,
+    "lng": 131.4243858
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "イル ギオットーネ 京都本店",
+    "name_en": "IL GHIOTTONE Kyotohonten",
+    "area": "京都府 祇園四条駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260301/26001006/",
+    "rating": 3.69,
+    "review_count_tabelog": 672,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Italian, Pasta, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:00 18:00 - 20:00",
+        "dtl_text": "18:00 - 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Please check our website for any changes to the holiday schedule."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 327,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJafOyZ8UIAWARZW5Wi0gi7mI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/26001006-e795f0d636577d98133d69da903e9d0609c0ecf92c47f4e3b44fc93f28b23223.jpg",
+    "place_id": "ChIJafOyZ8UIAWARZW5Wi0gi7mI",
+    "g_name": "イル ギオットーネ",
+    "g_rating": 4.3,
+    "g_reviews": 327,
+    "g_address": "日本、〒605-0827 京都府京都市東山区八坂上町３８８−１",
+    "lat": 34.9989141,
+    "lng": 135.7792513
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "両忘",
+    "name_en": "Ryobo",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37008167/",
+    "rating": 4.2,
+    "review_count_tabelog": 174,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Italian",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat",
+        "dtl": "18:00 - 22:00 L.O. Food 18:00",
+        "dtl_text": "18:00 - 22:00 L.O. Food 18:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "12:00 - 15:00 L.O. Food 12:00 18:00 - 22:00 L.O. Food 18:00",
+        "dtl_text": "18:00 - 22:00 L.O. Food 18:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Reservations can be made through our website."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 82,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6GgnoTrUzURqoo-8Sf1qEE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/37008167-7f35d89517577448ada9a4d1d12b9047368fd90f0cfdfe6c631393c442002fcb.jpg",
+    "place_id": "ChIJq6GgnoTrUzURqoo-8Sf1qEE",
+    "g_name": "両忘",
+    "g_rating": 4.4,
+    "g_reviews": 82,
+    "g_address": "日本、〒760-0043 香川県高松市今新町６−２",
+    "lat": 34.3437199,
+    "lng": 134.0529821
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "イル・チェントリーノ",
+    "name_en": "il Centrino",
+    "area": "大阪府 松屋町駅",
+    "url": "https://tabelog.com/osaka/A2701/A270204/27105629/",
+    "rating": 3.63,
+    "review_count_tabelog": 193,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Italian, Wine bar, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 14:30 L.O. Food 12:30 Drinks 14:00 18:00 - 23:00 L.O. Food 20:00 Drinks 22:00",
+        "dtl_text": "18:00 - 23:00 L.O. Food 20:00 Drinks 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 83,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7d3qZErnAGARD5W3OkOwQ-U",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/27105629-c405c119768a634276a21eef9755393625ffd6f1f593566c20649aac4cee93d8.jpg",
+    "place_id": "ChIJ7d3qZErnAGARD5W3OkOwQ-U",
+    "g_name": "イル・チェントリーノ",
+    "g_rating": 4.6,
+    "g_reviews": 83,
+    "g_address": "日本、〒542-0066 大阪府大阪市中央区瓦屋町１丁目２−２",
+    "lat": 34.6729181,
+    "lng": 135.5142318
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "antica locanda MIYAMOTO",
+    "name_en": "antica locanda MIYAMOTO",
+    "area": "熊本県 熊本市中央区",
+    "url": "https://tabelog.com/kumamoto/A4301/A430101/43015536/",
+    "rating": 3.71,
+    "review_count_tabelog": 39,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian, Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 126,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJsY9DFWz0QDURTJgf9v4ROT4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/43015536-af960e8deb4ceae4e5f4581180c88c017cf8c923660d0367ed7d616b45306216.jpg",
+    "place_id": "ChIJsY9DFWz0QDURTJgf9v4ROT4",
+    "g_name": "アンティカ・ロカンダ・ミヤモト",
+    "g_rating": 4.2,
+    "g_reviews": 126,
+    "g_address": "日本、〒862-0975 熊本県熊本市中央区新屋敷１丁目９−１５ 濫觴",
+    "lat": 32.803365,
+    "lng": 130.7185972
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "チッチャ",
+    "name_en": "Ciccia",
+    "area": "兵庫県 三ノ宮（ＪＲ）駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280101/28034851/",
+    "rating": 3.91,
+    "review_count_tabelog": 391,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian, Bistro, French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:30 - 23:00 L.O. 22:30",
+        "dtl_text": "17:30 - 23:00 L.O. 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 128,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJj9FY8uaOAGARW5uzvliJRaQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/28034851-f573458a876ec6333c2736f731e72cf777bbb08bfb4d0d0ea8e69c27b30acc66.jpg",
+    "place_id": "ChIJj9FY8uaOAGARW5uzvliJRaQ",
+    "g_name": "チッチャ",
+    "g_rating": 4.4,
+    "g_reviews": 128,
+    "g_address": "日本、〒650-0001 兵庫県神戸市中央区加納町３丁目１１−２ 奥田ビル 1F",
+    "lat": 34.6981025,
+    "lng": 135.1933121
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "NICON",
+    "name_en": "NICON",
+    "area": "広島県 八丁堀駅",
+    "url": "https://tabelog.com/hiroshima/A3401/A340108/34027314/",
+    "rating": 4.06,
+    "review_count_tabelog": 40,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian, Innovative",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.9,
+    "google_reviews": 18,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGZMR4O2jWjURBS4BwQCaesU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/34027314-76df16a20d86fde57b5695682a9d4954f248b7dadf9e9aa2d5399ab56b4f2b24.jpg",
+    "place_id": "ChIJGZMR4O2jWjURBS4BwQCaesU",
+    "g_name": "ニコン(NICON)",
+    "g_rating": 4.9,
+    "g_reviews": 18,
+    "g_address": "日本、〒730-0013 広島県広島市中区八丁堀１２−５ 第２ＣＩＴＹビル 3階",
+    "lat": 34.3952145,
+    "lng": 132.4637363
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "オステリアエンネ",
+    "name_en": "Osteria enne",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37006368/",
+    "rating": 3.7,
+    "review_count_tabelog": 85,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Italian, Pasta, Wine bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 22:00 L.O. Food 21:00 Drinks 21:30",
+        "dtl_text": "18:00 - 22:00 L.O. Food 21:00 Drinks 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 70,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJpw6d1ITrUzUR-lgAiduQbGA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/37006368-ffd9f430f4d9900c3ad78866f31b3557cbdf23c094d7b0539ed940a69ec2de30.jpg",
+    "place_id": "ChIJpw6d1ITrUzUR-lgAiduQbGA",
+    "g_name": "オステリア エンネ",
+    "g_rating": 4.5,
+    "g_reviews": 70,
+    "g_address": "日本、〒760-0045 香川県高松市古馬場町１−１１",
+    "lat": 34.3431729,
+    "lng": 134.051133
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "アルバロンガ",
+    "name_en": "ALBALONGA",
+    "area": "大阪府 心斎橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270201/27009401/",
+    "rating": 3.71,
+    "review_count_tabelog": 772,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Italian, Pasta, Dining bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 15:00 L.O. 14:00 17:30 - 22:00 L.O. 21:00",
+        "dtl_text": "17:30 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 189,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJzU3VPhfnAGARvtB0efQ2Bu4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/27009401-e40944fc396dd4f4069796f147f162dd0984d393f850673fe31edb3f7b1a2c70.jpg",
+    "place_id": "ChIJzU3VPhfnAGARvtB0efQ2Bu4",
+    "g_name": "アルバロンガ",
+    "g_rating": 4.1,
+    "g_reviews": 189,
+    "g_address": "日本、〒542-0083 大阪府大阪市中央区東心斎橋１丁目１９−１５ 2F",
+    "lat": 34.6746343,
+    "lng": 135.5024795
+  },
+  {
+    "category_jp": "イタリアン",
+    "category_en": "Italian",
+    "region": "WEST",
+    "name": "トラットリア ピッツェリア polipo",
+    "name_en": "TRATTORIA-PIZZERIA polipo",
+    "area": "広島県 家庭裁判所前駅",
+    "url": "https://tabelog.com/hiroshima/A3401/A340118/34013074/",
+    "rating": 3.73,
+    "review_count_tabelog": 315,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Italian, Pizza",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri",
+        "dtl": "12:00 - 14:00 18:30 - 21:00 L.O. Food 20:00",
+        "dtl_text": "18:30 - 21:00 L.O. Food 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "11:30 - 14:00 18:30 - 21:00 L.O. Food 20:00",
+        "dtl_text": "18:30 - 21:00 L.O. Food 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Public Holiday",
+        "dtl": "11:30 - 14:00 L.O. Food 14:00 18:30 - 21:00 L.O. Food 20:00",
+        "dtl_text": "18:30 - 21:00 L.O. Food 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 437,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJcVsErFq3WjURaY4_XwEZJ2A",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/italian_west/34013074-4eb9f33f196db2af452055f5213eda934d13401a796d92b087c257627030f2f2.jpg",
+    "place_id": "ChIJcVsErFq3WjURaY4_XwEZJ2A",
+    "g_name": "polipo",
+    "g_rating": 4.3,
+    "g_reviews": 437,
+    "g_address": "日本、〒730-0004 広島県広島市中区東白島町２０−５",
+    "lat": 34.4027569,
+    "lng": 132.4657884
+  }
+]

@@ -1,0 +1,4580 @@
+[
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "かつ丼多勝",
+    "name_en": "Katsu-don Takatsu",
+    "area": "秋田県 秋田市",
+    "url": "https://tabelog.com/akita/A0501/A050101/5008061/",
+    "rating": 3.78,
+    "review_count_tabelog": 434,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Katsu-don (Pork cutlet bowl)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 14:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:00 - 14:00",
+        "dtl_text": "11:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 577,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9fOyxhPDj18R8GVCEdLFxAU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/5008061-143c01059315d830f53f19d79874c5abadda1dbe52e428f7f882d800ffbf81ea.jpg",
+    "place_id": "ChIJ9fOyxhPDj18R8GVCEdLFxAU",
+    "g_name": "かつ丼 多勝",
+    "g_rating": 4.2,
+    "g_reviews": 577,
+    "g_address": "日本、〒010-1613 秋田県秋田市新屋朝日町１２−１４",
+    "lat": 39.7003922,
+    "lng": 140.0863976
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とんかつ けい太 西荻窪駅前店",
+    "name_en": "Tonkatsu Keita Nishiogikubo Ekimae Ten",
+    "area": "東京都 西荻窪駅",
+    "url": "https://tabelog.com/tokyo/A1319/A131907/13241723/",
+    "rating": 3.95,
+    "review_count_tabelog": 974,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "11:00 - 15:00 L.O. 14:00 18:00 - 21:30 L.O. 20:30",
+        "dtl_text": "18:00 - 21:30 L.O. 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 15:00 L.O. 14:00 17:00 - 21:00 L.O. 20:00",
+        "dtl_text": "17:00 - 21:00 L.O. 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Note": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 453,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJxUqannfvGGARNtFvkLHEV9s",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/13241723-8e87b7136fc88c358bc581e4090b5eefc44c836dcdc0b3e4d7b0a4c226c707ac.jpg",
+    "place_id": "ChIJxUqannfvGGARNtFvkLHEV9s",
+    "g_name": "TONKATSU KEITA (とんかつ けい太)",
+    "g_rating": 4.6,
+    "g_reviews": 453,
+    "g_address": "日本、〒167-0054 東京都杉並区松庵３丁目４１−１ 西荻高架下",
+    "lat": 35.7036497,
+    "lng": 139.5958069
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "丸一",
+    "name_en": "Maru Ichi",
+    "area": "東京都 大森駅",
+    "url": "https://tabelog.com/tokyo/A1315/A131502/13003332/",
+    "rating": 3.61,
+    "review_count_tabelog": 774,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat",
+        "dtl": "11:30 - 13:00 17:00 - 19:00",
+        "dtl_text": "17:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 401,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJffTaBDJgGGARPrULdm1WfpA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/13003332-eca12846f919b66cfe3e3397ad74fa4f009caad0364855838964316cfe1464ff.jpg",
+    "place_id": "ChIJffTaBDJgGGARPrULdm1WfpA",
+    "g_name": "とんかつ 丸一",
+    "g_rating": 4.3,
+    "g_reviews": 401,
+    "g_address": "日本、〒143-0016 東京都大田区大森北１丁目７−２",
+    "lat": 35.5873569,
+    "lng": 139.7273929
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "あげ福",
+    "name_en": "Age Fuku",
+    "area": "東京都 五反田駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131603/13154272/",
+    "rating": 3.69,
+    "review_count_tabelog": 1540,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 15:00 L.O. 14:00 17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "We will guide you to your seats once everyone in your party has arrived."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 1032,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJH3wVouSKGGARiawW5gCAEFM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/13154272-5ed26b013a4879cb0fd8cb01a79cb078888b042b604939720ee191cf7085ca5f.jpg",
+    "place_id": "ChIJH3wVouSKGGARiawW5gCAEFM",
+    "g_name": "とんかつ あげ福",
+    "g_rating": 4.4,
+    "g_reviews": 1032,
+    "g_address": "日本、〒141-0031 東京都品川区西五反田２丁目１５−１３ ニューハイツ西五反田 １F",
+    "lat": 35.6260183,
+    "lng": 139.7205643
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "かつ平",
+    "name_en": "Katsu Hei",
+    "area": "東京都 三越前駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130202/13006321/",
+    "rating": 3.5,
+    "review_count_tabelog": 425,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 13:30",
+        "dtl_text": "11:00 - 13:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 199,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQdEUJ1SJGGAR5z_Db8DDfnw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/13006321-85d578d64edda271767cc417d14b9372b08ac6cb289a8224d2319d1eef88a744.jpg",
+    "place_id": "ChIJQdEUJ1SJGGAR5z_Db8DDfnw",
+    "g_name": "かつ平",
+    "g_rating": 4.1,
+    "g_reviews": 199,
+    "g_address": "日本、〒103-0023 東京都中央区日本橋本町１丁目２−3 ￼",
+    "lat": 35.6856161,
+    "lng": 139.7762888
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とんかつ まさむね",
+    "name_en": "Tonkatsu Masamune",
+    "area": "東京都 溜池山王駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130802/13156833/",
+    "rating": 3.72,
+    "review_count_tabelog": 1933,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 15:00 L.O. 14:30 18:00 - 22:00 L.O. 21:30",
+        "dtl_text": "18:00 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:30 - 15:00 L.O. 14:30",
+        "dtl_text": "11:30 - 15:00 L.O. 14:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 1196,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZdSwYIaLGGAREj_2_5Uof2c",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/13156833-72862cf6a8378d24dadc15a8455912c35aa5e301f47c2068a0db41768a64a4d6.jpg",
+    "place_id": "ChIJZdSwYIaLGGAREj_2_5Uof2c",
+    "g_name": "まさむね",
+    "g_rating": 4.3,
+    "g_reviews": 1196,
+    "g_address": "日本、〒107-0052 東京都港区赤坂２丁目８−１９",
+    "lat": 35.6720873,
+    "lng": 139.7399788
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "塩梅",
+    "name_en": "Anbai",
+    "area": "千葉県 柏駅",
+    "url": "https://tabelog.com/chiba/A1203/A120301/12000061/",
+    "rating": 3.59,
+    "review_count_tabelog": 1100,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Croquette, Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 22:00 L.O. Food 21:00 Drinks 21:30",
+        "dtl_text": "11:00 - 22:00 L.O. Food 21:00 Drinks 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (If a holiday falls on Monday, we will be closed the following Tuesday)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 908,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQBEbu-cGGARe6h7PlXOSJ4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/12000061-7108ad7ef278acc79e4c9deae3e3d338530b9cfd289a828435e8957cbc7e46fc.jpg",
+    "place_id": "ChIJAQBEbu-cGGARe6h7PlXOSJ4",
+    "g_name": "とんかつ･ビフテキ 塩梅",
+    "g_rating": 4.3,
+    "g_reviews": 908,
+    "g_address": "日本、〒277-0843 千葉県柏市明原１丁目２−３ 柏田中ビル B1",
+    "lat": 35.8641956,
+    "lng": 139.9665948
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "イマカツ 銀座店",
+    "name_en": "Imakatsu Ginza Ten",
+    "area": "東京都 東銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13159038/",
+    "rating": 3.59,
+    "review_count_tabelog": 1268,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 16:00 L.O. 15:30 18:00 - 22:00 L.O. 21:30",
+        "dtl_text": "18:00 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 1208,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ47cjvOCLGGARRTMzIAKnBlw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/13159038-e44298591a629ad6f2b37c90fcea09e57b7445059a6f798e9d1320c292cc92f0.jpg",
+    "place_id": "ChIJ47cjvOCLGGARRTMzIAKnBlw",
+    "g_name": "イマカツ 銀座店",
+    "g_rating": 4.2,
+    "g_reviews": 1208,
+    "g_address": "日本、〒104-0061 東京都中央区銀座４丁目１３−１８",
+    "lat": 35.6695652,
+    "lng": 139.7687783
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "キッチン美味小家",
+    "name_en": "Kitchen Umagoya",
+    "area": "山梨県 甲府市",
+    "url": "https://tabelog.com/yamanashi/A1901/A190101/19000291/",
+    "rating": 3.78,
+    "review_count_tabelog": 410,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 13:30 17:30 - 19:30",
+        "dtl_text": "17:30 - 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 202,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJEwb-tJL3G2ARpDyau6mkXJE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/19000291-a89c177083fda8ac9bb8404074137eee4daae97ffee9d71a6e3b641c692af8f8.jpg",
+    "place_id": "ChIJEwb-tJL3G2ARpDyau6mkXJE",
+    "g_name": "美味小家",
+    "g_rating": 4,
+    "g_reviews": 202,
+    "g_address": "日本、〒400-0073 山梨県甲府市湯村２丁目６−２２",
+    "lat": 35.68011300000001,
+    "lng": 138.5473523
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とんかつ いわい",
+    "name_en": "Tonkatsu Iwai",
+    "area": "東京都 大門駅",
+    "url": "https://tabelog.com/tokyo/A1314/A131401/13170377/",
+    "rating": 3.74,
+    "review_count_tabelog": 1806,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 14:30 L.O. 13:45 17:30 - 20:30 L.O. 19:45",
+        "dtl_text": "17:30 - 20:30 L.O. 19:45"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:30 - 14:30 L.O. 13:45",
+        "dtl_text": "11:30 - 14:30 L.O. 13:45"
+      },
+      {
+        "list_context": "main",
+        "title": "Public Holiday",
+        "dtl": "11:30 - 14:30 L.O. Food 13:45",
+        "dtl_text": "11:30 - 14:30 L.O. Food 13:45"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Year-end & New Year Holidays (December 31 - January 3)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 740,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJcc6vXseLGGARs_B_DB1vOxA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/13170377-a3f3cd0da2b91509ed63b6918f375e0c23646dcf8dd621ac20110f822b642a08.jpg",
+    "place_id": "ChIJcc6vXseLGGARs_B_DB1vOxA",
+    "g_name": "とんかつ屋 いわい 大門",
+    "g_rating": 4.3,
+    "g_reviews": 740,
+    "g_address": "日本、〒105-0011 東京都港区芝公園２丁目３−７ 玉川ビル ２F",
+    "lat": 35.6567932,
+    "lng": 139.7527258
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "エペ クープ",
+    "name_en": "Épais Coup",
+    "area": "大阪府 吹田（ＪＲ）駅",
+    "url": "https://tabelog.com/osaka/A2706/A270602/27092131/",
+    "rating": 3.65,
+    "review_count_tabelog": 366,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Japanese Cuisine, Cafeteria",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat",
+        "dtl": "11:00 - 14:00 17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "11:00 - 14:00",
+        "dtl_text": "11:00 - 14:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 210,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJLdV4SH_kAGARmiw0x4u3DXc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/27092131-9d16dbff3be27350df6ec2042e8ec4c6edcc3727211f51b6d00a91e166ce6738.jpg",
+    "place_id": "ChIJLdV4SH_kAGARmiw0x4u3DXc",
+    "g_name": "エペ クープ",
+    "g_rating": 4.5,
+    "g_reviews": 210,
+    "g_address": "日本、〒564-0031 大阪府吹田市元町５−５",
+    "lat": 34.7619656,
+    "lng": 135.5241527
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "熟成豚 かわむら",
+    "name_en": "Jukusei Buta Kawamura",
+    "area": "京都府 京阪山科駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260603/26029597/",
+    "rating": 3.72,
+    "review_count_tabelog": 679,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri",
+        "dtl": "10:45 - 20:00",
+        "dtl_text": "10:45 - 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "10:30 - 20:00",
+        "dtl_text": "10:30 - 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (once or twice a month)"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 784,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJb09ggb0OAWARGVA-rYrdPz0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/26029597-da6d127cc67a40e7c73589a30b93d91bc6253001f3a98f962a9fa7eb3d894176.jpg",
+    "place_id": "ChIJb09ggb0OAWARGVA-rYrdPz0",
+    "g_name": "熟成豚かわむら",
+    "g_rating": 4.5,
+    "g_reviews": 784,
+    "g_address": "日本、〒607-8089 京都府京都市山科区竹鼻西ノ口町５７−１",
+    "lat": 34.9887561,
+    "lng": 135.8158797
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "もち豚とんかつ たいよう",
+    "name_en": "Mochibuta Tonkatsu Taiyo",
+    "area": "東京都 武蔵小山駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131710/13059862/",
+    "rating": 3.71,
+    "review_count_tabelog": 1273,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Sat, Sun",
+        "dtl": "11:30 - 14:00 17:30 - 20:00",
+        "dtl_text": "17:30 - 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Fri",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays and Fridays (closed even on public holidays)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 500,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJf4gUh9uKGGARrKDd6nCOlNk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/13059862-28a687691aa8246c9b13d92b0de39d585c0f861053327e8a6cdd84830eb320eb.jpg",
+    "place_id": "ChIJf4gUh9uKGGARrKDd6nCOlNk",
+    "g_name": "もち豚とんかつ たいよう",
+    "g_rating": 4.3,
+    "g_reviews": 500,
+    "g_address": "日本、〒142-0062 東京都品川区小山３丁目２２−７ メゾンいずみ第１",
+    "lat": 35.6188182,
+    "lng": 139.7064182
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とんかつ成蔵",
+    "name_en": "Tonkatsu Narikura",
+    "area": "東京都 南阿佐ケ谷駅",
+    "url": "https://tabelog.com/tokyo/A1319/A131905/13236380/",
+    "rating": 4.25,
+    "review_count_tabelog": 1798,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "10:30 - 13:40 17:30 - 20:40",
+        "dtl_text": "17:30 - 20:40"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 505,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJuePtAXjzGGARqzF7hcI00jI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/13236380-6f78ccb417e7578768eb4a3e5af836fe9879a4d6551e2e8cecfa427dd64f327b.jpg",
+    "place_id": "ChIJuePtAXjzGGARqzF7hcI00jI",
+    "g_name": "とんかつ 成蔵",
+    "g_rating": 4.3,
+    "g_reviews": 505,
+    "g_address": "日本、〒166-0015 東京都杉並区成田東４丁目３３−９",
+    "lat": 35.6976645,
+    "lng": 139.638718
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "水塩土菜 本店",
+    "name_en": "Suien Dosai Hon Ten",
+    "area": "静岡県 静岡市葵区",
+    "url": "https://tabelog.com/shizuoka/A2201/A220101/22014897/",
+    "rating": 3.76,
+    "review_count_tabelog": 426,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 17:00 - 20:30",
+        "dtl_text": "17:00 - 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "11:30 - 14:30",
+        "dtl_text": "11:30 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 303,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJp4XL9AJKGmAR3LGsK0YAIGQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/22014897-da0e7c99fe1640ac6c1f666104c3bc951f8af56463f151f98b8450c0d683f55a.jpg",
+    "place_id": "ChIJp4XL9AJKGmAR3LGsK0YAIGQ",
+    "g_name": "水塩土菜",
+    "g_rating": 4.4,
+    "g_reviews": 303,
+    "g_address": "日本、〒420-0838 静岡県静岡市葵区相生町６−２２",
+    "lat": 34.97823169999999,
+    "lng": 138.391105
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とんかつ やまいち",
+    "name_en": "Tonkatsu Yamaichi",
+    "area": "東京都 淡路町駅",
+    "url": "https://tabelog.com/tokyo/A1310/A131002/13042246/",
+    "rating": 3.71,
+    "review_count_tabelog": 1657,
+    "price_dinner": "-",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Katsu-don (Pork cutlet bowl)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Thu, Fri",
+        "dtl": "11:00 - 14:00 17:00 - 20:00",
+        "dtl_text": "17:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Sat",
+        "dtl": "11:00 - 14:00",
+        "dtl_text": "11:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 514,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJvWKURAOMGGARrI228Ht1cNo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/13042246-4cf5c405e5137e42e0b442128d412a5f3f67d4fcdf71baf8b0bf846061b22f29.jpg",
+    "place_id": "ChIJvWKURAOMGGARrI228Ht1cNo",
+    "g_name": "とんかつ やまいち",
+    "g_rating": 4.2,
+    "g_reviews": 514,
+    "g_address": "日本、〒101-0041 東京都千代田区神田須田町１丁目８−４",
+    "lat": 35.6953671,
+    "lng": 139.7685873
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とんかつ ふじ井",
+    "name_en": "Tonkatsu Fujii",
+    "area": "大阪府 千林駅",
+    "url": "https://tabelog.com/osaka/A2701/A270304/27131908/",
+    "rating": 4.13,
+    "review_count_tabelog": 456,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:00 - 14:45 L.O. 13:45 17:30 - 21:15 L.O. 19:45",
+        "dtl_text": "17:30 - 21:15 L.O. 19:45"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Fri",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "◾️Reservations can only be made online. Please search for \"Tonkatsu Fujii Reservation.\""
+    },
+    "google_rating": 4.8,
+    "google_reviews": 182,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJK3GyGuHhAGARri8W7UeXPq8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/27131908-9329088ced83307daab9bc51e2ebe58ce2eaed8357f5a3ef81e4b0f713391c83.jpg",
+    "place_id": "ChIJK3GyGuHhAGARri8W7UeXPq8",
+    "g_name": "とんかつ ふじ井",
+    "g_rating": 4.8,
+    "g_reviews": 182,
+    "g_address": "日本、〒535-0012 大阪府大阪市旭区千林１丁目１１−５",
+    "lat": 34.7237751,
+    "lng": 135.5542539
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "ぶた いながき",
+    "name_en": "Buta Inagaki",
+    "area": "愛知県 桜山駅",
+    "url": "https://tabelog.com/aichi/A2301/A230108/23071466/",
+    "rating": 3.7,
+    "review_count_tabelog": 730,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "11:30 - 14:30",
+        "dtl_text": "11:30 - 14:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 18:00 - 20:30",
+        "dtl_text": "18:00 - 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 425,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1yVflvd7A2ARw__No6Rugyw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/23071466-0fe620b1f77bbf7321325ddeeaf1ea874708a6f2a83fc2579ffcede32e9e5c10.jpg",
+    "place_id": "ChIJ1yVflvd7A2ARw__No6Rugyw",
+    "g_name": "ぶた いながき",
+    "g_rating": 4.3,
+    "g_reviews": 425,
+    "g_address": "日本、〒467-0804 愛知県名古屋市瑞穂区洲雲町３丁目２６ ブロアセレッソ T-1A",
+    "lat": 35.1399276,
+    "lng": 136.930017
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とんかつ ゆたか",
+    "name_en": "Tonkatsu Yutaka",
+    "area": "東京都 浅草（つくばＥＸＰ）駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131102/13003669/",
+    "rating": 3.66,
+    "review_count_tabelog": 849,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Izakaya (Japanese style tavern), Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 L.O. 14:00 17:00 - 20:30 L.O. 20:00",
+        "dtl_text": "17:00 - 20:30 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "For additional details, please visit our official website."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 698,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJgY9su8COGGAR-1LISWiyDb8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/13003669-37dcea0bd37b7041a5adc5bdb78a818afd4c4b3f3156fd0dc117c08e972d7cd1.jpg",
+    "place_id": "ChIJgY9su8COGGAR-1LISWiyDb8",
+    "g_name": "とんかつ ゆたか",
+    "g_rating": 4.4,
+    "g_reviews": 698,
+    "g_address": "日本、〒111-0032 東京都台東区浅草１丁目１５−９",
+    "lat": 35.7117643,
+    "lng": 139.7940959
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とんかつ あづま",
+    "name_en": "Tonkatsu Azuma",
+    "area": "栃木県 日光市",
+    "url": "https://tabelog.com/tochigi/A0903/A090302/9000137/",
+    "rating": 3.74,
+    "review_count_tabelog": 282,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 17:30 - 21:00 L.O. Food 20:00",
+        "dtl_text": "17:30 - 21:00 L.O. Food 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 264,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJP3An6sUKH2AR5CrzIuHEvU8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/9000137-0aa61fdd0e658135e7d25e71cc94ef29ef5f6e09b0432688f941f0c6c0454213.jpg",
+    "place_id": "ChIJP3An6sUKH2AR5CrzIuHEvU8",
+    "g_name": "とんかつ あづま",
+    "g_rating": 4.2,
+    "g_reviews": 264,
+    "g_address": "日本、〒321-1262 栃木県日光市平ケ崎３０６−１",
+    "lat": 36.7221511,
+    "lng": 139.679766
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "かつ好",
+    "name_en": "Katsu Yoshi",
+    "area": "東京都 人形町駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130204/13204633/",
+    "rating": 3.74,
+    "review_count_tabelog": 911,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 14:00 17:30 - 20:30",
+        "dtl_text": "17:30 - 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 464,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJkXM2vVGJGGARIbsJOymj19U",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/13204633-a8d4b2f2f5e2cc7a07e526738900a47e23948f6d13d0c717ba92e2359ceeed61.jpg",
+    "place_id": "ChIJkXM2vVGJGGARIbsJOymj19U",
+    "g_name": "かつ好",
+    "g_rating": 4.4,
+    "g_reviews": 464,
+    "g_address": "日本、〒103-0013 東京都中央区日本橋人形町３丁目４−１１",
+    "lat": 35.686228,
+    "lng": 139.781205
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "西麻布 豚組",
+    "name_en": "Nishiazabu Butagumi",
+    "area": "東京都 乃木坂駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13004791/",
+    "rating": 3.66,
+    "review_count_tabelog": 826,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Curry, Pork dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 L.O. 14:00 18:00 - 22:00 L.O. Food 20:30 Drinks 21:00",
+        "dtl_text": "18:00 - 22:00 L.O. Food 20:30 Drinks 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 1239,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ72OI0nqLGGARy5_3z1EihGk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/13004791-3f38ac31e4d0c2a78c930bd204aa2bc40abc9a4ef0aa98d26cd3175bbfea9c9c.jpg",
+    "place_id": "ChIJ72OI0nqLGGARy5_3z1EihGk",
+    "g_name": "とんかつ 西麻布 豚組",
+    "g_rating": 4.4,
+    "g_reviews": 1239,
+    "g_address": "日本、〒106-0031 東京都港区西麻布２丁目２４−９",
+    "lat": 35.660977,
+    "lng": 139.7221155
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "豚笑",
+    "name_en": "Tonshou",
+    "area": "広島県 福山市",
+    "url": "https://tabelog.com/hiroshima/A3403/A340305/34011550/",
+    "rating": 3.77,
+    "review_count_tabelog": 268,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri",
+        "dtl": "11:00 - 15:00 L.O. 14:00 17:30 - 21:00 L.O. 20:00",
+        "dtl_text": "17:30 - 21:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 15:00 L.O. 14:00 17:00 - 21:00 L.O. 20:00",
+        "dtl_text": "17:00 - 21:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 609,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJoRBih7IWUTUR0ZKT4Xn3J-w",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/34011550-b14c41c5cae1b2d17a9981bac733fb9f465c33fcb69106171c478726062af97a.jpg",
+    "place_id": "ChIJoRBih7IWUTUR0ZKT4Xn3J-w",
+    "g_name": "かつ処 豚笑",
+    "g_rating": 4.5,
+    "g_reviews": 609,
+    "g_address": "日本、〒721-0973 広島県福山市南蔵王町２丁目２５−３３",
+    "lat": 34.5024423,
+    "lng": 133.3966209
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "丸一",
+    "name_en": "Maru Ichi",
+    "area": "東京都 京急蒲田駅",
+    "url": "https://tabelog.com/tokyo/A1315/A131503/13017765/",
+    "rating": 3.75,
+    "review_count_tabelog": 2348,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 14:00 L.O. 13:30",
+        "dtl_text": "11:00 - 14:00 L.O. 13:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:00 - 14:00 L.O. 13:00 17:00 - 20:00 L.O. Food 19:30",
+        "dtl_text": "17:00 - 20:00 L.O. Food 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 1342,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJcVMwjFlgGGARS7VQrD-jJBA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/13017765-4648094da5402bcaa09d2c0f949e0b0391c9b436f9eca04c5303c151391b0fa2.jpg",
+    "place_id": "ChIJcVMwjFlgGGARS7VQrD-jJBA",
+    "g_name": "とんかつ 丸一",
+    "g_rating": 4.4,
+    "g_reviews": 1342,
+    "g_address": "日本、〒144-0052 東京都大田区蒲田５丁目２８−１２",
+    "lat": 35.5615292,
+    "lng": 139.7202253
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とんかつ わか葉",
+    "name_en": "Tonkatsu Wakaba",
+    "area": "福岡県 天神駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400103/40050758/",
+    "rating": 3.66,
+    "review_count_tabelog": 725,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "10:30 - 14:30 17:00 - 20:45",
+        "dtl_text": "17:00 - 20:45",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "10:30 - 14:30 17:00 - 19:45",
+        "dtl_text": "17:00 - 19:45",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 1500,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJO0SHmbCRQTUR9eU6o66LbMs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/40050758-4b528426cfc5075ca0084b23daeded352d9a343ee083021b266931cb57ecaeeb.jpg",
+    "place_id": "ChIJO0SHmbCRQTUR9eU6o66LbMs",
+    "g_name": "とんかつ わか葉",
+    "g_rating": 4.3,
+    "g_reviews": 1500,
+    "g_address": "日本、〒810-0001 福岡県福岡市中央区天神１丁目１５−３６",
+    "lat": 33.5925701,
+    "lng": 130.4021656
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "かつ吉 渋谷店",
+    "name_en": "Katsu Kichi Shibuya Ten",
+    "area": "東京都 渋谷駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130301/13004792/",
+    "rating": 3.56,
+    "review_count_tabelog": 1747,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Japanese Cuisine, Izakaya (Japanese style tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 16:00 L.O. 15:00 17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "11:00 - 16:00 L.O. 15:00 17:00 - 21:30 L.O. 20:30",
+        "dtl_text": "17:00 - 21:30 L.O. 20:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "We plan to reopen at the same location as part of the \"(tentative name) Shibuya 3-chome Joint Redevelopment Project\" around 2030."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 1522,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQUA7ZVmLGGARgokDQ138O2w",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/13004792-a5078d88b0a21b68b871103cc259e3d7068ece6edadd623459db4451692500d9.jpg",
+    "place_id": "ChIJQUA7ZVmLGGARgokDQ138O2w",
+    "g_name": "かつ吉 渋谷店",
+    "g_rating": 4.3,
+    "g_reviews": 1522,
+    "g_address": "日本、〒150-0002 東京都渋谷区渋谷３丁目９−１０ Kdc渋谷ビル B1F",
+    "lat": 35.657204,
+    "lng": 139.7046422
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とんかつ目黒こがね",
+    "name_en": "Tonkatsu Meguro Kogane",
+    "area": "東京都 目黒駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131601/13218267/",
+    "rating": 3.6,
+    "review_count_tabelog": 1402,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Cafeteria, Bento (Lunch box)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:30 L.O. 14:00 17:30 - 21:30 L.O. 21:00",
+        "dtl_text": "17:30 - 21:30 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 613,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJHWZpbRyLGGARUeloXjHCb68",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/13218267-e218d5a072e2216852e8393c4d10472ca7517580a69c72770cba1f30278727cc.jpg",
+    "place_id": "ChIJHWZpbRyLGGARUeloXjHCb68",
+    "g_name": "とんかつ 目黒 こがね",
+    "g_rating": 4.2,
+    "g_reviews": 613,
+    "g_address": "日本、〒141-0021 東京都品川区上大崎３丁目３−４ 平井ビル １Ｆ",
+    "lat": 35.6339477,
+    "lng": 139.7180391
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "はせ川",
+    "name_en": "Hasegawa",
+    "area": "東京都 両国駅",
+    "url": "https://tabelog.com/tokyo/A1312/A131201/13019126/",
+    "rating": 3.72,
+    "review_count_tabelog": 2176,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 15:00 L.O. 14:30 17:00 - 22:30 L.O. 22:00",
+        "dtl_text": "17:00 - 22:30 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 15:00 L.O. 14:30 17:00 - 22:30 L.O. 22:00",
+        "dtl_text": "17:00 - 22:30 L.O. 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round (with year-end & New Year holidays)"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 1709,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJldNsdzWJGGARHA0CfyTP9QE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/13019126-01d5ca9bdd28284364d8511c253f12b50be521472e36f628acdb53410d55e3e0.jpg",
+    "place_id": "ChIJldNsdzWJGGARHA0CfyTP9QE",
+    "g_name": "とんかつ はせ川",
+    "g_rating": 4.5,
+    "g_reviews": 1709,
+    "g_address": "日本、〒130-0026 東京都墨田区両国３丁目２４−１",
+    "lat": 35.6950279,
+    "lng": 139.7939372
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とん八亭",
+    "name_en": "Tonpachi Tei",
+    "area": "東京都 上野御徒町駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131101/13003593/",
+    "rating": 3.68,
+    "review_count_tabelog": 1231,
+    "price_dinner": "-",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Cafeteria",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00",
+        "dtl_text": "11:30 - 14:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (the following day if a holiday) and other occasional closures"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 562,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJt1QK6Z-OGGAR89hWbcFJ2VQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/13003593-24e666ed14a14b5d4f8adbaece3930ea24e6176cc8df508d7b2256621d04d6bf.jpg",
+    "place_id": "ChIJt1QK6Z-OGGAR89hWbcFJ2VQ",
+    "g_name": "とんかつ とん八亭",
+    "g_rating": 4.2,
+    "g_reviews": 562,
+    "g_address": "日本、〒110-0005 東京都台東区上野４丁目３−４",
+    "lat": 35.708413,
+    "lng": 139.773738
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "ポンチ軒",
+    "name_en": "Ponchi Ken",
+    "area": "東京都 小川町駅",
+    "url": "https://tabelog.com/tokyo/A1310/A131002/13141456/",
+    "rating": 3.69,
+    "review_count_tabelog": 1979,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Curry, Croquette",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:15 - 14:30 L.O. 14:00 17:30 - 21:00 L.O. 20:30",
+        "dtl_text": "17:30 - 21:00 L.O. 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 1004,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKcFRvxqMGGARWVqXhSV05_k",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/13141456-c4885b8aad0834bb811b737b041ba0a2349fad3444409fd2f0472e2051cd306d.jpg",
+    "place_id": "ChIJKcFRvxqMGGARWVqXhSV05_k",
+    "g_name": "神田 ポンチ軒",
+    "g_rating": 4.2,
+    "g_reviews": 1004,
+    "g_address": "日本、〒101-0052 東京都千代田区神田小川町２丁目８ 扇ビル 1階",
+    "lat": 35.6949128,
+    "lng": 139.7639669
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "車力門 ちゃわんぶ",
+    "name_en": "Sharikimon Chawanbu",
+    "area": "東京都 四谷三丁目駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130903/13234679/",
+    "rating": 3.84,
+    "review_count_tabelog": 797,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:00 - 14:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays (with additional closures during Obon, New Year, and other irregular holidays)"
+    },
+    "google_rating": 4.7,
+    "google_reviews": 84,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJEW1EjtWNGGAR_RWUwNDAiy0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/13234679-75aa7113f456e475af1883ddaff0999c269e72f243784ed85008728c0b7a26ca.jpg",
+    "place_id": "ChIJEW1EjtWNGGAR_RWUwNDAiy0",
+    "g_name": "車力門 おの澤",
+    "g_rating": 4.7,
+    "g_reviews": 84,
+    "g_address": "日本、〒160-0007 東京都新宿区荒木町６−３９ GARDEN TREE1階",
+    "lat": 35.6892271,
+    "lng": 139.7225863
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とん太",
+    "name_en": "Tonkatsu Tonta",
+    "area": "東京都 高田馬場駅",
+    "url": "https://tabelog.com/tokyo/A1305/A130503/13003984/",
+    "rating": 3.83,
+    "review_count_tabelog": 1811,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "-",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Fri, Sat",
+        "dtl": "17:30 - 20:30",
+        "dtl_text": "17:30 - 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 747,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJO8KGMj-NGGARODGpAsg5qNQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/13003984-44fe9d3ff7c28bb132d6130a1adffc15ee7773d09ad2cc7bdd0a94ea96aec88c.jpg",
+    "place_id": "ChIJO8KGMj-NGGARODGpAsg5qNQ",
+    "g_name": "とんかつ とん太",
+    "g_rating": 4.5,
+    "g_reviews": 747,
+    "g_address": "日本、〒171-0033 東京都豊島区高田３丁目１７−８",
+    "lat": 35.7155327,
+    "lng": 139.7066016
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "箱崎 井のかわず",
+    "name_en": "Hakozaki Ino Kawazu",
+    "area": "福岡県 箱崎九大前駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400201/40052137/",
+    "rating": 3.69,
+    "review_count_tabelog": 389,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:15 17:30 - 20:30",
+        "dtl_text": "17:30 - 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The third Sunday of each month."
+    },
+    "google_rating": 4,
+    "google_reviews": 604,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJl_CbF96PQTURmGw_g1VRQZg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/40052137-e59c5f7e578a5342a90da2176b1b29c5aec691cfd11586ca113879e734c607c3.jpg",
+    "place_id": "ChIJl_CbF96PQTURmGw_g1VRQZg",
+    "g_name": "箱崎 井のかわず",
+    "g_rating": 4,
+    "g_reviews": 604,
+    "g_address": "日本、〒812-0053 福岡県福岡市東区箱崎２丁目３２−１２",
+    "lat": 33.6195872,
+    "lng": 130.4195793
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とんかつ 檍 横浜馬車道店",
+    "name_en": "Tonkatsu Aoki Yokohama Bashado Ten",
+    "area": "神奈川県 馬車道駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140104/14077627/",
+    "rating": 3.71,
+    "review_count_tabelog": 1193,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday",
+        "dtl": "11:00 - 15:30 L.O. Food 14:55 17:00 - 20:30 L.O. Food 19:55",
+        "dtl_text": "17:00 - 20:30 L.O. Food 19:55"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 859,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJl3YPTLJdGGARSPE8TXcDKZ8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/14077627-ca12d12344befb3c36cf242fbe0a222f5af5ddb7173c3ea916ee4407c44cf25b.jpg",
+    "place_id": "ChIJl3YPTLJdGGARSPE8TXcDKZ8",
+    "g_name": "とんかつ檍 横浜馬車道店",
+    "g_rating": 4.1,
+    "g_reviews": 859,
+    "g_address": "日本、〒231-0012 神奈川県横浜市中区相生町５丁目８０−８０ 相生ビル １F ８０番地 ｢相生ビル/１階｣",
+    "lat": 35.4479115,
+    "lng": 139.6358363
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とんかつ とみた",
+    "name_en": "Tonkatsu Tomita",
+    "area": "千葉県 松戸駅",
+    "url": "https://tabelog.com/chiba/A1203/A120302/12051667/",
+    "rating": 3.73,
+    "review_count_tabelog": 574,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:30 17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 279,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJB1muwaeFGGARrhx8DqbikSw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/12051667-8b1160d9b035ad82c826831ccfe929c23aeeac877ef38c86f44b852beb1ab804.jpg",
+    "place_id": "ChIJB1muwaeFGGARrhx8DqbikSw",
+    "g_name": "とんかつ とみた",
+    "g_rating": 4.1,
+    "g_reviews": 279,
+    "g_address": "日本、〒271-0092 千葉県松戸市松戸１１７７ マチビル 2階",
+    "lat": 35.7841616,
+    "lng": 139.9018685
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とん唐てん",
+    "name_en": "Ton Kara Ten",
+    "area": "静岡県 浜松市中央区",
+    "url": "https://tabelog.com/shizuoka/A2202/A220201/22028186/",
+    "rating": 3.65,
+    "review_count_tabelog": 303,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Oyako-don (Chicken and egg bowl)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00 17:30 - 21:00",
+        "dtl_text": "17:30 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The first and third Sundays of each month."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 404,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_yhZF8neGmARwPZVYxiXUeE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/22028186-543081f6f2cd08830cac7c92ea5286375061d2e0229c1f6c55e2080122c51a3e.jpg",
+    "place_id": "ChIJ_yhZF8neGmARwPZVYxiXUeE",
+    "g_name": "とん唐てん",
+    "g_rating": 4.2,
+    "g_reviews": 404,
+    "g_address": "日本、〒430-0907 静岡県浜松市中央区高林２丁目８−３０",
+    "lat": 34.725041,
+    "lng": 137.7342134
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とんかつ 川久",
+    "name_en": "Tonkatsu Kawakyu",
+    "area": "鹿児島県 鹿児島市",
+    "url": "https://tabelog.com/kagoshima/A4601/A460101/46000246/",
+    "rating": 3.67,
+    "review_count_tabelog": 1907,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 L.O. 14:30 17:00 - 21:30 L.O. 21:00",
+        "dtl_text": "17:00 - 21:30 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "January 1 - 2"
+    },
+    "google_rating": 4,
+    "google_reviews": 1697,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJN3zf5UVnPjURYMEXejvPUl0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/46000246-baa541fdd07f0533f1d6a1867f5552e061c0bb0c58c24fbcd0fce639ec09d4c5.jpg",
+    "place_id": "ChIJN3zf5UVnPjURYMEXejvPUl0",
+    "g_name": "とんかつ川久",
+    "g_rating": 4,
+    "g_reviews": 1697,
+    "g_address": "日本、〒890-0053 鹿児島県鹿児島市中央町２１−１３",
+    "lat": 31.5821554,
+    "lng": 130.5423877
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "馬酔木",
+    "name_en": "Ashibi",
+    "area": "神奈川県 都筑ふれあいの丘駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140203/14004365/",
+    "rating": 3.64,
+    "review_count_tabelog": 516,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Croquette, Creative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 L.O. 14:00 17:30 - 21:30 L.O. 20:30",
+        "dtl_text": "17:30 - 21:30 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The third Wednesday of each month (Open for lunch only on Mondays)"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 306,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKUyIKdf3GGARvlSRWEgtTB0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/14004365-3ed0d333eefe683c491b48753fa9727cb0bef8bdd4ee0482ee90eccaaf8a0dcf.jpg",
+    "place_id": "ChIJKUyIKdf3GGARvlSRWEgtTB0",
+    "g_name": "とんかつの店 馬酔木",
+    "g_rating": 4.4,
+    "g_reviews": 306,
+    "g_address": "日本、〒224-0065 神奈川県横浜市都筑区高山１４−５",
+    "lat": 35.534307,
+    "lng": 139.5611426
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とんかつ 乃ぐち",
+    "name_en": "Tonkatsu Noguchi",
+    "area": "大阪府 中津（阪急）駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27126154/",
+    "rating": 4.08,
+    "review_count_tabelog": 382,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Katsu-don (Pork cutlet bowl)",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Tue - Sun": {}
+      },
+      "closed_on": "Mondays and some irregular days"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 137,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ79zOdlTnAGARYAz8DSiaxBg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/27126154-03170e4cbb298cfa3f45f9c81a1e399278131567a141522639e266500d5e2455.jpg",
+    "place_id": "ChIJ79zOdlTnAGARYAz8DSiaxBg",
+    "g_name": "とんかつ 乃ぐち",
+    "g_rating": 4.6,
+    "g_reviews": 137,
+    "g_address": "日本、〒531-0071 大阪府大阪市北区中津３丁目１４−２ 平家アパート 102",
+    "lat": 34.7120386,
+    "lng": 135.4933675
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とんかつ食房 厚○",
+    "name_en": "Tonkatsu Shokubo Atsumaru",
+    "area": "愛知県 名古屋市守山区",
+    "url": "https://tabelog.com/aichi/A2301/A230114/23006270/",
+    "rating": 3.66,
+    "review_count_tabelog": 562,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Croquette",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 22:00 L.O. 21:30",
+        "dtl_text": "11:00 - 22:00 L.O. 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJf75V52FuA2AR5urw8YGMWdY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/23006270-6536854d1b507b9055027db77ab7276ca391c5de91ed25c86b490f77e0587996.jpg",
+    "place_id": "ChIJf75V52FuA2AR5urw8YGMWdY",
+    "g_name": "〒463-0003 愛知県名古屋市守山区下志段味釼当先１０２２ とんかつ食房厚まる",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "日本、〒463-0003 愛知県名古屋市守山区下志段味釼当先１０２２ とんかつ食房厚まる",
+    "lat": 35.2446247,
+    "lng": 137.0190494
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "自然坊",
+    "name_en": "Jinenbo",
+    "area": "東京都 久が原駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131714/13076783/",
+    "rating": 3.65,
+    "review_count_tabelog": 374,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Bento (Lunch box), Izakaya (Japanese style tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 L.O. 14:30 17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 298,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJA3G4TP5fGGAR4sXuzjVT_CM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/13076783-d116caa5bc5654deb77695068a6cd9c27551a7163dd7363ae407184d9be74b12.jpg",
+    "place_id": "ChIJA3G4TP5fGGAR4sXuzjVT_CM",
+    "g_name": "自然坊",
+    "g_rating": 4.3,
+    "g_reviews": 298,
+    "g_address": "日本、〒146-0085 東京都大田区久が原４丁目１９−２４",
+    "lat": 35.57943,
+    "lng": 139.68948
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とんかつひなた",
+    "name_en": "Tonkatsu Hinata",
+    "area": "東京都 高田馬場駅",
+    "url": "https://tabelog.com/tokyo/A1305/A130503/13204289/",
+    "rating": 3.71,
+    "review_count_tabelog": 2272,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Public Holiday",
+        "dtl": "11:00 - 14:30 L.O. 14:30 17:00 - 20:00 L.O. 20:00",
+        "dtl_text": "17:00 - 20:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 1458,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJxScnHjyNGGAR8s-JgzWVvI0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/13204289-b311afba04137c4f80d53bbd3fc7f72510ff87562e5564f33b0496b56ae274c8.jpg",
+    "place_id": "ChIJxScnHjyNGGAR8s-JgzWVvI0",
+    "g_name": "とんかつ ひなた",
+    "g_rating": 4.3,
+    "g_reviews": 1458,
+    "g_address": "日本、〒169-0075 東京都新宿区高田馬場２丁目１３−９",
+    "lat": 35.712967,
+    "lng": 139.7074948
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "井泉 本店",
+    "name_en": "Isen Hon Ten",
+    "area": "東京都 上野広小路駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131101/13003619/",
+    "rating": 3.54,
+    "review_count_tabelog": 1739,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Sandwich, Katsu-don (Pork cutlet bowl)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 15:00 16:30 - 20:10 L.O. Food 19:45",
+        "dtl_text": "16:30 - 20:10 L.O. Food 19:45"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "We will have a break for a while (starting October 2024)."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 34,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_R1C25SPGGARuBao94EYn3Q",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/13003619-79162af249c4fed742a45612b698c6f8c4b7167b604d17368d0fa3af6cb3b587.jpg",
+    "place_id": "ChIJ_R1C25SPGGARuBao94EYn3Q",
+    "g_name": "井泉本店 上野松坂屋店",
+    "g_rating": 4.5,
+    "g_reviews": 34,
+    "g_address": "日本、〒110-8503 東京都台東区上野３丁目２９−５ 松坂屋 地下 １階",
+    "lat": 35.7072312,
+    "lng": 139.7734021
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とんかつ 鉄",
+    "name_en": "Tonkatsu Kurogane",
+    "area": "東京都 大森駅",
+    "url": "https://tabelog.com/tokyo/A1315/A131502/13178524/",
+    "rating": 3.67,
+    "review_count_tabelog": 1200,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:00 17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 721,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6o-s9JhGGARUvAczBDXs9E",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/13178524-6e405d55ea051e064695b1343ea2dfd1358cf7b257059c0d82727452476b45ca.jpg",
+    "place_id": "ChIJq6o-s9JhGGARUvAczBDXs9E",
+    "g_name": "とんかつ鉄 大森店",
+    "g_rating": 4,
+    "g_reviews": 721,
+    "g_address": "日本、〒140-0013 東京都品川区南大井６丁目１９−１６ 地下１階",
+    "lat": 35.5904608,
+    "lng": 139.7320669
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とんかつ檍 大門店",
+    "name_en": "Tonkatsu Aoki Daimon Ten",
+    "area": "東京都 大門駅",
+    "url": "https://tabelog.com/tokyo/A1314/A131401/13190933/",
+    "rating": 3.68,
+    "review_count_tabelog": 1893,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 15:00 L.O. 14:30 17:00 - 21:00 L.O. 20:30",
+        "dtl_text": "17:00 - 21:00 L.O. 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 1658,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVUZzcaLGGARB5dG6AZpM40",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/13190933-0e0c6eff9c07e9134b4d64906ae95094ae7792c8f0ebbd0ee873db6ae409688a.jpg",
+    "place_id": "ChIJVVUZzcaLGGARB5dG6AZpM40",
+    "g_name": "とんかつ檍 大門店",
+    "g_rating": 4.2,
+    "g_reviews": 1658,
+    "g_address": "日本、〒105-0013 東京都港区浜松町１丁目１１−１２",
+    "lat": 35.6587846,
+    "lng": 139.7557572
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "丸五",
+    "name_en": "Tonkatsu Marugo",
+    "area": "東京都 秋葉原駅",
+    "url": "https://tabelog.com/tokyo/A1310/A131001/13000379/",
+    "rating": 3.75,
+    "review_count_tabelog": 3118,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 L.O. 14:00 17:00 - 21:00 L.O. 20:00",
+        "dtl_text": "17:00 - 21:00 L.O. 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 2856,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJs5tCVxyMGGARJswUvIj4drc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/13000379-e89e11b5f5486f2e093f8b0eb2ff7b6226f1b044e439d57bfe4d83baabac394d.jpg",
+    "place_id": "ChIJs5tCVxyMGGARJswUvIj4drc",
+    "g_name": "丸五",
+    "g_rating": 4.5,
+    "g_reviews": 2856,
+    "g_address": "日本、〒101-0021 東京都千代田区外神田１丁目８−１４",
+    "lat": 35.6991356,
+    "lng": 139.7697264
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とんかつ よしだ",
+    "name_en": "Tonkatsu Yoshida",
+    "area": "福岡県 六本松駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400105/40055414/",
+    "rating": 3.76,
+    "review_count_tabelog": 216,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 18:00 - 20:00",
+        "dtl_text": "18:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 291,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmak6W2aTQTURl_JooNkVaic",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/40055414-4f84164fb7446964050a3e7c56e318193f548818cdde41794ce72f76600ab3d3.jpg",
+    "place_id": "ChIJmak6W2aTQTURl_JooNkVaic",
+    "g_name": "とんかつよしだ",
+    "g_rating": 4.5,
+    "g_reviews": 291,
+    "g_address": "日本、〒810-0023 福岡県福岡市中央区警固２丁目１８−１３ ガーデンプレイス ２０１",
+    "lat": 33.5847263,
+    "lng": 130.3904574
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とんかつ野崎",
+    "name_en": "Tonkatsu Nozaki",
+    "area": "三重県 松阪市",
+    "url": "https://tabelog.com/mie/A2401/A240102/24001400/",
+    "rating": 3.75,
+    "review_count_tabelog": 620,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 L.O. Food 14:30",
+        "dtl_text": "11:30 - 15:00 L.O. Food 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.9,
+    "google_reviews": 553,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJpYrdcd1qBGARfsjhSQDKyOI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/24001400-4f4ab7dedb75ae7c85e2441a4363f888fc90388f880c020588f2e3e00153e8bd.jpg",
+    "place_id": "ChIJpYrdcd1qBGARfsjhSQDKyOI",
+    "g_name": "とんかつ野崎",
+    "g_rating": 3.9,
+    "g_reviews": 553,
+    "g_address": "日本、〒515-0035 三重県松阪市長月町９",
+    "lat": 34.5706265,
+    "lng": 136.5347413
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "鈴新",
+    "name_en": "Suzu Shin",
+    "area": "東京都 四谷三丁目駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130903/13027073/",
+    "rating": 3.56,
+    "review_count_tabelog": 780,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Katsu-don (Pork cutlet bowl)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 13:30 17:30 - 20:00 L.O. 20:00",
+        "dtl_text": "17:30 - 20:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 465,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6XZnY_KMGGARyokIXRzCGAQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/13027073-258c0720624faf43afb7dba9f2bc6612e135436d5f7afe82d0531aef8eb4ba72.jpg",
+    "place_id": "ChIJ6XZnY_KMGGARyokIXRzCGAQ",
+    "g_name": "鈴新",
+    "g_rating": 4.2,
+    "g_reviews": 465,
+    "g_address": "日本、〒160-0007 東京都新宿区荒木町１０番地２８ ｢十番館ビル/1F｣",
+    "lat": 35.6893743,
+    "lng": 139.7225017
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "ニューベイブ",
+    "name_en": "New Babe",
+    "area": "大阪府 谷町四丁目駅",
+    "url": "https://tabelog.com/osaka/A2701/A270104/27121557/",
+    "rating": 3.73,
+    "review_count_tabelog": 932,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Dining bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 15:00 L.O. 14:30 17:00 - 20:00 L.O. 19:30",
+        "dtl_text": "17:00 - 20:00 L.O. 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 20:00 L.O. 19:30",
+        "dtl_text": "11:00 - 20:00 L.O. 19:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "*Please note that we kindly ask each guest to order at least one dish."
+    },
+    "google_rating": 4.7,
+    "google_reviews": 1653,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJoXOARX7nAGARkjkpNwqXDZA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/27121557-1d76759b7475ed9f21d88cfeb306cbdb99e7c93325220197ff3094aa1b5b4ebd.jpg",
+    "place_id": "ChIJoXOARX7nAGARkjkpNwqXDZA",
+    "g_name": "とんかつニューベイブ谷町本店",
+    "g_rating": 4.7,
+    "g_reviews": 1653,
+    "g_address": "日本、〒540-0026 大阪府大阪市中央区内本町２丁目３−８ ダイヤパレスビル 104",
+    "lat": 34.6831141,
+    "lng": 135.512255
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とんかつ 大倉",
+    "name_en": "Tonkatsu Okura",
+    "area": "千葉県 西登戸駅",
+    "url": "https://tabelog.com/chiba/A1201/A120103/12045786/",
+    "rating": 3.64,
+    "review_count_tabelog": 575,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Croquette, Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 13:50 17:30 - 20:00",
+        "dtl_text": "17:30 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 646,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJm4YvKxyDImAR1Lo1CoN0mPE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/12045786-7e5a73acd17b559721f901367ef8e11b92868a0671dea0921f73cd67cbb49df0.jpg",
+    "place_id": "ChIJm4YvKxyDImAR1Lo1CoN0mPE",
+    "g_name": "とんかつ大倉",
+    "g_rating": 4.3,
+    "g_reviews": 646,
+    "g_address": "日本、〒261-0001 千葉県千葉市美浜区幸町１丁目１５−３",
+    "lat": 35.6154878,
+    "lng": 140.0987698
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とんかつ 大宝",
+    "name_en": "Tonkatsu Taiho",
+    "area": "東京都 目黒駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131601/13007463/",
+    "rating": 3.62,
+    "review_count_tabelog": 1488,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Katsu-don (Pork cutlet bowl)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 15:00 L.O. 14:30 18:00 - 22:00 L.O. 21:30",
+        "dtl_text": "18:00 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon - Sun": {}
+      },
+      "closed_on": "Not fixed / Year-end & New Year Holidays"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 913,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1R9meBiLGGARqsOXNfjiaog",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/13007463-a43bcf661ffc6409f03fc5fd9d75cb2592644401510cbe3db968c163f320fcfd.jpg",
+    "place_id": "ChIJ1R9meBiLGGARqsOXNfjiaog",
+    "g_name": "とんかつ 大宝",
+    "g_rating": 4.2,
+    "g_reviews": 913,
+    "g_address": "日本、〒153-0063 東京都目黒区目黒１丁目６−１５",
+    "lat": 35.6344387,
+    "lng": 139.7117695
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "あげづき",
+    "name_en": "Agezuki",
+    "area": "東京都 飯田橋駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13107796/",
+    "rating": 3.71,
+    "review_count_tabelog": 2238,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 14:30 L.O. 14:30 17:30 - 22:00 L.O. Food 21:00 Drinks 21:30",
+        "dtl_text": "17:30 - 22:00 L.O. Food 21:00 Drinks 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "11:30 - 14:30 L.O. 14:30 17:30 - 21:15 L.O. Food 20:30 Drinks 20:45",
+        "dtl_text": "17:30 - 21:15 L.O. Food 20:30 Drinks 20:45"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The Kagurazaka location is closed every Tuesday. The Nihonbashi location is open year-round except for New Year's Day. We warmly welcome small children."
+    },
+    "google_rating": 4,
+    "google_reviews": 722,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJY20K71qMGGARyIzwQg9wYV8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/13107796-af58304d50a3eb4833f94356be417ebb410e88e88868ce09454c3b50d2907ee3.jpg",
+    "place_id": "ChIJY20K71qMGGARyIzwQg9wYV8",
+    "g_name": "神楽坂とんかつ あげづき",
+    "g_rating": 4,
+    "g_reviews": 722,
+    "g_address": "日本、〒162-0825 東京都新宿区神楽坂３丁目２ 山ノ内ビル B１",
+    "lat": 35.7012738,
+    "lng": 139.7407384
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とんかつ七井戸",
+    "name_en": "Tonkatsu Nanaido",
+    "area": "東京都 外苑前駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130603/13229075/",
+    "rating": 3.83,
+    "review_count_tabelog": 673,
+    "price_dinner": "-",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 14:30 L.O. 14:00",
+        "dtl_text": "11:30 - 14:30 L.O. 14:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 374,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJd3k3CTeNGGARmUPOr0Ck8ss",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/13229075-d48019af8ce4341bd9a5f92b56ec34ebc5989ed3ba47dd179959cebff9bfd7e0.jpg",
+    "place_id": "ChIJd3k3CTeNGGARmUPOr0Ck8ss",
+    "g_name": "とんかつ 七井戸(なないど)",
+    "g_rating": 4.6,
+    "g_reviews": 374,
+    "g_address": "日本、〒150-0001 東京都渋谷区神宮前３丁目４２−１１ ローザビアンカ 104",
+    "lat": 35.6718237,
+    "lng": 139.7138143
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "幸楽",
+    "name_en": "Kouraku",
+    "area": "静岡県 浜松市中央区",
+    "url": "https://tabelog.com/shizuoka/A2202/A220201/22000181/",
+    "rating": 3.71,
+    "review_count_tabelog": 713,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Croquette",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Sun",
+        "dtl": "11:30 - 14:00",
+        "dtl_text": "11:30 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Fri, Sat",
+        "dtl": "11:30 - 14:00 17:00 - 19:00",
+        "dtl_text": "17:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 272,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJFWuZWHveGmARpKOsxLI8yI4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/22000181-20037fdc7282579cf8b51490d73267f026ad295aab7cdc6e8991726c173fae99.jpg",
+    "place_id": "ChIJFWuZWHveGmARpKOsxLI8yI4",
+    "g_name": "とんかつ 幸楽",
+    "g_rating": 4.1,
+    "g_reviews": 272,
+    "g_address": "日本、〒430-0932 静岡県浜松市中央区肴町３１７−１３",
+    "lat": 34.70657200000001,
+    "lng": 137.7291649
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とんかつ 三太",
+    "name_en": "Tonkatsu Santa",
+    "area": "千葉県 松戸駅",
+    "url": "https://tabelog.com/chiba/A1203/A120302/12005186/",
+    "rating": 3.56,
+    "review_count_tabelog": 389,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Croquette, Pork dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00 17:00 - 19:30",
+        "dtl_text": "17:00 - 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every 2nd and 4th Tuesday"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 505,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJN_5Qu-GEGGARvTm6Dm8u3Eo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/12005186-e1196cb66d54df71402ea56f5ee0f5d88f13af8e9f3fd185c1a8359e0cc5d04e.jpg",
+    "place_id": "ChIJN_5Qu-GEGGARvTm6Dm8u3Eo",
+    "g_name": "とんかつ三太",
+    "g_rating": 4.1,
+    "g_reviews": 505,
+    "g_address": "日本、〒271-0067 千葉県松戸市樋野口６０８−１",
+    "lat": 35.7904184,
+    "lng": 139.8975247
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とんかつ ばんぶー",
+    "name_en": "Tonkatsu Bambou",
+    "area": "千葉県 本八幡駅",
+    "url": "https://tabelog.com/chiba/A1202/A120202/12050758/",
+    "rating": 4.0,
+    "review_count_tabelog": 858,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Katsu-don (Pork cutlet bowl)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat",
+        "dtl": "11:00 - 14:00 L.O. Food 14:00 17:00 - 19:30 L.O. Food 19:30",
+        "dtl_text": "17:00 - 19:30 L.O. Food 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "11:00 - 14:00 L.O. Food 14:00",
+        "dtl_text": "11:00 - 14:00 L.O. Food 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.9,
+    "google_reviews": 281,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJgRjgRRWHGGARs0l5A4dZJQg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/12050758-f721581bd103995194ba9471fded2039b2e379fe3272b37a60b78edc77e6649d.jpg",
+    "place_id": "ChIJgRjgRRWHGGARs0l5A4dZJQg",
+    "g_name": "とんかつ ばんぶー",
+    "g_rating": 3.9,
+    "g_reviews": 281,
+    "g_address": "日本、〒272-0023 千葉県市川市南八幡４丁目１４−１３",
+    "lat": 35.7188203,
+    "lng": 139.9251116
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とん亭",
+    "name_en": "Ton Tei",
+    "area": "大阪府 寺田町駅",
+    "url": "https://tabelog.com/osaka/A2701/A270203/27011174/",
+    "rating": 3.56,
+    "review_count_tabelog": 710,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Croquette",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:30 L.O. 15:00 17:30 - 20:30 L.O. 20:00",
+        "dtl_text": "17:30 - 20:30 L.O. 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The second and third Tuesdays of each month."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 669,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJRTFLxPzdAGARxMMeNFIEffs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/27011174-175732ef26a848bd5b1f58d811fd96d8a63365af9e7295670688fc67555cdfbf.jpg",
+    "place_id": "ChIJRTFLxPzdAGARxMMeNFIEffs",
+    "g_name": "とんかつ とん亭",
+    "g_rating": 4.3,
+    "g_reviews": 669,
+    "g_address": "日本、〒543-0052 大阪府大阪市天王寺区大道４丁目１−２",
+    "lat": 34.6500565,
+    "lng": 135.5220733
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "勝烈亭 南熊本店",
+    "name_en": "Katsuretsu Tei Minamikumamoto Ten",
+    "area": "熊本県 熊本市中央区",
+    "url": "https://tabelog.com/kumamoto/A4301/A430101/43006564/",
+    "rating": 3.67,
+    "review_count_tabelog": 323,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 21:30 L.O. 21:00",
+        "dtl_text": "11:00 - 21:30 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 1532,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJI5xFy330QDURP5T2_3wKbE4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/43006564-44f823144ee72daafb4aa83e8c85277219cbd101fd7ad2b93e2f7f21f1be6e60.jpg",
+    "place_id": "ChIJI5xFy330QDURP5T2_3wKbE4",
+    "g_name": "勝烈亭 南熊本店",
+    "g_rating": 4.4,
+    "g_reviews": 1532,
+    "g_address": "日本、〒860-0832 熊本県熊本市中央区萩原町２−５",
+    "lat": 32.7831568,
+    "lng": 130.7097848
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "勝烈庵 馬車道総本店",
+    "name_en": "Katsuretsu An Bashado Sohonten",
+    "area": "神奈川県 関内駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140104/14000146/",
+    "rating": 3.59,
+    "review_count_tabelog": 1784,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Kushi-age (Deep-fried skewers), Cafeteria",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 21:30 L.O. 21:00",
+        "dtl_text": "11:00 - 21:30 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 2653,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJg7v2KvRcGGARGvD4hAVC3bU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/14000146-b4ad5f939273cf0d90cb78f51a8f5730fdb1107b57f88f6091e1b31e70bbcdcc.jpg",
+    "place_id": "ChIJg7v2KvRcGGARGvD4hAVC3bU",
+    "g_name": "勝烈庵 馬車道総本店",
+    "g_rating": 4.2,
+    "g_reviews": 2653,
+    "g_address": "日本、〒231-0014 神奈川県横浜市中区常盤町５丁目５８−２",
+    "lat": 35.4471428,
+    "lng": 139.634889
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "黒豚とんかつ ほり壱",
+    "name_en": "Kurobuta Tonkatsu Hori Ichi",
+    "area": "東京都 新橋駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130103/13258841/",
+    "rating": 3.71,
+    "review_count_tabelog": 377,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Lunch": {},
+        "Dinner": {}
+      },
+      "closed_on": "Monday, Tuesday, Sunday"
+    },
+    "google_rating": 4.7,
+    "google_reviews": 220,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ67afzXWLGGARTNZL3buZTl4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/13258841-e7eea2e0dcec456910f7a9d20c3b0303ee4628ccee6867f1f7c1f8af20ab575f.jpg",
+    "place_id": "ChIJ67afzXWLGGARTNZL3buZTl4",
+    "g_name": "黒豚とんかつ ほり壱",
+    "g_rating": 4.7,
+    "g_reviews": 220,
+    "g_address": "日本、〒105-0004 東京都港区新橋３丁目８−５ ル・グラシエルビルディング.13 地下1階",
+    "lat": 35.665361,
+    "lng": 139.7556252
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とんかつ かつせい",
+    "name_en": "Tonkatsu Katsusei",
+    "area": "宮城県 五橋駅",
+    "url": "https://tabelog.com/miyagi/A0401/A040101/4000211/",
+    "rating": 3.71,
+    "review_count_tabelog": 989,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Katsu-don (Pork cutlet bowl)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 14:00",
+        "dtl_text": "11:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 692,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJIRQJ7BMoil8RIA7vjbe0OgE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/4000211-01b1d9e79006de0aadb6205c5d33e185b8316d3b7e345facf84724913b58f828.jpg",
+    "place_id": "ChIJIRQJ7BMoil8RIA7vjbe0OgE",
+    "g_name": "かつせい",
+    "g_rating": 4.2,
+    "g_reviews": 692,
+    "g_address": "日本、〒980-0023 宮城県仙台市青葉区北目町７−２５ ハイネス北目",
+    "lat": 38.253758,
+    "lng": 140.877644
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "Katsuプリポー",
+    "name_en": "Katsu Pulipo",
+    "area": "東京都 西武新宿駅",
+    "url": "https://tabelog.com/tokyo/A1304/A130401/13264309/",
+    "rating": 4.02,
+    "review_count_tabelog": 1169,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Katsu-don (Pork cutlet bowl)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 15:00 17:00 - 22:30 L.O. Food 21:00",
+        "dtl_text": "17:00 - 22:30 L.O. Food 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Year-end & New Year Holidays"
+    },
+    "google_rating": 4,
+    "google_reviews": 58,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJqSUZB_2NGGARaI1wsVIePBA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/13264309-f9533a1ea1957815ecc8388a5da4b0a688948389bad0f15b54a16c4162bbaefa.jpg",
+    "place_id": "ChIJqSUZB_2NGGARaI1wsVIePBA",
+    "g_name": "KATSUプリポー",
+    "g_rating": 4,
+    "g_reviews": 58,
+    "g_address": "日本、〒160-0021 東京都新宿区歌舞伎町１丁目１０−３",
+    "lat": 35.6947651,
+    "lng": 139.7029833
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とんかつ ますいや",
+    "name_en": "Tonkatsu Masuiya",
+    "area": "大阪府 今福鶴見駅",
+    "url": "https://tabelog.com/osaka/A2701/A270305/27004283/",
+    "rating": 3.63,
+    "review_count_tabelog": 605,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Yoshoku (Japanese style western cuisine), Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 L.O. 14:00 17:00 - 21:00 L.O. 20:30",
+        "dtl_text": "17:00 - 21:00 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "*Substitute holidays may occur after Golden Week and Obon."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 518,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJtR2VffvgAGARBbeRLwG74R4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/27004283-503b4a9c9069783e81b92ae979160be1b6b22bca4c28629d305a4206f4aac04b.jpg",
+    "place_id": "ChIJtR2VffvgAGARBbeRLwG74R4",
+    "g_name": "とんかつ ますいや",
+    "g_rating": 4.3,
+    "g_reviews": 518,
+    "g_address": "日本、〒536-0002 大阪府大阪市城東区今福東３丁目３−２３",
+    "lat": 34.7046135,
+    "lng": 135.5554818
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とんかつ中村",
+    "name_en": "Tonkatsu Nakamura",
+    "area": "大阪府 千林大宮駅",
+    "url": "https://tabelog.com/osaka/A2701/A270304/27092639/",
+    "rating": 3.9,
+    "review_count_tabelog": 592,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 L.O. 14:30 17:30 - 21:00 L.O. 20:00",
+        "dtl_text": "17:30 - 21:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "For inquiries regarding private bookings, please contact us by phone."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 361,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8RK92xLhAGARKBJT7oq12ng",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/27092639-c1574fd1d786703f7e5038471e410b51971ffb1fe587a7e494784af430676e52.jpg",
+    "place_id": "ChIJ8RK92xLhAGARKBJT7oq12ng",
+    "g_name": "とんかつ 中村",
+    "g_rating": 4.4,
+    "g_reviews": 361,
+    "g_address": "日本、〒535-0012 大阪府大阪市旭区千林２丁目８−１５",
+    "lat": 34.7244087,
+    "lng": 135.5515545
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "福よし",
+    "name_en": "Fuku Yoshi",
+    "area": "群馬県 館林市",
+    "url": "https://tabelog.com/gunma/A1002/A100204/10000922/",
+    "rating": 3.71,
+    "review_count_tabelog": 583,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Steak, Hamburger steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 22:00",
+        "dtl_text": "11:30 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Once a month on the third Wednesday and Thursday (as listed on the restaurant's website)."
+    },
+    "google_rating": 4.1,
+    "google_reviews": 1579,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJG-bDwxkwH2AR3hOpqKymztk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/10000922-beb15d249c8f7809b3d252cf1cf35e66bee1d3e1ea9ea0de6da52e8badf73565.jpg",
+    "place_id": "ChIJG-bDwxkwH2AR3hOpqKymztk",
+    "g_name": "福よし",
+    "g_rating": 4.1,
+    "g_reviews": 1579,
+    "g_address": "日本、〒374-0025 群馬県館林市緑町２丁目２２−８",
+    "lat": 36.2368453,
+    "lng": 139.5373075
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とんかつとカツカレーの店 キセキ食堂 岩槻店",
+    "name_en": "Tonkatsu to Katsu Curry no Mise Kiseki Shokudo Iwatsuki Ten",
+    "area": "埼玉県 さいたま市岩槻区",
+    "url": "https://tabelog.com/saitama/A1101/A110103/11050274/",
+    "rating": 3.6,
+    "review_count_tabelog": 417,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 14:30 17:00 - 20:00",
+        "dtl_text": "17:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:00 - 14:30",
+        "dtl_text": "11:00 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 649,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJfxzMhs-5GGARtD1bStj7CP8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/11050274-ea7c30f72bc63c4d297a99746e646d746b0804cfd8c45f4223aeee4bd4aa6e4a.jpg",
+    "place_id": "ChIJfxzMhs-5GGARtD1bStj7CP8",
+    "g_name": "キセキ食堂 岩槻店",
+    "g_rating": 4.1,
+    "g_reviews": 649,
+    "g_address": "日本、〒339-0074 埼玉県さいたま市岩槻区本宿１９４−１２",
+    "lat": 35.9653861,
+    "lng": 139.6927684
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とんかつ檍 銀座8丁目店",
+    "name_en": "Tonkatsu Aoki Ginza 8 Chome Ten",
+    "area": "東京都 新橋駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13219635/",
+    "rating": 3.73,
+    "review_count_tabelog": 1632,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 15:00 17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:00 - 15:00 17:00 - 20:00",
+        "dtl_text": "17:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.9,
+    "google_reviews": 444,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJqwt9SUOLGGARmd1vj1RwzXg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/13219635-1dbd0fbe062d1633ebdb818f03a2f341b946c58ab0f67993948357951d894bb5.jpg",
+    "place_id": "ChIJqwt9SUOLGGARmd1vj1RwzXg",
+    "g_name": "とんかつ檍のカレー屋 いっぺこっぺ 新橋店",
+    "g_rating": 3.9,
+    "g_reviews": 444,
+    "g_address": "日本、〒105-0004 東京都港区新橋２丁目１６−１ ニュー新橋ビル 1F",
+    "lat": 35.6667314,
+    "lng": 139.7573627
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とんかつ 力亭",
+    "name_en": "Tonkatsu Rikitei",
+    "area": "長野県 上田市",
+    "url": "https://tabelog.com/nagano/A2004/A200401/20005756/",
+    "rating": 3.75,
+    "review_count_tabelog": 651,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri",
+        "dtl": "11:00 - 14:00",
+        "dtl_text": "11:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "11:00 - 14:00 17:00 - 20:00",
+        "dtl_text": "17:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed due to potential sellouts."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 605,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJv2jXq9C8HWARoVypOiLnSPs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/20005756-f954c74a6a11b11a664eac999a57c5a50cef4e24a7f2b69561b2785d99d7d7d1.jpg",
+    "place_id": "ChIJv2jXq9C8HWARoVypOiLnSPs",
+    "g_name": "とんかつ力亭",
+    "g_rating": 4.4,
+    "g_reviews": 605,
+    "g_address": "日本、〒386-0025 長野県上田市天神１丁目２−３２",
+    "lat": 36.397567,
+    "lng": 138.2491177
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "にし邑",
+    "name_en": "Nishi Mura",
+    "area": "東京都 東銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13025298/",
+    "rating": 3.7,
+    "review_count_tabelog": 1731,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 14:30",
+        "dtl_text": "11:00 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 1088,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ00H15-CLGGARbYOuLePbUAQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/13025298-bbda4ca8a9af8404531c790f4c3e957c21c7ce0192237f58993e9a4070f5cff4.jpg",
+    "place_id": "ChIJ00H15-CLGGARbYOuLePbUAQ",
+    "g_name": "にし邑",
+    "g_rating": 4.2,
+    "g_reviews": 1088,
+    "g_address": "日本、〒104-0061 東京都中央区銀座３丁目１２−６",
+    "lat": 35.6706703,
+    "lng": 139.7692016
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とんかつ マンジェ",
+    "name_en": "Tonkatsu Mange",
+    "area": "大阪府 八尾駅",
+    "url": "https://tabelog.com/osaka/A2707/A270705/27013624/",
+    "rating": 4.24,
+    "review_count_tabelog": 2234,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:00 17:00 - 20:30",
+        "dtl_text": "17:00 - 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "*We will be closed from December 31, 2025 (Wednesday) to January 6, 2026 (Tuesday)."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 1446,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJI7O5_arYAGARUm9mgc8NKAU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/27013624-376b745a03651049817ad8e53ac4a7f49664ba04ec95c9a79058b471ba32f605.jpg",
+    "place_id": "ChIJI7O5_arYAGARUm9mgc8NKAU",
+    "g_name": "とんかつ マンジェ",
+    "g_rating": 4.3,
+    "g_reviews": 1446,
+    "g_address": "日本、〒581-0086 大阪府八尾市陽光園２丁目３−２２",
+    "lat": 34.6200645,
+    "lng": 135.5983796
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "ぽくぽく",
+    "name_en": "Poku Poku",
+    "area": "奈良県 奈良市",
+    "url": "https://tabelog.com/nara/A2901/A290101/29006452/",
+    "rating": 3.71,
+    "review_count_tabelog": 275,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Pork dishes, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Sat, Sun, Public Holiday",
+        "dtl": "11:15 - 14:30 L.O. Food 13:30 17:30 - 20:00 L.O. Food 19:00",
+        "dtl_text": "17:30 - 20:00 L.O. Food 19:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Fri",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every Tuesday, Friday, the first Monday of the month, and other irregular holidays. Please check our blog calendar for details on closed days and reservation availability (the link appears at the bottom when viewed on Tabelog's PC site; if not, you can find it through a Google search). Alternatively, feel free to contact us by phone."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 257,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJYb1f1Ys5AWARBCxrTYHYI_U",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/29006452-1419a9a44c17ab5ae2baffdec10ef0becd87f9c5aab68c4c5542f24e8c6d1822.jpg",
+    "place_id": "ChIJYb1f1Ys5AWARBCxrTYHYI_U",
+    "g_name": "ぽくぽく",
+    "g_rating": 4.5,
+    "g_reviews": 257,
+    "g_address": "日本、〒630-8363 奈良県奈良市勝南院町２３",
+    "lat": 34.6787479,
+    "lng": 135.8304581
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "美はる",
+    "name_en": "Miharu",
+    "area": "愛知県 尾張旭市",
+    "url": "https://tabelog.com/aichi/A2303/A230302/23043621/",
+    "rating": 3.93,
+    "review_count_tabelog": 680,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 L.O. Food 14:00 17:30 - 21:00 L.O. Food 20:30",
+        "dtl_text": "17:30 - 21:00 L.O. Food 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The third Tuesday of each month"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 379,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJB6EDH31lA2ARsJ-mqTqWDiA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/23043621-5969b8c05e14a03db0c12c8307c49b51d93976fda32e42203e5cd2bcf4cab5bf.jpg",
+    "place_id": "ChIJB6EDH31lA2ARsJ-mqTqWDiA",
+    "g_name": "美はる",
+    "g_rating": 4.3,
+    "g_reviews": 379,
+    "g_address": "日本、〒488-0043 愛知県尾張旭市北本地ケ原町４丁目27−５",
+    "lat": 35.1989497,
+    "lng": 137.0406483
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "味のとんかつ 丸一",
+    "name_en": "Aji no Tonkatsu Maruichi",
+    "area": "鹿児島県 鹿児島市",
+    "url": "https://tabelog.com/kagoshima/A4601/A460101/46000091/",
+    "rating": 3.69,
+    "review_count_tabelog": 812,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 14:00 17:30 - 20:00",
+        "dtl_text": "17:30 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:30 - 14:00",
+        "dtl_text": "11:30 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 1265,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ04cf6lRnPjUROGR1kDNo7t0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/46000091-35c2b919a6091393297fe44e99fe85608ee62f1befa734cd1466f9f793151772.jpg",
+    "place_id": "ChIJ04cf6lRnPjUROGR1kDNo7t0",
+    "g_name": "味のとんかつ丸一",
+    "g_rating": 4.1,
+    "g_reviews": 1265,
+    "g_address": "日本、〒892-0844 鹿児島県鹿児島市山之口町１−１０ 鹿児島中央ビル B1F",
+    "lat": 31.5889225,
+    "lng": 130.552208
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "すぎ田",
+    "name_en": "Sugita",
+    "area": "東京都 蔵前駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131103/13003707/",
+    "rating": 3.68,
+    "review_count_tabelog": 1021,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Yoshoku (Japanese style western cuisine), Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00 17:00 - 20:30",
+        "dtl_text": "17:00 - 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 817,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJEVQ8SriOGGARNUmMAtc1ess",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/13003707-4c81443dc57de381cf3557bd8e95aba93030f0bdb81d99ad47610c02afa8c17a.jpg",
+    "place_id": "ChIJEVQ8SriOGGARNUmMAtc1ess",
+    "g_name": "すぎ田",
+    "g_rating": 4,
+    "g_reviews": 817,
+    "g_address": "日本、〒111-0042 東京都台東区寿３丁目８−３",
+    "lat": 35.7064419,
+    "lng": 139.791013
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とんかつ太郎",
+    "name_en": "Tonkatsu Taro",
+    "area": "兵庫県 みなと元町駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280102/28001010/",
+    "rating": 3.53,
+    "review_count_tabelog": 557,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Croquette",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 17:00 - 20:00",
+        "dtl_text": "17:00 - 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 506,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJUhBEwOPAGARvYeYdkOrook",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/28001010-c67dd06a6f4638664a0b6dacf26f4faab0b65e6c04f61167501979758fc395d6.jpg",
+    "place_id": "ChIJJUhBEwOPAGARvYeYdkOrook",
+    "g_name": "とんかつ太郎",
+    "g_rating": 4.3,
+    "g_reviews": 506,
+    "g_address": "日本、〒650-0022 兵庫県神戸市中央区元町通４丁目６−１ 西尾・辻本ビル",
+    "lat": 34.6867031,
+    "lng": 135.1834662
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "空蝉亭",
+    "name_en": "Karasemi Tei",
+    "area": "京都府 二条城前駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260203/26030601/",
+    "rating": 3.78,
+    "review_count_tabelog": 440,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Yoshoku (Japanese style western cuisine), Izakaya (Japanese style tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri",
+        "dtl": "11:30 - 15:00 L.O. 14:00 17:00 - 20:00 L.O. 19:00",
+        "dtl_text": "17:00 - 20:00 L.O. 19:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "11:30 - 15:00 L.O. 14:00 17:00 - 21:00 L.O. 20:00",
+        "dtl_text": "17:00 - 21:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every 2nd and 4th Tuesday"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 371,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJIbIM79kHAWARbKk4TqyP600",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/26030601-f39f9a4b2fdf142e98b7d376e1e2041b2891df8c8733ed35298c937e7d29967b.jpg",
+    "place_id": "ChIJIbIM79kHAWARbKk4TqyP600",
+    "g_name": "空蝉亭",
+    "g_rating": 4.4,
+    "g_reviews": 371,
+    "g_address": "日本、〒602-8104 京都府京都市上京区浮田町６００",
+    "lat": 35.0200745,
+    "lng": 135.748128
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とんかつ 明石",
+    "name_en": "Tonkatsu Akaishi",
+    "area": "東京都 新橋駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130103/13033663/",
+    "rating": 3.53,
+    "review_count_tabelog": 1196,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Katsu-don (Pork cutlet bowl)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 14:00 17:00 - 20:00",
+        "dtl_text": "17:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 209,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJA_38GnuLGGARkPWPhpirVwk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/13033663-6b84ff54294b5952c2978a5ab5a4930ab67f6a2ac199dd0e3de0d7d5492c733a.jpg",
+    "place_id": "ChIJA_38GnuLGGARkPWPhpirVwk",
+    "g_name": "とんかつ明石",
+    "g_rating": 4.2,
+    "g_reviews": 209,
+    "g_address": "日本、〒105-0004 東京都港区新橋２丁目１６−１ ニュー新橋ビル 4F",
+    "lat": 35.6662818,
+    "lng": 139.7573815
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "涿屋",
+    "name_en": "Takuya",
+    "area": "大阪府 東梅田駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27002290/",
+    "rating": 3.7,
+    "review_count_tabelog": 300,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Tonkatsu (Pork cutlet), Pork dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 23:30 L.O. Food 23:30",
+        "dtl_text": "18:00 - 23:30 L.O. Food 23:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 97,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVUlo-zmAGAR2f1LsN0lMJg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/27002290-43129cf3e78fc870ef248ceb1437fc67ac2ad1be18130164c6d5d5367c6bfe7d.jpg",
+    "place_id": "ChIJVVUlo-zmAGAR2f1LsN0lMJg",
+    "g_name": "豚活 涿屋",
+    "g_rating": 4.2,
+    "g_reviews": 97,
+    "g_address": "日本、〒530-0057 大阪府大阪市北区曾根崎２丁目５−３７",
+    "lat": 34.6991416,
+    "lng": 135.5011871
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とんかつ燕楽",
+    "name_en": "Tonkatsu Enraku",
+    "area": "東京都 池上駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131714/13034183/",
+    "rating": 3.79,
+    "review_count_tabelog": 1296,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Katsu-don (Pork cutlet bowl)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 14:30 17:00 - 21:00 L.O. 20:15",
+        "dtl_text": "17:00 - 21:00 L.O. 20:15",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 675,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJM2GOyRNgGGARi68aRiY1hsc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/13034183-7da1e33ce9eb5aa073b37cb2c536a30d8508f1b908b2f3b8c74fe32f21ed2883.jpg",
+    "place_id": "ChIJM2GOyRNgGGARi68aRiY1hsc",
+    "g_name": "とんかつ 燕楽",
+    "g_rating": 4.3,
+    "g_reviews": 675,
+    "g_address": "日本、〒146-0082 東京都大田区池上６丁目１−４",
+    "lat": 35.5729351,
+    "lng": 139.7041849
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とんかつ 蒼樹",
+    "name_en": "Tonkatsu Aoki",
+    "area": "神奈川県 上大岡駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140307/14085229/",
+    "rating": 3.73,
+    "review_count_tabelog": 315,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 13:30 17:30 - 19:30",
+        "dtl_text": "17:30 - 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:00 - 13:30",
+        "dtl_text": "11:00 - 13:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The second Thursday of each month"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 12,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJUbcmPABbGGAR77Qlq00mUBQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/14085229-6142cae95bf839eab57a1a0dce2b76601ce41f88f6db41a24feb1e6ed2a0ce75.jpg",
+    "place_id": "ChIJUbcmPABbGGAR77Qlq00mUBQ",
+    "g_name": "とんかつ蒼樹",
+    "g_rating": 4.3,
+    "g_reviews": 12,
+    "g_address": "日本、〒233-0008 神奈川県横浜市港南区最戸１丁目３−４ 102",
+    "lat": 35.4135575,
+    "lng": 139.5973584
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とん久",
+    "name_en": "Tonkyu",
+    "area": "東京都 高田馬場駅",
+    "url": "https://tabelog.com/tokyo/A1305/A130503/13000116/",
+    "rating": 3.57,
+    "review_count_tabelog": 1654,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "10:45 - 21:40",
+        "dtl_text": "10:45 - 21:40",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:00 - 21:40",
+        "dtl_text": "11:00 - 21:40",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "11:00 - 21:00",
+        "dtl_text": "11:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 713,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJUUIDajmNGGARvxrBSCMXSnw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/13000116-3efcb6787d7ceab1588394ba1e521b82dc38cbb8362b300b48edb2fdde9816be.jpg",
+    "place_id": "ChIJUUIDajmNGGARvxrBSCMXSnw",
+    "g_name": "とん久",
+    "g_rating": 4.1,
+    "g_reviews": 713,
+    "g_address": "Fiビル B1, １丁目-２６-５ 高田馬場 新宿区 東京都 169-0075 日本",
+    "lat": 35.712752,
+    "lng": 139.705143
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "矢田かつ",
+    "name_en": "Yada Katsu",
+    "area": "愛知県 大曽根駅",
+    "url": "https://tabelog.com/aichi/A2301/A230110/23037296/",
+    "rating": 3.69,
+    "review_count_tabelog": 1027,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Katsu-don (Pork cutlet bowl), Cafeteria",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 14:00 L.O. Food 13:45 17:30 - 20:30 L.O. Food 20:00",
+        "dtl_text": "17:30 - 20:30 L.O. Food 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Closed from August 29 (Friday) to September 1 (Monday) and from September 14 (Sunday) to September 16 (Tuesday)."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 883,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJcx0dVgdxA2ARObTLRwxiLvw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/23037296-714e5a5018bd9b82e341cb9adae66c94be415a0737926b27a1df0fc95731e451.jpg",
+    "place_id": "ChIJcx0dVgdxA2ARObTLRwxiLvw",
+    "g_name": "矢田かつ",
+    "g_rating": 4.3,
+    "g_reviews": 883,
+    "g_address": "日本、〒461-0040 愛知県名古屋市東区矢田２丁目５−１８",
+    "lat": 35.1940645,
+    "lng": 136.941678
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とんかつ ひやま",
+    "name_en": "Tonkatsu Hiyama",
+    "area": "栃木県 宇都宮市",
+    "url": "https://tabelog.com/tochigi/A0901/A090101/9000141/",
+    "rating": 3.69,
+    "review_count_tabelog": 355,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Shabu shabu (Japanese hotpot), Sukiyaki (Japanese sweet soy hotpot)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 13:30 18:00 - 20:00 L.O. 19:30",
+        "dtl_text": "18:00 - 20:00 L.O. 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Occasional temporary closures"
+    },
+    "google_rating": 3.7,
+    "google_reviews": 321,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8wl0OSVdH2ARPMXKsQYRf9k",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/9000141-514c05493f4d532682e7240bcb702f307ab7530b3c278b86a91a46b8c6d1e836.jpg",
+    "place_id": "ChIJ8wl0OSVdH2ARPMXKsQYRf9k",
+    "g_name": "とんかつ ひやま",
+    "g_rating": 3.7,
+    "g_reviews": 321,
+    "g_address": "日本、〒321-0139 栃木県宇都宮市若松原２丁目２−７",
+    "lat": 36.5027741,
+    "lng": 139.8665736
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とんかつ山本",
+    "name_en": "Tonkatsu Yamamoto",
+    "area": "京都府 京都市役所前駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260202/26006075/",
+    "rating": 3.68,
+    "review_count_tabelog": 473,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Japanese Cuisine, Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 13:30 17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 232,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2b4ClM0HAWARfsQ3ptE9mGg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/26006075-cf6e9f8b07031df32f33b226c80356d0867b8a5202018b1c06315d80ede2b0c0.jpg",
+    "place_id": "ChIJ2b4ClM0HAWARfsQ3ptE9mGg",
+    "g_name": "とんかつ山本",
+    "g_rating": 4.3,
+    "g_reviews": 232,
+    "g_address": "日本、〒604-0914 京都府京都市中京区橘柳町１５１",
+    "lat": 35.0143253,
+    "lng": 135.7681515
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とんかつ はせ川 東銀座店",
+    "name_en": "Tonkatsu Hasegawa Higashiginza Ten",
+    "area": "東京都 築地駅",
+    "url": "https://tabelog.com/tokyo/A1313/A131301/13266947/",
+    "rating": 3.67,
+    "review_count_tabelog": 724,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 L.O. 14:30 17:00 - 22:30 L.O. 22:00",
+        "dtl_text": "17:00 - 22:30 L.O. 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Year-end & New Year Holidays"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 397,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJgfpJW9WLGGAR5-V0p-rt0Bk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/13266947-9b2805abbb18735c803e686b458a7ae9fc8749eb7c46ececb29a066e0c92d279.jpg",
+    "place_id": "ChIJgfpJW9WLGGAR5-V0p-rt0Bk",
+    "g_name": "とんかつ はせ川 東銀座店",
+    "g_rating": 4.6,
+    "g_reviews": 397,
+    "g_address": "日本、〒104-0045 東京都中央区築地１丁目１３−１１ 高橋ビル 1F",
+    "lat": 35.6677339,
+    "lng": 139.7698205
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とんかつ檍 蒲田本店",
+    "name_en": "Tonkatsu Aoki Kamata Honten",
+    "area": "東京都 蒲田駅",
+    "url": "https://tabelog.com/tokyo/A1315/A131503/13114843/",
+    "rating": 3.72,
+    "review_count_tabelog": 2398,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "11:00 - 15:00 17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 15:00 17:00 - 21:00 L.O. 21:00",
+        "dtl_text": "17:00 - 21:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "11:00 - 15:00 17:00 - 20:00",
+        "dtl_text": "17:00 - 20:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "As of June 1, 2024, the restaurant will no longer have any regular closing days."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 1771,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJHffrVllgGGAR9OoUnN3vooM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/13114843-c1c8cd647a429788aed95b997a3bf5c692759ce796f3cb3a0a3b5efad0cc02f6.jpg",
+    "place_id": "ChIJHffrVllgGGAR9OoUnN3vooM",
+    "g_name": "とんかつ檍 蒲田本店",
+    "g_rating": 4.2,
+    "g_reviews": 1771,
+    "g_address": "日本、〒144-0052 東京都大田区蒲田５丁目４３−７",
+    "lat": 35.5604479,
+    "lng": 139.7170348
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "カツレツMATUMURA",
+    "name_en": "Cutlet Matsumura",
+    "area": "愛知県 名鉄名古屋駅",
+    "url": "https://tabelog.com/aichi/A2301/A230101/23073675/",
+    "rating": 3.71,
+    "review_count_tabelog": 800,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), European, Creative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 L.O. 14:00 17:00 - 22:00 L.O. 20:30",
+        "dtl_text": "17:00 - 22:00 L.O. 20:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 412,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJB3AuRN12A2ARsNDGBbtW0MA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/23073675-ad2263a8c6cccd182dee7706d4fcd3a59278dfeadbb11e5769fb67af4da43685.jpg",
+    "place_id": "ChIJB3AuRN12A2ARsNDGBbtW0MA",
+    "g_name": "カツレツMATUMURA",
+    "g_rating": 4.5,
+    "g_reviews": 412,
+    "g_address": "日本、〒450-6403 愛知県名古屋市中村区名駅３丁目28番地１２ 大名古屋ビルヂング 3階",
+    "lat": 35.1720523,
+    "lng": 136.8844986
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "勝烈亭 新市街本店",
+    "name_en": "Katsuretsu Tei Shinshigai Honten",
+    "area": "熊本県 熊本市中央区",
+    "url": "https://tabelog.com/kumamoto/A4301/A430101/43000307/",
+    "rating": 3.73,
+    "review_count_tabelog": 1557,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 21:30 L.O. 21:00",
+        "dtl_text": "11:00 - 21:30 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "December 31 - January 2 (Open year-round except for the above dates)"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJIw5Ry330QDURpVWli1Tcb_Y",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/43000307-22338f40d4d2e9f4776f48b21540a793e122fe04ef03755abda6a3d589aff884.jpg",
+    "place_id": "ChIJIw5Ry330QDURpVWli1Tcb_Y",
+    "g_name": "〒860-0832 熊本県熊本市中央区萩原町２−５ とんかつ 勝烈亭",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "日本、〒860-0832 熊本県熊本市中央区萩原町２−５ とんかつ 勝烈亭",
+    "lat": 32.7830874,
+    "lng": 130.7097968
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とんかつ檍 札幌すすきの店",
+    "name_en": "Tonkatsu Aoki Sapporo Susukino Ten",
+    "area": "北海道 狸小路駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010103/1060980/",
+    "rating": 3.56,
+    "review_count_tabelog": 437,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:00 - 15:00 L.O. 14:30 17:00 - 21:00 L.O. 20:30",
+        "dtl_text": "17:00 - 21:00 L.O. 20:30"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 616,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJG7bMbSYpC18RYEWNpM7QPjI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/1060980-468199d386b19c5aecde422e6662e0b96fb334091b5d48a5213aa85b87564b45.jpg",
+    "place_id": "ChIJG7bMbSYpC18RYEWNpM7QPjI",
+    "g_name": "とんかつ檍（あおき）札幌すすきの店",
+    "g_rating": 4,
+    "g_reviews": 616,
+    "g_address": "日本、〒060-0063 北海道札幌市中央区南３条西２丁目７−１",
+    "lat": 43.0568216,
+    "lng": 141.3548006
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "きんとん 神戸店",
+    "name_en": "Kinton Kobe Ten",
+    "area": "兵庫県 神戸三宮（阪急）駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280101/28049009/",
+    "rating": 3.7,
+    "review_count_tabelog": 977,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon - Fri": {},
+        "Sat, Sun & Public Holidays": {}
+      },
+      "closed_on": "January 1 and Tuesdays"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 415,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJO7tHMPuOAGARF6VTbeCZ2oc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/28049009-ea603edaa13835f48efce15f7de6074bd2ce3b16a312c585519b510b9de08382.jpg",
+    "place_id": "ChIJO7tHMPuOAGARF6VTbeCZ2oc",
+    "g_name": "とんかつ きんとん神戸店",
+    "g_rating": 4.3,
+    "g_reviews": 415,
+    "g_address": "日本、〒650-0021 兵庫県神戸市中央区三宮町１丁目８−１ B1F",
+    "lat": 34.6917764,
+    "lng": 135.1931056
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "tonkatsu.jp 表参道",
+    "name_en": "tonkatsu.jp Omote Sando",
+    "area": "東京都 表参道駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130602/13264557/",
+    "rating": 3.72,
+    "review_count_tabelog": 831,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Cafeteria, Deep-fried foods",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri",
+        "dtl": "11:30 - 15:30 L.O. 15:00 17:30 - 21:00 L.O. 20:00",
+        "dtl_text": "17:30 - 21:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 15:00 L.O. 14:30 17:00 - 21:00 L.O. 20:00",
+        "dtl_text": "17:00 - 21:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 369,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJfw0xAy-NGGAR2p-OhE-y60Q",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/13264557-01c8d508838eaee7dd26a765e5c2f6a5aa7e17e4778f9b468cd872f23696fbfe.jpg",
+    "place_id": "ChIJfw0xAy-NGGAR2p-OhE-y60Q",
+    "g_name": "tonkatsu.jp表参道",
+    "g_rating": 4.3,
+    "g_reviews": 369,
+    "g_address": "日本、〒107-0061 東京都港区北青山３丁目９−９ ＦＮビル 1F",
+    "lat": 35.6644248,
+    "lng": 139.709991
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "epais",
+    "name_en": "epais",
+    "area": "大阪府 北新地駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27072441/",
+    "rating": 3.73,
+    "review_count_tabelog": 869,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 15:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 457,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVWJnO3mAGAR4cEMz-VtyUU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/27072441-66fdee7034f68ed24ad6a453eec5239a94480c90a9dd6e42a6689c704b6dfedc.jpg",
+    "place_id": "ChIJVVWJnO3mAGAR4cEMz-VtyUU",
+    "g_name": "北新地とんかつepais",
+    "g_rating": 4.1,
+    "g_reviews": 457,
+    "g_address": "日本、〒530-0002 大阪府大阪市北区曽根崎新地１丁目９−３ ニュー華ビル 3F",
+    "lat": 34.6975859,
+    "lng": 135.4995832
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とんかつ 和栗",
+    "name_en": "Tonkatsu Waguri",
+    "area": "神奈川県 日吉駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140204/14057269/",
+    "rating": 3.55,
+    "review_count_tabelog": 1008,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 17:00 - 21:30 L.O. 20:45",
+        "dtl_text": "17:00 - 21:30 L.O. 20:45",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 908,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJwX19JXdfGGARxySXcXY-G9E",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/14057269-47cf223662492ba87dec73940af9164dfda9c7cb6031808781dcbb6076c752f9.jpg",
+    "place_id": "ChIJwX19JXdfGGARxySXcXY-G9E",
+    "g_name": "とんかつ 和栗",
+    "g_rating": 4.4,
+    "g_reviews": 908,
+    "g_address": "日本、〒223-0062 神奈川県横浜市港北区日吉本町１丁目２０−１６",
+    "lat": 35.5532311,
+    "lng": 139.6458928
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "銀座かつかみ",
+    "name_en": "Ginza Katsukami",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13225476/",
+    "rating": 3.7,
+    "review_count_tabelog": 883,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 14:30 18:00 - 21:30",
+        "dtl_text": "18:00 - 21:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/13225476-0091eea245a1d694b5b1a93e085a2833bf4b6e018493610ea2fc8f32edb76fd6.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "焼とんかつ たいら",
+    "name_en": "Yaki Tonkatsu Taira",
+    "area": "愛知県 今池駅",
+    "url": "https://tabelog.com/aichi/A2301/A230106/23004729/",
+    "rating": 3.65,
+    "review_count_tabelog": 669,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Yoshoku (Japanese style western cuisine), Pork dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 14:30 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:30 - 14:30",
+        "dtl_text": "11:30 - 14:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Tue - Sat": {}
+      },
+      "closed_on": "Monday and Sunday evenings"
+    },
+    "google_rating": 3.9,
+    "google_reviews": 255,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJanl_4pwA2ARRmV3obZQE5g",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/23004729-ffe6c98243ef3e2f68740e08449cdb915acd43b70a9a95cb8282e69d05bcf3bb.jpg",
+    "place_id": "ChIJJanl_4pwA2ARRmV3obZQE5g",
+    "g_name": "焼とんかつ たいら",
+    "g_rating": 3.9,
+    "g_reviews": 255,
+    "g_address": "日本、〒464-0850 愛知県名古屋市千種区今池５丁目８−９",
+    "lat": 35.1680066,
+    "lng": 136.9391774
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "ポンチ軒",
+    "name_en": "Ponchi Ken",
+    "area": "群馬県 高崎市",
+    "url": "https://tabelog.com/gunma/A1001/A100102/10018332/",
+    "rating": 3.58,
+    "review_count_tabelog": 584,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:15 - 15:00 L.O. Food 14:30 17:30 - 22:00 L.O. Food 21:30",
+        "dtl_text": "17:30 - 22:00 L.O. Food 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:15 - 15:00 L.O. Food 14:30",
+        "dtl_text": "11:15 - 15:00 L.O. Food 14:30"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 377,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQD0gJmSHmARkq3bN8nRwtI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/10018332-5a3b31dc0dc81378260437c9049bb18c0fb60b000c5c30292888022759903839.jpg",
+    "place_id": "ChIJAQD0gJmSHmARkq3bN8nRwtI",
+    "g_name": "神田ポンチ軒 高崎店",
+    "g_rating": 4,
+    "g_reviews": 377,
+    "g_address": "日本、〒370-0841 群馬県高崎市栄町１２−３",
+    "lat": 36.3213071,
+    "lng": 139.0161863
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とんかつ かつ壱",
+    "name_en": "Katsuichi",
+    "area": "東京都 目黒駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131601/13021829/",
+    "rating": 3.65,
+    "review_count_tabelog": 1518,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Katsu-don (Pork cutlet bowl), Izakaya (Japanese style tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 13:50 17:00 - 21:30",
+        "dtl_text": "17:00 - 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "In case of emergencies or during the year-end, New Year, and Obon holidays, updates will be provided on X."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 636,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmSzsGRmLGGARPn6Kb0gjL3M",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/13021829-c016d957f6e950f44036c344d2d696203d7fedb593343317ffc151c57804a7ca.jpg",
+    "place_id": "ChIJmSzsGRmLGGARPn6Kb0gjL3M",
+    "g_name": "かつ壱",
+    "g_rating": 4.2,
+    "g_reviews": 636,
+    "g_address": "日本、〒141-0021 東京都品川区上大崎２丁目２５−５ 久米ビル B1F",
+    "lat": 35.6345857,
+    "lng": 139.7146735
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とんかつ武信 代々木上原店",
+    "name_en": "TAKESHIN Yoyogi Uehara Ten",
+    "area": "東京都 代々木上原駅",
+    "url": "https://tabelog.com/tokyo/A1318/A131811/13024248/",
+    "rating": 3.68,
+    "review_count_tabelog": 1034,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet), Katsu-don (Pork cutlet bowl)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 15:00 L.O. 14:20 17:30 - 21:30 L.O. 20:50",
+        "dtl_text": "17:30 - 21:30 L.O. 20:50"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "We may occasionally take consecutive days off on Mondays and Tuesdays. Please check our restaurant's website for the latest updates on our holiday schedule."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 537,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5QS3OkjzGGAR3wB1iqjc4k0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/13024248-8f7cc6edfa4f3d41f9d9bbae56aabe4936990baaba4d8aae42c4498021a07dcd.jpg",
+    "place_id": "ChIJ5QS3OkjzGGAR3wB1iqjc4k0",
+    "g_name": "とんかつ 武信 代々木上原店",
+    "g_rating": 4.3,
+    "g_reviews": 537,
+    "g_address": "日本、〒151-0066 東京都渋谷区西原３丁目１−７ T’s Place 1 F",
+    "lat": 35.67029790000001,
+    "lng": 139.6827745
+  },
+  {
+    "category_jp": "とんかつ",
+    "category_en": "Tonkatsu",
+    "region": "とんかつ 百名店",
+    "name": "とんかつ桂",
+    "name_en": "Tonkatsu Katsura",
+    "area": "東京都 国分寺駅",
+    "url": "https://tabelog.com/tokyo/A1325/A132502/13016062/",
+    "rating": 3.63,
+    "review_count_tabelog": 518,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tonkatsu (Pork cutlet)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Sat, Sun",
+        "dtl": "11:00 - 13:00",
+        "dtl_text": "11:00 - 13:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.7,
+    "google_reviews": 184,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ94UzqmPlGGARAfR8LLYakC0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/tonkatsu/13016062-2c051cc3eabf28ad6d9d797dbecc2659d3ac4ab28990d3291ab25b475ba6d02b.jpg",
+    "place_id": "ChIJ94UzqmPlGGARAfR8LLYakC0",
+    "g_name": "とんかつ 桂(かつら)",
+    "g_rating": 4.7,
+    "g_reviews": 184,
+    "g_address": "日本、〒187-0022 東京都小平市上水本町５丁目７−２０",
+    "lat": 35.7087556,
+    "lng": 139.4781242
+  }
+]

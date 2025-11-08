@@ -1,0 +1,4792 @@
+[
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "蕎麦切りmasa",
+    "name_en": "Soba Kiri masa",
+    "area": "大阪府 本町駅",
+    "url": "https://tabelog.com/osaka/A2701/A270106/27053444/",
+    "rating": 3.52,
+    "review_count_tabelog": 245,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 14:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:30 - 14:00",
+        "dtl_text": "11:30 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.8,
+    "google_reviews": 29,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJtTYTN6vnAGARhGQV5dzGAT4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/27053444-b27bfea560ba5ebd6e1c5961f7764d9fc88efd94130f07809df7bf31455dd0d4.jpg",
+    "place_id": "ChIJtTYTN6vnAGARhGQV5dzGAT4",
+    "g_name": "蕎麦切りmasa",
+    "g_rating": 3.8,
+    "g_reviews": 29,
+    "g_address": "日本、〒550-0004 大阪府大阪市西区靱本町１丁目１６−１２",
+    "lat": 34.6844974,
+    "lng": 135.494235
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "うるしや",
+    "name_en": "Urushiya",
+    "area": "福井県 越前市",
+    "url": "https://tabelog.com/fukui/A1802/A180202/18007966/",
+    "rating": 3.73,
+    "review_count_tabelog": 211,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles), Japanese Cuisine, Tempura",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri",
+        "dtl": "11:00 - 21:00 L.O. 20:30",
+        "dtl_text": "11:00 - 21:00 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 16:00 L.O. 15:00 18:00 - 21:00 L.O. 20:30",
+        "dtl_text": "18:00 - 21:00 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Weekdays": {},
+        "Sat, Sun & Public Holidays": {}
+      },
+      "closed_on": "Wednesdays (subject to change if a public holiday falls on this day) and the first Tuesday of each month."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 371,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ___LBDes-F8RKX1UZeNi3gU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/18007966-32ceb3d5ed4c9ddb226a8d35c3525465ffb092144dbd8d205fe8f6cf0b5a5448.jpg",
+    "place_id": "ChIJ___LBDes-F8RKX1UZeNi3gU",
+    "g_name": "うるしや",
+    "g_rating": 4.4,
+    "g_reviews": 371,
+    "g_address": "日本、〒915-0813 福井県越前市京町１丁目４−２６",
+    "lat": 35.90370680000001,
+    "lng": 136.1650077
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "手打そば 乃田",
+    "name_en": "Teuchi Soba Noda",
+    "area": "大阪府 郡津駅",
+    "url": "https://tabelog.com/osaka/A2707/A270704/27013548/",
+    "rating": 3.69,
+    "review_count_tabelog": 476,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "11:30 - 14:30",
+        "dtl_text": "11:30 - 14:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 17:30 - 20:00",
+        "dtl_text": "17:30 - 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "*Open on holidays, with a substitute day off the following day."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 406,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJdnH46geAWARRbni9eJ-IwA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/27013548-44e0e939ba31bb1d4fc63fff63a3a9a27ab627510be924a112b56a2dc8e0dc06.jpg",
+    "place_id": "ChIJJdnH46geAWARRbni9eJ-IwA",
+    "g_name": "手打そば 乃田",
+    "g_rating": 4.3,
+    "g_reviews": 406,
+    "g_address": "日本、〒576-0043 大阪府交野市松塚１４−５",
+    "lat": 34.7935812,
+    "lng": 135.6688574
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "蕎麦おざき",
+    "name_en": "Soba Ozaki",
+    "area": "福岡県 薬院大通駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400104/40042966/",
+    "rating": 3.63,
+    "review_count_tabelog": 130,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Soba (Buckwheat noodles), Tempura",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 19:00 L.O. 18:30",
+        "dtl_text": "11:30 - 19:00 L.O. 18:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 260,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJyWqm1YORQTURNUtOaF1Aj2E",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/40042966-ed2272645534113d69c669462838fe8b351cd4c3a6e5f957e76fdc7d65e6975c.jpg",
+    "place_id": "ChIJyWqm1YORQTURNUtOaF1Aj2E",
+    "g_name": "蕎麦 おざき",
+    "g_rating": 4.2,
+    "g_reviews": 260,
+    "g_address": "日本、〒810-0023 福岡県福岡市中央区警固１丁目１−１０ エステート・モア警固本通り",
+    "lat": 33.5827496,
+    "lng": 130.3956205
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "あたり屋",
+    "name_en": "Atari Ya",
+    "area": "大阪府 東三国駅",
+    "url": "https://tabelog.com/osaka/A2701/A270301/27005158/",
+    "rating": 3.66,
+    "review_count_tabelog": 275,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 L.O. 14:00 18:00 - 22:00 L.O. 21:30",
+        "dtl_text": "18:00 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 241,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJF5hwHJnlAGARoOZhlg_u2yU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/27005158-0ecaba2154885112e1684a16a4925c4cbd4b49d6d2234bcbe728df2a92eca961.jpg",
+    "place_id": "ChIJF5hwHJnlAGARoOZhlg_u2yU",
+    "g_name": "蕎麦 料理 あたり屋",
+    "g_rating": 4.3,
+    "g_reviews": 241,
+    "g_address": "日本、〒532-0002 大阪府大阪市淀川区東三国５丁目１１−２２",
+    "lat": 34.7425724,
+    "lng": 135.4952767
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "蕎麦切り大城",
+    "name_en": "Soba Kiri Oshiro",
+    "area": "大阪府 鶴ケ丘駅",
+    "url": "https://tabelog.com/osaka/A2701/A270203/27051719/",
+    "rating": 3.58,
+    "review_count_tabelog": 228,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Soba (Buckwheat noodles), Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.9,
+    "google_reviews": 226,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJlxXkZDLcAGARQRFc91c63dk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/27051719-093b934a5258762567a90a975f6663f7b9d113e45b208cda7d008ea2754a5818.jpg",
+    "place_id": "ChIJlxXkZDLcAGARQRFc91c63dk",
+    "g_name": "蕎麦切り 大城",
+    "g_rating": 3.9,
+    "g_reviews": 226,
+    "g_address": "日本、〒545-0014 大阪府大阪市阿倍野区西田辺町２丁目６−１３",
+    "lat": 34.61666659999999,
+    "lng": 135.5152487
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "そば切り 鴨嘴",
+    "name_en": "Soba Kiri Kamonohashi",
+    "area": "大阪府 美章園駅",
+    "url": "https://tabelog.com/osaka/A2701/A270203/27103579/",
+    "rating": 3.66,
+    "review_count_tabelog": 198,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "11:30 - 15:00 L.O. 14:30",
+        "dtl_text": "11:30 - 15:00 L.O. 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 L.O. 14:30 17:30 - 21:00 L.O. 20:00",
+        "dtl_text": "17:30 - 21:00 L.O. 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 165,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJpVGqp9jdAGARIA5Pm4iXiII",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/27103579-697b461b351b218e341ddee46abb647ac7eb6f9e1bd8a27977a558d6c7bfbd79.jpg",
+    "place_id": "ChIJpVGqp9jdAGARIA5Pm4iXiII",
+    "g_name": "そば切り 鴨嘴",
+    "g_rating": 4.4,
+    "g_reviews": 165,
+    "g_address": "日本、〒546-0044 大阪府大阪市東住吉区北田辺１丁目４−９",
+    "lat": 34.6366079,
+    "lng": 135.5249601
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "そば処 藤村",
+    "name_en": "Soba Tokoro Fujimura",
+    "area": "滋賀県 東近江市",
+    "url": "https://tabelog.com/shiga/A2503/A250302/25000707/",
+    "rating": 3.69,
+    "review_count_tabelog": 356,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00",
+        "dtl_text": "11:30 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays and Tuesdays (no holiday substitutions)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 569,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJMd0uEe3XA2ARxSxIcCi2vKg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/25000707-eb015241ccaa2b4aae180cd085b6a51025bb0530aec53e95d249997b0e2aee2d.jpg",
+    "place_id": "ChIJMd0uEe3XA2ARxSxIcCi2vKg",
+    "g_name": "藤村",
+    "g_rating": 4.3,
+    "g_reviews": 569,
+    "g_address": "日本、〒527-0122 滋賀県東近江市長町１１６",
+    "lat": 35.1318031,
+    "lng": 136.2268337
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "すば",
+    "name_en": "suba",
+    "area": "京都府 清水五条駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260202/26036945/",
+    "rating": 3.52,
+    "review_count_tabelog": 844,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Stand-up soba",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 23:00 L.O. Food 22:30",
+        "dtl_text": "12:00 - 23:00 L.O. Food 22:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 3.7,
+    "google_reviews": 684,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJwy7CrWoJAWARsSk0G9FkKOA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/26036945-ae693181b62d9c28ed52a7088b1bb7d0a36ed6e1121072f45a40989d1b7cd9a5.jpg",
+    "place_id": "ChIJwy7CrWoJAWARsSk0G9FkKOA",
+    "g_name": "すば",
+    "g_rating": 3.7,
+    "g_reviews": 684,
+    "g_address": "日本、〒600-8015 京都府京都市下京区美濃屋町182番地 10東",
+    "lat": 34.9989927,
+    "lng": 135.7684891
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "皿そば 渚庵",
+    "name_en": "Sara Soba Nagisa An",
+    "area": "滋賀県 大津市",
+    "url": "https://tabelog.com/shiga/A2501/A250101/25000579/",
+    "rating": 3.71,
+    "review_count_tabelog": 245,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles), Sushi, Donburi (Rice bowl)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 L.O. 14:30",
+        "dtl_text": "11:00 - 15:00 L.O. 14:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays and Tuesdays. If Monday or Tuesday is a public holiday, we will generally remain open. Additionally, we may have irregular holidays, so please confirm by phone."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 174,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6SIk3mQNAWARf01NbTACWyc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/25000579-121f6acb12d40d98e7f7fd87052760fae05f6805ecc6f0c68e8e5555364d04e5.jpg",
+    "place_id": "ChIJ6SIk3mQNAWARf01NbTACWyc",
+    "g_name": "皿そば 渚庵",
+    "g_rating": 4.3,
+    "g_reviews": 174,
+    "g_address": "日本、〒520-0801 滋賀県大津市におの浜４丁目４−１６",
+    "lat": 35.0039584,
+    "lng": 135.8873917
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "八起",
+    "name_en": "Yaoki",
+    "area": "兵庫県 三宮（神戸市営）駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280101/28036843/",
+    "rating": 3.66,
+    "review_count_tabelog": 291,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Soba (Buckwheat noodles), Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "12:00 - 14:00 17:00 - 23:00 L.O. Food 22:30",
+        "dtl_text": "17:00 - 23:00 L.O. Food 22:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Other irregular days"
+    },
+    "google_rating": 4,
+    "google_reviews": 97,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJaZAEZOSOAGARV047_BbcFL8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/28036843-be1c2d8f033c458c923b3ed0bf458ed4b763e4f3891ca86ec8041cb6a86be0c3.jpg",
+    "place_id": "ChIJaZAEZOSOAGARV047_BbcFL8",
+    "g_name": "八起",
+    "g_rating": 4,
+    "g_reviews": 97,
+    "g_address": "日本、〒650-0004 兵庫県神戸市中央区中山手通１丁目７−２１",
+    "lat": 34.694907,
+    "lng": 135.192439
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "一会庵",
+    "name_en": "Ichie An",
+    "area": "兵庫県 丹波篠山市",
+    "url": "https://tabelog.com/hyogo/A2807/A280702/28000072/",
+    "rating": 3.53,
+    "review_count_tabelog": 222,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri, Sat",
+        "dtl": "11:30 - 14:30",
+        "dtl_text": "11:30 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 275,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJp8Glsk9rAGARqhgUFda4B3o",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/28000072-2657e26815812378bcc3bad5e91750e1bc9d4b6850f3d90cb832c3aee42a9cca.jpg",
+    "place_id": "ChIJp8Glsk9rAGARqhgUFda4B3o",
+    "g_name": "波之丹州蕎麦処 一会庵",
+    "g_rating": 4.1,
+    "g_reviews": 275,
+    "g_address": "日本、〒669-2318 兵庫県丹波篠山市大熊５０−２",
+    "lat": 35.0862629,
+    "lng": 135.2352943
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "赤間茶屋 あ三五",
+    "name_en": "Akama Chaya Asago",
+    "area": "福岡県 薬院駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400104/40003973/",
+    "rating": 4.01,
+    "review_count_tabelog": 438,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 20:00",
+        "dtl_text": "11:30 - 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (not fixed)"
+    },
+    "google_rating": 3.6,
+    "google_reviews": 165,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQyBrQZyRQTUReRnnFJLqmZY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/40003973-3bd0d1c46d9eedd2b7416f92a0806fa990d6af518fc991cb66c3868ed42fa1a7.jpg",
+    "place_id": "ChIJQyBrQZyRQTUReRnnFJLqmZY",
+    "g_name": "あ三五",
+    "g_rating": 3.6,
+    "g_reviews": 165,
+    "g_address": "日本、〒810-0012 福岡県福岡市中央区白金１丁目４−１４ 原ビル 1F",
+    "lat": 33.5801068,
+    "lng": 130.4041644
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "そば切り 蔦屋",
+    "name_en": "Soba Kiri Tsutaya",
+    "area": "大阪府 豊能郡能勢町",
+    "url": "https://tabelog.com/osaka/A2706/A270605/27091419/",
+    "rating": 3.69,
+    "review_count_tabelog": 85,
+    "price_dinner": "-",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00",
+        "dtl_text": "11:30 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 221,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0TOH1zbnAGARwJQAnBwNX24",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/27091419-0ebcffd398ae24225a78e25d6380352aaa37bb069a5e26b4cd067ced7712567b.jpg",
+    "place_id": "ChIJ0TOH1zbnAGARwJQAnBwNX24",
+    "g_name": "そば切り 蔦屋",
+    "g_rating": 4.1,
+    "g_reviews": 221,
+    "g_address": "日本、〒563-0366 大阪府豊能郡能勢町垂水２４６",
+    "lat": 34.9711908,
+    "lng": 135.3810885
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "手打ち蕎麦 かね井",
+    "name_en": "Teuchi Soba Kanei",
+    "area": "京都府 京都市北区",
+    "url": "https://tabelog.com/kyoto/A2601/A260503/26001676/",
+    "rating": 3.7,
+    "review_count_tabelog": 510,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "-",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [],
+    "hours_notes_structured": null,
+    "google_rating": 3.7,
+    "google_reviews": 286,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJD7PVWvsHAWAR89C1iRFRKT0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/26001676-6c1339f4f34b88dd0e7af2fc56de7e620dd2f82da27aaff1a02c0124c692f944.jpg",
+    "place_id": "ChIJD7PVWvsHAWAR89C1iRFRKT0",
+    "g_name": "手打ち蕎麦 かね井",
+    "g_rating": 3.7,
+    "g_reviews": 286,
+    "g_address": "日本、〒603-8223 京都府京都市北区紫野東藤ノ森町１１−１",
+    "lat": 35.0376181,
+    "lng": 135.7467235
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "鼓道",
+    "name_en": "Kodou",
+    "area": "大阪府 豊中駅",
+    "url": "https://tabelog.com/osaka/A2706/A270601/27069195/",
+    "rating": 3.63,
+    "review_count_tabelog": 716,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles), Chicken dishes, Oyako-don (Chicken and egg bowl)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 15:00 L.O. 14:30 17:30 - 21:30 L.O. 21:00",
+        "dtl_text": "17:30 - 21:30 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 562,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7feL5L76AGAROd-diaDW4Zo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/27069195-05d37a166d8ac754f39daf4f2159e383aad2abe65e721e335f17eba4cc2b1c5a.jpg",
+    "place_id": "ChIJ7feL5L76AGAROd-diaDW4Zo",
+    "g_name": "蕎麦 鼓道 豊中店",
+    "g_rating": 4.2,
+    "g_reviews": 562,
+    "g_address": "日本、〒560-0021 大阪府豊中市本町５丁目２−２ 1Ｆ",
+    "lat": 34.7895322,
+    "lng": 135.4654562
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "独活庵",
+    "name_en": "Udo An",
+    "area": "大阪府 堺筋本町駅",
+    "url": "https://tabelog.com/osaka/A2701/A270106/27013805/",
+    "rating": 3.67,
+    "review_count_tabelog": 227,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles), Izakaya (Tavern), Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:15 - 14:30 L.O. 14:00 17:10 - 22:00 L.O. 21:00",
+        "dtl_text": "17:10 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:15 - 14:30 L.O. 14:00",
+        "dtl_text": "11:15 - 14:30 L.O. 14:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 196,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ4HJUh_nAGARelj_eGaT9Hw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/27013805-3542f206706983b58bd6b94a7a96106faeb6928e7a2d89548b3d854030d6d69d.jpg",
+    "place_id": "ChIJZ4HJUh_nAGARelj_eGaT9Hw",
+    "g_name": "独活庵（うどあん）",
+    "g_rating": 4.2,
+    "g_reviews": 196,
+    "g_address": "日本、〒541-0055 大阪府大阪市中央区船場中央２丁目１−４ B215 船場センタービル 4号館B2",
+    "lat": 34.6818307,
+    "lng": 135.5060132
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "そば切り 百夜月",
+    "name_en": "Soba Kiri Momoyo Zuki",
+    "area": "奈良県 奈良市",
+    "url": "https://tabelog.com/nara/A2901/A290101/29000692/",
+    "rating": 3.66,
+    "review_count_tabelog": 261,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri",
+        "dtl": "11:30 - 14:30",
+        "dtl_text": "11:30 - 14:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "11:30 - 14:30 17:30 - 19:30",
+        "dtl_text": "17:30 - 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 230,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2YQa2yk6AWARYgXHFtf9Mz8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/29000692-8d9d7626c7bc878ccb4c260225374d0c2d6bc9c78076c226c60f0dd419cd5fe5.jpg",
+    "place_id": "ChIJ2YQa2yk6AWARYgXHFtf9Mz8",
+    "g_name": "そば切り 百夜月",
+    "g_rating": 4.3,
+    "g_reviews": 230,
+    "g_address": "日本、〒630-8237 奈良県奈良市中筋町３８",
+    "lat": 34.68484430000001,
+    "lng": 135.8275469
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "そば切り 岳空",
+    "name_en": "Soba Kiri Gakuu",
+    "area": "大阪府 谷町六丁目駅",
+    "url": "https://tabelog.com/osaka/A2701/A270204/27096691/",
+    "rating": 3.7,
+    "review_count_tabelog": 235,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 14:30 L.O. 14:00 18:00 - 20:30 L.O. 20:00",
+        "dtl_text": "18:00 - 20:30 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "We will be closed for a long holiday from October 4 (Saturday) to October 11 (Saturday)."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 85,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJHcSi-U_nAGARU4YS7VjP9fc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/27096691-f90a9b5f9eb10cbbbf27e34bf595eed1cc4f072cc2255567b3b6cfbc17e9c54e.jpg",
+    "place_id": "ChIJHcSi-U_nAGARU4YS7VjP9fc",
+    "g_name": "そば切り 岳空",
+    "g_rating": 4.5,
+    "g_reviews": 85,
+    "g_address": "日本、〒542-0012 大阪府大阪市中央区谷町７丁目１−５４",
+    "lat": 34.6733294,
+    "lng": 135.5179795
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "更科藤井",
+    "name_en": "Sarashina Fujii",
+    "area": "石川県 金沢市",
+    "url": "https://tabelog.com/ishikawa/A1701/A170101/17006763/",
+    "rating": 3.69,
+    "review_count_tabelog": 353,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Soba (Buckwheat noodles), Nihonshu (Japanese sake), Shochu (Japanese spirits)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 14:00 17:30 - 20:30",
+        "dtl_text": "17:30 - 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "11:30 - 19:30",
+        "dtl_text": "11:30 - 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.6,
+    "google_reviews": 261,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGY4nmoAz-F8RiPzrkIw43U4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/17006763-76a09ac09a1ca2b6de313153c33130c1ed4c2f04e5aca5acfdc98b3c6a4697d0.jpg",
+    "place_id": "ChIJGY4nmoAz-F8RiPzrkIw43U4",
+    "g_name": "更科藤井",
+    "g_rating": 3.6,
+    "g_reviews": 261,
+    "g_address": "日本、〒920-0999 石川県金沢市柿木畠３−３",
+    "lat": 36.5605219,
+    "lng": 136.6562956
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "献上そば 羽根屋 本店",
+    "name_en": "Kenjo Soba Haneya Hon Ten",
+    "area": "島根県 出雲市",
+    "url": "https://tabelog.com/shimane/A3202/A320201/32000003/",
+    "rating": 3.66,
+    "review_count_tabelog": 1595,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles), Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 17:00 - 19:30 L.O. 19:00",
+        "dtl_text": "17:00 - 19:30 L.O. 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "New Year's Day"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 2666,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJx39PFo5DVzURnzw_QJEOBfc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/32000003-c99cb960ad9eff94135b8a38ee6e2adaf8451de8e01c6e6c0a9aeea4faadde9c.jpg",
+    "place_id": "ChIJx39PFo5DVzURnzw_QJEOBfc",
+    "g_name": "【羽根屋 本店】献上出雲そば",
+    "g_rating": 4.3,
+    "g_reviews": 2666,
+    "g_address": "日本、〒693-0001 島根県出雲市今市町本町５４９",
+    "lat": 35.36440760000001,
+    "lng": 132.7608125
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "手打蕎麦 こより",
+    "name_en": "Teuchi Soba Koyori",
+    "area": "石川県 金沢市",
+    "url": "https://tabelog.com/ishikawa/A1701/A170101/17012178/",
+    "rating": 3.79,
+    "review_count_tabelog": 175,
+    "price_dinner": "-",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Soba (Buckwheat noodles), Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 14:00",
+        "dtl_text": "11:00 - 14:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Tue - Sat": {}
+      },
+      "closed_on": "Mondays, Sundays, and Public Holidays"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 143,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJdTLnSSUz-F8RkQTXJg1Xbss",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/17012178-0352bc70e3f13f398facc0083a3f801c5e8937e0b912e058d75985345b944118.jpg",
+    "place_id": "ChIJdTLnSSUz-F8RkQTXJg1Xbss",
+    "g_name": "手打蕎麦 こより",
+    "g_rating": 4.3,
+    "g_reviews": 143,
+    "g_address": "日本、〒920-0043 石川県金沢市長田２丁目２０−１３",
+    "lat": 36.5762833,
+    "lng": 136.6406366
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "笑日志",
+    "name_en": "Ebishi",
+    "area": "大阪府 北浜駅",
+    "url": "https://tabelog.com/osaka/A2701/A270102/27067994/",
+    "rating": 3.69,
+    "review_count_tabelog": 376,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri",
+        "dtl": "11:30 - 14:00 L.O. 13:30 18:00 - 21:30 L.O. 21:00",
+        "dtl_text": "18:00 - 21:30 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "11:30 - 14:00 L.O. 13:30 18:00 - 21:00 L.O. 20:30",
+        "dtl_text": "18:00 - 21:00 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Sat",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays and Saturdays, closed from November 15 to 18."
+    },
+    "google_rating": 4.1,
+    "google_reviews": 175,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZaSUnCDnAGARyxrVzqfuRnU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/27067994-e7c05ac9c1fd07e5bb3d9a961c185caca8e5b6f2fee5e5eee889179770916b38.jpg",
+    "place_id": "ChIJZaSUnCDnAGARyxrVzqfuRnU",
+    "g_name": "手打蕎麦 笑日志（えびし）",
+    "g_rating": 4.1,
+    "g_reviews": 175,
+    "g_address": "日本、〒541-0046 大阪府大阪市中央区平野町１丁目１−２",
+    "lat": 34.68778229999999,
+    "lng": 135.5093449
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "おがわ",
+    "name_en": "Ogawa",
+    "area": "京都府 北大路駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260503/26000389/",
+    "rating": 3.74,
+    "review_count_tabelog": 365,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 14:30",
+        "dtl_text": "11:30 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Thursdays (Open on Thursdays if a public holiday falls on that day, closed the following Friday)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 235,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDa2T5r8IAWARMFzvAaXtzjc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/26000389-20262cf00283cd2945a9419f9733df9b5dff9d8e222e2ff7967d63d50834aa5c.jpg",
+    "place_id": "ChIJDa2T5r8IAWARMFzvAaXtzjc",
+    "g_name": "食堂 おがわ",
+    "g_rating": 4.3,
+    "g_reviews": 235,
+    "g_address": "日本、〒600-8019 京都府京都市下京区船頭町２０４",
+    "lat": 35.0027376,
+    "lng": 135.7699891
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "蕎麦屋 木田",
+    "name_en": "Soba-ya Kida",
+    "area": "大阪府 桃山台駅",
+    "url": "https://tabelog.com/osaka/A2706/A270602/27011284/",
+    "rating": 3.6,
+    "review_count_tabelog": 354,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 L.O. Food 14:30 17:00 - 21:00 L.O. Food 20:30",
+        "dtl_text": "17:00 - 21:00 L.O. Food 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 415,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJF8BL5Nf6AGARl_MT4JAmRAM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/27011284-e7842531e7449a385373b78a5a7424ef2a1307f007f5e5620ec0adf9f3e7e69b.jpg",
+    "place_id": "ChIJF8BL5Nf6AGARl_MT4JAmRAM",
+    "g_name": "蕎麦屋 木田",
+    "g_rating": 4.3,
+    "g_reviews": 415,
+    "g_address": "日本、〒560-0003 大阪府豊中市東豊中町５丁目３０−２５ ハイツ宮由",
+    "lat": 34.7925122,
+    "lng": 135.486978
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "江戸そば 佗介",
+    "name_en": "Edo Soba Wabisuke",
+    "area": "福岡県 薬院駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400104/40005313/",
+    "rating": 3.67,
+    "review_count_tabelog": 80,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (subject to reservation changes)"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 123,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJM9dys52RQTURNG0o7MGPIBo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/40005313-d550679f267ebe091436346e547f2c9f1e489956d6899d6291e37cd124ce6635.jpg",
+    "place_id": "ChIJM9dys52RQTURNG0o7MGPIBo",
+    "g_name": "江戸蕎麦 佗介(わびすけ)",
+    "g_rating": 4.2,
+    "g_reviews": 123,
+    "g_address": "日本、〒810-0012 福岡県福岡市中央区白金１丁目１４−２",
+    "lat": 33.5790936,
+    "lng": 130.404064
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "純そば 一風庵",
+    "name_en": "Jun Soba Ippuan",
+    "area": "島根県 仁多郡奥出雲町",
+    "url": "https://tabelog.com/shimane/A3202/A320203/32001813/",
+    "rating": 3.67,
+    "review_count_tabelog": 204,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles), Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Thursdays (open on public holidays) and the last Wednesday of each month"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 647,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJEXoSnM0lVzUROEvSk7oXgcU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/32001813-147ea3b9418b477ab3121aee4b80b1d0e3801b50926cfa8a5291629b1b019a78.jpg",
+    "place_id": "ChIJEXoSnM0lVzUROEvSk7oXgcU",
+    "g_name": "一風庵",
+    "g_rating": 4.1,
+    "g_reviews": 647,
+    "g_address": "日本、〒699-1822 島根県仁多郡奥出雲町下横田８９−２",
+    "lat": 35.1743324,
+    "lng": 133.0865907
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "手打ちそばやぶ金",
+    "name_en": "Teuchi Soba Yabukin",
+    "area": "福岡県 赤坂駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400104/40000050/",
+    "rating": 3.69,
+    "review_count_tabelog": 279,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 L.O. 14:30 17:00 - 20:00 L.O. 20:00",
+        "dtl_text": "17:00 - 20:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "11:30 - 15:00 L.O. 14:30",
+        "dtl_text": "11:30 - 15:00 L.O. 14:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 436,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ693hboaRQTURCgAHxVV1f08",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/40000050-5999bdcd65987295009e140d0385697cd977982c329cb0f0373fe9ef05a8c7c6.jpg",
+    "place_id": "ChIJ693hboaRQTURCgAHxVV1f08",
+    "g_name": "手打ち蕎麦 やぶ金",
+    "g_rating": 4.1,
+    "g_reviews": 436,
+    "g_address": "日本、〒810-0041 福岡県福岡市中央区大名２丁目１−１６",
+    "lat": 33.5883011,
+    "lng": 130.3947489
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "いもせ",
+    "name_en": "Imose",
+    "area": "大阪府 玉造（大阪メトロ）駅",
+    "url": "https://tabelog.com/osaka/A2701/A270204/27012387/",
+    "rating": 3.66,
+    "review_count_tabelog": 198,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00",
+        "dtl_text": "11:30 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 189,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJYdyL7TgAGARniMkltGv0kw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/27012387-dca365892d06d7dec1c124189563969c7bf31d987d7dbf4dbd18f76f50ae1688.jpg",
+    "place_id": "ChIJJYdyL7TgAGARniMkltGv0kw",
+    "g_name": "蕎麦切 いもせ",
+    "g_rating": 4.1,
+    "g_reviews": 189,
+    "g_address": "日本、〒540-0004 大阪府大阪市中央区玉造２丁目９−２",
+    "lat": 34.6766994,
+    "lng": 135.5297007
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "一如庵",
+    "name_en": "Ichin yoan",
+    "area": "奈良県 宇陀市",
+    "url": "https://tabelog.com/nara/A2904/A290403/29000815/",
+    "rating": 3.76,
+    "review_count_tabelog": 233,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles), Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:30",
+        "dtl_text": "11:00 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 89,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJUb0bRZmzBmAR_r_wvsmEkc4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/29000815-50dd53c6f76828a5479aa016ae187e0f1905f8bc4d78c86afbd3491e5b73407e.jpg",
+    "place_id": "ChIJUb0bRZmzBmAR_r_wvsmEkc4",
+    "g_name": "一如庵",
+    "g_rating": 4.1,
+    "g_reviews": 89,
+    "g_address": "日本、〒633-0217 奈良県宇陀市榛原自明１３６２",
+    "lat": 34.519921,
+    "lng": 135.9821881
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "手打ちそば 花もも",
+    "name_en": "Teuchi Soba Hanamomo",
+    "area": "京都府 丸太町（京都市営）駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260202/26016470/",
+    "rating": 3.53,
+    "review_count_tabelog": 407,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 18:30",
+        "dtl_text": "11:00 - 18:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (open on public holidays) and the fourth Sunday of each month"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 513,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJuSE1rXgIAWARH3YAYG0FpwM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/26016470-0ecd09b06376126aa6ce9f9be1f49d262d240d116506e5e2fb0b8dda864ba598.jpg",
+    "place_id": "ChIJuSE1rXgIAWARH3YAYG0FpwM",
+    "g_name": "花もも",
+    "g_rating": 4.1,
+    "g_reviews": 513,
+    "g_address": "日本、〒604-0986 京都府京都市中京区昆布屋町３９８",
+    "lat": 35.0172826,
+    "lng": 135.7655847
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "手取川 竹やぶ",
+    "name_en": "Tedorigawa Takeyabu",
+    "area": "石川県 能美市",
+    "url": "https://tabelog.com/ishikawa/A1702/A170203/17001500/",
+    "rating": 3.66,
+    "review_count_tabelog": 151,
+    "price_dinner": "-",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00",
+        "dtl_text": "11:30 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Reservations on Wednesdays are generally not accepted."
+    },
+    "google_rating": 3.6,
+    "google_reviews": 145,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJxec4uMRO-F8R03K9owKaScE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/17001500-e5185b4b8220cfc05fa11a344332364b3e254e6dae76f4c669d9aa8de8bd0546.jpg",
+    "place_id": "ChIJxec4uMRO-F8R03K9owKaScE",
+    "g_name": "手取川 竹やぶ",
+    "g_rating": 3.6,
+    "g_reviews": 145,
+    "g_address": "日本、〒923-1243 石川県能美市三ツ屋町イ１２",
+    "lat": 36.4522843,
+    "lng": 136.5482282
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "草庵",
+    "name_en": "Soan",
+    "area": "石川県 白山市",
+    "url": "https://tabelog.com/ishikawa/A1702/A170203/17001320/",
+    "rating": 3.76,
+    "review_count_tabelog": 359,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 15:00",
+        "dtl_text": "11:30 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 593,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJy_-OWCdG-F8RQ3k0luAJpFo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/17001320-ab04876f4861c38df60cb89a2d490bd8cb5e7ec0dd2e0ec861dd3a76326a3f48.jpg",
+    "place_id": "ChIJy_-OWCdG-F8RQ3k0luAJpFo",
+    "g_name": "自家製粉石臼手打ち蕎麦処 草庵",
+    "g_rating": 4.4,
+    "g_reviews": 593,
+    "g_address": "日本、〒920-2112 石川県白山市鶴来日吉町３２",
+    "lat": 36.4456245,
+    "lng": 136.6346053
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "くちいわ",
+    "name_en": "Kuchi Iwa",
+    "area": "富山県 富山市",
+    "url": "https://tabelog.com/toyama/A1601/A160101/16010455/",
+    "rating": 3.79,
+    "review_count_tabelog": 33,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed. Please check our Instagram and Facebook for updates on closing days and reservation status."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 110,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJoTBZBOlU9l8RGIarNTBh6EE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/16010455-64b31ecfc7e541a66d7a7715e06445f8cc134dd2ee502ea4db169adf907a683b.jpg",
+    "place_id": "ChIJoTBZBOlU9l8RGIarNTBh6EE",
+    "g_name": "酒蕎楽 くちいわ(しゅきょうらく)",
+    "g_rating": 4.3,
+    "g_reviews": 110,
+    "g_address": "日本、富山県富山市東岩瀬町１３５",
+    "lat": 36.7562958,
+    "lng": 137.2289284
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "亀蔵",
+    "name_en": "Kamezou",
+    "area": "福井県 鯖江市",
+    "url": "https://tabelog.com/fukui/A1802/A180201/18004146/",
+    "rating": 3.7,
+    "review_count_tabelog": 425,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles), Japanese Cuisine, Deep-fried foods",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri",
+        "dtl": "11:00 - 15:00 L.O. 14:30",
+        "dtl_text": "11:00 - 15:00 L.O. 14:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 15:00 L.O. 14:30 18:00 - 21:30 L.O. 20:30",
+        "dtl_text": "18:00 - 21:30 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.9,
+    "google_reviews": 486,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJt-E7WMqv-F8R1aTx50rqELw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/18004146-9514c6c9f2ff72f7d2070bbfebf5aef6ff995ee4fbdbdfac039b6be1d6bf6aa9.jpg",
+    "place_id": "ChIJt-E7WMqv-F8R1aTx50rqELw",
+    "g_name": "亀蔵",
+    "g_rating": 3.9,
+    "g_reviews": 486,
+    "g_address": "日本、〒916-0041 福井県鯖江市東鯖江１丁目１−３ MM6ビル 1階",
+    "lat": 35.9434034,
+    "lng": 136.1944549
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "杵築 翁達磨",
+    "name_en": "Satsuki Okinadaruma",
+    "area": "大分県 杵築市",
+    "url": "https://tabelog.com/oita/A4403/A440301/44011389/",
+    "rating": 3.75,
+    "review_count_tabelog": 78,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (Tuesdays if a holiday falls on Monday)"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 63,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJOVLjHZU8RDURYc1n6uQG7DY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/44011389-25c9d24c1fb5bdf96ddbda8bf44e6f4fdb34060dc051b8bf2b4437e2706b27c1.jpg",
+    "place_id": "ChIJOVLjHZU8RDURYc1n6uQG7DY",
+    "g_name": "杵築 翁 達磨",
+    "g_rating": 4.1,
+    "g_reviews": 63,
+    "g_address": "日本、〒873-0033 大分県杵築市守江２１１４−２５",
+    "lat": 33.429239,
+    "lng": 131.6626108
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "そば切り 天笑",
+    "name_en": "Soba Kiri Tensho",
+    "area": "大阪府 枚方市駅",
+    "url": "https://tabelog.com/osaka/A2707/A270702/27000053/",
+    "rating": 3.6,
+    "review_count_tabelog": 365,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri, Sat, Sun",
+        "dtl": "11:00 - 13:00",
+        "dtl_text": "11:00 - 13:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.9,
+    "google_reviews": 227,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJN_byRVAcAWARUuhK5ClO9bY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/27000053-e8c4f001c6c23f72828f5e6b67aa7b12be3d28fdcb59691a42464a639ea6b59f.jpg",
+    "place_id": "ChIJN_byRVAcAWARUuhK5ClO9bY",
+    "g_name": "そば切り 天笑",
+    "g_rating": 3.9,
+    "g_reviews": 227,
+    "g_address": "日本、〒573-0033 大阪府枚方市岡南町１０−３０",
+    "lat": 34.814443,
+    "lng": 135.6461676
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "土山人 芦屋店",
+    "name_en": "Do Sanjin Ashiya Ten",
+    "area": "兵庫県 芦屋（阪神）駅",
+    "url": "https://tabelog.com/hyogo/A2803/A280302/28000023/",
+    "rating": 3.67,
+    "review_count_tabelog": 443,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 14:30 17:30 - 21:30 L.O. 21:00",
+        "dtl_text": "17:30 - 21:30 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 15:00 17:30 - 21:30 L.O. 21:00",
+        "dtl_text": "17:30 - 21:30 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 362,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJa3ZCp9TyAGARLGLTv4tNxy4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/28000023-f3188d4e729e8c46fb24806380670869a8053a47dcf34bfc4fac6ccca14d136e.jpg",
+    "place_id": "ChIJa3ZCp9TyAGARLGLTv4tNxy4",
+    "g_name": "土山人芦屋店",
+    "g_rating": 4,
+    "g_reviews": 362,
+    "g_address": "日本、〒659-0072 兵庫県芦屋市川西町７−３−１１２",
+    "lat": 34.7292226,
+    "lng": 135.3005132
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "玄",
+    "name_en": "Gen",
+    "area": "奈良県 奈良市",
+    "url": "https://tabelog.com/nara/A2901/A290101/29000052/",
+    "rating": 3.99,
+    "review_count_tabelog": 521,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Soba (Buckwheat noodles), Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 13:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:30 - 13:00",
+        "dtl_text": "11:30 - 13:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 234,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1zOev4w5AWARS4WT-BC-Mx4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/29000052-5bfc17e10773a013ac7e76a15ee5395a50ab65281c1c491fcce89ecd721ed045.jpg",
+    "place_id": "ChIJ1zOev4w5AWARS4WT-BC-Mx4",
+    "g_name": "玄",
+    "g_rating": 4,
+    "g_reviews": 234,
+    "g_address": "日本、〒630-8381 奈良県奈良市福智院町２３−２",
+    "lat": 34.6768463,
+    "lng": 135.8338655
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "しゅばく",
+    "name_en": "Shubaku",
+    "area": "京都府 宇治（京阪）駅",
+    "url": "https://tabelog.com/kyoto/A2607/A260701/26004771/",
+    "rating": 3.68,
+    "review_count_tabelog": 396,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Sat, Sun",
+        "dtl": "11:30 - 15:00",
+        "dtl_text": "11:30 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Fri",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Fridays (the previous day if a holiday)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 396,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJyV1UGAsRAWARUrkkoPHqxkg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/26004771-cb751d016fb4ffc4ef7b8ca12fb6794e57418e8f27648cf6c70d4fb3b2c71161.jpg",
+    "place_id": "ChIJyV1UGAsRAWARUrkkoPHqxkg",
+    "g_name": "しゅばく酒蕎麦",
+    "g_rating": 4.3,
+    "g_reviews": 396,
+    "g_address": "日本、〒611-0021 京都府宇治市宇治東内１３−１",
+    "lat": 34.8930721,
+    "lng": 135.8076883
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "まつもと",
+    "name_en": "Matsumoto",
+    "area": "京都府 京都河原町駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260201/26022778/",
+    "rating": 3.66,
+    "review_count_tabelog": 218,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Soba (Buckwheat noodles), Nihonshu (Japanese sake)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 14:00 16:00 - 23:00",
+        "dtl_text": "16:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "13:00 - 19:00",
+        "dtl_text": "13:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.9,
+    "google_reviews": 150,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJaWbQrJUIAWARWJncOMMtSWo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/26022778-6f921bb814ed1c6a9e32b6ac188ad66738cdd0fb747855efe2376f31e1b35425.jpg",
+    "place_id": "ChIJaWbQrJUIAWARWJncOMMtSWo",
+    "g_name": "そば 酒 まつもと",
+    "g_rating": 3.9,
+    "g_reviews": 150,
+    "g_address": "日本、〒604-8042 京都府京都市中京区中之町５７７",
+    "lat": 35.0044705,
+    "lng": 135.7682799
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "手打そば 時屋",
+    "name_en": "Teuchi Soba Tokiya",
+    "area": "高知県 吾川郡いの町",
+    "url": "https://tabelog.com/kochi/A3901/A390103/39003162/",
+    "rating": 3.74,
+    "review_count_tabelog": 82,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri",
+        "dtl": "11:30 - 14:00 L.O. 13:30",
+        "dtl_text": "11:30 - 14:00 L.O. 13:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 15:00 L.O. 14:30",
+        "dtl_text": "11:30 - 15:00 L.O. 14:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every Tuesday (open on public holidays) and additionally for a few days each month, regardless of the day of the week (dates vary each month). Please contact us for details."
+    },
+    "google_rating": 4.1,
+    "google_reviews": 260,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJSdxRsTXWUTURc5Fp-AexcBw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/39003162-89eadffb39eea368d13d7ab0afc758580d1facb0d62f45f1547bfe98a6b12a25.jpg",
+    "place_id": "ChIJSdxRsTXWUTURc5Fp-AexcBw",
+    "g_name": "手打そば時屋",
+    "g_rating": 4.1,
+    "g_reviews": 260,
+    "g_address": "日本、〒781-2616 高知県吾川郡いの町中ノ川２９−１",
+    "lat": 33.767233,
+    "lng": 133.2877027
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "蕎麦きり吟",
+    "name_en": "Soba Kiri Gin",
+    "area": "広島県 段原一丁目駅",
+    "url": "https://tabelog.com/hiroshima/A3401/A340123/34014468/",
+    "rating": 3.63,
+    "review_count_tabelog": 237,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles), Tempura",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:30 L.O. 15:00",
+        "dtl_text": "11:30 - 15:30 L.O. 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 359,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmdSpWP6hWjUR9drF7XlL4q8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/34014468-a1a93481c6e88cabb89df4acff9adecb60aca4ebe7cdbb823f5d1c2240d230cd.jpg",
+    "place_id": "ChIJmdSpWP6hWjUR9drF7XlL4q8",
+    "g_name": "蕎麦きり吟",
+    "g_rating": 4.2,
+    "g_reviews": 359,
+    "g_address": "日本、〒732-0811 広島県広島市南区段原１丁目７−１８",
+    "lat": 34.3900266,
+    "lng": 132.4758465
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "福助",
+    "name_en": "Fukusuke",
+    "area": "富山県 砺波市",
+    "url": "https://tabelog.com/toyama/A1605/A160501/16000660/",
+    "rating": 3.72,
+    "review_count_tabelog": 259,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday",
+        "dtl": "11:30 - 14:30 L.O. Food 14:00",
+        "dtl_text": "11:30 - 14:30 L.O. Food 14:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Day after public holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (the following day if it falls on a public holiday)"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 492,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJsTAX40WH918RY9bhAFUdrdI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/16000660-37092c60ce12bd8ea081d593daf0916a3378b59ebc8f4d40a0f2eea633c0e069.jpg",
+    "place_id": "ChIJsTAX40WH918RY9bhAFUdrdI",
+    "g_name": "手打ち石臼挽き蕎麦 福助",
+    "g_rating": 4.1,
+    "g_reviews": 492,
+    "g_address": "日本、〒939-1345 富山県砺波市林９４７−１",
+    "lat": 36.64986,
+    "lng": 136.949971
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "けんぞう蕎麦",
+    "name_en": "Kenzou Soba",
+    "area": "福井県 吉田郡永平寺町",
+    "url": "https://tabelog.com/fukui/A1801/A180103/18000030/",
+    "rating": 3.7,
+    "review_count_tabelog": 825,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 14:00",
+        "dtl_text": "11:00 - 14:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (closed the following day if a holiday) (Business resumes on January 6)"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 1349,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJi5RLsumV-F8R1eyMRK24BuI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/18000030-ffce154d5c454c4ebc9618a1de77a052760d2341a1e05fcf5bdbed4b2c9a4e27.jpg",
+    "place_id": "ChIJi5RLsumV-F8R1eyMRK24BuI",
+    "g_name": "けんぞう蕎麦",
+    "g_rating": 4.1,
+    "g_reviews": 1349,
+    "g_address": "日本、〒910-1133 福井県吉田郡永平寺町松岡春日３丁目26−２６",
+    "lat": 36.08939360000001,
+    "lng": 136.297821
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "大阪 松下",
+    "name_en": "Osaka Matsushita",
+    "area": "大阪府 中崎町駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27086760/",
+    "rating": 3.67,
+    "review_count_tabelog": 498,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 20:00",
+        "dtl_text": "11:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/27086760-539cbfe8c05f9fd3827da57f866249a3a1a28ebde4d446dca021df01b42bb3a1.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "中国山地蕎麦工房 ふなつ",
+    "name_en": "China Sanchi Soba Kobo Funatsu",
+    "area": "島根県 松江市",
+    "url": "https://tabelog.com/shimane/A3201/A320101/32000063/",
+    "rating": 3.73,
+    "review_count_tabelog": 390,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles), Deep-fried foods",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 641,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJV30D6hEFVzUReLgayYAk2t8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/32000063-e0dbd3cf9ee16b47024c3641b62d30e413800f033263446913440df74f21dbdb.jpg",
+    "place_id": "ChIJV30D6hEFVzUReLgayYAk2t8",
+    "g_name": "中国山地蕎麦工房 ふなつ",
+    "g_rating": 4.3,
+    "g_reviews": 641,
+    "g_address": "日本、〒690-0875 島根県松江市外中原町１１７−６",
+    "lat": 35.4723139,
+    "lng": 133.0449516
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "蕎麦切り かんべえ",
+    "name_en": "Soba Kiri Kanbee",
+    "area": "福岡県 六本松駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400105/40036259/",
+    "rating": 3.74,
+    "review_count_tabelog": 147,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles), Hot Pot, Tempura",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 14:00 17:30 - 21:00",
+        "dtl_text": "17:30 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Last seating is at 19:30."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 129,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJyUrdXsSTQTUR_O2YYL8FXLE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/40036259-6b5e2b3c2b3006eea8673ed670e86b099e969f1cf3a09c54ed93462a8c444017.jpg",
+    "place_id": "ChIJyUrdXsSTQTUR_O2YYL8FXLE",
+    "g_name": "蕎麦切り かんべえ",
+    "g_rating": 4.2,
+    "g_reviews": 129,
+    "g_address": "日本、〒810-0035 福岡県福岡市中央区梅光園１丁目１−１",
+    "lat": 33.5746366,
+    "lng": 130.3775424
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "蕎麦 たかま",
+    "name_en": "Soba Takama",
+    "area": "大阪府 天神橋筋六丁目駅",
+    "url": "https://tabelog.com/osaka/A2701/A270103/27000530/",
+    "rating": 3.79,
+    "review_count_tabelog": 896,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30",
+        "dtl_text": "11:30 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 433,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJzZ7OobzmAGARYS2bj4Xr39A",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/27000530-c3f45d3e8cefb5e3fddb88ddd26f49fde62c0bec3b06eb4caf096f877fa51450.jpg",
+    "place_id": "ChIJzZ7OobzmAGARYS2bj4Xr39A",
+    "g_name": "蕎麦 たかま",
+    "g_rating": 4.4,
+    "g_reviews": 433,
+    "g_address": "日本、〒531-0041 大阪府大阪市北区天神橋７丁目１２−１４ グレーシィ天神橋 １号館",
+    "lat": 34.7140425,
+    "lng": 135.5111068
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "乾",
+    "name_en": "Inui",
+    "area": "大阪府 羽曳野市",
+    "url": "https://tabelog.com/osaka/A2708/A270801/27019556/",
+    "rating": 3.59,
+    "review_count_tabelog": 133,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Thu, Fri, Sat",
+        "dtl": "11:30 - 14:30",
+        "dtl_text": "11:30 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 136,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZZQEcQ7YAGAR7uJVpOK4RIY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/27019556-1b53dd29a654a478caeb84877a4c95b0836dd5176d03a144d32559736576ac98.jpg",
+    "place_id": "ChIJZZQEcQ7YAGAR7uJVpOK4RIY",
+    "g_name": "河州之蕎麦処 乾",
+    "g_rating": 4.5,
+    "g_reviews": 136,
+    "g_address": "日本、〒583-0871 大阪府羽曳野市野々上２丁目２３−１",
+    "lat": 34.5610816,
+    "lng": 135.5929422
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "十割手打 そば処 百百百百",
+    "name_en": "Juuwari Teuchi Soba Dokoro Dodomomo",
+    "area": "滋賀県 彦根市",
+    "url": "https://tabelog.com/shiga/A2503/A250303/25009845/",
+    "rating": 3.63,
+    "review_count_tabelog": 155,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:00",
+        "dtl_text": "11:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays and Wednesdays (open on public holidays)"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 330,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2W7kQZXVA2ARN4bkS4iBVjA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/25009845-8f0aa51bbf2073dd5aa74204fd68007dcb25773c0363290aa664f077b7a21a70.jpg",
+    "place_id": "ChIJ2W7kQZXVA2ARN4bkS4iBVjA",
+    "g_name": "そば処 百百百百",
+    "g_rating": 4.2,
+    "g_reviews": 330,
+    "g_address": "日本、〒522-0004 滋賀県彦根市鳥居本町１８０４",
+    "lat": 35.2789779,
+    "lng": 136.282818
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "なにわ翁",
+    "name_en": "Naniwa Okina",
+    "area": "大阪府 なにわ橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270102/27000029/",
+    "rating": 3.69,
+    "review_count_tabelog": 658,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 20:00",
+        "dtl_text": "11:30 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 598,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQD8GOjmAGARkcj_Xba6li8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/27000029-adcab16d8306097a2994eef95e8715d78e2b2dbd55d0ae249233afdba78ba7f0.jpg",
+    "place_id": "ChIJAQD8GOjmAGARkcj_Xba6li8",
+    "g_name": "なにわ 翁",
+    "g_rating": 4.4,
+    "g_reviews": 598,
+    "g_address": "日本、〒530-0047 大阪府大阪市北区西天満４丁目１−１８",
+    "lat": 34.6962383,
+    "lng": 135.5059279
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "出雲そば だんだん",
+    "name_en": "Izumo Soba Dandan",
+    "area": "奈良県 奈良市",
+    "url": "https://tabelog.com/nara/A2901/A290101/29001366/",
+    "rating": 3.71,
+    "review_count_tabelog": 105,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles), Noodles, Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 13:00 17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 144,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ342RNzI6AWARRYdFaegvrs0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/29001366-131dea8ef7c7b0a943d7b78c38f25f9248988a1d9065cdcfcb1a236da325fe5f.jpg",
+    "place_id": "ChIJ342RNzI6AWARRYdFaegvrs0",
+    "g_name": "出雲そば だんだん （季節の料理と酒とそば）",
+    "g_rating": 4.3,
+    "g_reviews": 144,
+    "g_address": "日本、〒630-8115 奈良県奈良市大宮町２丁目２−３４",
+    "lat": 34.6824465,
+    "lng": 135.8166556
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "西條そば 甲",
+    "name_en": "Saijo Soba Kinoe",
+    "area": "愛媛県 西条市",
+    "url": "https://tabelog.com/ehime/A3802/A380202/38001193/",
+    "rating": 3.75,
+    "review_count_tabelog": 153,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles), Oden",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 14:00",
+        "dtl_text": "11:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 459,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJlRL_t7XSUTURninf_kSdKd4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/38001193-82a6c752d19697d37b1867cfc9f1102c089bec8c56b4f20f286c13d15f4b6f43.jpg",
+    "place_id": "ChIJlRL_t7XSUTURninf_kSdKd4",
+    "g_name": "西條そば 甲",
+    "g_rating": 4.3,
+    "g_reviews": 459,
+    "g_address": "日本、〒793-0027 愛媛県西条市朔日市７８３−６",
+    "lat": 33.9276552,
+    "lng": 133.1783735
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "手打ち蕎麦・鮨 いまふく",
+    "name_en": "Teuchi Soba Sushi Imafuku",
+    "area": "京都府 藤森駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260601/26024211/",
+    "rating": 3.59,
+    "review_count_tabelog": 100,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Soba (Buckwheat noodles), Noodles",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Sun",
+        "dtl": "11:30 - 14:00 L.O. 13:30",
+        "dtl_text": "11:30 - 14:00 L.O. 13:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu, Fri, Sat",
+        "dtl": "11:30 - 14:00 L.O. 13:30 18:00 - 21:00 L.O. 20:30",
+        "dtl_text": "18:00 - 21:00 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 115,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKUYLVGwPAWARWKzqYTjQdp0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/26024211-68e00964c5c9372daf12df40c8cbf7254d34363c769ac0a2b08994f7f6423ea5.jpg",
+    "place_id": "ChIJKUYLVGwPAWARWKzqYTjQdp0",
+    "g_name": "手打ち蕎麦・鮨 いまふく",
+    "g_rating": 4.5,
+    "g_reviews": 115,
+    "g_address": "日本、〒612-0023 京都府京都市伏見区深草町通町２６",
+    "lat": 34.9602447,
+    "lng": 135.7684445
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "そばや哲心",
+    "name_en": "Soba ya Tesshin",
+    "area": "宮崎県 宮崎市",
+    "url": "https://tabelog.com/miyazaki/A4501/A450101/45000077/",
+    "rating": 3.69,
+    "review_count_tabelog": 176,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:00",
+        "dtl_text": "11:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 116,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJyQSEKW-3ODURMVIDtQv9XKY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/45000077-c67b8b05598f2bc29ffc92f146e9adb2cf0a1be8039b1adafe8f5ed156653436.jpg",
+    "place_id": "ChIJyQSEKW-3ODURMVIDtQv9XKY",
+    "g_name": "そばや 哲心",
+    "g_rating": 4.4,
+    "g_reviews": 116,
+    "g_address": "日本、〒880-0805 宮崎県宮崎市橘通東３丁目４−９",
+    "lat": 31.9159466,
+    "lng": 131.4235859
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "千束そば",
+    "name_en": "Chigusa Soba",
+    "area": "福井県 敦賀市",
+    "url": "https://tabelog.com/fukui/A1803/A180301/18000349/",
+    "rating": 3.64,
+    "review_count_tabelog": 367,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles), Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:30 L.O. 15:00 17:00 - 20:00 L.O. 19:40",
+        "dtl_text": "17:00 - 20:00 L.O. 19:40",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Thu",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "* Please note that the restaurant may close early if the soba is sold out for both lunch and dinner."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 771,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJxUiw_936AWARgtT05fcTS6c",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/18000349-95f6e5374b06663610573815aba9ac317be8f670f14162ce79c187e14c1e8d22.jpg",
+    "place_id": "ChIJxUiw_936AWARgtT05fcTS6c",
+    "g_name": "千束そば",
+    "g_rating": 4.2,
+    "g_reviews": 771,
+    "g_address": "日本、〒914-0052 福井県敦賀市清水町１丁目２０−８",
+    "lat": 35.6526309,
+    "lng": 136.0752529
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "手打ち蕎麦 いよ翁",
+    "name_en": "Teuchi Soba Iyo Okina",
+    "area": "愛媛県 伊予郡松前町",
+    "url": "https://tabelog.com/ehime/A3801/A380103/38007273/",
+    "rating": 3.75,
+    "review_count_tabelog": 239,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 514,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJszAb-GDuTzURl65oIFcWe8w",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/38007273-e23f657bf71db3b6698efdca6012062182c02b7a3f0d645d93a1ae79402caed2.jpg",
+    "place_id": "ChIJszAb-GDuTzURl65oIFcWe8w",
+    "g_name": "いよ翁",
+    "g_rating": 4.2,
+    "g_reviews": 514,
+    "g_address": "日本、〒791-3155 愛媛県伊予郡松前町鶴吉５−５",
+    "lat": 33.7830576,
+    "lng": 132.7443279
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "手打ち蕎麦 みたに",
+    "name_en": "Teuchi Soba Mitani",
+    "area": "滋賀県 長浜市",
+    "url": "https://tabelog.com/shiga/A2504/A250402/25001491/",
+    "rating": 3.71,
+    "review_count_tabelog": 260,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles), Shochu (Japanese spirits), Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 14:00 17:30 - 21:00",
+        "dtl_text": "17:30 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "11:30 - 14:00 17:30 - 20:30",
+        "dtl_text": "17:30 - 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays and the third Tuesday of each month."
+    },
+    "google_rating": 4.1,
+    "google_reviews": 269,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJOw8abz0pAmARrWjktbxppfI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/25001491-2c415bc64dcf4fd500b3f4d8d5c0e800ee63c374d893482f4f6f5acb3f21fbfb.jpg",
+    "place_id": "ChIJOw8abz0pAmARrWjktbxppfI",
+    "g_name": "手打ち蕎麦 みたに",
+    "g_rating": 4.1,
+    "g_reviews": 269,
+    "g_address": "日本、〒526-0056 滋賀県長浜市朝日町１−６",
+    "lat": 35.3788433,
+    "lng": 136.2673047
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "蕎麦屋 にこら",
+    "name_en": "Sobaya Nikola",
+    "area": "京都府 京都市上京区",
+    "url": "https://tabelog.com/kyoto/A2601/A260202/26000514/",
+    "rating": 3.67,
+    "review_count_tabelog": 293,
+    "price_dinner": "-",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Soba (Buckwheat noodles), Nihonshu (Japanese sake)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 17:30 - 21:00",
+        "dtl_text": "17:30 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "First and third Tuesdays (Details will be announced on the official website)"
+    },
+    "google_rating": 4,
+    "google_reviews": 221,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQChyeYHAWAR6nn6YsRCq0Q",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/26000514-f07b14a7a73d6638ea7e425153d1ba8027c666bfdeebfae15a9748c2a7e29f2d.jpg",
+    "place_id": "ChIJAQChyeYHAWAR6nn6YsRCq0Q",
+    "g_name": "蕎麦屋 にこら",
+    "g_rating": 4,
+    "g_reviews": 221,
+    "g_address": "日本、〒602-8446 京都府京都市上京区五辻町６９−３",
+    "lat": 35.0313008,
+    "lng": 135.7469822
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "信州そば むらた",
+    "name_en": "Shinshu Soba Murata",
+    "area": "福岡県 祇園駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400101/40000018/",
+    "rating": 3.68,
+    "review_count_tabelog": 766,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles), Japanese Cuisine, Tempura",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 21:00 L.O. 20:30",
+        "dtl_text": "11:30 - 21:00 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 1429,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJUeCMFcCRQTUR6cJMmA5JD5I",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/40000018-7c773ac430fb053b7200ff6a6200dad2f1e864ce7967068be2b5032843a2aa7b.jpg",
+    "place_id": "ChIJUeCMFcCRQTUR6cJMmA5JD5I",
+    "g_name": "信州そば むらた",
+    "g_rating": 4.3,
+    "g_reviews": 1429,
+    "g_address": "日本、〒812-0039 福岡県福岡市博多区冷泉町２−９−１",
+    "lat": 33.593704,
+    "lng": 130.4118319
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "そば切り 荒凡夫",
+    "name_en": "Soba Kiri Arabonpu",
+    "area": "大阪府 なにわ橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270103/27080059/",
+    "rating": 3.71,
+    "review_count_tabelog": 420,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Sat, Sun",
+        "dtl": "11:30 - 15:00",
+        "dtl_text": "11:30 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu, Fri",
+        "dtl": "11:30 - 15:00 18:00 - 20:00",
+        "dtl_text": "18:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Please check Twitter for updates; occasional closures may occur."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 145,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJoUJJOejmAGAROxH_i9ZMlHw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/27080059-cd69497521b9955042d054d4ed4fb2b9d0b4705a80dc338f6df1cfb5299cf1d8.jpg",
+    "place_id": "ChIJoUJJOejmAGAROxH_i9ZMlHw",
+    "g_name": "そば切り 荒凡夫",
+    "g_rating": 4.3,
+    "g_reviews": 145,
+    "g_address": "日本、〒530-0047 大阪府大阪市北区西天満４丁目１−１１ 昭栄ビル 南館",
+    "lat": 34.6963572,
+    "lng": 135.5053096
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "蕎麦人 秋",
+    "name_en": "Sobabito Aki",
+    "area": "大阪府 北浜駅",
+    "url": "https://tabelog.com/osaka/A2701/A270102/27003569/",
+    "rating": 3.67,
+    "review_count_tabelog": 730,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles), Izakaya (Tavern), Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 14:30 17:30 - 22:30 L.O. 21:30",
+        "dtl_text": "17:30 - 22:30 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 14:30 17:30 - 22:00 L.O. 21:00",
+        "dtl_text": "17:30 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Additionally, we will be closed during New Year and Golden Week."
+    },
+    "google_rating": 4,
+    "google_reviews": 515,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJh0L2wuDmAGARLicU73q2IiM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/27003569-c18372fe5d25e435cf98717a181905d281bf9f9093c7ef08f079201f72618e57.jpg",
+    "place_id": "ChIJh0L2wuDmAGARLicU73q2IiM",
+    "g_name": "蕎麦人 秋",
+    "g_rating": 4,
+    "g_reviews": 515,
+    "g_address": "日本、〒541-0044 大阪府大阪市中央区伏見町２丁目４−１０",
+    "lat": 34.6891933,
+    "lng": 135.5047225
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "蕎麦處 しみず",
+    "name_en": "Soba Tokoro Shimizu",
+    "area": "宮崎県 宮崎市",
+    "url": "https://tabelog.com/miyazaki/A4501/A450101/45000675/",
+    "rating": 3.7,
+    "review_count_tabelog": 307,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Fri, Sat",
+        "dtl": "11:30 - 14:30 L.O. 14:00 17:30 - 21:00 L.O. 20:30",
+        "dtl_text": "17:30 - 21:00 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu, Sun",
+        "dtl": "11:30 - 14:30 L.O. 14:00",
+        "dtl_text": "11:30 - 14:30 L.O. 14:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 237,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJbSNEDmu3ODUR6NxekCQyTPY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/45000675-486889d556ce4bcc8de3a1dc72be57d51803f0f3edbce248daf0a116d0be530a.jpg",
+    "place_id": "ChIJbSNEDmu3ODUR6NxekCQyTPY",
+    "g_name": "蕎麦處 しみず",
+    "g_rating": 4.3,
+    "g_reviews": 237,
+    "g_address": "日本、〒880-0805 宮崎県宮崎市橘通東２丁目６−４",
+    "lat": 31.9129935,
+    "lng": 131.4232142
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "まき埜",
+    "name_en": "Makino",
+    "area": "大阪府 福島（ＪＲ西日本）駅",
+    "url": "https://tabelog.com/osaka/A2701/A270108/27002682/",
+    "rating": 3.75,
+    "review_count_tabelog": 913,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles), Izakaya (Tavern), Tempura",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri",
+        "dtl": "11:30 - 14:00 L.O. 13:45 18:00 - 21:30 L.O. 21:00",
+        "dtl_text": "18:00 - 21:30 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 14:30 L.O. 14:00",
+        "dtl_text": "11:30 - 14:30 L.O. 14:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 381,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVUVNormAGAR0gmxAykh1Rk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/27002682-00b14ba95fb519b1f1526d2a9b33e38c978df50d72d1923db3285824319cb5e3.jpg",
+    "place_id": "ChIJVVUVNormAGAR0gmxAykh1Rk",
+    "g_name": "蕎麦 まき埜",
+    "g_rating": 4.3,
+    "g_reviews": 381,
+    "g_address": "日本、〒553-0003 大阪府大阪市福島区福島６丁目１１−１３ シャトー 西梅田",
+    "lat": 34.7001832,
+    "lng": 135.489407
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "ろあん 大阪堂島店",
+    "name_en": "Roan Osaka Dojima Ten",
+    "area": "大阪府 北新地駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27089279/",
+    "rating": 3.66,
+    "review_count_tabelog": 91,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "-",
+    "sub_categories": "Soba (Buckwheat noodles), Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 01:00 L.O. 00:30",
+        "dtl_text": "18:00 - 01:00 L.O. 00:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.7,
+    "google_reviews": 13,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJBzXwyYPnAGARdSkCocpCg40",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/27089279-0270257a561593700a45d0d7c9d7108d36381d5b1dcfe494c8428215257aa126.jpg",
+    "place_id": "ChIJBzXwyYPnAGARdSkCocpCg40",
+    "g_name": "ろあん 大阪堂島店",
+    "g_rating": 4.7,
+    "g_reviews": 13,
+    "g_address": "日本、〒530-0003 大阪府大阪市北区堂島１丁目３−３３ 新地 萬年ビル B1F",
+    "lat": 34.69676010000001,
+    "lng": 135.4982745
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "きょうや",
+    "name_en": "Kyouya",
+    "area": "福井県 福井市",
+    "url": "https://tabelog.com/fukui/A1801/A180101/18002814/",
+    "rating": 3.77,
+    "review_count_tabelog": 348,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "11:00 - 15:00 L.O. 14:30",
+        "dtl_text": "11:00 - 15:00 L.O. 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:00 L.O. 13:30 17:00 - 20:00 L.O. 19:30",
+        "dtl_text": "17:00 - 20:00 L.O. 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 595,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJLzM5siS8-F8RVOIyOz_zcoU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/18002814-d40334d7c239ae338d065037a78472516115b1ccabcba97a88bf341a7004a4b3.jpg",
+    "place_id": "ChIJLzM5siS8-F8RVOIyOz_zcoU",
+    "g_name": "きょうや",
+    "g_rating": 4.3,
+    "g_reviews": 595,
+    "g_address": "日本、〒918-8236 福井県福井市和田中２丁目９３６−２",
+    "lat": 36.0471525,
+    "lng": 136.2490533
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "神通町 田村",
+    "name_en": "Jintsu Cho Tamura",
+    "area": "富山県 富山市",
+    "url": "https://tabelog.com/toyama/A1601/A160101/16000581/",
+    "rating": 3.75,
+    "review_count_tabelog": 221,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:30",
+        "dtl_text": "11:00 - 15:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The 10th, 11th, 20th, 21st, 30th, and 31st of every month."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 376,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJB2uOhXea918R02yBLbg9o1Y",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/16000581-eebe125dea3de76f4996abb62b545108cccb9ce1e0e095f0c1f290affaae7585.jpg",
+    "place_id": "ChIJB2uOhXea918R02yBLbg9o1Y",
+    "g_name": "神通町 田村",
+    "g_rating": 4.3,
+    "g_reviews": 376,
+    "g_address": "日本、〒930-0009 富山県富山市神通町２丁目１−３",
+    "lat": 36.7030253,
+    "lng": 137.2058245
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "鴨と醸し 鼓道",
+    "name_en": "Kamo to Kamoshi Kodou",
+    "area": "大阪府 緑地公園駅",
+    "url": "https://tabelog.com/osaka/A2706/A270601/27098528/",
+    "rating": 3.63,
+    "review_count_tabelog": 547,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles), Chicken dishes, Oyako-don (Chicken and egg bowl)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 L.O. 14:30 17:30 - 21:30 L.O. 21:00",
+        "dtl_text": "17:30 - 21:30 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every Wednesday"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 579,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJC8F11NrkAGARVhK-zm7cAVY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/27098528-31cf874204e1817bbec53506fcf2e195b2129523d6013a969944d2cc09bb43e7.jpg",
+    "place_id": "ChIJC8F11NrkAGARVhK-zm7cAVY",
+    "g_name": "鴨と醸し 鼓道 緑地公園店",
+    "g_rating": 4.3,
+    "g_reviews": 579,
+    "g_address": "日本、〒565-0851 大阪府吹田市千里山西４丁目３７−３ 1F",
+    "lat": 34.7779757,
+    "lng": 135.4966039
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "蕎麦 やすたけ",
+    "name_en": "Soba Yasutake",
+    "area": "福井県 福井市",
+    "url": "https://tabelog.com/fukui/A1801/A180101/18000999/",
+    "rating": 3.73,
+    "review_count_tabelog": 461,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles), Tempura, Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:30 L.O. 15:00 17:00 - 21:30 L.O. 21:00",
+        "dtl_text": "17:00 - 21:30 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "11:00 - 15:30 L.O. 15:00",
+        "dtl_text": "11:00 - 15:30 L.O. 15:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "2nd and 4th Sundays"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 769,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJnYSDgBq_-F8RSiqJLscG1Z8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/18000999-eb608949567749da100d991ab105dc4b819490add2c248872436811e4c9548ff.jpg",
+    "place_id": "ChIJnYSDgBq_-F8RSiqJLscG1Z8",
+    "g_name": "蕎麦 やすたけ",
+    "g_rating": 4.4,
+    "g_reviews": 769,
+    "g_address": "日本、〒910-0017 福井県福井市文京７丁目９−３５ 蕎麦やすたけ",
+    "lat": 36.0755551,
+    "lng": 136.1949997
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "手打蕎麦まろ",
+    "name_en": "Teuchi Soba Maro",
+    "area": "愛媛県 松山市",
+    "url": "https://tabelog.com/ehime/A3801/A380101/38005468/",
+    "rating": 3.56,
+    "review_count_tabelog": 278,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 14:45 17:30 - 21:30",
+        "dtl_text": "17:30 - 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 192,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2a52O-zlTzURoyD9CGNCOWM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/38005468-ebf881c8edf65d88a762f1938faffaa30a7036e4203229d47c63043527e95b9a.jpg",
+    "place_id": "ChIJ2a52O-zlTzURoyD9CGNCOWM",
+    "g_name": "手打蕎麦 まろ",
+    "g_rating": 4,
+    "g_reviews": 192,
+    "g_address": "日本、〒790-0004 愛媛県松山市大街道２丁目５−９",
+    "lat": 33.8407685,
+    "lng": 132.7703692
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "砂屋",
+    "name_en": "Suna Ya",
+    "area": "島根県 出雲市",
+    "url": "https://tabelog.com/shimane/A3202/A320201/32004018/",
+    "rating": 3.65,
+    "review_count_tabelog": 493,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "10:30 - 15:30",
+        "dtl_text": "10:30 - 15:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Third Monday of each month"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 561,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJLVIKZJhcVzURDVNXFD3Nxac",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/32004018-fa0b61b5e4474cc74e6f8533080adb4372b701cccc6072ebdf0af77578be5833.jpg",
+    "place_id": "ChIJLVIKZJhcVzURDVNXFD3Nxac",
+    "g_name": "砂屋",
+    "g_rating": 4.2,
+    "g_reviews": 561,
+    "g_address": "日本、〒699-0711 島根県出雲市大社町杵築南７７２ 2F",
+    "lat": 35.3961197,
+    "lng": 132.6867408
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "そばんち",
+    "name_en": "Soban Chi",
+    "area": "兵庫県 丹波市",
+    "url": "https://tabelog.com/hyogo/A2807/A280701/28009027/",
+    "rating": 3.67,
+    "review_count_tabelog": 274,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Soba (Buckwheat noodles), Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:00 - 15:00 L.O. Food 14:30 Drinks 14:00",
+        "dtl_text": "11:00 - 15:00 L.O. Food 14:30 Drinks 14:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "11:00 - 15:00 L.O. Food 14:30",
+        "dtl_text": "11:00 - 15:00 L.O. Food 14:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon - Sun": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 424,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJYULE-0IFAGARYxHRK1WuRYo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/28009027-984c5432b889eaf3a8eee42f5d6be31ba80e9c3ccbfb25ea190861ff51f64291.jpg",
+    "place_id": "ChIJYULE-0IFAGARYxHRK1WuRYo",
+    "g_name": "そばんち",
+    "g_rating": 4.1,
+    "g_reviews": 424,
+    "g_address": "日本、〒669-4323 兵庫県丹波市市島町梶原１２５",
+    "lat": 35.1965883,
+    "lng": 135.1325996
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "守破離 谷町四丁目店",
+    "name_en": "Shuhari Tanimachi Yonchome Ten",
+    "area": "大阪府 谷町四丁目駅",
+    "url": "https://tabelog.com/osaka/A2701/A270104/27017751/",
+    "rating": 3.65,
+    "review_count_tabelog": 1044,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles), Tempura",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 L.O. 14:30 17:30 - 22:00 L.O. Food 20:30 Drinks 21:00",
+        "dtl_text": "17:30 - 22:00 L.O. Food 20:30 Drinks 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round (closed for New Year holidays)"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 1110,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJE65QRyXnAGAR5QXPR2mN9PI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/27017751-9449a9601b9aeddf526946914988aa192ebed2dddc80ba0f2a8ab759cbb46764.jpg",
+    "place_id": "ChIJE65QRyXnAGAR5QXPR2mN9PI",
+    "g_name": "手打蕎麦 守破離 谷町店",
+    "g_rating": 4.1,
+    "g_reviews": 1110,
+    "g_address": "日本、〒540-0028 大阪府大阪市中央区常盤町１丁目３−２０ 安藤ビル 1F",
+    "lat": 34.6822536,
+    "lng": 135.5145653
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "そば蔵 谷川",
+    "name_en": "Soba Kura Tanigawa",
+    "area": "福井県 越前市",
+    "url": "https://tabelog.com/fukui/A1802/A180202/18000587/",
+    "rating": 3.85,
+    "review_count_tabelog": 296,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00",
+        "dtl_text": "11:30 - 14:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every Monday and Tuesday, 1st, 3rd, and 5th Sundays"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 378,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJK8_5ljSs-F8RBOOMVKlKuj0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/18000587-3f67f2d07be1b9715968fa437dc5e539748709b4546c0d7b8ddf587125b10817.jpg",
+    "place_id": "ChIJK8_5ljSs-F8RBOOMVKlKuj0",
+    "g_name": "そば蔵 谷川",
+    "g_rating": 4.3,
+    "g_reviews": 378,
+    "g_address": "日本、〒915-0815 福井県越前市深草２丁目９−２８",
+    "lat": 35.9071923,
+    "lng": 136.1599921
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "そば処 とき",
+    "name_en": "Soba Dokoro Toki",
+    "area": "大阪府 北新地駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27000217/",
+    "rating": 3.68,
+    "review_count_tabelog": 777,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "11:30 - 14:00 L.O. 13:50 18:00 - 00:00 L.O. 23:45",
+        "dtl_text": "18:00 - 00:00 L.O. 23:45"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "11:30 - 14:00 L.O. 13:50 18:00 - 22:00 L.O. 21:45",
+        "dtl_text": "18:00 - 22:00 L.O. 21:45"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu, Fri",
+        "dtl": "11:30 - 14:00 L.O. 13:50 18:00 - 01:00 L.O. 00:45",
+        "dtl_text": "18:00 - 01:00 L.O. 00:45"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:30 - 14:00",
+        "dtl_text": "11:30 - 14:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open on the 2nd and 4th Saturdays."
+    },
+    "google_rating": 4.1,
+    "google_reviews": 355,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQDQ3e3mAGARpQ1MxOMt1Dc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/27000217-3bb24a4cf0d8e7c8eaf5055e0c8692532a1c4972dd0ede1b85640fbb5ab7d302.jpg",
+    "place_id": "ChIJAQDQ3e3mAGARpQ1MxOMt1Dc",
+    "g_name": "そば處 とき",
+    "g_rating": 4.1,
+    "g_reviews": 355,
+    "g_address": "日本、〒530-0003 大阪府大阪市北区堂島１丁目３−４ 谷安ビル 1F",
+    "lat": 34.6964483,
+    "lng": 135.4982009
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "十割そば処 山獲",
+    "name_en": "Juuwari Soba Dokoro Yamadori",
+    "area": "兵庫県 三田市",
+    "url": "https://tabelog.com/hyogo/A2807/A280703/28006795/",
+    "rating": 3.51,
+    "review_count_tabelog": 223,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Soba (Buckwheat noodles), Meat dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30",
+        "dtl_text": "11:30 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 270,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVURBKFnAGARVCXswtvRt6o",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/28006795-edd917b15cc27ab65e4d85144099bf667621a2b12a9bf962a3d4cd6ed1f8d5e7.jpg",
+    "place_id": "ChIJVVURBKFnAGARVCXswtvRt6o",
+    "g_name": "山獲",
+    "g_rating": 4,
+    "g_reviews": 270,
+    "g_address": "日本、〒669-1413 兵庫県三田市下槻瀬５０−１",
+    "lat": 34.9383873,
+    "lng": 135.2779055
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "サラザン",
+    "name_en": "Sarrasin",
+    "area": "広島県 福山市",
+    "url": "https://tabelog.com/hiroshima/A3403/A340308/34013752/",
+    "rating": 3.76,
+    "review_count_tabelog": 168,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles), Meat dishes, Hot Pot",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 13:30 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "11:30 - 13:30",
+        "dtl_text": "11:30 - 13:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "*During lunch hours, we prioritize reservations starting at 11:30. After that, we serve on a first-come, first-served basis until we run out of ingredients. We kindly ask for a maximum of 4 guests per group. For groups of 5 or more, please make a reservation for the menu (available only at 11:30) and order soba for the number of guests."
+    },
+    "google_rating": 4,
+    "google_reviews": 121,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2yklmP0QUTURqQDBxA8IDIo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/34013752-f1b55e69caaaebca5afab27e0b2205b9ebed7f5202013053411ca0b6b5ef66d8.jpg",
+    "place_id": "ChIJ2yklmP0QUTURqQDBxA8IDIo",
+    "g_name": "蕎麦河内鴨料理の店『Sarrasin さらざん』",
+    "g_rating": 4,
+    "g_reviews": 121,
+    "g_address": "日本、〒720-0807 広島県福山市明治町２−３２",
+    "lat": 34.4834402,
+    "lng": 133.3669557
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "雪花山房",
+    "name_en": "Sekka Sanbo",
+    "area": "熊本県 熊本市中央区",
+    "url": "https://tabelog.com/kumamoto/A4301/A430101/43001170/",
+    "rating": 3.77,
+    "review_count_tabelog": 235,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles), Tofu dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 L.O. 14:00 17:30 - 21:30 L.O. 21:00",
+        "dtl_text": "17:30 - 21:30 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 285,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJD853Fwn0QDURZR5b8nnbDzo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/43001170-29f3a87208745a85a0f5b34b8099e0d2e3dcd85dc2295683edac2b00daef0d3f.jpg",
+    "place_id": "ChIJD853Fwn0QDURZR5b8nnbDzo",
+    "g_name": "上乃裏通り雪花山房",
+    "g_rating": 4.2,
+    "g_reviews": 285,
+    "g_address": "日本、〒860-0845 熊本県熊本市中央区上通町７−２２",
+    "lat": 32.8049768,
+    "lng": 130.7122309
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "手打ち蕎麦 蕎麦屋すみ蔵",
+    "name_en": "Teuchi Soba Sobaya Sumikura",
+    "area": "滋賀県 大津市",
+    "url": "https://tabelog.com/shiga/A2501/A250101/25008216/",
+    "rating": 3.57,
+    "review_count_tabelog": 166,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles), Tempura, Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon - Fri": {},
+        "Sat, Sun & Public Holidays": {
+          "Weekends & Holidays only": "Hours may vary during the Ishiyama-dera Temple light-up events."
+        }
+      },
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 302,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJW2nHo0ttAWARJJCSpbhNcI0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/25008216-721341aa51c81a11daf3fb196b75ff4774757f00411a2eac1e4cf4740c2ce39e.jpg",
+    "place_id": "ChIJW2nHo0ttAWARJJCSpbhNcI0",
+    "g_name": "手打ち蕎麦 蕎麦屋すみ蔵",
+    "g_rating": 4.1,
+    "g_reviews": 302,
+    "g_address": "日本、〒520-0861 滋賀県大津市石山寺１丁目３−１７",
+    "lat": 34.9617711,
+    "lng": 135.9067971
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "北野坂 こばやし",
+    "name_en": "Kitanosaka Kobayashi",
+    "area": "兵庫県 三宮（神戸市営）駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280101/28045408/",
+    "rating": 3.67,
+    "review_count_tabelog": 372,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 15:00 17:30 - 20:00",
+        "dtl_text": "17:30 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "11:30 - 15:00",
+        "dtl_text": "11:30 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Last order at 19:30, closing at 20:00."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 141,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAszeaOAGAR8rCXfCnskQc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/28045408-edecd70a92739676685463edc1ca5858e6c7bc94235d51f26dd00f69b1f6e499.jpg",
+    "place_id": "ChIJAQAszeaOAGAR8rCXfCnskQc",
+    "g_name": "北野坂こばやし",
+    "g_rating": 4.4,
+    "g_reviews": 141,
+    "g_address": "日本、〒650-0004 兵庫県神戸市中央区中山手通１丁目２２−１０ 象ビル 1F",
+    "lat": 34.6979043,
+    "lng": 135.1917363
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "蕎麦 ろうじな",
+    "name_en": "Soba Roujina",
+    "area": "京都府 京都市役所前駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260202/26023992/",
+    "rating": 3.66,
+    "review_count_tabelog": 514,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 L.O. 14:00 17:30 - 20:00",
+        "dtl_text": "17:30 - 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Reservations": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 48,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJWaU-cwAJAWAR0odyq4lMkfE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/26023992-2b10d23d167aa423af76ba176c3bb8b13e58d62a948d7582da4b84930b0aab74.jpg",
+    "place_id": "ChIJWaU-cwAJAWAR0odyq4lMkfE",
+    "g_name": "蕎麦 ろうじな",
+    "g_rating": 4.1,
+    "g_reviews": 48,
+    "g_address": "日本、〒604-0917 京都府京都市中京区丸屋町６９１",
+    "lat": 35.0150164,
+    "lng": 135.7668784
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "蕎麦割烹 蕎麦藤",
+    "name_en": "Soba Kappou Soba Fuji",
+    "area": "大阪府 蛍池駅",
+    "url": "https://tabelog.com/osaka/A2706/A270601/27126125/",
+    "rating": 3.65,
+    "review_count_tabelog": 100,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Soba (Buckwheat noodles), Hot Pot, Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 21:00",
+        "dtl_text": "11:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.8,
+    "google_reviews": 96,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJp3TMcxPxAGARy0BxG2vmzik",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/27126125-27f382a6c9356f4c9522bc779216292eeaa26ed69972659dac80f6d8168be8b5.jpg",
+    "place_id": "ChIJp3TMcxPxAGARy0BxG2vmzik",
+    "g_name": "蕎麦割烹 蕎麦藤",
+    "g_rating": 3.8,
+    "g_reviews": 96,
+    "g_address": "日本、〒560-0041 大阪府豊中市清風荘１丁目７−１７",
+    "lat": 34.8016139,
+    "lng": 135.4496958
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "天神房丸新",
+    "name_en": "Tenjin Boumarushin",
+    "area": "鹿児島県 鹿児島市",
+    "url": "https://tabelog.com/kagoshima/A4601/A460101/46000046/",
+    "rating": 3.57,
+    "review_count_tabelog": 265,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 21:30 L.O. 21:00",
+        "dtl_text": "11:00 - 21:30 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 282,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJD9B0AwBePjURcZXGEhMIz6w",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/46000046-dc58e1bc2f13924a8b820bf19ac295cc6e6cdf257bc5cae2ba31de60f00fc2a3.jpg",
+    "place_id": "ChIJD9B0AwBePjURcZXGEhMIz6w",
+    "g_name": "天神房丸新",
+    "g_rating": 4.1,
+    "g_reviews": 282,
+    "g_address": "日本、〒892-0842 鹿児島県鹿児島市東千石町８−２２",
+    "lat": 31.5916577,
+    "lng": 130.5538786
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "手打ちそば はやし",
+    "name_en": "Teuchi Soba Hayashi",
+    "area": "奈良県 北葛城郡広陵町",
+    "url": "https://tabelog.com/nara/A2903/A290301/29000088/",
+    "rating": 3.7,
+    "review_count_tabelog": 197,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Sat",
+        "dtl": "11:30 - 14:30 L.O. 14:00 17:30 - 21:00 L.O. 20:00",
+        "dtl_text": "17:30 - 21:00 L.O. 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Fri, Sun",
+        "dtl": "11:30 - 14:30 L.O. 14:00",
+        "dtl_text": "11:30 - 14:30 L.O. 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Closed regardless of public holidays"
+    },
+    "google_rating": 4,
+    "google_reviews": 215,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ961KWV0uAWAR0hdcKIIE2WE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/29000088-562321c09699dfc14427b64a7d479f3e143a8c10109724459a81ea4c005d6e57.jpg",
+    "place_id": "ChIJ961KWV0uAWAR0hdcKIIE2WE",
+    "g_name": "手打ちそば はやし",
+    "g_rating": 4,
+    "g_reviews": 215,
+    "g_address": "日本、〒635-0831 奈良県北葛城郡広陵町馬見北８丁目６−６",
+    "lat": 34.5541151,
+    "lng": 135.7228393
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "久庵",
+    "name_en": "Kyuan",
+    "area": "兵庫県 兵庫駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280109/28002313/",
+    "rating": 3.62,
+    "review_count_tabelog": 240,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles), Donburi (Rice bowl), Tempura",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00",
+        "dtl_text": "11:30 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": 3.9,
+    "google_reviews": 134,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJa4hXF56PAGARyQEDmrpC00A",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/28002313-7d161e6a7f45ffbf3ce5bee4590baa4a646f540dc0429f63d8f825fea849754e.jpg",
+    "place_id": "ChIJa4hXF56PAGARyQEDmrpC00A",
+    "g_name": "久庵",
+    "g_rating": 3.9,
+    "g_reviews": 134,
+    "g_address": "日本、〒652-0804 兵庫県神戸市兵庫区塚本通６丁目１−３ ＳＵＮつかろくビル",
+    "lat": 34.6698688,
+    "lng": 135.1644444
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "手打ちそば 遊山",
+    "name_en": "Teuchi Soba Yusan",
+    "area": "徳島県 徳島市",
+    "url": "https://tabelog.com/tokushima/A3601/A360101/36006466/",
+    "rating": 3.67,
+    "review_count_tabelog": 103,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 15:00",
+        "dtl_text": "11:30 - 15:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 238,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJNSIRrh8NUzURbNxZEPPAjTU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/36006466-551262a624dd770a4c37879690033128ccab36745cb057f4d61596bba0d69880.jpg",
+    "place_id": "ChIJNSIRrh8NUzURbNxZEPPAjTU",
+    "g_name": "手打ちそば 遊山",
+    "g_rating": 4.3,
+    "g_reviews": 238,
+    "g_address": "日本、〒770-8070 徳島県徳島市八万町上長谷１０２−１",
+    "lat": 34.0506006,
+    "lng": 134.5144053
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "そば切り からに",
+    "name_en": "Soba Kiri Karani",
+    "area": "大阪府 福島（ＪＲ西日本）駅",
+    "url": "https://tabelog.com/osaka/A2701/A270108/27004511/",
+    "rating": 3.62,
+    "review_count_tabelog": 313,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:00 17:00 - 20:00",
+        "dtl_text": "17:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Fourth Wednesday of each month"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 211,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVQY2GmTmAGARfQ9uzVCHJv8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/27004511-f37baf852cac8cd18f82787201bdfa9e446f43105978f37b340f19d5bfe81fc3.jpg",
+    "place_id": "ChIJVQY2GmTmAGARfQ9uzVCHJv8",
+    "g_name": "そば切り からに",
+    "g_rating": 4.2,
+    "g_reviews": 211,
+    "g_address": "日本、〒553-0002 大阪府大阪市福島区鷺洲２丁目１１−２６",
+    "lat": 34.6979944,
+    "lng": 135.4819599
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "盛安",
+    "name_en": "Moriyasu",
+    "area": "福井県 坂井市",
+    "url": "https://tabelog.com/fukui/A1801/A180102/18000036/",
+    "rating": 3.71,
+    "review_count_tabelog": 232,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles), Udon (Wheat noodles), Donburi (Rice bowl)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri",
+        "dtl": "11:00 - 14:00 L.O. 13:45",
+        "dtl_text": "11:00 - 14:00 L.O. 13:45",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 14:00 L.O. 13:45 17:00 - 20:00 L.O. 19:00",
+        "dtl_text": "17:00 - 20:00 L.O. 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 437,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJnT2UE67o-F8RJ0dCRPw3mIQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/18000036-03959b906b231e33b4e81e885d2ec8e4dc19f916b594981422c0cadfcb239869.jpg",
+    "place_id": "ChIJnT2UE67o-F8RJ0dCRPw3mIQ",
+    "g_name": "そば処 盛安",
+    "g_rating": 4,
+    "g_reviews": 437,
+    "g_address": "日本、〒913-0046 福井県坂井市三国町北本町３丁目２−３０",
+    "lat": 36.215744,
+    "lng": 136.1468132
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "蕎麦前 中手 とうは",
+    "name_en": "Soba Mae Nakate Touha",
+    "area": "兵庫県 県庁前駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280102/28065454/",
+    "rating": 3.7,
+    "review_count_tabelog": 102,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:30 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 172,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJz0AecA2FAGARQe_wVAz0Enk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/28065454-a2a80f0566bbc034f5adb3c7eaeca7f445e4d71de8504091c4490b9a48ab89b0.jpg",
+    "place_id": "ChIJz0AecA2FAGARQe_wVAz0Enk",
+    "g_name": "蕎麦前 中手 とうは",
+    "g_rating": 4.2,
+    "g_reviews": 172,
+    "g_address": "日本、〒650-0004 兵庫県神戸市中央区中山手通４丁目２２−１６ ノベラ中山手",
+    "lat": 34.6933134,
+    "lng": 135.183924
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "手打 神代そば",
+    "name_en": "Teuchi Kamiyo Soba",
+    "area": "島根県 松江市",
+    "url": "https://tabelog.com/shimane/A3201/A320101/32000016/",
+    "rating": 3.75,
+    "review_count_tabelog": 831,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 868,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmX0L3wEFVzURw6Q8ZCamVoA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/32000016-a99c932b0c40502d1f11a4b2a28cee335f6cdcb2d20e7fc69ff8bd6c009cf5d6.jpg",
+    "place_id": "ChIJmX0L3wEFVzURw6Q8ZCamVoA",
+    "g_name": "神代そば",
+    "g_rating": 4.3,
+    "g_reviews": 868,
+    "g_address": "日本、〒690-0872 島根県松江市奥谷町３２４−５",
+    "lat": 35.4793041,
+    "lng": 133.0484132
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "そば切り文目堂",
+    "name_en": "Soba Kiri Ayame Do",
+    "area": "大阪府 谷町六丁目駅",
+    "url": "https://tabelog.com/osaka/A2701/A270204/27040266/",
+    "rating": 3.72,
+    "review_count_tabelog": 731,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 14:30 17:30 - 20:30",
+        "dtl_text": "17:30 - 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Third Monday of each month."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 483,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJu6_RYDfnAGARqv0lL34SEgk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/27040266-9c5f33b388ce974b991f07e8aa5d3ba8c125aea79aa4974ca6eaab8d50d1ef23.jpg",
+    "place_id": "ChIJu6_RYDfnAGARqv0lL34SEgk",
+    "g_name": "蕎麦 文目堂",
+    "g_rating": 4.2,
+    "g_reviews": 483,
+    "g_address": "日本、〒542-0061 大阪府大阪市中央区安堂寺町２丁目２−２６",
+    "lat": 34.6764195,
+    "lng": 135.5160376
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "里味庵",
+    "name_en": "Satomi An",
+    "area": "佐賀県 唐津市",
+    "url": "https://tabelog.com/saga/A4102/A410201/41001368/",
+    "rating": 3.67,
+    "review_count_tabelog": 154,
+    "price_dinner": "-",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "10:00 - 13:00",
+        "dtl_text": "10:00 - 13:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 295,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJwMPioraQTURqBEB1vB7JHg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/41001368-20ac2ac6bf80ff327ae9ccb764ab6f3a8f913edefda06a5df23b3659086e1390.jpg",
+    "place_id": "ChIJJwMPioraQTURqBEB1vB7JHg",
+    "g_name": "そば処 里味庵",
+    "g_rating": 4.2,
+    "g_reviews": 295,
+    "g_address": "日本、〒847-1108 佐賀県唐津市七山白木４１４",
+    "lat": 33.4468012,
+    "lng": 130.1052875
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "ろあん松田 篠山店",
+    "name_en": "Roan Matsuda Sasayama Ten",
+    "area": "兵庫県 丹波篠山市",
+    "url": "https://tabelog.com/hyogo/A2807/A280702/28000070/",
+    "rating": 4.0,
+    "review_count_tabelog": 233,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Soba (Buckwheat noodles), Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays and Wednesdays"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 97,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJbVXWOs8UAGAR4sjWfZTqBj4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/28000070-99ff177dc461301ba5ef5a18ce0cfe7259dfa21f4d524e06969b67fa695b4aa8.jpg",
+    "place_id": "ChIJbVXWOs8UAGAR4sjWfZTqBj4",
+    "g_name": "ろあん松田 篠山店",
+    "g_rating": 4.5,
+    "g_reviews": 97,
+    "g_address": "日本、〒669-2361 兵庫県丹波篠山市丸山１５４",
+    "lat": 35.1061455,
+    "lng": 135.2485101
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "達磨",
+    "name_en": "Daruma",
+    "area": "富山県 富山市",
+    "url": "https://tabelog.com/toyama/A1601/A160101/16000054/",
+    "rating": 3.56,
+    "review_count_tabelog": 154,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles), Tempura",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Sat, Sun",
+        "dtl": "11:30 - 14:30",
+        "dtl_text": "11:30 - 14:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu, Fri",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJI4YnuTGQ918R2cifgQGRa4Q",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/16000054-4402e398645824134070740f308dd3078a28575f737a1ae3e42956684fc1caff.jpg",
+    "place_id": "ChIJI4YnuTGQ918R2cifgQGRa4Q",
+    "g_name": "〒939-8216 富山県富山市黒瀬北町１丁目８−７ 達磨",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "日本、〒939-8216 富山県富山市黒瀬北町１丁目８−７ 達磨",
+    "lat": 36.6687957,
+    "lng": 137.2004763
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "淡路翁",
+    "name_en": "Awaji Okina",
+    "area": "兵庫県 淡路市",
+    "url": "https://tabelog.com/hyogo/A2806/A280601/28038156/",
+    "rating": 3.53,
+    "review_count_tabelog": 304,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:00",
+        "dtl_text": "11:00 - 14:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (Open on public holidays; please note that a substitute holiday may follow.)"
+    },
+    "google_rating": 4,
+    "google_reviews": 368,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9_3TiWXMVDUREQixLoM8RHA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/28038156-ce6f823e0016e42164f2aeb68325b0e391cc1810233f9febd64a5f61d9f54d40.jpg",
+    "place_id": "ChIJ9_3TiWXMVDUREQixLoM8RHA",
+    "g_name": "淡路翁",
+    "g_rating": 4,
+    "g_reviews": 368,
+    "g_address": "日本、〒656-1732 兵庫県淡路市小田１１５７",
+    "lat": 34.52098,
+    "lng": 134.9534339
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "鄙いまとみ",
+    "name_en": "Hinai Matomi",
+    "area": "福岡県 渡辺通駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400103/40000112/",
+    "rating": 3.69,
+    "review_count_tabelog": 188,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Soba (Buckwheat noodles), Japanese Cuisine, Hot Pot",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 13:00 17:30 - 21:30",
+        "dtl_text": "17:30 - 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "11:30 - 13:00 18:00 - 20:00",
+        "dtl_text": "18:00 - 20:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 153,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJb9og-JuRQTURtGRj1k6WMVo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/40000112-b3aba3ed6661fa10742a3fe1214a231fdbea81c82738eab35417175077a61115.jpg",
+    "place_id": "ChIJb9og-JuRQTURtGRj1k6WMVo",
+    "g_name": "鄙いまとみ",
+    "g_rating": 4.1,
+    "g_reviews": 153,
+    "g_address": "日本、〒810-0011 福岡県福岡市中央区高砂１丁目２２−９",
+    "lat": 33.5811966,
+    "lng": 130.4051421
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "隆兵そば",
+    "name_en": "Ryuhei Soba",
+    "area": "京都府 桂駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260401/26038921/",
+    "rating": 3.75,
+    "review_count_tabelog": 133,
+    "price_dinner": "-",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 18:30 L.O. 17:50",
+        "dtl_text": "11:00 - 18:30 L.O. 17:50",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The 18th of every month."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 170,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJUX8E-PYGAWAR8HvKjC353ys",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/26038921-a6b63ac6cc7bb2a8f3d4d3ca1eed0ffaac95c28ab00800615a82ebf493a31817.jpg",
+    "place_id": "ChIJUX8E-PYGAWAR8HvKjC353ys",
+    "g_name": "隆兵そば",
+    "g_rating": 4.2,
+    "g_reviews": 170,
+    "g_address": "日本、〒615-8021 京都府京都市西京区桂浅原町１５７",
+    "lat": 34.9825426,
+    "lng": 135.7117837
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "四天王寺 はやうち",
+    "name_en": "Shitennoji Hayauchi",
+    "area": "大阪府 四天王寺前夕陽ケ丘駅",
+    "url": "https://tabelog.com/osaka/A2701/A270203/27049805/",
+    "rating": 3.69,
+    "review_count_tabelog": 401,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soba (Buckwheat noodles), Nihonshu (Japanese sake)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu",
+        "dtl": "11:30 - 15:00",
+        "dtl_text": "11:30 - 15:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 17:00 - 20:00",
+        "dtl_text": "17:00 - 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 535,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQU4_XVjnAGARbfmiWlQ_WN4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/27049805-5be39c2aa243955a0320da8fd94bb2b1094164e3e8c845a58cca3fbed401fdd3.jpg",
+    "place_id": "ChIJQU4_XVjnAGARbfmiWlQ_WN4",
+    "g_name": "四天王寺 はやうち",
+    "g_rating": 4.4,
+    "g_reviews": 535,
+    "g_address": "日本、〒543-0051 大阪府大阪市天王寺区四天王寺１丁目１２−１６",
+    "lat": 34.6556014,
+    "lng": 135.5141436
+  },
+  {
+    "category_jp": "そば",
+    "category_en": "Soba",
+    "region": "WEST",
+    "name": "あみだそば 福の井",
+    "name_en": "Amida Soba Fuku no I",
+    "area": "福井県 福井市",
+    "url": "https://tabelog.com/fukui/A1801/A180101/18007050/",
+    "rating": 3.59,
+    "review_count_tabelog": 967,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:30 - 20:30 L.O. 20:00",
+        "dtl_text": "10:30 - 20:30 L.O. 20:00"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 617,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4VDb1uy--F8RvAAA34vRdAc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/soba_west/18007050-03b8309efa53b731f0b5b276114206e538a7a345c81a87f1a007c09b0bce3959.jpg",
+    "place_id": "ChIJ4VDb1uy--F8RvAAA34vRdAc",
+    "g_name": "あみだそば 福の井",
+    "g_rating": 4.1,
+    "g_reviews": 617,
+    "g_address": "日本、〒910-0006 福井県福井市中央１丁目２−１ ハピリン1F",
+    "lat": 36.0611823,
+    "lng": 136.2216541
+  }
+]

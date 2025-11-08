@@ -1,0 +1,4438 @@
+[
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "さぼうる",
+    "name_en": "Sabouru",
+    "area": "東京都 神保町駅",
+    "url": "https://tabelog.com/tokyo/A1310/A131003/13000609/",
+    "rating": 3.69,
+    "review_count_tabelog": 1534,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 19:00 L.O. Food 18:00 Drinks 18:30",
+        "dtl_text": "11:00 - 19:00 L.O. Food 18:00 Drinks 18:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Public Holiday",
+        "dtl": "11:00 - 18:00",
+        "dtl_text": "11:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed: Public holidays"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 1875,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-c9WERGMGGARhYoB-iRgKGQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13000609-28393e728238008b84fc8dd90dc9fa52703bea51b17246ed6e61cc813a0b2715.jpg",
+    "place_id": "ChIJ-c9WERGMGGARhYoB-iRgKGQ",
+    "g_name": "洋食と喫茶 さぼうる２（ツー）",
+    "g_rating": 4.1,
+    "g_reviews": 1875,
+    "g_address": "日本、〒101-0051 東京都千代田区神田神保町１丁目１１",
+    "lat": 35.6955899,
+    "lng": 139.7585509
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "BUCYO COFFEE",
+    "name_en": "BUCYO COFFEE",
+    "area": "愛知県 近鉄名古屋駅",
+    "url": "https://tabelog.com/aichi/A2301/A230101/23007465/",
+    "rating": 3.69,
+    "review_count_tabelog": 1720,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe, Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "07:15 - 17:00 L.O. 16:30",
+        "dtl_text": "07:15 - 17:00 L.O. 16:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Public Holiday",
+        "dtl": "07:15 - 17:00 L.O. Food 16:30",
+        "dtl_text": "07:15 - 17:00 L.O. Food 16:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 1599,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKSqedyd3A2ARV5vG9j2C0yo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/23007465-a5db60f81e63f16e42da6ee58be9fa425c343238e1caccceba074600845eb8c8.jpg",
+    "place_id": "ChIJKSqedyd3A2ARV5vG9j2C0yo",
+    "g_name": "ブチョーコーヒー",
+    "g_rating": 4.3,
+    "g_reviews": 1599,
+    "g_address": "日本、〒450-0003 愛知県名古屋市中村区名駅南１丁目１０−９ 山善ビル 1F",
+    "lat": 35.166023,
+    "lng": 136.8905823
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "サンシャイン",
+    "name_en": "Sunshine",
+    "area": "大阪府 東梅田駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27038064/",
+    "rating": 3.69,
+    "review_count_tabelog": 1417,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Kissa (Japanese coffee shop), Pancake, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "07:00 - 20:00 L.O. 19:15",
+        "dtl_text": "07:00 - 20:00 L.O. 19:15"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "08:00 - 18:30 L.O. 18:00",
+        "dtl_text": "08:00 - 18:30 L.O. 18:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The third Sunday of each month and other irregular days."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 1096,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJpToQwuzmAGAR5yRA6Ki8YL0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/27038064-cc2f68ce94998db1ddedc4fa2e95382aa8c958652b178037165f4f46494a71d9.jpg",
+    "place_id": "ChIJpToQwuzmAGAR5yRA6Ki8YL0",
+    "g_name": "喫茶サンシャイン",
+    "g_rating": 4.2,
+    "g_reviews": 1096,
+    "g_address": "日本、〒530-0057 大阪府大阪市北区梅田１丁目１−３ 大阪駅前第3ビル B2-89",
+    "lat": 34.6991515,
+    "lng": 135.4998327
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "シビタス",
+    "name_en": "CIVITAS",
+    "area": "東京都 蒲田駅",
+    "url": "https://tabelog.com/tokyo/A1315/A131503/13045798/",
+    "rating": 3.72,
+    "review_count_tabelog": 1056,
+    "price_dinner": "～￥999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Pancake, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 19:30",
+        "dtl_text": "10:00 - 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 449,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ633lVlxgGGARhzEJYRbtjRM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13045798-775074494fe6fce23d06fe78cb53e164c83a1dfd6fdbd5a00ab8ee7c10258c6a.jpg",
+    "place_id": "ChIJ633lVlxgGGARhzEJYRbtjRM",
+    "g_name": "シビタス",
+    "g_rating": 4.1,
+    "g_reviews": 449,
+    "g_address": "日本、〒144-0051 東京都大田区西蒲田７丁目６９−１ 東急プラザ蒲田 4F",
+    "lat": 35.5618412,
+    "lng": 139.7154299
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "加藤珈琲店",
+    "name_en": "Kato Coffee Ten",
+    "area": "愛知県 久屋大通駅",
+    "url": "https://tabelog.com/aichi/A2301/A230103/23006305/",
+    "rating": 3.68,
+    "review_count_tabelog": 830,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Kissa (Japanese coffee shop)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "08:00 - 16:00",
+        "dtl_text": "08:00 - 16:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Fourth Thursdays"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 835,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJbxDNrddwA2ARojazf6DR4sg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/23006305-27ae20a0bd1a778404013502df9a597545dabd0bce85162d8d5e4e99afb4cc97.jpg",
+    "place_id": "ChIJbxDNrddwA2ARojazf6DR4sg",
+    "g_name": "加藤珈琲店 栄店",
+    "g_rating": 4.4,
+    "g_reviews": 835,
+    "g_address": "日本、〒461-0005 愛知県名古屋市東区東桜１丁目３−２",
+    "lat": 35.1736269,
+    "lng": 136.9103971
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "珈琲美美",
+    "name_en": "Coffee Bimi",
+    "area": "福岡県 桜坂駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400105/40000004/",
+    "rating": 3.67,
+    "review_count_tabelog": 371,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 18:00",
+        "dtl_text": "12:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The first Tuesday of each month (On other Tuesdays, only bean sales are available)"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 649,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKUf0VNKTQTURiT0fEvVTwdY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/40000004-c53da86c319f0784e6650f64d3005dab6c8161d461441f45eec826a83ad86adc.jpg",
+    "place_id": "ChIJKUf0VNKTQTURiT0fEvVTwdY",
+    "g_name": "珈琲 美美（びみ）",
+    "g_rating": 4.5,
+    "g_reviews": 649,
+    "g_address": "日本、〒810-0042 福岡県福岡市中央区赤坂２丁目６−２７",
+    "lat": 33.5827015,
+    "lng": 130.3825089
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "ショパン",
+    "name_en": "CHOPIN",
+    "area": "東京都 淡路町駅",
+    "url": "https://tabelog.com/tokyo/A1310/A131002/13011258/",
+    "rating": 3.7,
+    "review_count_tabelog": 759,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe, Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Fri, Sat",
+        "dtl": "11:00 - 19:00",
+        "dtl_text": "11:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 336,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJE8LHuRyMGGARZl3aHruxGmI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13011258-333ef026c1495ba92b1fdd43938ed016f647871cf383acfd2cf81f87d5b74acb.jpg",
+    "place_id": "ChIJE8LHuRyMGGARZl3aHruxGmI",
+    "g_name": "珈琲ショパン",
+    "g_rating": 4.1,
+    "g_reviews": 336,
+    "g_address": "日本、〒101-0041 東京都千代田区神田須田町１丁目１９−９",
+    "lat": 35.6969493,
+    "lng": 139.7688609
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "珈琲 天国",
+    "name_en": "Coffee Tengoku",
+    "area": "東京都 浅草（つくばＥＸＰ）駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131102/13025425/",
+    "rating": 3.62,
+    "review_count_tabelog": 903,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Pancake, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 18:00",
+        "dtl_text": "12:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.7,
+    "google_reviews": 520,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJH-LUh8COGGARGUaIkcsSwls",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13025425-769c1bb5849d94709fee5c49458ee8fe1df942ce6e10856d743e59853bfd11d2.jpg",
+    "place_id": "ChIJH-LUh8COGGARGUaIkcsSwls",
+    "g_name": "珈琲天国",
+    "g_rating": 3.7,
+    "g_reviews": 520,
+    "g_address": "日本、〒111-0032 東京都台東区浅草１丁目４１−９",
+    "lat": 35.713033,
+    "lng": 139.7941241
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "スマート珈琲店",
+    "name_en": "Smart Coffee",
+    "area": "京都府 京都市役所前駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260201/26000647/",
+    "rating": 3.71,
+    "review_count_tabelog": 1615,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Yoshoku (Japanese style western cuisine), Pancake",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Daily": {},
+        "Wed - Mon": {}
+      },
+      "closed_on": "January 1 & 2, Not fixed (announcements on social media)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 3303,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJFY1ePZIIAWARwnZmEXSRqz4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/26000647-3e8798ea82db746eac8cd5143cc6e74a1b7d73e5bb0e80bdf28d68f0d6f1c191.jpg",
+    "place_id": "ChIJFY1ePZIIAWARwnZmEXSRqz4",
+    "g_name": "スマート珈琲店",
+    "g_rating": 4.3,
+    "g_reviews": 3303,
+    "g_address": "日本、〒604-8081 京都府京都市中京区天性寺前町５３７",
+    "lat": 35.009453,
+    "lng": 135.7670967
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "古瀬戸珈琲店",
+    "name_en": "Koseto Coffee Ten",
+    "area": "東京都 神保町駅",
+    "url": "https://tabelog.com/tokyo/A1310/A131002/13006272/",
+    "rating": 3.72,
+    "review_count_tabelog": 920,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 20:00 L.O. Drinks 19:30",
+        "dtl_text": "11:00 - 20:00 L.O. Drinks 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "12:00 - 20:00 L.O. Drinks 19:30",
+        "dtl_text": "12:00 - 20:00 L.O. Drinks 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 366,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQBF7RCMGGARe0q6822XnJ8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13006272-62322670af01e0cafccfc45527783847b16a7d1e41f9346895e556040fffe8f2.jpg",
+    "place_id": "ChIJAQBF7RCMGGARe0q6822XnJ8",
+    "g_name": "古瀬戸珈琲店",
+    "g_rating": 4.2,
+    "g_reviews": 366,
+    "g_address": "日本、〒101-0052 東京都千代田区神田小川町３丁目１０",
+    "lat": 35.6961456,
+    "lng": 139.7613172
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "純喫茶 アメリカン",
+    "name_en": "Junkissa American",
+    "area": "大阪府 日本橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270202/27005758/",
+    "rating": 3.65,
+    "review_count_tabelog": 1558,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Kissa (Japanese coffee shop), Pancake, Sandwich",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 22:00",
+        "dtl_text": "10:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "December 31 and three Thursdays each month."
+    },
+    "google_rating": 3.8,
+    "google_reviews": 1503,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVX66hTnAGARlY11c-UNr-o",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/27005758-6a9d9a7465c7438a2eb17c18344aefdf35ffdab0a6f56e630ae262edeca0c8c2.jpg",
+    "place_id": "ChIJVVX66hTnAGARlY11c-UNr-o",
+    "g_name": "純喫茶 アメリカン",
+    "g_rating": 3.8,
+    "g_reviews": 1503,
+    "g_address": "日本、〒542-0071 大阪府大阪市中央区道頓堀１丁目７−４",
+    "lat": 34.668381,
+    "lng": 135.5030413
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "草枕",
+    "name_en": "Kusa Makura",
+    "area": "東京都 内幸町駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130103/13043012/",
+    "rating": 3.76,
+    "review_count_tabelog": 756,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "-",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 20:00 L.O. 19:30",
+        "dtl_text": "11:00 - 20:00 L.O. 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "12:00 - 18:00 L.O. 17:30",
+        "dtl_text": "12:00 - 18:00 L.O. 17:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 286,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6SHq1uyLGGARDAQTUkzRcUI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13043012-a140dc499a39b2b9fd02966a496b2ea2115c33c8fbcb8d6bd1632179003c0f29.jpg",
+    "place_id": "ChIJ6SHq1uyLGGARDAQTUkzRcUI",
+    "g_name": "草枕",
+    "g_rating": 4.5,
+    "g_reviews": 286,
+    "g_address": "日本、〒105-0003 東京都港区西新橋１丁目１０−１ 日美ビル １F",
+    "lat": 35.6690348,
+    "lng": 139.7528787
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "珈琲専門店 トミィ",
+    "name_en": "Coffee Senmon Ten Tomii",
+    "area": "東京都 錦糸町駅",
+    "url": "https://tabelog.com/tokyo/A1312/A131201/13007983/",
+    "rating": 3.66,
+    "review_count_tabelog": 641,
+    "price_dinner": "～￥999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Pancake",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "10:00 - 17:00 L.O. 16:30",
+        "dtl_text": "10:00 - 17:00 L.O. 16:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sat, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 235,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJI3g2lSmJGGARYYQcIQ9gelc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13007983-dc44b5828b15150adc4e122ce43fbdc5884c62f906bc8cc7f8bbc91e851ab7f0.jpg",
+    "place_id": "ChIJI3g2lSmJGGARYYQcIQ9gelc",
+    "g_name": "珈琲専門店 トミィ",
+    "g_rating": 4.3,
+    "g_reviews": 235,
+    "g_address": "日本、〒130-0013 東京都墨田区錦糸２丁目１０−７",
+    "lat": 35.6989225,
+    "lng": 139.8124968
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "自家焙煎珈琲工房 カフェ バーンホーフ 三番街店",
+    "name_en": "CAFE BAHNHOF  Sanbangai Ten",
+    "area": "大阪府 大阪梅田（阪急）駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27011966/",
+    "rating": 3.68,
+    "review_count_tabelog": 808,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 21:00",
+        "dtl_text": "10:00 - 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (according to Hankyu Sanbangai schedule)"
+    },
+    "google_rating": 4,
+    "google_reviews": 476,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJY2t6EJLmAGARIyM9JKmp6o4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/27011966-b783a09801fcf21a9b6794ed081f9cc1d58cce81bba706385a3ed88f4657bc53.jpg",
+    "place_id": "ChIJY2t6EJLmAGARIyM9JKmp6o4",
+    "g_name": "カフェ バーンホーフ 三番街店",
+    "g_rating": 4,
+    "g_reviews": 476,
+    "g_address": "日本、〒530-0012 大阪府大阪市北区芝田１丁目１−３ 阪急三番街 南館 B2F",
+    "lat": 34.70455159999999,
+    "lng": 135.4986069
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "コーヒーハウス マキ",
+    "name_en": "COFFEE HOUSE maki",
+    "area": "京都府 出町柳駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260302/26009412/",
+    "rating": 3.67,
+    "review_count_tabelog": 578,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Kissa (Japanese coffee shop), Sandwich, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "08:30 - 17:00 L.O. 16:30",
+        "dtl_text": "08:30 - 17:00 L.O. 16:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 574,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJk3d4NHIIAWARw3T_3rqETbQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/26009412-aaa320bf6ac28a784a563677da2c02d7f397a091a890ae42c8c417cd96c10ba7.jpg",
+    "place_id": "ChIJk3d4NHIIAWARw3T_3rqETbQ",
+    "g_name": "コーヒーハウス マキ",
+    "g_rating": 4.3,
+    "g_reviews": 574,
+    "g_address": "日本、〒602-0822 京都府京都市上京区青龍町２１１",
+    "lat": 35.0309233,
+    "lng": 135.7698441
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "カフェ・ド・ランブル",
+    "name_en": "CAFE DE L’AMBRE",
+    "area": "東京都 新橋駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130103/13002564/",
+    "rating": 3.76,
+    "review_count_tabelog": 1136,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 20:00 L.O. 19:00",
+        "dtl_text": "11:00 - 20:00 L.O. 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "11:00 - 18:00 L.O. 17:00",
+        "dtl_text": "11:00 - 18:00 L.O. 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 1708,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZxiNeeiLGGARH3hUjIwOpSs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13002564-5defc1f33e9f1c763c02d61fa3d8d3e9afe8dc07b4f824a525ca1876076a59fa.jpg",
+    "place_id": "ChIJZxiNeeiLGGARH3hUjIwOpSs",
+    "g_name": "カフェ ド ランブル",
+    "g_rating": 4.3,
+    "g_reviews": 1708,
+    "g_address": "日本、〒104-0061 東京都中央区銀座８丁目１０−１５",
+    "lat": 35.6679572,
+    "lng": 139.7623402
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "炭火焼珈琲 蔵",
+    "name_en": "Sumibi Yaki Coffee Kura",
+    "area": "東京都 池袋駅",
+    "url": "https://tabelog.com/tokyo/A1305/A130501/13089625/",
+    "rating": 3.69,
+    "review_count_tabelog": 958,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "09:00 - 06:00 L.O. 05:30",
+        "dtl_text": "09:00 - 06:00 L.O. 05:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "09:00 - 23:00 L.O. 22:30",
+        "dtl_text": "09:00 - 23:00 L.O. 22:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "New Year Holidays (January 1 and 2 only)"
+    },
+    "google_rating": 3.9,
+    "google_reviews": 522,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ86P7b16NGGARQnPB24N3lIY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13089625-0e8ee8d045ae9dcf039408ffd27851bf51fe9981be1b9326c289d0a1bc4cfb83.jpg",
+    "place_id": "ChIJ86P7b16NGGARQnPB24N3lIY",
+    "g_name": "炭火焼珈琲 蔵",
+    "g_rating": 3.9,
+    "g_reviews": 522,
+    "g_address": "日本、〒171-0021 東京都豊島区西池袋１丁目３９−１",
+    "lat": 35.732668,
+    "lng": 139.7098045
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "一六珈琲店",
+    "name_en": "Ichiroku Coffee Ten",
+    "area": "東京都 立川駅",
+    "url": "https://tabelog.com/tokyo/A1329/A132901/13039610/",
+    "rating": 3.68,
+    "review_count_tabelog": 487,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe, Sweets (Western style)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 17:30",
+        "dtl_text": "11:00 - 17:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 287,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDfmFWmPhGGARiK3boji1cOw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13039610-11d8c076f0471b43de2af9db2e77cfe9ba9e4efa47a08d9d9c52f4a2f979a674.jpg",
+    "place_id": "ChIJDfmFWmPhGGARiK3boji1cOw",
+    "g_name": "一六珈琲店",
+    "g_rating": 4.1,
+    "g_reviews": 287,
+    "g_address": "日本、〒190-0022 東京都立川市錦町１丁目４−１９ 親松ビル",
+    "lat": 35.695796,
+    "lng": 139.416753
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "平岡珈琲店",
+    "name_en": "Hiraoka Coffee Ten",
+    "area": "大阪府 本町駅",
+    "url": "https://tabelog.com/osaka/A2701/A270106/27000071/",
+    "rating": 3.71,
+    "review_count_tabelog": 742,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe, Donut",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 18:00",
+        "dtl_text": "10:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 495,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8ZCBKOLmAGARJRlnpKX45vE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/27000071-6dbccc60c508d41174c14dc42af6f70e81ff3080e3a976097f40377ec46664f2.jpg",
+    "place_id": "ChIJ8ZCBKOLmAGARJRlnpKX45vE",
+    "g_name": "平岡珈琲店",
+    "g_rating": 4.4,
+    "g_reviews": 495,
+    "g_address": "日本、〒541-0048 大阪府大阪市中央区瓦町３丁目６−１１",
+    "lat": 34.6860356,
+    "lng": 135.5015325
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "茜屋珈琲店",
+    "name_en": "Akaneya Coffee Ten",
+    "area": "兵庫県 神戸三宮（阪急）駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280101/28001625/",
+    "rating": 3.7,
+    "review_count_tabelog": 636,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 22:00 L.O. 22:00",
+        "dtl_text": "12:00 - 22:00 L.O. 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 383,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ94hzqOSOAGARIpz-NhCK7LQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/28001625-0cca2cf980be5295e8a73de9d48914f77cf9357d85bae9e6f80ee33fb2d8878a.jpg",
+    "place_id": "ChIJ94hzqOSOAGARIpz-NhCK7LQ",
+    "g_name": "茜屋珈琲店",
+    "g_rating": 4.4,
+    "g_reviews": 383,
+    "g_address": "日本、〒650-0012 兵庫県神戸市中央区北長狭通１丁目９−４",
+    "lat": 34.692541,
+    "lng": 135.1916559
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "カフェ・鈴木",
+    "name_en": "Cafe Suzuki",
+    "area": "神奈川県 本厚木駅",
+    "url": "https://tabelog.com/kanagawa/A1408/A140802/14004103/",
+    "rating": 3.69,
+    "review_count_tabelog": 421,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "14:00 - 00:00",
+        "dtl_text": "14:00 - 00:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.6,
+    "google_reviews": 441,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJSRybgLKqGWAR8Yjq4jmUbBA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/14004103-c5a8f1a86533a15cbc0ce61988af26a46420abec5ca2b46cab66db4b9a89100e.jpg",
+    "place_id": "ChIJSRybgLKqGWAR8Yjq4jmUbBA",
+    "g_name": "カフェ鈴木",
+    "g_rating": 4.6,
+    "g_reviews": 441,
+    "g_address": "日本、〒243-0018 神奈川県厚木市中町３丁目５−６ ロックヒルズ本厚木駅前 1F",
+    "lat": 35.4406238,
+    "lng": 139.3626831
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "カフェ香咲",
+    "name_en": "Cafe Casa",
+    "area": "東京都 外苑前駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130601/13001955/",
+    "rating": 3.67,
+    "review_count_tabelog": 933,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Bar, Pancake",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 18:00 L.O. 17:30",
+        "dtl_text": "11:30 - 18:00 L.O. 17:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (open on public holidays, no substitute holidays) and Year-end & New Year Holidays."
+    },
+    "google_rating": 3.9,
+    "google_reviews": 690,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJC8L75JiMGGAR1UehGcb0NQA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13001955-a527c171963136fbbaca696ba1280375963d0988f9595fcf85d766ddf8db69e8.jpg",
+    "place_id": "ChIJC8L75JiMGGAR1UehGcb0NQA",
+    "g_name": "カフェ香咲",
+    "g_rating": 3.9,
+    "g_reviews": 690,
+    "g_address": "日本、〒150-0001 東京都渋谷区神宮前３丁目４１−１",
+    "lat": 35.6712016,
+    "lng": 139.713663
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "はまの屋パーラー 有楽町店",
+    "name_en": "Hamano Ya Parlor Yurakucho Ten",
+    "area": "東京都 有楽町駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130102/13041024/",
+    "rating": 3.73,
+    "review_count_tabelog": 1112,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Sandwich, Gelato, Ice cream",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Year-end & New Year Holidays"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 452,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ5oPEPCLGGARcIpfN1ad8Nw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13041024-c3be7406bfe4199dc27f4987b4001e6904ae17a640bd44c2980c3b04f1c5b8d9.jpg",
+    "place_id": "ChIJZ5oPEPCLGGARcIpfN1ad8Nw",
+    "g_name": "はまの屋パーラー 有楽町店",
+    "g_rating": 4.1,
+    "g_reviews": 452,
+    "g_address": "日本、〒100-0006 東京都千代田区有楽町１丁目１２−１ 新有楽町ビル B1F",
+    "lat": 35.6755718,
+    "lng": 139.7619711
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "喫茶 マドラグ",
+    "name_en": "Kissa Madrague",
+    "area": "京都府 烏丸御池駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260202/26019438/",
+    "rating": 3.7,
+    "review_count_tabelog": 914,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Sandwich, Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "08:00 - 11:00 12:00 - 18:00",
+        "dtl_text": "12:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 857,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJbypm3oAIAWARm7lUBldgck4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/26019438-d6fa686ab0ba8025bce4a71ea7c152715e625e628a2de5576de4dd1ce3f9e266.jpg",
+    "place_id": "ChIJbypm3oAIAWARm7lUBldgck4",
+    "g_name": "喫茶 マドラグ",
+    "g_rating": 4.1,
+    "g_reviews": 857,
+    "g_address": "日本、〒604-0035 京都府京都市中京区上松屋町７０６−５",
+    "lat": 35.0123053,
+    "lng": 135.7556248
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "ミロンガ・ヌオーバ",
+    "name_en": "Milonga Nuova",
+    "area": "東京都 神保町駅",
+    "url": "https://tabelog.com/tokyo/A1310/A131003/13006552/",
+    "rating": 3.67,
+    "review_count_tabelog": 376,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "-",
+    "sub_categories": "Kissa (Japanese coffee shop), Pub, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon, Tue, Thu, Fri": {},
+        "Sat, Sun & Public Holidays": {}
+      },
+      "closed_on": "Wednesdays"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 495,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJrZPAHBGMGGARF6oPSXb-Ciw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13006552-e28537bff8ab8c2171faeb90487b5c97b639763309b51eed325a488cc7c66284.jpg",
+    "place_id": "ChIJrZPAHBGMGGARF6oPSXb-Ciw",
+    "g_name": "ミロンガ·ヌオーバ",
+    "g_rating": 4.2,
+    "g_reviews": 495,
+    "g_address": "日本、〒101-0051 東京都千代田区神田神保町１丁目３",
+    "lat": 35.6955994,
+    "lng": 139.7596836
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "高山珈琲",
+    "name_en": "Takayama Coffee",
+    "area": "東京都 淡路町駅",
+    "url": "https://tabelog.com/tokyo/A1310/A131002/13011257/",
+    "rating": 3.75,
+    "review_count_tabelog": 864,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu",
+        "dtl": "11:00 - 17:00 L.O. 16:00",
+        "dtl_text": "11:00 - 17:00 L.O. 16:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Fri, Sat, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 433,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJlZ2-PQOMGGAR8PIOOozwzG8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13011257-f11cd9b3bf713383579ccf10a741d46009974d2bf42093161164dbed65bd1c02.jpg",
+    "place_id": "ChIJlZ2-PQOMGGAR8PIOOozwzG8",
+    "g_name": "高山珈琲",
+    "g_rating": 4.6,
+    "g_reviews": 433,
+    "g_address": "日本、〒101-0041 東京都千代田区神田須田町１丁目１２−６",
+    "lat": 35.6953564,
+    "lng": 139.7696865
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "トゥジュール デビュテ",
+    "name_en": "TOUJOURS DEBUTER",
+    "area": "東京都 五反田駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131603/13059498/",
+    "rating": 3.71,
+    "review_count_tabelog": 691,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "12:00 - 20:00",
+        "dtl_text": "12:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "12:00 - 17:00",
+        "dtl_text": "12:00 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 169,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJhRLYZfuKGGARldTrDfMQxFg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13059498-853abfab4376f98cf8d4bd68ba03ba1f95cc41736332ce82003c65e4b7e7d307.jpg",
+    "place_id": "ChIJhRLYZfuKGGARldTrDfMQxFg",
+    "g_name": "カフェ トゥジュール デビュテ",
+    "g_rating": 4.3,
+    "g_reviews": 169,
+    "g_address": "日本、〒141-0022 東京都品川区東五反田５丁目２７−１２ 扇寿ビル B1F",
+    "lat": 35.627078,
+    "lng": 139.723307
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "築地",
+    "name_en": "Tsukiji",
+    "area": "京都府 京都河原町駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260201/26001588/",
+    "rating": 3.65,
+    "review_count_tabelog": 602,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 17:00",
+        "dtl_text": "11:00 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.3,
+    "google_reviews": 601,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJRYqPFpUIAWARs10mZc8Vexk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/26001588-6b0e451850a716f9aada7cfc6527100cd0e7d071d8e81675940193e9835814ab.jpg",
+    "place_id": "ChIJRYqPFpUIAWARs10mZc8Vexk",
+    "g_name": "築地",
+    "g_rating": 3.3,
+    "g_reviews": 601,
+    "g_address": "日本、〒604-8026 京都府京都市中京区河原町四条上東入",
+    "lat": 35.0043347,
+    "lng": 135.7696926
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "ダフニ",
+    "name_en": "Daphne",
+    "area": "東京都 三田駅",
+    "url": "https://tabelog.com/tokyo/A1314/A131402/13056306/",
+    "rating": 3.67,
+    "review_count_tabelog": 370,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri",
+        "dtl": "10:00 - 18:00",
+        "dtl_text": "10:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "10:00 - 17:00",
+        "dtl_text": "10:00 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 125,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJFYXnwbCLGGAR2d1gCxv-dUs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13056306-8ec21596f2ea74ab1ccbdba3c3d0e4fd40899beed9fc09fe8e425fe404170133.jpg",
+    "place_id": "ChIJFYXnwbCLGGAR2d1gCxv-dUs",
+    "g_name": "ダフニ",
+    "g_rating": 4,
+    "g_reviews": 125,
+    "g_address": "日本、〒108-0014 東京都港区芝５丁目１０−１１",
+    "lat": 35.6490486,
+    "lng": 139.746057
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "皇琲亭",
+    "name_en": "Coffee Tei",
+    "area": "東京都 池袋駅",
+    "url": "https://tabelog.com/tokyo/A1305/A130501/13003947/",
+    "rating": 3.73,
+    "review_count_tabelog": 1781,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 22:30 L.O. 22:00",
+        "dtl_text": "11:00 - 22:30 L.O. 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 1127,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJldLzq2eNGGARuXVPzYTswJs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13003947-7161b8bb1f2dbd481f15188768a57fc6506eeba19148f856c91e7773c778122a.jpg",
+    "place_id": "ChIJldLzq2eNGGARuXVPzYTswJs",
+    "g_name": "喫茶店 皇琲亭",
+    "g_rating": 4.2,
+    "g_reviews": 1127,
+    "g_address": "日本、〒170-0013 東京都豊島区東池袋１丁目７−２ 東駒ビル 1F・B1F",
+    "lat": 35.7312488,
+    "lng": 139.7138556
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "炭火焙煎珈琲・凛",
+    "name_en": "Sumibi Baisen Coffee Rin",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13004102/",
+    "rating": 3.71,
+    "review_count_tabelog": 1324,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu",
+        "dtl": "11:00 - 22:00",
+        "dtl_text": "11:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Fri",
+        "dtl": "11:00 - 23:00",
+        "dtl_text": "11:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "10:00 - 23:00",
+        "dtl_text": "10:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "10:00 - 22:00",
+        "dtl_text": "10:00 - 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 637,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJr5ae1OWLGGAR52GRn2rVy54",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13004102-a8d075e15f6e41f7e9f39713db5dd9a52d6ce806de3be70845ff752e69e569d2.jpg",
+    "place_id": "ChIJr5ae1OWLGGAR52GRn2rVy54",
+    "g_name": "炭火焙煎珈琲.凛 銀座4丁目本店",
+    "g_rating": 4.4,
+    "g_reviews": 637,
+    "g_address": "日本、〒104-0061 東京都中央区銀座４丁目４−５",
+    "lat": 35.6719635,
+    "lng": 139.7649862
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "喫茶チロル",
+    "name_en": "Kissa Tirol",
+    "area": "京都府 二条城前駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260203/26002251/",
+    "rating": 3.67,
+    "review_count_tabelog": 688,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Kissa (Japanese coffee shop), Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "08:00 - 16:00 L.O. 15:30",
+        "dtl_text": "08:00 - 16:00 L.O. 15:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 762,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJoxdWptQHAWAR_jvZCQCRD0A",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/26002251-8ac1f5f5070a7da26450e05500372591c6a0a0672d0a30f52c2546126e2034d8.jpg",
+    "place_id": "ChIJoxdWptQHAWAR_jvZCQCRD0A",
+    "g_name": "喫茶チロル",
+    "g_rating": 4.5,
+    "g_reviews": 762,
+    "g_address": "日本、〒604-8306 京都府京都市中京区門前町５３９−３",
+    "lat": 35.0110521,
+    "lng": 135.7474394
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "喫茶 いち",
+    "name_en": "Kissa Ichi",
+    "area": "大阪府 千里中央駅",
+    "url": "https://tabelog.com/osaka/A2706/A270601/27012020/",
+    "rating": 3.65,
+    "review_count_tabelog": 423,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Sandwich",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "08:00 - 17:00",
+        "dtl_text": "08:00 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 3.8,
+    "google_reviews": 103,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJUWEbKRr7AGARWGxBb8P8XlQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/27012020-a962b62650f6c5d2af4fadd1803bf2c81962acb841a5b5ff9b89d0374255c1a2.jpg",
+    "place_id": "ChIJUWEbKRr7AGARWGxBb8P8XlQ",
+    "g_name": "いち",
+    "g_rating": 3.8,
+    "g_reviews": 103,
+    "g_address": "日本、〒560-0082 大阪府豊中市新千里東町１丁目３−１４９ せんちゅうパル専門店街 B1階",
+    "lat": 34.8099759,
+    "lng": 135.4951747
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "ニューアストリア",
+    "name_en": "New Astoria",
+    "area": "大阪府 千里中央駅",
+    "url": "https://tabelog.com/osaka/A2706/A270601/27002923/",
+    "rating": 3.71,
+    "review_count_tabelog": 1247,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Kissa (Japanese coffee shop), Sandwich, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "08:00 - 16:00 L.O. 15:30",
+        "dtl_text": "08:00 - 16:00 L.O. 15:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The fourth Wednesday of each month"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 397,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJUWEbKRr7AGARQ4xTSnrNM1I",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/27002923-ae4eff3398f7f02a14902be9b83eed2148a8e0f441714a02aadcdf3d8ea4d6a8.jpg",
+    "place_id": "ChIJUWEbKRr7AGARQ4xTSnrNM1I",
+    "g_name": "ニューアストリア",
+    "g_rating": 4.5,
+    "g_reviews": 397,
+    "g_address": "日本、〒560-0082 大阪府豊中市新千里東町１丁目３ せんちゅうパル専門店街 B1階",
+    "lat": 34.8091217,
+    "lng": 135.4951324
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "馬車道十番館",
+    "name_en": "Bashamichi Jubankan",
+    "area": "神奈川県 馬車道駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140104/14000115/",
+    "rating": 3.59,
+    "review_count_tabelog": 1197,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 22:00 L.O. 21:30",
+        "dtl_text": "10:00 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 1299,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJr0Lg1PVcGGARO3SER6tSa9U",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/14000115-14bb29ea2b08d121473c4518fa92330f0d4894f1811ececa43ad35a781bc1bad.jpg",
+    "place_id": "ChIJr0Lg1PVcGGARO3SER6tSa9U",
+    "g_name": "馬車道十番館",
+    "g_rating": 4.3,
+    "g_reviews": 1299,
+    "g_address": "日本、〒231-0014 神奈川県横浜市中区常盤町５丁目６７",
+    "lat": 35.4473336,
+    "lng": 139.6348941
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "COFFEE HALL くぐつ草",
+    "name_en": "COFFEE HALL Kugutsusou",
+    "area": "東京都 吉祥寺駅",
+    "url": "https://tabelog.com/tokyo/A1320/A132001/13005791/",
+    "rating": 3.72,
+    "review_count_tabelog": 1617,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 22:00",
+        "dtl_text": "10:00 - 22:00"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 817,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJG-aoZEjuGGARDr4v62ZwbXo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13005791-124e49d45b78dd91de44e9f86463aa8239a367b43a3d67b2dfbae713cef5d0ab.jpg",
+    "place_id": "ChIJG-aoZEjuGGARDr4v62ZwbXo",
+    "g_name": "COFFEE HALL くぐつ草",
+    "g_rating": 4,
+    "g_reviews": 817,
+    "g_address": "日本、〒180-0004 東京都武蔵野市吉祥寺本町１丁目７−７ 島田ビル B1階",
+    "lat": 35.7041956,
+    "lng": 139.5782834
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "ヘッケルン",
+    "name_en": "Heckeln",
+    "area": "東京都 虎ノ門駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130802/13057178/",
+    "rating": 3.69,
+    "review_count_tabelog": 832,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe, Sweets",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri",
+        "dtl": "09:00 - 15:00",
+        "dtl_text": "09:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Sat, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 979,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJqb_xNZOLGGARx3L00SutCfw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13057178-81e3cf7e75dbb938620d6166af8fd56427bcaed28407e5b8c4d385516b8f7659.jpg",
+    "place_id": "ChIJqb_xNZOLGGARx3L00SutCfw",
+    "g_name": "ヘッケルン",
+    "g_rating": 4,
+    "g_reviews": 979,
+    "g_address": "日本、〒105-0003 東京都港区西新橋１丁目２０−１１ 安藤ビル 1F",
+    "lat": 35.6678645,
+    "lng": 139.7521725
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "Le Premier Cafe 心斎橋本店",
+    "name_en": "Le Premier Cafe Shinsaibashi Honten",
+    "area": "大阪府 心斎橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270201/27004529/",
+    "rating": 3.7,
+    "review_count_tabelog": 719,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Sun, Public Holiday",
+        "dtl": "10:00 - 23:30",
+        "dtl_text": "10:00 - 23:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Fri, Sat",
+        "dtl": "10:00 - 00:00",
+        "dtl_text": "10:00 - 00:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 518,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ___zNBfnAGAR4YpTSrZENAM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/27004529-996bbb588efd670bc1221e0bfe1eb95830e732a304b2d9ff5b64ee787a94d43c.jpg",
+    "place_id": "ChIJ___zNBfnAGAR4YpTSrZENAM",
+    "g_name": "Le Premier Cafe 心斎橋本店 - ルプルミエカフェ",
+    "g_rating": 4.5,
+    "g_reviews": 518,
+    "g_address": "日本、〒542-0085 大阪府大阪市中央区心斎橋筋１丁目３−２８ ビギファーストビル ３階",
+    "lat": 34.67423170000001,
+    "lng": 135.5017542
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "コーヒーハウス かこ 花車本店",
+    "name_en": "coffee house KAKO Hanaguruma Honten",
+    "area": "愛知県 国際センター駅",
+    "url": "https://tabelog.com/aichi/A2301/A230101/23005509/",
+    "rating": 3.73,
+    "review_count_tabelog": 1559,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "07:00 - 17:00",
+        "dtl_text": "07:00 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "New Year's Day"
+    },
+    "google_rating": 3.8,
+    "google_reviews": 1237,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJYfdCcNl2A2AR-EFP7CVJV8o",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/23005509-035cedc9b5828f5e3eca5c32417d043b710e53ffb5209a9d970748f622f55208.jpg",
+    "place_id": "ChIJYfdCcNl2A2AR-EFP7CVJV8o",
+    "g_name": "コーヒーハウス かこ 花車本店",
+    "g_rating": 3.8,
+    "g_reviews": 1237,
+    "g_address": "日本、〒450-0002 愛知県名古屋市中村区名駅５丁目１６−１７",
+    "lat": 35.1701693,
+    "lng": 136.8903354
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "自家焙煎珈琲 凡",
+    "name_en": "Jikabaisen Coffee Bon",
+    "area": "東京都 新宿西口駅",
+    "url": "https://tabelog.com/tokyo/A1304/A130401/13000735/",
+    "rating": 3.69,
+    "review_count_tabelog": 1002,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe, Cake",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "13:00 - 18:00",
+        "dtl_text": "13:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13000735-593a2f6d3dfa40051e79ab5242ee3bf745ab4d4bad8693ca83f68e9018e21628.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "天のや",
+    "name_en": "AMANOYA",
+    "area": "東京都 麻布十番駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130702/13014306/",
+    "rating": 3.82,
+    "review_count_tabelog": 839,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe featuring Japanese sweets, Okonomiyaki (Japanese savory pancake)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 16:30 L.O. 16:00 18:30 - 20:30",
+        "dtl_text": "18:30 - 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The restaurant may also close on other irregular days. Please check our website for the latest updates."
+    },
+    "google_rating": 3.8,
+    "google_reviews": 288,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJbyIKd6GLGGARJBF3JJ3beKc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13014306-35477c2bb1d44e43ddb1f71970319383bc0699e6ff4c48e12674024bb1c2b616.jpg",
+    "place_id": "ChIJbyIKd6GLGGARJBF3JJ3beKc",
+    "g_name": "天のや 麻布十番",
+    "g_rating": 3.8,
+    "g_reviews": 288,
+    "g_address": "日本、〒106-0045 東京都麻布十番３丁目１−９ 1F",
+    "lat": 35.65325199999999,
+    "lng": 139.736379
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "高木珈琲店 高辻本店",
+    "name_en": "Takagi Coffee Ten Takatsuji Honten",
+    "area": "京都府 四条（京都市営）駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260201/26005195/",
+    "rating": 3.68,
+    "review_count_tabelog": 686,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "07:00 - 19:00",
+        "dtl_text": "07:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "07:00 - 18:00",
+        "dtl_text": "07:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Only on January 1, 2, and 3"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 545,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJIX3aaJgIAWARDbXYTnIKq90",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/26005195-9d082def5b3ff0873f7b3f7201e93d08023d1900527073ce46f1d4336b8994a1.jpg",
+    "place_id": "ChIJIX3aaJgIAWARDbXYTnIKq90",
+    "g_name": "高木珈琲店 烏丸店",
+    "g_rating": 4.1,
+    "g_reviews": 545,
+    "g_address": "日本、〒600-8415 京都府京都市下京区烏丸通高辻下る因幡堂町７１１",
+    "lat": 34.999343,
+    "lng": 135.7599024
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "リザルブ珈琲店",
+    "name_en": "Resolve Coffee Ten",
+    "area": "大阪府 高槻駅",
+    "url": "https://tabelog.com/osaka/A2706/A270604/27046966/",
+    "rating": 3.67,
+    "review_count_tabelog": 222,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "11:30 - 19:00 L.O. 18:15",
+        "dtl_text": "11:30 - 19:00 L.O. 18:15",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Thursdays and the first Friday of each month"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 146,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZbVUw7oCAWARWJUrmOkBCuQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/27046966-3daba84cdf2ccabe6246c7d35fcd50468ee5b3873e6d6216ddc93ea82d539ac1.jpg",
+    "place_id": "ChIJZbVUw7oCAWARWJUrmOkBCuQ",
+    "g_name": "リザルブ珈琲店",
+    "g_rating": 4.3,
+    "g_reviews": 146,
+    "g_address": "日本、〒569-1123 大阪府高槻市芥川町３丁目１９−３",
+    "lat": 34.8518597,
+    "lng": 135.6111264
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "フランソア喫茶室",
+    "name_en": "Salon de the FRANCOIS",
+    "area": "京都府 祇園四条駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260201/26000900/",
+    "rating": 3.72,
+    "review_count_tabelog": 1579,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cake",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 22:00 L.O. 21:30",
+        "dtl_text": "11:00 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round, except for December 31, January 1, and January 2."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 1676,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ43Q1WZUIAWARZIJPenGbcPs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/26000900-8ecc597e31d79d8e51a2836c5b48afe45fec0389c9514cfc25c6a61d53fd977d.jpg",
+    "place_id": "ChIJ43Q1WZUIAWARZIJPenGbcPs",
+    "g_name": "フランソア喫茶室",
+    "g_rating": 4.2,
+    "g_reviews": 1676,
+    "g_address": "日本、〒600-8019 京都府京都市下京区西木屋町通四条下ル船頭町１８４",
+    "lat": 35.0032923,
+    "lng": 135.7702134
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "ローヤル珈琲店 本店",
+    "name_en": "Royal Coffee Ten Hon Ten",
+    "area": "東京都 浅草（つくばＥＸＰ）駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131102/13008614/",
+    "rating": 3.68,
+    "review_count_tabelog": 859,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Kissa (Japanese coffee shop), Sandwich, Cake",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "08:00 - 20:00",
+        "dtl_text": "08:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 979,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJMZOqk8COGGAR_T2ZJSy2wSU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13008614-01d46e69e9b61734439887d79eb6d0b24c9bd0373732f1b21a9252afb9c9c00b.jpg",
+    "place_id": "ChIJMZOqk8COGGAR_T2ZJSy2wSU",
+    "g_name": "ローヤル珈琲店",
+    "g_rating": 4,
+    "g_reviews": 979,
+    "g_address": "日本、〒111-0032 東京都台東区浅草１丁目３９−７",
+    "lat": 35.7127016,
+    "lng": 139.7943858
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "十一房珈琲店",
+    "name_en": "Juichibo Coffee Ten",
+    "area": "東京都 銀座一丁目駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13007721/",
+    "rating": 3.76,
+    "review_count_tabelog": 1163,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cake",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 21:30",
+        "dtl_text": "11:00 - 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 455,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ79SQ-uSLGGARvjTCzQDDVCU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13007721-a93e440fa53de22baaf4534bdad29090a579adb0b1596fb6ba7ba4991f733f95.jpg",
+    "place_id": "ChIJ79SQ-uSLGGARvjTCzQDDVCU",
+    "g_name": "十一房珈琲店",
+    "g_rating": 4.1,
+    "g_reviews": 455,
+    "g_address": "日本、〒104-0061 東京都中央区銀座２丁目２−１９ 藤間ビル 1F",
+    "lat": 35.6748871,
+    "lng": 139.7657481
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "前田珈琲 室町本店",
+    "name_en": "Maeda Coffee Muromachi Honten",
+    "area": "京都府 烏丸駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260201/26001559/",
+    "rating": 3.54,
+    "review_count_tabelog": 1076,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe, Kakigori (Shaved ice)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "07:00 - 18:00 L.O. 17:30",
+        "dtl_text": "07:00 - 18:00 L.O. 17:30"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 1288,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJC4Ds2JoIAWARBTkgihvnkOM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/26001559-26c45f716c859f3c038d008760dfed7c59f670b263eb776799f7ca94935d1994.jpg",
+    "place_id": "ChIJC4Ds2JoIAWARBTkgihvnkOM",
+    "g_name": "前田珈琲 室町本店",
+    "g_rating": 4.1,
+    "g_reviews": 1288,
+    "g_address": "日本、〒604-8151 京都府京都市中京区橋弁慶町２３６",
+    "lat": 35.0062486,
+    "lng": 135.7592872
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "みやざわ",
+    "name_en": "Miyazawa",
+    "area": "東京都 新橋駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130103/13024142/",
+    "rating": 3.67,
+    "review_count_tabelog": 901,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Yoshoku (Japanese style western cuisine), Sandwich",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 14:30 16:00 - 03:00",
+        "dtl_text": "16:00 - 03:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Sandwiches": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 378,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVWDJ2-iLGGARVL_u4p913Fw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13024142-1fbf59b256d5db699ddb3f94d212f4248c88c9b2d8d3c079f4b479c6299291c0.jpg",
+    "place_id": "ChIJVWDJ2-iLGGARVL_u4p913Fw",
+    "g_name": "みやざわ",
+    "g_rating": 4.1,
+    "g_reviews": 378,
+    "g_address": "日本、〒104-0061 東京都中央区銀座８丁目５−２５",
+    "lat": 35.669228,
+    "lng": 139.760481
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "文明堂茶館 ル・カフェ",
+    "name_en": "Bunmeidou Sakan Ru Cafe",
+    "area": "神奈川県 関内駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140104/14003248/",
+    "rating": 3.7,
+    "review_count_tabelog": 798,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe, Sweets (Western style)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:00 - 19:20 L.O. 19:00",
+        "dtl_text": "11:00 - 19:20 L.O. 19:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 346,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJH1icb_RcGGARI5TVEt9C9VQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/14003248-35595082cff33469daaec843039f97f92961a2324018674bc3a48dc863186912.jpg",
+    "place_id": "ChIJH1icb_RcGGARI5TVEt9C9VQ",
+    "g_name": "横濱文明堂 伊勢佐木町一丁目店 + 文明堂茶館ル・カフェ",
+    "g_rating": 4.3,
+    "g_reviews": 346,
+    "g_address": "日本、〒231-0045 神奈川県横浜市中区伊勢佐木町１丁目５−３",
+    "lat": 35.4449315,
+    "lng": 139.6332043
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "エレーナ",
+    "name_en": "Elena",
+    "area": "神奈川県 石川町駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140105/14007970/",
+    "rating": 3.67,
+    "review_count_tabelog": 519,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe, Cake",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "09:00 - 18:00 L.O. 17:30",
+        "dtl_text": "09:00 - 18:00 L.O. 17:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The first Tuesday of each month"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 375,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJiVMcSOdcGGARiukrgSCIXy8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/14007970-4f480d08351749219ce2b67e583b8b96aedf06bea400abc5abd20c7564ca75f4.jpg",
+    "place_id": "ChIJiVMcSOdcGGARiukrgSCIXy8",
+    "g_name": "カフェ 喫茶エレーナ",
+    "g_rating": 4.2,
+    "g_reviews": 375,
+    "g_address": "日本、〒231-0862 神奈川県横浜市中区山手町２４",
+    "lat": 35.4358961,
+    "lng": 139.6449413
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "カフェ・アンセーニュ・ダングル 自由が丘店",
+    "name_en": "Cafe Enseigne Dangle Jiyugaoka Ten",
+    "area": "東京都 自由が丘駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131703/13017724/",
+    "rating": 3.7,
+    "review_count_tabelog": 824,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe, Cake",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 21:00",
+        "dtl_text": "10:00 - 21:00"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 277,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJxfypex_1GGARTN1_GHiJiK0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13017724-eb7825d3e613d4cb65bc38800691150fe17d70d613532f0df3bce57b92f00497.jpg",
+    "place_id": "ChIJxfypex_1GGARTN1_GHiJiK0",
+    "g_name": "カフェ・アンセーニュ・ダングル 自由が丘店",
+    "g_rating": 4.1,
+    "g_reviews": 277,
+    "g_address": "日本、〒152-0035 東京都目黒区自由が丘１丁目１３−６",
+    "lat": 35.6080454,
+    "lng": 139.6702603
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "喫茶葦島",
+    "name_en": "Kissa Ashijima",
+    "area": "京都府 京都市役所前駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260201/26015997/",
+    "rating": 3.73,
+    "review_count_tabelog": 760,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe, Cake",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "12:00 - 17:00 L.O. 16:30",
+        "dtl_text": "12:00 - 17:00 L.O. 16:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "12:00 - 21:00 L.O. 20:30",
+        "dtl_text": "12:00 - 21:00 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "11:00 - 21:00 L.O. 20:30",
+        "dtl_text": "11:00 - 21:00 L.O. 20:30"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 402,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-wLnEZMIAWARfeW6Y04TYnM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/26015997-145dc6d75d01675c7a7730cdb402c75651309dd5052334290546da8e975f649b.jpg",
+    "place_id": "ChIJ-wLnEZMIAWARfeW6Y04TYnM",
+    "g_name": "喫茶葦島",
+    "g_rating": 4.1,
+    "g_reviews": 402,
+    "g_address": "日本、〒604-8031 京都府京都市中京区大黒町３７ 文明堂ビル 5階",
+    "lat": 35.0087194,
+    "lng": 135.7693046
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "ワンモア",
+    "name_en": "One More",
+    "area": "東京都 平井駅",
+    "url": "https://tabelog.com/tokyo/A1312/A131202/13002937/",
+    "rating": 3.66,
+    "review_count_tabelog": 498,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Kissa (Japanese coffee shop), Pancake, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "09:30 - 16:30 L.O. 16:00",
+        "dtl_text": "09:30 - 16:30 L.O. 16:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 295,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJUfWXcLCIGGARZ2lkiCX73GE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13002937-2d1d648b9de380e657638aa7df4e1c3182fa2ca470f7d0d56eabd61f356a5349.jpg",
+    "place_id": "ChIJUfWXcLCIGGARZ2lkiCX73GE",
+    "g_name": "珈琲 ワンモア",
+    "g_rating": 4.3,
+    "g_reviews": 295,
+    "g_address": "日本、〒132-0035 東京都江戸川区平井５丁目２２−１１ ＨＡＮＭＡビル",
+    "lat": 35.7077557,
+    "lng": 139.8426778
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "Cafe Bach",
+    "name_en": "Cafe Bach",
+    "area": "東京都 南千住駅",
+    "url": "https://tabelog.com/tokyo/A1324/A132401/13003759/",
+    "rating": 3.75,
+    "review_count_tabelog": 873,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe, Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:30 - 18:30 L.O. Drinks 18:15",
+        "dtl_text": "10:30 - 18:30 L.O. Drinks 18:15",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every Tuesday and the second and fourth Wednesday of the month"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 1213,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJlfuRL-6OGGARgq63qSHI-nY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13003759-ba6fc945b548fe146d46d40737fa7243901d2b4544e61466c0131e26920fc726.jpg",
+    "place_id": "ChIJlfuRL-6OGGARgq63qSHI-nY",
+    "g_name": "カフェ バッハ",
+    "g_rating": 4.4,
+    "g_reviews": 1213,
+    "g_address": "日本、〒111-0021 東京都台東区日本堤１丁目２３−９",
+    "lat": 35.7268109,
+    "lng": 139.8003853
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "六曜社珈琲店",
+    "name_en": "Rokuyosha Coffee Ten",
+    "area": "京都府 京都市役所前駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260202/26013227/",
+    "rating": 3.65,
+    "review_count_tabelog": 655,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Kissa (Japanese coffee shop)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "08:30 - 22:30 L.O. 22:00",
+        "dtl_text": "08:30 - 22:30 L.O. 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 1047,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKQUNgYMIAWARkoSNKNLTwB8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/26013227-f7f80c812afcd107974b0a1e44d5a0d9c534d11d01f30ecf2bbc317c7d86d5a4.jpg",
+    "place_id": "ChIJKQUNgYMIAWARkoSNKNLTwB8",
+    "g_name": "六曜社珈琲店",
+    "g_rating": 4.2,
+    "g_reviews": 1047,
+    "g_address": "日本、〒604-8031 京都府京都市中京区大黒町４０−１ 六曜社",
+    "lat": 35.008466,
+    "lng": 135.7691875
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "ゼー六 本町店",
+    "name_en": "Zeroku Honmachi Ten",
+    "area": "大阪府 堺筋本町駅",
+    "url": "https://tabelog.com/osaka/A2701/A270106/27001820/",
+    "rating": 3.7,
+    "review_count_tabelog": 885,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Kissa (Japanese coffee shop), Gelato, Ice cream, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "09:00 - 18:00",
+        "dtl_text": "09:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "09:00 - 15:00",
+        "dtl_text": "09:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon - Fri": {},
+        "1st & 3rd Sat": {}
+      },
+      "closed_on": "2nd, 4th, and 5th Saturdays"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 380,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJNUmL1yPnAGARqjB8hTA5gTo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/27001820-208adf5b452286eadf571e7b5bbfba139dffb3a1fcc7addf0caf0857c7e6c40b.jpg",
+    "place_id": "ChIJNUmL1yPnAGARqjB8hTA5gTo",
+    "g_name": "ゼ－六 本町店",
+    "g_rating": 4.5,
+    "g_reviews": 380,
+    "g_address": "日本、〒541-0053 大阪府大阪市中央区本町１丁目３−２２",
+    "lat": 34.6833894,
+    "lng": 135.5092826
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "珈琲専門店 エース",
+    "name_en": "Coffee Senmonten Ace",
+    "area": "東京都 神田駅",
+    "url": "https://tabelog.com/tokyo/A1310/A131002/13020976/",
+    "rating": 3.65,
+    "review_count_tabelog": 756,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe, Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "07:00 - 18:00",
+        "dtl_text": "07:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "07:00 - 14:00",
+        "dtl_text": "07:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays, Sundays, and public holidays"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 578,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJyw7cZgGMGGARzqwP-wVXPIA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13020976-b6a3d971b97f3e0047d39d30ec1d7af2612d6d69431ac92c384533bb9709a1e3.jpg",
+    "place_id": "ChIJyw7cZgGMGGARzqwP-wVXPIA",
+    "g_name": "珈琲専門店 エース",
+    "g_rating": 4.2,
+    "g_reviews": 578,
+    "g_address": "日本、〒101-0047 東京都千代田区内神田３丁目１０−６",
+    "lat": 35.6915171,
+    "lng": 139.7692356
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "ヴェルデ",
+    "name_en": "Verde",
+    "area": "東京都 恵比寿駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130302/13050095/",
+    "rating": 3.71,
+    "review_count_tabelog": 846,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe, Cake",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri",
+        "dtl": "12:00 - 19:00",
+        "dtl_text": "12:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "12:00 - 18:00",
+        "dtl_text": "12:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 297,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJr2_9LEGLGGARAERQ8gMA3SQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13050095-a6a7fd4e57035e3be6a271cf7d829ba2e74049407483e5b2545586afde836b91.jpg",
+    "place_id": "ChIJr2_9LEGLGGARAERQ8gMA3SQ",
+    "g_name": "ヴェルデ",
+    "g_rating": 4.1,
+    "g_reviews": 297,
+    "g_address": "日本、〒150-0021 東京都渋谷区恵比寿西１丁目２０−８ コンド恵比寿",
+    "lat": 35.64637889999999,
+    "lng": 139.7064852
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "ミカド珈琲店 日本橋本店",
+    "name_en": "MIKADO Nihonbashihonten",
+    "area": "東京都 三越前駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130202/13006305/",
+    "rating": 3.67,
+    "review_count_tabelog": 1494,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "07:00 - 17:00",
+        "dtl_text": "07:00 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "10:00 - 18:00",
+        "dtl_text": "10:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 878,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJP6Dsz1WJGGARJMCkDhDF_aI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13006305-e3d419e38f06cfcc6c62f9c269404554bdb770aa4501cfdbcf5084f66f3d294d.jpg",
+    "place_id": "ChIJP6Dsz1WJGGARJMCkDhDF_aI",
+    "g_name": "ミカド珈琲店 日本橋本店",
+    "g_rating": 4,
+    "g_reviews": 878,
+    "g_address": "日本、〒103-0022 東京都中央区日本橋室町１丁目６−７",
+    "lat": 35.6855444,
+    "lng": 139.7748463
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "ロッジ赤石",
+    "name_en": "Lodge Akaishi",
+    "area": "東京都 浅草（つくばＥＸＰ）駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131102/13058004/",
+    "rating": 3.69,
+    "review_count_tabelog": 1067,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Yoshoku (Japanese style western cuisine), Pasta",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "09:00 - 22:30 L.O. 22:00",
+        "dtl_text": "09:00 - 22:30 L.O. 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 749,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1576kuqOGGARsK7GX2uGs4s",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13058004-530e5675138e835e747ea376ac333dcd8efc12da907f1d140b3423b9d7688317.jpg",
+    "place_id": "ChIJ1576kuqOGGARsK7GX2uGs4s",
+    "g_name": "ロッジ赤石",
+    "g_rating": 4.2,
+    "g_reviews": 749,
+    "g_address": "日本、〒111-0032 東京都台東区浅草３丁目８−４",
+    "lat": 35.7170339,
+    "lng": 139.7951232
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "エビアンコーヒー",
+    "name_en": "Evian Coffee",
+    "area": "兵庫県 元町（阪神）駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280102/28000650/",
+    "rating": 3.66,
+    "review_count_tabelog": 681,
+    "price_dinner": "～￥999",
+    "price_lunch": "-",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe, Sandwich",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Weekdays": {},
+        "Weekends & Public Holidays": {}
+      },
+      "closed_on": "1st and 3rd Tuesday and Wednesday (open on public holidays)"
+    },
+    "google_rating": 4,
+    "google_reviews": 465,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5z9hAv2OAGARvAOOteu3dN4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/28000650-bfe8a7baa600a9403788de63dc72b5808f10e9f7c0947460c8e726206fb2c6ba.jpg",
+    "place_id": "ChIJ5z9hAv2OAGARvAOOteu3dN4",
+    "g_name": "エビアンコーヒー",
+    "g_rating": 4,
+    "g_reviews": 465,
+    "g_address": "日本、〒650-0022 兵庫県神戸市中央区元町通１丁目７−２",
+    "lat": 34.6891664,
+    "lng": 135.1890749
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "さぼうる 2",
+    "name_en": "Sabouru 2",
+    "area": "東京都 神保町駅",
+    "url": "https://tabelog.com/tokyo/A1310/A131003/13011604/",
+    "rating": 3.49,
+    "review_count_tabelog": 1622,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Yoshoku (Japanese style western cuisine), Kissa (Japanese coffee shop), Bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 19:00",
+        "dtl_text": "11:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Public Holiday",
+        "dtl": "11:00 - 18:00",
+        "dtl_text": "11:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 1875,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-c9WERGMGGARhYoB-iRgKGQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13011604-d693de2a9ed1ac63520d68e3af49d44f381db78b67951c92a8db8bf688704543.jpg",
+    "place_id": "ChIJ-c9WERGMGGARhYoB-iRgKGQ",
+    "g_name": "洋食と喫茶 さぼうる２（ツー）",
+    "g_rating": 4.1,
+    "g_reviews": 1875,
+    "g_address": "日本、〒101-0051 東京都千代田区神田神保町１丁目１１",
+    "lat": 35.6955899,
+    "lng": 139.7585509
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "珈琲舎 蔵",
+    "name_en": "Coffee Sha Kura",
+    "area": "東京都 神保町駅",
+    "url": "https://tabelog.com/tokyo/A1310/A131003/13011597/",
+    "rating": 3.73,
+    "review_count_tabelog": 651,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 20:00",
+        "dtl_text": "11:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "12:00 - 17:00",
+        "dtl_text": "12:00 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.9,
+    "google_reviews": 128,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJYcV2zBaMGGARwiA6t9_BixI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13011597-ef09d0783e29de6e9b09db4f69416ea7ea0fba7e0f8ae7ecfbae07bff9208c8b.jpg",
+    "place_id": "ChIJYcV2zBaMGGARwiA6t9_BixI",
+    "g_name": "珈琲舎 蔵",
+    "g_rating": 3.9,
+    "g_reviews": 128,
+    "g_address": "日本、〒101-0051 東京都千代田区神田神保町１丁目２６ 矢崎ビル 2階",
+    "lat": 35.6970872,
+    "lng": 139.7593378
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "倉敷珈琲館",
+    "name_en": "Kurashiki Coffee Kan",
+    "area": "岡山県 倉敷市",
+    "url": "https://tabelog.com/okayama/A3302/A330201/33000383/",
+    "rating": 3.67,
+    "review_count_tabelog": 604,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "10:00 - 17:00",
+        "dtl_text": "10:00 - 17:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 468,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJcQP1ejhWUTUR3lOyMU4E6gA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/33000383-3dd297c1837988843402ea75a2ba716e9c1da067c2d56c54ba03fb4eddc4ba58.jpg",
+    "place_id": "ChIJcQP1ejhWUTUR3lOyMU4E6gA",
+    "g_name": "倉敷珈琲館",
+    "g_rating": 4.6,
+    "g_reviews": 468,
+    "g_address": "日本、〒710-0054 岡山県倉敷市本町４−１",
+    "lat": 34.5956779,
+    "lng": 133.7720422
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "ピノキオ",
+    "name_en": "Pinocchio",
+    "area": "東京都 大山駅",
+    "url": "https://tabelog.com/tokyo/A1322/A132203/13088456/",
+    "rating": 3.68,
+    "review_count_tabelog": 937,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Kissa (Japanese coffee shop), Pancake",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri, Sat, Sun",
+        "dtl": "09:00 - 18:00",
+        "dtl_text": "09:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "* The restaurant often closes early when pancakes are sold out. We recommend calling ahead if you plan to visit in the evening."
+    },
+    "google_rating": 4,
+    "google_reviews": 657,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9dlZUqOSGGARZqRYrarXC4I",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13088456-73933225b02d892c619ce665bf76328ad06b3cad26de3c8a36144e09eea606e7.jpg",
+    "place_id": "ChIJ9dlZUqOSGGARZqRYrarXC4I",
+    "g_name": "コーヒーショップ ピノキオ",
+    "g_rating": 4,
+    "g_reviews": 657,
+    "g_address": "日本、〒173-0024 東京都板橋区大山金井町１６−８",
+    "lat": 35.7447729,
+    "lng": 139.7068597
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "モトマチ喫茶",
+    "name_en": "Motomachi Kissa",
+    "area": "兵庫県 元町（ＪＲ）駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280102/28024154/",
+    "rating": 3.67,
+    "review_count_tabelog": 627,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe, Sweets (Western style)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 18:30 L.O. Food 18:00",
+        "dtl_text": "12:00 - 18:30 L.O. Food 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 292,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJkVtc6-KOAGARMgsKriTrDIc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/28024154-91708bba2829bea283e3a1f67033a7e1295bd429d362f4db104debf01b9c67fd.jpg",
+    "place_id": "ChIJkVtc6-KOAGARMgsKriTrDIc",
+    "g_name": "モトマチ喫茶",
+    "g_rating": 4.1,
+    "g_reviews": 292,
+    "g_address": "日本、〒650-0012 兵庫県神戸市中央区北長狭通３丁目９−７",
+    "lat": 34.6917545,
+    "lng": 135.1879388
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "アンセーニュダングル 原宿店",
+    "name_en": "Enseigne d'angle  Harajuku Ten",
+    "area": "東京都 原宿駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130601/13007015/",
+    "rating": 3.71,
+    "review_count_tabelog": 647,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 21:00",
+        "dtl_text": "10:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 304,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJuyy6tbuMGGARi86KPupaiUM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13007015-56fbea01d1f4cdc1e98fa7d6b23497c7dd81c6261550bc6c2502b5f5a1b6a94d.jpg",
+    "place_id": "ChIJuyy6tbuMGGARi86KPupaiUM",
+    "g_name": "カフェ・アンセーニュ・ダングル 原宿店",
+    "g_rating": 4.4,
+    "g_reviews": 304,
+    "g_address": "日本、〒151-0051 東京都渋谷区千駄ケ谷３丁目６１−１１",
+    "lat": 35.6737037,
+    "lng": 139.704086
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "DEN",
+    "name_en": "DEN",
+    "area": "東京都 鶯谷駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131104/13041212/",
+    "rating": 3.67,
+    "review_count_tabelog": 851,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "09:00 - 18:00 L.O. Food 17:00",
+        "dtl_text": "09:00 - 18:00 L.O. Food 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 581,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJx_3fpIWOGGARpRERxNUd47U",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13041212-d271a4706df293f4c5542d3114829398ff1a92bac1f9c3ac82f2463e2552d1e7.jpg",
+    "place_id": "ChIJx_3fpIWOGGARpRERxNUd47U",
+    "g_name": "喫茶デン",
+    "g_rating": 4.1,
+    "g_reviews": 581,
+    "g_address": "日本、〒110-0003 東京都台東区根岸３丁目３−１８ メゾン根岸",
+    "lat": 35.7221669,
+    "lng": 139.7814786
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "六曜社 地下店",
+    "name_en": "Rokuyosha Chikaten",
+    "area": "京都府 京都市役所前駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260202/26000159/",
+    "rating": 3.65,
+    "review_count_tabelog": 537,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe, Bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 23:00",
+        "dtl_text": "12:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Bar": {}
+      },
+      "closed_on": "Wednesdays (the bar is open every day)"
+    },
+    "google_rating": 3.6,
+    "google_reviews": 131,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJNWerh5IIAWARFaoo6kriZgM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/26000159-6277ee6b32b25dda2ef59bf7c1b8ba8d13321e619dad78661a7b3231cd86460c.jpg",
+    "place_id": "ChIJNWerh5IIAWARFaoo6kriZgM",
+    "g_name": "京都市役所前駅",
+    "g_rating": 3.6,
+    "g_reviews": 131,
+    "g_address": "日本、〒604-8006 京都府京都市中京区下丸屋町",
+    "lat": 35.0109265,
+    "lng": 135.7693484
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "タイズ",
+    "name_en": "TIES",
+    "area": "東京都 本郷三丁目駅",
+    "url": "https://tabelog.com/tokyo/A1310/A131004/13018359/",
+    "rating": 3.75,
+    "review_count_tabelog": 709,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe, Cake",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Fri, Sat, Sun",
+        "dtl": "12:00 - 17:30 L.O. 17:00",
+        "dtl_text": "12:00 - 17:30 L.O. 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 244,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJV5CBbyOMGGAR20AATzgVuWc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13018359-846fb0a0b51ac73c9058a9ee03fdcb966ce7a66c3d418d51c429d833c425694c.jpg",
+    "place_id": "ChIJV5CBbyOMGGAR20AATzgVuWc",
+    "g_name": "TIES",
+    "g_rating": 4.3,
+    "g_reviews": 244,
+    "g_address": "日本、〒113-0034 東京都文京区湯島４丁目１−１３ 倉林ビル 1F",
+    "lat": 35.7075509,
+    "lng": 139.7644493
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "コヒア アラビカ",
+    "name_en": "Coffee Arabica",
+    "area": "東京都 赤坂見附駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130801/13013444/",
+    "rating": 3.69,
+    "review_count_tabelog": 536,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 20:00",
+        "dtl_text": "12:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.4,
+    "google_reviews": 182,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJy2zN3-MGGARTt99xnM-MQk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13013444-9941d5170016a40cd953e75b96ae9ee2175a7971c61acb04b291a87e9bdc782a.jpg",
+    "place_id": "ChIJJy2zN3-MGGARTt99xnM-MQk",
+    "g_name": "コヒア・アラビカ",
+    "g_rating": 3.4,
+    "g_reviews": 182,
+    "g_address": "日本、〒107-0052 東京都港区赤坂３丁目１８−２ 第一三州ビルＢ１Ｆ",
+    "lat": 35.6755031,
+    "lng": 139.7366853
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "アメリカン",
+    "name_en": "American",
+    "area": "東京都 東銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13051375/",
+    "rating": 3.68,
+    "review_count_tabelog": 1863,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Sandwich, Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "08:30 - 10:30 11:30 - 14:00 L.O. Food 13:00",
+        "dtl_text": "11:30 - 14:00 L.O. Food 13:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.6,
+    "google_reviews": 1078,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJx5ZQv-CLGGARIrWPgSf4H0E",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13051375-9c695c0c1cd24e52f1c93915c53c6f0ad7a47ae88ccf646f0b1aea62b3f5921f.jpg",
+    "place_id": "ChIJx5ZQv-CLGGARIrWPgSf4H0E",
+    "g_name": "AMERICAN",
+    "g_rating": 3.6,
+    "g_reviews": 1078,
+    "g_address": "日本、〒104-0061 東京都中央区銀座４丁目１１−７",
+    "lat": 35.6697723,
+    "lng": 139.7687412
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "珈琲館 紅鹿舎",
+    "name_en": "Coffee Kan Benishika",
+    "area": "東京都 日比谷駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130102/13002146/",
+    "rating": 3.7,
+    "review_count_tabelog": 1605,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe, Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 23:00 L.O. Food 22:15 Drinks 22:30",
+        "dtl_text": "11:00 - 23:00 L.O. Food 22:15 Drinks 22:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Day after public holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 993,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJSbiDx--LGGARqNvve7T-ZH0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13002146-a407f4d7cbcf51644b3743af2101b0b746d3de6ebc18103d6931a50f15e1d985.jpg",
+    "place_id": "ChIJSbiDx--LGGARqNvve7T-ZH0",
+    "g_name": "cafe 紅鹿舎 （珈琲館 紅鹿舎）",
+    "g_rating": 4,
+    "g_reviews": 993,
+    "g_address": "日本、〒100-0006 東京都千代田区有楽町１丁目６−８ 松井ビル １階",
+    "lat": 35.6735437,
+    "lng": 139.7609978
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "アラビヤコーヒー",
+    "name_en": "ARABIYA",
+    "area": "大阪府 大阪難波駅",
+    "url": "https://tabelog.com/osaka/A2701/A270202/27001511/",
+    "rating": 3.66,
+    "review_count_tabelog": 883,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe, Sandwich",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri",
+        "dtl": "12:00 - 18:00",
+        "dtl_text": "12:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "10:00 - 18:00",
+        "dtl_text": "10:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "10:00 - 19:00",
+        "dtl_text": "10:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays may have a 12:00 opening."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 751,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJBR7SmBTnAGARPDfarmJFyPM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/27001511-6a3d242cd50e27b8f496f8082d69b11a4395903dd6c226bf30d40c5a36f684f0.jpg",
+    "place_id": "ChIJBR7SmBTnAGARPDfarmJFyPM",
+    "g_name": "アラビヤコーヒー",
+    "g_rating": 4.2,
+    "g_reviews": 751,
+    "g_address": "日本、〒542-0076 大阪府大阪市中央区難波１丁目６−７",
+    "lat": 34.6679179,
+    "lng": 135.5018628
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "珈琲 まるも",
+    "name_en": "Coffee Marumo",
+    "area": "長野県 松本市",
+    "url": "https://tabelog.com/nagano/A2002/A200201/20000622/",
+    "rating": 3.66,
+    "review_count_tabelog": 642,
+    "price_dinner": "～￥999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cake",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "09:00 - 16:00 L.O. 15:30",
+        "dtl_text": "09:00 - 16:00 L.O. 15:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 589,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJOy39HpIOHWAR1oGptV0L5sI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/20000622-eb4e656cf4a63e26a67ec211ce4e85f56a07d683ae17215f997f93c9876018ab.jpg",
+    "place_id": "ChIJOy39HpIOHWAR1oGptV0L5sI",
+    "g_name": "珈琲 まるも",
+    "g_rating": 4.2,
+    "g_reviews": 589,
+    "g_address": "日本、〒390-0811 長野県松本市中央３丁目３−１０",
+    "lat": 36.2342818,
+    "lng": 137.9723801
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "ばん珈琲店",
+    "name_en": "Ban Coffee Ten",
+    "area": "大阪府 森ノ宮駅",
+    "url": "https://tabelog.com/osaka/A2701/A270107/27037023/",
+    "rating": 3.68,
+    "review_count_tabelog": 209,
+    "price_dinner": "～￥999",
+    "price_lunch": "-",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays and Thursdays"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 99,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZWJSzcngAGAROd9Z5atK-ZA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/27037023-c60bc6c2c15499f278e25f1e5e0345bea9a7d3cc64ad4d5774284dd4d85072f6.jpg",
+    "place_id": "ChIJZWJSzcngAGAROd9Z5atK-ZA",
+    "g_name": "ばん珈琲店",
+    "g_rating": 4.3,
+    "g_reviews": 99,
+    "g_address": "日本、〒540-0003 大阪府大阪市中央区森ノ宮中央１丁目１６−２１",
+    "lat": 34.6812659,
+    "lng": 135.5323414
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "茶房 武蔵野文庫",
+    "name_en": "Sabo Musashino Bunko",
+    "area": "東京都 吉祥寺駅",
+    "url": "https://tabelog.com/tokyo/A1320/A132001/13005823/",
+    "rating": 3.69,
+    "review_count_tabelog": 971,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "10:00 - 21:00 L.O. 20:30",
+        "dtl_text": "10:00 - 21:00 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 387,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJWUYj3UjuGGARfL3yXBYLnAM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13005823-5cea5840b17897eae7d4569c20064d438dae32166c03d2ef082ec1780bf0f0fc.jpg",
+    "place_id": "ChIJWUYj3UjuGGARfL3yXBYLnAM",
+    "g_name": "茶房武蔵野文庫",
+    "g_rating": 4,
+    "g_reviews": 387,
+    "g_address": "日本、〒180-0004 東京都武蔵野市吉祥寺本町２丁目１３−４ 井野ビル",
+    "lat": 35.7051332,
+    "lng": 139.576894
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "さえら",
+    "name_en": "Saera",
+    "area": "北海道 大通駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010102/1000026/",
+    "rating": 3.67,
+    "review_count_tabelog": 1477,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Sandwich, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "10:00 - 18:00 L.O. Food 17:00",
+        "dtl_text": "10:00 - 18:00 L.O. Food 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 1303,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ___UKJ0pC18R3NB89IdPJLI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/1000026-39d80fe33c18a6cf70d10dc168773939f6fb17631d594e7e1ad7d0ed381f0581.jpg",
+    "place_id": "ChIJ___UKJ0pC18R3NB89IdPJLI",
+    "g_name": "珈琲とサンドイッチの店 さえら",
+    "g_rating": 4.2,
+    "g_reviews": 1303,
+    "g_address": "日本、〒060-0042 北海道札幌市中央区大通西２丁目５−１ 都心ビル B3F",
+    "lat": 43.0602379,
+    "lng": 141.3543745
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "ビクトリー",
+    "name_en": "Victory",
+    "area": "大阪府 肥後橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270102/27000271/",
+    "rating": 3.68,
+    "review_count_tabelog": 411,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Kissa (Japanese coffee shop), Sandwich, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "10:00 - 17:00",
+        "dtl_text": "10:00 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays, Public Holidays, and Not fixed"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 133,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJs2l_n_DmAGARQjF7TMejaDU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/27000271-0dd42725f272d6697c3805a8000ac54bf32a504c026a1488502625ec632f4a25.jpg",
+    "place_id": "ChIJs2l_n_DmAGARQjF7TMejaDU",
+    "g_name": "ビクトリー",
+    "g_rating": 4.4,
+    "g_reviews": 133,
+    "g_address": "日本、〒550-0002 大阪府大阪市西区江戸堀１丁目２３−３１",
+    "lat": 34.6896144,
+    "lng": 135.493234
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "ツェーンコーヒー",
+    "name_en": "Zehn Coffee",
+    "area": "東京都 湯島駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131101/13043953/",
+    "rating": 3.71,
+    "review_count_tabelog": 520,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "08:00 - 17:00",
+        "dtl_text": "08:00 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every Wednesday, as well as the second and fourth Tuesday of each month."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 173,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJSeNyzSGMGGAR9s3pi4KWueA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13043953-595f70c1073c1cd43abdef8d73de4e20c8af4105d5c29b466cb24ce3106951e1.jpg",
+    "place_id": "ChIJSeNyzSGMGGAR9s3pi4KWueA",
+    "g_name": "ツェーンコーヒー",
+    "g_rating": 4.5,
+    "g_reviews": 173,
+    "g_address": "日本、〒110-0005 東京都台東区上野１丁目１４−２ 笹川ビル",
+    "lat": 35.7066107,
+    "lng": 139.7700995
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "ダンケ 心斎橋",
+    "name_en": "Danke Shinsaibashi",
+    "area": "大阪府 心斎橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270201/27053278/",
+    "rating": 3.7,
+    "review_count_tabelog": 609,
+    "price_dinner": "～￥999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe, Sweets (Western style)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 23:30 L.O. 23:00",
+        "dtl_text": "11:30 - 23:30 L.O. 23:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Currently only on New Year's Day"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 362,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ1rVSxfnAGARqXbf5PBnUaw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/27053278-a4e419cc1d3f1d2c7df479af4923770aae3c4d556fa1e2d3c0e6e280dda52e5b.jpg",
+    "place_id": "ChIJQ1rVSxfnAGARqXbf5PBnUaw",
+    "g_name": "バターブレンドコーヒー ダンケ",
+    "g_rating": 4.3,
+    "g_reviews": 362,
+    "g_address": "日本、〒542-0085 大阪府大阪市中央区心斎橋筋１丁目２−２２ サニーサイドプレイスビル 2F",
+    "lat": 34.6746789,
+    "lng": 135.5019283
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "イワタコーヒー店",
+    "name_en": "Iwata Coffee Ten",
+    "area": "神奈川県 鎌倉駅",
+    "url": "https://tabelog.com/kanagawa/A1404/A140402/14002091/",
+    "rating": 3.68,
+    "review_count_tabelog": 1426,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Kissa (Japanese coffee shop), Pancake, Sweets (Western style)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "09:30 - 18:00",
+        "dtl_text": "09:30 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every second Wednesday, with possible alternate closures on public holidays."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 1381,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ5NCfcFFGGARU0dp7wRqRs8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/14002091-568ec079a98ff0cdd1079718b42253df49d17335f6a7ad47e86dd532b3f8b595.jpg",
+    "place_id": "ChIJJ5NCfcFFGGARU0dp7wRqRs8",
+    "g_name": "イワタコーヒー店",
+    "g_rating": 4.2,
+    "g_reviews": 1381,
+    "g_address": "日本、〒248-0006 神奈川県鎌倉市小町１丁目５−７",
+    "lat": 35.3194587,
+    "lng": 139.5514081
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "珈琲貴族エジンバラ",
+    "name_en": "Coffee Kizoku Edinburgh",
+    "area": "東京都 新宿三丁目駅",
+    "url": "https://tabelog.com/tokyo/A1304/A130401/13017217/",
+    "rating": 3.71,
+    "review_count_tabelog": 1500,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "Open 24 hours",
+        "dtl_text": "Open 24 hours"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 1614,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJt_gWX9uMGGARWdvJVMz9JwU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13017217-31eb258d524215958f0de5d48b54b70232bd398bbcf2b9a54999b25fd8f7d934.jpg",
+    "place_id": "ChIJt_gWX9uMGGARWdvJVMz9JwU",
+    "g_name": "珈琲貴族エジンバラ",
+    "g_rating": 4.1,
+    "g_reviews": 1614,
+    "g_address": "日本、〒160-0022 東京都新宿区新宿３丁目２−４",
+    "lat": 35.690485,
+    "lng": 139.7063233
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "カフェ・トロワバグ",
+    "name_en": "Trois Bagues",
+    "area": "東京都 神保町駅",
+    "url": "https://tabelog.com/tokyo/A1310/A131003/13011637/",
+    "rating": 3.72,
+    "review_count_tabelog": 964,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "10:00 - 20:00",
+        "dtl_text": "10:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Public Holiday",
+        "dtl": "12:00 - 19:00",
+        "dtl_text": "12:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 310,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-ZwOThGMGGARMoq7ozDhUsk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13011637-3981003f1a30aac9801000bf125d2339a2754a14fe29ca44e7581a73ee9fedf6.jpg",
+    "place_id": "ChIJ-ZwOThGMGGARMoq7ozDhUsk",
+    "g_name": "カフェ トロワバグ",
+    "g_rating": 4.1,
+    "g_reviews": 310,
+    "g_address": "日本、〒101-0051 東京都千代田区神田神保町１丁目１２−１ 富田ビル B1F",
+    "lat": 35.6962996,
+    "lng": 139.7582493
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "珈琲亭 ルアン",
+    "name_en": "Coffee Tei Ruan",
+    "area": "東京都 大森駅",
+    "url": "https://tabelog.com/tokyo/A1315/A131502/13008294/",
+    "rating": 3.68,
+    "review_count_tabelog": 857,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe, Cake",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri",
+        "dtl": "07:00 - 18:30",
+        "dtl_text": "07:00 - 18:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "07:30 - 17:30",
+        "dtl_text": "07:30 - 17:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 756,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJh7SNiTFgGGAR1DkObhKtz6M",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13008294-b21ad9b8065863b11ef088aa1d87aae8a7fbb2ea1302de6f9f7ccc182da08b75.jpg",
+    "place_id": "ChIJh7SNiTFgGGAR1DkObhKtz6M",
+    "g_name": "珈琲亭ルアン",
+    "g_rating": 4.3,
+    "g_reviews": 756,
+    "g_address": "日本、〒143-0016 東京都大田区大森北１丁目３６−２",
+    "lat": 35.5860987,
+    "lng": 139.7268013
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "茶房 天井棧敷",
+    "name_en": "Sabou Tenjou Sajiki",
+    "area": "大分県 由布市",
+    "url": "https://tabelog.com/oita/A4402/A440201/44000043/",
+    "rating": 3.62,
+    "review_count_tabelog": 492,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "09:00 - 17:00",
+        "dtl_text": "09:00 - 17:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 749,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJwdevqH2uRjURoerEsBnw5Vg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/44000043-96d51cb5d8f278e4de6f20d6f9542662bc9112d5911f25f6b1de8505bb498096.jpg",
+    "place_id": "ChIJwdevqH2uRjURoerEsBnw5Vg",
+    "g_name": "茶房 天井棧敷",
+    "g_rating": 4.5,
+    "g_reviews": 749,
+    "g_address": "日本、〒879-5102 大分県由布市湯布院町川上２６３３−１",
+    "lat": 33.2660745,
+    "lng": 131.3683461
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "生きている珈琲",
+    "name_en": "Ikiteiru Coffee",
+    "area": "京都府 京都河原町駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260201/26017295/",
+    "rating": 3.69,
+    "review_count_tabelog": 635,
+    "price_dinner": "～￥999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "12:00 - 19:00 L.O. 18:20",
+        "dtl_text": "12:00 - 19:00 L.O. 18:20",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "10:00 - 19:00 L.O. 18:20",
+        "dtl_text": "10:00 - 19:00 L.O. 18:20",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 632,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJow2VlJYIAWARHw3fdo6lwY8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/26017295-b46540f9fe14011e1879f39e4027311c690ad9a83756b6d4a2019884d982b5b6.jpg",
+    "place_id": "ChIJow2VlJYIAWARHw3fdo6lwY8",
+    "g_name": "生きている珈琲",
+    "g_rating": 4.3,
+    "g_reviews": 632,
+    "g_address": "日本、〒600-8005 京都府京都市下京区立売東町２４ みのや四条ビル B1F",
+    "lat": 35.0039278,
+    "lng": 135.7651422
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "ラドリオ",
+    "name_en": "LADRIO",
+    "area": "東京都 神保町駅",
+    "url": "https://tabelog.com/tokyo/A1310/A131003/13006555/",
+    "rating": 3.7,
+    "review_count_tabelog": 1012,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Bar, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri",
+        "dtl": "11:30 - 22:30 L.O. 22:00",
+        "dtl_text": "11:30 - 22:30 L.O. 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "12:00 - 19:00 L.O. 18:30",
+        "dtl_text": "12:00 - 19:00 L.O. 18:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 643,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJrZPAHBGMGGARge1vNIrQh80",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13006555-aeb6bb2ba2381e9e4960f92bf2f8fd7f3e24e6cc8a329ee0262e0f1533ba9ce7.jpg",
+    "place_id": "ChIJrZPAHBGMGGARge1vNIrQh80",
+    "g_name": "CAFÉ ラドリオ",
+    "g_rating": 4.1,
+    "g_reviews": 643,
+    "g_address": "日本、〒101-0051 東京都千代田区神田神保町１丁目３",
+    "lat": 35.6956391,
+    "lng": 139.7597995
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "YOU",
+    "name_en": "YOU",
+    "area": "東京都 東銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13002318/",
+    "rating": 3.72,
+    "review_count_tabelog": 3273,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Sandwich, Omurice (Omelette rice)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri",
+        "dtl": "11:00 - 16:30 L.O. 16:00",
+        "dtl_text": "11:00 - 16:30 L.O. 16:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "11:00 - 16:30 L.O. 15:30",
+        "dtl_text": "11:00 - 16:30 L.O. 15:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Year-end & New Year Holidays"
+    },
+    "google_rating": 4,
+    "google_reviews": 1849,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJayTpu-CLGGARluW4IBgm6kg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13002318-697889f37a4743a24185ab852391e5523267487e3284f85ceb51e87f4d06cabd.jpg",
+    "place_id": "ChIJayTpu-CLGGARluW4IBgm6kg",
+    "g_name": "喫茶 you",
+    "g_rating": 4,
+    "g_reviews": 1849,
+    "g_address": "日本、〒104-0061 東京都中央区銀座４丁目１３−１７ 高野ビル 1F・2F",
+    "lat": 35.6694644,
+    "lng": 139.7686589
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "胡桃堂喫茶店",
+    "name_en": "Kurumi Do Kissa Ten",
+    "area": "東京都 国分寺駅",
+    "url": "https://tabelog.com/tokyo/A1325/A132502/13206891/",
+    "rating": 3.7,
+    "review_count_tabelog": 582,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "11:00 - 18:00 L.O. 17:30",
+        "dtl_text": "11:00 - 18:00 L.O. 17:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 460,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJkxdrlTXkGGARRFi9fb6MVXM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13206891-bc6e49b22a401bca857a5971dae9ca6fffecd648d3f4b5a6e551d33ba3368303.jpg",
+    "place_id": "ChIJkxdrlTXkGGARRFi9fb6MVXM",
+    "g_name": "胡桃堂喫茶店",
+    "g_rating": 4.3,
+    "g_reviews": 460,
+    "g_address": "日本、〒185-0012 東京都国分寺市本町２丁目１７−３",
+    "lat": 35.7015851,
+    "lng": 139.4835621
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "カヤバ珈琲",
+    "name_en": "Kayaba Coffee",
+    "area": "東京都 根津駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131104/13019585/",
+    "rating": 3.73,
+    "review_count_tabelog": 1299,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe, Kakigori (Shaved ice)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "08:00 - 18:00 L.O. Food 17:00 Drinks 17:30",
+        "dtl_text": "08:00 - 18:00 L.O. Food 17:00 Drinks 17:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (closed the following Tuesday if Monday is a public holiday)"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 1892,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJrdgn_9KNGGAR51pQCSVxBbI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13019585-52d35d2524d5a35044d659096f96db443560e54c3025523c22f33c579ef16750.jpg",
+    "place_id": "ChIJrdgn_9KNGGAR51pQCSVxBbI",
+    "g_name": "カヤバ珈琲",
+    "g_rating": 4.2,
+    "g_reviews": 1892,
+    "g_address": "日本、〒110-0001 東京都台東区谷中６丁目１−２９",
+    "lat": 35.721158,
+    "lng": 139.770721
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "KAKO 柳橋店",
+    "name_en": "KAKO Yanagibashi Ten",
+    "area": "愛知県 国際センター駅",
+    "url": "https://tabelog.com/aichi/A2301/A230101/23032087/",
+    "rating": 3.68,
+    "review_count_tabelog": 980,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe, Bread",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "07:00 - 15:00 L.O. 14:30",
+        "dtl_text": "07:00 - 15:00 L.O. 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Fri, Sat, Sun",
+        "dtl": "07:00 - 17:00 L.O. 16:30",
+        "dtl_text": "07:00 - 17:00 L.O. 16:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 786,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_0eYBNl2A2ARjdT28HRFCFc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/23032087-11924bf17ef222d083ac446ecd5f863e661f15f2931014b1af9d1e2aa64f8d82.jpg",
+    "place_id": "ChIJ_0eYBNl2A2ARjdT28HRFCFc",
+    "g_name": "kako柳橋店",
+    "g_rating": 4,
+    "g_reviews": 786,
+    "g_address": "日本、〒450-0003 愛知県名古屋市中村区名駅５丁目３０−４ 名駅ＫＤビル",
+    "lat": 35.1690663,
+    "lng": 136.8900961
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "トリコロール 本店",
+    "name_en": "Tricolore Hon Ten",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13007761/",
+    "rating": 3.75,
+    "review_count_tabelog": 1858,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe, Cake",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "08:00 - 19:00 L.O. 18:30",
+        "dtl_text": "08:00 - 19:00 L.O. 18:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Starting June 2023, the restaurant will have regular closing days, primarily on Tuesdays. For more details, please check our official account on Instagram or contact the restaurant directly."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 1276,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJC2oNCO-LGGARxV0IFmgNzJU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13007761-446dee26cb2edde966d8587b5f7ae9555e4c82da174ba95cde9690fd37cdb8c0.jpg",
+    "place_id": "ChIJC2oNCO-LGGARxV0IFmgNzJU",
+    "g_name": "トリコロール本店",
+    "g_rating": 4.3,
+    "g_reviews": 1276,
+    "g_address": "日本、〒104-0061 東京都中央区銀座５丁目９−１７",
+    "lat": 35.6702543,
+    "lng": 139.7650095
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "神田伯剌西爾",
+    "name_en": "Kanda Brazil",
+    "area": "東京都 神保町駅",
+    "url": "https://tabelog.com/tokyo/A1310/A131003/13011590/",
+    "rating": 3.71,
+    "review_count_tabelog": 1033,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe, Cake",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 21:00",
+        "dtl_text": "11:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "11:00 - 19:00",
+        "dtl_text": "11:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 560,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJMcHsGRGMGGAR6N5SJOHGdls",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13011590-43b3edc762aa009902e89783a37f6c43fd4945f3fc96ef0bb49167820e429867.jpg",
+    "place_id": "ChIJMcHsGRGMGGAR6N5SJOHGdls",
+    "g_name": "神田伯剌西爾",
+    "g_rating": 4.2,
+    "g_reviews": 560,
+    "g_address": "日本、〒101-0051 東京都千代田区神田神保町１丁目７ 書泉グランデ脇小宮山ビル",
+    "lat": 35.6957392,
+    "lng": 139.7595365
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "モール&ホソイコーヒーズ",
+    "name_en": "Mole & hosoi coffees",
+    "area": "大阪府 淀屋橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270102/27020048/",
+    "rating": 3.69,
+    "review_count_tabelog": 406,
+    "price_dinner": "～￥999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 19:00 L.O. 18:00",
+        "dtl_text": "11:30 - 19:00 L.O. 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "12:00 - 18:00 L.O. 17:00",
+        "dtl_text": "12:00 - 18:00 L.O. 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.7,
+    "google_reviews": 119,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0X2gq-bmAGARZv4A_1thZMA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/27020048-787b8996578c6b57166ed39b9f23fce520f59bcc543c9d43c75b0e4bca62657a.jpg",
+    "place_id": "ChIJ0X2gq-bmAGARZv4A_1thZMA",
+    "g_name": "Mole&Hosoi Coffees / Mole Gallery",
+    "g_rating": 3.7,
+    "g_reviews": 119,
+    "g_address": "日本、〒541-0044 大阪府大阪市中央区伏見町３丁目３−３ 芝川ビル 地下1階",
+    "lat": 34.689117,
+    "lng": 135.50184
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "トロワ・シャンブル",
+    "name_en": "Café Trois Chambres",
+    "area": "東京都 下北沢駅",
+    "url": "https://tabelog.com/tokyo/A1318/A131802/13013091/",
+    "rating": 3.68,
+    "review_count_tabelog": 709,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "09:30 - 20:00",
+        "dtl_text": "09:30 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 474,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJl5wvbGnzGGARuX7WKY9Xjj8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13013091-66f95c1d83817b8c0d5e363b9413da1cca9264cd3b9604219856e4489fa051e6.jpg",
+    "place_id": "ChIJl5wvbGnzGGARuX7WKY9Xjj8",
+    "g_name": "トロワ・シャンブル",
+    "g_rating": 4.2,
+    "g_reviews": 474,
+    "g_address": "日本、〒155-0032 東京都世田谷区代沢５丁目３６−１４ 湯浅ビル 2階",
+    "lat": 35.6592553,
+    "lng": 139.6673497
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "茶亭 羽當",
+    "name_en": "Chatei Hatou",
+    "area": "東京都 渋谷駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130301/13001169/",
+    "rating": 3.76,
+    "review_count_tabelog": 1891,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe, Cake",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 23:00 L.O. 22:00",
+        "dtl_text": "11:00 - 23:00 L.O. 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 1883,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGQivCliLGGARQGD2vV8CIII",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13001169-2105217069d5391c2e711eb1926e0ce11b05ff5f4960ccade681afab8c87fc47.jpg",
+    "place_id": "ChIJGQivCliLGGARQGD2vV8CIII",
+    "g_name": "茶亭 羽當 渋谷",
+    "g_rating": 4,
+    "g_reviews": 1883,
+    "g_address": "日本、〒150-0002 東京都渋谷区渋谷１丁目１５−１９",
+    "lat": 35.6604614,
+    "lng": 139.7027761
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "元町サントス",
+    "name_en": "Motomachi Santos",
+    "area": "兵庫県 元町（阪神）駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280102/28001590/",
+    "rating": 3.67,
+    "review_count_tabelog": 989,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Kissa (Japanese coffee shop), Pancake, Sandwich",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "08:00 - 19:00 L.O. 18:30",
+        "dtl_text": "08:00 - 19:00 L.O. 18:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 789,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJlydNZf2OAGARfojgpGrdoD0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/28001590-e448a5bbdd1098a6faada9a6414ee6872f263340d099865d7e2af11f2df2d9ae.jpg",
+    "place_id": "ChIJlydNZf2OAGARfojgpGrdoD0",
+    "g_name": "萩原珈琲店 元町サントス",
+    "g_rating": 4.1,
+    "g_reviews": 789,
+    "g_address": "日本、〒650-0022 兵庫県神戸市中央区元町通２丁目３−１２",
+    "lat": 34.6884526,
+    "lng": 135.1874503
+  },
+  {
+    "category_jp": "喫茶店",
+    "category_en": "喫茶店",
+    "region": "喫茶店 百名店",
+    "name": "珈琲道場 侍",
+    "name_en": "Coffee Dojo Samurai",
+    "area": "東京都 亀戸駅",
+    "url": "https://tabelog.com/tokyo/A1312/A131202/13018018/",
+    "rating": 3.7,
+    "review_count_tabelog": 914,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Kissa (Japanese coffee shop), Cafe, Bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu",
+        "dtl": "08:00 - 21:30",
+        "dtl_text": "08:00 - 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Fri, Sat",
+        "dtl": "08:00 - 23:00",
+        "dtl_text": "08:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Business hours have changed as of February 2025."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 834,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJE3rq-cOIGGARGMQzUGZlLF4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2022/restaurants/kissaten/13018018-b501e18d3938d93e600737ddd42545e083a8df4049478e572313b21369c93d17.jpg",
+    "place_id": "ChIJE3rq-cOIGGARGMQzUGZlLF4",
+    "g_name": "珈琲道場 侍",
+    "g_rating": 4.5,
+    "g_reviews": 834,
+    "g_address": "サンポービル 2F, ６丁目-５７-２２ 亀戸 江東区 東京都 136-0071 日本",
+    "lat": 35.69695859999999,
+    "lng": 139.8285677
+  }
+]

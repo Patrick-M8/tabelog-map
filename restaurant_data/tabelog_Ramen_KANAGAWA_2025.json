@@ -1,0 +1,4755 @@
+[
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "ラーメン＆カレー専門店 太源",
+    "name_en": "Ramen & Curry Senmonten Taigen",
+    "area": "神奈川県 伊勢佐木長者町駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140104/14001113/",
+    "rating": 3.67,
+    "review_count_tabelog": 1040,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Curry",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 02:30",
+        "dtl_text": "11:00 - 02:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 1194,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_VYEWPNcGGARgKUP345rubw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14001113-7ab6456be9d81303752b0fdfa453bcd9c870cc105b15b2db3ad1024abdeb5a26.jpg",
+    "place_id": "ChIJ_VYEWPNcGGARgKUP345rubw",
+    "g_name": "ラーメン&カレー太源",
+    "g_rating": 4.1,
+    "g_reviews": 1194,
+    "g_address": "日本、〒231-0045 神奈川県横浜市中区伊勢佐木町２丁目８１",
+    "lat": 35.4432005,
+    "lng": 139.6305895
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "横浜家系らーめん 天王家 寒川総本店",
+    "name_en": "Yokohama Iekei Ramen Tennoya Samukawasohonten",
+    "area": "神奈川県 高座郡寒川町",
+    "url": "https://tabelog.com/kanagawa/A1404/A140406/14080094/",
+    "rating": 3.72,
+    "review_count_tabelog": 534,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 19:30",
+        "dtl_text": "11:00 - 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (the following Tuesday if it falls on a holiday)"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 794,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJUf_tVXJTGGARCnWsm3z7Vt0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14080094-a5125927673c135d20db8d350958202af184729778417bf30134199bec2bf9af.jpg",
+    "place_id": "ChIJUf_tVXJTGGARCnWsm3z7Vt0",
+    "g_name": "横浜家系らーめん 天王家 寒川総本店",
+    "g_rating": 4.1,
+    "g_reviews": 794,
+    "g_address": "日本、〒253-0103 神奈川県高座郡寒川町小谷１丁目１−４３",
+    "lat": 35.3763617,
+    "lng": 139.3963423
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "麺処 ら塾",
+    "name_en": "Men Dokoro Rajuku",
+    "area": "神奈川県 藤沢駅",
+    "url": "https://tabelog.com/kanagawa/A1404/A140404/14011366/",
+    "rating": 3.7,
+    "review_count_tabelog": 555,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00 L.O. 13:50 18:00 - 19:00 L.O. 18:50",
+        "dtl_text": "18:00 - 19:00 L.O. 18:50"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 461,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDaLAjTROGGARRCM9y5fiEMU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14011366-8fd1e6c34c68c16f30969b45c88265ffb715d8a80d4854a8b4ddb75e56907bab.jpg",
+    "place_id": "ChIJDaLAjTROGGARRCM9y5fiEMU",
+    "g_name": "麺処ら塾",
+    "g_rating": 4.1,
+    "g_reviews": 461,
+    "g_address": "日本、〒251-0023 神奈川県藤沢市鵠沼花沢町２−１６",
+    "lat": 35.3378788,
+    "lng": 139.4852915
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "トーキョー ベイ フィッシャーマンズ ヌードル",
+    "name_en": "toukyou bei fissyamanzu nudoru",
+    "area": "神奈川県 北久里浜駅",
+    "url": "https://tabelog.com/kanagawa/A1406/A140601/14079528/",
+    "rating": 3.69,
+    "review_count_tabelog": 267,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Abura soba mixed noodle",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 315,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJnS8Eq7A_GGAROC1aKm5-7vk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14079528-9820f1fb93c47e8df0259867b1a87c5ccd682a14a9a1c70ecb911904d8212c5e.jpg",
+    "place_id": "ChIJnS8Eq7A_GGAROC1aKm5-7vk",
+    "g_name": "Tokyo Bay Fisherman's Noodle 横須賀店",
+    "g_rating": 4.4,
+    "g_reviews": 315,
+    "g_address": "日本、〒238-0023 神奈川県横須賀市森崎２丁目１１−１３",
+    "lat": 35.2495063,
+    "lng": 139.6798264
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "横浜中華そば 維新商店 本店",
+    "name_en": "Yokohama Chuka Soba Ishin Shoten Hon Ten",
+    "area": "神奈川県 平沼橋駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140102/14051850/",
+    "rating": 3.76,
+    "review_count_tabelog": 2265,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri",
+        "dtl": "11:00 - 15:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:00 - 20:30",
+        "dtl_text": "11:00 - 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 216,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJG0jJzPxdGGARZ0YKTzff0Pg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14051850-340004a246d4e1cbdcef331a61d44631b133134608b10d0a6ddcc1c1c92a545e.jpg",
+    "place_id": "ChIJG0jJzPxdGGARZ0YKTzff0Pg",
+    "g_name": "横浜中華そば 維新商店 本店",
+    "g_rating": 4.1,
+    "g_reviews": 216,
+    "g_address": "日本、〒220-0004 神奈川県横浜市西区北幸２丁目１０−２１ 横浜太陽ビル 1f",
+    "lat": 35.465487,
+    "lng": 139.6143807
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "利尻らーめん味楽 新横浜ラーメン博物館店",
+    "name_en": "Rishiri Ramen Miraku Shin Yokohama Ramen Hakubutsukan Ten",
+    "area": "神奈川県 新横浜駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140206/14066708/",
+    "rating": 3.73,
+    "review_count_tabelog": 1578,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 21:00 L.O. 20:30",
+        "dtl_text": "11:00 - 21:00 L.O. 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "10:30 - 21:00 L.O. 20:30",
+        "dtl_text": "10:30 - 21:00 L.O. 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 578,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJf41M_dNeGGARVFT6mtftFbk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14066708-e775676e492a677684717ce07d30188c2da4df8cfc56679c6b0140ccfff06def.jpg",
+    "place_id": "ChIJf41M_dNeGGARVFT6mtftFbk",
+    "g_name": "利尻らーめん味楽 新横浜ラーメン博物館店",
+    "g_rating": 4.1,
+    "g_reviews": 578,
+    "g_address": "日本、〒222-0033 神奈川県横浜市港北区新横浜２丁目１４−２１ B2",
+    "lat": 35.509753,
+    "lng": 139.6145726
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "麺庵ちとせ",
+    "name_en": "Menan Chitose",
+    "area": "神奈川県 風祭駅",
+    "url": "https://tabelog.com/kanagawa/A1410/A141001/14083221/",
+    "rating": 3.75,
+    "review_count_tabelog": 566,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen, Dandan noodles",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Sat, Sun",
+        "dtl": "11:30 - 14:30",
+        "dtl_text": "11:30 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu, Fri",
+        "dtl": "11:30 - 14:30 18:30 - 20:00",
+        "dtl_text": "18:30 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 898,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJp_3Z_DWlGWARNH6Au9ZJ0Xo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14083221-5dce4d64e0e2956ebc6e3e84e76fbbe56576d2ee013f8a25984096223ae7c1a5.jpg",
+    "place_id": "ChIJp_3Z_DWlGWARNH6Au9ZJ0Xo",
+    "g_name": "麺庵ちとせ",
+    "g_rating": 4.2,
+    "g_reviews": 898,
+    "g_address": "日本、〒250-0865 神奈川県小田原市風祭77−１",
+    "lat": 35.2444062,
+    "lng": 139.1275865
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "貝ガラ屋",
+    "name_en": "Kaigara Ya",
+    "area": "神奈川県 相模原市中央区",
+    "url": "https://tabelog.com/kanagawa/A1407/A140701/14056997/",
+    "rating": 3.77,
+    "review_count_tabelog": 1200,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:00 - 15:00 L.O. 14:50 18:00 - 20:00 L.O. 19:50",
+        "dtl_text": "18:00 - 20:00 L.O. 19:50"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed. Please check X for updates."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 1361,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJbQuIWav9GGARHqtOcSX5jRc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14056997-268577fc5e825cb24e6f42b5fb48e9f529f9541e9be32eb2c42f61c21409a63e.jpg",
+    "place_id": "ChIJbQuIWav9GGARHqtOcSX5jRc",
+    "g_name": "貝ガラ屋",
+    "g_rating": 4.3,
+    "g_reviews": 1361,
+    "g_address": "日本、〒252-0202 神奈川県相模原市中央区淵野辺本町３丁目２４−３",
+    "lat": 35.5729345,
+    "lng": 139.4052698
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "寿々喜家 本店",
+    "name_en": "Suzukiya Honten",
+    "area": "神奈川県 上星川駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140302/14000063/",
+    "rating": 3.76,
+    "review_count_tabelog": 2015,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri",
+        "dtl": "11:00 - 21:00",
+        "dtl_text": "11:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 20:00",
+        "dtl_text": "11:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "◾︎ There may be a break after lunch service. For those planning to visit, checking on X is recommended for confirmation."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 2891,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJU0VpY3pZGGARApqOqRIJrBA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14000063-51265da982f39bcbfcd6d3eae57f86a91aabdf38f5b6dceeafdd4652e35a54d5.jpg",
+    "place_id": "ChIJU0VpY3pZGGARApqOqRIJrBA",
+    "g_name": "寿々㐂家",
+    "g_rating": 4.4,
+    "g_reviews": 2891,
+    "g_address": "日本、〒240-0042 神奈川県横浜市保土ケ谷区上星川２丁目３−１",
+    "lat": 35.4712404,
+    "lng": 139.5761452
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "らーめん 雅楽",
+    "name_en": "Ramen Garaku",
+    "area": "神奈川県 あざみ野駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140201/14055006/",
+    "rating": 3.7,
+    "review_count_tabelog": 662,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 14:45 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "First and third Tuesdays (If a holiday falls on these days, we will remain open and take a substitute holiday on the following business day.)"
+    },
+    "google_rating": 4,
+    "google_reviews": 470,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJx1eKXA73GGARy4fZCY7byn0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14055006-2cba5ad3acf5a96ab261e1c25408537e081f2f562dca9c5c862ee52d2848dc19.jpg",
+    "place_id": "ChIJx1eKXA73GGARy4fZCY7byn0",
+    "g_name": "らーめん 雅楽",
+    "g_rating": 4,
+    "g_reviews": 470,
+    "g_address": "日本、〒225-0003 神奈川県横浜市青葉区新石川２丁目１５−１ 第二グリーンシティビル１F",
+    "lat": 35.5716741,
+    "lng": 139.5550723
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "らーめん くじら軒 横浜本店",
+    "name_en": "Ramen Kujira Ken Yokohama Honten",
+    "area": "神奈川県 センター北駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140203/14000169/",
+    "rating": 3.7,
+    "review_count_tabelog": 926,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen, Donburi (Rice bowl), Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 17:00 - 21:00 L.O. 20:30",
+        "dtl_text": "17:00 - 21:00 L.O. 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 808,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmfmCJ0b2GGARYTcKyxBsJpU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14000169-c5a3339ef172cd8f48bdb817f3cee973616eb5b9a5f486c417bcae505ff18f1f.jpg",
+    "place_id": "ChIJmfmCJ0b2GGARYTcKyxBsJpU",
+    "g_name": "らーめん くじら軒 横浜本店",
+    "g_rating": 4,
+    "g_reviews": 808,
+    "g_address": "日本、〒224-0015 神奈川県横浜市都筑区牛久保西１丁目２−１０",
+    "lat": 35.55865259999999,
+    "lng": 139.578909
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "KITCHEN TAKANO",
+    "name_en": "KITCHEN TAKANO",
+    "area": "神奈川県 大口駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140211/14085368/",
+    "rating": 3.73,
+    "review_count_tabelog": 538,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tsukemen, Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu",
+        "dtl": "11:00 - 14:00 18:00 - 20:00",
+        "dtl_text": "18:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Fri, Sat",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 303,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-X3CDCJfGGARex1pu2t-Yk8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14085368-ad042ef753232bbf119f9e8fd9a113431d1d02561c1eb67097c07c06141e07e5.jpg",
+    "place_id": "ChIJ-X3CDCJfGGARex1pu2t-Yk8",
+    "g_name": "KITCHEN TAKANO",
+    "g_rating": 4,
+    "g_reviews": 303,
+    "g_address": "日本、〒221-0002 神奈川県横浜市神奈川区大口通１１−５",
+    "lat": 35.4906177,
+    "lng": 139.6447995
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "麺小屋 てち",
+    "name_en": "Men Goya Techi",
+    "area": "神奈川県 武蔵新城駅",
+    "url": "https://tabelog.com/kanagawa/A1405/A140504/14059560/",
+    "rating": 3.71,
+    "review_count_tabelog": 576,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen, Abura soba mixed noodle, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Fri",
+        "dtl": "11:00 - 14:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "11:00 - 14:00",
+        "dtl_text": "11:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 444,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAViMf1GGARQ7ioenyVSbM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14059560-458f858869f269ad431b09176001c70fa9164dec550f958b5f60ff8e3c196c66.jpg",
+    "place_id": "ChIJAQAViMf1GGARQ7ioenyVSbM",
+    "g_name": "麺小屋 てち",
+    "g_rating": 4.2,
+    "g_reviews": 444,
+    "g_address": "日本、〒211-0044 神奈川県川崎市中原区新城４丁目４−１５ 森善ビル １階",
+    "lat": 35.5837407,
+    "lng": 139.6298184
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "寿々喜家 曙町店",
+    "name_en": "Suzukiya Akebono Cho Ten",
+    "area": "神奈川県 阪東橋駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140306/14062589/",
+    "rating": 3.69,
+    "review_count_tabelog": 746,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "06:00 - 01:00",
+        "dtl_text": "06:00 - 01:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.8,
+    "google_reviews": 927,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDxwaAY1cGGAReGpvbMX3YR4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14062589-3d108908fde30dff70f4e691b56f39b0c67c5b3bdf659e136e956f75dfadb454.jpg",
+    "place_id": "ChIJDxwaAY1cGGAReGpvbMX3YR4",
+    "g_name": "寿々㐂家 曙町店",
+    "g_rating": 3.8,
+    "g_reviews": 927,
+    "g_address": "日本、〒231-0057 神奈川県横浜市中区曙町３丁目43−５",
+    "lat": 35.4395728,
+    "lng": 139.6276093
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "啜磨専科",
+    "name_en": "Susurimase nka",
+    "area": "神奈川県 港南中央駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140307/14043755/",
+    "rating": 3.74,
+    "review_count_tabelog": 956,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 706,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ43AvyEhbGGARIW85JOFlHWA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14043755-93198fff9d3b2da6465bffeb6a0acf45eb5b3dc11c7f906d2b6c6ec884b99d9d.jpg",
+    "place_id": "ChIJ43AvyEhbGGARIW85JOFlHWA",
+    "g_name": "啜磨専科",
+    "g_rating": 4.1,
+    "g_reviews": 706,
+    "g_address": "日本、〒233-0002 神奈川県横浜市港南区上大岡西２丁目１４−１５",
+    "lat": 35.4042731,
+    "lng": 139.5936966
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "家系総本山 吉村家",
+    "name_en": "Iekei Sohonzan Yoshimura Ya",
+    "area": "神奈川県 平沼橋駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140102/14090328/",
+    "rating": 3.76,
+    "review_count_tabelog": 2286,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 20:00",
+        "dtl_text": "11:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 7015,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJL9MHQwxcGGARctbSzWCKzsk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14090328-6cd63cd35e5228e6f0d37f2696f07f95cb8996cb1c80b4ebc065fbc738ab28dc.jpg",
+    "place_id": "ChIJL9MHQwxcGGARctbSzWCKzsk",
+    "g_name": "家系総本山 吉村家",
+    "g_rating": 4.1,
+    "g_reviews": 7015,
+    "g_address": "日本、〒220-0073 神奈川県横浜市西区岡野１丁目６−４",
+    "lat": 35.46300069999999,
+    "lng": 139.6150441
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "支那蕎麦屋 藤花",
+    "name_en": "Shina Sobaya Touka",
+    "area": "神奈川県 横浜市都筑区",
+    "url": "https://tabelog.com/kanagawa/A1401/A140207/14070248/",
+    "rating": 3.75,
+    "review_count_tabelog": 1038,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 14:30 18:00 - 21:30",
+        "dtl_text": "18:00 - 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Public Holiday",
+        "dtl": "11:00 - 15:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Weekdays": {},
+        "Sat, Sun & Public Holidays": {},
+        "Sat": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 1054,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJK1rK1YxYGGARDGhos4gfyWU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14070248-5013f1b7b1422b6a9499a403eef82fc134c53c38b71d8872a7b9336597663c7a.jpg",
+    "place_id": "ChIJK1rK1YxYGGARDGhos4gfyWU",
+    "g_name": "支那蕎麦屋 藤花",
+    "g_rating": 4.1,
+    "g_reviews": 1054,
+    "g_address": "日本、〒224-0041 神奈川県横浜市都筑区仲町台１丁目３１−１２ パークサイド仲町台 101",
+    "lat": 35.53726169999999,
+    "lng": 139.5889839
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "らーめん 鶏喰",
+    "name_en": "Ramen Torikku",
+    "area": "神奈川県 吉野町駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140306/14048864/",
+    "rating": 3.81,
+    "review_count_tabelog": 1825,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 14:00 18:00 - 21:00 L.O. 20:50",
+        "dtl_text": "18:00 - 21:00 L.O. 20:50"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:00 - 20:00",
+        "dtl_text": "11:00 - 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 1238,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJPXTTFoVcGGAR17hiQlCVvmU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14048864-2d675fb41abf461a7456ebd4ac553698cf2ff82fda5178bb34a03b7b4f0f8cf0.jpg",
+    "place_id": "ChIJPXTTFoVcGGAR17hiQlCVvmU",
+    "g_name": "らーめん 鶏喰",
+    "g_rating": 4.3,
+    "g_reviews": 1238,
+    "g_address": "日本、〒232-0014 神奈川県横浜市南区吉野町４丁目２０",
+    "lat": 35.4351692,
+    "lng": 139.6183973
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "らぁ麺 すぎ本",
+    "name_en": "Ramen Sugimoto",
+    "area": "神奈川県 青葉台駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140202/14080372/",
+    "rating": 3.83,
+    "review_count_tabelog": 1390,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 1273,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJxyUd-Rj5GGARk6nU8k52_gs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14080372-869f3b28748dd34c50782bd3c4eeeb5e27f103164f50b13b3cbcfb4fcebba245.jpg",
+    "place_id": "ChIJxyUd-Rj5GGARk6nU8k52_gs",
+    "g_name": "らぁ麺 すぎ本",
+    "g_rating": 4,
+    "g_reviews": 1273,
+    "g_address": "日本、〒227-0061 神奈川県横浜市青葉区桜台２６−１ 第３アサキビル １階",
+    "lat": 35.5502952,
+    "lng": 139.5153279
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "ヌードルズキッチン ガナーズ",
+    "name_en": "noodles kitchen GUNNERS",
+    "area": "神奈川県 新丸子駅",
+    "url": "https://tabelog.com/kanagawa/A1405/A140504/14067309/",
+    "rating": 3.71,
+    "review_count_tabelog": 901,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "09:00 - 14:30 18:00 - 20:30",
+        "dtl_text": "18:00 - 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "09:00 - 20:30",
+        "dtl_text": "09:00 - 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 509,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJnYZaF3D1GGARaE8i5-g2F8o",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14067309-0233ae9bf47a949eae06a9a7d2baa999fa4f7927c661b3870f64586638965191.jpg",
+    "place_id": "ChIJnYZaF3D1GGARaE8i5-g2F8o",
+    "g_name": "Noodles Kitchen GUNNERS",
+    "g_rating": 4,
+    "g_reviews": 509,
+    "g_address": "日本、〒211-0005 神奈川県川崎市中原区新丸子町７５４",
+    "lat": 35.5799575,
+    "lng": 139.6598485
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "ラーメン 環2家",
+    "name_en": "Ramen Kan 2 Ya",
+    "area": "神奈川県 下永谷駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140307/14000161/",
+    "rating": 3.76,
+    "review_count_tabelog": 1473,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 22:00 L.O. 21:30",
+        "dtl_text": "11:00 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.8,
+    "google_reviews": 2142,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJB3EL7eNaGGAR_4FCTYJcwyY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14000161-6f01ea649771be2ab46b45e79e7f8ca48f13c5aaf5d5147eb30a646256fad9e5.jpg",
+    "place_id": "ChIJB3EL7eNaGGAR_4FCTYJcwyY",
+    "g_name": "ラーメン 環2家",
+    "g_rating": 3.8,
+    "g_reviews": 2142,
+    "g_address": "日本、〒233-0016 神奈川県横浜市港南区下永谷３丁目３−２１",
+    "lat": 35.4084084,
+    "lng": 139.5643194
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "ラーメン 郷",
+    "name_en": "Ramen Go",
+    "area": "神奈川県 鶴間駅",
+    "url": "https://tabelog.com/kanagawa/A1407/A140702/14088100/",
+    "rating": 3.82,
+    "review_count_tabelog": 1018,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 L.O. 14:45 17:30 - 21:00 L.O. 20:30",
+        "dtl_text": "17:30 - 21:00 L.O. 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "11:00 - 15:00 L.O. 14:45",
+        "dtl_text": "11:00 - 15:00 L.O. 14:45",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 1489,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ9CLK5RWGGARzTJPK1ju83c",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14088100-7a49f3040757f2317da34b3ad16c88df632e4485d3c5d68540852069a2974093.jpg",
+    "place_id": "ChIJQ9CLK5RWGGARzTJPK1ju83c",
+    "g_name": "ラーメン 郷",
+    "g_rating": 4.1,
+    "g_reviews": 1489,
+    "g_address": "日本、〒242-0004 神奈川県大和市鶴間２丁目１２−３２",
+    "lat": 35.4911298,
+    "lng": 139.4551132
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "支那ソバ すずき",
+    "name_en": "China Soba Suzuki",
+    "area": "神奈川県 桜ケ丘駅",
+    "url": "https://tabelog.com/kanagawa/A1407/A140702/14050334/",
+    "rating": 3.68,
+    "review_count_tabelog": 296,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.5,
+    "google_reviews": 210,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJCQkcgItWGGARGyQVzFYGBzI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14050334-ae49c7f81f7433d22496dbc967f286b367a0df3b8c351a508fbf64eb1a39a807.jpg",
+    "place_id": "ChIJCQkcgItWGGARGyQVzFYGBzI",
+    "g_name": "支那ソバ すずき",
+    "g_rating": 3.5,
+    "g_reviews": 210,
+    "g_address": "日本、〒242-0024 神奈川県大和市福田２丁目１４−４",
+    "lat": 35.4498439,
+    "lng": 139.4643743
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "ラーメン星印",
+    "name_en": "Ramen Hoshijirushi",
+    "area": "神奈川県 反町駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140205/14054005/",
+    "rating": 3.77,
+    "review_count_tabelog": 1057,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 15:00 18:00 - 20:00",
+        "dtl_text": "18:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Public Holiday",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.9,
+    "google_reviews": 689,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJe2IrjxdcGGARH9GufOJohLU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14054005-3f9927249564c4354f4079b6d7fa6771b87142b8e5ca43267cb32e65ab4d27af.jpg",
+    "place_id": "ChIJe2IrjxdcGGARH9GufOJohLU",
+    "g_name": "ラーメン星印",
+    "g_rating": 3.9,
+    "g_reviews": 689,
+    "g_address": "日本、〒221-0825 神奈川県横浜市神奈川区反町１丁目３−４ ルミノ反町",
+    "lat": 35.4741309,
+    "lng": 139.6281499
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "ラーメン二郎 横浜関内店",
+    "name_en": "Ramen Jiro Yokohama Sekinaiten",
+    "area": "神奈川県 伊勢佐木長者町駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140104/14001518/",
+    "rating": 3.78,
+    "review_count_tabelog": 2010,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:30 17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 2389,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJM4zsavNcGGARg7rCmyEOjiY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14001518-8cffdd5d12510d5f7ba9ab14f4720d9339ddac9485d7c338a8c7c07293056037.jpg",
+    "place_id": "ChIJM4zsavNcGGARg7rCmyEOjiY",
+    "g_name": "ラーメン二郎 横浜関内店",
+    "g_rating": 4.2,
+    "g_reviews": 2389,
+    "g_address": "日本、〒231-0033 神奈川県横浜市中区長者町６丁目９４−９４ オムニビル 2階",
+    "lat": 35.4419694,
+    "lng": 139.6307693
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "横浜ラーメン 真砂家",
+    "name_en": "Yokohama Ramen Masagoya",
+    "area": "神奈川県 関内駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140104/14081395/",
+    "rating": 3.69,
+    "review_count_tabelog": 860,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 16:00 - 21:00 L.O. 20:45",
+        "dtl_text": "16:00 - 21:00 L.O. 20:45"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Building closure days"
+    },
+    "google_rating": 3.4,
+    "google_reviews": 348,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6167UqhdGGARdyiByZMKOHM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14081395-a8096bf1f7e56a8e604f68e9f894c167f2683aba028dede8321204c3799e66ce.jpg",
+    "place_id": "ChIJ6167UqhdGGARdyiByZMKOHM",
+    "g_name": "横浜ラーメン真砂家",
+    "g_rating": 3.4,
+    "g_reviews": 348,
+    "g_address": "日本、〒231-0016 神奈川県横浜市中区真砂町３丁目３３ CERTE6階 関内ラーメン横丁 内",
+    "lat": 35.4449883,
+    "lng": 139.6357459
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "ラーメン二郎 中山駅前店",
+    "name_en": "Ramen Jiro Nakayamaekimaeten",
+    "area": "神奈川県 中山駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140207/14038422/",
+    "rating": 3.76,
+    "review_count_tabelog": 1142,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:00 18:00 - 21:30",
+        "dtl_text": "18:00 - 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 1444,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJxdHqwQ9YGGARw3ox-ZDssT8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14038422-c713c442e3f8f1bba15bfa14e7c81d2d9cc387f52f431172a6960a13a7ade64c.jpg",
+    "place_id": "ChIJxdHqwQ9YGGARw3ox-ZDssT8",
+    "g_name": "ラーメン二郎 中山駅前店",
+    "g_rating": 4.2,
+    "g_reviews": 1444,
+    "g_address": "日本、〒226-0014 神奈川県横浜市緑区台村町３０９番地１ 土井ビル",
+    "lat": 35.5130687,
+    "lng": 139.5386491
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "ラーメン 末廣家",
+    "name_en": "Ramen Suehiroya",
+    "area": "神奈川県 白楽駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140205/14051496/",
+    "rating": 3.77,
+    "review_count_tabelog": 1951,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 21:00",
+        "dtl_text": "11:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 2150,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ56uyCqReGGARZoQlNV_Dm6Y",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14051496-cff91e8e35c55513d4ffc7e3eb52ab01699bb8e0f498e5661a8f80b49ceb5bfc.jpg",
+    "place_id": "ChIJ56uyCqReGGARZoQlNV_Dm6Y",
+    "g_name": "ラーメン 末廣家",
+    "g_rating": 4.2,
+    "g_reviews": 2150,
+    "g_address": "日本、〒221-0802 神奈川県横浜市神奈川区六角橋１丁目１４−７",
+    "lat": 35.48803230000001,
+    "lng": 139.624744
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "ラーメン二郎 湘南藤沢店",
+    "name_en": "Ramen Jiro Shonan Fujisawa Ten",
+    "area": "神奈川県 藤沢駅",
+    "url": "https://tabelog.com/kanagawa/A1404/A140404/14035072/",
+    "rating": 3.72,
+    "review_count_tabelog": 960,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen, Abura soba mixed noodle",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:30 17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 1517,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJP2L94S1OGGARrJo9Jj3IQfE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14035072-e34a88fb7f6ad2821b58f233582986e16a8762f963974142d94b3aff43e28550.jpg",
+    "place_id": "ChIJP2L94S1OGGARrJo9Jj3IQfE",
+    "g_name": "ラーメン二郎 湘南藤沢店",
+    "g_rating": 4.1,
+    "g_reviews": 1517,
+    "g_address": "日本、〒251-0053 神奈川県藤沢市本町１丁目１０−１４",
+    "lat": 35.3430734,
+    "lng": 139.4822507
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "つけめん 玉",
+    "name_en": "Tsukemen Gyoku",
+    "area": "神奈川県 川崎市川崎区",
+    "url": "https://tabelog.com/kanagawa/A1405/A140502/14013437/",
+    "rating": 3.64,
+    "review_count_tabelog": 1057,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Tsukemen, Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 21:00",
+        "dtl_text": "11:00 - 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 1396,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ95q7T8tgGGARMrkR1tm8VFg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14013437-5caa7b071c90ec7e7a00b67ac0dbb9620000ffa9f692bd36af2da9e56da342b8.jpg",
+    "place_id": "ChIJ95q7T8tgGGARMrkR1tm8VFg",
+    "g_name": "つけめん 玉（ぎょく） 本店",
+    "g_rating": 4.2,
+    "g_reviews": 1396,
+    "g_address": "日本、〒210-0835 神奈川県川崎市川崎区追分町６−１２",
+    "lat": 35.5193309,
+    "lng": 139.7159619
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "麺庭つむぎ",
+    "name_en": "Men Tei Tsumugi",
+    "area": "神奈川県 南林間駅",
+    "url": "https://tabelog.com/kanagawa/A1407/A140702/14090776/",
+    "rating": 3.74,
+    "review_count_tabelog": 527,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Fri, Sat",
+        "dtl": "11:30 - 15:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:30 - 15:00",
+        "dtl_text": "11:30 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Sun": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": 3.9,
+    "google_reviews": 331,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ79Wl4kj_GGAR6RyFgqL9GDs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14090776-4acf9825199eaf221208105ac8d16d2894e2dbb1912710877ce5b9305a4a9a09.jpg",
+    "place_id": "ChIJ79Wl4kj_GGAR6RyFgqL9GDs",
+    "g_name": "麺庭つむぎ",
+    "g_rating": 3.9,
+    "g_reviews": 331,
+    "g_address": "日本、〒242-0006 神奈川県大和市南林間２丁目３−５",
+    "lat": 35.4969358,
+    "lng": 139.4465222
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "すみれ 横浜店",
+    "name_en": "Sumire Yokohama Ten",
+    "area": "神奈川県 桜木町駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140102/14074387/",
+    "rating": 3.67,
+    "review_count_tabelog": 2052,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "11:00 - 16:00 17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Thursdays (open on public holidays)"
+    },
+    "google_rating": 4,
+    "google_reviews": 2376,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJy_lLYwBdGGARroVhd5dnHBg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14074387-589c9b58292c179e51839be75c0c392acb0a2f5b403fd907182991a514d6aff1.jpg",
+    "place_id": "ChIJy_lLYwBdGGARroVhd5dnHBg",
+    "g_name": "すみれ 横浜店",
+    "g_rating": 4,
+    "g_reviews": 2376,
+    "g_address": "日本、〒231-0064 神奈川県横浜市中区野毛町１丁目２６−５ 野毛サーク １階",
+    "lat": 35.4479278,
+    "lng": 139.6307316
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "麺処 にぼし香 アソビル店",
+    "name_en": "Mendokoro Niboshi Kaoru Asobiru Ten",
+    "area": "神奈川県 横浜駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140101/14075484/",
+    "rating": 3.71,
+    "review_count_tabelog": 1612,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Nihonshu (Japanese sake)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 16:00 L.O. Food 15:30 17:00 - 21:30 L.O. Food 21:00",
+        "dtl_text": "17:00 - 21:30 L.O. Food 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.8,
+    "google_reviews": 689,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJdb_WVcxdGGARi_2b5DgJn-Q",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14075484-9f4a437f9af446521129472fd499627efc7e9e95061463ab4545153a513dc413.jpg",
+    "place_id": "ChIJdb_WVcxdGGARi_2b5DgJn-Q",
+    "g_name": "麺処 にぼし香 アソビル店",
+    "g_rating": 3.8,
+    "g_reviews": 689,
+    "g_address": "日本、〒220-0011 神奈川県横浜市西区高島２丁目１４−９ アソビル 一階",
+    "lat": 35.4637478,
+    "lng": 139.6221777
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "白河手打中華そば こすが",
+    "name_en": "Shirakawa Teuchi Chuka Soba Kosuga",
+    "area": "神奈川県 あざみ野駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140201/14085710/",
+    "rating": 3.73,
+    "review_count_tabelog": 664,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "-",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 390,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJw8WezPP3GGARcVEyOTApRQY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14085710-73b6a79fd3fdbac0b7195a528e4a4067de8cbcfcf243a0591af67009a780efe4.jpg",
+    "place_id": "ChIJw8WezPP3GGARcVEyOTApRQY",
+    "g_name": "白河手打中華そば こすが",
+    "g_rating": 4.1,
+    "g_reviews": 390,
+    "g_address": "日本、〒225-0003 神奈川県横浜市青葉区新石川１丁目１９−４",
+    "lat": 35.56847,
+    "lng": 139.5561315
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "麺処 秋もと",
+    "name_en": "Men Dokoro Akimoto",
+    "area": "神奈川県 市が尾駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140201/14086053/",
+    "rating": 3.78,
+    "review_count_tabelog": 808,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 18:00 - 21:30 L.O. 21:00",
+        "dtl_text": "18:00 - 21:30 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 811,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAQyZv3GGAR9ncj9mABlxA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14086053-3c6345fe7de9ef9995b4730b876f8041e6c6547fa6d490779271430737887485.jpg",
+    "place_id": "ChIJAQAQyZv3GGAR9ncj9mABlxA",
+    "g_name": "麺処 秋もと",
+    "g_rating": 4,
+    "g_reviews": 811,
+    "g_address": "日本、〒225-0024 神奈川県横浜市青葉区市ケ尾町１１５７−１",
+    "lat": 35.5524453,
+    "lng": 139.5417231
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "らぁめん夢",
+    "name_en": "Raamen Mu",
+    "area": "神奈川県 東神奈川駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140212/14053385/",
+    "rating": 3.78,
+    "review_count_tabelog": 1491,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 L.O. Food 15:00 18:00 - 20:00",
+        "dtl_text": "18:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 824,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJwV9puiJcGGARNC-GYUTUjqc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14053385-a5cb7f7a1deb1b4f7641e4ded290d2f6e3ec63086e5bc20746ac5fbe578a728f.jpg",
+    "place_id": "ChIJwV9puiJcGGARNC-GYUTUjqc",
+    "g_name": "らぁめん夢",
+    "g_rating": 4.1,
+    "g_reviews": 824,
+    "g_address": "日本、〒221-0823 神奈川県横浜市神奈川区二ツ谷町１−２１",
+    "lat": 35.4760744,
+    "lng": 139.630821
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "らーめん まつや",
+    "name_en": "Ramen Matsuya",
+    "area": "神奈川県 茅ヶ崎市",
+    "url": "https://tabelog.com/kanagawa/A1404/A140406/14044665/",
+    "rating": 3.69,
+    "review_count_tabelog": 456,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:00 17:00 - 19:30",
+        "dtl_text": "17:00 - 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (often on Tuesdays)"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 498,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVUO_2eZTGGAR2LL7wG76aKU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14044665-e793591fc451edec4647386c02600dd1b6d9970b2e51a8498d69011b8f7ee88a.jpg",
+    "place_id": "ChIJVUO_2eZTGGAR2LL7wG76aKU",
+    "g_name": "らーめん まつや",
+    "g_rating": 4.1,
+    "g_reviews": 498,
+    "g_address": "日本、〒253-0006 神奈川県茅ヶ崎市堤７３−５",
+    "lat": 35.3671649,
+    "lng": 139.4337161
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "横浜ラーメン 田上家",
+    "name_en": "Yokohama Ramen Tagamiya",
+    "area": "神奈川県 弘明寺（横浜市営）駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140306/14056326/",
+    "rating": 3.71,
+    "review_count_tabelog": 646,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "07:00 - 14:30",
+        "dtl_text": "07:00 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.7,
+    "google_reviews": 770,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJsWtemmRbGGAReobiZ30MJ9o",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14056326-bd884dea8553a8aabfa94ccbe738c540cf6a9a74c29398f0be940535a6e92b81.jpg",
+    "place_id": "ChIJsWtemmRbGGAReobiZ30MJ9o",
+    "g_name": "横浜ラーメン 田上家",
+    "g_rating": 3.7,
+    "g_reviews": 770,
+    "g_address": "日本、〒232-0056 神奈川県横浜市南区通町３丁目４８",
+    "lat": 35.4262536,
+    "lng": 139.6038184
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "ShiNaChiKu亭",
+    "name_en": "Shinachiku Tei",
+    "area": "神奈川県 反町駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140205/14002008/",
+    "rating": 3.72,
+    "review_count_tabelog": 698,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen, Tsukemen, Dandan noodles",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Public Holiday",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "11:00 - 15:00 17:00 - 20:00",
+        "dtl_text": "17:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays and Wednesdays (open on public holidays)"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 472,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8QG0UxhcGGARZD_dCTcjc3c",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14002008-fb6595ff60ae583607deeca3cda78c5672a48962bcc214ca182af90721a59539.jpg",
+    "place_id": "ChIJ8QG0UxhcGGARZD_dCTcjc3c",
+    "g_name": "ShiNaChiKu亭",
+    "g_rating": 4.1,
+    "g_reviews": 472,
+    "g_address": "日本、〒221-0825 神奈川県横浜市神奈川区反町２丁目１５−１４",
+    "lat": 35.4761075,
+    "lng": 139.6275818
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "麺屋 歩夢",
+    "name_en": "Menya Ayumu",
+    "area": "神奈川県 相模原市中央区",
+    "url": "https://tabelog.com/kanagawa/A1407/A140701/14071127/",
+    "rating": 3.69,
+    "review_count_tabelog": 501,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 22:00",
+        "dtl_text": "11:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.9,
+    "google_reviews": 986,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__-auVT8GGARrCNHsGGfyGI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14071127-cdc521fdbf157b2de48d748aefa29a2d3f0b0fb775fc211cbc77a57ce4585520.jpg",
+    "place_id": "ChIJ__-auVT8GGARrCNHsGGfyGI",
+    "g_name": "麺屋 歩夢",
+    "g_rating": 3.9,
+    "g_reviews": 986,
+    "g_address": "日本、〒252-0202 神奈川県相模原市中央区淵野辺本町３丁目２９−１３",
+    "lat": 35.5740692,
+    "lng": 139.40669
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "弘明寺丿貫",
+    "name_en": "Gumyoji Hekan",
+    "area": "神奈川県 弘明寺（横浜市営）駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140306/14068127/",
+    "rating": 3.72,
+    "review_count_tabelog": 577,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Izakaya (Tavern), Nihonshu (Japanese sake)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:00 - 15:00 L.O. 14:45 17:30 - 21:00 L.O. 20:45",
+        "dtl_text": "17:30 - 21:00 L.O. 20:45"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 3.9,
+    "google_reviews": 713,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJYUuPSWRbGGARn60k4F_20-s",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14068127-a1bb916a963011af6eb315f47ef6b886bca3efda538fac79f815b6248e15bc8b.jpg",
+    "place_id": "ChIJYUuPSWRbGGARn60k4F_20-s",
+    "g_name": "弘明寺丿貫",
+    "g_rating": 3.9,
+    "g_reviews": 713,
+    "g_address": "日本、〒232-0056 神奈川県横浜市南区通町４丁目１１１",
+    "lat": 35.423977,
+    "lng": 139.6022472
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "横濱家系ラーメン 勝鬨家",
+    "name_en": "Yokohama Iekei Ramen Kachidoki Ya",
+    "area": "神奈川県 伊勢佐木長者町駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140104/14064625/",
+    "rating": 3.7,
+    "review_count_tabelog": 819,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Restaurants",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri",
+        "dtl": "11:00 - 22:00",
+        "dtl_text": "11:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "11:00 - 21:00",
+        "dtl_text": "11:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Closed from December 31 to January 4 for the New Year and during the Obon holiday."
+    },
+    "google_rating": 3.6,
+    "google_reviews": 12,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJkaYWW_JcGGAR6y9Lfg0HEwQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14064625-111a041d3752c19af88ef6515efeb02376d6b2c2faf6e8e1ac895e180ef5ef8a.jpg",
+    "place_id": "ChIJkaYWW_JcGGAR6y9Lfg0HEwQ",
+    "g_name": "伊勢佐木長者町駅",
+    "g_rating": 3.6,
+    "g_reviews": 12,
+    "g_address": "日本、〒231-0033 神奈川県横浜市中区長者町",
+    "lat": 35.4411351,
+    "lng": 139.6329989
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "中華そば 笑歩",
+    "name_en": "Chuka Soba Efu",
+    "area": "神奈川県 綱島駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140204/14070233/",
+    "rating": 3.75,
+    "review_count_tabelog": 784,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00",
+        "dtl_text": "11:30 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 581,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJYSmoe0BfGGAREimjrQ2mD00",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14070233-e57473176bfef23111bd06eda14d0835e27bf992cefbd173a79fdf6812474bf5.jpg",
+    "place_id": "ChIJYSmoe0BfGGAREimjrQ2mD00",
+    "g_name": "中華そば 笑歩",
+    "g_rating": 4.3,
+    "g_reviews": 581,
+    "g_address": "日本、〒223-0053 神奈川県横浜市港北区綱島西３丁目２２−１４",
+    "lat": 35.53908699999999,
+    "lng": 139.627811
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "麺や でこ",
+    "name_en": "Menya Deko",
+    "area": "神奈川県 新丸子駅",
+    "url": "https://tabelog.com/kanagawa/A1405/A140504/14054555/",
+    "rating": 3.73,
+    "review_count_tabelog": 1485,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen, Abura soba mixed noodle",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 15:00 17:30 - 22:00",
+        "dtl_text": "17:30 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:00 - 15:30 17:30 - 22:00",
+        "dtl_text": "17:30 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "11:00 - 15:30 17:30 - 21:00",
+        "dtl_text": "17:30 - 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "No regular holidays, but we observe year-end and New Year holidays."
+    },
+    "google_rating": 3.9,
+    "google_reviews": 735,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJsQ5zFHD1GGARWGD9r6ARsP0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14054555-f404fdb3327897af157274efaef9b081319d9e3cd8d7a8e2a0d945415480e4e0.jpg",
+    "place_id": "ChIJsQ5zFHD1GGARWGD9r6ARsP0",
+    "g_name": "麺や でこ",
+    "g_rating": 3.9,
+    "g_reviews": 735,
+    "g_address": "日本、〒211-0063 神奈川県川崎市中原区小杉町１丁目５２０番地６ カサ·コルデロ",
+    "lat": 35.579726,
+    "lng": 139.6595073
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "ラーメン丸仙",
+    "name_en": "Ramen Marusen",
+    "area": "神奈川県 武蔵小杉駅",
+    "url": "https://tabelog.com/kanagawa/A1405/A140504/14002807/",
+    "rating": 3.69,
+    "review_count_tabelog": 1136,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen, Dumplings",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri",
+        "dtl": "11:00 - 15:00 17:00 - 22:30",
+        "dtl_text": "17:00 - 22:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 22:30",
+        "dtl_text": "11:00 - 22:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.8,
+    "google_reviews": 936,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJtQoqdHz1GGARdDWOf6Gih2I",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14002807-b39bedab6f727c578d3403d8ad3df209f325adb7f3229ea663ac92e983bfdc2d.jpg",
+    "place_id": "ChIJtQoqdHz1GGARdDWOf6Gih2I",
+    "g_name": "ラーメン 丸仙",
+    "g_rating": 3.8,
+    "g_reviews": 936,
+    "g_address": "日本、〒211-0063 神奈川県川崎市中原区小杉町３丁目６６",
+    "lat": 35.5731533,
+    "lng": 139.657051
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "らーめん森や。",
+    "name_en": "Ramen Moriya.",
+    "area": "神奈川県 横浜市栄区",
+    "url": "https://tabelog.com/kanagawa/A1401/A140309/14055421/",
+    "rating": 3.81,
+    "review_count_tabelog": 859,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 17:30 - 23:00",
+        "dtl_text": "17:30 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.9,
+    "google_reviews": 700,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJWyX-G65aGGAR0tCW1cTfQ0M",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14055421-a7d78af3ceb7fc6f2d907b7a13e750687513c9bbfdf38e4bf8fe849511cc2bda.jpg",
+    "place_id": "ChIJWyX-G65aGGAR0tCW1cTfQ0M",
+    "g_name": "らーめん 森や。",
+    "g_rating": 3.9,
+    "g_reviews": 700,
+    "g_address": "日本、〒244-0841 神奈川県横浜市栄区長沼町３３９−１０５ 二本松ハイツ 105",
+    "lat": 35.3791837,
+    "lng": 139.5379253
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "ラーメン 杉田家 本店",
+    "name_en": "Ramen Sugita Ya Hon Ten",
+    "area": "神奈川県 新杉田駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140308/14000917/",
+    "rating": 3.77,
+    "review_count_tabelog": 2656,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "05:00 - 22:30",
+        "dtl_text": "05:00 - 22:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 4557,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJuRdCZl1DGGARt-1h8wAHp1A",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14000917-62f2070d9eaabd1f6c60309d5a84d816c70f4abc8223b10d7bdd77c519d63c22.jpg",
+    "place_id": "ChIJuRdCZl1DGGARt-1h8wAHp1A",
+    "g_name": "杉田家",
+    "g_rating": 4.1,
+    "g_reviews": 4557,
+    "g_address": "日本、〒235-0032 神奈川県横浜市磯子区新杉田町３−５",
+    "lat": 35.3882285,
+    "lng": 139.6180974
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "Sagamihara 欅",
+    "name_en": "Sagamihara Keyaki",
+    "area": "神奈川県 小田急相模原駅",
+    "url": "https://tabelog.com/kanagawa/A1407/A140701/14068944/",
+    "rating": 3.8,
+    "review_count_tabelog": 984,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 18:00 - 21:00 L.O. 20:30",
+        "dtl_text": "18:00 - 21:00 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 734,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2Ua8meD-GGARiXaXq0noZrc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14068944-389e893efb23a15a502c08557f0b796a06b2ca4c4f30d861019158799dd2a169.jpg",
+    "place_id": "ChIJ2Ua8meD-GGARiXaXq0noZrc",
+    "g_name": "Sagamihara欅",
+    "g_rating": 4.1,
+    "g_reviews": 734,
+    "g_address": "日本、〒252-0312 神奈川県相模原市南区相南４丁目１−３３",
+    "lat": 35.5154266,
+    "lng": 139.4257154
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "うまいヨゆうちゃんラーメン",
+    "name_en": "Umai Yo Yuchan Ramen",
+    "area": "神奈川県 大和駅",
+    "url": "https://tabelog.com/kanagawa/A1407/A140702/14057313/",
+    "rating": 3.77,
+    "review_count_tabelog": 1171,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 20:30",
+        "dtl_text": "11:00 - 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The first Thursday of each month (please check our Twitter for updates on temporary closures)"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 1461,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJgapApw9WGGARnppU8PGmQdQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14057313-b856a8e0702bac740123d0aa4bbd5ecbbde3520aa484fbb42db1b69f4919ca59.jpg",
+    "place_id": "ChIJgapApw9WGGARnppU8PGmQdQ",
+    "g_name": "うまいヨゆうちゃんラーメン",
+    "g_rating": 4.1,
+    "g_reviews": 1461,
+    "g_address": "日本、〒242-0029 神奈川県大和市上草柳３丁目１５−１５",
+    "lat": 35.47637,
+    "lng": 139.4543577
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "家系ラーメン クックら",
+    "name_en": "Iekei Ramen Kukkura",
+    "area": "神奈川県 相模大野駅",
+    "url": "https://tabelog.com/kanagawa/A1407/A140701/14068809/",
+    "rating": 3.72,
+    "review_count_tabelog": 893,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "10:00 - 14:30 15:30 - 21:30 L.O. Food 21:00",
+        "dtl_text": "15:30 - 21:30 L.O. Food 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "10:00 - 14:30 15:30 - 19:30 L.O. Food 19:00",
+        "dtl_text": "15:30 - 19:30 L.O. Food 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 1220,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJu5F_FMf-GGARr1Wo6w2gu4E",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14068809-7789ebc23ae34947ee4a2b82d779403b1708c2ede5558a4e976213f9acb99fb2.jpg",
+    "place_id": "ChIJu5F_FMf-GGARr1Wo6w2gu4E",
+    "g_name": "家系ラーメン クックら",
+    "g_rating": 4,
+    "g_reviews": 1220,
+    "g_address": "日本、〒252-0303 神奈川県相模原市南区相模大野５丁目２７−５",
+    "lat": 35.5321494,
+    "lng": 139.4328409
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "バロンヌードル",
+    "name_en": "Baron Noodle",
+    "area": "神奈川県 平沼橋駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140102/14086339/",
+    "rating": 3.69,
+    "review_count_tabelog": 635,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu",
+        "dtl": "11:00 - 14:30 18:00 - 22:30",
+        "dtl_text": "18:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Fri, Sat",
+        "dtl": "11:00 - 14:30 18:00 - 23:30",
+        "dtl_text": "18:00 - 23:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.9,
+    "google_reviews": 227,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJP_Zv8IhdGGAR0N_pRugG79M",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14086339-8f235e94586dce5f6d8fdc9c9b5c35f2a8b0ca381a2de8024ae371fb082750b6.jpg",
+    "place_id": "ChIJP_Zv8IhdGGAR0N_pRugG79M",
+    "g_name": "バロンヌードル",
+    "g_rating": 3.9,
+    "g_reviews": 227,
+    "g_address": "日本、〒220-0073 神奈川県横浜市西区岡野１丁目９−１２ 横浜西口加藤ビル 2F",
+    "lat": 35.4627036,
+    "lng": 139.6165322
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "地球の中華そば",
+    "name_en": "hoshinochuukasoba",
+    "area": "神奈川県 金沢文庫駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140310/14089878/",
+    "rating": 3.73,
+    "review_count_tabelog": 509,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 15:00 L.O. 14:45 18:00 - 21:15 L.O. 21:00",
+        "dtl_text": "18:00 - 21:15 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays and Sundays (including when Monday is a public holiday)"
+    },
+    "google_rating": 3.7,
+    "google_reviews": 331,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJnSWyYuVDGGAR9wLsP7sR9gw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14089878-81211704f25f43bfece98dc3cecc070b57bdca2a00e301aa9bcaa494807b79ce.jpg",
+    "place_id": "ChIJnSWyYuVDGGAR9wLsP7sR9gw",
+    "g_name": "金沢文庫駅",
+    "g_rating": 3.7,
+    "g_reviews": 331,
+    "g_address": "日本、〒236-0016 神奈川県横浜市金沢区谷津町３８４",
+    "lat": 35.3428573,
+    "lng": 139.621646
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "ラーメン フリーバーズ",
+    "name_en": "Ramen Free Birds",
+    "area": "神奈川県 本郷台駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140309/14072025/",
+    "rating": 3.75,
+    "review_count_tabelog": 682,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 L.O. 14:45 18:00 - 20:00 L.O. 19:45",
+        "dtl_text": "18:00 - 20:00 L.O. 19:45",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "11:00 - 15:00 L.O. 14:45",
+        "dtl_text": "11:00 - 15:00 L.O. 14:45",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays (may also close on Tuesdays if there is a consecutive holiday; please check our social media for updates)"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 652,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJEToizGpFGGAReqW_4KBsdVI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14072025-702a28021da179337a4a8ee3b0f7ba013c7c259d1fd5360aad4f109cd3304a24.jpg",
+    "place_id": "ChIJEToizGpFGGAReqW_4KBsdVI",
+    "g_name": "Ramen Free Birds",
+    "g_rating": 4.4,
+    "g_reviews": 652,
+    "g_address": "日本、〒247-0005 神奈川県横浜市栄区桂町１８１−１２",
+    "lat": 35.3616168,
+    "lng": 139.5494829
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "丿貫 福富町本店",
+    "name_en": "Hetchikan Fukutomi Cho Honten",
+    "area": "神奈川県 桜木町駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140104/14062435/",
+    "rating": 3.77,
+    "review_count_tabelog": 1929,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen, Nihonshu (Japanese sake), Bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 L.O. 14:30 17:00 - 22:00 L.O. 21:30",
+        "dtl_text": "17:00 - 22:00 L.O. 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 1221,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJoyIJ4_RcGGARUWixFl96kIM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14062435-99a38ee2962b737f04734a11e7f2d7cb14a60697459115a5251f7328baa5a5ec.jpg",
+    "place_id": "ChIJoyIJ4_RcGGARUWixFl96kIM",
+    "g_name": "丿貫",
+    "g_rating": 4,
+    "g_reviews": 1221,
+    "g_address": "日本、〒231-0043 神奈川県横浜市中区福富町仲通２−４",
+    "lat": 35.4458026,
+    "lng": 139.6316474
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "らーめん 藁",
+    "name_en": "Ramen Wara",
+    "area": "神奈川県 茅ヶ崎市",
+    "url": "https://tabelog.com/kanagawa/A1404/A140404/14087347/",
+    "rating": 3.73,
+    "review_count_tabelog": 426,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Fri, Sat",
+        "dtl": "11:00 - 14:30 18:30 - 21:00",
+        "dtl_text": "18:30 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu, Sun",
+        "dtl": "11:00 - 14:30",
+        "dtl_text": "11:00 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 276,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJYfb-0JxTGGARFW9nsi90_mk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14087347-575f0cddd5acf2dca781e198635fa062d0d58100627c400d28cfec51a5be0db7.jpg",
+    "place_id": "ChIJYfb-0JxTGGARFW9nsi90_mk",
+    "g_name": "らーめん藁",
+    "g_rating": 4,
+    "g_reviews": 276,
+    "g_address": "日本、〒253-0015 神奈川県茅ヶ崎市代官町５−１ メゾンドピア２",
+    "lat": 35.3388557,
+    "lng": 139.4345883
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "元祖一条流 がんこ総本家 分店",
+    "name_en": "Ganso Ichijoryu Ganko Sohonke Bun Ten",
+    "area": "神奈川県 相模原市緑区",
+    "url": "https://tabelog.com/kanagawa/A1407/A140701/14067394/",
+    "rating": 3.7,
+    "review_count_tabelog": 338,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 15:00 18:00 - 20:30",
+        "dtl_text": "18:00 - 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 19:30",
+        "dtl_text": "11:00 - 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Sat, Sun & Public Holidays": {}
+      },
+      "closed_on": "The third Tuesday of each month and the following Tuesday if Monday is a public holiday."
+    },
+    "google_rating": 3.9,
+    "google_reviews": 498,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5QBLQ8AcGWAR-Y7ZT1Mnt8A",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14067394-9f19e37e509bd2ce768191c5347ec4febdcc3d7ea0612a0750ad0ca8c380dbd7.jpg",
+    "place_id": "ChIJ5QBLQ8AcGWAR-Y7ZT1Mnt8A",
+    "g_name": "元祖一条流がんこ総本家(二代目)",
+    "g_rating": 3.9,
+    "g_reviews": 498,
+    "g_address": "日本、〒252-0104 神奈川県相模原市緑区向原４丁目３",
+    "lat": 35.5901754,
+    "lng": 139.3059648
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "鮮魚鶏出汁麺 沢むら",
+    "name_en": "Sengyo Toridashi Men Sawamura",
+    "area": "神奈川県 藤沢市",
+    "url": "https://tabelog.com/kanagawa/A1404/A140404/14063346/",
+    "rating": 3.69,
+    "review_count_tabelog": 424,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:30 17:30 - 21:30",
+        "dtl_text": "17:30 - 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "11:00 - 14:30",
+        "dtl_text": "11:00 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 830,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJXdzvEdFPGGAR4CNafmhOLjs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14063346-58bb5e3db988f9258f9c4c0e37cc872719563a54697fca624ae31239c42342f3.jpg",
+    "place_id": "ChIJXdzvEdFPGGAR4CNafmhOLjs",
+    "g_name": "鮮魚鶏出汁麺 沢むら",
+    "g_rating": 4.3,
+    "g_reviews": 830,
+    "g_address": "日本、〒251-0002 神奈川県藤沢市大鋸９９９−８",
+    "lat": 35.3497882,
+    "lng": 139.4939627
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "流星軒",
+    "name_en": "Ryusei Ken",
+    "area": "神奈川県 吉野町駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140306/14000569/",
+    "rating": 3.76,
+    "review_count_tabelog": 1018,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 14:20 18:00 - 19:50",
+        "dtl_text": "18:00 - 19:50"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 703,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJydfjy4VcGGARl5VOsmlzGjE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14000569-8fe1fd61628ee82172b24ca6e04f62ecab702ec74fbe9094e5173a2bcb7c4ce2.jpg",
+    "place_id": "ChIJydfjy4VcGGARl5VOsmlzGjE",
+    "g_name": "流星軒",
+    "g_rating": 4.2,
+    "g_reviews": 703,
+    "g_address": "日本、〒232-0011 神奈川県横浜市南区日枝町４丁目９７−２ グレイス南太田 102",
+    "lat": 35.4371032,
+    "lng": 139.617523
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "くり山",
+    "name_en": "Kuri Yama",
+    "area": "神奈川県 白楽駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140205/14012001/",
+    "rating": 3.76,
+    "review_count_tabelog": 1336,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Tsukemen, Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 15:00 17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 21:00",
+        "dtl_text": "11:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14012001-8deec2d90e3cd65f5dfe5941a79dad87dbcd84e6cccadec81b0062477545aed1.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "らぁめん鴇",
+    "name_en": "Ramen Toki",
+    "area": "神奈川県 藤沢駅",
+    "url": "https://tabelog.com/kanagawa/A1404/A140404/14059192/",
+    "rating": 3.89,
+    "review_count_tabelog": 1412,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open on some holidays and Sundays"
+    },
+    "google_rating": 3.7,
+    "google_reviews": 1783,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJLZQy1cpPGGARLSXIdXeEvYM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14059192-708144cf61ed0d458a073ef3b9872a6c1054d8738467b01cd4bd6ab7de0221fe.jpg",
+    "place_id": "ChIJLZQy1cpPGGARLSXIdXeEvYM",
+    "g_name": "藤沢駅",
+    "g_rating": 3.7,
+    "g_reviews": 1783,
+    "g_address": "日本、神奈川県藤沢市",
+    "lat": 35.3389164,
+    "lng": 139.4874922
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "豚星。",
+    "name_en": "Buta Boshi",
+    "area": "神奈川県 元住吉駅",
+    "url": "https://tabelog.com/kanagawa/A1405/A140504/14058333/",
+    "rating": 3.74,
+    "review_count_tabelog": 1561,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen, Tsukemen, Abura soba mixed noodle",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 00:00",
+        "dtl_text": "11:00 - 00:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.3,
+    "google_reviews": 1716,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJY1gRbINfGGAR2VUgmWSsz6o",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14058333-cea2d9922f12881a555dde23a7102b8a20350a780d8ffe0fd2428273deb31497.jpg",
+    "place_id": "ChIJY1gRbINfGGAR2VUgmWSsz6o",
+    "g_name": "豚星。",
+    "g_rating": 3.3,
+    "g_reviews": 1716,
+    "g_address": "日本、〒211-0025 神奈川県川崎市中原区木月４丁目５−２０ シティコート田辺 １０２",
+    "lat": 35.5598977,
+    "lng": 139.65437
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "麺や魁星",
+    "name_en": "Menya Sakigakeboshi",
+    "area": "神奈川県 関内駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140104/14073157/",
+    "rating": 3.7,
+    "review_count_tabelog": 924,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "11:00 - 00:00",
+        "dtl_text": "11:00 - 00:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 03:00",
+        "dtl_text": "11:00 - 03:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:00 - 20:00",
+        "dtl_text": "11:00 - 20:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 603,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJBQUP7FVdGGARVm_AArmdCDA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14073157-58d80980b65b594161f7761ed953b59cd9be72ad9409c9f4fcfdbb4a2716ce54.jpg",
+    "place_id": "ChIJBQUP7FVdGGARVm_AArmdCDA",
+    "g_name": "麺や魁星",
+    "g_rating": 4.1,
+    "g_reviews": 603,
+    "g_address": "日本、〒231-0041 神奈川県横浜市中区吉田町３−１１",
+    "lat": 35.4459713,
+    "lng": 139.6324371
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "日陰",
+    "name_en": "Hikage",
+    "area": "神奈川県 川崎市幸区",
+    "url": "https://tabelog.com/kanagawa/A1405/A140503/14081996/",
+    "rating": 3.85,
+    "review_count_tabelog": 1256,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 18:00 - 20:00",
+        "dtl_text": "18:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.7,
+    "google_reviews": 864,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJU9OTE6BfGGAReC4SM2wC7K4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14081996-c3e4b49c71d21d4f7ab79cbb2d82231bd9ae9f69841652f6a1135d9268c217c9.jpg",
+    "place_id": "ChIJU9OTE6BfGGAReC4SM2wC7K4",
+    "g_name": "ラーメン 日陰",
+    "g_rating": 3.7,
+    "g_reviews": 864,
+    "g_address": "日本、〒212-0055 神奈川県川崎市幸区南加瀬４丁目１６−２",
+    "lat": 35.5462713,
+    "lng": 139.6599643
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "支那そばや 本店",
+    "name_en": "China Soba Ya Hon Ten",
+    "area": "神奈川県 戸塚駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140305/14014445/",
+    "rating": 3.78,
+    "review_count_tabelog": 2177,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 21:00 L.O. Food 20:30",
+        "dtl_text": "11:00 - 21:00 L.O. Food 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 1778,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJtzWnrZxaGGAR5HqTIxLJclM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14014445-6378deae767f3f57f1c8bb2792546605fd843cf39a06467fb24744668764403f.jpg",
+    "place_id": "ChIJtzWnrZxaGGAR5HqTIxLJclM",
+    "g_name": "支那そばや 戸塚本店",
+    "g_rating": 4,
+    "g_reviews": 1778,
+    "g_address": "日本、〒244-0003 神奈川県横浜市戸塚区戸塚町６００２−２",
+    "lat": 35.4014228,
+    "lng": 139.5318306
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "ラーメン二郎 京急川崎店",
+    "name_en": "Ramen Jiro Keikyu Kawasaki Ten",
+    "area": "神奈川県 京急川崎駅",
+    "url": "https://tabelog.com/kanagawa/A1405/A140501/14000765/",
+    "rating": 3.72,
+    "review_count_tabelog": 1042,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 14:00 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:00 - 16:00",
+        "dtl_text": "11:00 - 16:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.9,
+    "google_reviews": 1551,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJX15TZ5ZgGGARlpCqYGhB1h4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14000765-bcb54f81db7c3e05f5ff867d35876d30081b4084a8b307f452e388b160d039e3.jpg",
+    "place_id": "ChIJX15TZ5ZgGGARlpCqYGhB1h4",
+    "g_name": "ラーメン二郎 京急川崎店",
+    "g_rating": 3.9,
+    "g_reviews": 1551,
+    "g_address": "日本、〒210-0001 神奈川県川崎市川崎区本町２丁目１０−１ コーポ本町",
+    "lat": 35.5349744,
+    "lng": 139.7052678
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "厚木本丸亭",
+    "name_en": "Atsugi Honmaru Tei",
+    "area": "神奈川県 本厚木駅",
+    "url": "https://tabelog.com/kanagawa/A1408/A140802/14000181/",
+    "rating": 3.76,
+    "review_count_tabelog": 961,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "11:00 - 14:00",
+        "dtl_text": "11:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 850,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6fEKAkxVGGARgvbvByoYmk0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14000181-292134f26a26663f87797a59775433c92c4d0d4acc24786e5be16184fe004244.jpg",
+    "place_id": "ChIJ6fEKAkxVGGARgvbvByoYmk0",
+    "g_name": "厚木本丸亭",
+    "g_rating": 4.2,
+    "g_reviews": 850,
+    "g_address": "日本、〒243-0012 神奈川県厚木市幸町４−１０",
+    "lat": 35.4396686,
+    "lng": 139.3706203
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "53'sNoodle",
+    "name_en": "53'sNoodle",
+    "area": "神奈川県 湘南台駅",
+    "url": "https://tabelog.com/kanagawa/A1404/A140405/14085551/",
+    "rating": 3.65,
+    "review_count_tabelog": 269,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri",
+        "dtl": "11:00 - 14:30 L.O. 14:30 18:00 - 21:00 L.O. 21:00",
+        "dtl_text": "18:00 - 21:00 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.8,
+    "google_reviews": 491,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJP07hNK1RGGARSYf5mJ8mmn0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14085551-eef39cf6de73cad01a2060819911b3b2a376ece4f9b459cb5731515e2fb74f09.jpg",
+    "place_id": "ChIJP07hNK1RGGARSYf5mJ8mmn0",
+    "g_name": "53's Noodle",
+    "g_rating": 3.8,
+    "g_reviews": 491,
+    "g_address": "日本、〒252-0804 神奈川県藤沢市湘南台２丁目１−１ 田中ビル 2階",
+    "lat": 35.39707540000001,
+    "lng": 139.4651131
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "麺屋 ぬまた",
+    "name_en": "Menya Numata",
+    "area": "神奈川県 京急鶴見駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140210/14078862/",
+    "rating": 3.7,
+    "review_count_tabelog": 610,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:15 - 14:00 18:00 - 20:45",
+        "dtl_text": "18:00 - 20:45"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 364,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJMS9dNKZfGGARyY7THjuQfmE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14078862-8b11eca30136c5bb71c5ab89d0f7db72f70cc03c8d5c59f690427f2f0136d942.jpg",
+    "place_id": "ChIJMS9dNKZfGGARyY7THjuQfmE",
+    "g_name": "麺屋ぬまた",
+    "g_rating": 4.1,
+    "g_reviews": 364,
+    "g_address": "日本、〒230-0051 神奈川県横浜市鶴見区鶴見中央１丁目２７−１５",
+    "lat": 35.508302,
+    "lng": 139.6784079
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "中華そば 麺や食堂 本店",
+    "name_en": "Chuka Soba Menya Shokudo Hon Ten",
+    "area": "神奈川県 本厚木駅",
+    "url": "https://tabelog.com/kanagawa/A1408/A140802/14001610/",
+    "rating": 3.77,
+    "review_count_tabelog": 2265,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 22:30 L.O. 22:00",
+        "dtl_text": "11:00 - 22:30 L.O. 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 2479,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJV2yLg05VGGAR9DRv_iAdG3k",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14001610-421ee6ad1a11be85650fe5844d276cedc51753c01634378c491ce152aa173dde.jpg",
+    "place_id": "ChIJV2yLg05VGGAR9DRv_iAdG3k",
+    "g_name": "麺や食堂 厚木本店",
+    "g_rating": 4.2,
+    "g_reviews": 2479,
+    "g_address": "日本、〒243-0012 神奈川県厚木市幸町９−６",
+    "lat": 35.4413185,
+    "lng": 139.3705435
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "ラーメン二郎 相模大野店",
+    "name_en": "Ramen Jiro Sagamiono Ten",
+    "area": "神奈川県 相模大野駅",
+    "url": "https://tabelog.com/kanagawa/A1407/A140701/14000839/",
+    "rating": 3.72,
+    "review_count_tabelog": 744,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "10:20 - 14:00",
+        "dtl_text": "10:20 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu",
+        "dtl": "10:20 - 14:00 17:00 - 20:30",
+        "dtl_text": "17:00 - 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Fri",
+        "dtl": "17:00 - 20:30",
+        "dtl_text": "17:00 - 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "10:00 - 15:00",
+        "dtl_text": "10:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.6,
+    "google_reviews": 1132,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJfb6nlMb-GGARFix_mBZef7A",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14000839-2da67c44017aff50f515f3937be828bfb04763475a6d7e192a1dd1ab24649dd9.jpg",
+    "place_id": "ChIJfb6nlMb-GGARFix_mBZef7A",
+    "g_name": "ラーメン二郎 相模大野店",
+    "g_rating": 3.6,
+    "g_reviews": 1132,
+    "g_address": "日本、〒252-0303 神奈川県相模原市南区相模大野６丁目１４−９",
+    "lat": 35.5299829,
+    "lng": 139.432861
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "自家製麺 麺や 六等星",
+    "name_en": "Jikaseimen Menya Rokutosei",
+    "area": "神奈川県 稲田堤駅",
+    "url": "https://tabelog.com/kanagawa/A1405/A140506/14077566/",
+    "rating": 3.72,
+    "review_count_tabelog": 561,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.7,
+    "google_reviews": 362,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ42_wSj7xGGARoM6vIDNRj_4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14077566-a35ac77aad2b9f91e8d4144aafd6f4cecc4285fba538f2883eb455205eb66a6d.jpg",
+    "place_id": "ChIJ42_wSj7xGGARoM6vIDNRj_4",
+    "g_name": "麺や六等星",
+    "g_rating": 3.7,
+    "g_reviews": 362,
+    "g_address": "日本、〒214-0003 神奈川県川崎市多摩区菅稲田堤１丁目１−２ コーポフジ",
+    "lat": 35.6336468,
+    "lng": 139.5355098
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "麺場 浜虎",
+    "name_en": "Menba Hamatora",
+    "area": "神奈川県 横浜駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140101/14000361/",
+    "rating": 3.67,
+    "review_count_tabelog": 2784,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "08:00 - 03:00",
+        "dtl_text": "08:00 - 03:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 3.8,
+    "google_reviews": 2755,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDQBpaxFcGGARZngR0FLBwrQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14000361-003de82d31b12fbc0813208908401443bd8b2f10a7c90ef55272fbc075a8c834.jpg",
+    "place_id": "ChIJDQBpaxFcGGARZngR0FLBwrQ",
+    "g_name": "浜虎",
+    "g_rating": 3.8,
+    "g_reviews": 2755,
+    "g_address": "日本、〒221-0835 神奈川県横浜市神奈川区鶴屋町２丁目１２−１ ハリオカビル1Ｆ",
+    "lat": 35.4689637,
+    "lng": 139.623311
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "雪ぐに",
+    "name_en": "Yukiguni",
+    "area": "神奈川県 中田駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140304/14082640/",
+    "rating": 3.82,
+    "review_count_tabelog": 820,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat",
+        "dtl": "11:00 - 14:30 18:00 - 21:00 L.O. 20:30",
+        "dtl_text": "18:00 - 21:00 L.O. 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 1187,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6oaCJNQGGARZA3_-Ba5ARw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14082640-bd995c1e0dd955633de397a2cfdf0881a0433a351084ed8f603b3227f303579e.jpg",
+    "place_id": "ChIJq6oaCJNQGGARZA3_-Ba5ARw",
+    "g_name": "味噌ラーメン 雪ぐに",
+    "g_rating": 4.3,
+    "g_reviews": 1187,
+    "g_address": "日本、〒245-0013 神奈川県横浜市泉区中田東２丁目６−１３ 爛爛",
+    "lat": 35.4123786,
+    "lng": 139.512496
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "肉煮干中華そば 鈴木ラーメン店",
+    "name_en": "Nikuniboshi Chuka Soba Suzuki Ramen Ten",
+    "area": "神奈川県 相模大野駅",
+    "url": "https://tabelog.com/kanagawa/A1407/A140701/14044862/",
+    "rating": 3.72,
+    "review_count_tabelog": 677,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "10:30 - 15:00 L.O. 14:30",
+        "dtl_text": "10:30 - 15:00 L.O. 14:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.9,
+    "google_reviews": 740,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJE2Ni3sf-GGARm80SOobRgQc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14044862-43a3be79223eec5035ea5e83cb6bc1950f1b5ffeb38b6a3f2246f33537ee6e70.jpg",
+    "place_id": "ChIJE2Ni3sf-GGARm80SOobRgQc",
+    "g_name": "鈴木ラーメン店",
+    "g_rating": 3.9,
+    "g_reviews": 740,
+    "g_address": "日本、〒252-0303 神奈川県相模原市南区相模大野３丁目１８−３",
+    "lat": 35.5334254,
+    "lng": 139.4362192
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "自家製麺 カミカゼ",
+    "name_en": "Jikaseimen Kamikaze",
+    "area": "神奈川県 横浜市戸塚区",
+    "url": "https://tabelog.com/kanagawa/A1401/A140305/14064633/",
+    "rating": 3.78,
+    "review_count_tabelog": 589,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:45",
+        "dtl_text": "11:00 - 14:45",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed and may include temporary closures"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 719,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAsyXNQGGARl1-Z4SgRxAc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14064633-5f0aac86e34f60884e131aad9a883744fd392edc86086378f95dc25b24d95740.jpg",
+    "place_id": "ChIJAQAsyXNQGGARl1-Z4SgRxAc",
+    "g_name": "カミカゼ",
+    "g_rating": 4.2,
+    "g_reviews": 719,
+    "g_address": "日本、〒245-0062 神奈川県横浜市戸塚区汲沢町１２０２",
+    "lat": 35.3890656,
+    "lng": 139.5207596
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "めん処 樹",
+    "name_en": "Mendokoro Tatsunoki",
+    "area": "神奈川県 天王町駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140301/14009887/",
+    "rating": 3.69,
+    "review_count_tabelog": 512,
+    "price_dinner": "～￥999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 390,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJMWy8E_JbGGARvclPMM7xjWA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14009887-05558288110ca3105ff812304d20625372a6c8c28c9fce7717eedb9210922bb6.jpg",
+    "place_id": "ChIJMWy8E_JbGGARvclPMM7xjWA",
+    "g_name": "めん処 樹",
+    "g_rating": 4.1,
+    "g_reviews": 390,
+    "g_address": "日本、〒240-0003 神奈川県横浜市保土ケ谷区天王町１丁目３２−１７",
+    "lat": 35.4576629,
+    "lng": 139.6001531
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "煮干しらぁめん 猫トラ亭",
+    "name_en": "Niboshi Raamen Neko Tora Tei",
+    "area": "神奈川県 大和市",
+    "url": "https://tabelog.com/kanagawa/A1407/A140702/14056037/",
+    "rating": 3.71,
+    "review_count_tabelog": 602,
+    "price_dinner": "～￥999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 17:00 L.O. 16:50",
+        "dtl_text": "11:00 - 17:00 L.O. 16:50",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 824,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJU1vajwVWGGARaN6yRqOarak",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14056037-cdb86be6f859ce4e368e7987893d96ca694a0698f0e4d67c04b64c0834d8f4de.jpg",
+    "place_id": "ChIJU1vajwVWGGARaN6yRqOarak",
+    "g_name": "猫トラ亭",
+    "g_rating": 4.1,
+    "g_reviews": 824,
+    "g_address": "日本、〒242-0029 神奈川県大和市上草柳３丁目１９−２３ クレア大和",
+    "lat": 35.4780471,
+    "lng": 139.4535001
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "川の先の上",
+    "name_en": "Kawa no Saki no Ue",
+    "area": "神奈川県 上大岡駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140307/14075882/",
+    "rating": 3.72,
+    "review_count_tabelog": 883,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen, Dumplings",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 21:45 L.O. 21:30",
+        "dtl_text": "11:30 - 21:45 L.O. 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 758,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJCyn1eI5bGGARTD_elkSUXzs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14075882-3c8d1a7011ad1a820d1aa764ce3447eb25c8e1238f1792c6b33b19b940c439da.jpg",
+    "place_id": "ChIJCyn1eI5bGGARTD_elkSUXzs",
+    "g_name": "川の先の上",
+    "g_rating": 4.2,
+    "g_reviews": 758,
+    "g_address": "日本、〒233-0007 神奈川県横浜市港南区大久保１丁目１５−３６ 第１ミツワセンター 2F",
+    "lat": 35.4090309,
+    "lng": 139.5935606
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "らー麺土俵 鶴嶺峰",
+    "name_en": "Ramen Dohyo Kakureihoho",
+    "area": "神奈川県 京急鶴見駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140210/14048930/",
+    "rating": 3.72,
+    "review_count_tabelog": 1005,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Tsukemen, Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 1156,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGx1b6wheGGARDzwv9MPgK6c",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14048930-4ade4ef699a1285a021ed99822c9ccde8ef21098e1dd6f6970b8ae107daaca58.jpg",
+    "place_id": "ChIJGx1b6wheGGARDzwv9MPgK6c",
+    "g_name": "らー麺土俵 鶴嶺峰",
+    "g_rating": 4.2,
+    "g_reviews": 1156,
+    "g_address": "日本、〒230-0051 神奈川県横浜市鶴見区鶴見中央４丁目２５−６",
+    "lat": 35.5074616,
+    "lng": 139.6796441
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "横浜家系ラーメン 黄金家",
+    "name_en": "Yokohama Iekei Ramen Kogane Ya",
+    "area": "神奈川県 黄金町駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140306/14072621/",
+    "rating": 3.71,
+    "review_count_tabelog": 794,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 01:00",
+        "dtl_text": "11:00 - 01:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.9,
+    "google_reviews": 984,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ57LbJFldGGAR2y8Exn3sv5g",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14072621-c48c45c2597dad4a4bf2cf51c701049c2a318c1f528e5d486bda27d40c2088aa.jpg",
+    "place_id": "ChIJ57LbJFldGGAR2y8Exn3sv5g",
+    "g_name": "横浜家系ラーメン 黄金家",
+    "g_rating": 3.9,
+    "g_reviews": 984,
+    "g_address": "日本、〒231-0055 神奈川県横浜市中区末吉町３丁目６７−７",
+    "lat": 35.4392427,
+    "lng": 139.6242946
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "自家製麺 二丁目ラーメン",
+    "name_en": "Jikaseimen Nichome Ramen",
+    "area": "神奈川県 橋本駅",
+    "url": "https://tabelog.com/kanagawa/A1407/A140701/14088226/",
+    "rating": 3.71,
+    "review_count_tabelog": 412,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen, Abura soba mixed noodle, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Fri, Sat",
+        "dtl": "11:30 - 13:30 17:30 - 21:30",
+        "dtl_text": "17:30 - 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:30 - 14:30",
+        "dtl_text": "11:30 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.6,
+    "google_reviews": 321,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJG966AzcdGWAROPzTzDfEYdA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14088226-bf11963b6885e2bcf0c11efb49f47eb0dbdb287a0c1ac63559b5827b2f04654d.jpg",
+    "place_id": "ChIJG966AzcdGWAROPzTzDfEYdA",
+    "g_name": "自家製麺 二丁目ラーメン",
+    "g_rating": 3.6,
+    "g_reviews": 321,
+    "g_address": "日本、〒252-0143 神奈川県相模原市緑区橋本２丁目２−１３",
+    "lat": 35.5952197,
+    "lng": 139.3420425
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "櫻井中華そば店",
+    "name_en": "Sakurai Chuka Soba Ten",
+    "area": "神奈川県 保土ケ谷駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140301/14068897/",
+    "rating": 3.81,
+    "review_count_tabelog": 1786,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:30 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 1047,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJg3MPPZBbGGAR4Bnd00a05qg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14068897-002e506460ba81b1d2fb1499e85d1062235002b4f429b95d516fdb4b26ec013d.jpg",
+    "place_id": "ChIJg3MPPZBbGGAR4Bnd00a05qg",
+    "g_name": "櫻井中華そば店",
+    "g_rating": 4,
+    "g_reviews": 1047,
+    "g_address": "日本、〒240-0023 神奈川県横浜市保土ケ谷区岩井町５３ 稲村ビル 1F",
+    "lat": 35.4453746,
+    "lng": 139.5985023
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "うずとかみなり",
+    "name_en": "Uzu to Kaminari",
+    "area": "神奈川県 本鵠沼駅",
+    "url": "https://tabelog.com/kanagawa/A1404/A140404/14086414/",
+    "rating": 3.87,
+    "review_count_tabelog": 713,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 277,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJxa-XBf5PGGARSiU2Sgnr3_c",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14086414-18667634a876429d185f9a0441db362998ec3743430f526bd696d852c41a75a8.jpg",
+    "place_id": "ChIJxa-XBf5PGGARSiU2Sgnr3_c",
+    "g_name": "うずとかみなり",
+    "g_rating": 4.3,
+    "g_reviews": 277,
+    "g_address": "日本、〒251-0027 神奈川県藤沢市鵠沼桜が岡３丁目５−７",
+    "lat": 35.3301886,
+    "lng": 139.4759097
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "大勝軒 淵野辺店",
+    "name_en": "Taisho Ken Fuchinobe Ten",
+    "area": "神奈川県 淵野辺駅",
+    "url": "https://tabelog.com/kanagawa/A1407/A140701/14000842/",
+    "rating": 3.68,
+    "review_count_tabelog": 518,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 20:30",
+        "dtl_text": "11:00 - 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 1059,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJMdTQyAn9GGARGbRHpjn-V34",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14000842-8ef7dcf9e28a2062bc59f2183f75fe430525480fae8bac298741288feb946dde.jpg",
+    "place_id": "ChIJMdTQyAn9GGARGbRHpjn-V34",
+    "g_name": "淵野辺大勝軒",
+    "g_rating": 4.2,
+    "g_reviews": 1059,
+    "g_address": "日本、〒252-0206 神奈川県相模原市中央区淵野辺２丁目６−２４",
+    "lat": 35.5728843,
+    "lng": 139.3929497
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "塩らー麺 本丸亭 横浜店",
+    "name_en": "Shio Ramen Honmaru Tei Yokohama Ten",
+    "area": "神奈川県 神奈川駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140212/14049658/",
+    "rating": 3.7,
+    "review_count_tabelog": 1634,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 17:00 - 23:30",
+        "dtl_text": "17:00 - 23:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 1295,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0a7yOBFcGGARMa29RIuVlAg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14049658-92637ac9a3f03ac77b7a76ef8353fda270ab31a40fb5d46ae09756926b7c8184.jpg",
+    "place_id": "ChIJ0a7yOBFcGGARMa29RIuVlAg",
+    "g_name": "本丸亭 横浜店",
+    "g_rating": 4,
+    "g_reviews": 1295,
+    "g_address": "日本、〒221-0835 神奈川県横浜市神奈川区鶴屋町１丁目７−２１",
+    "lat": 35.4694167,
+    "lng": 139.6239694
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "ラーメン 厚木家",
+    "name_en": "Ramen Atsugiya",
+    "area": "神奈川県 厚木市",
+    "url": "https://tabelog.com/kanagawa/A1408/A140802/14013886/",
+    "rating": 3.81,
+    "review_count_tabelog": 1996,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 21:00",
+        "dtl_text": "11:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 3620,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJA_d0TRsAGWARLDQ5zwRx34E",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14013886-47327c9d20e229069f821c67c7b3f03707083dadc7b7322d91d649bb91cfa5d1.jpg",
+    "place_id": "ChIJA_d0TRsAGWARLDQ5zwRx34E",
+    "g_name": "厚木家",
+    "g_rating": 4.2,
+    "g_reviews": 3620,
+    "g_address": "日本、〒243-0813 神奈川県厚木市妻田東２丁目２５−１１",
+    "lat": 35.4579385,
+    "lng": 139.3594818
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "ZUND-BAR",
+    "name_en": "ZUND-BAR",
+    "area": "神奈川県 厚木市",
+    "url": "https://tabelog.com/kanagawa/A1408/A140802/14000184/",
+    "rating": 3.75,
+    "review_count_tabelog": 1487,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen, Tsukemen, Gelato,Ice cream",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Day before public holiday, Day after public holiday",
+        "dtl": "11:00 - 21:00",
+        "dtl_text": "11:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "09:00 - 21:00",
+        "dtl_text": "09:00 - 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 2425,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2UcN8NAAGWARJvaKMWnZnak",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14000184-08de7ee2d062b68c439a12c38ce89ffa660c0714e0fb059ee9bbdd85c0e819ab.jpg",
+    "place_id": "ChIJ2UcN8NAAGWARJvaKMWnZnak",
+    "g_name": "ZUND-BAR",
+    "g_rating": 4.1,
+    "g_reviews": 2425,
+    "g_address": "日本、〒243-0121 神奈川県厚木市七沢１９５４−７",
+    "lat": 35.4516198,
+    "lng": 139.2924555
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "G麺７",
+    "name_en": "G Men 7",
+    "area": "神奈川県 上大岡駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140307/14015182/",
+    "rating": 3.71,
+    "review_count_tabelog": 760,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 23:00",
+        "dtl_text": "11:30 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 853,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJR4IHQk5bGGARjQBsvC2IuBw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14015182-6270b09d6ebd05e0888b7668d802e9e37e9d270b047f07dbdbd6101ced9cb714.jpg",
+    "place_id": "ChIJR4IHQk5bGGARjQBsvC2IuBw",
+    "g_name": "G麺7",
+    "g_rating": 4.2,
+    "g_reviews": 853,
+    "g_address": "日本、〒233-0002 神奈川県横浜市港南区上大岡西３丁目１０−６ エクセルマンション上大岡",
+    "lat": 35.403552,
+    "lng": 139.5976564
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "煮干しらーめん 田中にぼる",
+    "name_en": "Niboshi Ramen Tanaka Niboru",
+    "area": "神奈川県 武蔵新城駅",
+    "url": "https://tabelog.com/kanagawa/A1405/A140504/14083610/",
+    "rating": 3.7,
+    "review_count_tabelog": 445,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 15:00 L.O. 14:45 18:00 - 21:00 L.O. 20:45",
+        "dtl_text": "18:00 - 21:00 L.O. 20:45",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 291,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0fPi1331GGARNMZXbkNoaa4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14083610-aab95bc42f778d6fd195563258f9ccc7eb7b8d97f76236db72d8af821eb20562.jpg",
+    "place_id": "ChIJ0fPi1331GGARNMZXbkNoaa4",
+    "g_name": "煮干らーめん 田中にぼる",
+    "g_rating": 4.2,
+    "g_reviews": 291,
+    "g_address": "日本、〒213-0013 神奈川県川崎市高津区末長４丁目２５−３ 鈴木ビル",
+    "lat": 35.5886583,
+    "lng": 139.6269766
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "麺処 懐や",
+    "name_en": "Mendokoro Futokoro Ya",
+    "area": "神奈川県 鷺沼駅",
+    "url": "https://tabelog.com/kanagawa/A1405/A140507/14049709/",
+    "rating": 3.82,
+    "review_count_tabelog": 1022,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "12:30 - 15:00",
+        "dtl_text": "12:30 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 604,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJPxF72vz2GGARYDwxXpargkQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14049709-eb7644e026a414e7ca092cdfa20f731e0ca428b8d0cf8bb9574a67852de5ed2e.jpg",
+    "place_id": "ChIJPxF72vz2GGARYDwxXpargkQ",
+    "g_name": "麺処 懐や",
+    "g_rating": 4.2,
+    "g_reviews": 604,
+    "g_address": "日本、〒216-0004 神奈川県川崎市宮前区鷺沼３丁目３−４",
+    "lat": 35.5797283,
+    "lng": 139.5717211
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "まっち棒 溝の口店",
+    "name_en": "Match Bo Mizonokuchi Ten",
+    "area": "神奈川県 溝の口駅",
+    "url": "https://tabelog.com/kanagawa/A1405/A140505/14006090/",
+    "rating": 3.68,
+    "review_count_tabelog": 1390,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 00:00",
+        "dtl_text": "11:30 - 00:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.6,
+    "google_reviews": 886,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJt5Y0WCf0GGARnl41GQNpgoE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14006090-72d6c13327f6ce925e2ffff50a73ba417079ec2042ada17744f6b9b458b6b11f.jpg",
+    "place_id": "ChIJt5Y0WCf0GGARnl41GQNpgoE",
+    "g_name": "まっち棒",
+    "g_rating": 3.6,
+    "g_reviews": 886,
+    "g_address": "日本、〒213-0001 神奈川県川崎市高津区溝口２丁目３−７ サウスウィング １F",
+    "lat": 35.5995026,
+    "lng": 139.6097206
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "拉麺大公",
+    "name_en": "Ramen Taiko",
+    "area": "神奈川県 南太田駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140306/14050344/",
+    "rating": 3.71,
+    "review_count_tabelog": 684,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 15:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.8,
+    "google_reviews": 604,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJx500_oNcGGARAuAFerpRjTk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14050344-501d2d7154cdbebdc2056d10b9b5bab18bc549c8460707111bc31c95aeb51aab.jpg",
+    "place_id": "ChIJx500_oNcGGARAuAFerpRjTk",
+    "g_name": "拉麺 大公 南太田本店",
+    "g_rating": 3.8,
+    "g_reviews": 604,
+    "g_address": "日本、〒232-0006 神奈川県横浜市南区南太田１丁目８−２４",
+    "lat": 35.436705,
+    "lng": 139.6144573
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "中華そば 髙野",
+    "name_en": "Chuka Soba Takano",
+    "area": "神奈川県 大口駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140211/14071663/",
+    "rating": 3.91,
+    "review_count_tabelog": 1581,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri",
+        "dtl": "11:00 - 14:00",
+        "dtl_text": "11:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 1148,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJU0cGvdpfGGARgUOm8gvSqjE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14071663-768643ea9b07ad23caa77a5388c4b68066b677f45b7ad64d9f72796e8994c5eb.jpg",
+    "place_id": "ChIJU0cGvdpfGGARgUOm8gvSqjE",
+    "g_name": "中華そば 髙野",
+    "g_rating": 4.4,
+    "g_reviews": 1148,
+    "g_address": "日本、〒221-0002 神奈川県横浜市神奈川区大口通１３５−１１",
+    "lat": 35.4913421,
+    "lng": 139.6460417
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "ラーメン二郎 生田駅前店",
+    "name_en": "Ramen Jiro Ikuta Ekimae Ten",
+    "area": "神奈川県 生田駅",
+    "url": "https://tabelog.com/kanagawa/A1405/A140506/14091118/",
+    "rating": 3.7,
+    "review_count_tabelog": 634,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 L.O. Food 15:00 18:00 - 21:00 L.O. Food 21:00",
+        "dtl_text": "18:00 - 21:00 L.O. Food 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 537,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_2VYW27xGGAR6BZpm_6oqcU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14091118-bfa6e694d9fca4f355e9eeef06d36113b3727c2a663f353a90ab7f36f3a72b62.jpg",
+    "place_id": "ChIJ_2VYW27xGGAR6BZpm_6oqcU",
+    "g_name": "ラーメン二郎 生田駅前店",
+    "g_rating": 4.2,
+    "g_reviews": 537,
+    "g_address": "日本、〒214-0038 神奈川県川崎市多摩区生田８丁目１−１５ スワンハイツ",
+    "lat": 35.6154967,
+    "lng": 139.5454415
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "飯田商店",
+    "name_en": "Iida Shoten",
+    "area": "神奈川県 湯河原駅",
+    "url": "https://tabelog.com/kanagawa/A1410/A141002/14038776/",
+    "rating": 4.33,
+    "review_count_tabelog": 2241,
+    "price_dinner": "-",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "For information regarding regular holidays, temporary closures, and special operating hours, please check the reservation page and our updates on X."
+    },
+    "google_rating": 4,
+    "google_reviews": 1742,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJE7th1xK8GWARQxVxqKFd6S0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14038776-f872ad9a1c91f532260cea18afee02942a279ad5ad25ce487edeebb55a2e2302.jpg",
+    "place_id": "ChIJE7th1xK8GWARQxVxqKFd6S0",
+    "g_name": "飯田商店",
+    "g_rating": 4,
+    "g_reviews": 1742,
+    "g_address": "日本、〒259-0303 神奈川県足柄下郡湯河原町土肥２丁目１２−１４",
+    "lat": 35.1446834,
+    "lng": 139.1097609
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "中華蕎麦 時雨 伊勢佐木長者町本店",
+    "name_en": "Chuka Soba Shigure Isesagichojo Machihonten",
+    "area": "神奈川県 伊勢佐木長者町駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140104/14067138/",
+    "rating": 3.76,
+    "review_count_tabelog": 1567,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Thu, Fri, Sat",
+        "dtl": "11:00 - 14:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Sun",
+        "dtl": "11:00 - 14:00",
+        "dtl_text": "11:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 978,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJRUPy9PFcGGARIdi5JyTUn6w",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14067138-24b177a62b080212c75d12a59ce5fccc4ebfe6328d6221b0b4d0b44a12a88908.jpg",
+    "place_id": "ChIJRUPy9PFcGGARIdi5JyTUn6w",
+    "g_name": "中華蕎麦 時雨 伊勢佐木長者町本店",
+    "g_rating": 4.1,
+    "g_reviews": 978,
+    "g_address": "日本、〒231-0032 神奈川県横浜市中区不老町２丁目１０−５",
+    "lat": 35.4414937,
+    "lng": 139.6351641
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "三三七",
+    "name_en": "San San Nana",
+    "area": "神奈川県 八丁畷駅",
+    "url": "https://tabelog.com/kanagawa/A1405/A140501/14032399/",
+    "rating": 3.69,
+    "review_count_tabelog": 1421,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Tsukemen, Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 15:00 L.O. 15:00 17:00 - 22:00 L.O. 21:30",
+        "dtl_text": "17:00 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "11:00 - 22:00 L.O. 21:30",
+        "dtl_text": "11:00 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Public Holiday",
+        "dtl": "11:00 - 22:00 L.O. 22:00",
+        "dtl_text": "11:00 - 22:00 L.O. 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 3.6,
+    "google_reviews": 23,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJFU6Gq6BgGGARZys8klOxs48",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14032399-3d6edd39ca07ed6d755ab198da09415cf8e713689b60e7efdfdcdffd6d0dc406.jpg",
+    "place_id": "ChIJFU6Gq6BgGGARZys8klOxs48",
+    "g_name": "八丁畷駅",
+    "g_rating": 3.6,
+    "g_reviews": 23,
+    "g_address": "日本、〒210-0022 神奈川県川崎市川崎区池田１丁目",
+    "lat": 35.523005,
+    "lng": 139.691445
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "手打ち中華そば 酒田",
+    "name_en": "Teuchi Chuka Soba Sakata",
+    "area": "神奈川県 小田栄駅",
+    "url": "https://tabelog.com/kanagawa/A1405/A140502/14072941/",
+    "rating": 3.73,
+    "review_count_tabelog": 554,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:30 17:30 - 20:30",
+        "dtl_text": "17:30 - 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (the following day if a holiday)"
+    },
+    "google_rating": 3.9,
+    "google_reviews": 612,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ09CsNsdnGGAR122T2RVJGtM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14072941-30bd067c87d084554088fd63679087b80c8180b0228b67288d5bbf3750a18beb.jpg",
+    "place_id": "ChIJ09CsNsdnGGAR122T2RVJGtM",
+    "g_name": "手打ち中華そば 酒田",
+    "g_rating": 3.9,
+    "g_reviews": 612,
+    "g_address": "日本、〒210-0848 神奈川県川崎市川崎区京町３丁目１３−１０ 増田ビル",
+    "lat": 35.5090789,
+    "lng": 139.698244
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "麺工房 隠國 愛川本店",
+    "name_en": "Men Kobo Komoriku Aikawa Honten",
+    "area": "神奈川県 愛甲郡愛川町",
+    "url": "https://tabelog.com/kanagawa/A1407/A140704/14000874/",
+    "rating": 3.7,
+    "review_count_tabelog": 423,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri",
+        "dtl": "11:30 - 14:30",
+        "dtl_text": "11:30 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "11:30 - 15:00",
+        "dtl_text": "11:30 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Wed, Thu, Fri": {},
+        "Sat, Sun": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 722,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ97SwcVICGWARzgQejN5tvko",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14000874-481c2d086de3b968441102aeadb77ca6a6e7d8575a93cbb81180bd30ccdd80c6.jpg",
+    "place_id": "ChIJ97SwcVICGWARzgQejN5tvko",
+    "g_name": "麺工房 隠國 愛川本店",
+    "g_rating": 4.1,
+    "g_reviews": 722,
+    "g_address": "日本、〒243-0301 神奈川県愛甲郡愛川町角田７６８−９",
+    "lat": 35.5370987,
+    "lng": 139.3280827
+  },
+  {
+    "category_jp": "ラーメン",
+    "category_en": "Ramen",
+    "region": "KANAGAWA",
+    "name": "らーめん いのうえ",
+    "name_en": "Ramen Inoue",
+    "area": "神奈川県 尻手駅",
+    "url": "https://tabelog.com/kanagawa/A1401/A140210/14054147/",
+    "rating": 3.76,
+    "review_count_tabelog": 843,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Ramen, Tsukemen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 14:00",
+        "dtl_text": "11:30 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "11:30 - 14:30",
+        "dtl_text": "11:30 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 508,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJqYSHQDpeGGARefznZuOWDI8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/ramen_kanagawa/14054147-3b4d83b13188a7cc4eafa2635dc64c2f17210bfe08c101d48646059ca1255dec.jpg",
+    "place_id": "ChIJqYSHQDpeGGARefznZuOWDI8",
+    "g_name": "らーめん いのうえ",
+    "g_rating": 4,
+    "g_reviews": 508,
+    "g_address": "日本、〒230-0001 神奈川県横浜市鶴見区矢向１丁目７−２６",
+    "lat": 35.5295393,
+    "lng": 139.6772814
+  }
+]

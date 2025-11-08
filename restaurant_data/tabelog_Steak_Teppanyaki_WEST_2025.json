@@ -1,0 +1,4364 @@
+[
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "五山望",
+    "name_en": "Gozan Nozomi",
+    "area": "京都府 京都駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260101/26001952/",
+    "rating": 3.6,
+    "review_count_tabelog": 160,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Teppanyaki, Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 15:30 L.O. 14:30 17:30 - 22:00 L.O. 21:00",
+        "dtl_text": "17:30 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "■Assorted varieties available: Discounts and benefits cannot be combined."
+    },
+    "google_rating": 4.6,
+    "google_reviews": 170,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJF7FjtZsIAWARfjcv39dRrvM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/26001952-071a5ae480ce15dc0267a190d4e52abd05508a5e7eeffae51a64ab2297bfb7cb.jpg",
+    "place_id": "ChIJF7FjtZsIAWARfjcv39dRrvM",
+    "g_name": "鉄板焼 五山望",
+    "g_rating": 4.6,
+    "g_reviews": 170,
+    "g_address": "日本、〒600-8216 京都府京都市下京区東塩小路町９０１ ホテルグランヴィア京都 15F",
+    "lat": 34.9858347,
+    "lng": 135.7587889
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "源兵衛 なんば店",
+    "name_en": "Genbee Nanba Ten",
+    "area": "大阪府 難波（南海）駅",
+    "url": "https://tabelog.com/osaka/A2701/A270202/27108460/",
+    "rating": 3.61,
+    "review_count_tabelog": 338,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Steak, Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu",
+        "dtl": "15:00 - 23:30 L.O. 22:30",
+        "dtl_text": "15:00 - 23:30 L.O. 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Fri, Sat",
+        "dtl": "15:00 - 00:00 L.O. 23:00",
+        "dtl_text": "15:00 - 00:00 L.O. 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "15:00 - 23:00 L.O. 22:00",
+        "dtl_text": "15:00 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/27108460-7b946924928d4afe2eb2660a2a6f1b0ec1a65deaf6e89f01cb6b65a161063eaa.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "鉄板焼ステーキ 一ッ葉ミヤチク",
+    "name_en": "Teppanyaki Steak Hitotsuba Miyachiku",
+    "area": "宮崎県 宮崎市",
+    "url": "https://tabelog.com/miyazaki/A4501/A450101/45000084/",
+    "rating": 3.65,
+    "review_count_tabelog": 406,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "Teppanyaki, Sukiyaki, Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 L.O. 14:00 17:00 - 21:30 L.O. 20:30",
+        "dtl_text": "17:00 - 21:30 L.O. 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 1276,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJgSkOUPK5ODURPeeRzN1Umc8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/45000084-f77bab0ab60b91f8ce777d3f505b9a24b3d535956df7331de13e71cb3faa779f.jpg",
+    "place_id": "ChIJgSkOUPK5ODURPeeRzN1Umc8",
+    "g_name": "一ツ葉ミヤチク",
+    "g_rating": 4.5,
+    "g_reviews": 1276,
+    "g_address": "日本、〒880-0834 宮崎県宮崎市新別府町前浜１４０１−２５５",
+    "lat": 31.920661,
+    "lng": 131.459506
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "ステーキ いぐち",
+    "name_en": "Steak Iguchi",
+    "area": "大阪府 北新地駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27011398/",
+    "rating": 3.63,
+    "review_count_tabelog": 234,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Steak, Teppanyaki, European",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 14:00 L.O. 13:30 17:00 - 23:00 L.O. 21:00",
+        "dtl_text": "17:00 - 23:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "17:00 - 23:00 L.O. 21:00",
+        "dtl_text": "17:00 - 23:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "We will be closed during the year-end and New Year holidays, as well as during the Obon period."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 57,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJp0P9ju3mAGAR_73_9NTaP-Y",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/27011398-4508c2664fc5f9f84ee54354bdb03d0b6d4648253e19251db3fda3d0dc0c9d04.jpg",
+    "place_id": "ChIJp0P9ju3mAGAR_73_9NTaP-Y",
+    "g_name": "ステーキいぐち",
+    "g_rating": 4.4,
+    "g_reviews": 57,
+    "g_address": "日本、〒530-0002 大阪府大阪市北区曾根崎新地１丁目２−１３ 割烹ふじ久",
+    "lat": 34.6972761,
+    "lng": 135.4972953
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "みやび亭",
+    "name_en": "Miyabi Tei",
+    "area": "大阪府 大阪天満宮駅",
+    "url": "https://tabelog.com/osaka/A2701/A270103/27000671/",
+    "rating": 3.58,
+    "review_count_tabelog": 149,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "-",
+    "sub_categories": "Teppanyaki, Okonomiyaki (Japanese savory pancake), Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 22:30 L.O. 21:30",
+        "dtl_text": "18:00 - 22:30 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/27000671-8b0fe9a7bd9d65ca5669253f919c59148287df7c4ee47e694dcf280114f57232.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "ステーキハウス新吾",
+    "name_en": "Steak House Shingo",
+    "area": "京都府 三条京阪駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260301/26006053/",
+    "rating": 3.69,
+    "review_count_tabelog": 63,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 21:30",
+        "dtl_text": "17:00 - 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.6,
+    "google_reviews": 68,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0Zata-oIAWARo86O6hCgc_U",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/26006053-3cc34e8e27c9b943c4239e734f1ad7e7ee69608bc6959b4448c0e9afb5c3bd3a.jpg",
+    "place_id": "ChIJ0Zata-oIAWARo86O6hCgc_U",
+    "g_name": "ステーキハウス新吾",
+    "g_rating": 4.6,
+    "g_reviews": 68,
+    "g_address": "日本、〒605-0088 京都府京都市東山区新門前通大和大路東入西之町２３２−６",
+    "lat": 35.0060866,
+    "lng": 135.7744817
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "和黒 新神戸店",
+    "name_en": "Aburi Niku Kobo Wakkoku Shinkobe Ten",
+    "area": "兵庫県 新神戸駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280103/28000955/",
+    "rating": 3.57,
+    "review_count_tabelog": 184,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Steak, Teppanyaki, Beef dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:45 - 15:00 17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 342,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7UX22ul_AGAROXiLIJYxXFI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/28000955-4cc4bf1c24a735d13a0d989e5f8c39e644809a823bfb53c377d7efae0d0ca163.jpg",
+    "place_id": "ChIJ7UX22ul_AGAROXiLIJYxXFI",
+    "g_name": "和黒 新神戸店",
+    "g_rating": 4.3,
+    "g_reviews": 342,
+    "g_address": "日本、〒650-0002 兵庫県神戸市中央区北野町１丁目１ ANAクラウンプラザホテル神戸同建物内 コトノハ神戸3F",
+    "lat": 34.7045734,
+    "lng": 135.1952335
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "祇園 一道",
+    "name_en": "Gion Ichido",
+    "area": "京都府 祇園四条駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260301/26018265/",
+    "rating": 3.72,
+    "review_count_tabelog": 105,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Teppanyaki, Japanese Cuisine, Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "18:00 - 22:30",
+        "dtl_text": "18:00 - 22:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 44,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJH5IjNMAIAWARUrP7bzq6pTc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/26018265-e1792e3d81d7e8608e90b05f8ea759d37f7656ecb2ba1795839044e9d3c07186.jpg",
+    "place_id": "ChIJH5IjNMAIAWARUrP7bzq6pTc",
+    "g_name": "祇園 一道",
+    "g_rating": 4.5,
+    "g_reviews": 44,
+    "g_address": "日本、〒605-0074 京都府京都市東山区祇園町南側５８９ ぎをん松本ビル ２階",
+    "lat": 35.0035991,
+    "lng": 135.7731518
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "鉄板焼さわふじ",
+    "name_en": "Teppanyaki Sawafuji",
+    "area": "沖縄県 那覇市",
+    "url": "https://tabelog.com/okinawa/A4701/A470101/47011120/",
+    "rating": 3.59,
+    "review_count_tabelog": 312,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Teppanyaki, Steak, Okinawa cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:30 - 23:00 L.O. 22:00",
+        "dtl_text": "17:30 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (Open during year-end and New Year holidays)"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 190,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2WQ8Xnhp5TQRlxs1wvev-TQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/47011120-fcc23530c4c7c152623838d24af53865c07c46e92020bc17ee9c1035aa218f67.jpg",
+    "place_id": "ChIJ2WQ8Xnhp5TQRlxs1wvev-TQ",
+    "g_name": "鉄板焼さわふじ",
+    "g_rating": 4.4,
+    "g_reviews": 190,
+    "g_address": "日本、〒900-0015 沖縄県那覇市久茂地２丁目１６−１７ アーバンライフくもじ 1F",
+    "lat": 26.2191074,
+    "lng": 127.6826318
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "豊後牛ステーキの店 そむり 別府本店",
+    "name_en": "Bungo Beef Steak no Mise Somuri Beppu Ten",
+    "area": "大分県 別府市",
+    "url": "https://tabelog.com/oita/A4402/A440202/44003334/",
+    "rating": 3.67,
+    "review_count_tabelog": 364,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Steak, Teppanyaki, Hamburger steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00 L.O. 13:30 17:30 - 21:30 L.O. 20:30",
+        "dtl_text": "17:30 - 21:30 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "11:30 - 14:00 L.O. 13:30",
+        "dtl_text": "11:30 - 14:00 L.O. 13:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 652,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmxeEzdymRjURq0Hpjk_3ZEM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/44003334-f8f1fb4c1e039180b9b6afdfa74ba7456070ebbc0830effc09cc0ba1cc35e858.jpg",
+    "place_id": "ChIJmxeEzdymRjURq0Hpjk_3ZEM",
+    "g_name": "豊後牛ステーキの店 そむり 別府本店",
+    "g_rating": 4.3,
+    "g_reviews": 652,
+    "g_address": "日本、〒874-0920 大分県別府市北浜１丁目４−２８ 笠岡商店ビル 2F",
+    "lat": 33.2779533,
+    "lng": 131.5043914
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "コーナーズグリル",
+    "name_en": "Corners Grill",
+    "area": "沖縄県 石垣市",
+    "url": "https://tabelog.com/okinawa/A4705/A470501/47004364/",
+    "rating": 3.61,
+    "review_count_tabelog": 296,
+    "price_dinner": "-",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Steak, Hamburger steak, Hamburger",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 117,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-zhSvK0KYDQRTs6UxVQAub4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/47004364-56611becae291a704efbae9602787879385af0189f5c86a568088e4f1c2ce678.jpg",
+    "place_id": "ChIJ-zhSvK0KYDQRTs6UxVQAub4",
+    "g_name": "ＣＯＲＮＥＲ’Ｓ・ＧＲＩＬＬ",
+    "g_rating": 4.2,
+    "g_reviews": 117,
+    "g_address": "日本、〒907-0022 沖縄県石垣市大川２５８−１",
+    "lat": 24.3396758,
+    "lng": 124.1569526
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "高千穂牛レストラン 和",
+    "name_en": "Takachiho Gyu Restaurant Nagomi",
+    "area": "宮崎県 西臼杵郡高千穂町",
+    "url": "https://tabelog.com/miyazaki/A4505/A450502/45004655/",
+    "rating": 3.59,
+    "review_count_tabelog": 291,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Steak, Hamburger steak, Yakiniku (BBQ Beef)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:30 L.O. 14:00 17:00 - 21:00 L.O. 20:30",
+        "dtl_text": "17:00 - 21:00 L.O. 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/45004655-2292f9767e2f61ca1d83c3ed7de5ab58ed1ac596b5ffbb3e54e82f9b1def6cd8.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "四季彩鉄板くさの",
+    "name_en": "Shikisai Teppan Kusano",
+    "area": "岡山県 岡山市北区",
+    "url": "https://tabelog.com/okayama/A3301/A330101/33011311/",
+    "rating": 3.59,
+    "review_count_tabelog": 91,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Teppanyaki",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "17:30 - 22:00",
+        "dtl_text": "17:30 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00 17:30 - 22:00",
+        "dtl_text": "17:30 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.6,
+    "google_reviews": 118,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVxE7UHVDURukgvH8X1mrg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/33011311-f5b24925feb96c133436f4c93460987b989773d5fb3bc4065823f5dbc8556ebe.jpg",
+    "place_id": "ChIJVVVxE7UHVDURukgvH8X1mrg",
+    "g_name": "四季彩鉄板 くさの",
+    "g_rating": 4.6,
+    "g_reviews": 118,
+    "g_address": "日本、〒700-0825 岡山県岡山市北区田町２丁目１３−１",
+    "lat": 34.6592157,
+    "lng": 133.9232823
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "鉄板焼 やまおか",
+    "name_en": "Teppanyaki Yamaoka",
+    "area": "広島県 女学院前駅",
+    "url": "https://tabelog.com/hiroshima/A3401/A340108/34024127/",
+    "rating": 3.59,
+    "review_count_tabelog": 19,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Teppanyaki, Steak, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 22:00 L.O. Food 21:00 Drinks 22:00",
+        "dtl_text": "17:00 - 22:00 L.O. Food 21:00 Drinks 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.6,
+    "google_reviews": 60,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5RPNJqiYWjURkWPnYsiDfvg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/34024127-e824439f728dd6fb7d120312c2b9f20fac918ee268431bce5e9b4bd46f3888e3.jpg",
+    "place_id": "ChIJ5RPNJqiYWjURkWPnYsiDfvg",
+    "g_name": "鉄板焼き やまおか",
+    "g_rating": 4.6,
+    "g_reviews": 60,
+    "g_address": "日本、〒730-0013 広島県広島市中区八丁堀１−８",
+    "lat": 34.3974571,
+    "lng": 132.4641743
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "tanpopo 北新地本店",
+    "name_en": "tanpopo Kitashinchi Honten",
+    "area": "大阪府 北新地駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27101683/",
+    "rating": 3.68,
+    "review_count_tabelog": 211,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Teppanyaki, Okonomiyaki (Japanese savory pancake), Wine bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 22:00 L.O. 21:00",
+        "dtl_text": "18:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Public Holiday",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 51,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJgRTpmsbnAGAR3n21xhDTxV8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/27101683-d2dc78af30a390f2aab9e7c3f1b512a3ef5dcb5c9597fb513dc5b39978dfd1a0.jpg",
+    "place_id": "ChIJgRTpmsbnAGAR3n21xhDTxV8",
+    "g_name": "タンポポ 阪神フードホール本店",
+    "g_rating": 4,
+    "g_reviews": 51,
+    "g_address": "日本、〒530-8224 大阪府大阪市北区梅田１丁目１３−１３",
+    "lat": 34.7011018,
+    "lng": 135.4980293
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "アサクラ",
+    "name_en": "Asakura",
+    "area": "長崎県 佐世保市",
+    "url": "https://tabelog.com/nagasaki/A4202/A420201/42004388/",
+    "rating": 3.71,
+    "review_count_tabelog": 87,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Steak, Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri, Sat, Sun",
+        "dtl": "17:30 - 21:00 L.O. 20:00",
+        "dtl_text": "17:30 - 21:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays and Thursdays. For other holidays, please check our official Instagram."
+    },
+    "google_rating": 4.6,
+    "google_reviews": 326,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJCTwJ7jGUajURM_NGXpkCejo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/42004388-f2caf431b8d5419d174399e54931064417b067e01275011621b2e9845124019b.jpg",
+    "place_id": "ChIJCTwJ7jGUajURM_NGXpkCejo",
+    "g_name": "ステーキサロン アサクラ",
+    "g_rating": 4.6,
+    "g_reviews": 326,
+    "g_address": "日本、〒857-0876 長崎県佐世保市塩浜町１−３ アルファビル前",
+    "lat": 33.1670137,
+    "lng": 129.7230656
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "CarneSio 158",
+    "name_en": "CarneSio158",
+    "area": "大阪府 大阪梅田（阪急）駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27139179/",
+    "rating": 3.6,
+    "review_count_tabelog": 220,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Steak, Italian, Bistro",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:00 - 23:00 L.O. Food 22:00 Drinks 22:30",
+        "dtl_text": "17:00 - 23:00 L.O. Food 22:00 Drinks 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 15:30 L.O. Food 14:30 Drinks 15:00 16:00 - 23:00 L.O. Food 22:00 Drinks 22:30",
+        "dtl_text": "16:00 - 23:00 L.O. Food 22:00 Drinks 22:30"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/27139179-4b9c396b2dffa88869dfabf804dab92bb837bb69a0e67c590505f6ee01e21cfd.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "和黒 北野坂本店",
+    "name_en": "Aburi Niku Kobo Wakkoqu Kitano Sakamoto Ten",
+    "area": "兵庫県 三宮（神戸市営）駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280101/28000954/",
+    "rating": 3.63,
+    "review_count_tabelog": 329,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Teppanyaki, Steak, Beef dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 15:00 17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "December 31 and January 1"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 555,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJIbt1zeaOAGARBhMtXe5U5HI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/28000954-4990f0e04a35f56da689d87d6d1bea58aff10c3a555005af2827e2b3c7d60a0e.jpg",
+    "place_id": "ChIJIbt1zeaOAGARBhMtXe5U5HI",
+    "g_name": "和黒 北野坂本店",
+    "g_rating": 4.4,
+    "g_reviews": 555,
+    "g_address": "日本、〒650-0011 兵庫県神戸市中央区中山手通１丁目２２−１３ ＨＩＬＬ ＳＩＤＥ ＴＥＲＲＡＣＥ 1F",
+    "lat": 34.6980326,
+    "lng": 135.1916258
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "STEAK HOUSE NARIKIYO",
+    "name_en": "STEAK HOUSE NARIKIYO",
+    "area": "大阪府 肥後橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270102/27141505/",
+    "rating": 3.63,
+    "review_count_tabelog": 73,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Steak, Italian, Meat dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 14:30 L.O. 13:30 18:00 - 23:00 L.O. 22:00",
+        "dtl_text": "18:00 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/27141505-1e1e488999ba6d795958c625a44a46f7825f4b4e7f0ad65bcc23fb5c5f5e0d0f.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "ステーキ＆シーフード シスクグリル",
+    "name_en": "Steak & Seafood Shisuku Grill",
+    "area": "沖縄県 国頭郡本部町",
+    "url": "https://tabelog.com/okinawa/A4702/A470202/47026749/",
+    "rating": 3.58,
+    "review_count_tabelog": 53,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Steak, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:30 - 22:00 L.O. Food 21:00",
+        "dtl_text": "17:30 - 22:00 L.O. Food 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/47026749-bba1852e85d20d732166c65f3a40a43eeb2a5e14d1a31d00a23b12fe21c4b43c.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "炭火焼ステーキ 但馬",
+    "name_en": "Sumibiyaki Steak Tajima",
+    "area": "徳島県 徳島市",
+    "url": "https://tabelog.com/tokushima/A3601/A360101/36008044/",
+    "rating": 3.63,
+    "review_count_tabelog": 38,
+    "price_dinner": "-",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Steak, Shabu shabu (Japanese hotpot)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 L.O. 14:00 17:00 - 22:00 L.O. 21:30",
+        "dtl_text": "17:00 - 22:00 L.O. 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/36008044-881ec5464216ee36457c67edc2f485bff5a9bfde49963fde36208d88f1f8244a.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "近江牛専門店 近江かど萬",
+    "name_en": "Omi Gyu Senmon Ten Omi Kadoman",
+    "area": "滋賀県 大津市",
+    "url": "https://tabelog.com/shiga/A2501/A250101/25000686/",
+    "rating": 3.65,
+    "review_count_tabelog": 308,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Steak, Sukiyaki, Shabu shabu (Japanese hotpot)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri",
+        "dtl": "17:00 - 21:00 L.O. 20:30",
+        "dtl_text": "17:00 - 21:00 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "12:00 - 15:00 L.O. 14:30 17:00 - 21:00 L.O. 20:30",
+        "dtl_text": "17:00 - 21:00 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Please note that our regular closing days may change during public holidays, events, the Obon season, long holidays, and year-end & New Year holidays. For more details, please contact us."
+    },
+    "google_rating": 4.8,
+    "google_reviews": 1943,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJTfc6vl8MAWARYnglrpGOdNg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/25000686-28125ad662f6dca18af58fb403120c6542f9bb3bcc08201c8e7c5723615e482f.jpg",
+    "place_id": "ChIJTfc6vl8MAWARYnglrpGOdNg",
+    "g_name": "近江牛専門店 かど萬",
+    "g_rating": 4.8,
+    "g_reviews": 1943,
+    "g_address": "日本、〒520-0043 滋賀県大津市中央１丁目７−３５",
+    "lat": 35.0094623,
+    "lng": 135.8647583
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "プロペラ",
+    "name_en": "Propeller",
+    "area": "兵庫県 三宮・花時計前駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280101/28040503/",
+    "rating": 3.61,
+    "review_count_tabelog": 672,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Steak, Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:00 - 15:30 L.O. 14:30 17:00 - 22:30 L.O. Food 21:00 Drinks 22:00",
+        "dtl_text": "17:00 - 22:30 L.O. Food 21:00 Drinks 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 1131,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJOVnAd_qOAGAR6PpjgXUkoKA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/28040503-f3889132f640d2e8e6bd81f959546a41088c856be2e5a36943b43fc077367c8a.jpg",
+    "place_id": "ChIJOVnAd_qOAGAR6PpjgXUkoKA",
+    "g_name": "神戸ステーキ プロペラ",
+    "g_rating": 4.5,
+    "g_reviews": 1131,
+    "g_address": "日本、〒651-0086 兵庫県神戸市中央区磯上通８丁目１−１４",
+    "lat": 34.6912779,
+    "lng": 135.1961616
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "ステーキ 松下",
+    "name_en": "Steak Matsushita",
+    "area": "熊本県 熊本市中央区",
+    "url": "https://tabelog.com/kumamoto/A4301/A430101/43003137/",
+    "rating": 3.89,
+    "review_count_tabelog": 63,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Fri, Sat",
+        "dtl": "11:30 - 13:00 18:00 - 20:00",
+        "dtl_text": "18:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 106,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmcjPRuzzQDURYjkNI_DowwQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/43003137-45c1924437b5340e7231ba430e7e89746d66cf0d34867113aea6dd8cbe2fde6d.jpg",
+    "place_id": "ChIJmcjPRuzzQDURYjkNI_DowwQ",
+    "g_name": "ステーキ松下",
+    "g_rating": 4.2,
+    "g_reviews": 106,
+    "g_address": "日本、〒862-0950 熊本県熊本市中央区水前寺１丁目９−２",
+    "lat": 32.7951922,
+    "lng": 130.729428
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "ステーキ懐石都 春日",
+    "name_en": "Steak Kaiseki Miyako Kasuga",
+    "area": "広島県 福山市",
+    "url": "https://tabelog.com/hiroshima/A3403/A340305/34000084/",
+    "rating": 3.63,
+    "review_count_tabelog": 115,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Teppanyaki, Steak, French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 15:00 L.O. 14:00 17:30 - 22:00 L.O. 20:30",
+        "dtl_text": "17:30 - 22:00 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 22:00 L.O. 21:00",
+        "dtl_text": "11:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (please check our website for updates)"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 660,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmdHY0x4UUTURIH-vuuGsUio",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/34000084-2a48eb1b033ff8187ec8f55d30ad6e925b48a201ae3cb65f40b5de7c898c720c.jpg",
+    "place_id": "ChIJmdHY0x4UUTURIH-vuuGsUio",
+    "g_name": "ステーキ懐石 都春日",
+    "g_rating": 4.6,
+    "g_reviews": 660,
+    "g_address": "日本、〒721-0907 広島県福山市春日町２丁目２−４３",
+    "lat": 34.5091518,
+    "lng": 133.4114064
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "ロウリーズ・ザ・プライムリブ 大阪",
+    "name_en": "Lawry’s The Prime Rib, Osaka",
+    "area": "大阪府 西梅田駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27018310/",
+    "rating": 3.6,
+    "review_count_tabelog": 1426,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "Steak, American, Buffet style",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 L.O. 14:00 17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (according to Herbise Ent)"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 995,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4SpW24zmAGARkmGAqpvtuLc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/27018310-b6a35ac15f4c5d1fd65097fc002058b7ff203a8c7da8214d16971edd9a212307.jpg",
+    "place_id": "ChIJ4SpW24zmAGARkmGAqpvtuLc",
+    "g_name": "ロウリーズ・ザ・プライムリブ 大阪",
+    "g_rating": 4.4,
+    "g_reviews": 995,
+    "g_address": "日本、〒530-0001 大阪府大阪市北区梅田２丁目２−２２ ハービスPLAZA ENT 5F",
+    "lat": 34.69951289999999,
+    "lng": 135.4939998
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "焼き焼き おかもと",
+    "name_en": "Yakiyaki Okamoto",
+    "area": "大阪府 大阪上本町駅",
+    "url": "https://tabelog.com/osaka/A2701/A270205/27040800/",
+    "rating": 3.65,
+    "review_count_tabelog": 96,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "-",
+    "sub_categories": "Teppanyaki, Okonomiyaki (Japanese savory pancake), Stir-fried noodles",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 61,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJuaaPgU7nAGARbwidxl-Ngbg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/27040800-f2a5eb0fa9eb874238c2382e629f75bd5845e4abded1cbbd9a13607989661075.jpg",
+    "place_id": "ChIJuaaPgU7nAGARbwidxl-Ngbg",
+    "g_name": "おかもと",
+    "g_rating": 4.2,
+    "g_reviews": 61,
+    "g_address": "日本、〒543-0001 大阪府大阪市天王寺区上本町５丁目２−４",
+    "lat": 34.6686062,
+    "lng": 135.5204238
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "マラルンガ鉄板焼",
+    "name_en": "MARALUNGA",
+    "area": "沖縄県 宮古島市",
+    "url": "https://tabelog.com/okinawa/A4705/A470503/47007277/",
+    "rating": 3.57,
+    "review_count_tabelog": 131,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Teppanyaki, Creative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/47007277-ed7e508f74d9f9f7089fe258c63c52d2f61ae575ddae30b7cac62751b023684c.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "steak&wine Lamp",
+    "name_en": "steak&wine Lamp",
+    "area": "奈良県 橿原市",
+    "url": "https://tabelog.com/nara/A2903/A290302/29011054/",
+    "rating": 3.56,
+    "review_count_tabelog": 51,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 L.O. 13:30 17:30 - 23:00",
+        "dtl_text": "17:30 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/29011054-e4a49274f2b7d426ad16efd92352207ea70474035bebb0df3f700f4785e74d91.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "特選近江牛レストラン ティファニー",
+    "name_en": "Tokusen Omi Gyu Restaurant Tiffany",
+    "area": "滋賀県 近江八幡市",
+    "url": "https://tabelog.com/shiga/A2503/A250301/25000119/",
+    "rating": 3.65,
+    "review_count_tabelog": 637,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Steak, Japanese Cuisine, Shabu shabu (Japanese hotpot)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 15:00 L.O. 15:00 17:00 - 21:00 L.O. 20:00",
+        "dtl_text": "17:00 - 21:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 1279,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJsUEB7M57AWARywqoGgFbmnY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/25000119-a0e63d956200c9efb7e8ec2e9e9711a9aeee853f66169b88f4b74e41de7c011b.jpg",
+    "place_id": "ChIJsUEB7M57AWARywqoGgFbmnY",
+    "g_name": "特選近江牛レストラン ティファニー",
+    "g_rating": 4.2,
+    "g_reviews": 1279,
+    "g_address": "日本、〒523-0891 滋賀県近江八幡市鷹飼町５５８",
+    "lat": 35.1239004,
+    "lng": 136.1008894
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "鉄板焼 ふかみ",
+    "name_en": "Teppanyaki Fukami",
+    "area": "宮崎県 宮崎市",
+    "url": "https://tabelog.com/miyazaki/A4501/A450101/45000017/",
+    "rating": 3.65,
+    "review_count_tabelog": 65,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Teppanyaki, Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:30 - 22:00 L.O. 21:30",
+        "dtl_text": "17:30 - 22:00 L.O. 21:30"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.7,
+    "google_reviews": 29,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJPa-RyvC6ODURu7_3UC5hZ0I",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/45000017-e32ea838dbac392415243e19cbbc5c127a51e772ec169279128beb53990b8ee0.jpg",
+    "place_id": "ChIJPa-RyvC6ODURu7_3UC5hZ0I",
+    "g_name": "鉄板焼 ふかみ",
+    "g_rating": 4.7,
+    "g_reviews": 29,
+    "g_address": "日本、〒880-0836 宮崎県宮崎市山崎町浜山",
+    "lat": 31.9588355,
+    "lng": 131.4699675
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "くいしんぼー山中",
+    "name_en": "Kuishinbo Yamanaka",
+    "area": "京都府 桂駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260401/26002126/",
+    "rating": 4.27,
+    "review_count_tabelog": 867,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Steak, Hamburger steak, Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00 L.O. 13:45 17:00 - 21:00 L.O. 20:45",
+        "dtl_text": "17:00 - 21:00 L.O. 20:45",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays and Tuesdays (open on public holidays)"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 410,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJaW8zs90GAWARE13ZwTN1Q88",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/26002126-780b9d6f83459444fb9eaf44f79524fbf0f52b63997d1fd558cb59e66955f59f.jpg",
+    "place_id": "ChIJaW8zs90GAWARE13ZwTN1Q88",
+    "g_name": "くいしんぼー 山中",
+    "g_rating": 4.5,
+    "g_reviews": 410,
+    "g_address": "日本、〒615-8231 京都府京都市西京区御陵溝浦町２６−２６",
+    "lat": 34.9793725,
+    "lng": 135.6934796
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "ライおン",
+    "name_en": "Lion",
+    "area": "佐賀県 伊万里市",
+    "url": "https://tabelog.com/saga/A4102/A410202/41000002/",
+    "rating": 3.68,
+    "review_count_tabelog": 61,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Teppanyaki, Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 14:00 17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 15:00 17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/41000002-574714ac3494a897163a38e939cc7719a338d79d939a237f0432220b223de512.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "Kobe Beef steak モーリヤ 祇園",
+    "name_en": "Kobe Beef Steak Moriya Gion",
+    "area": "京都府 祇園四条駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260301/26030216/",
+    "rating": 3.66,
+    "review_count_tabelog": 48,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Teppanyaki, Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 22:30 L.O. 21:00",
+        "dtl_text": "11:30 - 22:30 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.8,
+    "google_reviews": 1366,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1U7cN8AIAWARhsp2Q0XDoFk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/26030216-60b9d655cd76b81e0af3e9a5b95152c0ce0b5599e4d803ee12bfe1e913a0cbeb.jpg",
+    "place_id": "ChIJ1U7cN8AIAWARhsp2Q0XDoFk",
+    "g_name": "神戸牛 ステーキ レストラン モーリヤ祇園",
+    "g_rating": 4.8,
+    "g_reviews": 1366,
+    "g_address": "日本、〒605-0802 京都府京都市東山区大和大路通四条下る大和町7−１ 祇園モーリヤビル 1F",
+    "lat": 35.0033503,
+    "lng": 135.7727499
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "ぼるた",
+    "name_en": "Volta",
+    "area": "京都府 トロッコ嵯峨駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260403/26012281/",
+    "rating": 3.68,
+    "review_count_tabelog": 74,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Steak, Vegetable dishes, Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:00 L.O. 13:00 17:00 - 21:00 L.O. 20:00",
+        "dtl_text": "17:00 - 21:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays, Wednesdays, and Thursdays (open on public holidays)."
+    },
+    "google_rating": 4.8,
+    "google_reviews": 160,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJkbJrLPmpAWARXudoqGepLLc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/26012281-d91ccd35c3fc57278f13e2d26dbe48211e40a901d7d8f31b7cd8878d65d64c01.jpg",
+    "place_id": "ChIJkbJrLPmpAWARXudoqGepLLc",
+    "g_name": "ぼるた",
+    "g_rating": 4.8,
+    "g_reviews": 160,
+    "g_address": "日本、〒616-8376 京都府京都市右京区嵯峨天龍寺瀬戸川町４−３",
+    "lat": 35.0193861,
+    "lng": 135.6791432
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "黒毛和牛 ステーキハウス もり川",
+    "name_en": "Kuroge Wagyu Steak House Morikawa",
+    "area": "大阪府 大江橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27129350/",
+    "rating": 3.63,
+    "review_count_tabelog": 52,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Steak, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:30 - 22:00 L.O. 20:30",
+        "dtl_text": "17:30 - 22:00 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "17:30 - 21:00 L.O. 20:00",
+        "dtl_text": "17:30 - 21:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/27129350-6d4fbddd21e64fe37bb3ee9d0e7a7c79197b15a3d9591fea29a7e66132405f12.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "蔵 鉄板焼＆寿司",
+    "name_en": "Kura Teppanyaki & Sushi",
+    "area": "大阪府 渡辺橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270102/27097667/",
+    "rating": 3.62,
+    "review_count_tabelog": 202,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Teppanyaki, Sushi, Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:30 17:30 - 22:30",
+        "dtl_text": "17:30 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 226,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0YkmyvHmAGARJwjpJEf24aY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/27097667-bd7f8537e890066b56100e3cecbac864ea83448589959dbc6046c38d875bd8fb.jpg",
+    "place_id": "ChIJ0YkmyvHmAGARJwjpJEf24aY",
+    "g_name": "蔵—鉄板焼＆寿司",
+    "g_rating": 4.6,
+    "g_reviews": 226,
+    "g_address": "日本、〒530-0005 大阪府大阪市北区中之島３丁目２−４",
+    "lat": 34.6932926,
+    "lng": 135.4953238
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "ビフテキのカワムラ 三宮本店",
+    "name_en": "Bifuteki no Kawamura Sannomiya Honten",
+    "area": "兵庫県 三宮（神戸市営）駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280101/28002105/",
+    "rating": 3.6,
+    "review_count_tabelog": 188,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Teppanyaki, Steak, Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:30 L.O. 14:30 17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (If a public holiday falls on a Monday, the restaurant will be closed the following Tuesday)"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 472,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0yBiWuSOAGARb_S4sSoCxEk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/28002105-39a6af1a5825231dea44ddaf3b113c107e4f9de5fbab64cc080e8a206c44af06.jpg",
+    "place_id": "ChIJ0yBiWuSOAGARb_S4sSoCxEk",
+    "g_name": "ビフテキのカワムラ 三宮本店",
+    "g_rating": 4.4,
+    "g_reviews": 472,
+    "g_address": "日本、〒650-0001 兵庫県神戸市中央区加納町４丁目５−１３",
+    "lat": 34.695315,
+    "lng": 135.193253
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "鉄板 かや乃",
+    "name_en": "Teppan Kayano",
+    "area": "岡山県 岡山市北区",
+    "url": "https://tabelog.com/okayama/A3301/A330101/33000290/",
+    "rating": 3.57,
+    "review_count_tabelog": 128,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Teppanyaki, Steak, Sukiyaki",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:30 - 23:00 L.O. Food 22:00",
+        "dtl_text": "17:30 - 23:00 L.O. Food 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "17:00 - 22:00 L.O. Food 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. Food 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The second and fourth Sundays of each month (if there is a Sunday-Monday holiday, the Monday will be closed) and during the Year-end & New Year Holidays."
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/33000290-e08ed05bdf4189db9de3784438b8fbe32975f640bbaaaca03b7f096b7ff1bd50.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "清喜",
+    "name_en": "Kiyoki",
+    "area": "福岡県 西鉄平尾駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400104/40048255/",
+    "rating": 3.86,
+    "review_count_tabelog": 110,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Steak, Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "16:00 - 00:00",
+        "dtl_text": "16:00 - 00:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.7,
+    "google_reviews": 98,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmQOalXeRQTURd4qsok8B0P0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/40048255-f7819bd7f57b6c208beef6f6a81067f3787654acc95907af9fdf736aa2df5f53.jpg",
+    "place_id": "ChIJmQOalXeRQTURd4qsok8B0P0",
+    "g_name": "清喜",
+    "g_rating": 4.7,
+    "g_reviews": 98,
+    "g_address": "日本、〒810-0014 福岡県福岡市中央区平尾１丁目１０−２０ BRAMASOLEhirao1階",
+    "lat": 33.5764243,
+    "lng": 130.4018434
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "TEPPANYAKI 10 FUKUOKA",
+    "name_en": "Wagyu Steak TEPPANYAKI 10 FUKUOKA",
+    "area": "福岡県 赤坂駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400103/40064512/",
+    "rating": 3.58,
+    "review_count_tabelog": 128,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "Steak, Teppanyaki",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:30 L.O. 14:30 17:00 - 23:00 L.O. 21:30",
+        "dtl_text": "17:00 - 23:00 L.O. 21:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/40064512-ceaadefd13f59e45565a3c9281083a167e0e61be47196af3acd22628979a6fc2.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "窯焼きステーキ 福田",
+    "name_en": "Kamayaki Steak Fukuda",
+    "area": "大阪府 北新地駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27095105/",
+    "rating": 3.67,
+    "review_count_tabelog": 227,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥30,000～￥39,999",
+    "sub_categories": "Steak, Teppanyaki, French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "12:00 - 15:00 16:00 - 22:00",
+        "dtl_text": "16:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 3.9,
+    "google_reviews": 77,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJNWTBk-3mAGARJDIgNk_QTXw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/27095105-42bd5c93a5f3f41ae2eec9b0f6d05e1c47f7fa2647773ce38dae988d5bb24d3d.jpg",
+    "place_id": "ChIJNWTBk-3mAGARJDIgNk_QTXw",
+    "g_name": "窯焼きステーキ 福田",
+    "g_rating": 3.9,
+    "g_reviews": 77,
+    "g_address": "日本、〒530-0002 大阪府大阪市北区曽根崎新地１丁目２−１０ 第3鈴木ビル 2F",
+    "lat": 34.69712579999999,
+    "lng": 135.4976557
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "嘉門",
+    "name_en": "Kamon",
+    "area": "大阪府 桜ノ宮駅",
+    "url": "https://tabelog.com/osaka/A2701/A270304/27003663/",
+    "rating": 3.62,
+    "review_count_tabelog": 212,
+    "price_dinner": "-",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Teppanyaki, Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 17:30 - 21:30",
+        "dtl_text": "17:30 - 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 97,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJdXv_Zf3nAGARIB2t9k4b5mM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/27003663-4b8fc9b9a7b3c3129741efdb1d2b5e0b43f6935f90cfdebaebed989be89b6bf7.jpg",
+    "place_id": "ChIJdXv_Zf3nAGARIB2t9k4b5mM",
+    "g_name": "IZAKAYA KAMONN",
+    "g_rating": 4.2,
+    "g_reviews": 97,
+    "g_address": "日本、〒530-0041 大阪府大阪市北区天神橋６丁目５−２７",
+    "lat": 34.7095465,
+    "lng": 135.5117567
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "近江牛専門店 れすとらん 松喜屋 本店",
+    "name_en": "Omi Gyu Senmon Ten Restaurant Matsukiya Hon Ten",
+    "area": "滋賀県 大津市",
+    "url": "https://tabelog.com/shiga/A2501/A250101/25000784/",
+    "rating": 3.65,
+    "review_count_tabelog": 351,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "Steak, Sukiyaki, Beef dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 15:00 17:00 - 21:30",
+        "dtl_text": "17:00 - 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "11:00 - 15:00 17:00 - 21:30",
+        "dtl_text": "17:00 - 21:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon - Fri": {},
+        "Sat & Sun": {},
+        "All Days": {}
+      },
+      "closed_on": "December 31 and January 1 (Occasional irregular holidays throughout the year)"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJTfsol6oSAWARYgPog9KMBVo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/25000784-97afcf80f23bb646b7ec2530d7c22cb88b139fe385b244a1f4802128e269f796.jpg",
+    "place_id": "ChIJTfsol6oSAWARYgPog9KMBVo",
+    "g_name": "〒520-0854 滋賀県大津市鳥居川町７−２０ 松喜屋",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "日本、〒520-0854 滋賀県大津市鳥居川町７−２０ 松喜屋",
+    "lat": 34.9738776,
+    "lng": 135.9025281
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "鉄板焼・愛宕",
+    "name_en": "Teppanyaki Atago",
+    "area": "広島県 袋町駅",
+    "url": "https://tabelog.com/hiroshima/A3401/A340115/34003024/",
+    "rating": 3.72,
+    "review_count_tabelog": 132,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Teppanyaki, Steak, Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 L.O. 14:00 17:00 - 22:00 L.O. 21:30",
+        "dtl_text": "17:00 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.8,
+    "google_reviews": 29,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJa-XbcxKiWjUR3laHPGWCLHY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/34003024-cd94df132b44c6584861426fa975d58685f5e24b86d6dda6ff36762a9ec044f7.jpg",
+    "place_id": "ChIJa-XbcxKiWjUR3laHPGWCLHY",
+    "g_name": "袋町駅",
+    "g_rating": 3.8,
+    "g_reviews": 29,
+    "g_address": "日本、〒730-0036 広島県広島市中区袋町５",
+    "lat": 34.3913874,
+    "lng": 132.4563232
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "喜瀬",
+    "name_en": "Kise",
+    "area": "沖縄県 名護市",
+    "url": "https://tabelog.com/okinawa/A4702/A470201/47011807/",
+    "rating": 3.68,
+    "review_count_tabelog": 143,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Teppanyaki, Steak, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:30 - 22:00",
+        "dtl_text": "17:30 - 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJEeXqzUkA5TQRqRJ5Ebjs1Zw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/47011807-966174508ebf2c18b7f589610251b27a8e2c62c62525b2637d98a418716e6871.jpg",
+    "place_id": "ChIJEeXqzUkA5TQRqRJ5Ebjs1Zw",
+    "g_name": "喜瀬",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "日本、〒905-0026 沖縄県名護市喜瀬",
+    "lat": 26.534675,
+    "lng": 127.9429264
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "baron",
+    "name_en": "baron",
+    "area": "兵庫県 三宮（神戸市営）駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280101/28049006/",
+    "rating": 3.67,
+    "review_count_tabelog": 71,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Steak, Beef dishes, Meat dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (November 7, 16, 25, 30)"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 48,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJxfgGEfqOAGARwzslLGBa5XA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/28049006-07fe6394025c5e9562496a17ea8767058ffc08adf54aa18134587e0bd4d2589b.jpg",
+    "place_id": "ChIJxfgGEfqOAGARwzslLGBa5XA",
+    "g_name": "baron",
+    "g_rating": 4.5,
+    "g_reviews": 48,
+    "g_address": "日本、〒650-0004 兵庫県神戸市中央区中山手通１丁目２７−１０ テンセイハンター坂ビル 5F",
+    "lat": 34.6969531,
+    "lng": 135.1905128
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "レストラン チムニー",
+    "name_en": "Restaurant Chimney",
+    "area": "佐賀県 伊万里市",
+    "url": "https://tabelog.com/saga/A4102/A410202/41002246/",
+    "rating": 3.62,
+    "review_count_tabelog": 68,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Steak, Hamburger steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed",
+        "dtl": "12:00 - 14:30 L.O. 14:00",
+        "dtl_text": "12:00 - 14:30 L.O. 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Fri, Sat, Sun",
+        "dtl": "12:00 - 14:30 L.O. 14:00 17:30 - 21:00 L.O. 20:00",
+        "dtl_text": "17:30 - 21:00 L.O. 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/41002246-5b3485596ec73cd795c099e24295592e9e5794e8a2992959afa53ba3d86345d3.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "ステーキ・つじ",
+    "name_en": "Steak Tsuji",
+    "area": "大阪府 北新地駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27038198/",
+    "rating": 3.63,
+    "review_count_tabelog": 43,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Steak",
+    "hours_raw": [],
+    "hours_notes_structured": null,
+    "google_rating": 4.7,
+    "google_reviews": 23,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJnWDRuu3mAGARzHCgkMgVEuY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/27038198-0693d336d1800a36e2dbfeff295d8dccb9d9d1f1ba82daf3cea87e7b36d7aa7f.jpg",
+    "place_id": "ChIJnWDRuu3mAGARzHCgkMgVEuY",
+    "g_name": "ステーキ・つじ",
+    "g_rating": 4.7,
+    "g_reviews": 23,
+    "g_address": "日本、〒530-0002 大阪府大阪市北区曾根崎新地１丁目１１−９",
+    "lat": 34.6979342,
+    "lng": 135.4985444
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "鉄板キュイジーヌ長尾",
+    "name_en": "Teppan Cuisine Nagao",
+    "area": "岡山県 岡山市北区",
+    "url": "https://tabelog.com/okayama/A3301/A330101/33006740/",
+    "rating": 3.64,
+    "review_count_tabelog": 123,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "Teppanyaki, Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:30 L.O. 14:00 18:00 - 22:30 L.O. 22:00",
+        "dtl_text": "18:00 - 22:30 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 147,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJpyLUkDAGVDURG-M5gVcJoqo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/33006740-52810b5e80904a791784fc7277fc89081ace629c6358d60380955c7a02a536ff.jpg",
+    "place_id": "ChIJpyLUkDAGVDURG-M5gVcJoqo",
+    "g_name": "鉄板キュイジーヌ長尾",
+    "g_rating": 4.5,
+    "g_reviews": 147,
+    "g_address": "日本、〒700-0823 岡山県岡山市北区丸の内１丁目１−９",
+    "lat": 34.6654406,
+    "lng": 133.9308783
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "南海グリル 東店",
+    "name_en": "Nankai Grill Higashi Ten",
+    "area": "大阪府 花田口駅",
+    "url": "https://tabelog.com/osaka/A2705/A270501/27007333/",
+    "rating": 3.58,
+    "review_count_tabelog": 95,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "Steak, Shabu shabu (Japanese hotpot), Teppanyaki",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 L.O. 14:00 17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "If Monday is a public holiday, the following Tuesday will be a substitute holiday."
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/27007333-811b3bfd8494b4e1f4e55cb76cf370f7b7fe09d1ad331608687fe198ad5364be.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "Katsuya charcoal grill steakhouse",
+    "name_en": "Katsuya charcoal grill steakhouse",
+    "area": "大阪府 天神橋筋六丁目駅",
+    "url": "https://tabelog.com/osaka/A2701/A270103/27096785/",
+    "rating": 3.74,
+    "review_count_tabelog": 103,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Steak",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.7,
+    "google_reviews": 76,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJS7uS_bjmAGARNe6WQKzFkfo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/27096785-f045dfcfe79f6ee1d589749ddff6f40b4c5deae5d3bfbe3837611484a93a11db.jpg",
+    "place_id": "ChIJS7uS_bjmAGARNe6WQKzFkfo",
+    "g_name": "Katsuya charcoal grill steakhouse",
+    "g_rating": 4.7,
+    "g_reviews": 76,
+    "g_address": "日本、〒530-0031 大阪府大阪市北区菅栄町１２−１２ ベルエアＳＨＩＭＩＺＵ",
+    "lat": 34.7095698,
+    "lng": 135.5130344
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "グリル ア ターブル",
+    "name_en": "Grill a Table",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37008361/",
+    "rating": 3.63,
+    "review_count_tabelog": 116,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Teppanyaki, Steak, Hamburger steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 13:30 17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The first Tuesday of each month"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 145,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJe8NJvJrrUzUR6pN55bblacs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/37008361-aba1922b5ee54f7e3c1b7bfd9d7a7600ba8b43e6c2c8771a48bdfee914a6a103.jpg",
+    "place_id": "ChIJe8NJvJrrUzUR6pN55bblacs",
+    "g_name": "グリル ア ターブル",
+    "g_rating": 4.5,
+    "g_reviews": 145,
+    "g_address": "日本、〒760-0028 香川県高松市鍛冶屋町４−１",
+    "lat": 34.3430435,
+    "lng": 134.0493222
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "鉄板焼 心",
+    "name_en": "Teppanyaki Kokoro",
+    "area": "兵庫県 みなと元町駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280102/28009951/",
+    "rating": 3.66,
+    "review_count_tabelog": 139,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "Teppanyaki, Steak, Auberge",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 L.O. 14:00 17:30 - 22:30 L.O. 21:00",
+        "dtl_text": "17:30 - 22:30 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round (excluding private reservations and events)"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 71,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJI8BjDgGPAGARa2-xwq4cWw0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/28009951-dcf716c15e646b2653d0f65e0c343cd6133f231fac08094f6806c2ac11a2039f.jpg",
+    "place_id": "ChIJI8BjDgGPAGARa2-xwq4cWw0",
+    "g_name": "鉄板焼 心",
+    "g_rating": 4.6,
+    "g_reviews": 71,
+    "g_address": "日本、〒650-0042 兵庫県神戸市中央区波止場町７−２ ホテルラ・スイート神戸ハーバーランド 2階",
+    "lat": 34.6826254,
+    "lng": 135.1840957
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "キャラバン",
+    "name_en": "caravan",
+    "area": "佐賀県 唐津市",
+    "url": "https://tabelog.com/saga/A4102/A410201/41002233/",
+    "rating": 4.1,
+    "review_count_tabelog": 229,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Steak, Teppanyaki, Hamburger steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 15:00 L.O. 14:30 18:00 - 22:00 L.O. 20:30",
+        "dtl_text": "18:00 - 22:00 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 349,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJWdo8GGN4ajUROZj-1AqfLr4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/41002233-2d568bd36a9ded82fe4aabf5c0961a1bd2ea78964416d1307d4ad2f023e57ce4.jpg",
+    "place_id": "ChIJWdo8GGN4ajUROZj-1AqfLr4",
+    "g_name": "キャラバン",
+    "g_rating": 4.1,
+    "g_reviews": 349,
+    "g_address": "日本、〒847-0051 佐賀県唐津市中町１８４５",
+    "lat": 33.4478847,
+    "lng": 129.9696004
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "酒律 大井",
+    "name_en": "Shuritsu Ooi",
+    "area": "岡山県 岡山市北区",
+    "url": "https://tabelog.com/okayama/A3301/A330101/33008432/",
+    "rating": 3.62,
+    "review_count_tabelog": 140,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Teppanyaki, Steak, Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:30 - 22:00 L.O. 21:30",
+        "dtl_text": "17:30 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "17:30 - 21:30 L.O. 21:00",
+        "dtl_text": "17:30 - 21:30 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Currently not in service": {}
+      },
+      "closed_on": "1st and 3rd Sundays"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 37,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJLTlV5WcHVDUROMUXH0MpEdc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/33008432-40497bbeb2d68d6420dd0f3e9a8fa34a0c366662eb307ff645c4bcb0349d287e.jpg",
+    "place_id": "ChIJLTlV5WcHVDUROMUXH0MpEdc",
+    "g_name": "酒律 大井",
+    "g_rating": 4.4,
+    "g_reviews": 37,
+    "g_address": "日本、〒700-0836 岡山県岡山市北区中央町４−２７ パークサイドプラザ 1F",
+    "lat": 34.65761680000001,
+    "lng": 133.9244332
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "ステーキハウス オリエンタル(神戸メリケンパークオリエンタルホテル)",
+    "name_en": "Steak House Oriental (Kobe Meriken Paku Oriental Hotel )",
+    "area": "兵庫県 みなと元町駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280102/28008755/",
+    "rating": 3.6,
+    "review_count_tabelog": 98,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Steak, Teppanyaki",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 15:00 L.O. 14:30 17:00 - 21:30 L.O. 20:30",
+        "dtl_text": "17:00 - 21:30 L.O. 20:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/28008755-7a0993bbee268d55f2a45a530674edee749ae0a6d97842e03dbf2954860732de.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "ドミニク・ブシェ・キョート・ル・テッパンヤキ",
+    "name_en": "Dominique Bouchet Kyoto 「Le Teppanyaki」",
+    "area": "京都府 蹴上駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260301/26033297/",
+    "rating": 3.69,
+    "review_count_tabelog": 43,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Teppanyaki, Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/26033297-af14d0c934d4d640634dfc9507216c364ae4580f68a2bdcc7fca186cba905c74.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "北新地 福多亭 The Ukai",
+    "name_en": "Kitashinchi Fukutatei The Ukai",
+    "area": "大阪府 北新地駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27066944/",
+    "rating": 3.93,
+    "review_count_tabelog": 387,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Steak, Italian, Wine bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday",
+        "dtl": "12:00 - 14:30 L.O. 14:00 17:00 - 22:00 L.O. 21:30",
+        "dtl_text": "17:00 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 124,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQDEs-3mAGARuUJUJ1xvGTk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/27066944-9d54a084bd251fd72ebd361ac0ac8163fc8db8b1c11121b6b7d8eaf59808f74f.jpg",
+    "place_id": "ChIJAQDEs-3mAGARuUJUJ1xvGTk",
+    "g_name": "北新地 福多亭/The Ukai",
+    "g_rating": 4.3,
+    "g_reviews": 124,
+    "g_address": "日本、〒530-0002 大阪府大阪市北区曽根崎新地１丁目１１−１９ 北新地スタービル B1",
+    "lat": 34.6980049,
+    "lng": 135.4990995
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "アカミヤコウシ",
+    "name_en": "AKAMIYACOWSI",
+    "area": "福岡県 渡辺通駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400103/40037316/",
+    "rating": 3.65,
+    "review_count_tabelog": 404,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Steak, Yakiniku (BBQ Beef), Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 15:00 L.O. 14:30 16:00 - 00:00 L.O. 23:00",
+        "dtl_text": "16:00 - 00:00 L.O. 23:00"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 253,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ78DcZ5eRQTURXqcyfQ2uLO0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/40037316-3a19119f16940f416394eba87b973b1ea34f6668a68cb9ea68949d16c70f7250.jpg",
+    "place_id": "ChIJ78DcZ5eRQTURXqcyfQ2uLO0",
+    "g_name": "アカミヤコウシ",
+    "g_rating": 4.1,
+    "g_reviews": 253,
+    "g_address": "日本、〒810-0003 福岡県福岡市中央区春吉２丁目１７−２",
+    "lat": 33.5856102,
+    "lng": 130.4071321
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "O's House",
+    "name_en": "O's House",
+    "area": "沖縄県 那覇市",
+    "url": "https://tabelog.com/okinawa/A4701/A470101/47001572/",
+    "rating": 3.72,
+    "review_count_tabelog": 423,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:30 - 22:00",
+        "dtl_text": "17:30 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.6,
+    "google_reviews": 442,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJt4wfCpxp5TQR70zHxFxbOs4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/47001572-c29f34def56f78b912d8df3af3cf7cd032558390568abbde22efd8e2ce5d985b.jpg",
+    "place_id": "ChIJt4wfCpxp5TQR70zHxFxbOs4",
+    "g_name": "O's House",
+    "g_rating": 4.6,
+    "g_reviews": 442,
+    "g_address": "日本、〒900-0033 沖縄県那覇市久米２丁目８−２",
+    "lat": 26.2147094,
+    "lng": 127.6759771
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "鉄板焼 十河",
+    "name_en": "Teppanyaki Sogo",
+    "area": "兵庫県 三宮（神戸市営）駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280101/28027029/",
+    "rating": 3.62,
+    "review_count_tabelog": 104,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Teppanyaki, Steak, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:00 - 14:30 L.O. 13:30",
+        "dtl_text": "11:00 - 14:30 L.O. 13:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays (open on holidays and available for reservations)"
+    },
+    "google_rating": 3.8,
+    "google_reviews": 9320,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJo4DxuvqOAGARfXz96r9Ffbo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/28027029-78075c89b309ef0fdc985610ced8bffe150b9cbbd95872223e42b0ee1246e55e.jpg",
+    "place_id": "ChIJo4DxuvqOAGARfXz96r9Ffbo",
+    "g_name": "神戸阪急",
+    "g_rating": 3.8,
+    "g_reviews": 9320,
+    "g_address": "日本、〒651-8511 兵庫県神戸市中央区小野柄通８丁目１−８",
+    "lat": 34.6929781,
+    "lng": 135.195381
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "パイナップル",
+    "name_en": "Pineapple",
+    "area": "大阪府 大江橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27013976/",
+    "rating": 3.62,
+    "review_count_tabelog": 118,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Teppanyaki, Steak, Creative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:30 - 00:00 L.O. 23:00",
+        "dtl_text": "17:30 - 00:00 L.O. 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 74,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJHQ-Y1O3mAGARP7RpbIW3kQM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/27013976-1472e51d3d6ffa189be350dbf864fc3d3c7ad9503a18dc910c42cbf0a96a7144.jpg",
+    "place_id": "ChIJHQ-Y1O3mAGARP7RpbIW3kQM",
+    "g_name": "鉄板ステーキ パイナップル",
+    "g_rating": 4.4,
+    "g_reviews": 74,
+    "g_address": "日本、〒530-0002 大阪府大阪市北区１丁目１ Araki Bldg, 曽根崎新地１丁目１−１８",
+    "lat": 34.6968223,
+    "lng": 135.4991933
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "神戸プレジール 本店",
+    "name_en": "Kobe Plaisir Hon Ten",
+    "area": "兵庫県 三宮（神戸市営）駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280101/28008218/",
+    "rating": 3.7,
+    "review_count_tabelog": 469,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Teppanyaki, Steak, Shabu shabu (Japanese hotpot)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 15:00 L.O. Food 14:00 Drinks 14:30 17:00 - 22:00 L.O. Food 21:00 Drinks 21:30",
+        "dtl_text": "17:00 - 22:00 L.O. Food 21:00 Drinks 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:30 - 15:00 L.O. Food 14:00 Drinks 14:30 17:00 - 21:30 L.O. Food 20:30 Drinks 21:00",
+        "dtl_text": "17:00 - 21:30 L.O. Food 20:30 Drinks 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Day after public holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (open on public holidays, closed the following Tuesday)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 637,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4chXCeOOAGARijPfq6oSJFQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/28008218-30c107f689d0c563aa02eac12dfeeecbffdced51567d99eea83a1dd804b2a8f3.jpg",
+    "place_id": "ChIJ4chXCeOOAGARijPfq6oSJFQ",
+    "g_name": "神戸プレジール（神戸三宮）",
+    "g_rating": 4.3,
+    "g_reviews": 637,
+    "g_address": "日本、〒650-0011 兵庫県神戸市中央区下山手通２丁目１１−５ ホテルザ・ビー神戸 1F",
+    "lat": 34.6932052,
+    "lng": 135.1900641
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "ステーキハウス バロン",
+    "name_en": "BARON",
+    "area": "熊本県 熊本市中央区",
+    "url": "https://tabelog.com/kumamoto/A4301/A430101/43000201/",
+    "rating": 4.01,
+    "review_count_tabelog": 83,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "-",
+    "sub_categories": "Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 22:30",
+        "dtl_text": "18:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 30,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0Z5Zy3L0QDURtu5htdxiRrc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/43000201-6295e6ea7716399949b641ae16222fa72f94798f819ee64eb6a7829e3510cf5f.jpg",
+    "place_id": "ChIJ0Z5Zy3L0QDURtu5htdxiRrc",
+    "g_name": "ステーキハウス バロン",
+    "g_rating": 4.4,
+    "g_reviews": 30,
+    "g_address": "日本、〒860-0807 熊本県熊本市中央区下通１丁目９−４ 宇都宮ビル",
+    "lat": 32.8007336,
+    "lng": 130.7073588
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "鉄板料理 かえる",
+    "name_en": "Teppan Ryori Kaeru",
+    "area": "広島県 胡町駅",
+    "url": "https://tabelog.com/hiroshima/A3401/A340109/34032248/",
+    "rating": 3.62,
+    "review_count_tabelog": 14,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Teppanyaki",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 01:00",
+        "dtl_text": "17:00 - 01:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/34032248-00f02d52278c7a21079f22fd6388c5a5e42fbf92e2652f3964d7d4eb6f1c4367.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "鉄板焼 但馬",
+    "name_en": "Teppanyaki Tajima",
+    "area": "兵庫県 市民広場駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280104/28000239/",
+    "rating": 3.62,
+    "review_count_tabelog": 87,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "Teppanyaki, Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 14:30 17:30 - 21:30",
+        "dtl_text": "17:30 - 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 14:30 17:00 - 21:30",
+        "dtl_text": "17:00 - 21:30"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 62,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJy5NP5zxHRDUR2oekBM1hByY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/28000239-4acc3da47e4e6159c60f847a924c68fe8fc5041bfae07cde0497a680a5e35395.jpg",
+    "place_id": "ChIJy5NP5zxHRDUR2oekBM1hByY",
+    "g_name": "鉄板焼 但馬",
+    "g_rating": 4.4,
+    "g_reviews": 62,
+    "g_address": "日本、〒650-0046 兵庫県神戸市中央区港島中町６丁目１０−１ 神戸ポートピアホテル 本館2F",
+    "lat": 34.6653417,
+    "lng": 135.2143398
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "多良間牛 ダグズ・グリル 宮古島本店",
+    "name_en": "Tarama Gyuu Doug's Grill Miyakojima Honten",
+    "area": "沖縄県 宮古島市",
+    "url": "https://tabelog.com/okinawa/A4705/A470503/47021184/",
+    "rating": 3.65,
+    "review_count_tabelog": 205,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Steak, Bistro, Hamburger steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "18:00 - 23:00 L.O. Food 21:30 Drinks 22:00",
+        "dtl_text": "18:00 - 23:00 L.O. Food 21:30 Drinks 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 110,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJF03M8PRT9DQRwx_sN_q9-8g",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/47021184-41794e0b78a37bf50fc9a01c0af3dfd14d3ac2a07f704c7e56af9eee31bb82e0.jpg",
+    "place_id": "ChIJF03M8PRT9DQRwx_sN_q9-8g",
+    "g_name": "多良間牛 ダグズ・グリル 宮古島本店",
+    "g_rating": 4,
+    "g_reviews": 110,
+    "g_address": "日本、〒906-0012 沖縄県宮古島市平良西里５６７−１",
+    "lat": 24.8024809,
+    "lng": 125.2831398
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "鉄板焼 利花苑",
+    "name_en": "Teppanyaki Rikaen",
+    "area": "福岡県 博多駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400101/40037137/",
+    "rating": 3.59,
+    "review_count_tabelog": 103,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Teppanyaki, Steak, Yakiniku (BBQ Beef)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 L.O. 14:00 17:00 - 22:00 L.O. Food 21:00 Drinks 21:30",
+        "dtl_text": "17:00 - 22:00 L.O. Food 21:00 Drinks 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/40037137-3da0aa53a5becb322a0203bf26a49a69ca51764f4bb7e554c5aa210004dcfd6b.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "PUB LOUNGE EMERALD",
+    "name_en": "PUB LOUNGE EMERALD",
+    "area": "沖縄県 中頭郡北中城村",
+    "url": "https://tabelog.com/okinawa/A4704/A470405/47001231/",
+    "rating": 3.69,
+    "review_count_tabelog": 436,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Steak, Cafe, Cafeteria",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 15:30 L.O. 15:00 17:00 - 21:00 L.O. 20:15",
+        "dtl_text": "17:00 - 21:00 L.O. 20:15"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 21:00 L.O. 20:15",
+        "dtl_text": "11:30 - 21:00 L.O. 20:15"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 1015,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJu9fHX2IS5TQRVmVsfC9H5sA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/47001231-59cae3e3b410251ea9c6962252925af2a85ad8959e8e96960be63c6e1b7265f0.jpg",
+    "place_id": "ChIJu9fHX2IS5TQRVmVsfC9H5sA",
+    "g_name": "パブラウンジエメラルド",
+    "g_rating": 4.2,
+    "g_reviews": 1015,
+    "g_address": "日本、〒901-2301 沖縄県中頭郡北中城村島袋３１１",
+    "lat": 26.3179907,
+    "lng": 127.8008459
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "大阪鉄板焼き 神戸牛 TATARA",
+    "name_en": "Osaka Teppanyaki Kobe Beef TATARA",
+    "area": "大阪府 東梅田駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27138164/",
+    "rating": 3.56,
+    "review_count_tabelog": 426,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Teppanyaki, Steak, French",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:00 - 23:00 L.O. Food 21:30 Drinks 22:30",
+        "dtl_text": "17:00 - 23:00 L.O. Food 21:30 Drinks 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "12:00 - 15:00 L.O. Food 13:30 Drinks 14:30 17:00 - 23:00 L.O. Food 21:30 Drinks 22:30",
+        "dtl_text": "17:00 - 23:00 L.O. Food 21:30 Drinks 22:30"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/27138164-b5bb5d07ce707642b788c637316f8ae8d3f4b8afb6b171df8d64381e2e67c028.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "碧 国際通り松尾店",
+    "name_en": "Heki Kokusaidori Matsuo Ten",
+    "area": "沖縄県 那覇市",
+    "url": "https://tabelog.com/okinawa/A4701/A470101/47000141/",
+    "rating": 3.57,
+    "review_count_tabelog": 262,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Teppanyaki, Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat",
+        "dtl": "11:00 - 16:00 L.O. 15:00 17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "11:00 - 16:00 L.O. 15:00",
+        "dtl_text": "11:00 - 16:00 L.O. 15:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:00 - 16:00 L.O. 15:00 17:00 - 21:00 L.O. 19:30",
+        "dtl_text": "17:00 - 21:00 L.O. 19:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon - Sat": {},
+        "Sun": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 425,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ95zQL3Zp5TQR82ioy_cElYM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/47000141-e9e323d325cbaef6a6716000457ad9e2fbdacd6c612e587614f9477cd3e35ba9.jpg",
+    "place_id": "ChIJ95zQL3Zp5TQR82ioy_cElYM",
+    "g_name": "碧 国際通り松尾店",
+    "g_rating": 4.4,
+    "g_reviews": 425,
+    "g_address": "日本、〒900-0014 沖縄県那覇市松尾１丁目２−９",
+    "lat": 26.2139683,
+    "lng": 127.6819203
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "六角堂",
+    "name_en": "Rokkaku Do",
+    "area": "石川県 金沢市",
+    "url": "https://tabelog.com/ishikawa/A1701/A170101/17000063/",
+    "rating": 3.59,
+    "review_count_tabelog": 287,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round (except for Year-end & New Year Holidays)"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/17000063-814b79a83ec6a714384b6ad5fc990555cd3cef2015e828bf80709802f73848cb.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "ボビノ",
+    "name_en": "Bobino",
+    "area": "大阪府 北新地駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27005232/",
+    "rating": 3.55,
+    "review_count_tabelog": 200,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Steak, Hamburger steak, Curry",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 51,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJU2CEj-3mAGARVjPWAdbuHXs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/27005232-4e91369f8403498713b7f68d5d0d1d7afefa8cb2721dcc7cfde27a8a024da35e.jpg",
+    "place_id": "ChIJU2CEj-3mAGARVjPWAdbuHXs",
+    "g_name": "ボビノ",
+    "g_rating": 4.1,
+    "g_reviews": 51,
+    "g_address": "日本、〒530-0002 大阪府大阪市北区曾根崎新地１丁目２−１７",
+    "lat": 34.6974075,
+    "lng": 135.4973349
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "鉄板焼 日和",
+    "name_en": "Teppanyaki Hiyori",
+    "area": "福岡県 室見駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400203/40050966/",
+    "rating": 3.64,
+    "review_count_tabelog": 72,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Teppanyaki, Seafood, Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Public Holiday",
+        "dtl": "17:30 - 23:00",
+        "dtl_text": "17:30 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 14:30 17:30 - 23:00",
+        "dtl_text": "17:30 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Tue - Sat": {},
+        "Mon & Public Holidays": {}
+      },
+      "closed_on": "Lunch service is not available on Mondays and Tuesdays if there is a consecutive holiday on Sunday and Monday."
+    },
+    "google_rating": 4.6,
+    "google_reviews": 65,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJdzBXqouTQTUR8F5Gy-cSeis",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/40050966-b056e94baf81a7c8cebf1f4d23f46405f8db1d6922c985e52f7b59755a3f7253.jpg",
+    "place_id": "ChIJdzBXqouTQTUR8F5Gy-cSeis",
+    "g_name": "鉄板焼 日和",
+    "g_rating": 4.6,
+    "g_reviews": 65,
+    "g_address": "日本、〒814-0015 福岡県福岡市早良区室見２丁目１６−２１ カルチェ室見１F",
+    "lat": 33.5806693,
+    "lng": 130.3425338
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "純心庵",
+    "name_en": "Junshin An",
+    "area": "京都府 清水五条駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260301/26001747/",
+    "rating": 3.59,
+    "review_count_tabelog": 61,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Steak, European, Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Fri, Sat, Sun",
+        "dtl": "12:00 - 14:30 18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 216,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJf6Bfg-wIAWARQvImIVN7Wm8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/26001747-dad1d25270062ee3fcdaffede83bde3b51f1ae62c7ea429f6fcc144bb16bbce4.jpg",
+    "place_id": "ChIJf6Bfg-wIAWARQvImIVN7Wm8",
+    "g_name": "アーバイン 京都清水五条",
+    "g_rating": 4.2,
+    "g_reviews": 216,
+    "g_address": "日本、〒605-0847 京都府京都市東山区東橋詰町１３",
+    "lat": 34.995814,
+    "lng": 135.7693339
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "ステーキレストラン パポイヤ",
+    "name_en": "Steak Restaurant Papoiya",
+    "area": "沖縄県 石垣市",
+    "url": "https://tabelog.com/okinawa/A4705/A470501/47001667/",
+    "rating": 3.63,
+    "review_count_tabelog": 364,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 14:00 L.O. 13:00 17:00 - 20:30 L.O. Food 19:00",
+        "dtl_text": "17:00 - 20:30 L.O. Food 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 337,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZdTFva0KYDQRS4wPDBwc0o0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/47001667-01c2a798c0d139baa08a2a914ffc9c87fd21018e0ce77f96517333ac5d05c617.jpg",
+    "place_id": "ChIJZdTFva0KYDQRS4wPDBwc0o0",
+    "g_name": "ステーキ＆レストラン PAPOIYA パポイヤ",
+    "g_rating": 4.2,
+    "g_reviews": 337,
+    "g_address": "日本、〒907-0022 沖縄県石垣市大川２５８ レオビル ８F",
+    "lat": 24.339629,
+    "lng": 124.1569187
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "大淀河畔 みやちく",
+    "name_en": "Ooyodo Kahan Miyachiku",
+    "area": "宮崎県 宮崎市",
+    "url": "https://tabelog.com/miyazaki/A4501/A450101/45000328/",
+    "rating": 3.83,
+    "review_count_tabelog": 257,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Teppanyaki, Steak, Yakiniku (BBQ Beef)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 L.O. 14:00 17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 575,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJz1yp-W23ODURzfP_PH4QM9Q",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/45000328-be99a5278a2237308fd3fd17b0116ebe84b6dfb59a701c72643d0e2f29038113.jpg",
+    "place_id": "ChIJz1yp-W23ODURzfP_PH4QM9Q",
+    "g_name": "大淀河畔 みやちく",
+    "g_rating": 4.5,
+    "g_reviews": 575,
+    "g_address": "日本、〒880-0865 宮崎県宮崎市松山１丁目１−１ 宮崎観光ホテル西館 2階",
+    "lat": 31.9058195,
+    "lng": 131.4257644
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "みやす",
+    "name_en": "Miyasu",
+    "area": "兵庫県 元町（ＪＲ）駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280102/28000524/",
+    "rating": 3.66,
+    "review_count_tabelog": 152,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Steak, Hamburger steak, Yoshoku (Japanese style western cuisine)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 21:30 L.O. 20:30",
+        "dtl_text": "17:00 - 21:30 L.O. 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays, and on Mondays if there is a consecutive holiday including Sunday."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 151,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ96q58OKOAGAR6Zeax89B0g4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/28000524-48894ca2741a7dc874828a67c525940343330d6e368e1d223d06a7cc620fa303.jpg",
+    "place_id": "ChIJ96q58OKOAGAR6Zeax89B0g4",
+    "g_name": "みやす",
+    "g_rating": 4.3,
+    "g_reviews": 151,
+    "g_address": "日本、〒650-0011 兵庫県神戸市中央区下山手通３丁目２−１９ 淡交駐車場",
+    "lat": 34.6925125,
+    "lng": 135.1886185
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "ウルフギャング・ステーキハウス 大阪店",
+    "name_en": "Wolfgang Steak House Oosakaten",
+    "area": "大阪府 大阪駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27084039/",
+    "rating": 3.65,
+    "review_count_tabelog": 1328,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Steak, Dining bar, Wine bar",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 23:00 L.O. 22:30",
+        "dtl_text": "11:00 - 23:00 L.O. 22:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "As per facility schedule"
+    },
+    "google_rating": 3.9,
+    "google_reviews": 683,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJjWZqxo3mAGARo9tY8g8hPi4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/27084039-22403e06ea28b82e3e47e9c430573cf3a4b329236d3d789bb96dccd622a10a86.jpg",
+    "place_id": "ChIJjWZqxo3mAGARo9tY8g8hPi4",
+    "g_name": "ウルフギャング ステーキハウス by ウルフギャング ズウィナー 大阪店",
+    "g_rating": 3.9,
+    "g_reviews": 683,
+    "g_address": "日本、〒530-0001 大阪府大阪市北区梅田３丁目１−３ ルクア イーレ 10F",
+    "lat": 34.7027616,
+    "lng": 135.4949893
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "ベンジャミンステーキハウス 京都",
+    "name_en": "BENJAMIN STEAK HOUSE Kyoto",
+    "area": "京都府 烏丸駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260201/26031586/",
+    "rating": 3.66,
+    "review_count_tabelog": 296,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Steak, Dining bar, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 15:00 L.O. 14:00 17:00 - 23:00 L.O. 21:30",
+        "dtl_text": "17:00 - 23:00 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "11:30 - 15:00 L.O. 14:00 17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 420,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJnVK920EJAWARL3v_uYttUcs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/26031586-62c7192750c208d890329d6c32231f105c0b05d5424208d7343af6bab8b1427b.jpg",
+    "place_id": "ChIJnVK920EJAWARL3v_uYttUcs",
+    "g_name": "BENJAMIN STEAKHOUSE KYOTO (ベンジャミンステーキハウス京都)",
+    "g_rating": 4.4,
+    "g_reviews": 420,
+    "g_address": "日本、〒604-8143 京都府京都市中京区東洞院通錦小路下ル阪東屋町６６０−１",
+    "lat": 35.0045957,
+    "lng": 135.7608709
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "鉄板焼き 鳥羽別邸 華暦",
+    "name_en": "Teppanyaki Toba Bettei Hanagoyomi",
+    "area": "三重県 鳥羽市",
+    "url": "https://tabelog.com/mie/A2403/A240302/24015985/",
+    "rating": 3.72,
+    "review_count_tabelog": 42,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Teppanyaki",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 110,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5THDrt7-BGARCBLjcU7SQUk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/24015985-b02d371594b02e321ad92d468c0ade0da99e8aded284f58107aba36b0db17a71.jpg",
+    "place_id": "ChIJ5THDrt7-BGARCBLjcU7SQUk",
+    "g_name": "エクシブ鳥羽別邸 日本料理華暦",
+    "g_rating": 4.4,
+    "g_reviews": 110,
+    "g_address": "日本、〒517-0021 三重県鳥羽市安楽島町 字ニエ−２１２−８",
+    "lat": 34.45823680000001,
+    "lng": 136.8685263
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "鉄板焼おおみ",
+    "name_en": "Teppanyaki Oomi",
+    "area": "滋賀県 大津市",
+    "url": "https://tabelog.com/shiga/A2501/A250101/25000431/",
+    "rating": 3.61,
+    "review_count_tabelog": 68,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "Teppanyaki, Yakiniku (BBQ Beef), Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 L.O. 14:00 17:00 - 21:00 L.O. 20:00",
+        "dtl_text": "17:00 - 21:00 L.O. 20:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 114,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQBAVfQMAWARRnQFiihWdVY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/25000431-987aa8de4dd325c0fa8e8ebe0514531bba623980f4407d31f4d4db1185cfb556.jpg",
+    "place_id": "ChIJAQBAVfQMAWARRnQFiihWdVY",
+    "g_name": "おおみ",
+    "g_rating": 4.1,
+    "g_reviews": 114,
+    "g_address": "日本、〒520-0041 滋賀県大津市浜町２−４０ 琵琶湖ホテル 2F",
+    "lat": 35.0103147,
+    "lng": 135.8685238
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "鉄板焼 朝日",
+    "name_en": "Teppanyaki Asahi",
+    "area": "沖縄県 名護市",
+    "url": "https://tabelog.com/okinawa/A4702/A470201/47019810/",
+    "rating": 3.6,
+    "review_count_tabelog": 115,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "-",
+    "sub_categories": "Teppanyaki, Steak, Beef dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "17:00 - 21:00 L.O. 20:00",
+        "dtl_text": "17:00 - 21:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 170,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQBc1WP_5DQRrduhDihRIzg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/47019810-91c0dff4e145725d0d82c71c24c5a1fbe9f7c2dc193a3968681d645045c5554d.jpg",
+    "place_id": "ChIJAQBc1WP_5DQRrduhDihRIzg",
+    "g_name": "鉄板焼 朝日",
+    "g_rating": 4.6,
+    "g_reviews": 170,
+    "g_address": "日本、〒905-0015 沖縄県名護市大南２丁目１−４２",
+    "lat": 26.5927821,
+    "lng": 127.9757071
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "鉄板焼 曉",
+    "name_en": "Teppanyaki Akatsuki",
+    "area": "福岡県 薬院大通駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400104/40040406/",
+    "rating": 3.56,
+    "review_count_tabelog": 60,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Teppanyaki, Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "18:00 - 00:00",
+        "dtl_text": "18:00 - 00:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/40040406-0bcb951d789cda5b6c1a97de0ef272ec04e02250885db1d418e5954b5eebf0bd.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "カルネジーオ ウエスト",
+    "name_en": "CarneSio west",
+    "area": "大阪府 大阪梅田（阪急）駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27110278/",
+    "rating": 3.67,
+    "review_count_tabelog": 570,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Steak, Italian, Bistro",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 15:00 L.O. 14:00 16:00 - 22:30 L.O. 21:30",
+        "dtl_text": "16:00 - 22:30 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:30 - 15:30 L.O. 14:30 16:00 - 22:30 L.O. 21:30",
+        "dtl_text": "16:00 - 22:30 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:30 - 15:30 L.O. 14:30 16:00 - 22:00 L.O. 21:00",
+        "dtl_text": "16:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Public Holiday",
+        "dtl": "11:30 - 15:30 L.O. 14:30",
+        "dtl_text": "11:30 - 15:30 L.O. 14:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Year-end & New Year Holidays"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 39,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJYeEncVDnAGARQ_q57W_5gro",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/27110278-43a9bbb17e922e421e435835230b166513640b4c0bf1853a51bde5f2eb05b74e.jpg",
+    "place_id": "ChIJYeEncVDnAGARQ_q57W_5gro",
+    "g_name": "CarneSio 158",
+    "g_rating": 4.6,
+    "g_reviews": 39,
+    "g_address": "日本、〒530-0012 大阪府大阪市北区芝田１丁目７−２ 阪急かっぱ横丁 1F",
+    "lat": 34.7075608,
+    "lng": 135.4977599
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "ビーフクラブ ノエル",
+    "name_en": "Beef Club Noel",
+    "area": "三重県 松阪市",
+    "url": "https://tabelog.com/mie/A2401/A240102/24001065/",
+    "rating": 3.71,
+    "review_count_tabelog": 326,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "Steak, Beef dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri",
+        "dtl": "11:30 - 14:15 L.O. 13:30 17:00 - 20:45 L.O. 20:00",
+        "dtl_text": "17:00 - 20:45 L.O. 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 14:45 L.O. 14:00 17:00 - 20:45 L.O. 20:00",
+        "dtl_text": "17:00 - 20:45 L.O. 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open on public holidays"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 527,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJo4IH_91qBGARyp3eeunvrqw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/24001065-7d96f132200b9bfb7c351f8b9a9d511e9ec10683431c788f1594dd2cc4ac33ca.jpg",
+    "place_id": "ChIJo4IH_91qBGARyp3eeunvrqw",
+    "g_name": "ビーフクラブノエル",
+    "g_rating": 4.3,
+    "g_reviews": 527,
+    "g_address": "日本、〒515-0017 三重県松阪市京町２５",
+    "lat": 34.57361,
+    "lng": 136.5354523
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "時分時",
+    "name_en": "Jibun Doki",
+    "area": "大阪府 本町駅",
+    "url": "https://tabelog.com/osaka/A2701/A270106/27001808/",
+    "rating": 3.9,
+    "review_count_tabelog": 401,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "-",
+    "sub_categories": "Teppanyaki, Okonomiyaki (Japanese savory pancake), Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 64,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJa2t7TPbnAGARZ51br5QNOQI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/27001808-29cc8ab4008ea8da739dc8ad80d83d737b61f187e10ca5625e2ed4a13d338095.jpg",
+    "place_id": "ChIJa2t7TPbnAGARZ51br5QNOQI",
+    "g_name": "全席個室 じぶんどき大阪本町駅前店",
+    "g_rating": 4.2,
+    "g_reviews": 64,
+    "g_address": "日本、〒541-0053 大阪府大阪市中央区本町２丁目３−１４ 船場旭ビル B1F",
+    "lat": 34.6834148,
+    "lng": 135.5052749
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "春来",
+    "name_en": "Shunrai",
+    "area": "広島県 胡町駅",
+    "url": "https://tabelog.com/hiroshima/A3401/A340109/34007855/",
+    "rating": 3.57,
+    "review_count_tabelog": 164,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "-",
+    "sub_categories": "Teppanyaki, Steak, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 02:00",
+        "dtl_text": "18:00 - 02:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays (when Monday is a public holiday)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 111,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJaUHvlwWiWjURW7GkZDu8Rsw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/34007855-bc6f3c73a21c170e030340bfc82fa89770c67fb4a7fa096e278d5c8955fdb020.jpg",
+    "place_id": "ChIJaUHvlwWiWjURW7GkZDu8Rsw",
+    "g_name": "鉄板焼春来",
+    "g_rating": 4.3,
+    "g_reviews": 111,
+    "g_address": "日本、〒730-0028 広島県広島市中区流川町３−１７ 北政ビル",
+    "lat": 34.3912297,
+    "lng": 132.463829
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "大村湾",
+    "name_en": "Omura Wan",
+    "area": "長崎県 佐世保市",
+    "url": "https://tabelog.com/nagasaki/A4202/A420201/42000002/",
+    "rating": 3.58,
+    "review_count_tabelog": 40,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Teppanyaki, Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/42000002-683237d33f167ba9763a0c717c92bd58c766bb3225df8cf1ba8086c36f374370.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "鉄板焼き Oribe",
+    "name_en": "Teppan Yaki Oribe",
+    "area": "大阪府 四ツ橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270201/27013493/",
+    "rating": 3.69,
+    "review_count_tabelog": 137,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Teppanyaki, Okonomiyaki (Japanese savory pancake)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 22:00 L.O. 21:00",
+        "dtl_text": "18:00 - 22:00 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The third Tuesday of each month (If Monday is a public holiday, the closure will be on Tuesday instead. Please check the latest updates on our official website for any changes to the schedule.)"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 101,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJnxN0xwTnAGARxqiH7iPfqNg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/27013493-caddb93a05d318e88a0611b241c9094c5faf196d5e462cde853eb1d9f0eb86cd.jpg",
+    "place_id": "ChIJnxN0xwTnAGARxqiH7iPfqNg",
+    "g_name": "鉄板焼き お好み焼き oribe",
+    "g_rating": 4.5,
+    "g_reviews": 101,
+    "g_address": "日本、〒550-0013 大阪府大阪市西区新町１丁目６−１８ テラスレジデンス四ツ橋 １階",
+    "lat": 34.6762298,
+    "lng": 135.4961819
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "麤皮",
+    "name_en": "Arakawa",
+    "area": "兵庫県 三宮（神戸市営）駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280101/28000962/",
+    "rating": 4.06,
+    "review_count_tabelog": 274,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "￥30,000～￥39,999",
+    "sub_categories": "Steak, Yoshoku (Japanese style western cuisine), European",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 15:00 17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 135,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAbAxD-GOAGAREAow3oYMGvY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/28000962-640e15bcb0a14bdbd3b3b2d727517dfc6f1db5f45b1e0e11d1672f6cdf10b5fd.jpg",
+    "place_id": "ChIJAbAxD-GOAGAREAow3oYMGvY",
+    "g_name": "麤皮(あらがわ)",
+    "g_rating": 4,
+    "g_reviews": 135,
+    "g_address": "日本、〒650-0004 兵庫県神戸市中央区中山手通２丁目１５−１８",
+    "lat": 34.6970578,
+    "lng": 135.1895368
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "大栄",
+    "name_en": "Daiei",
+    "area": "兵庫県 摩耶駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280103/28001806/",
+    "rating": 3.7,
+    "review_count_tabelog": 321,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Teppanyaki, Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Fri, Sat, Sun",
+        "dtl": "17:00 - 21:30 L.O. 21:00",
+        "dtl_text": "17:00 - 21:30 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 336,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDa6v7SCMAGARyXFAYcKdSMA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/28001806-909efa9f00408ef0a195406cc90be74a277a9b063a20819fdecd3399335dab09.jpg",
+    "place_id": "ChIJDa6v7SCMAGARyXFAYcKdSMA",
+    "g_name": "ステーキ・鉄板焼き 大栄",
+    "g_rating": 4.3,
+    "g_reviews": 336,
+    "g_address": "日本、〒657-0059 兵庫県神戸市灘区篠原南町７丁目１−１７ 104",
+    "lat": 34.7139113,
+    "lng": 135.2260187
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "ゆたか",
+    "name_en": "Yutaka",
+    "area": "京都府 祇園四条駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260301/26001272/",
+    "rating": 3.68,
+    "review_count_tabelog": 81,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "-",
+    "sub_categories": "Steak",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 71,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ4vpbsEIAWARc6nkqOWvKuw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/26001272-cf5bd5f259c7a143505e245445944f2beda2a6f7b60760a27dc8509c68d317f5.jpg",
+    "place_id": "ChIJZ4vpbsEIAWARc6nkqOWvKuw",
+    "g_name": "ステーキハウスゆたか",
+    "g_rating": 4.3,
+    "g_reviews": 71,
+    "g_address": "日本、〒605-0074 京都府京都市東山区祇園町南側四条花見小路下ル四筋目東入ル祇園町南側",
+    "lat": 35.00239180000001,
+    "lng": 135.7750015
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "ダ・ロープ亭",
+    "name_en": "The Rope Tei",
+    "area": "熊本県 葦北郡芦北町",
+    "url": "https://tabelog.com/kumamoto/A4304/A430402/43008810/",
+    "rating": 3.62,
+    "review_count_tabelog": 106,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Fri",
+        "dtl": "11:30 - 14:00 17:00 - 20:00",
+        "dtl_text": "17:00 - 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 15:00 16:30 - 20:00",
+        "dtl_text": "16:30 - 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays and the 2nd and 4th Thursdays of the month (Tuesdays if a holiday or substitute holiday falls on those days)"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/43008810-31750a46acda6c38a292deb0ee34b3ace7f1eb7ffe51d91fbf5977b641b0813a.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "利心",
+    "name_en": "Rishin",
+    "area": "兵庫県 尾上の松駅",
+    "url": "https://tabelog.com/hyogo/A2804/A280402/28015268/",
+    "rating": 3.57,
+    "review_count_tabelog": 52,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Teppanyaki, Steak, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:30 L.O. 13:30 17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Please note that changes may occur. Feel free to contact us for updates."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 71,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJjxfrLFPYVDURswXcVPux8Cc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/28015268-24b29b48ffbe48fe5466371b34c004ddf181ca0a7c5d09de2ed3d37c02c44efb.jpg",
+    "place_id": "ChIJjxfrLFPYVDURswXcVPux8Cc",
+    "g_name": "利心",
+    "g_rating": 4.3,
+    "g_reviews": 71,
+    "g_address": "日本、〒675-0025 兵庫県加古川市尾上町養田３２−１",
+    "lat": 34.7488241,
+    "lng": 134.8198664
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "おかの",
+    "name_en": "Steak House Okano",
+    "area": "長崎県 長崎市",
+    "url": "https://tabelog.com/nagasaki/A4201/A420101/42000437/",
+    "rating": 3.6,
+    "review_count_tabelog": 23,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Steak, Teppanyaki",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:00 17:00 - 22:30",
+        "dtl_text": "17:00 - 22:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "August 15 and December 31 - January 3"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/42000437-dc6bd393060bdaae5d0faed9127d52037568ce8ef846b24819ca2a781809bf15.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "鉄板焼 さざんか",
+    "name_en": "Teppanyaki Sazanka",
+    "area": "福岡県 中洲川端駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400102/40000284/",
+    "rating": 3.57,
+    "review_count_tabelog": 71,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Teppanyaki, Steak",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "11:30 - 14:30 17:30 - 21:00",
+        "dtl_text": "17:30 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 14:30 17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 66,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKyf6seyRQTURmqw465FvHVU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/40000284-aad4232aa5fa41e1ae0c95555ff60b053391e4e6035ded4635c40c470dfd2635.jpg",
+    "place_id": "ChIJKyf6seyRQTURmqw465FvHVU",
+    "g_name": "鉄板焼 さざんか",
+    "g_rating": 4.5,
+    "g_reviews": 66,
+    "g_address": "日本、〒812-0027 福岡県福岡市博多区下川端町３丁目３−２ ２Ｆ",
+    "lat": 33.5955889,
+    "lng": 130.4049811
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "御縁",
+    "name_en": "Goen",
+    "area": "鳥取県 鳥取市",
+    "url": "https://tabelog.com/tottori/A3101/A310101/31002782/",
+    "rating": 3.67,
+    "review_count_tabelog": 271,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "-",
+    "sub_categories": "Teppanyaki, Horumon (BBQ Offel), Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:45 - 00:00 L.O. 23:45",
+        "dtl_text": "17:45 - 00:00 L.O. 23:45"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/31002782-2de0be53a00384a1d3c7467d5272512b66a78f15d6a92035fc170ad4a62a3ecc.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "ステーキ・鉄板焼き",
+    "category_en": "Steak, Teppanyaki",
+    "region": "WEST",
+    "name": "鉄板ダイニング 法貴",
+    "name_en": "Teppan Dining Hoki",
+    "area": "兵庫県 三宮（神戸市営）駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280101/28002967/",
+    "rating": 3.63,
+    "review_count_tabelog": 112,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Teppanyaki, Steak, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Regular hours resume from the 5th (Mon)."
+    },
+    "google_rating": 4.8,
+    "google_reviews": 145,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJuWE6nuSOAGAR87RI8fHE-yc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/steak_west/28002967-33ea9a66804d825f90ca72299f0c411844261e4804bcffe62f3da4fb4721ebfe.jpg",
+    "place_id": "ChIJuWE6nuSOAGAR87RI8fHE-yc",
+    "g_name": "鉄板ダイニング 法貴",
+    "g_rating": 4.8,
+    "g_reviews": 145,
+    "g_address": "日本、〒650-0012 兵庫県神戸市中央区北長狭通１丁目１０−９ 生田新道ビル 地下1階",
+    "lat": 34.6933327,
+    "lng": 135.1916075
+  }
+]

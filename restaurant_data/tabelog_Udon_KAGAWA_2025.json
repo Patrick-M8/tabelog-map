@@ -1,0 +1,4609 @@
+[
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "山下うどん",
+    "name_en": "Yamashita Udon",
+    "area": "香川県 善通寺市",
+    "url": "https://tabelog.com/kagawa/A3703/A370302/37000012/",
+    "rating": 3.77,
+    "review_count_tabelog": 1200,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "09:30 - 16:00",
+        "dtl_text": "09:30 - 16:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays (open on holidays, closed the following Wednesday)"
+    },
+    "google_rating": 4,
+    "google_reviews": 2286,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVUF-JDXUzUR7uDCavVTYas",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000012-ae8cf7bd921b81034180d34e6821539c6a097d0b810ab0de0d19a28a6e1bd716.jpg",
+    "place_id": "ChIJVVUF-JDXUzUR7uDCavVTYas",
+    "g_name": "山下うどん",
+    "g_rating": 4,
+    "g_reviews": 2286,
+    "g_address": "日本、〒765-0040 香川県善通寺市与北町２８４−１",
+    "lat": 34.2298644,
+    "lng": 133.8176746
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "讃岐うどん 上原屋本店",
+    "name_en": "Sanuki Udon Ueharaya Honten",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37000048/",
+    "rating": 3.79,
+    "review_count_tabelog": 1223,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Oden, Deep-fried foods",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "09:30 - 14:30",
+        "dtl_text": "09:30 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 2641,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJWUJrkbDrUzURKf-Dpey_-lI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000048-b7c81905b6870d318f72e0a34a9429566ecc36d8a77ee4200d1063b04cf7b7db.jpg",
+    "place_id": "ChIJWUJrkbDrUzURKf-Dpey_-lI",
+    "g_name": "さぬきうどん 上原屋本店",
+    "g_rating": 4.3,
+    "g_reviews": 2641,
+    "g_address": "日本、〒760-0073 香川県高松市栗林町１丁目１８−８",
+    "lat": 34.327128,
+    "lng": 134.0453762
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "麺処 綿谷 丸亀店",
+    "name_en": "Mendokoro Wataya Marugame Ten",
+    "area": "香川県 丸亀市",
+    "url": "https://tabelog.com/kagawa/A3702/A370202/37000289/",
+    "rating": 3.8,
+    "review_count_tabelog": 1153,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Soba (Buckwheat noodles), Curry Udon",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "08:30 - 14:00",
+        "dtl_text": "08:30 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 3294,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJhdpyUZvYUzURxYnHVgxsMZg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000289-3e1ef7fcc8b8c8312907c4041488aa3fd20aba1cff090bf2c2932bcc8ac2eeb9.jpg",
+    "place_id": "ChIJhdpyUZvYUzURxYnHVgxsMZg",
+    "g_name": "麺処 綿谷 丸亀店",
+    "g_rating": 4.3,
+    "g_reviews": 3294,
+    "g_address": "日本、〒763-0015 香川県丸亀市北平山町２丁目６−１８",
+    "lat": 34.2963365,
+    "lng": 133.7962083
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "麺処 綿谷 高松店",
+    "name_en": "Mendokoro Wataya Takamatsu Ten",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37005730/",
+    "rating": 3.69,
+    "review_count_tabelog": 873,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "08:30 - 14:00",
+        "dtl_text": "08:30 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 1700,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJlZzH9pnrUzURu5nALrzCx_U",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37005730-3d1b09d29b33dd58468f11a67516ea5c4cb9418062ef355d8f47819c5fdc5399.jpg",
+    "place_id": "ChIJlZzH9pnrUzURu5nALrzCx_U",
+    "g_name": "麺処 綿谷 高松店",
+    "g_rating": 4.2,
+    "g_reviews": 1700,
+    "g_address": "日本、〒760-0051 香川県高松市南新町８−１１",
+    "lat": 34.3392535,
+    "lng": 134.0493385
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "日の出製麺所",
+    "name_en": "Hinode Seimenjo",
+    "area": "香川県 坂出市",
+    "url": "https://tabelog.com/kagawa/A3702/A370201/37000016/",
+    "rating": 3.9,
+    "review_count_tabelog": 2249,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "09:00 - 16:00",
+        "dtl_text": "09:00 - 16:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Meals": {},
+        "Retail Sales": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 2593,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVWAA-7jeUzURBtyBRrFAVxs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000016-a6413fa01694ff85fbb073a4681830f8496a0c6ac24d9322212b8a7cfa156c25.jpg",
+    "place_id": "ChIJVWAA-7jeUzURBtyBRrFAVxs",
+    "g_name": "日の出製麺所",
+    "g_rating": 4.3,
+    "g_reviews": 2593,
+    "g_address": "日本、〒762-0046 香川県坂出市富士見町１丁目８−５",
+    "lat": 34.3103479,
+    "lng": 133.8502477
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "手打うどん 源内",
+    "name_en": "Teuchi Udon Gennai",
+    "area": "香川県 さぬき市",
+    "url": "https://tabelog.com/kagawa/A3704/A370401/37000100/",
+    "rating": 3.71,
+    "review_count_tabelog": 418,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles), Curry Udon",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 19:00",
+        "dtl_text": "10:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 1050,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVXhIAqRUzURCDJfDTQGFDg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000100-340fec0fb463127784f0c66cc5f1ffc5e7edf945ec848a386f05af7350b3e592.jpg",
+    "place_id": "ChIJVVXhIAqRUzURCDJfDTQGFDg",
+    "g_name": "手打うどん 源内",
+    "g_rating": 4.2,
+    "g_reviews": 1050,
+    "g_address": "日本、〒769-2101 香川県さぬき市志度１５９７−１０",
+    "lat": 34.3213968,
+    "lng": 134.1956207
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "山下うどん",
+    "name_en": "Yamashita Udon",
+    "area": "香川県 坂出市",
+    "url": "https://tabelog.com/kagawa/A3702/A370201/37000020/",
+    "rating": 3.77,
+    "review_count_tabelog": 685,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "08:30 - 15:00",
+        "dtl_text": "08:30 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.8,
+    "google_reviews": 803,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJS7oC4-PcUzURw3qeNu4NXmg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000020-f765505f9c1f150fb2b817c07a0f483c5677c1613398a3e1b74647713711eac3.jpg",
+    "place_id": "ChIJS7oC4-PcUzURw3qeNu4NXmg",
+    "g_name": "山下うどん",
+    "g_rating": 3.8,
+    "g_reviews": 803,
+    "g_address": "日本、〒762-0023 香川県坂出市加茂町１４７−１",
+    "lat": 34.2998471,
+    "lng": 133.9197094
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "手打うどん 風月",
+    "name_en": "Teuchi Udon Fugetsu",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37001023/",
+    "rating": 3.73,
+    "review_count_tabelog": 629,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles), Tempura",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:15 - 14:30",
+        "dtl_text": "11:15 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 632,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJkTq24Y_rUzUR0herhWQkbng",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37001023-7d52406d9c792786c646834619b57fd6aa91ef4b07dee9283db916ac88e4e48a.jpg",
+    "place_id": "ChIJkTq24Y_rUzUR0herhWQkbng",
+    "g_name": "手打うどん 風月",
+    "g_rating": 4.2,
+    "g_reviews": 632,
+    "g_address": "日本、〒760-0027 香川県高松市紺屋町４−１３",
+    "lat": 34.3448791,
+    "lng": 134.047518
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "手打麺や 大島",
+    "name_en": "Teuchi Menya Oshima",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37000224/",
+    "rating": 3.76,
+    "review_count_tabelog": 448,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 15:00",
+        "dtl_text": "10:00 - 15:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The first, third, and fifth Sundays of the month."
+    },
+    "google_rating": 4.1,
+    "google_reviews": 569,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQCMeWrqUzUR5Oc9QA6n_M8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000224-4d62e30bee01f42b1e5454d81cc4940352a9a68c711a3246dc693c40cc59c294.jpg",
+    "place_id": "ChIJAQCMeWrqUzUR5Oc9QA6n_M8",
+    "g_name": "大島うどん",
+    "g_rating": 4.1,
+    "g_reviews": 569,
+    "g_address": "日本、〒761-8074 香川県高松市太田上町１０５８",
+    "lat": 34.3022533,
+    "lng": 134.0418484
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "池上製麺所",
+    "name_en": "Ikegami Seimensho",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37000031/",
+    "rating": 3.71,
+    "review_count_tabelog": 815,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:30 - 14:00",
+        "dtl_text": "10:30 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every Tuesday (open on public holidays, closed the following Monday) and January 1st"
+    },
+    "google_rating": 3.8,
+    "google_reviews": 1113,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmUQmYGPBUzURKURijy3K61w",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000031-e58c02ef441e35c9e4c908eeb0095f28e748be696058226ce9cd4711b7e3d556.jpg",
+    "place_id": "ChIJmUQmYGPBUzURKURijy3K61w",
+    "g_name": "池上製麺所",
+    "g_rating": 3.8,
+    "g_reviews": 1113,
+    "g_address": "日本、〒761-1705 香川県高松市香川町川東下８９９−１",
+    "lat": 34.2461966,
+    "lng": 134.0246416
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "本格手打 もり家",
+    "name_en": "Honkaku Teuchi Moriya",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37000134/",
+    "rating": 3.78,
+    "review_count_tabelog": 1229,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles), Tempura, Udon-suki",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Sat, Sun",
+        "dtl": "10:30 - 18:00",
+        "dtl_text": "10:30 - 18:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu, Fri",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 1891,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKekzJgTBUzURbxd4cydPdWI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000134-dacd8c39091a03f1d6770f3c620d7165b30dbb3a572029992fe73d935e283f00.jpg",
+    "place_id": "ChIJKekzJgTBUzURbxd4cydPdWI",
+    "g_name": "本格手打もり家 高松本店",
+    "g_rating": 4.1,
+    "g_reviews": 1891,
+    "g_address": "日本、〒761-1704 香川県高松市香川町川内原１５７５−１",
+    "lat": 34.2396613,
+    "lng": 134.0514987
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "純手打うどん よしや",
+    "name_en": "Jun Teuchi Udon Yoshiya",
+    "area": "香川県 丸亀市",
+    "url": "https://tabelog.com/kagawa/A3702/A370202/37004606/",
+    "rating": 3.81,
+    "review_count_tabelog": 1286,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Tempura",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "07:00 - 14:00",
+        "dtl_text": "07:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 2366,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJv-XGf6jZUzUR8Yh3izjU3dA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37004606-1474f1ddf36a2ee675174b4bf94769c86e5829409caf9a9cfd4669feac7e45c8.jpg",
+    "place_id": "ChIJv-XGf6jZUzUR8Yh3izjU3dA",
+    "g_name": "純手打うどん よしや",
+    "g_rating": 4.1,
+    "g_reviews": 2366,
+    "g_address": "日本、〒763-0084 香川県丸亀市飯野町東二３４３−１",
+    "lat": 34.2657447,
+    "lng": 133.8386156
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "山とも",
+    "name_en": "Yamato",
+    "area": "香川県 丸亀市",
+    "url": "https://tabelog.com/kagawa/A3702/A370202/37008415/",
+    "rating": 3.71,
+    "review_count_tabelog": 264,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri",
+        "dtl": "10:00 - 13:30",
+        "dtl_text": "10:00 - 13:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "09:30 - 14:00",
+        "dtl_text": "09:30 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (announcements on social media)"
+    },
+    "google_rating": 3.6,
+    "google_reviews": 169,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJc9H_sZbZUzUR1Nq_WvKqi2c",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37008415-543706e57f09c05d00873b2960916fe55fe0f24d69cdcb8d63353076e693fb73.jpg",
+    "place_id": "ChIJc9H_sZbZUzUR1Nq_WvKqi2c",
+    "g_name": "純手打うどん山とも",
+    "g_rating": 3.6,
+    "g_reviews": 169,
+    "g_address": "日本、〒763-0082 香川県丸亀市土器町東９丁目１９４",
+    "lat": 34.2986312,
+    "lng": 133.8105597
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "誠うどん",
+    "name_en": "Makoto Udon",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37002062/",
+    "rating": 3.64,
+    "review_count_tabelog": 202,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 19:00",
+        "dtl_text": "12:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 375,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJv6gE_77rUzUR7d-xtwXwO3k",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37002062-96939659962fd830a25c888aa5b33d3e5edaae9d4c6e67c7ae504b40d41ea61c.jpg",
+    "place_id": "ChIJv6gE_77rUzUR7d-xtwXwO3k",
+    "g_name": "誠うどん",
+    "g_rating": 4.2,
+    "g_reviews": 375,
+    "g_address": "日本、〒760-0006 香川県高松市亀岡町１７−１４",
+    "lat": 34.3361878,
+    "lng": 134.0415095
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "うどん 一福",
+    "name_en": "Udon Ippuku",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37001209/",
+    "rating": 3.79,
+    "review_count_tabelog": 1340,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Oden, Deep-fried foods",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Sat, Sun, Public Holiday",
+        "dtl": "10:00 - 14:00",
+        "dtl_text": "10:00 - 14:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Fri",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 1640,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_74FToTCUzURf1mSXzIPKE4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37001209-77452a8c901b998aba15dadd9f0c7d18e890f9bdaa56955c7655ce374544bfe1.jpg",
+    "place_id": "ChIJ_74FToTCUzURf1mSXzIPKE4",
+    "g_name": "うどん 一福",
+    "g_rating": 4.2,
+    "g_reviews": 1640,
+    "g_address": "日本、〒769-0101 香川県高松市国分寺町新居１６９−１",
+    "lat": 34.3080364,
+    "lng": 133.9753189
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "めんや七福 本店",
+    "name_en": "Menya Shichifuku Hon Ten",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37007443/",
+    "rating": 3.69,
+    "review_count_tabelog": 209,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "10:00 - 14:30",
+        "dtl_text": "10:00 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 260,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJx6VwbJbrUzURxm5nuYdhmJo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37007443-bd81cb05234545dbe1dc6633dd8be4fb180ba804d0a78ca63da2553384045f6b.jpg",
+    "place_id": "ChIJx6VwbJbrUzURxm5nuYdhmJo",
+    "g_name": "めんや七福 高松店",
+    "g_rating": 4.1,
+    "g_reviews": 260,
+    "g_address": "日本、〒760-0018 香川県高松市天神前６−１０",
+    "lat": 34.338354,
+    "lng": 134.0442566
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "ヨコクラうどん",
+    "name_en": "Yokokura Udon",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37000381/",
+    "rating": 3.74,
+    "review_count_tabelog": 333,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "08:00 - 14:00",
+        "dtl_text": "08:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 849,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJPyO9U9DpUzURQS1VrbVWzxk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000381-ba097aee122d48c82e5a3396b0da656a73ff7ae8ffb37f0c613bc2eebdc33c50.jpg",
+    "place_id": "ChIJPyO9U9DpUzURQS1VrbVWzxk",
+    "g_name": "ヨコクラうどん",
+    "g_rating": 4.2,
+    "g_reviews": 849,
+    "g_address": "日本、〒761-8026 香川県高松市鬼無町鬼無１３６−１",
+    "lat": 34.3153406,
+    "lng": 133.9891428
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "手打うどん 三徳",
+    "name_en": "Teuchi Udon Santoku",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37000142/",
+    "rating": 3.76,
+    "review_count_tabelog": 505,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Onigiri (Rice ball)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "11:00 - 16:00",
+        "dtl_text": "11:00 - 16:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 930,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJk5groe3qUzURbAlarjzTInU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000142-d562b69968a86d3c42df84c95b38e10dea952f9bd40161f2f568568599502076.jpg",
+    "place_id": "ChIJk5groe3qUzURbAlarjzTInU",
+    "g_name": "手打うどん 三徳",
+    "g_rating": 4.1,
+    "g_reviews": 930,
+    "g_address": "日本、〒761-0301 香川県高松市林町３９０−１",
+    "lat": 34.2926941,
+    "lng": 134.0690483
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "宮川製麺所",
+    "name_en": "Mikakawa Seimensho",
+    "area": "香川県 善通寺市",
+    "url": "https://tabelog.com/kagawa/A3703/A370302/37000128/",
+    "rating": 3.75,
+    "review_count_tabelog": 695,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Tempura",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "08:00 - 18:00",
+        "dtl_text": "08:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 1777,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJcxQxNHN9UTURdVS5suuIblA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000128-85ea84e1d51e26b3101ac415b8cf037f4add8359baeebb6a9909672c47ee9d42.jpg",
+    "place_id": "ChIJcxQxNHN9UTURdVS5suuIblA",
+    "g_name": "宮川製麺所",
+    "g_rating": 4,
+    "g_reviews": 1777,
+    "g_address": "日本、〒765-0073 香川県善通寺市中村町１丁目１−２０",
+    "lat": 34.2314065,
+    "lng": 133.7718782
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "手打ちうどん 大蔵",
+    "name_en": "Teuchi Udon Okura",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37009422/",
+    "rating": 3.83,
+    "review_count_tabelog": 293,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "10:30 - 14:15",
+        "dtl_text": "10:30 - 14:15"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 384,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJpexFmLHrUzURmwcYOSvAI5A",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37009422-116cde80fc8a968453947f2d8b9314e6f1f952bbcfc025d50e284ba1ca8abd88.jpg",
+    "place_id": "ChIJpexFmLHrUzURmwcYOSvAI5A",
+    "g_name": "手打ちうどん 大蔵〜絆〜",
+    "g_rating": 4.1,
+    "g_reviews": 384,
+    "g_address": "日本、〒760-0020 香川県高松市錦町２丁目８−１８",
+    "lat": 34.3468082,
+    "lng": 134.0422643
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "竹清 本店",
+    "name_en": "Chikusei Hon Ten",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37000051/",
+    "rating": 3.65,
+    "review_count_tabelog": 1127,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Tempura",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "10:45 - 14:30",
+        "dtl_text": "10:45 - 14:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 2063,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJTxGVIL7rUzURH7e2fgVhDNI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000051-ea8523c3ee462543533981abd1219df3e89019311c24c7d6308b8506eed40050.jpg",
+    "place_id": "ChIJTxGVIL7rUzURH7e2fgVhDNI",
+    "g_name": "セルフうどんの店 ちくせい",
+    "g_rating": 4.3,
+    "g_reviews": 2063,
+    "g_address": "日本、〒760-0006 香川県高松市亀岡町２−２３",
+    "lat": 34.3381146,
+    "lng": 134.0423101
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "山内うどん店",
+    "name_en": "Yamauchi Udon Ten",
+    "area": "香川県 仲多度郡まんのう町",
+    "url": "https://tabelog.com/kagawa/A3703/A370302/37000007/",
+    "rating": 3.81,
+    "review_count_tabelog": 1056,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "09:00 - 14:00",
+        "dtl_text": "09:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Thursdays"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 2046,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJafzBWU3UUzURV0Nyw7lCVwo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000007-482403cca18f7c3d08eb25b30c9bd71eda032ed7a06d7c63f11edbfc4963d28c.jpg",
+    "place_id": "ChIJafzBWU3UUzURV0Nyw7lCVwo",
+    "g_name": "山内うどん",
+    "g_rating": 4.2,
+    "g_reviews": 2046,
+    "g_address": "日本、〒769-0316 香川県仲多度郡まんのう町大口１０１０",
+    "lat": 34.1370344,
+    "lng": 133.8296799
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "三嶋製麺所",
+    "name_en": "Mishima Seimenjo",
+    "area": "香川県 仲多度郡まんのう町",
+    "url": "https://tabelog.com/kagawa/A3703/A370302/37000140/",
+    "rating": 3.74,
+    "review_count_tabelog": 579,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Sat, Sun",
+        "dtl": "09:00 - 15:00",
+        "dtl_text": "09:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Fri",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon - Thu": {},
+        "Sat & Sun": {}
+      },
+      "closed_on": "Please note that we will close when we run out of noodles."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 1144,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJX95KwcrPUzURx8fV8zsV-0A",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000140-b4d54887ea41c78f0ec3a92e76417d11d62b122bc1a1a582fb81a13763ded04f.jpg",
+    "place_id": "ChIJX95KwcrPUzURx8fV8zsV-0A",
+    "g_name": "三嶋製麺所",
+    "g_rating": 4.2,
+    "g_reviews": 1144,
+    "g_address": "日本、〒766-0203 香川県仲多度郡まんのう町川東２７６",
+    "lat": 34.1419754,
+    "lng": 133.9613495
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "野口製麺",
+    "name_en": "Noguchi Noodle Shop",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37000536/",
+    "rating": 3.65,
+    "review_count_tabelog": 100,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "10:00 - 14:00",
+        "dtl_text": "10:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 191,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJdxIeRnTrUzURNWt2XqG2FDk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000536-508b61b628ff49c9240558f140b6b13686b33d177db89bea01d626e154a5c296.jpg",
+    "place_id": "ChIJdxIeRnTrUzURNWt2XqG2FDk",
+    "g_name": "野口製麺",
+    "g_rating": 4.1,
+    "g_reviews": 191,
+    "g_address": "日本、〒760-0077 香川県高松市上福岡町１２８６",
+    "lat": 34.333125,
+    "lng": 134.0609047
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "ふる里うどん",
+    "name_en": "Furusato Udon",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37006820/",
+    "rating": 3.84,
+    "review_count_tabelog": 363,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 L.O. 14:30",
+        "dtl_text": "11:00 - 15:00 L.O. 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 292,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVXFA0qVUzURN6pKtuY59IM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37006820-6ddcd3681e2b415c77c3fcc5c9723725df8c2d2418249ebecb19eca32845b3b8.jpg",
+    "place_id": "ChIJVVXFA0qVUzURN6pKtuY59IM",
+    "g_name": "ふる里うどん",
+    "g_rating": 4.1,
+    "g_reviews": 292,
+    "g_address": "日本、〒761-0443 香川県高松市川島東町５２３−４",
+    "lat": 34.2757405,
+    "lng": 134.1006694
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "白川うどん",
+    "name_en": "Shirakawa Udon",
+    "area": "香川県 善通寺市",
+    "url": "https://tabelog.com/kagawa/A3703/A370302/37000240/",
+    "rating": 3.75,
+    "review_count_tabelog": 395,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Tempura",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 14:00",
+        "dtl_text": "10:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every Tuesday and the first and third Wednesday of each month"
+    },
+    "google_rating": 3.8,
+    "google_reviews": 558,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4yo288TXUzURo-WftDfh6cM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000240-219ff6d8ffa65cab49817a2ffd8102e814467dda13d8fa45faa9615488d30f44.jpg",
+    "place_id": "ChIJ4yo288TXUzURo-WftDfh6cM",
+    "g_name": "白川うどん",
+    "g_rating": 3.8,
+    "g_reviews": 558,
+    "g_address": "日本、〒765-0051 香川県善通寺市櫛梨町５００−１",
+    "lat": 34.22437480000001,
+    "lng": 133.802423
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "うどんの田",
+    "name_en": "Udon no Den",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37000384/",
+    "rating": 3.75,
+    "review_count_tabelog": 343,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "10:00 - 14:00",
+        "dtl_text": "10:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "06:00 - 09:00 10:00 - 14:00",
+        "dtl_text": "10:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Occasional temporary closures"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 676,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ8AByubBUzURtdMPGRlnqKk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000384-03dc1d550fe38179dab3f5f9a76a182a1a42a7f877573e15ce092eebdbc70fd4.jpg",
+    "place_id": "ChIJQ8AByubBUzURtdMPGRlnqKk",
+    "g_name": "うどんの田",
+    "g_rating": 4.1,
+    "g_reviews": 676,
+    "g_address": "日本、〒761-8085 香川県高松市寺井町３８−１",
+    "lat": 34.2826365,
+    "lng": 134.0354554
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "釜あげうどん 長田 in 香の香",
+    "name_en": "Kamaage Udon Nagata in Kano Ka",
+    "area": "香川県 善通寺市",
+    "url": "https://tabelog.com/kagawa/A3703/A370302/37000015/",
+    "rating": 3.89,
+    "review_count_tabelog": 3501,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "09:00 - 15:00",
+        "dtl_text": "09:00 - 15:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 4861,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJaUYAsE99UTURvKrmpF8xh9E",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000015-340b6c79da2d5a20471f3f00bfa2719141d19e2dfbff06bfcb1b66afd88624fd.jpg",
+    "place_id": "ChIJaUYAsE99UTURvKrmpF8xh9E",
+    "g_name": "釜あげうどん 長田 in 香の香",
+    "g_rating": 4.2,
+    "g_reviews": 4861,
+    "g_address": "日本、〒765-0031 香川県善通寺市金蔵寺町１１８０",
+    "lat": 34.250854,
+    "lng": 133.7796442
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "麺処まはろ",
+    "name_en": "Mendokoro Mahalo",
+    "area": "香川県 さぬき市",
+    "url": "https://tabelog.com/kagawa/A3704/A370401/37001543/",
+    "rating": 3.67,
+    "review_count_tabelog": 280,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles), Tempura, Oden",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri",
+        "dtl": "11:00 - 14:00",
+        "dtl_text": "11:00 - 14:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "10:30 - 15:00",
+        "dtl_text": "10:30 - 15:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays (If Wednesday is a public holiday, the following Thursday will be a substitute holiday.)"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 542,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJa1NpodyQUzUR0-5CJbD4vTI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37001543-db6d1fbcc5ad14717f0e32ba86aae35a124d145c61755e2ae67893f15f5c964b.jpg",
+    "place_id": "ChIJa1NpodyQUzUR0-5CJbD4vTI",
+    "g_name": "麺処 まはろ",
+    "g_rating": 4.2,
+    "g_reviews": 542,
+    "g_address": "日本、〒769-2323 香川県さぬき市寒川町神前３９７０",
+    "lat": 34.2902599,
+    "lng": 134.2184803
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "岡製麺所",
+    "name_en": "Oka Seimensho",
+    "area": "香川県 綾歌郡綾川町",
+    "url": "https://tabelog.com/kagawa/A3702/A370202/37000141/",
+    "rating": 3.67,
+    "review_count_tabelog": 182,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Deep-fried foods",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 14:00",
+        "dtl_text": "10:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 566,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2dlFf-bEUzURL5yucrdwpxQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000141-33d2697512bedcfcc3ee240171bee8caa8b558bd00fca357d847ef283dd61fff.jpg",
+    "place_id": "ChIJ2dlFf-bEUzURL5yucrdwpxQ",
+    "g_name": "岡製麺所",
+    "g_rating": 4.2,
+    "g_reviews": 566,
+    "g_address": "日本、〒761-2203 香川県綾歌郡綾川町山田上甲１９４９−８",
+    "lat": 34.2148291,
+    "lng": 133.9763612
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "三好うどん",
+    "name_en": "Miyoshi Udon",
+    "area": "香川県 三豊市",
+    "url": "https://tabelog.com/kagawa/A3703/A370303/37008190/",
+    "rating": 3.81,
+    "review_count_tabelog": 450,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "10:00 - 14:00",
+        "dtl_text": "10:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 738,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJYaz8-OZ4UTUR0_po3X-O8Ek",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37008190-017b89ff314287b4f4ae7a053f5554bf8361c787e2481fe71aab7f109b1dd094.jpg",
+    "place_id": "ChIJYaz8-OZ4UTUR0_po3X-O8Ek",
+    "g_name": "三好うどん",
+    "g_rating": 4.2,
+    "g_reviews": 738,
+    "g_address": "日本、〒767-0004 香川県三豊市高瀬町比地１５８３−１",
+    "lat": 34.1823479,
+    "lng": 133.6923217
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "植田うどん",
+    "name_en": "Ueta Udon",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37000027/",
+    "rating": 3.64,
+    "review_count_tabelog": 542,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "09:38 - 14:30",
+        "dtl_text": "09:38 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat",
+        "dtl": "09:30 - 14:30",
+        "dtl_text": "09:30 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.7,
+    "google_reviews": 516,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJi_PAW_vrUzURMlI8XItxIH8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000027-210f8be9d839a45f9c4a0c6d4bffea813fdbf31900ce70654edcfaf766312464.jpg",
+    "place_id": "ChIJi_PAW_vrUzURMlI8XItxIH8",
+    "g_name": "根っこ 空港通り店",
+    "g_rating": 3.7,
+    "g_reviews": 516,
+    "g_address": "日本、〒761-8082 香川県高松市鹿角町３５３−３",
+    "lat": 34.2999004,
+    "lng": 134.0348182
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "なかむら",
+    "name_en": "Nakamura",
+    "area": "香川県 丸亀市",
+    "url": "https://tabelog.com/kagawa/A3702/A370202/37000068/",
+    "rating": 3.77,
+    "review_count_tabelog": 1050,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Deep-fried foods",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "09:00 - 14:00",
+        "dtl_text": "09:00 - 14:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays, the 2nd and 4th Wednesdays, and the 1st Sunday in May"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 2026,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-9rKKK7ZUzURQ4sbn2YjQuU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000068-2563846bab301a03e8c68a0663262c3af0a60c1a687d0d60761beed1bc417fa6.jpg",
+    "place_id": "ChIJ-9rKKK7ZUzURQ4sbn2YjQuU",
+    "g_name": "なかむらうどん",
+    "g_rating": 4.1,
+    "g_reviews": 2026,
+    "g_address": "日本、〒762-0087 香川県丸亀市飯山町西坂元１３７３−３",
+    "lat": 34.2604183,
+    "lng": 133.8357613
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "いけこうどん",
+    "name_en": "IKEKO UDON",
+    "area": "香川県 仲多度郡多度津町",
+    "url": "https://tabelog.com/kagawa/A3702/A370202/37011173/",
+    "rating": 3.71,
+    "review_count_tabelog": 211,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 15:00",
+        "dtl_text": "10:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 462,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJFwISL319UTURZQ_Iwn2nEQk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37011173-4c91c1bf118f17ee41feef31d68d1d17fb97b9451c6f63762314cb99bab6f09c.jpg",
+    "place_id": "ChIJFwISL319UTURZQ_Iwn2nEQk",
+    "g_name": "いけこうどん",
+    "g_rating": 4.1,
+    "g_reviews": 462,
+    "g_address": "日本、〒764-0015 香川県仲多度郡多度津町西浜１１−１８",
+    "lat": 34.2714279,
+    "lng": 133.7445657
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "滝音",
+    "name_en": "Takine",
+    "area": "香川県 木田郡三木町",
+    "url": "https://tabelog.com/kagawa/A3701/A370102/37001522/",
+    "rating": 3.66,
+    "review_count_tabelog": 252,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 15:30",
+        "dtl_text": "10:00 - 15:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (closed the following day if a holiday falls on Monday)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 1139,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJo2DgdZyVUzURjhlcdA17UIk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37001522-d8a392205dcc4b5dea9c3adb217203157dbf0207bfe952f96ac7f931f38b7782.jpg",
+    "place_id": "ChIJo2DgdZyVUzURjhlcdA17UIk",
+    "g_name": "手織うどん 滝音",
+    "g_rating": 4.3,
+    "g_reviews": 1139,
+    "g_address": "日本、〒761-0613 香川県木田郡三木町上高岡２６６−１",
+    "lat": 34.2529199,
+    "lng": 134.1388053
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "本格手打うどん 麺むすび",
+    "name_en": "Honkaku Teuchi Udon Menmusubi",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37004775/",
+    "rating": 3.73,
+    "review_count_tabelog": 343,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Curry Udon, Deep-fried foods",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:30 - 14:30",
+        "dtl_text": "10:30 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 514,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJzSvbX13qUzUReEv5PvIulzw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37004775-6d92464a14f02c6d456226b39d0058b825be83ac9e76af4054a1833f620dc727.jpg",
+    "place_id": "ChIJzSvbX13qUzUReEv5PvIulzw",
+    "g_name": "本格手打うどん 麺むすび",
+    "g_rating": 4.1,
+    "g_reviews": 514,
+    "g_address": "日本、〒761-8075 香川県高松市多肥下町１５０１−４",
+    "lat": 34.3065698,
+    "lng": 134.0577032
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "うつ海うどん",
+    "name_en": "Utsumi Udon",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37008654/",
+    "rating": 3.76,
+    "review_count_tabelog": 407,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "06:00 - 15:00",
+        "dtl_text": "06:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 977,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJs4le-dDqUzURUh3Eqj2Qc-g",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37008654-4548eaf60e288fd2d2da1e2abc271a25723648b0f484d6f7c4c58cf8be6d320c.jpg",
+    "place_id": "ChIJs4le-dDqUzURUh3Eqj2Qc-g",
+    "g_name": "うつ海うどん",
+    "g_rating": 4.2,
+    "g_reviews": 977,
+    "g_address": "日本、〒761-0313 香川県高松市下田井町３５９−２",
+    "lat": 34.2928756,
+    "lng": 134.0885289
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "手打うどん たむら",
+    "name_en": "Teuchi Udon Tamura",
+    "area": "香川県 綾歌郡綾川町",
+    "url": "https://tabelog.com/kagawa/A3702/A370202/37000077/",
+    "rating": 3.82,
+    "review_count_tabelog": 1003,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "09:00 - 13:00",
+        "dtl_text": "09:00 - 13:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 1005,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVQW3bK_cUzURO9HYiyib8j4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000077-c3fe868bad8c120ae9f2289d8e19d2ac047a780863b6e82484606f4d1f317365.jpg",
+    "place_id": "ChIJVQW3bK_cUzURO9HYiyib8j4",
+    "g_name": "手打うどん たむら",
+    "g_rating": 4,
+    "g_reviews": 1005,
+    "g_address": "日本、〒761-2103 香川県綾歌郡綾川町陶1090ｰ3",
+    "lat": 34.2664869,
+    "lng": 133.9352923
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "讃岐うどん工房 アイ・スタイル",
+    "name_en": "Sanuki Udon Kobo Ai Style",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37008968/",
+    "rating": 3.63,
+    "review_count_tabelog": 148,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "10:30 - 14:30",
+        "dtl_text": "10:30 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Thursdays (open on holidays, closed the following Friday)"
+    },
+    "google_rating": 3.7,
+    "google_reviews": 308,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJU8MaR2vrUzURZcVJs0cMTMM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37008968-b1665ce60e72a872ada4baee7dd9c2a71895a575f0a641935faed39a62663b41.jpg",
+    "place_id": "ChIJU8MaR2vrUzURZcVJs0cMTMM",
+    "g_name": "讃岐うどん工房 I style",
+    "g_rating": 3.7,
+    "g_reviews": 308,
+    "g_address": "日本、〒760-0080 香川県高松市木太町１９０５−３",
+    "lat": 34.3248698,
+    "lng": 134.0734114
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "うどん おかだ",
+    "name_en": "Udon Okada",
+    "area": "香川県 丸亀市",
+    "url": "https://tabelog.com/kagawa/A3702/A370202/37009661/",
+    "rating": 3.71,
+    "review_count_tabelog": 231,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "10:30 - 14:00",
+        "dtl_text": "10:30 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 922,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJO-fLPKzZUzURw1XmnPkAbrY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37009661-308a0e42e64bab547a86be92caab8b578a4b1b3031f5b29787d5045abb71003e.jpg",
+    "place_id": "ChIJO-fLPKzZUzURw1XmnPkAbrY",
+    "g_name": "セルフうどん おかだ",
+    "g_rating": 4.2,
+    "g_reviews": 922,
+    "g_address": "日本、〒763-0084 香川県丸亀市飯野町東二６２３−１",
+    "lat": 34.2644242,
+    "lng": 133.8332629
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "いなもく",
+    "name_en": "Inamoku",
+    "area": "香川県 綾歌郡綾川町",
+    "url": "https://tabelog.com/kagawa/A3702/A370202/37008978/",
+    "rating": 3.68,
+    "review_count_tabelog": 204,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "10:30 - 14:00",
+        "dtl_text": "10:30 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Second Wednesday of each month"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 748,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJm1FnAKrFUzURitDicEuVlX0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37008978-474b630591cc8a62585ee759b0d9de8df0da556f1749c27849e10e9e28224701.jpg",
+    "place_id": "ChIJm1FnAKrFUzURitDicEuVlX0",
+    "g_name": "いなもくうどん",
+    "g_rating": 4.3,
+    "g_reviews": 748,
+    "g_address": "日本、〒761-2202 香川県綾歌郡綾川町枌所西 西甲１４２０−３",
+    "lat": 34.199187,
+    "lng": 133.9821211
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "手打十段 うどんバカ一代",
+    "name_en": "Teuchi Judan Udon Baka Ichidai",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37000242/",
+    "rating": 3.79,
+    "review_count_tabelog": 4589,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "06:00 - 18:00",
+        "dtl_text": "06:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "January 2: 10:00 - 16:00"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 8098,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJMWyhJHbrUzURpONppDqqkeg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000242-c17e62ea64b455d2611013fd936147d80f792f525efc2110ea78eebc2d1e83b5.jpg",
+    "place_id": "ChIJMWyhJHbrUzURpONppDqqkeg",
+    "g_name": "手打十段 うどんバカ一代",
+    "g_rating": 4.1,
+    "g_reviews": 8098,
+    "g_address": "日本、〒760-0063 香川県高松市多賀町１丁目６−７",
+    "lat": 34.3367417,
+    "lng": 134.0585379
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "とらや",
+    "name_en": "Toraya",
+    "area": "香川県 坂出市",
+    "url": "https://tabelog.com/kagawa/A3702/A370201/37001355/",
+    "rating": 3.7,
+    "review_count_tabelog": 195,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Curry Udon",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri",
+        "dtl": "10:30 - 14:00",
+        "dtl_text": "10:30 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "10:30 - 13:30",
+        "dtl_text": "10:30 - 13:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 448,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0QARAuzeUzURBGrtQebK9XQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37001355-06423aeb3a396407c64d870e843f41e7dca0c97a065e92ef0872bc2d879dd3f2.jpg",
+    "place_id": "ChIJ0QARAuzeUzURBGrtQebK9XQ",
+    "g_name": "さぬきうどん麺処 とらや",
+    "g_rating": 4.1,
+    "g_reviews": 448,
+    "g_address": "日本、〒762-0052 香川県坂出市沖の浜１−４",
+    "lat": 34.3244199,
+    "lng": 133.8433676
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "松下製麺所",
+    "name_en": "Matsushita Seimensho",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37000033/",
+    "rating": 3.76,
+    "review_count_tabelog": 1091,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday",
+        "dtl": "06:40 - 15:00",
+        "dtl_text": "06:40 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 1736,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJbgoyr3rUzUR-4c_CsSfJKo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000033-72d8043a22eab6dbccb625d1922537a8a58e20f13ac376d2fe3e370714c201e0.jpg",
+    "place_id": "ChIJJbgoyr3rUzUR-4c_CsSfJKo",
+    "g_name": "松下製麺所",
+    "g_rating": 4.1,
+    "g_reviews": 1736,
+    "g_address": "日本、〒760-0008 香川県高松市中野町２−２",
+    "lat": 34.3350157,
+    "lng": 134.0449092
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "マルタニ製麺",
+    "name_en": "Marutani Seimen",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37000378/",
+    "rating": 3.73,
+    "review_count_tabelog": 310,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "09:45 - 13:00",
+        "dtl_text": "09:45 - 13:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 843,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJesMSwXCUzUR0dLk8f3034I",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000378-db5569bb733692770a0aa56b62539393d227efc3819340fe335cca45ec4234ee.jpg",
+    "place_id": "ChIJJesMSwXCUzUR0dLk8f3034I",
+    "g_name": "マルタニ製麺",
+    "g_rating": 4.3,
+    "g_reviews": 843,
+    "g_address": "日本、〒761-8044 香川県高松市円座町１０２３−１",
+    "lat": 34.2893572,
+    "lng": 134.0113912
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "カマ喜ri",
+    "name_en": "Kamakiri",
+    "area": "香川県 観音寺市",
+    "url": "https://tabelog.com/kagawa/A3703/A370301/37006622/",
+    "rating": 3.86,
+    "review_count_tabelog": 552,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 14:00",
+        "dtl_text": "11:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 717,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJN_IITQiDUTURWSzqy1ZuDVI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37006622-326c69d67f0e597c62f7c960268ed0b2ddaca504ad6715e02ca1270c4b84b0a5.jpg",
+    "place_id": "ChIJN_IITQiDUTURWSzqy1ZuDVI",
+    "g_name": "うどんや カマ喜ri",
+    "g_rating": 4.2,
+    "g_reviews": 717,
+    "g_address": "日本、〒768-0040 香川県観音寺市柞田町甲４６−３",
+    "lat": 34.1127209,
+    "lng": 133.6765864
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "吉本食品",
+    "name_en": "Yoshimoto Shokuhin",
+    "area": "香川県 東かがわ市",
+    "url": "https://tabelog.com/kagawa/A3704/A370402/37000684/",
+    "rating": 3.78,
+    "review_count_tabelog": 402,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Curry Udon",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "08:00 - 14:00",
+        "dtl_text": "08:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 577,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0a94V2acUzURgWzbu6O0l1I",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000684-e23a14151e542042c03cc265bdb1924eeb339cb8cb56d55733c161e47f6eef21.jpg",
+    "place_id": "ChIJ0a94V2acUzURgWzbu6O0l1I",
+    "g_name": "吉本食品",
+    "g_rating": 4.1,
+    "g_reviews": 577,
+    "g_address": "日本、〒769-2601 香川県東かがわ市三本松６０８",
+    "lat": 34.2505494,
+    "lng": 134.3396085
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "本格手打うどん はゆか",
+    "name_en": "Honkaku Teuchi Udon Hayuka",
+    "area": "香川県 綾歌郡綾川町",
+    "url": "https://tabelog.com/kagawa/A3702/A370202/37000233/",
+    "rating": 3.82,
+    "review_count_tabelog": 970,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 15:00",
+        "dtl_text": "10:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 1440,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJr7-RPFbaUzURUMgRh8nNWl0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000233-7aaa180daf5c494b8cd267a4e7070defc17330d5fd3f728e91a89c94baa96a6e.jpg",
+    "place_id": "ChIJr7-RPFbaUzURUMgRh8nNWl0",
+    "g_name": "うどん はゆか",
+    "g_rating": 4.1,
+    "g_reviews": 1440,
+    "g_address": "日本、〒761-2308 香川県綾歌郡綾川町羽床下２２２２−５",
+    "lat": 34.2323647,
+    "lng": 133.9048123
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "うどん職人さぬき麺之介",
+    "name_en": "Udon Shokunin Sanuki Men no Suke",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37007679/",
+    "rating": 3.63,
+    "review_count_tabelog": 765,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Tempura",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Day before public holiday, Day after public holiday",
+        "dtl": "08:00 - 16:00 17:00 - 02:00",
+        "dtl_text": "17:00 - 02:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "07:00 - 16:00 17:00 - 02:00",
+        "dtl_text": "17:00 - 02:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 3.2,
+    "google_reviews": 657,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJY3y9ZpvrUzURbgAreBfiVNo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37007679-8e4ae829a0a30c263d90429500105b462064653a684cfeef25159de356751d79.jpg",
+    "place_id": "ChIJY3y9ZpvrUzURbgAreBfiVNo",
+    "g_name": "うどん職人 さぬき麺之介",
+    "g_rating": 3.2,
+    "g_reviews": 657,
+    "g_address": "日本、〒760-0052 香川県高松市瓦町１丁目７−３",
+    "lat": 34.3410184,
+    "lng": 134.0528377
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "かしむらうどん",
+    "name_en": "Kashimura Udon",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37001242/",
+    "rating": 3.65,
+    "review_count_tabelog": 154,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 311,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ08XzLrbsUzURfWEwGzvSZXY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37001242-cc0145d6d4124522d18ad773b2e7fe06c7873e7e5ff2b9dd00ebb13bf225a9d5.jpg",
+    "place_id": "ChIJ08XzLrbsUzURfWEwGzvSZXY",
+    "g_name": "かしむらうどん",
+    "g_rating": 4.1,
+    "g_reviews": 311,
+    "g_address": "日本、〒761-0113 香川県高松市屋島西町２４８５−１２",
+    "lat": 34.3506254,
+    "lng": 134.0894645
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "本格手打うどん おか泉",
+    "name_en": "Honkaku Teuchi Udon Okasen",
+    "area": "香川県 綾歌郡宇多津町",
+    "url": "https://tabelog.com/kagawa/A3702/A370202/37000074/",
+    "rating": 3.8,
+    "review_count_tabelog": 1778,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Regional Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 20:00",
+        "dtl_text": "11:00 - 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every Monday and Tuesday (open on public holidays)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 3301,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ50nPXtLYUzURzM_8Cpk_qrY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000074-23f5fce1078249ef467dc607d1a82cea798765dda964fa1a3702c95071576494.jpg",
+    "place_id": "ChIJ50nPXtLYUzURzM_8Cpk_qrY",
+    "g_name": "本格手打うどん おか泉",
+    "g_rating": 4.3,
+    "g_reviews": 3301,
+    "g_address": "日本、〒769-0208 香川県綾歌郡宇多津町浜八番丁１２９−１０",
+    "lat": 34.30929080000001,
+    "lng": 133.8209958
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "飯野屋",
+    "name_en": "Iinoya",
+    "area": "香川県 丸亀市",
+    "url": "https://tabelog.com/kagawa/A3702/A370202/37000136/",
+    "rating": 3.69,
+    "review_count_tabelog": 257,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "10:00 - 15:00",
+        "dtl_text": "10:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The fourth Tuesday of each month"
+    },
+    "google_rating": 3.8,
+    "google_reviews": 491,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJRx_bPv3YUzURkYbhmXdhuGk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000136-2bc52ed0919317724673e63cb6748bbb55f2cf5498a122ee038b2ab00179a5e1.jpg",
+    "place_id": "ChIJRx_bPv3YUzURkYbhmXdhuGk",
+    "g_name": "うどん 飯野屋",
+    "g_rating": 3.8,
+    "g_reviews": 491,
+    "g_address": "日本、〒763-0084 香川県丸亀市飯野町東二１８８８−１",
+    "lat": 34.2809192,
+    "lng": 133.8277185
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "中西うどん",
+    "name_en": "Nakanishi Udon",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37000040/",
+    "rating": 3.79,
+    "review_count_tabelog": 829,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Tempura, Oden",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "09:00 - 15:00",
+        "dtl_text": "09:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.9,
+    "google_reviews": 1510,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJNyAXdBrqUzURejd0G5HHbNo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000040-e3909034fd590c71a55e797b0bd2bfc7757cb08d1f56a30096a320c8f74d47b7.jpg",
+    "place_id": "ChIJNyAXdBrqUzURejd0G5HHbNo",
+    "g_name": "中西うどん",
+    "g_rating": 3.9,
+    "g_reviews": 1510,
+    "g_address": "日本、〒761-8082 香川県高松市鹿角町８２３−１",
+    "lat": 34.3022181,
+    "lng": 134.0294558
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "谷川米穀店",
+    "name_en": "Tanikawa Beikokuten",
+    "area": "香川県 仲多度郡まんのう町",
+    "url": "https://tabelog.com/kagawa/A3703/A370302/37000011/",
+    "rating": 3.9,
+    "review_count_tabelog": 1242,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "10:30 - 13:30",
+        "dtl_text": "10:30 - 13:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 1463,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJdx4gG2TOUzURYlTD6dGkxlU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000011-31798a1ae14f1a54942b94bbb6b283fe587a6883deab5c9ef86169072304cc3b.jpg",
+    "place_id": "ChIJdx4gG2TOUzURYlTD6dGkxlU",
+    "g_name": "谷川米殻店",
+    "g_rating": 4.2,
+    "g_reviews": 1463,
+    "g_address": "日本、〒766-0203 香川県仲多度郡まんのう町川東１４９０",
+    "lat": 34.111341,
+    "lng": 133.9764404
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "麺匠 くすがみ",
+    "name_en": "Mensho Kusugami",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37008913/",
+    "rating": 3.64,
+    "review_count_tabelog": 237,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles), Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 14:30",
+        "dtl_text": "10:00 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays (the following day if it falls on a public holiday)"
+    },
+    "google_rating": 4,
+    "google_reviews": 589,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJe8zYJqHrUzURrQmEKPFFwUM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37008913-c8f9067d09f066afc1ee53e82f4dfd662b2162e1de6fa3b37dfe626304f7957f.jpg",
+    "place_id": "ChIJe8zYJqHrUzURrQmEKPFFwUM",
+    "g_name": "麺匠 くすがみ",
+    "g_rating": 4,
+    "g_reviews": 589,
+    "g_address": "日本、〒760-0075 香川県高松市楠上町２丁目６−３６",
+    "lat": 34.3285966,
+    "lng": 134.0554754
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "長田うどん",
+    "name_en": "Nagata Udon",
+    "area": "香川県 仲多度郡まんのう町",
+    "url": "https://tabelog.com/kagawa/A3703/A370302/37000005/",
+    "rating": 3.74,
+    "review_count_tabelog": 540,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed",
+        "dtl": "10:00 - 14:00",
+        "dtl_text": "10:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "10:00 - 15:00",
+        "dtl_text": "10:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu, Fri",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.8,
+    "google_reviews": 1252,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJucWU1NnWUzURDbr5PPs2u2k",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000005-ec62e73b351f94d7fdb15640e50a94e10fb7323366833ceaa6413ea649f837cd.jpg",
+    "place_id": "ChIJucWU1NnWUzURDbr5PPs2u2k",
+    "g_name": "長田うどん",
+    "g_rating": 3.8,
+    "g_reviews": 1252,
+    "g_address": "日本、〒766-0023 香川県仲多度郡まんのう町吉野１２９０−１",
+    "lat": 34.1851132,
+    "lng": 133.8575425
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "西端手打 上戸うどん",
+    "name_en": "Seitan Teuchi Joto Udon",
+    "area": "香川県 観音寺市",
+    "url": "https://tabelog.com/kagawa/A3703/A370301/37000152/",
+    "rating": 3.78,
+    "review_count_tabelog": 840,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "06:00 - 14:00",
+        "dtl_text": "06:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 1295,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVchqKaUTURnfebyn3sxpE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000152-12aeec2139ce733b656f51c532d4b5c1dea9d12ace48f9e039ca365926cab14d.jpg",
+    "place_id": "ChIJVVVchqKaUTURnfebyn3sxpE",
+    "g_name": "西端手打 上戸うどん(じょうと)",
+    "g_rating": 4.1,
+    "g_reviews": 1295,
+    "g_address": "日本、〒769-1604 香川県観音寺市豊浜町箕浦９７４−１",
+    "lat": 34.0479999,
+    "lng": 133.6189001
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "ざいごうどん 本家 わら家",
+    "name_en": "Zaigoudon Honke Waraya",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37000057/",
+    "rating": 3.75,
+    "review_count_tabelog": 1062,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "09:30 - 18:00 L.O. 17:30",
+        "dtl_text": "09:30 - 18:00 L.O. 17:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 2837,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJwZ8XekeTUzURVupj12LoTcQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000057-7e1efafa94cce1bbbb03ac576fd46d8272ca7e9a28e587ab6b0bd8b01e4c69d7.jpg",
+    "place_id": "ChIJwZ8XekeTUzURVupj12LoTcQ",
+    "g_name": "ざいごうどん 本家わら家",
+    "g_rating": 4.1,
+    "g_reviews": 2837,
+    "g_address": "日本、〒761-0112 香川県高松市屋島中町９１",
+    "lat": 34.343744,
+    "lng": 134.108235
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "川福 本店",
+    "name_en": "Kawafuku Hon Ten",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37000034/",
+    "rating": 3.66,
+    "review_count_tabelog": 646,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Udon-suki, Cafeteria",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "11:00 - 14:00",
+        "dtl_text": "11:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:00 18:00 - 22:00 L.O. Food 21:30",
+        "dtl_text": "18:00 - 22:00 L.O. Food 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 974,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmffh9ITrUzURNxfTQ44CX8E",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000034-d7829d2e4a39a5214de8bec54b5412730f17eb5ce0eb2ce656c1c11d6e0381c7.jpg",
+    "place_id": "ChIJmffh9ITrUzURNxfTQ44CX8E",
+    "g_name": "川福",
+    "g_rating": 4.1,
+    "g_reviews": 974,
+    "g_address": "日本、〒760-0042 香川県高松市大工町２−１",
+    "lat": 34.344896,
+    "lng": 134.051949
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "手打うどん はりや",
+    "name_en": "Teuchi Udon Hariya",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37000049/",
+    "rating": 3.83,
+    "review_count_tabelog": 535,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 14:00",
+        "dtl_text": "11:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 1054,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJr3W1SmfpUzURuRaLkBeT1t8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000049-1989d60ffb6c3c236a352fb29bc6964dff0ff54860001506e1e4d5e9b2a39841.jpg",
+    "place_id": "ChIJr3W1SmfpUzURuRaLkBeT1t8",
+    "g_name": "手打ちうどん はりや",
+    "g_rating": 4.2,
+    "g_reviews": 1054,
+    "g_address": "日本、〒761-8031 香川県高松市郷東町５８７−１７４",
+    "lat": 34.3493514,
+    "lng": 134.0151616
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "手打ちうどんますや",
+    "name_en": "Teuchi Udon Masuya",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37005861/",
+    "rating": 3.86,
+    "review_count_tabelog": 342,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays, public holidays, and the third Saturday of each month"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 597,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJu8pLmqzsUzURST6s5_kVltc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37005861-5e63a414a5d9f653d3794f03e6ee6bb49b6f92e831fefab33eb17da064db9e9b.jpg",
+    "place_id": "ChIJu8pLmqzsUzURST6s5_kVltc",
+    "g_name": "手打ちうどん ますや",
+    "g_rating": 4.3,
+    "g_reviews": 597,
+    "g_address": "日本、〒761-0101 香川県高松市春日町１７４３−２",
+    "lat": 34.3373323,
+    "lng": 134.0944567
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "手打ちうどん 鶴丸",
+    "name_en": "Teuchi Udon Tsurumaru",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37000044/",
+    "rating": 3.75,
+    "review_count_tabelog": 1525,
+    "price_dinner": "～￥999",
+    "price_lunch": "-",
+    "sub_categories": "Udon (Wheat noodles), Curry Udon, Oden",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "20:00 - 02:00",
+        "dtl_text": "20:00 - 02:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 2008,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJzZ1TJvrUzURXST8qAQ2wT0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000044-9e5ef21a227912124c48ef798183be1836a8f10d78090f150e159557ad28de8f.jpg",
+    "place_id": "ChIJJzZ1TJvrUzURXST8qAQ2wT0",
+    "g_name": "手打ちうどん 鶴丸",
+    "g_rating": 4.2,
+    "g_reviews": 2008,
+    "g_address": "日本、〒760-0045 香川県高松市古馬場町９−３４",
+    "lat": 34.342381,
+    "lng": 134.0523956
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "うどん さか枝",
+    "name_en": "Udon Sakaeda",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37000026/",
+    "rating": 3.79,
+    "review_count_tabelog": 1645,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Public Holiday",
+        "dtl": "07:00 - 15:00",
+        "dtl_text": "07:00 - 15:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed; we may be open on some Saturdays. Please check our social media for details."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 2333,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJC_VmoZXrUzURqKwqDf9kWZg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000026-5b0f40c42e821f59203ae351da17c8d5d6c5c36f7ece799420c6ca72c989ee5a.jpg",
+    "place_id": "ChIJC_VmoZXrUzURqKwqDf9kWZg",
+    "g_name": "さか枝うどん 本店",
+    "g_rating": 4.2,
+    "g_reviews": 2333,
+    "g_address": "日本、〒760-0017 香川県高松市番町５丁目２−２３",
+    "lat": 34.3398291,
+    "lng": 134.0416258
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "山越うどん",
+    "name_en": "Yamagoe Udon",
+    "area": "香川県 綾歌郡綾川町",
+    "url": "https://tabelog.com/kagawa/A3702/A370202/37000080/",
+    "rating": 3.85,
+    "review_count_tabelog": 2548,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Deep-fried foods",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat",
+        "dtl": "09:00 - 13:30",
+        "dtl_text": "09:00 - 13:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Closed during the year-end and New Year holidays. Temporary closures may occur on weekdays following long holidays (such as Golden Week and Silver Week) and after the Obon period. Please check our website for updates."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 5090,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJnaB9Id_aUzURer7v8A0LnYM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000080-a77dd3aabd66f91da4b23c5a54056e5f82a74b4c0696e43f2f268e47e8c12806.jpg",
+    "place_id": "ChIJnaB9Id_aUzURer7v8A0LnYM",
+    "g_name": "山越うどん",
+    "g_rating": 4.3,
+    "g_reviews": 5090,
+    "g_address": "日本、〒761-2207 香川県綾歌郡綾川町羽床上６０２−２",
+    "lat": 34.2257689,
+    "lng": 133.928204
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "手打ちうどん つるや",
+    "name_en": "Teuchi Udon Tsuruya",
+    "area": "香川県 観音寺市",
+    "url": "https://tabelog.com/kagawa/A3703/A370301/37000148/",
+    "rating": 3.67,
+    "review_count_tabelog": 480,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 20:00",
+        "dtl_text": "10:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.9,
+    "google_reviews": 1432,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJLSr7uAKDUTURpLGJ54QUV1I",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000148-b407e080fb1035d93be22995b98bccc30e89edf0beeead8589d669491659ee25.jpg",
+    "place_id": "ChIJLSr7uAKDUTURpLGJ54QUV1I",
+    "g_name": "手打ちうどん つるや",
+    "g_rating": 3.9,
+    "g_reviews": 1432,
+    "g_address": "日本、〒768-0067 香川県観音寺市坂本町３丁目７−１８",
+    "lat": 34.1269739,
+    "lng": 133.6671228
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "准手打ちな 満福うどん",
+    "name_en": "Jun Teuchi na Manpuku Udon",
+    "area": "香川県 丸亀市",
+    "url": "https://tabelog.com/kagawa/A3702/A370202/37010831/",
+    "rating": 3.64,
+    "review_count_tabelog": 73,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Ramen",
+    "hours_raw": [],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 306,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJt6L_9KjbUzURnYGOnqhTTYk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37010831-24480b0d3639f104d60b1b5799123b970f8c6141eb184cc45cd5ea8af06d0cf1.jpg",
+    "place_id": "ChIJt6L_9KjbUzURnYGOnqhTTYk",
+    "g_name": "准手打ちなさぬきうどん満福",
+    "g_rating": 4.2,
+    "g_reviews": 306,
+    "g_address": "日本、〒762-0081 香川県丸亀市飯山町東坂元３６２６−１",
+    "lat": 34.2695626,
+    "lng": 133.8795354
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "やなぎ屋 西大浜店",
+    "name_en": "Yanagiya Nishi Oohama Ten",
+    "area": "香川県 坂出市",
+    "url": "https://tabelog.com/kagawa/A3702/A370201/37005702/",
+    "rating": 3.67,
+    "review_count_tabelog": 443,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Tempura",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "06:00 - 20:00",
+        "dtl_text": "06:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The second and fourth Sundays of each month."
+    },
+    "google_rating": 3.8,
+    "google_reviews": 1375,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJg2u8eOneUzURbqfhRso-xXc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37005702-e1b89e571fb00b410f44215ab6dd35063b2fbf1b204046a777f40f46570a5b92.jpg",
+    "place_id": "ChIJg2u8eOneUzURbqfhRso-xXc",
+    "g_name": "讃岐うどん やなぎ屋 西大浜店",
+    "g_rating": 3.8,
+    "g_reviews": 1375,
+    "g_address": "日本、〒762-0053 香川県坂出市西大浜北２丁目４８−２２",
+    "lat": 34.322135,
+    "lng": 133.8430778
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "あやうた製麺",
+    "name_en": "Ayauta Seimen",
+    "area": "香川県 丸亀市",
+    "url": "https://tabelog.com/kagawa/A3702/A370202/37007004/",
+    "rating": 3.71,
+    "review_count_tabelog": 244,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Sat, Sun",
+        "dtl": "11:00 - 14:00",
+        "dtl_text": "11:00 - 14:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu, Fri",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.9,
+    "google_reviews": 369,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJd4ncKQPZUzUR5ABCSUFPmvw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37007004-989155994ec0880b883fe8500c2a205b01f86ba409e2cbd8a76f5a78fba536ee.jpg",
+    "place_id": "ChIJd4ncKQPZUzUR5ABCSUFPmvw",
+    "g_name": "あやうた製麺",
+    "g_rating": 3.9,
+    "g_reviews": 369,
+    "g_address": "日本、〒761-2403 香川県丸亀市綾歌町岡田西１７８５",
+    "lat": 34.2323152,
+    "lng": 133.8417936
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "釜揚げうどん岡じま 丸亀店",
+    "name_en": "Kamaage Udon Okajima Marugame Ten",
+    "area": "香川県 丸亀市",
+    "url": "https://tabelog.com/kagawa/A3702/A370202/37007722/",
+    "rating": 3.67,
+    "review_count_tabelog": 311,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "06:00 - 15:00",
+        "dtl_text": "06:00 - 15:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.7,
+    "google_reviews": 799,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJOxNmd49iUTURnL7mrPFycEg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37007722-b28899c78a5b0f34856d73bf48e04a7fe4509030470c2478318c90c982726df0.jpg",
+    "place_id": "ChIJOxNmd49iUTURnL7mrPFycEg",
+    "g_name": "セルフ釜揚げうどん岡じま 丸亀店",
+    "g_rating": 3.7,
+    "g_reviews": 799,
+    "g_address": "日本、〒763-0065 香川県丸亀市塩屋町３丁目１１−２４",
+    "lat": 34.2865278,
+    "lng": 133.7765972
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "うどん屋 まつはま",
+    "name_en": "Udonya Matsuhama",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37005468/",
+    "rating": 3.68,
+    "review_count_tabelog": 168,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:30 - 14:00",
+        "dtl_text": "10:30 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 415,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAUU4IDTrUzURLuZ8K3Q-2aY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37005468-159c03e0df7814a45fff92faea63f0574320c3124580b6fbb25b8ad4f2d1dd45.jpg",
+    "place_id": "ChIJAUU4IDTrUzURLuZ8K3Q-2aY",
+    "g_name": "うどん屋 まつはま",
+    "g_rating": 4.1,
+    "g_reviews": 415,
+    "g_address": "日本、〒761-0311 香川県高松市元山町３０８−１",
+    "lat": 34.3127683,
+    "lng": 134.091314
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "多田製麺所",
+    "name_en": "Tada Seimensho",
+    "area": "香川県 木田郡三木町",
+    "url": "https://tabelog.com/kagawa/A3701/A370102/37000244/",
+    "rating": 3.63,
+    "review_count_tabelog": 213,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "08:00 - 15:00",
+        "dtl_text": "08:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 646,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJhcVG3w-VUzURdte-cpjKzHU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000244-b8fc091448899c2f651556898ef9a05f83414a20021a93c228681766933ce8a9.jpg",
+    "place_id": "ChIJhcVG3w-VUzURdte-cpjKzHU",
+    "g_name": "多田製麺所",
+    "g_rating": 4.1,
+    "g_reviews": 646,
+    "g_address": "日本、〒761-0701 香川県木田郡三木町池戸２９１８",
+    "lat": 34.2728282,
+    "lng": 134.1245188
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "古奈や",
+    "name_en": "Kona Ya",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37001256/",
+    "rating": 3.73,
+    "review_count_tabelog": 229,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "07:00 - 14:00",
+        "dtl_text": "07:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 559,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-4qz6O_pUzURiQEtg5t7dhg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37001256-c7746b8b259e8d01367f2461e0246e9b3e9cd035e39be5aa139f25d24d7e4511.jpg",
+    "place_id": "ChIJ-4qz6O_pUzURiQEtg5t7dhg",
+    "g_name": "手打ちうどん 古奈や",
+    "g_rating": 4.1,
+    "g_reviews": 559,
+    "g_address": "日本、〒761-8058 香川県高松市勅使町３０２−７",
+    "lat": 34.3087574,
+    "lng": 134.0098107
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "宮武うどん",
+    "name_en": "Miyatake Udon",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37005339/",
+    "rating": 3.77,
+    "review_count_tabelog": 716,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Tempura",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "09:30 - 15:00",
+        "dtl_text": "09:30 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 1378,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJtfNVoG3CUzURsg6AOqHApQg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37005339-849165602648e2b6bedb277611545e3b68b283604001f7e8f288c53ace274749.jpg",
+    "place_id": "ChIJtfNVoG3CUzURsg6AOqHApQg",
+    "g_name": "宮武うどん",
+    "g_rating": 4.1,
+    "g_reviews": 1378,
+    "g_address": "日本、〒761-8044 香川県高松市円座町３４０−１",
+    "lat": 34.2938758,
+    "lng": 133.9982989
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "本格手打ちうどん もり",
+    "name_en": "Honkaku Teuchi Udon Mori",
+    "area": "香川県 三豊市",
+    "url": "https://tabelog.com/kagawa/A3703/A370303/37009664/",
+    "rating": 3.84,
+    "review_count_tabelog": 385,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri",
+        "dtl": "10:00 - 14:00",
+        "dtl_text": "10:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "09:00 - 14:00",
+        "dtl_text": "09:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Weekdays": {}
+      },
+      "closed_on": "Tuesdays (Closed the following day if a holiday falls on Tuesday)"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 589,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJXQ3drnd5UTUR1T6KFLolqNs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37009664-497086f3bf087615e50154f5f4f02c932bcb2815ce28309f0334cad5e74dbb7c.jpg",
+    "place_id": "ChIJXQ3drnd5UTUR1T6KFLolqNs",
+    "g_name": "本格手打ちうどん もり",
+    "g_rating": 4.1,
+    "g_reviews": 589,
+    "g_address": "日本、〒767-0013 香川県三豊市高瀬町下麻６７８",
+    "lat": 34.1714183,
+    "lng": 133.7488578
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "あづま",
+    "name_en": "Azuma",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37001224/",
+    "rating": 3.66,
+    "review_count_tabelog": 231,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:00",
+        "dtl_text": "11:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJo011RAbCUzURP2eiHtNHkRg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37001224-8357021af636574fa1ad1e6646e57a16a51d10678b620449ef3233b7804fba4d.jpg",
+    "place_id": "ChIJo011RAbCUzURP2eiHtNHkRg",
+    "g_name": "〒761-8044 香川県高松市円座町８３５−１ あづま",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "日本、〒761-8044 香川県高松市円座町８３５−１ あづま",
+    "lat": 34.2949921,
+    "lng": 134.0118826
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "シラカワ",
+    "name_en": "SIRAKAWA",
+    "area": "香川県 三豊市",
+    "url": "https://tabelog.com/kagawa/A3703/A370303/37000147/",
+    "rating": 3.69,
+    "review_count_tabelog": 235,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:00",
+        "dtl_text": "11:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.7,
+    "google_reviews": 347,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJlTOXqvSBUTURLkugnMQXneA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000147-d54d9c0c28d27980acc4a6f66f43788e4904175cab0489e609e37dce91ea86a8.jpg",
+    "place_id": "ChIJlTOXqvSBUTURLkugnMQXneA",
+    "g_name": "SIRAKAWA",
+    "g_rating": 3.7,
+    "g_reviews": 347,
+    "g_address": "日本、〒768-0102 香川県三豊市山本町大野２８５４−８",
+    "lat": 34.123108,
+    "lng": 133.7188342
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "讃岐つけ麺 寒川",
+    "name_en": "Sanuki Tsukemen Sangawa",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37009958/",
+    "rating": 3.68,
+    "review_count_tabelog": 325,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "-",
+    "sub_categories": "Udon (Wheat noodles), Izakaya (Japanese style tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "19:00 - 00:00",
+        "dtl_text": "19:00 - 00:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 334,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ5T2Rk_qUzURK4hfnuFp2Io",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37009958-ee7cf5f5624051a4085c991a1ccea1a8ec93f35c4d16f2e2ce16126f2f39b753.jpg",
+    "place_id": "ChIJJ5T2Rk_qUzURK4hfnuFp2Io",
+    "g_name": "讃岐つけ麺 寒川",
+    "g_rating": 4.3,
+    "g_reviews": 334,
+    "g_address": "日本、〒760-0028 香川県高松市鍛冶屋町４−１６",
+    "lat": 34.3428165,
+    "lng": 134.0488575
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "しんぺいうどん",
+    "name_en": "Shinpei Udon",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37006884/",
+    "rating": 3.63,
+    "review_count_tabelog": 295,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "-",
+    "sub_categories": "Udon (Wheat noodles), Tempura, Izakaya (Japanese style tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:30 - 21:00",
+        "dtl_text": "17:30 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 805,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJUWxBxZnrUzURqk3WNOcveCw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37006884-7f8fb0a7a6a7bb90a114581f6130e1bc0a8e1028d5e4238f3645f371bd95a53c.jpg",
+    "place_id": "ChIJUWxBxZnrUzURqk3WNOcveCw",
+    "g_name": "しんぺいうどん",
+    "g_rating": 4.2,
+    "g_reviews": 805,
+    "g_address": "日本、〒760-0052 香川県高松市瓦町１丁目4−１１ 第三ビル 1F",
+    "lat": 34.3416027,
+    "lng": 134.05249
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "まつばら",
+    "name_en": "Matsubara",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37008585/",
+    "rating": 3.73,
+    "review_count_tabelog": 293,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Sat, Sun",
+        "dtl": "10:00 - 15:00",
+        "dtl_text": "10:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Fri",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 646,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJeXQTS_LBUzURYWW8qNh_yY8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37008585-e762b1507696379eb3e2318d6b41fd701bcc74bdf97f510419ee09efd8409db1.jpg",
+    "place_id": "ChIJeXQTS_LBUzURYWW8qNh_yY8",
+    "g_name": "手打うどん まつばら",
+    "g_rating": 4.3,
+    "g_reviews": 646,
+    "g_address": "日本、〒761-8085 香川県高松市寺井町１０１５",
+    "lat": 34.2763704,
+    "lng": 134.0271376
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "饂飩家 五右衛門",
+    "name_en": "Udonya Goemon",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37000131/",
+    "rating": 3.62,
+    "review_count_tabelog": 496,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "-",
+    "sub_categories": "Udon (Wheat noodles), Curry Udon, Oden",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "20:00 - 01:30 L.O. Food 01:00",
+        "dtl_text": "20:00 - 01:30 L.O. Food 01:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The last day of long holidays and the following day"
+    },
+    "google_rating": 4,
+    "google_reviews": 493,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3-oCOZvrUzURAfjOFZm_AKc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000131-277f900c224f6b2c513660a53440c75d374ed835bb52b16fc2523727dc5ae2a1.jpg",
+    "place_id": "ChIJ3-oCOZvrUzURAfjOFZm_AKc",
+    "g_name": "うどん家 五右衛門",
+    "g_rating": 4,
+    "g_reviews": 493,
+    "g_address": "日本、〒760-0045 香川県高松市古馬場町１３−１５",
+    "lat": 34.3421444,
+    "lng": 134.0518944
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "手打ちうどん むさし",
+    "name_en": "Teuchi Udon Musashi",
+    "area": "香川県 仲多度郡琴平町",
+    "url": "https://tabelog.com/kagawa/A3703/A370302/37000722/",
+    "rating": 3.68,
+    "review_count_tabelog": 355,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Curry Udon",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 15:00 17:00 - 20:00",
+        "dtl_text": "17:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 886,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDb5QcVjWUzURL56CfiTR894",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000722-13b41bc3ed536a96389601a7c14033796e321d80ccf42edc27254029a0bd958b.jpg",
+    "place_id": "ChIJDb5QcVjWUzURL56CfiTR894",
+    "g_name": "手打うどん むさし",
+    "g_rating": 4,
+    "g_reviews": 886,
+    "g_address": "日本、〒766-0003 香川県仲多度郡琴平町五條６３７−２",
+    "lat": 34.1898797,
+    "lng": 133.8286883
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "手打ちうどん 歩",
+    "name_en": "Teuchi Udon Ayumi",
+    "area": "香川県 丸亀市",
+    "url": "https://tabelog.com/kagawa/A3702/A370202/37001376/",
+    "rating": 3.68,
+    "review_count_tabelog": 281,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "10:30 - 15:00",
+        "dtl_text": "10:30 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 849,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDxRt2KjZUzURcxR-ObpNiiU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37001376-b9f39a06195659bc7f112bcba040c7364d1e27c78fdcf5dafd13d34d792294e2.jpg",
+    "place_id": "ChIJDxRt2KjZUzURcxR-ObpNiiU",
+    "g_name": "手打ちうどん 歩",
+    "g_rating": 4.2,
+    "g_reviews": 849,
+    "g_address": "日本、〒763-0084 香川県丸亀市飯野町東二４８４",
+    "lat": 34.2650611,
+    "lng": 133.8362822
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "中村うどん",
+    "name_en": "Nakamura Udon",
+    "area": "香川県 丸亀市",
+    "url": "https://tabelog.com/kagawa/A3702/A370202/37000135/",
+    "rating": 3.82,
+    "review_count_tabelog": 1211,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Sat, Sun",
+        "dtl": "10:00 - 14:00",
+        "dtl_text": "10:00 - 14:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Fri",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 2026,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-9rKKK7ZUzURQ4sbn2YjQuU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000135-85f618eb914ad0496448ed8e37df58b300168838bd6e833d5c6d9c3a3bc077ae.jpg",
+    "place_id": "ChIJ-9rKKK7ZUzURQ4sbn2YjQuU",
+    "g_name": "なかむらうどん",
+    "g_rating": 4.1,
+    "g_reviews": 2026,
+    "g_address": "日本、〒762-0087 香川県丸亀市飯山町西坂元１３７３−３",
+    "lat": 34.2604183,
+    "lng": 133.8357613
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "かなくま餅",
+    "name_en": "Kanakuma Mochi",
+    "area": "香川県 観音寺市",
+    "url": "https://tabelog.com/kagawa/A3703/A370301/37000510/",
+    "rating": 3.68,
+    "review_count_tabelog": 190,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Cafeteria, Japanese traditional sweets",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat",
+        "dtl": "08:00 - 15:00",
+        "dtl_text": "08:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 814,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJlS17J_SCUTURBW9_O3m0sL4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000510-93713b0fc3634b49fc278761cf18027ad6fee2c5e97fd02ed30f218ae5028dd9.jpg",
+    "place_id": "ChIJlS17J_SCUTURBW9_O3m0sL4",
+    "g_name": "本場かなくま餅福田",
+    "g_rating": 4.2,
+    "g_reviews": 814,
+    "g_address": "日本、〒768-0014 香川県観音寺市流岡町１４３６−２",
+    "lat": 34.13905099999999,
+    "lng": 133.6728115
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "元祖しょうゆうどん 小縣家",
+    "name_en": "Ganso Shoyu Udon Ogataya",
+    "area": "香川県 仲多度郡まんのう町",
+    "url": "https://tabelog.com/kagawa/A3703/A370302/37000004/",
+    "rating": 3.68,
+    "review_count_tabelog": 546,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Oden",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:30 - 14:30",
+        "dtl_text": "10:30 - 14:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.8,
+    "google_reviews": 1028,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJlXuwAdfWUzUReJtiO6arXqM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000004-64edf322dcb107655ee0b9a571a07fdc8d06ea4fb4077c2e0f90527d4a77251a.jpg",
+    "place_id": "ChIJlXuwAdfWUzUReJtiO6arXqM",
+    "g_name": "元祖しょうゆうどん 小縣家",
+    "g_rating": 3.8,
+    "g_reviews": 1028,
+    "g_address": "日本、〒766-0023 香川県仲多度郡まんのう町吉野１２９８−２",
+    "lat": 34.1853718,
+    "lng": 133.8589974
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "手打うどん 麦蔵",
+    "name_en": "Teuchi Udon Mugizo",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37000874/",
+    "rating": 3.83,
+    "review_count_tabelog": 811,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Curry Udon, Kara-age (Deep-fried chicken)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "11:00 - 13:30",
+        "dtl_text": "11:00 - 13:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "*Please check our Instagram for announcements regarding temporary closures on weekends and public holidays."
+    },
+    "google_rating": 4.1,
+    "google_reviews": 637,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJscdb03_rUzURa2v4ClQZ2Eg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000874-12a6acae38548e09e295bb0a9a09c92f44b2786008871b74955e56af76e12861.jpg",
+    "place_id": "ChIJscdb03_rUzURa2v4ClQZ2Eg",
+    "g_name": "手打うどん 麦蔵",
+    "g_rating": 4.1,
+    "g_reviews": 637,
+    "g_address": "日本、〒760-0066 香川県高松市福岡町１丁目４８２−５",
+    "lat": 34.3477592,
+    "lng": 134.0602851
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "空海房",
+    "name_en": "Kuukai Bou",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37005722/",
+    "rating": 3.64,
+    "review_count_tabelog": 326,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "06:30 - 15:00",
+        "dtl_text": "06:30 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 3.7,
+    "google_reviews": 1041,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9UcvM0XBUzUR-Hn1HZtB2v4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37005722-ef5530b99ebd6b20b0c1561e9252458671855fa415fac481aa2fc06dc7911436.jpg",
+    "place_id": "ChIJ9UcvM0XBUzUR-Hn1HZtB2v4",
+    "g_name": "讃岐うどん 空海房",
+    "g_rating": 3.7,
+    "g_reviews": 1041,
+    "g_address": "日本、〒761-1401 香川県高松市香南町岡１９９",
+    "lat": 34.2287753,
+    "lng": 134.029493
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "ふるかわうどん",
+    "name_en": "Furukawa Udon",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37000375/",
+    "rating": 3.67,
+    "review_count_tabelog": 159,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Curry Udon",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "10:00 - 15:00",
+        "dtl_text": "10:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.8,
+    "google_reviews": 219,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAQSmzrUzUR1FxwkNGwri4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000375-c9afc57af6dff39dc8815ccb435742700b0a867182ee504a9fc94c47a1252158.jpg",
+    "place_id": "ChIJAQAQSmzrUzUR1FxwkNGwri4",
+    "g_name": "ふるかわうどん",
+    "g_rating": 3.8,
+    "g_reviews": 219,
+    "g_address": "日本、〒760-0080 香川県高松市木太町５０１６−１",
+    "lat": 34.3178551,
+    "lng": 134.0706917
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "手打ちうどん 上田",
+    "name_en": "Teuchi Udon Ueda",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37000564/",
+    "rating": 3.72,
+    "review_count_tabelog": 243,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "09:00 - 15:00",
+        "dtl_text": "09:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "09:00 - 14:00",
+        "dtl_text": "09:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 641,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ-oRM2jqUzURKM-nZz27wGc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000564-4359766295bc96544cd9e83b3251a27cacf43cfdbe7b481eb2bea95655bbb75e.jpg",
+    "place_id": "ChIJZ-oRM2jqUzURKM-nZz27wGc",
+    "g_name": "手打ちうどん 上田",
+    "g_rating": 4.3,
+    "g_reviews": 641,
+    "g_address": "日本、〒761-8074 香川県高松市太田上町７９８−１５",
+    "lat": 34.300002,
+    "lng": 134.0462416
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "大島うどん",
+    "name_en": "Oshima Udon",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37000344/",
+    "rating": 3.75,
+    "review_count_tabelog": 294,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Curry Udon, Oden",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "06:00 - 15:00",
+        "dtl_text": "06:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "January 1 - 4"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 569,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQCMeWrqUzUR5Oc9QA6n_M8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000344-eb8958cfc80cb8aa16a8c1369436550c1c2eb59636cf8e7a0f3fce8af2189401.jpg",
+    "place_id": "ChIJAQCMeWrqUzUR5Oc9QA6n_M8",
+    "g_name": "大島うどん",
+    "g_rating": 4.1,
+    "g_reviews": 569,
+    "g_address": "日本、〒761-8074 香川県高松市太田上町１０５８",
+    "lat": 34.3022533,
+    "lng": 134.0418484
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "手打ちセルフうどん 海侍 其の壱 飯山店",
+    "name_en": "Teuchi Self Udon Kaiji Sonoichi Iiyama Ten",
+    "area": "香川県 丸亀市",
+    "url": "https://tabelog.com/kagawa/A3702/A370202/37006447/",
+    "rating": 3.72,
+    "review_count_tabelog": 262,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "09:00 - 15:00",
+        "dtl_text": "09:00 - 15:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 823,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJgfmX9N7bUzURmUhVIMNZdc0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37006447-42558c6a41774e4ea604aea700df6ff90772b12105c63b7702a3c8bb9e122858.jpg",
+    "place_id": "ChIJgfmX9N7bUzURmUhVIMNZdc0",
+    "g_name": "讃岐うどん海侍其の壱",
+    "g_rating": 4,
+    "g_reviews": 823,
+    "g_address": "日本、〒762-0081 香川県丸亀市飯山町東坂元２７１０−５",
+    "lat": 34.2690658,
+    "lng": 133.8708469
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "まいどまいど",
+    "name_en": "Maido Maido",
+    "area": "香川県 坂出市",
+    "url": "https://tabelog.com/kagawa/A3702/A370201/37005010/",
+    "rating": 3.67,
+    "review_count_tabelog": 202,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 14:00",
+        "dtl_text": "10:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 436,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJnwG67UPZUzURBPvqySUeXbA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37005010-133a0501e86ba3fffd5e11cfcfef896e96c695d241af34f0f80d419798a9a4cb.jpg",
+    "place_id": "ChIJnwG67UPZUzURBPvqySUeXbA",
+    "g_name": "まいどまいど",
+    "g_rating": 4,
+    "g_reviews": 436,
+    "g_address": "日本、〒762-0025 香川県坂出市川津町４５−５",
+    "lat": 34.2827262,
+    "lng": 133.8540509
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "手打ちうどん 清水屋",
+    "name_en": "Teuchi Udon Shimizuya",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37006950/",
+    "rating": 3.71,
+    "review_count_tabelog": 211,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles), Tempura, Curry Udon",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "10:00 - 14:00",
+        "dtl_text": "10:00 - 14:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The restaurant may also close on other irregular days."
+    },
+    "google_rating": 4.1,
+    "google_reviews": 587,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJfxAJAbCUzURevybSyuNG-Q",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37006950-fc01b49c6b133d8c442daaffeb102e7e4368b16ee033587fb6b7a48d80117e6e.jpg",
+    "place_id": "ChIJJfxAJAbCUzURevybSyuNG-Q",
+    "g_name": "手打ちうどん 清水屋",
+    "g_rating": 4.1,
+    "g_reviews": 587,
+    "g_address": "日本、〒761-8081 香川県高松市成合町8",
+    "lat": 34.2955576,
+    "lng": 134.0107658
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "讃岐うどん がもう",
+    "name_en": "Sanuki Udon Gamou",
+    "area": "香川県 坂出市",
+    "url": "https://tabelog.com/kagawa/A3702/A370201/37000019/",
+    "rating": 3.89,
+    "review_count_tabelog": 2748,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "08:30 - 14:00",
+        "dtl_text": "08:30 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Public Holiday",
+        "dtl": "08:30 - 13:00",
+        "dtl_text": "08:30 - 13:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Weekdays": {},
+        "Sat, Sun & Public Holidays": {}
+      },
+      "closed_on": "Not fixed (please check our official website for details)"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 2769,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ_VswKXdUzUR57RHQ0OQru0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000019-a5d96aa95110fa6018e9c2eb6c30da3e6a08cad2e498c9df7b7ba7b0138df7a7.jpg",
+    "place_id": "ChIJJ_VswKXdUzUR57RHQ0OQru0",
+    "g_name": "がもううどん",
+    "g_rating": 4.4,
+    "g_reviews": 2769,
+    "g_address": "日本、〒762-0023 香川県坂出市加茂町４２０−１",
+    "lat": 34.3049975,
+    "lng": 133.9148773
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "手打ちうどん ひさ枝",
+    "name_en": "Teuchi Udon Hisaeda",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37008648/",
+    "rating": 3.77,
+    "review_count_tabelog": 478,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "07:00 - 14:00",
+        "dtl_text": "07:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 1230,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ73bALl3pUzURYNC9QLnxXcw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37008648-3452f0e4b43a3b546875a2762da029fabfd210f28d4a4c743f82582bfee0c960.jpg",
+    "place_id": "ChIJ73bALl3pUzURYNC9QLnxXcw",
+    "g_name": "手打ちうどん ひさ枝",
+    "g_rating": 4.1,
+    "g_reviews": 1230,
+    "g_address": "日本、〒761-8031 香川県高松市郷東町７９６−５３",
+    "lat": 34.3535507,
+    "lng": 134.0106273
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "まえばうどん",
+    "name_en": "Maeba Udon",
+    "area": "香川県 丸亀市",
+    "url": "https://tabelog.com/kagawa/A3702/A370202/37000070/",
+    "rating": 3.72,
+    "review_count_tabelog": 227,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "10:30 - 15:30",
+        "dtl_text": "10:30 - 15:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.8,
+    "google_reviews": 400,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQZHKRTnaUzUROHEVhm66N60",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000070-0bb86db8fef35b0fe6f34b621f82fa14d714bb503bbd186d7c8b1c851007d44c.jpg",
+    "place_id": "ChIJQZHKRTnaUzUROHEVhm66N60",
+    "g_name": "まえばうどん",
+    "g_rating": 3.8,
+    "g_reviews": 400,
+    "g_address": "日本、〒761-2406 香川県丸亀市綾歌町栗熊東４２０−２",
+    "lat": 34.235663,
+    "lng": 133.8825581
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "うどん本陣 山田家 讃岐本店",
+    "name_en": "Udon Honjin Yamada Ya Sanuki Honten",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37000002/",
+    "rating": 3.74,
+    "review_count_tabelog": 1671,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Udon (Wheat noodles), Udon-suki, Deep-fried foods",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Day before public holiday, Day after public holiday",
+        "dtl": "11:00 - 15:00 L.O. 14:50 17:00 - 20:00 L.O. 19:50",
+        "dtl_text": "17:00 - 20:00 L.O. 19:50"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "10:00 - 20:00 L.O. 19:50",
+        "dtl_text": "10:00 - 20:00 L.O. 19:50"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Sat, Sun & Public Holidays": {}
+      },
+      "closed_on": "*For more details, please check the official Yamada family website's business calendar."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 5402,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJHTq9C_6SUzURcamR_rZEdZA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000002-0c5460ebf4fe99baff53833a7b3587d19e562b68df51db2191e8bf75d2b6a1ff.jpg",
+    "place_id": "ChIJHTq9C_6SUzURcamR_rZEdZA",
+    "g_name": "うどん本陣 山田家",
+    "g_rating": 4.3,
+    "g_reviews": 5402,
+    "g_address": "日本、〒761-0121 香川県高松市牟礼町牟礼３１８６",
+    "lat": 34.3532052,
+    "lng": 134.1294815
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "須崎食料品店",
+    "name_en": "Suzaki Shokuryohin Ten",
+    "area": "香川県 三豊市",
+    "url": "https://tabelog.com/kagawa/A3703/A370303/37000143/",
+    "rating": 4.23,
+    "review_count_tabelog": 1840,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "09:00 - 11:30",
+        "dtl_text": "09:00 - 11:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Occasional closures"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 2069,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJRaZoAWt-UTURMP4-WqR6LTE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000143-e0f3cb1b7575bcb3c3b03fbf25291d22a407d8a127f96529965375add1fa899f.jpg",
+    "place_id": "ChIJRaZoAWt-UTURMP4-WqR6LTE",
+    "g_name": "須崎食料品店",
+    "g_rating": 4.5,
+    "g_reviews": 2069,
+    "g_address": "日本、〒767-0014 香川県三豊市高瀬町上麻３７７８",
+    "lat": 34.175128,
+    "lng": 133.769552
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "六車",
+    "name_en": "Muguruma",
+    "area": "香川県 東かがわ市",
+    "url": "https://tabelog.com/kagawa/A3704/A370402/37000251/",
+    "rating": 3.63,
+    "review_count_tabelog": 231,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:00",
+        "dtl_text": "11:00 - 14:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The second Tuesday of each month (if it falls on a public holiday, it will be moved to the following day)."
+    },
+    "google_rating": 4.1,
+    "google_reviews": 440,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJcBmUFqcUzURr-WLB6v2z6E",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37000251-e0ecc0e8c23aa4b864c6b71cdded09b2a7d3041188b5e2012a69a45480b665f4.jpg",
+    "place_id": "ChIJJcBmUFqcUzURr-WLB6v2z6E",
+    "g_name": "麺工房 六車",
+    "g_rating": 4.1,
+    "g_reviews": 440,
+    "g_address": "日本、〒769-2701 香川県東かがわ市湊６−１",
+    "lat": 34.2462466,
+    "lng": 134.3500893
+  },
+  {
+    "category_jp": "うどん",
+    "category_en": "Udon",
+    "region": "KAGAWA",
+    "name": "おうどん 瀬戸晴れ",
+    "name_en": "Oudon Setobare",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37012417/",
+    "rating": 3.87,
+    "review_count_tabelog": 640,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Udon (Wheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Thursdays, 2nd and 4th Wednesdays"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 1331,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJi_af1nKVUzURqL9SommS5yI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/udon_kagawa/37012417-71244c1723e29ae87eca593ea198c5d5cc751009fe681163c5a5f3bae4bbd34a.jpg",
+    "place_id": "ChIJi_af1nKVUzURqL9SommS5yI",
+    "g_name": "おうどん 瀬戸晴れ",
+    "g_rating": 4.2,
+    "g_reviews": 1331,
+    "g_address": "日本、〒761-0121 香川県高松市牟礼町牟礼２６９４−１",
+    "lat": 34.3490006,
+    "lng": 134.1228084
+  }
+]

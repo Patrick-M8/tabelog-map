@@ -1,0 +1,4278 @@
+[
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "もめん",
+    "name_en": "Momen osaka",
+    "area": "大阪府 心斎橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270201/27017665/",
+    "rating": 4.28,
+    "review_count_tabelog": 180,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 56,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJo7P8rhbnAGAROs3bzgnWv38",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/27017665-bdd7e1b4013b0786314f09aae8ed99da052b9e62911d998c31e82b77daa13083.jpg",
+    "place_id": "ChIJo7P8rhbnAGAROs3bzgnWv38",
+    "g_name": "もめん",
+    "g_rating": 4.5,
+    "g_reviews": 56,
+    "g_address": "日本、〒542-0085 大阪府大阪市中央区心斎橋筋２丁目１−３",
+    "lat": 34.6716216,
+    "lng": 135.5021303
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "湖里庵",
+    "name_en": "Korian",
+    "area": "滋賀県 高島市",
+    "url": "https://tabelog.com/shiga/A2505/A250501/25000624/",
+    "rating": 4.35,
+    "review_count_tabelog": 115,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Japanese Cuisine, Regional Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 13:00 17:00 - 18:30",
+        "dtl_text": "17:00 - 18:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays (open on public holidays)"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 67,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJK16x9UCNAWARI6FTpdanFUY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/25000624-3c9c49bebdb863e13dad36edfbe74923ff88042817bc0fb1698493cf61b757b0.jpg",
+    "place_id": "ChIJK16x9UCNAWARI6FTpdanFUY",
+    "g_name": "湖里庵",
+    "g_rating": 4.5,
+    "g_reviews": 67,
+    "g_address": "日本、〒520-1811 滋賀県高島市マキノ町海津２３０７",
+    "lat": 35.4638472,
+    "lng": 136.0740361
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "こにし家",
+    "name_en": "Konishi Ya",
+    "area": "兵庫県 三田駅",
+    "url": "https://tabelog.com/hyogo/A2807/A280703/28015514/",
+    "rating": 3.93,
+    "review_count_tabelog": 107,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:30 - 22:30 L.O. 20:00",
+        "dtl_text": "17:30 - 22:30 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (open on some public holidays)"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 49,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7cl576NmAGARKkO8AFjw9P8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/28015514-2e88f593fe995b678ecfd0e3561b93f7540cef1dc0b50c699ca107efd94d3126.jpg",
+    "place_id": "ChIJ7cl576NmAGARKkO8AFjw9P8",
+    "g_name": "こにし家",
+    "g_rating": 4.4,
+    "g_reviews": 49,
+    "g_address": "日本、〒669-1513 兵庫県三田市三輪１丁目１３−２８",
+    "lat": 34.8919387,
+    "lng": 135.22966
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "きたうら善漁。",
+    "name_en": "Kitaura Zenryo.",
+    "area": "宮崎県 延岡市",
+    "url": "https://tabelog.com/miyazaki/A4505/A450501/45004060/",
+    "rating": 3.97,
+    "review_count_tabelog": 60,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 22:00 L.O. 21:30",
+        "dtl_text": "18:00 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.7,
+    "google_reviews": 70,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ1rjF08ZRzURhMbVT58HtsA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/45004060-8843f4c01c3cb196b92cf2fd45e9884ec46017ef2b02f6844d9f6277e9a6a0f4.jpg",
+    "place_id": "ChIJZ1rjF08ZRzURhMbVT58HtsA",
+    "g_name": "きたうら善漁。",
+    "g_rating": 4.7,
+    "g_reviews": 70,
+    "g_address": "日本、〒882-0821 宮崎県延岡市本町１丁目３−１４",
+    "lat": 32.5798642,
+    "lng": 131.6672848
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "東茶屋 なかむら",
+    "name_en": "Higashi Chaya Nakamura",
+    "area": "大阪府 天神橋筋六丁目駅",
+    "url": "https://tabelog.com/osaka/A2701/A270103/27113956/",
+    "rating": 4.21,
+    "review_count_tabelog": 150,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:30 - 19:30 20:15 - 22:15",
+        "dtl_text": "20:15 - 22:15"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays and other irregular days"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 42,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJSDc2rfnAGARhSfE8r5BqkE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/27113956-f38c27ddc821b5160a5c5278d8c22b7484592bafaae52c0e09ae40fa11d05d0a.jpg",
+    "place_id": "ChIJJSDc2rfnAGARhSfE8r5BqkE",
+    "g_name": "東茶屋 なかむら",
+    "g_rating": 4.4,
+    "g_reviews": 42,
+    "g_address": "日本、〒531-0074 大阪府大阪市北区本庄東１丁目２５−８",
+    "lat": 34.7121209,
+    "lng": 135.5068316
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "馳走 啐啄一十",
+    "name_en": "Chisousottakuito",
+    "area": "広島県 中電前駅",
+    "url": "https://tabelog.com/hiroshima/A3401/A340117/34023887/",
+    "rating": 4.52,
+    "review_count_tabelog": 389,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:00 - 14:00",
+        "dtl_text": "11:00 - 14:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.7,
+    "google_reviews": 134,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJT8FxEwWiWjUR4AmuzFuf5do",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/34023887-4f79f8dea3ec19bdb1bf80173786036b7ad13bca57fa14829d91180debe1992c.jpg",
+    "place_id": "ChIJT8FxEwWiWjUR4AmuzFuf5do",
+    "g_name": "馳走 啐啄一十",
+    "g_rating": 4.7,
+    "g_reviews": 134,
+    "g_address": "日本、〒730-0043 広島県広島市中区中区富士見町５−１ 随木ビル１階",
+    "lat": 34.3874704,
+    "lng": 132.4608108
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "おぎたに",
+    "name_en": "Ogitani",
+    "area": "兵庫県 塚口（阪急）駅",
+    "url": "https://tabelog.com/hyogo/A2803/A280304/28064317/",
+    "rating": 3.99,
+    "review_count_tabelog": 52,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 18,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJgYODCNDxAGARKP3ZD89xcA0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/28064317-d31f0ee1ab6dfb0433cd2a290d85006319dc64a235404ecd7ffd2e99be03b458.jpg",
+    "place_id": "ChIJgYODCNDxAGARKP3ZD89xcA0",
+    "g_name": "おぎたに",
+    "g_rating": 4.6,
+    "g_reviews": 18,
+    "g_address": "日本、〒661-0001 兵庫県尼崎市塚口本町１丁目２−１４",
+    "lat": 34.7541435,
+    "lng": 135.4163948
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "東山 緒方",
+    "name_en": "Higashiyama Ogata",
+    "area": "京都府 東山駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260301/26036476/",
+    "rating": 4.15,
+    "review_count_tabelog": 128,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "16:00 - 18:30 19:00 - 21:30",
+        "dtl_text": "19:00 - 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 43,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJUSt8gkgJAWART-sAzp4tPUU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/26036476-b2a0947bd93b8c887f77da87fb1b88fc11357e4e1d411e9d945a31bee45ec869.jpg",
+    "place_id": "ChIJUSt8gkgJAWART-sAzp4tPUU",
+    "g_name": "東山 緒方",
+    "g_rating": 4.1,
+    "g_reviews": 43,
+    "g_address": "日本、〒606-8344 京都府京都市左京区岡崎円勝寺町９１−５ 眞松庵 1F",
+    "lat": 35.0113738,
+    "lng": 135.7846933
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "料理 小松",
+    "name_en": "Ryori Komatsu",
+    "area": "石川県 金沢市",
+    "url": "https://tabelog.com/ishikawa/A1701/A170101/17010847/",
+    "rating": 3.95,
+    "review_count_tabelog": 46,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 21:30 L.O. 20:30",
+        "dtl_text": "18:00 - 21:30 L.O. 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.7,
+    "google_reviews": 47,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJXQ4Dvnk0-F8RQyBrRzqwCpE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/17010847-896b716f274b799df950b950d1c4f5fac47ee8edf25c18c6f6f2324231455587.jpg",
+    "place_id": "ChIJXQ4Dvnk0-F8RQyBrRzqwCpE",
+    "g_name": "料理小松",
+    "g_rating": 4.7,
+    "g_reviews": 47,
+    "g_address": "日本、〒920-0968 石川県金沢市幸町１１−２９",
+    "lat": 36.5548505,
+    "lng": 136.6581347
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "料理屋 稲家",
+    "name_en": "Ryoriya Inaya",
+    "area": "大阪府 北新地駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27121156/",
+    "rating": 4.02,
+    "review_count_tabelog": 149,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays, Not fixed"
+    },
+    "google_rating": 4.7,
+    "google_reviews": 42,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJp-7no3rnAGARcJL9UBckvdw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/27121156-185c52bd2f25bd8796495cca1cbff80eba02429ad5970207a3a03a4e4650a9fd.jpg",
+    "place_id": "ChIJp-7no3rnAGARcJL9UBckvdw",
+    "g_name": "料理屋 稲家",
+    "g_rating": 4.7,
+    "g_reviews": 42,
+    "g_address": "日本、〒530-0002 大阪府大阪市北区 曽根崎新地1丁目-10-2 北新地プレイス7階",
+    "lat": 34.6980061,
+    "lng": 135.4979247
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "飯田",
+    "name_en": "Iida",
+    "area": "京都府 京都市役所前駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260202/26016833/",
+    "rating": 4.58,
+    "review_count_tabelog": 230,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 20:00",
+        "dtl_text": "18:00 - 20:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 42,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJG5LHJo4IAWARwlEt_RG8bEE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/26016833-74904da6c37b0521c58695e0df5cc034791941ed85e48e29ed45491e98eb88ec.jpg",
+    "place_id": "ChIJG5LHJo4IAWARwlEt_RG8bEE",
+    "g_name": "飯田",
+    "g_rating": 4.5,
+    "g_reviews": 42,
+    "g_address": "日本、〒604-8084 京都府京都市中京区福長町１２０−１",
+    "lat": 35.0097736,
+    "lng": 135.764792
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "米増",
+    "name_en": "Yonemasu",
+    "area": "大阪府 福島（ＪＲ西日本）駅",
+    "url": "https://tabelog.com/osaka/A2701/A270108/27095726/",
+    "rating": 4.36,
+    "review_count_tabelog": 213,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays and Sundays"
+    },
+    "google_rating": 3.5,
+    "google_reviews": 382,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQPoMWDmAGARdnG-pSslVQM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/27095726-3470855d4b531b37df2e8796a6e03942f7fd209a94f420270037226fa3c15414.jpg",
+    "place_id": "ChIJAQPoMWDmAGARdnG-pSslVQM",
+    "g_name": "福島駅",
+    "g_rating": 3.5,
+    "g_reviews": 382,
+    "g_address": "日本、〒553-0003 大阪府大阪市福島区福島７丁目１−３",
+    "lat": 34.6971596,
+    "lng": 135.4866504
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "澤田",
+    "name_en": "SAWADA",
+    "area": "大阪府 新福島駅",
+    "url": "https://tabelog.com/osaka/A2701/A270108/27137065/",
+    "rating": 4.32,
+    "review_count_tabelog": 138,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays and not fixed"
+    },
+    "google_rating": 4.9,
+    "google_reviews": 23,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJF_KejkPnAGARbqXEXI55f3U",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/27137065-1b9376182456dc3f12d3ffa703cf3fd62201ccd01c290a5b9598ce6b1c299aa9.jpg",
+    "place_id": "ChIJF_KejkPnAGARbqXEXI55f3U",
+    "g_name": "澤田",
+    "g_rating": 4.9,
+    "g_reviews": 23,
+    "g_address": "日本、〒553-0003 大阪府大阪市福島区福島４丁目２−５０",
+    "lat": 34.6930705,
+    "lng": 135.4825167
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "みつき",
+    "name_en": "Mitsuki",
+    "area": "鳥取県 鳥取市",
+    "url": "https://tabelog.com/tottori/A3101/A310101/31004889/",
+    "rating": 4.15,
+    "review_count_tabelog": 94,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 43,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJkwTr-emPVTURPy1Tw3kPbKk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/31004889-dd855d590f7321fc0f61116cb19d71fd85a35e5eb3f759a2037aeef961bf4240.jpg",
+    "place_id": "ChIJkwTr-emPVTURPy1Tw3kPbKk",
+    "g_name": "みつき",
+    "g_rating": 4.3,
+    "g_reviews": 43,
+    "g_address": "日本、〒680-0833 鳥取県鳥取市末広温泉町１１０",
+    "lat": 35.4964582,
+    "lng": 134.229966
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "旬席 鈴江",
+    "name_en": "Shunseki Suzue",
+    "area": "京都府 東山駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260301/26014309/",
+    "rating": 4.35,
+    "review_count_tabelog": 201,
+    "price_dinner": "￥80,000～￥99,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 20:00",
+        "dtl_text": "17:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mid-August and Year-end & New Year Holidays"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 56,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6dNDTjoIAWARr9bPHA9wfk4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/26014309-13a1e92ae72ed0c7cf21083652e29b223f83e6a6831a7907e03c4e773a74a857.jpg",
+    "place_id": "ChIJ6dNDTjoIAWARr9bPHA9wfk4",
+    "g_name": "旬席 鈴江",
+    "g_rating": 4.4,
+    "g_reviews": 56,
+    "g_address": "日本、〒606-8344 京都府京都市左京区岡崎円勝寺町５８−１",
+    "lat": 35.0111516,
+    "lng": 135.7819755
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "柏屋 大阪千里山",
+    "name_en": "Kashiwaya Osaka Senriyama",
+    "area": "大阪府 関大前駅",
+    "url": "https://tabelog.com/osaka/A2706/A270602/27001141/",
+    "rating": 4.08,
+    "review_count_tabelog": 204,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays and public holidays (not fixed, please inquire)"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 274,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJqfvZeunkAGAR_NKRUEtRPXE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/27001141-427d401928728d10f0603b9c8ae5495a0d349e9c6dc278fe9c0916bb1a3a1deb.jpg",
+    "place_id": "ChIJqfvZeunkAGAR_NKRUEtRPXE",
+    "g_name": "柏屋 大阪千里山",
+    "g_rating": 4.5,
+    "g_reviews": 274,
+    "g_address": "日本、〒565-0851 大阪府吹田市千里山西２丁目５−１８",
+    "lat": 34.7703154,
+    "lng": 135.501178
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "おたぎ",
+    "name_en": "Otaki",
+    "area": "京都府 京都市北区",
+    "url": "https://tabelog.com/kyoto/A2601/A260503/26031202/",
+    "rating": 4.04,
+    "review_count_tabelog": 60,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.9,
+    "google_reviews": 44,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAAAUIAWARFIHH0dO_3fc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/26031202-c22452a24ea20c5bf0b0a96df2f0cf6c7a6a946659d7633e76c3b8a96c8b50f2.jpg",
+    "place_id": "ChIJAQAAAAUIAWARFIHH0dO_3fc",
+    "g_name": "おたぎ",
+    "g_rating": 4.9,
+    "g_reviews": 44,
+    "g_address": "日本、〒603-8465 京都府京都市北区鷹峯土天井町１８",
+    "lat": 35.0507392,
+    "lng": 135.7341132
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "緒方",
+    "name_en": "Ogata",
+    "area": "京都府 四条（京都市営）駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260201/26012136/",
+    "rating": 4.54,
+    "review_count_tabelog": 552,
+    "price_dinner": "-",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 162,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKV-kY5wIAWAR63MGW1r_MaY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/26012136-3f56da3f9a8fa6cadfb70a94d8221604d93c3cd560915e33b071d3b8a77d2181.jpg",
+    "place_id": "ChIJKV-kY5wIAWAR63MGW1r_MaY",
+    "g_name": "緒方",
+    "g_rating": 4.4,
+    "g_reviews": 162,
+    "g_address": "日本、〒600-8471 京都府京都市下京区新釜座町７２６",
+    "lat": 35.0031884,
+    "lng": 135.7561333
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "招福樓 本店",
+    "name_en": "Shofukuro Hon Ten",
+    "area": "滋賀県 東近江市",
+    "url": "https://tabelog.com/shiga/A2503/A250302/25000052/",
+    "rating": 3.76,
+    "review_count_tabelog": 156,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 15:00 16:00 - 22:00",
+        "dtl_text": "16:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 112,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJNa59z059AWARvDBObptxZhQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/25000052-ee2a8f6a1e5c4d9087a380229527156cb16e854b3733d5375d9ad4402d5e2519.jpg",
+    "place_id": "ChIJNa59z059AWARvDBObptxZhQ",
+    "g_name": "招福楼 本店",
+    "g_rating": 4.5,
+    "g_reviews": 112,
+    "g_address": "日本、〒527-0012 滋賀県東近江市八日市本町８−１１",
+    "lat": 35.113039,
+    "lng": 136.1952055
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "ぎをん 遠藤",
+    "name_en": "Gion Endo",
+    "area": "京都府 祇園四条駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260301/26019418/",
+    "rating": 3.78,
+    "review_count_tabelog": 133,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 02:00",
+        "dtl_text": "18:00 - 02:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 54,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAzNy98EIAWARGaT8xpm38Pg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/26019418-4b25edc9c182a3ed3f90615a764854c790ba680e68ed39cac5c2d6a35dd8bbd4.jpg",
+    "place_id": "ChIJAzNy98EIAWARGaT8xpm38Pg",
+    "g_name": "ぎをん遠藤",
+    "g_rating": 4.3,
+    "g_reviews": 54,
+    "g_address": "日本、〒605-0073 京都府京都市東山区祇園町北側３４７−１１８",
+    "lat": 35.0050417,
+    "lng": 135.7756201
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "美山荘",
+    "name_en": "Miyamaso",
+    "area": "京都府 京都市左京区",
+    "url": "https://tabelog.com/kyoto/A2601/A260504/26001066/",
+    "rating": 4.28,
+    "review_count_tabelog": 207,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 19:00",
+        "dtl_text": "12:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "December 26 to New Year's Day"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 229,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_UQgQvW6AWARv8m8MI8Vzag",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/26001066-089eae8a6704c3c7d8ef38c6f7e775b30a56689fd6cdf1a6c79d81a34ae38d09.jpg",
+    "place_id": "ChIJ_UQgQvW6AWARv8m8MI8Vzag",
+    "g_name": "美山荘",
+    "g_rating": 4.6,
+    "g_reviews": 229,
+    "g_address": "日本、〒601-1102 京都府京都市左京区花脊原地町３７５",
+    "lat": 35.2332405,
+    "lng": 135.7929968
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "青蓮院門跡前 月おか",
+    "name_en": "Shorenin Monzeki Mae Tsukioka",
+    "area": "京都府 東山駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260301/26035778/",
+    "rating": 4.13,
+    "review_count_tabelog": 104,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 15:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays, Wednesdays, and the last day of the month."
+    },
+    "google_rating": 4.8,
+    "google_reviews": 47,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJlWTPnDIJAWARx_-qvDTSgzA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/26035778-3cd2d372035ad5ec0a9ac27aa5cd6e57664a4d19af10b456c2c06525bbcb9bde.jpg",
+    "place_id": "ChIJlWTPnDIJAWARx_-qvDTSgzA",
+    "g_name": "青蓮院門跡前 月おか",
+    "g_rating": 4.8,
+    "g_reviews": 47,
+    "g_address": "日本、〒605-0035 京都府京都市東山区粟田口三条坊町１６−２",
+    "lat": 35.0080541,
+    "lng": 135.7826089
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "料理 川口",
+    "name_en": "Ryori Kawaguchi",
+    "area": "京都府 祇園四条",
+    "url": "https://tabelog.com/kyoto/A2601/A260301/26006453/",
+    "rating": 4.31,
+    "review_count_tabelog": 55,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 23:30",
+        "dtl_text": "18:00 - 23:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 20,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJRS_n0cEIAWARFUglJa6BAN0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/26006453-84dba5b8aba70e51270361f91f66416a343e1b599053267a14533e04e9615e56.jpg",
+    "place_id": "ChIJRS_n0cEIAWARFUglJa6BAN0",
+    "g_name": "川口",
+    "g_rating": 4.6,
+    "g_reviews": 20,
+    "g_address": "日本、〒605-0074 京都府京都市東山区祇園町南側５７０−１６７",
+    "lat": 35.0023061,
+    "lng": 135.7758555
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "お料理 宮本",
+    "name_en": "Oryori Miyamoto",
+    "area": "大阪府 大阪天満宮駅",
+    "url": "https://tabelog.com/osaka/A2701/A270103/27068283/",
+    "rating": 3.99,
+    "review_count_tabelog": 150,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "From November 2022": {}
+      },
+      "closed_on": "Wednesdays"
+    },
+    "google_rating": 4,
+    "google_reviews": 63,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ77oK9vmAGAROyJA1ELG1wA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/27068283-55b45fe4d6bd6dccf460d76519fe4f76c007e6a1e110484f4e409a0c8252063b.jpg",
+    "place_id": "ChIJQ77oK9vmAGAROyJA1ELG1wA",
+    "g_name": "お料理 宮本",
+    "g_rating": 4,
+    "g_reviews": 63,
+    "g_address": "日本、〒530-0044 大阪府大阪市北区東天満２丁目１０−２８ 第一住建フローライト南森町 １０２",
+    "lat": 34.6983348,
+    "lng": 135.5131751
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "京都 吉兆 嵐山本店",
+    "name_en": "Kyoto Kiccho Arashiyama Honten",
+    "area": "京都府 嵐山（京福）駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260403/26001312/",
+    "rating": 3.94,
+    "review_count_tabelog": 216,
+    "price_dinner": "￥60,000～￥79,999",
+    "price_lunch": "￥60,000～￥79,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 L.O. 13:00 17:30 - 21:00 L.O. 19:00",
+        "dtl_text": "17:30 - 21:00 L.O. 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Year-end & New Year Holidays"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 233,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVFaACqAWARTiBmMRQ2LBg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/26001312-80d6240f22c27ca9e2eeceb76ebb5e8f037233314658be5025981c0ee7d5789f.jpg",
+    "place_id": "ChIJVVVFaACqAWARTiBmMRQ2LBg",
+    "g_name": "京都吉兆 嵐山本店",
+    "g_rating": 4.6,
+    "g_reviews": 233,
+    "g_address": "日本、〒616-8385 京都府京都市右京区嵯峨天龍寺芒ノ馬場町５８",
+    "lat": 35.01352,
+    "lng": 135.6746359
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "日の出",
+    "name_en": "Hinode",
+    "area": "三重県 桑名市",
+    "url": "https://tabelog.com/mie/A2402/A240203/24000026/",
+    "rating": 4.26,
+    "review_count_tabelog": 477,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Japanese Cuisine, Regional Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00 L.O. 13:00 17:00 - 22:00 L.O. 20:30",
+        "dtl_text": "17:00 - 22:00 L.O. 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays (However, we are open on the second Wednesday of the month, with the following Thursday as a day off). Please inquire for any changes. Year-end & New Year Holidays."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 241,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2ePQNumaA2AReEkuzL3QkfY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/24000026-9018c912567d9c690453c54f3b6465a85f53e7927bd22c5a58ea3a2fec2c09a2.jpg",
+    "place_id": "ChIJ2ePQNumaA2AReEkuzL3QkfY",
+    "g_name": "蛤料理 日の出",
+    "g_rating": 4.5,
+    "g_reviews": 241,
+    "g_address": "日本、〒511-0021 三重県桑名市川口町１９",
+    "lat": 35.0669287,
+    "lng": 136.6962325
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "美加登家",
+    "name_en": "Mikadoya",
+    "area": "島根県 鹿足郡津和野町",
+    "url": "https://tabelog.com/shimane/A3204/A320402/32000061/",
+    "rating": 4.32,
+    "review_count_tabelog": 169,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥30,000～￥39,999",
+    "sub_categories": "Japanese Cuisine, Suppon (Soft-shell turtle)",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every Monday, August 14 - 16"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 62,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJRsJItclWzURBR9UYhoXQTo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/32000061-fe731d64fb03a155080da8d63707f89b00d87b6f198e0a278670578cb59369b7.jpg",
+    "place_id": "ChIJJRsJItclWzURBR9UYhoXQTo",
+    "g_name": "美加登家",
+    "g_rating": 4.4,
+    "g_reviews": 62,
+    "g_address": "日本、〒699-5221 島根県鹿足郡津和野町日原２２１−２",
+    "lat": 34.5456293,
+    "lng": 131.8365628
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "冨久屋",
+    "name_en": "Fukuya",
+    "area": "富山県 富山市",
+    "url": "https://tabelog.com/toyama/A1601/A160101/16007671/",
+    "rating": 3.83,
+    "review_count_tabelog": 107,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 23:00 L.O. 21:00",
+        "dtl_text": "18:00 - 23:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays and the third Monday of each month"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 90,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAYMiC4uQ918RZKINHT_tiuU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/16007671-d642821c993f4ec6745935f42b6fba7330780d0c545438b7315fe2dfae1feac6.jpg",
+    "place_id": "ChIJAYMiC4uQ918RZKINHT_tiuU",
+    "g_name": "冨久屋",
+    "g_rating": 4.2,
+    "g_reviews": 90,
+    "g_address": "日本、〒930-0048 富山県富山市白銀町７−７",
+    "lat": 36.690511,
+    "lng": 137.217527
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "山玄茶",
+    "name_en": "Sangencha",
+    "area": "京都府 祇園四条駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260301/26005351/",
+    "rating": 4.24,
+    "review_count_tabelog": 364,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:30 L.O. 13:00 18:00 - 21:30 L.O. 19:30",
+        "dtl_text": "18:00 - 21:30 L.O. 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays (open on public holidays) and the second Wednesday of each month."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 118,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJSQvYHMIIAWARa5V5Xcg7wEc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/26005351-b8bade622103bb4d59f1bc0fb38a455bc9cce2f006a9fd8ec84a053152408b84.jpg",
+    "place_id": "ChIJSQvYHMIIAWARa5V5Xcg7wEc",
+    "g_name": "山玄茶",
+    "g_rating": 4.5,
+    "g_reviews": 118,
+    "g_address": "日本、〒605-0073 京都府京都市東山区祇園町北側３４７−９６",
+    "lat": 35.0051711,
+    "lng": 135.7759539
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "ぎおん 阪川",
+    "name_en": "Gion Sakagawa",
+    "area": "京都府 祇園四条駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260301/26001726/",
+    "rating": 4.06,
+    "review_count_tabelog": 283,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 109,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJE1F2oPGGHWAR_kh__bwhJfc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/26001726-306b69f6f7e7b3472d12c864a410e00193386a407fdf4b84695c2ead4eba5928.jpg",
+    "place_id": "ChIJE1F2oPGGHWAR_kh__bwhJfc",
+    "g_name": "ぎおん 阪川",
+    "g_rating": 4.6,
+    "g_reviews": 109,
+    "g_address": "日本、〒605-0074 京都府京都市東山区祇園町南側５７０−１９９",
+    "lat": 35.0024924,
+    "lng": 135.7763275
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "草庵 鍋島",
+    "name_en": "Soan Nabeshima",
+    "area": "佐賀県 鹿島市",
+    "url": "https://tabelog.com/saga/A4104/A410402/41007161/",
+    "rating": 4.29,
+    "review_count_tabelog": 47,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 21:00 L.O. Food 17:00",
+        "dtl_text": "17:00 - 21:00 L.O. Food 17:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.9,
+    "google_reviews": 16,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDfTjLHYlQDURDVCPoWKfrcs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/41007161-3db140f4c5c97e29771d8eedae5ea539bd6418f2c64981390cb1ff6de4a8fd4b.jpg",
+    "place_id": "ChIJDfTjLHYlQDURDVCPoWKfrcs",
+    "g_name": "鍋島オーベルジュ 御宿富久千代",
+    "g_rating": 4.9,
+    "g_reviews": 16,
+    "g_address": "日本、〒849-1322 佐賀県鹿島市浜町乙２４２０-１ 乙２４２０－１",
+    "lat": 33.0923464,
+    "lng": 130.1163956
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "井本",
+    "name_en": "Imoto",
+    "area": "福岡県 薬院大通駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400104/40040809/",
+    "rating": 4.16,
+    "review_count_tabelog": 221,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥30,000～￥39,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "We are happy to accommodate your preferences, including allergies, dislikes, and religious dietary restrictions. For vegetarian guests, we can provide menus featuring organic ingredients."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 94,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJkdnj5X6RQTURkYWf0VBi_zQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/40040809-b5409b20f8290906adc6996d03092916769974314e0273c516ae2c500a7193a6.jpg",
+    "place_id": "ChIJkdnj5X6RQTURkYWf0VBi_zQ",
+    "g_name": "井本",
+    "g_rating": 4.3,
+    "g_reviews": 94,
+    "g_address": "日本、〒810-0022 福岡県福岡市中央区薬院４丁目１５−２９",
+    "lat": 33.5779637,
+    "lng": 130.3938972
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "菊乃井 本店",
+    "name_en": "Kikuno I Hon Ten",
+    "area": "京都府 東山駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260301/26001346/",
+    "rating": 4.14,
+    "review_count_tabelog": 538,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:00 17:00 - 20:00",
+        "dtl_text": "17:00 - 20:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed; Year-end & New Year Holidays"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 860,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVXF5doIAWARUetIixOU-sw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/26001346-c5ad1cfb141f7d33b8ac4ab46c222f267b61c120535f482a54bb12e55bb07fb1.jpg",
+    "place_id": "ChIJVVXF5doIAWARUetIixOU-sw",
+    "g_name": "菊乃井 本店",
+    "g_rating": 4.4,
+    "g_reviews": 860,
+    "g_address": "日本、〒605-0825 京都府京都市東山区下河原通八坂鳥居前下る下河原町４５９",
+    "lat": 35.0014754,
+    "lng": 135.7820562
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "つる由",
+    "name_en": "Tsuru Yoshi",
+    "area": "奈良県 奈良市",
+    "url": "https://tabelog.com/nara/A2901/A290101/29000969/",
+    "rating": 3.81,
+    "review_count_tabelog": 211,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:00 17:00 - 21:30",
+        "dtl_text": "17:00 - 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 235,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJC_Y89Ik5AWARTjFuNmOwo08",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/29000969-d181653297be82b72f1727c834f99a9209e30180a5f22b71071b6da96fd9a13a.jpg",
+    "place_id": "ChIJC_Y89Ik5AWARTjFuNmOwo08",
+    "g_name": "つる由",
+    "g_rating": 4.3,
+    "g_reviews": 235,
+    "g_address": "日本、〒630-8337 奈良県奈良市脇戸町２２−１",
+    "lat": 34.6782652,
+    "lng": 135.8289294
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "未在",
+    "name_en": "Mizai",
+    "area": "京都府 東山駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260301/26002279/",
+    "rating": 4.23,
+    "review_count_tabelog": 471,
+    "price_dinner": "￥60,000～￥79,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 209,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJnds0DdsIAWARE0dXPUqNYkc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/26002279-d541fdb57d9bd431eba5803a9a0365d7e7d97368141cbcfd105be52db6b0ae19.jpg",
+    "place_id": "ChIJnds0DdsIAWARE0dXPUqNYkc",
+    "g_name": "未在",
+    "g_rating": 4.4,
+    "g_reviews": 209,
+    "g_address": "日本、〒605-0071 京都府京都市東山区八坂鳥居前東入円山町６１８",
+    "lat": 35.00297,
+    "lng": 135.7823922
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "是しん",
+    "name_en": "Zeshin",
+    "area": "大阪府 大江橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27077650/",
+    "rating": 3.98,
+    "review_count_tabelog": 346,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Fri",
+        "dtl": "17:30 - 22:00 L.O. Food 20:00 Drinks 21:30",
+        "dtl_text": "17:30 - 22:00 L.O. Food 20:00 Drinks 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Thu, Sat",
+        "dtl": "11:30 - 14:00 L.O. Food 12:00 Drinks 13:30 17:30 - 22:00 L.O. Food 20:00 Drinks 21:30",
+        "dtl_text": "17:30 - 22:00 L.O. Food 20:00 Drinks 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Lunch service available on Mondays, Wednesdays, and Fridays"
+    },
+    "google_rating": 3.6,
+    "google_reviews": 63,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJOdjCBO_mAGARMVAMlUoArk8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/27077650-ce27023bcc071f6a59440a273d1e608cd59ff76a8bc419673746c40466f2e82d.jpg",
+    "place_id": "ChIJOdjCBO_mAGARMVAMlUoArk8",
+    "g_name": "大江橋駅",
+    "g_rating": 3.6,
+    "g_reviews": 63,
+    "g_address": "日本、〒530-0005 大阪府大阪市北区中之島２丁目１",
+    "lat": 34.6942716,
+    "lng": 135.4997399
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "安久",
+    "name_en": "Ankyu",
+    "area": "京都府 祇園四条駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260301/26018405/",
+    "rating": 3.9,
+    "review_count_tabelog": 123,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "*Consultation required"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 56,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJTyz4Yr8IAWARDUP2P-ndhUM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/26018405-0ff47992f47f72a782d970364a8287e0198eb160fce37d70601f3ff65084018c.jpg",
+    "place_id": "ChIJTyz4Yr8IAWARDUP2P-ndhUM",
+    "g_name": "安久",
+    "g_rating": 4.6,
+    "g_reviews": 56,
+    "g_address": "日本、〒605-0801 京都府京都市東山区宮川筋３丁目２８３ ハクユウ宮川",
+    "lat": 35.0006114,
+    "lng": 135.7708838
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "御料理 はやし",
+    "name_en": "Oryori Hayashi",
+    "area": "京都府 出町柳駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260302/26000305/",
+    "rating": 4.22,
+    "review_count_tabelog": 320,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 13:30 17:30 - 19:30",
+        "dtl_text": "17:30 - 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 127,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJj8VEemcIAWAReiazy04Kgho",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/26000305-8cacb61fd64b40abf3b3bc34b1fb124b5fd34b747e2d1058a971f599fa652a5c.jpg",
+    "place_id": "ChIJj8VEemcIAWAReiazy04Kgho",
+    "g_name": "御料理はやし",
+    "g_rating": 4.1,
+    "g_reviews": 127,
+    "g_address": "日本、〒602-0841 京都府京都市上京区河原町 今出川梶井町448-61",
+    "lat": 35.0279697,
+    "lng": 135.7699895
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "飴源",
+    "name_en": "Ame Gen",
+    "area": "佐賀県 唐津市",
+    "url": "https://tabelog.com/saga/A4102/A410201/41000056/",
+    "rating": 4.23,
+    "review_count_tabelog": 167,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 15:30 17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "12:00 - 15:30 17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays (excluding public holidays). If Tuesday is a public holiday, we will be open and will take a break on the following Wednesday."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 109,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJzdZ86avQQTURgwDul2puqBs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/41000056-9ad5598b77072600b93bdd120be5b6e67156a444284b836935607422c0e05e26.jpg",
+    "place_id": "ChIJzdZ86avQQTURgwDul2puqBs",
+    "g_name": "飴源",
+    "g_rating": 4.5,
+    "g_reviews": 109,
+    "g_address": "日本、〒849-5102 佐賀県唐津市浜玉町五反田１０５８−２",
+    "lat": 33.4412699,
+    "lng": 130.0675242
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "虎屋 壺中庵",
+    "name_en": "Toraya Kochuan",
+    "area": "徳島県 名東郡佐那河内村",
+    "url": "https://tabelog.com/tokushima/A3601/A360104/36000369/",
+    "rating": 4.07,
+    "review_count_tabelog": 276,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:00 17:00 - 20:00",
+        "dtl_text": "17:00 - 20:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 88,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJqbztfvkIUzURGO6X3bZDhe0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/36000369-52b7b963b51c68baec283ac563013b78de26da8fb08c42e3cb3f6fc71c0b2168.jpg",
+    "place_id": "ChIJqbztfvkIUzURGO6X3bZDhe0",
+    "g_name": "虎屋 壺中庵(とらや こちゅうあん)",
+    "g_rating": 4.3,
+    "g_reviews": 88,
+    "g_address": "日本、〒771-4102 徳島県名東郡佐那河内村上井開１",
+    "lat": 33.9895672,
+    "lng": 134.4415527
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "蕎味 櫂",
+    "name_en": "Kyomi Kai",
+    "area": "石川県 金沢市",
+    "url": "https://tabelog.com/ishikawa/A1701/A170101/17009816/",
+    "rating": 4.02,
+    "review_count_tabelog": 185,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Japanese Cuisine, Soba (Buckwheat noodles), Hot Pot",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 14:00 17:30 - 20:00",
+        "dtl_text": "17:30 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The first Monday of each month"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 835,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ23n_wRz3-F8RURCBZXFLT6w",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/17009816-c92787f27482bc337444e3da889f62d118de28bd216366c4a2d349ed819493af.jpg",
+    "place_id": "ChIJ23n_wRz3-F8RURCBZXFLT6w",
+    "g_name": "界 加賀",
+    "g_rating": 4.2,
+    "g_reviews": 835,
+    "g_address": "日本、〒922-0242 石川県加賀市山代温泉１８−４７",
+    "lat": 36.2887283,
+    "lng": 136.3610264
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "喜泉",
+    "name_en": "Kisen",
+    "area": "宮崎県 宮崎市",
+    "url": "https://tabelog.com/miyazaki/A4501/A450101/45007417/",
+    "rating": 3.71,
+    "review_count_tabelog": 70,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine, Sushi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 66,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGSNieGq3ODUR1sTjPeyvAwA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/45007417-d89e389dbd8d875566272b014e62d5135d3275ad0176eb74ab2ff46071cf7e44.jpg",
+    "place_id": "ChIJGSNieGq3ODUR1sTjPeyvAwA",
+    "g_name": "㐂泉",
+    "g_rating": 4.2,
+    "g_reviews": 66,
+    "g_address": "日本、〒880-0805 宮崎県宮崎市橘通東３丁目５−５",
+    "lat": 31.915655,
+    "lng": 131.4242003
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "前田",
+    "name_en": "Maeda",
+    "area": "京都府 祇園四条駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260301/26020923/",
+    "rating": 3.98,
+    "review_count_tabelog": 103,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 37,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__IdF8EIAWARQcM2iKdStHY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/26020923-e0b59ce8cf21fdb78a772e511745aa65d37ddb9632f1242ab0b7b0a02519ca53.jpg",
+    "place_id": "ChIJ__IdF8EIAWARQcM2iKdStHY",
+    "g_name": "前田",
+    "g_rating": 4.4,
+    "g_reviews": 37,
+    "g_address": "日本、〒605-0074 京都府京都市東山区祇園町南側５７０−１１８ 1F",
+    "lat": 35.0015775,
+    "lng": 135.7741613
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "竹屋町 三多",
+    "name_en": "Takeyamachi Mita",
+    "area": "京都府 神宮丸太町駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260302/26016620/",
+    "rating": 4.44,
+    "review_count_tabelog": 184,
+    "price_dinner": "￥60,000～￥79,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.7,
+    "google_reviews": 40,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJIToxR48IAWARavd_DoML8os",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/26016620-e5dda2b9b8d038efa70fddc14f536cb6f2a5c181bdf81c4c607ac10da22cfb15.jpg",
+    "place_id": "ChIJIToxR48IAWARavd_DoML8os",
+    "g_name": "竹屋町 三多",
+    "g_rating": 4.7,
+    "g_reviews": 40,
+    "g_address": "日本、〒604-0993 京都府京都市中京区久遠院前町６６７−１ 寺町竹屋町 南西角",
+    "lat": 35.0161381,
+    "lng": 135.7671863
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "御料理 まつ山",
+    "name_en": "Oryori Matsuyama",
+    "area": "福岡県 北九州市八幡西区",
+    "url": "https://tabelog.com/fukuoka/A4004/A400404/40028665/",
+    "rating": 4.44,
+    "review_count_tabelog": 213,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥30,000～￥39,999",
+    "sub_categories": "Japanese Cuisine, Creative",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Daytime": {},
+        "Nighttime": {}
+      },
+      "closed_on": "Wednesdays, Thursdays, and Fridays"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 86,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJvW7Wr-7IQzURFPcLL3dODQE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/40028665-0b99d0fad708daf29ac988694dd1bb17995e780b0c785008b25829f77ef30932.jpg",
+    "place_id": "ChIJvW7Wr-7IQzURFPcLL3dODQE",
+    "g_name": "まつ山",
+    "g_rating": 4.4,
+    "g_reviews": 86,
+    "g_address": "日本、〒806-0022 福岡県北九州市八幡西区藤田２丁目１−１０",
+    "lat": 33.86681860000001,
+    "lng": 130.7708055
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "高台寺 和久傳",
+    "name_en": "Kodaiji Wakuden",
+    "area": "京都府 祇園四条駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260301/26000535/",
+    "rating": 4.17,
+    "review_count_tabelog": 243,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "￥30,000～￥39,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 15:00 L.O. 13:00 17:30 - 22:00 L.O. 19:00",
+        "dtl_text": "17:30 - 22:00 L.O. 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.7,
+    "google_reviews": 192,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJNdtJJO8IAWAROLakASqxLBM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/26000535-9bcb5e3d48f7a85dda6fafaa5bfb28912284009d25983a25c087095738741c70.jpg",
+    "place_id": "ChIJNdtJJO8IAWAROLakASqxLBM",
+    "g_name": "高台寺 和久傳",
+    "g_rating": 4.7,
+    "g_reviews": 192,
+    "g_address": "日本、〒605-0072 京都府京都市東山区鷲尾町５１２",
+    "lat": 35.0016219,
+    "lng": 135.7797792
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "日本料理 研野",
+    "name_en": "Japanese cuisine Kenya",
+    "area": "京都府 神宮丸太町駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260302/26035592/",
+    "rating": 4.32,
+    "review_count_tabelog": 219,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "18:00 - 20:00",
+        "dtl_text": "18:00 - 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 55,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJe2nM1mAJAWAR1KELEZh5Cz8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/26035592-ed2e1292daf76c6c745e855ef26b8115026a964c0daf8eadfaabe0e41886429e.jpg",
+    "place_id": "ChIJe2nM1mAJAWAR1KELEZh5Cz8",
+    "g_name": "日本料理 研野",
+    "g_rating": 4,
+    "g_reviews": 55,
+    "g_address": "日本、〒606-8351 京都府京都市左京区岡崎徳成町28−２２ 聖護院ビル 1F",
+    "lat": 35.0159656,
+    "lng": 135.7782669
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "しの田",
+    "name_en": "Shinoda",
+    "area": "愛媛県 今治市",
+    "url": "https://tabelog.com/ehime/A3802/A380201/38006443/",
+    "rating": 4.15,
+    "review_count_tabelog": 49,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥30,000～￥39,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 23,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-1nTB2c6UDURdB4niDQ6JeY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/38006443-70142cf63d58cb5ee9fa408c851a8d5033cc6d466013f5bd402efe11aeb8c902.jpg",
+    "place_id": "ChIJ-1nTB2c6UDURdB4niDQ6JeY",
+    "g_name": "しの田",
+    "g_rating": 4.3,
+    "g_reviews": 23,
+    "g_address": "日本、〒794-0041 愛媛県今治市松本町２丁目２−４",
+    "lat": 34.0636568,
+    "lng": 133.0019235
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "食堂 おがわ",
+    "name_en": "Shokudo Ogawa",
+    "area": "京都府 京都河原町駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260201/26013892/",
+    "rating": 4.26,
+    "review_count_tabelog": 341,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 23:00 L.O. 22:00",
+        "dtl_text": "17:00 - 23:00 L.O. 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every Monday and during other long holidays."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 235,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDa2T5r8IAWARMFzvAaXtzjc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/26013892-27e8f4088355da5f36e6cb71e184f487d01d721fbda816c17f57b2dfca4e6825.jpg",
+    "place_id": "ChIJDa2T5r8IAWARMFzvAaXtzjc",
+    "g_name": "食堂 おがわ",
+    "g_rating": 4.3,
+    "g_reviews": 235,
+    "g_address": "日本、〒600-8019 京都府京都市下京区船頭町２０４",
+    "lat": 35.0027376,
+    "lng": 135.7699891
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "料理屋 みや﨑",
+    "name_en": "Ryoriya Miyazaki",
+    "area": "福井県 福井市",
+    "url": "https://tabelog.com/fukui/A1801/A180101/18007783/",
+    "rating": 4.04,
+    "review_count_tabelog": 82,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine, Creative",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Day before public holiday",
+        "dtl": "17:30 - 23:00",
+        "dtl_text": "17:30 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Miyazaki will be relocating and reopening in 2025. The new restaurant is expected to open in late June to early July. Please note that the current location will remain open until May 18, 2025. We will be open on May 4 (Sunday) during the Golden Week."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 44,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_fZJReO_-F8Rfq-WGOKuFmM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/18007783-f0c159fd4b5f7b82e1d94f7890fd4b9dc003d99d0db212645d5160a3e1bc22d4.jpg",
+    "place_id": "ChIJ_fZJReO_-F8Rfq-WGOKuFmM",
+    "g_name": "料理屋 みや﨑",
+    "g_rating": 4.4,
+    "g_reviews": 44,
+    "g_address": "日本、〒910-0006 福井県福井市中央１丁目２１−７ 東参道ビルヂング 1階",
+    "lat": 36.059973,
+    "lng": 136.2204279
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "道後 海舟",
+    "name_en": "Dogo Kaishu",
+    "area": "愛媛県 松山市",
+    "url": "https://tabelog.com/ehime/A3801/A380101/38013243/",
+    "rating": 4.05,
+    "review_count_tabelog": 133,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Public Holiday",
+        "dtl": "18:00 - 23:00 L.O. 21:00",
+        "dtl_text": "18:00 - 23:00 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "12:00 - 15:00 18:00 - 23:00 L.O. 21:00",
+        "dtl_text": "18:00 - 23:00 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon - Fri": {},
+        "Sat - Sun": {}
+      },
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 127,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJg5YFy-7lTzURIgAtnzprbPU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/38013243-aa80b7d7afb43cf1cdc5f0f6d703e7e0a47313f3ff3baabb34c71806d80f6546.jpg",
+    "place_id": "ChIJg5YFy-7lTzURIgAtnzprbPU",
+    "g_name": "道後 海舟",
+    "g_rating": 4.5,
+    "g_reviews": 127,
+    "g_address": "日本、〒790-0842 愛媛県松山市道後湯之町15番27号",
+    "lat": 33.8519556,
+    "lng": 132.7843827
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "本湖月",
+    "name_en": "Honko Getsu",
+    "area": "大阪府 なんば（大阪メトロ）駅",
+    "url": "https://tabelog.com/osaka/A2701/A270202/27001286/",
+    "rating": 4.56,
+    "review_count_tabelog": 368,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 63,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJj9mElhTnAGARDtJxNdttczk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/27001286-fbacd18e43076424cb8ca680e902015b185c5617a9618d1328115be781e14525.jpg",
+    "place_id": "ChIJj9mElhTnAGARDtJxNdttczk",
+    "g_name": "本湖月",
+    "g_rating": 4.6,
+    "g_reviews": 63,
+    "g_address": "日本、〒542-0071 大阪府大阪市中央区道頓堀１丁目７−１１",
+    "lat": 34.6682145,
+    "lng": 135.502531
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "野口太郎",
+    "name_en": "Noguchi Taro",
+    "area": "大阪府 北新地駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27046071/",
+    "rating": 4.14,
+    "review_count_tabelog": 445,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 00:00",
+        "dtl_text": "18:00 - 00:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 130,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0W2ZiO3mAGARiFhz2LnbvIs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/27046071-ab0cda41e2dfe399c00faa1330185fb8fa05b802613763436ac20144865f3406.jpg",
+    "place_id": "ChIJ0W2ZiO3mAGARiFhz2LnbvIs",
+    "g_name": "野口太郎",
+    "g_rating": 4.4,
+    "g_reviews": 130,
+    "g_address": "日本、〒530-0002 大阪府大阪市北区曾根崎新地１丁目３−１ 3階",
+    "lat": 34.6972589,
+    "lng": 135.497196
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "道人",
+    "name_en": "Dojin",
+    "area": "京都府 三条京阪駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260301/26030764/",
+    "rating": 4.61,
+    "review_count_tabelog": 253,
+    "price_dinner": "￥50,000～￥59,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.9,
+    "google_reviews": 36,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGbPqVg8JAWARTXYSLXKdEhY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/26030764-acc1154f76eadedad9e4d3e4ace24ddd905de721db144dc31838e63405c101a7.jpg",
+    "place_id": "ChIJGbPqVg8JAWARTXYSLXKdEhY",
+    "g_name": "道人",
+    "g_rating": 4.9,
+    "g_reviews": 36,
+    "g_address": "日本、〒606-8364 京都府京都市左京区菊鉾町２９１−１",
+    "lat": 35.0118259,
+    "lng": 135.7755288
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "ひがしやま 司",
+    "name_en": "Higashiyama Tsukasa",
+    "area": "京都府 東山駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260301/26036658/",
+    "rating": 4.18,
+    "review_count_tabelog": 138,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥30,000～￥39,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "18:00 - 21:00 L.O. Food 18:00 Drinks 21:00",
+        "dtl_text": "18:00 - 21:00 L.O. Food 18:00 Drinks 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "12:30 - 15:00 L.O. Food 12:30 Drinks 15:00 18:00 - 21:00 L.O. Food 18:00 Drinks 21:00",
+        "dtl_text": "18:00 - 21:00 L.O. Food 18:00 Drinks 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Tue - Sat": {},
+        "Sat": {}
+      },
+      "closed_on": "*We may also open on our regular closing days and offer lunch service on Saturdays and other irregular days. For more details, please contact the restaurant."
+    },
+    "google_rating": 4.6,
+    "google_reviews": 28,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJY83d95gJAWARDBtyJ1AFYNw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/26036658-f1eead5b408a4056046adb1327388902556a8eedbea61493d70909b9ba4e07a9.jpg",
+    "place_id": "ChIJY83d95gJAWARDBtyJ1AFYNw",
+    "g_name": "ひがしやま 司",
+    "g_rating": 4.6,
+    "g_reviews": 28,
+    "g_address": "日本、〒605-0036 京都府京都市東山区西町127番地 三条白川橋ビル 2F",
+    "lat": 35.0093896,
+    "lng": 135.7818285
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "祇園 大渡",
+    "name_en": "Gion Oowatari",
+    "area": "京都府 祇園四条駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260301/26014312/",
+    "rating": 4.11,
+    "review_count_tabelog": 321,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 102,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJzSbocsQIAWAR_nZSJamugG8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/26014312-793999233151b15e76c88bff3374e4e4925c25a5a0190578d98b4dd71ed8ef41.jpg",
+    "place_id": "ChIJzSbocsQIAWAR_nZSJamugG8",
+    "g_name": "祇園 大渡",
+    "g_rating": 4.5,
+    "g_reviews": 102,
+    "g_address": "日本、〒605-0074 京都府京都市東山区祇園町南側５７０−２６４",
+    "lat": 35.0014024,
+    "lng": 135.7770636
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "京天神 野口",
+    "name_en": "Kyotenjin Noguchi",
+    "area": "京都府 北野白梅町駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260501/26018304/",
+    "rating": 4.37,
+    "review_count_tabelog": 324,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 130,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ92aNmOoHAWARSeVRcSkzqe0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/26018304-de421aade68d69b899b1d26ec1c7dc4e4f5b83016e2eabf21910ce9d7600a97c.jpg",
+    "place_id": "ChIJ92aNmOoHAWARSeVRcSkzqe0",
+    "g_name": "京天神 野口",
+    "g_rating": 4.5,
+    "g_reviews": 130,
+    "g_address": "日本、〒602-8368 京都府京都市上京区北町５７３−１１",
+    "lat": 35.022763,
+    "lng": 135.7343985
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "味あら井",
+    "name_en": "Aji Arai",
+    "area": "大分県 中津市",
+    "url": "https://tabelog.com/oita/A4404/A440401/44006115/",
+    "rating": 4.33,
+    "review_count_tabelog": 182,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 157,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJRQPgjwn6QzURQABdUYJxwcU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/44006115-5adeb16110f94a02313d0ac5ab350451928f4fbaa83096277adc3c2d708a9ace.jpg",
+    "place_id": "ChIJRQPgjwn6QzURQABdUYJxwcU",
+    "g_name": "味あら井",
+    "g_rating": 4.5,
+    "g_reviews": 157,
+    "g_address": "日本、〒871-0042 大分県中津市上博多町２００１",
+    "lat": 33.6003958,
+    "lng": 131.1858542
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "炭火割烹 いふき",
+    "name_en": "Sumibi Kappou Ifuki",
+    "area": "京都府 祇園四条駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260301/26017706/",
+    "rating": 4.1,
+    "review_count_tabelog": 246,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:00 - 22:00 L.O. Food 20:00 Drinks 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. Food 20:00 Drinks 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 105,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3fBJXMEIAWARjzoq7CYYMtk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/26017706-4960eed24592cf63d67e4c5891f4e734e3f4b21eb7f5b2d98806b22107064368.jpg",
+    "place_id": "ChIJ3fBJXMEIAWARjzoq7CYYMtk",
+    "g_name": "炭火割烹 いふき",
+    "g_rating": 4.6,
+    "g_reviews": 105,
+    "g_address": "日本、〒605-0074 京都府京都市東山区祇園町南側５７０−８",
+    "lat": 35.00236,
+    "lng": 135.7753217
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "郷土料理 嗣味",
+    "name_en": "Regional cuisine Tsugumi",
+    "area": "福岡県 渡辺通駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400103/40054472/",
+    "rating": 4.07,
+    "review_count_tabelog": 184,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 42,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJqxuv1oaRQTURMlw9mP7O_3E",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/40054472-a3075530f99e7fa3e36f251078ba52486d5b1d07689ebaaa88de7448bf78ea12.jpg",
+    "place_id": "ChIJqxuv1oaRQTURMlw9mP7O_3E",
+    "g_name": "嗣味",
+    "g_rating": 4.5,
+    "g_reviews": 42,
+    "g_address": "日本、〒810-0011 福岡県福岡市中央区高砂１丁目６−６ サンクス高砂 1F",
+    "lat": 33.5806036,
+    "lng": 130.4065476
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "召膳 無苦庵",
+    "name_en": "Shizen Muku An",
+    "area": "和歌山県 田辺市",
+    "url": "https://tabelog.com/wakayama/A3004/A300402/30008100/",
+    "rating": 3.98,
+    "review_count_tabelog": 115,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Thursdays (Negotiable for groups spending over JPY 60,000, with a minimum of JPY 22,000 per person, including holiday surcharge)"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 57,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVZt_iDEJB2ARKLgglKQw7Qc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/30008100-f4d6b2a185dc4cb2415526a7f6380a1ecf3f4af5413ba11a32585be2f7fe7018.jpg",
+    "place_id": "ChIJVZt_iDEJB2ARKLgglKQw7Qc",
+    "g_name": "むしやしない",
+    "g_rating": 4.4,
+    "g_reviews": 57,
+    "g_address": "日本、〒646-0005 和歌山県田辺市秋津町１８３−５",
+    "lat": 33.7468534,
+    "lng": 135.3925952
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "季節料理 なかしま",
+    "name_en": "Kisetsu Ryori Nakashima",
+    "area": "広島県 白島（広電）駅",
+    "url": "https://tabelog.com/hiroshima/A3401/A340118/34016189/",
+    "rating": 4.27,
+    "review_count_tabelog": 202,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:30 - 22:00",
+        "dtl_text": "18:30 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.7,
+    "google_reviews": 164,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJuZqr06-YWjUR_uprNhzumJo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/34016189-642f8d77576d2767532328eb7c3be5fd554c7e3245d65ee12a230f653013516a.jpg",
+    "place_id": "ChIJuZqr06-YWjUR_uprNhzumJo",
+    "g_name": "季節料理 なかしま",
+    "g_rating": 4.7,
+    "g_reviews": 164,
+    "g_address": "日本、〒730-0004 広島県広島市中区東白島町１０−４ ＴＯＨＡＫＵビル",
+    "lat": 34.4055919,
+    "lng": 132.4649887
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "杦",
+    "name_en": "SEN",
+    "area": "京都府 五条（京都市営）駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260201/26030495/",
+    "rating": 3.97,
+    "review_count_tabelog": 169,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 122,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJsWL3YnoJAWARCGW2cPIuqMM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/26030495-ba57c931f1592b713dc9d13bfae7b67408ddf3a0943e3579eab26afa5c669a3e.jpg",
+    "place_id": "ChIJsWL3YnoJAWARCGW2cPIuqMM",
+    "g_name": "杦-SEN-",
+    "g_rating": 4.6,
+    "g_reviews": 122,
+    "g_address": "日本、〒600-8103 京都府京都市下京区柳馬場上ル塩竈町３７９ 坂田ビル 379",
+    "lat": 34.9964592,
+    "lng": 135.7639233
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "室町 和久傳",
+    "name_en": "Muromachi Wakuden",
+    "area": "京都府 烏丸御池駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260202/26000621/",
+    "rating": 4.17,
+    "review_count_tabelog": 415,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Japanese Cuisine, Crab",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:00 17:30 - 21:00",
+        "dtl_text": "17:30 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays and not fixed"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 276,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJqxQuuI8IAWAR-TM9RzwBeIY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/26000621-e349ec6d7d7c10f5f0df19e998a965b160835a774c244622242130db4df4198f.jpg",
+    "place_id": "ChIJqxQuuI8IAWAR-TM9RzwBeIY",
+    "g_name": "室町 和久傳",
+    "g_rating": 4.5,
+    "g_reviews": 276,
+    "g_address": "日本、〒604-8106 京都府京都市中京区丸木材木町６７９",
+    "lat": 35.010161,
+    "lng": 135.7633256
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "八寸",
+    "name_en": "Hassun",
+    "area": "京都府 祇園四条駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260301/26002259/",
+    "rating": 4.07,
+    "review_count_tabelog": 251,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Japanese Cuisine, Suppon (Soft-shell turtle)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "18:00 - 21:00 L.O. 21:00",
+        "dtl_text": "18:00 - 21:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 13:00 L.O. 13:00 18:00 - 21:00 L.O. 21:00",
+        "dtl_text": "18:00 - 21:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 116,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJdapH2MEIAWAR4M8GwwL-axs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/26002259-8cdcd7a3a38755c94816e3173d3ebbe1a1da4b952811cfe7a7fa9a9ee754075a.jpg",
+    "place_id": "ChIJdapH2MEIAWAR4M8GwwL-axs",
+    "g_name": "割烹 八寸",
+    "g_rating": 4.4,
+    "g_reviews": 116,
+    "g_address": "４, ９５-９５ 末吉町 東山区 京都市 京都府 605-0085 日本",
+    "lat": 35.0048766,
+    "lng": 135.773877
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "祇園 又吉",
+    "name_en": "Gion Matayoshi",
+    "area": "京都府 祇園四条駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260301/26006471/",
+    "rating": 3.97,
+    "review_count_tabelog": 181,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 14:30 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Counter seating is available for 2 to 3 guests. For parties of 4 or more, we kindly ask you to use our private rooms."
+    },
+    "google_rating": 4.6,
+    "google_reviews": 163,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJF2tmi8MIAWARjnuvxZjfwTk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/26006471-3fe5a12f480096e3d11a2e323ab338cabc67c3cb2a29df31d38bf4f2c10c187b.jpg",
+    "place_id": "ChIJF2tmi8MIAWARjnuvxZjfwTk",
+    "g_name": "祇園 又吉",
+    "g_rating": 4.6,
+    "g_reviews": 163,
+    "g_address": "日本、〒605-0074 京都府京都市東山区祇園町南側５７０−１２３",
+    "lat": 35.0033663,
+    "lng": 135.7745647
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "肉割烹 山口",
+    "name_en": "Niku Kappou Yamaguchi",
+    "area": "大阪府 大江橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270102/27086624/",
+    "rating": 4.08,
+    "review_count_tabelog": 151,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.7,
+    "google_reviews": 43,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJw5iUnO7mAGARuZB1Xmnu0DM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/27086624-b4cbd4e4965c367fefb470c59abb8c18bdb47df4f7a4d9de9f4cdfe8c94a8b93.jpg",
+    "place_id": "ChIJw5iUnO7mAGARuZB1Xmnu0DM",
+    "g_name": "肉割烹 山口",
+    "g_rating": 4.7,
+    "g_reviews": 43,
+    "g_address": "日本、〒530-0002 大阪府大阪市北区曾根崎新地１丁目１−１１ 北陽ビル",
+    "lat": 34.6966966,
+    "lng": 135.499962
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "料理屋そうびき",
+    "name_en": "Ryoriya Soubiki",
+    "area": "広島県 東広島市",
+    "url": "https://tabelog.com/hiroshima/A3407/A340701/34023121/",
+    "rating": 4.18,
+    "review_count_tabelog": 113,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "18:00 - 22:00 L.O. Food 20:00",
+        "dtl_text": "18:00 - 22:00 L.O. Food 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "12:00 - 14:30 L.O. Food 12:30 18:00 - 22:00 L.O. Food 20:00",
+        "dtl_text": "18:00 - 22:00 L.O. Food 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "12:00 - 14:30 L.O. Food 12:30",
+        "dtl_text": "12:00 - 14:30 L.O. Food 12:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 78,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6q2NHxlUDUR0fwesElpKuE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/34023121-1d842a3d78a339b7927c646ebdc5d87b0ab51553d0adbcf0c6f127fdc352783c.jpg",
+    "place_id": "ChIJq6q2NHxlUDUR0fwesElpKuE",
+    "g_name": "料理屋 そうびき",
+    "g_rating": 4.5,
+    "g_reviews": 78,
+    "g_address": "日本、〒739-0016 広島県東広島市西条岡町１０−２４ 第10内海ビル 3F",
+    "lat": 34.426502,
+    "lng": 132.7408418
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "木山",
+    "name_en": "Kiyama",
+    "area": "京都府 丸太町（京都市営）駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260202/26029017/",
+    "rating": 4.44,
+    "review_count_tabelog": 573,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 306,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6o6XIgIAWARXiYCduy8dZc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/26029017-c3affb83ea2f99b472069cd3c8d569e968f8b23258e7cb62619c84ec8ac51bf3.jpg",
+    "place_id": "ChIJq6o6XIgIAWARXiYCduy8dZc",
+    "g_name": "木山",
+    "g_rating": 4.6,
+    "g_reviews": 306,
+    "g_address": "日本、〒604-0804 京都府京都市中京区絹屋町１３６ ヴェルドール御所",
+    "lat": 35.0157259,
+    "lng": 135.7630461
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "御幸町 田がわ",
+    "name_en": "Goko Machi Tagawa",
+    "area": "京都府 京都市役所前駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260202/26028604/",
+    "rating": 4.21,
+    "review_count_tabelog": 187,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.8,
+    "google_reviews": 118,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJTIQ_osIAWARa9En4ut9zKQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/26028604-9917280d7e3c76b0c18fed5cd87d8793b07ccdf4bbefaad77850e06ea221dee5.jpg",
+    "place_id": "ChIJJTIQ_osIAWARa9En4ut9zKQ",
+    "g_name": "御幸町 田がわ",
+    "g_rating": 4.8,
+    "g_reviews": 118,
+    "g_address": "日本、〒604-0982 京都府京都市中京区夷川通御幸町西入松本町５７５−１",
+    "lat": 35.0150041,
+    "lng": 135.7663818
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "永山",
+    "name_en": "Eizan",
+    "area": "広島県 銀山町駅",
+    "url": "https://tabelog.com/hiroshima/A3401/A340108/34026172/",
+    "rating": 4.29,
+    "review_count_tabelog": 128,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Thu, Sat",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Fri, Sun",
+        "dtl": "12:00 - 14:30 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 3.8,
+    "google_reviews": 34,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ09JTxQaiWjURdGytIbvBLx8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/34026172-8afe51f69699880329fa25c5de86ae7cd9c9187d9eb9cd6409cd7c6863be2c34.jpg",
+    "place_id": "ChIJ09JTxQaiWjURdGytIbvBLx8",
+    "g_name": "銀山町駅",
+    "g_rating": 3.8,
+    "g_reviews": 34,
+    "g_address": "日本、〒730-0016 広島県広島市中区幟町１４",
+    "lat": 34.3932284,
+    "lng": 132.4669052
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "白",
+    "name_en": "Tsukumo",
+    "area": "奈良県 奈良市",
+    "url": "https://tabelog.com/nara/A2901/A290101/29012612/",
+    "rating": 4.08,
+    "review_count_tabelog": 85,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 13:00 17:30 - 19:00",
+        "dtl_text": "17:30 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.7,
+    "google_reviews": 124,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVUx0046AWARXL_ggppVFJs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/29012612-312db9004b8e5ad0fc1a4e0a185ddd0297fec6010eab84d1b5dc0f19956ed83c.jpg",
+    "place_id": "ChIJVVUx0046AWARXL_ggppVFJs",
+    "g_name": "白 Tsukumo",
+    "g_rating": 4.7,
+    "g_reviews": 124,
+    "g_address": "日本、〒630-8306 奈良県奈良市紀寺町９６８",
+    "lat": 34.6760185,
+    "lng": 135.8340981
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "料理屋 植むら",
+    "name_en": "Ryoriya Uemura",
+    "area": "兵庫県 三宮（神戸市営）駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280101/28006093/",
+    "rating": 4.43,
+    "review_count_tabelog": 348,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥30,000～￥39,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 144,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJbeNWs-aOAGARxlzRwzOBJ-E",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/28006093-cd023eb11dc20ef2a512c7642332e2c5c440ac28d5dc370ff79da1ee420b8b3a.jpg",
+    "place_id": "ChIJbeNWs-aOAGARxlzRwzOBJ-E",
+    "g_name": "料理屋 植むら",
+    "g_rating": 4.6,
+    "g_reviews": 144,
+    "g_address": "日本、〒650-0004 兵庫県神戸市中央区中山手通１丁目２４−１４",
+    "lat": 34.69728509999999,
+    "lng": 135.1916727
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "天神橋 青木",
+    "name_en": "Tenjinbashi Aoki",
+    "area": "大阪府 天神橋筋六丁目駅",
+    "url": "https://tabelog.com/osaka/A2701/A270103/27076702/",
+    "rating": 4.0,
+    "review_count_tabelog": 102,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "18:00 - 20:30",
+        "dtl_text": "18:00 - 20:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 29,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ832iobzmAGAR5WBm3gLzgBs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/27076702-9a4a9d7d26636b07a8c03613fbc6d17641591179baa80be0c7d9b94adec4d458.jpg",
+    "place_id": "ChIJ832iobzmAGAR5WBm3gLzgBs",
+    "g_name": "天神橋 青木",
+    "g_rating": 4.4,
+    "g_reviews": 29,
+    "g_address": "日本、〒531-0041 大阪府大阪市北区天神橋７丁目１２−１４ グレーシィ天神橋",
+    "lat": 34.7139488,
+    "lng": 135.5110926
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "徳ㇵ本也",
+    "name_en": "Toku Hamotonari",
+    "area": "京都府 鞍馬口駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260503/26040349/",
+    "rating": 4.45,
+    "review_count_tabelog": 182,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 40,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJf1lJxD8JAWARmdAp62rTios",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/26040349-f1cdc181d7261003563953c82b2c97b4dd07a9c5ecf352264cb57f6f49b6be55.jpg",
+    "place_id": "ChIJf1lJxD8JAWARmdAp62rTios",
+    "g_name": "徳ㇵ本也",
+    "g_rating": 4.5,
+    "g_reviews": 40,
+    "g_address": "日本、〒602-0897 京都府京都市上京区新御霊口町２８７−５",
+    "lat": 35.0364905,
+    "lng": 135.762992
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "草喰 なかひがし",
+    "name_en": "Soujiki Nakahigashi",
+    "area": "京都府 京都市左京区",
+    "url": "https://tabelog.com/kyoto/A2601/A260302/26001800/",
+    "rating": 4.28,
+    "review_count_tabelog": 750,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 14:00 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 308,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJga5LcQEJAWARQ9OxOxh3-m0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/26001800-d4e90e6b40dd630daca11ba30e7111ae53b8f93b2aff7afa64d40b4cc643b07f.jpg",
+    "place_id": "ChIJga5LcQEJAWARQ9OxOxh3-m0",
+    "g_name": "草喰なかひがし",
+    "g_rating": 4.5,
+    "g_reviews": 308,
+    "g_address": "日本、〒606-8406 京都府京都市左京区浄土寺石橋町３２−３",
+    "lat": 35.027595,
+    "lng": 135.792715
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "啐啄 つか本",
+    "name_en": "Sottaku Tsukamoto",
+    "area": "京都府 祇園四条駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260301/26013373/",
+    "rating": 4.54,
+    "review_count_tabelog": 124,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 22:00 L.O. 21:00",
+        "dtl_text": "18:00 - 22:00 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 11,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJo8836nQJAWARo5Pwqts0t5g",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/26013373-0ad37fd87e36c754f26a31192373d398dc372ba77c6a65efdcdd28f897eb77f9.jpg",
+    "place_id": "ChIJo8836nQJAWARo5Pwqts0t5g",
+    "g_name": "啐啄 つか本",
+    "g_rating": 4.3,
+    "g_reviews": 11,
+    "g_address": "日本、〒605-0074 京都府京都市東山区祇園町南側５７０−１２０",
+    "lat": 35.0018854,
+    "lng": 135.7743047
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "東山 吉寿",
+    "name_en": "Higashiyama Yoshihisa",
+    "area": "京都府 七条駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260301/26031203/",
+    "rating": 4.35,
+    "review_count_tabelog": 224,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 14:30 18:30 - 21:00",
+        "dtl_text": "18:30 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "For reservations, please call between 9:00 and 17:00 (please note that we may not be able to answer calls during business hours)."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 79,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJn3lf01EJAWARbrQUx84vYj4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/26031203-96d41a3a809bf82a6ceea96a436f84f1ebd2fce9662564b2cf1e1527361f6d85.jpg",
+    "place_id": "ChIJn3lf01EJAWARbrQUx84vYj4",
+    "g_name": "東山 吉寿",
+    "g_rating": 4.5,
+    "g_reviews": 79,
+    "g_address": "日本、〒605-0932 京都府京都市東山区妙法院前側町422番地",
+    "lat": 34.9921594,
+    "lng": 135.7739261
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "富小路 やま岸",
+    "name_en": "Tominokoji Yamagishi",
+    "area": "京都府 京都河原町駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260201/26026316/",
+    "rating": 4.51,
+    "review_count_tabelog": 625,
+    "price_dinner": "￥60,000～￥79,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "2nd and 4th Wednesdays"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 187,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJq1IREpEIAWARAqd6YCVNRC4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/26026316-225f6912790d879f86af7cd9bc6befb6f05bb90e0615eea972b83926bf07fb3e.jpg",
+    "place_id": "ChIJq1IREpEIAWARAqd6YCVNRC4",
+    "g_name": "富小路 やま岸",
+    "g_rating": 4.5,
+    "g_reviews": 187,
+    "g_address": "日本、〒604-8064 京都府京都市中京区骨屋之町５６０",
+    "lat": 35.0067847,
+    "lng": 135.7648758
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "祇園 にし",
+    "name_en": "Gion Nishi",
+    "area": "京都府 祇園四条駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260301/26027852/",
+    "rating": 4.26,
+    "review_count_tabelog": 278,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "18:00 - 23:00 L.O. 18:00",
+        "dtl_text": "18:00 - 23:00 L.O. 18:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 15:00 L.O. 12:00 18:00 - 23:00 L.O. 18:00",
+        "dtl_text": "18:00 - 23:00 L.O. 18:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Evening hours": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 169,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJobhH9sQIAWARVz0FzzmADVY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/26027852-d7130068e99d51ef0a3530169e6a96809d2cf3b7a735d2eb0dac8609e960591d.jpg",
+    "place_id": "ChIJobhH9sQIAWARVz0FzzmADVY",
+    "g_name": "祇園 にし",
+    "g_rating": 4.4,
+    "g_reviews": 169,
+    "g_address": "日本、〒605-0829 京都府京都市東山区月見町２１−２ 1階",
+    "lat": 35.0009396,
+    "lng": 135.778266
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "魚菜料理 縄屋",
+    "name_en": "Sakana Ryouri Nawa Ya",
+    "area": "京都府 京丹後市",
+    "url": "https://tabelog.com/kyoto/A2609/A260903/26015836/",
+    "rating": 4.28,
+    "review_count_tabelog": 181,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed. Please check the official website of Nawa-ya for online reservations."
+    },
+    "google_rating": 4.6,
+    "google_reviews": 93,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJc--bdWGk_18RPfSwoO2FRaQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/26015836-e1b3f8ba4b243c7024a36cc223b957fce06a6c1cb0ba7ea2ea27e05f47a07349.jpg",
+    "place_id": "ChIJc--bdWGk_18RPfSwoO2FRaQ",
+    "g_name": "魚菜料理 縄屋",
+    "g_rating": 4.6,
+    "g_reviews": 93,
+    "g_address": "日本、〒627-0142 京都府京丹後市弥栄町黒部２５１７",
+    "lat": 35.6799014,
+    "lng": 135.1003023
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "比良山荘",
+    "name_en": "Hira Sanso",
+    "area": "滋賀県 大津市",
+    "url": "https://tabelog.com/shiga/A2501/A250101/25000772/",
+    "rating": 4.48,
+    "review_count_tabelog": 759,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "￥40,000～￥49,999",
+    "sub_categories": "Japanese Cuisine, Auberge",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00 17:00 - 19:00",
+        "dtl_text": "17:00 - 19:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.6,
+    "google_reviews": 362,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJeXDetCu9AWAR_mlJ8cgrScg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/25000772-a43cb9c8937a3c63113454bc17afd08d5282039e89c2763140ad199899a3eb40.jpg",
+    "place_id": "ChIJeXDetCu9AWAR_mlJ8cgrScg",
+    "g_name": "比良山荘",
+    "g_rating": 4.6,
+    "g_reviews": 362,
+    "g_address": "日本、〒520-0475 滋賀県大津市葛川坊村町９４",
+    "lat": 35.2468024,
+    "lng": 135.8683308
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "緒乃",
+    "name_en": "Ono",
+    "area": "大阪府 北新地駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27112164/",
+    "rating": 4.27,
+    "review_count_tabelog": 275,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥30,000～￥39,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays (open on public holidays)"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 51,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJSVunX8fnAGAR9h-KyDRC1ko",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/27112164-255817b5176778bab25643e58d06af1c490011bed31f27fc1f23b679e442ae63.jpg",
+    "place_id": "ChIJSVunX8fnAGAR9h-KyDRC1ko",
+    "g_name": "緒乃",
+    "g_rating": 4.4,
+    "g_reviews": 51,
+    "g_address": "日本、〒530-0002 大阪府大阪市北区２ 曽根崎新地1-2-22 北リンデンビル 6F",
+    "lat": 34.6974262,
+    "lng": 135.4977922
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "祇園 さゝ木",
+    "name_en": "Gion Sasaki",
+    "area": "京都府 祇園四条駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260301/26001863/",
+    "rating": 4.34,
+    "review_count_tabelog": 455,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "18:30 - 21:00",
+        "dtl_text": "18:30 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu, Fri, Sat",
+        "dtl": "12:00 - 14:00 18:30 - 21:00",
+        "dtl_text": "18:30 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Available from the beginning of the month for up to two months ahead."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 254,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ5k9icYIAWARLllXhdR6meY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/26001863-e734f315e820a7e9d913729ffe0ab9dda51cad030869c22bc9b5191651b651c5.jpg",
+    "place_id": "ChIJQ5k9icYIAWARLllXhdR6meY",
+    "g_name": "祇園 さゝ木",
+    "g_rating": 4.4,
+    "g_reviews": 254,
+    "g_address": "日本、〒605-0811 京都府京都市東山区小松町５６６−２７",
+    "lat": 34.9989009,
+    "lng": 135.774996
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "御料理 光安",
+    "name_en": "Oryori Mitsuyasu",
+    "area": "京都府 二条駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260501/26022648/",
+    "rating": 4.23,
+    "review_count_tabelog": 97,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 21:30 L.O. 20:00",
+        "dtl_text": "18:00 - 21:30 L.O. 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Monday afternoons."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 51,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJa03JyH4IAWARgIxbYyjmMRc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/26022648-1b14d764edc25f3acfe30a553d8e0ac9fa7f20fc785b95753e1a8136ba73b66b.jpg",
+    "place_id": "ChIJa03JyH4IAWARgIxbYyjmMRc",
+    "g_name": "御料理 光安",
+    "g_rating": 4.4,
+    "g_reviews": 51,
+    "g_address": "日本、〒602-8157 京都府京都市上京区小山町９０８−１２",
+    "lat": 35.0195272,
+    "lng": 135.7434389
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "淡流",
+    "name_en": "Tanryu",
+    "area": "兵庫県 姫路駅",
+    "url": "https://tabelog.com/hyogo/A2805/A280501/28054576/",
+    "rating": 4.17,
+    "review_count_tabelog": 70,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥30,000～￥39,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 42,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJs6rLC0fhVDURBGEiopW2uL0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/28054576-3e21898abfb5059a00424909a11d0741e3e4d3c010c82b542ab6e815eb156730.jpg",
+    "place_id": "ChIJs6rLC0fhVDURBGEiopW2uL0",
+    "g_name": "日本料理 淡流",
+    "g_rating": 4.4,
+    "g_reviews": 42,
+    "g_address": "日本、〒670-0934 兵庫県姫路市朝日町５８ メゾンソレイユ 1階",
+    "lat": 34.8279387,
+    "lng": 134.6971729
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "妙見石原荘 食菜石蔵",
+    "name_en": "Myoken Ishihara So Shokusai Ishikura",
+    "area": "鹿児島県 霧島市",
+    "url": "https://tabelog.com/kagoshima/A4603/A460301/46001299/",
+    "rating": 4.14,
+    "review_count_tabelog": 222,
+    "price_dinner": "￥60,000～￥79,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": 5,
+    "google_reviews": 11,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJV5KssXP9PjURrDrDQvXnGBM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/46001299-501b48e63dd438b21bf5619aa3cb304e93678f7640f59164d2a973cd66b41be1.jpg",
+    "place_id": "ChIJV5KssXP9PjURrDrDQvXnGBM",
+    "g_name": "食菜石蔵",
+    "g_rating": 5,
+    "g_reviews": 11,
+    "g_address": "日本、〒899-5113 鹿児島県霧島市隼人町嘉例川",
+    "lat": 31.8144771,
+    "lng": 130.7565654
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "日本料理 別府 廣門",
+    "name_en": "Japanese cuisine Beppu Hirokado",
+    "area": "大分県 別府市",
+    "url": "https://tabelog.com/oita/A4402/A440202/44012162/",
+    "rating": 4.39,
+    "review_count_tabelog": 141,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥30,000～￥39,999",
+    "sub_categories": "Japanese Cuisine, Regional Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 50,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9ZGgd_-nRjURdpqSWTIoO7I",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/44012162-88b1afa4e3e570f0cead72dc474d5990ad00a5ffee9ad90212ce6a405f27890e.jpg",
+    "place_id": "ChIJ9ZGgd_-nRjURdpqSWTIoO7I",
+    "g_name": "日本料理 別府 廣門",
+    "g_rating": 4.5,
+    "g_reviews": 50,
+    "g_address": "日本、〒874-0823 大分県別府市堀田 4組-2",
+    "lat": 33.2919751,
+    "lng": 131.4578164
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "綾小路 唐津",
+    "name_en": "Ayanokoji Karatsu",
+    "area": "京都府 四条（京都市営）駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260201/26029825/",
+    "rating": 3.86,
+    "review_count_tabelog": 80,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 14:00 17:30 - 22:00",
+        "dtl_text": "17:30 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The restaurant may also close on other irregular days."
+    },
+    "google_rating": 4.9,
+    "google_reviews": 59,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJI4LPCxgJAWARfeClbJQwaww",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/26029825-ccea3191479cb87f7209a9a382d7315513992b2a77c29e06a481f562a2adfb39.jpg",
+    "place_id": "ChIJI4LPCxgJAWARfeClbJQwaww",
+    "g_name": "綾小路 唐津",
+    "g_rating": 4.9,
+    "g_reviews": 59,
+    "g_address": "日本、〒600-8442 京都府京都市下京区綾小路通新町西入矢田町１１３−１",
+    "lat": 35.002437,
+    "lng": 135.7555661
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "御料理 一燈",
+    "name_en": "Oryori Ittou",
+    "area": "福井県 福井市",
+    "url": "https://tabelog.com/fukui/A1801/A180101/18008141/",
+    "rating": 4.13,
+    "review_count_tabelog": 127,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Japanese Cuisine, Crab",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays, Mondays (approximately 3 days a month), and other irregular days."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 58,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-TmH5b6_-F8RjRoUmyyD3WI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/18008141-1d963497f19094ae0b1ddc9333d6da13b0c9a68c8df9ed830bc232a13e2ab25f.jpg",
+    "place_id": "ChIJ-TmH5b6_-F8RjRoUmyyD3WI",
+    "g_name": "御料理 一燈",
+    "g_rating": 4.5,
+    "g_reviews": 58,
+    "g_address": "日本、〒910-0019 福井県福井市春山２丁目１−７",
+    "lat": 36.0673149,
+    "lng": 136.214823
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "行楽庵",
+    "name_en": "Kouraku An",
+    "area": "滋賀県 大津市",
+    "url": "https://tabelog.com/shiga/A2501/A250101/25001485/",
+    "rating": 4.07,
+    "review_count_tabelog": 118,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 13:30 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 32,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0-tFS7FyAWARwcOn-e6n4uw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/25001485-25e33281e34acb527b691db9a1bcc354553c911f7615053920b20d031e8b57fa.jpg",
+    "place_id": "ChIJ0-tFS7FyAWARwcOn-e6n4uw",
+    "g_name": "行楽庵",
+    "g_rating": 4.4,
+    "g_reviews": 32,
+    "g_address": "日本、〒520-2143 滋賀県大津市萱野浦２５−１ ＡＬＴＡ萱野浦ビュー",
+    "lat": 34.9911384,
+    "lng": 135.9096661
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "一本木石橋",
+    "name_en": "Ippongi Ishibashi",
+    "area": "福岡県 西鉄平尾駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400104/40049664/",
+    "rating": 4.04,
+    "review_count_tabelog": 121,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "12:00 - 13:00 L.O. Food 13:00 18:00 - 19:30 L.O. Food 19:30",
+        "dtl_text": "18:00 - 19:30 L.O. Food 19:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.8,
+    "google_reviews": 63,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJRfyNhOSRQTURRk9x-NTNZRU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/40049664-af297dccbfd21bc3228240b770b1282f5f0bc68d9a2496e343a54d775f070740.jpg",
+    "place_id": "ChIJRfyNhOSRQTURRk9x-NTNZRU",
+    "g_name": "一本木石橋",
+    "g_rating": 4.8,
+    "g_reviews": 63,
+    "g_address": "日本、〒810-0014 福岡県福岡市中央区平尾１丁目９−１３",
+    "lat": 33.5761334,
+    "lng": 130.4025217
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "壱",
+    "name_en": "Ninomae",
+    "area": "兵庫県 芦屋（阪神）駅",
+    "url": "https://tabelog.com/hyogo/A2803/A280302/28063007/",
+    "rating": 4.12,
+    "review_count_tabelog": 94,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Japanese Cuisine, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays and not fixed"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 23,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJr2kdONzzAGARaUD4DWWNd6o",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/28063007-8abe463c0b05818900b919657901aa76c817a76b4ea7d508d45f68918458ae5f.jpg",
+    "place_id": "ChIJr2kdONzzAGARaUD4DWWNd6o",
+    "g_name": "壱（にのまえ）",
+    "g_rating": 4.5,
+    "g_reviews": 23,
+    "g_address": "日本、〒659-0066 兵庫県芦屋市大桝町３−１６ カサリナ７",
+    "lat": 34.7304672,
+    "lng": 135.305216
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "お料理 佐藤",
+    "name_en": "Oryori Sato",
+    "area": "福岡県 北九州市小倉北区",
+    "url": "https://tabelog.com/fukuoka/A4004/A400401/40000240/",
+    "rating": 3.9,
+    "review_count_tabelog": 236,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 14:00 18:00 - 21:30",
+        "dtl_text": "18:00 - 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 79,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQT1hF06_QzURG4bnV7WR6uI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/40000240-c45f1aa265bba9eecc695f092d3ff0d2a83c94fccba59b165d1461e935893927.jpg",
+    "place_id": "ChIJQT1hF06_QzURG4bnV7WR6uI",
+    "g_name": "お料理佐藤",
+    "g_rating": 4.3,
+    "g_reviews": 79,
+    "g_address": "日本、〒802-0002 福岡県北九州市小倉北区京町３丁目５ ＫＳＫコアビル 1F",
+    "lat": 33.8849927,
+    "lng": 130.8832877
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "小魚料理 とみ助",
+    "name_en": "Kozakana Ryori Tomisuke",
+    "area": "広島県 胡町駅",
+    "url": "https://tabelog.com/hiroshima/A3401/A340109/34006208/",
+    "rating": 3.81,
+    "review_count_tabelog": 183,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese Cuisine, Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 22:00 L.O. Food 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. Food 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 101,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-aaSKgSiWjUR7GyJEXFcazc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/34006208-c94c9c6d5636be10eec655327221492af58419b1724ba62b91666cc0e6d8c546.jpg",
+    "place_id": "ChIJ-aaSKgSiWjUR7GyJEXFcazc",
+    "g_name": "小魚料理 とみ助",
+    "g_rating": 4.6,
+    "g_reviews": 101,
+    "g_address": "日本、〒730-0033 広島県広島市中区堀川町１−３１",
+    "lat": 34.3922302,
+    "lng": 132.4652169
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "日本料理 TOBIUME",
+    "name_en": "Japanese Cuisine Tobi Ume",
+    "area": "福岡県 北九州市八幡西区",
+    "url": "https://tabelog.com/fukuoka/A4004/A400404/40019957/",
+    "rating": 4.45,
+    "review_count_tabelog": 114,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "￥30,000～￥39,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "18:00 - 22:30",
+        "dtl_text": "18:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday",
+        "dtl": "12:00 - 15:00 18:00 - 22:30",
+        "dtl_text": "18:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays if Monday is a public holiday"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 33,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ036y0zjJQzURz3i8Fys7kKs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/40019957-5dfe91568f242fb55cb419d633d2733c95d3355ccec39186ec91fb391a760e41.jpg",
+    "place_id": "ChIJ036y0zjJQzURz3i8Fys7kKs",
+    "g_name": "日本料理とびうめ",
+    "g_rating": 4.5,
+    "g_reviews": 33,
+    "g_address": "日本、〒807-0803 福岡県北九州市八幡西区千代ケ崎３丁目１４−１１",
+    "lat": 33.879842,
+    "lng": 130.721274
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "片折",
+    "name_en": "Kataori",
+    "area": "石川県 金沢市",
+    "url": "https://tabelog.com/ishikawa/A1701/A170101/17011166/",
+    "rating": 4.66,
+    "review_count_tabelog": 403,
+    "price_dinner": "￥40,000～￥49,999",
+    "price_lunch": "￥40,000～￥49,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00 17:00 - 20:00",
+        "dtl_text": "17:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.7,
+    "google_reviews": 93,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0VXTfKYz-F8RO3Clvtymgek",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/17011166-7db5d1fa15ea4eacc9c7a23030582560baf3165f212b9738645772e937ff45fc.jpg",
+    "place_id": "ChIJ0VXTfKYz-F8RO3Clvtymgek",
+    "g_name": "片折",
+    "g_rating": 4.7,
+    "g_reviews": 93,
+    "g_address": "日本、〒920-0928 石川県金沢市並木町３−３６",
+    "lat": 36.5695625,
+    "lng": 136.6679909
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "奈良 而今",
+    "name_en": "Nara Nicon",
+    "area": "奈良県 奈良市",
+    "url": "https://tabelog.com/nara/A2901/A290101/29010206/",
+    "rating": 4.31,
+    "review_count_tabelog": 215,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥15,000～￥19,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays, Mondays, and the last day of each month"
+    },
+    "google_rating": 4.6,
+    "google_reviews": 153,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJoyQxNIc5AWARsCgMgZt4ljQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/29010206-49f671ca35610bd8e64e1fd742e53787920485786cf0c1a9e5dea5d9756821ed.jpg",
+    "place_id": "ChIJoyQxNIc5AWARsCgMgZt4ljQ",
+    "g_name": "奈良 而今 (にこん)",
+    "g_rating": 4.6,
+    "g_reviews": 153,
+    "g_address": "日本、〒630-8264 奈良県奈良市鍋屋町３",
+    "lat": 34.6868932,
+    "lng": 135.8293369
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "御料理ふじ居",
+    "name_en": "Oryori Fujii",
+    "area": "富山県 富山市",
+    "url": "https://tabelog.com/toyama/A1601/A160101/16005789/",
+    "rating": 4.37,
+    "review_count_tabelog": 219,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥20,000～￥29,999",
+    "sub_categories": "Japanese Cuisine, Regional Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 15:00 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The third Tuesday of each month."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 153,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJtVU9DHua918RCSjaZujcgl4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/16005789-e18af27b8671fb5a5a063c73d77d19f02324e3c91dc003b29508d55c1d0b1fdf.jpg",
+    "place_id": "ChIJtVU9DHua918RCSjaZujcgl4",
+    "g_name": "御料理 ふじ居",
+    "g_rating": 4.5,
+    "g_reviews": 153,
+    "g_address": "日本、〒931-8353 富山県富山市東岩瀬町93",
+    "lat": 36.7585235,
+    "lng": 137.2284651
+  },
+  {
+    "category_jp": "日本料理",
+    "category_en": "Japanese",
+    "region": "WEST",
+    "name": "祇園 にしかわ",
+    "name_en": "Gion Nishikawa",
+    "area": "京都府 祇園四条駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260301/26007611/",
+    "rating": 4.09,
+    "review_count_tabelog": 525,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "￥10,000～￥14,999",
+    "sub_categories": "Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "12:00 - 15:00 18:00 - 19:00",
+        "dtl_text": "18:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays (open if Monday is a public holiday), Mondays (evening service available during cherry blossom and autumn foliage seasons). Please check the restaurant's website for any changes to the regular closing days before making a reservation."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 271,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJB1aZxO0HAWAR8l3CP2AA0C8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/japanese_west/26007611-3d472cf8c46fc543812b18b5f916308301bead5d2950f79e18b2f074d755b885.jpg",
+    "place_id": "ChIJB1aZxO0HAWAR8l3CP2AA0C8",
+    "g_name": "祇園 にしかわ",
+    "g_rating": 4.2,
+    "g_reviews": 271,
+    "g_address": "日本、〒605-0825 京都府京都市東山区下河原通八坂鳥居前下る下河原町４７３",
+    "lat": 34.9997751,
+    "lng": 135.7788781
+  }
+]

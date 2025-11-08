@@ -1,0 +1,4474 @@
+[
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "翠江堂 本店",
+    "name_en": "Suikou Dou Hon Ten",
+    "area": "東京都 八丁堀駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130203/13007680/",
+    "rating": 3.63,
+    "review_count_tabelog": 751,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese traditional sweets, Daifuku (Red bean paste rice cake)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "09:00 - 18:00",
+        "dtl_text": "09:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "09:00 - 14:00",
+        "dtl_text": "09:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 425,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJv7YBQV2JGGARPOVRlttxeKI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13007680-9b3eff1be4b33669a58dd6558e8f848dfc034d4fb77f97f6f5931a99a4f86dcd.jpg",
+    "place_id": "ChIJv7YBQV2JGGARPOVRlttxeKI",
+    "g_name": "翠江堂 本店",
+    "g_rating": 4.5,
+    "g_reviews": 425,
+    "g_address": "日本、〒104-0033 東京都中央区新川２丁目１７−１３",
+    "lat": 35.6750067,
+    "lng": 139.7819838
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "いちょうの木",
+    "name_en": "Ichou no Ki",
+    "area": "東京都 北品川駅",
+    "url": "https://tabelog.com/tokyo/A1314/A131405/13087366/",
+    "rating": 3.68,
+    "review_count_tabelog": 420,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafe featuring Japanese sweets, Kissa (Japanese coffee shop), Kakigori (Shaved ice)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Fri, Sat, Sun",
+        "dtl": "11:30 - 17:00",
+        "dtl_text": "11:30 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Occasional temporary closures"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 203,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJL-hh7GeKGGARUy0XWN6kiN8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13087366-66b17407982b9531cb6461affe99bd9ef59abb086b40914d22b4d3f83ce26d1d.jpg",
+    "place_id": "ChIJL-hh7GeKGGARUy0XWN6kiN8",
+    "g_name": "甘味処いちょうの木",
+    "g_rating": 4.1,
+    "g_reviews": 203,
+    "g_address": "日本、〒140-0001 東京都品川区北品川１丁目２８−１４",
+    "lat": 35.6200353,
+    "lng": 139.7411048
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "坂本屋",
+    "name_en": "Sakamoto Ya",
+    "area": "東京都 四ツ谷駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130902/13006759/",
+    "rating": 3.69,
+    "review_count_tabelog": 441,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Castella, Japanese traditional sweets, Sweets",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat",
+        "dtl": "09:30 - 17:00",
+        "dtl_text": "09:30 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The shop is open on Sundays and Wednesdays, which coincide with traditional Japanese events such as Higan and Sekku."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 246,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJc2z2ZYuMGGARMTVT902viDs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13006759-10bec68779e1b90f8a65dd77a296356d39653456707d84704d46a3fcd9aeb768.jpg",
+    "place_id": "ChIJc2z2ZYuMGGARMTVT902viDs",
+    "g_name": "炭火魚 旬彩料理 坂本",
+    "g_rating": 4.2,
+    "g_reviews": 246,
+    "g_address": "日本、〒160-0004 東京都新宿区四谷１丁目２３−９ YOK BUILD 1階",
+    "lat": 35.687469,
+    "lng": 139.7275779
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "塩野",
+    "name_en": "Shiono",
+    "area": "東京都 赤坂駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130801/13002747/",
+    "rating": 3.76,
+    "review_count_tabelog": 727,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese traditional sweets, Dorayaki (Japanese sweet pancake)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "10:00 - 18:00",
+        "dtl_text": "10:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Public Holiday",
+        "dtl": "10:00 - 17:00",
+        "dtl_text": "10:00 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 313,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJb7FpIoeLGGAR5u71Z8CBUzo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13002747-5a133fb1706202a0b9414db6b6c9cf1a0935d5aab24ea0f0aace3937e6f7aa08.jpg",
+    "place_id": "ChIJb7FpIoeLGGAR5u71Z8CBUzo",
+    "g_name": "御菓子司 塩野",
+    "g_rating": 4.3,
+    "g_reviews": 313,
+    "g_address": "日本、〒107-0052 東京都港区赤坂２丁目１３−２",
+    "lat": 35.6729634,
+    "lng": 139.7384143
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "ナニワヤ・カフェ",
+    "name_en": "Naniwaya cafe",
+    "area": "東京都 麻布十番駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130702/13021127/",
+    "rating": 3.7,
+    "review_count_tabelog": 406,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cafe featuring Japanese sweets, Kakigori (Shaved ice), Stir-fried noodles",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 18:00",
+        "dtl_text": "11:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 1991,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVV0cp-LGGARbCCtcK-Ds4E",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13021127-e99e42e8c043c582d68b8ebcc58cb240b9f58827455d37e9922e6b50f205a06c.jpg",
+    "place_id": "ChIJVVV0cp-LGGARbCCtcK-Ds4E",
+    "g_name": "元祖たいやき 浪花家総本店",
+    "g_rating": 4.1,
+    "g_reviews": 1991,
+    "g_address": "日本、〒106-0045 東京都港区麻布十番１丁目８−１４",
+    "lat": 35.6561898,
+    "lng": 139.7351081
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "高橋の酒まんじゅう",
+    "name_en": "Takahashi no Saka Manju",
+    "area": "東京都 荻窪駅",
+    "url": "https://tabelog.com/tokyo/A1319/A131906/13044820/",
+    "rating": 3.72,
+    "review_count_tabelog": 372,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Japanese traditional sweets",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "10:00 - 12:00",
+        "dtl_text": "10:00 - 12:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 78,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJA5PCBMbtGGAR9ES6ExXGU5g",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13044820-17047851766c7daa1f64813660427eb98a1b305f9eca2c0fb3b747c9be4170fa.jpg",
+    "place_id": "ChIJA5PCBMbtGGAR9ES6ExXGU5g",
+    "g_name": "高橋の酒まんじゅう",
+    "g_rating": 4.5,
+    "g_reviews": 78,
+    "g_address": "日本、〒167-0032 東京都杉並区天沼３丁目１−９",
+    "lat": 35.7057354,
+    "lng": 139.6227604
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "だるまや餅菓子店",
+    "name_en": "Darumaya Mochigashi Ten",
+    "area": "東京都 十条駅",
+    "url": "https://tabelog.com/tokyo/A1323/A132304/13008769/",
+    "rating": 3.76,
+    "review_count_tabelog": 885,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafe featuring Japanese sweets, Kakigori (Shaved ice), Japanese traditional sweets",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 18:30",
+        "dtl_text": "11:00 - 18:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.7,
+    "google_reviews": 320,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJhW1Hgu2SGGART78RBt2LqFY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13008769-167d6cb3acdacd90b9e7e3adf50a64112068936612b14485d862d5e84aa8c112.jpg",
+    "place_id": "ChIJhW1Hgu2SGGART78RBt2LqFY",
+    "g_name": "だるまや餅菓子店",
+    "g_rating": 3.7,
+    "g_reviews": 320,
+    "g_address": "日本、〒114-0031 東京都北区十条仲原１丁目３−６",
+    "lat": 35.7622283,
+    "lng": 139.7213893
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "高尾山スミカ",
+    "name_en": "Takao San Sumika",
+    "area": "東京都 八王子市",
+    "url": "https://tabelog.com/tokyo/A1329/A132905/13042628/",
+    "rating": 3.69,
+    "review_count_tabelog": 713,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Taiyaki, Obanyaki, Gelato, Ice cream",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 16:30",
+        "dtl_text": "10:00 - 16:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round (except in severe weather conditions)"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 15,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZdDKkl8ZGWARKdsx_2rqeRw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13042628-e2f6cc18d3e5d571cf127e9e8e3d51254ee9c4b5ee0e51888aef167086d9a2aa.jpg",
+    "place_id": "ChIJZdDKkl8ZGWARKdsx_2rqeRw",
+    "g_name": "売店香住",
+    "g_rating": 4.2,
+    "g_reviews": 15,
+    "g_address": "日本、〒193-0844 東京都八王子市高尾町２２０５",
+    "lat": 35.6306602,
+    "lng": 139.2561973
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "梅むら",
+    "name_en": "Umemura",
+    "area": "東京都 浅草（つくばＥＸＰ）駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131102/13008698/",
+    "rating": 3.76,
+    "review_count_tabelog": 819,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cafe featuring Japanese sweets, Kakigori (Shaved ice), Japanese traditional sweets",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "12:30 - 19:00",
+        "dtl_text": "12:30 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 471,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJE1tXduqOGGARDxuSA_gogzg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13008698-2a4499490dad33bb6f8a219650e8de42b53639770ce124dfa129e1f93f94ece3.jpg",
+    "place_id": "ChIJE1tXduqOGGARDxuSA_gogzg",
+    "g_name": "梅むら",
+    "g_rating": 4.4,
+    "g_reviews": 471,
+    "g_address": "日本、〒111-0032 東京都台東区浅草３丁目２２−１２ 新坂ビル １Ｆ",
+    "lat": 35.716713,
+    "lng": 139.7967043
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "つる瀬 湯島本店",
+    "name_en": "Tsuruse Yushima Honten",
+    "area": "東京都 湯島駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131101/13003616/",
+    "rating": 3.74,
+    "review_count_tabelog": 1322,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Japanese traditional sweets, Daifuku (Red bean paste rice cake), Cafe featuring Japanese sweets",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "09:30 - 19:00",
+        "dtl_text": "09:30 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "09:30 - 18:00",
+        "dtl_text": "09:30 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Day after public holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 714,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJlaEPqyGMGGAR0UVpiY_MGJE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13003616-47896adfd43a58302e4b56d129de0471745566c02eb5158513aa83a1f6aa6212.jpg",
+    "place_id": "ChIJlaEPqyGMGGAR0UVpiY_MGJE",
+    "g_name": "つる瀬 本店",
+    "g_rating": 4.2,
+    "g_reviews": 714,
+    "g_address": "日本、〒113-0034 東京都文京区湯島３丁目３５−８ コア湯島",
+    "lat": 35.7080988,
+    "lng": 139.7701436
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "喫茶去",
+    "name_en": "Kissa Ko",
+    "area": "東京都 京成上野駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131101/13049802/",
+    "rating": 3.71,
+    "review_count_tabelog": 416,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cafe featuring Japanese sweets, Kissa (Japanese coffee shop)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "15:00 - 17:00",
+        "dtl_text": "15:00 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 149,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZwKpfyeMGGARauvRjayYccQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13049802-b757551874a9662bdc417085581c130f464157baf3726f97101242ccd84fadfc.jpg",
+    "place_id": "ChIJZwKpfyeMGGARauvRjayYccQ",
+    "g_name": "喫茶去",
+    "g_rating": 4.3,
+    "g_reviews": 149,
+    "g_address": "日本、〒110-0007 東京都台東区上野公園４−５９",
+    "lat": 35.7137788,
+    "lng": 139.7727277
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "越後屋若狭",
+    "name_en": "Echigoya Wakasa",
+    "area": "東京都 浜町駅",
+    "url": "https://tabelog.com/tokyo/A1312/A131201/13046248/",
+    "rating": 3.7,
+    "review_count_tabelog": 229,
+    "price_dinner": "-",
+    "price_lunch": "-",
+    "sub_categories": "Japanese traditional sweets",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "10:00 - 17:00",
+        "dtl_text": "10:00 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 38,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJvRyxjEmJGGARpJ8JFoz6IpE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13046248-916aa8e441035290e93164216c8ea0fb9a749921cd1aa342048428e35dadfa90.jpg",
+    "place_id": "ChIJvRyxjEmJGGARpJ8JFoz6IpE",
+    "g_name": "越後屋若狭",
+    "g_rating": 4.4,
+    "g_reviews": 38,
+    "g_address": "日本、〒130-0025 東京都墨田区千歳１丁目８−４",
+    "lat": 35.6914632,
+    "lng": 139.7920198
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "北斎茶房",
+    "name_en": "Hokusai Sabo",
+    "area": "東京都 錦糸町駅",
+    "url": "https://tabelog.com/tokyo/A1312/A131201/13009563/",
+    "rating": 3.75,
+    "review_count_tabelog": 1256,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cafe featuring Japanese sweets, Kakigori (Shaved ice), Kamameshi",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 18:00 L.O. 17:30",
+        "dtl_text": "11:00 - 18:00 L.O. 17:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 597,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJaQ76ly6JGGARU3DZ0pperkk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13009563-ae5bc511101908c4eb3f5abccb2f48d6a1cb9bd3da44e9e8571e5376d872ee48.jpg",
+    "place_id": "ChIJaQ76ly6JGGARU3DZ0pperkk",
+    "g_name": "北斎茶房",
+    "g_rating": 4.1,
+    "g_reviews": 597,
+    "g_address": "日本、〒130-0014 東京都墨田区亀沢４丁目８−５",
+    "lat": 35.6973625,
+    "lng": 139.8074114
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "菊丸",
+    "name_en": "Kikumaru",
+    "area": "東京都 田原町駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131102/13092157/",
+    "rating": 3.71,
+    "review_count_tabelog": 544,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cafe featuring Japanese sweets, Kakigori (Shaved ice), Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 19:00 L.O. 18:30",
+        "dtl_text": "11:30 - 19:00 L.O. 18:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Reservations are accepted only on weekdays. On Saturdays, Sundays, and public holidays, seating will be on a first-come, first-served basis."
+    },
+    "google_rating": 4.5,
+    "google_reviews": 325,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJYdOia76OGGARfTno5T95srM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13092157-93951aedde340fc71858233b51bd84716172618ae35e6dba2093e72507790832.jpg",
+    "place_id": "ChIJYdOia76OGGARfTno5T95srM",
+    "g_name": "甘味茶房 菊丸",
+    "g_rating": 4.5,
+    "g_reviews": 325,
+    "g_address": "日本、〒111-0035 東京都台東区西浅草２丁目４−１",
+    "lat": 35.7122544,
+    "lng": 139.7892628
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "亀十",
+    "name_en": "Kameju",
+    "area": "東京都 浅草（東武・都営・メトロ）駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131102/13003655/",
+    "rating": 3.79,
+    "review_count_tabelog": 3914,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Japanese traditional sweets, Dorayaki (Japanese sweet pancake), Daifuku (Red bean paste rice cake)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 19:00",
+        "dtl_text": "10:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "■Reservations not accepted on weekends and public holidays"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 3064,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJa-TK7saOGGARiteqlOmJrjI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13003655-2d7d03a199bcf9c4528dbeaa790223def6648a60951defbf87a161cad3503723.jpg",
+    "place_id": "ChIJa-TK7saOGGARiteqlOmJrjI",
+    "g_name": "御菓子司 亀十",
+    "g_rating": 4.2,
+    "g_reviews": 3064,
+    "g_address": "日本、〒111-0034 東京都台東区雷門２丁目１８−１１",
+    "lat": 35.7106886,
+    "lng": 139.7967819
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "天音",
+    "name_en": "Amane",
+    "area": "東京都 吉祥寺駅",
+    "url": "https://tabelog.com/tokyo/A1320/A132001/13019467/",
+    "rating": 3.7,
+    "review_count_tabelog": 1270,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Taiyaki, Obanyaki",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 18:00",
+        "dtl_text": "11:00 - 18:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 517,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJc5dW5kfuGGARQId7I7u99hc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13019467-0bc38f3236d0b1c403d61b0b77209a0d991bf5712095f84f4f017a0c3461bb4a.jpg",
+    "place_id": "ChIJc5dW5kfuGGARQId7I7u99hc",
+    "g_name": "天音",
+    "g_rating": 4.2,
+    "g_reviews": 517,
+    "g_address": "日本、〒180-0004 東京都武蔵野市吉祥寺本町１丁目１−９",
+    "lat": 35.7038543,
+    "lng": 139.5791986
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "菊見せんべい総本店",
+    "name_en": "Kikumi Senbei Sohonten",
+    "area": "東京都 千駄木駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131106/13018372/",
+    "rating": 3.7,
+    "review_count_tabelog": 446,
+    "price_dinner": "～￥999",
+    "price_lunch": "-",
+    "sub_categories": "Senbei (Rice cracker), Bread, Sandwich",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 19:00",
+        "dtl_text": "10:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 185,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJM1GjQtKNGGARFfRMJGX62YI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13018372-31887e5b86eb3514c326bd90a48ef57c039763c4967c8a6a703e6ae53523bbc0.jpg",
+    "place_id": "ChIJM1GjQtKNGGARFfRMJGX62YI",
+    "g_name": "菊見煎餅総本店",
+    "g_rating": 4.2,
+    "g_reviews": 185,
+    "g_address": "日本、〒113-0022 東京都文京区千駄木３丁目３７−１６",
+    "lat": 35.7247943,
+    "lng": 139.7639712
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "茶寮都路里 大丸東京店",
+    "name_en": "Saryo Tsujiri Daimaru Tokyo Ten",
+    "area": "東京都 東京駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130201/13044461/",
+    "rating": 3.63,
+    "review_count_tabelog": 1166,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafe featuring Japanese sweets, Cafe, Kakigori (Shaved ice)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 20:00 L.O. 19:30",
+        "dtl_text": "10:00 - 20:00 L.O. 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "New Year's Day"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 695,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJtxODuv6LGGARuRRx6E2TZuM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13044461-facb9ef26335eb3667fb110bdcb46d1da43e9dd88c9c7d945f3b7e4846f08721.jpg",
+    "place_id": "ChIJtxODuv6LGGARuRRx6E2TZuM",
+    "g_name": "茶寮都路里 大丸東京店",
+    "g_rating": 4.4,
+    "g_reviews": 695,
+    "g_address": "日本、〒100-0005 東京都千代田区丸の内１丁目９−１ 大丸東京店 10階",
+    "lat": 35.6814228,
+    "lng": 139.7692422
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "菓匠 菊家",
+    "name_en": "Kasho Kikuya",
+    "area": "東京都 表参道駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130602/13006970/",
+    "rating": 3.8,
+    "review_count_tabelog": 278,
+    "price_dinner": "-",
+    "price_lunch": "-",
+    "sub_categories": "Japanese traditional sweets",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "09:30 - 17:00",
+        "dtl_text": "09:30 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 71,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJkUtA2WCLGGARmhwepr0UKoA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13006970-7ac54e930f7300ee3777a1ee5aa2c066723c11719767d9edcb53dcc861acfff1.jpg",
+    "place_id": "ChIJkUtA2WCLGGARmhwepr0UKoA",
+    "g_name": "菓匠 菊家",
+    "g_rating": 4.4,
+    "g_reviews": 71,
+    "g_address": "日本、〒107-0062 東京都港区南青山５丁目１３−２ 菊家ビル 9F",
+    "lat": 35.6612785,
+    "lng": 139.7138897
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "喜田屋",
+    "name_en": "Kitaya",
+    "area": "東京都 西荻窪駅",
+    "url": "https://tabelog.com/tokyo/A1319/A131907/13044291/",
+    "rating": 3.72,
+    "review_count_tabelog": 526,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Japanese traditional sweets, Daifuku (Red bean paste rice cake)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "09:30 - 18:00",
+        "dtl_text": "09:30 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays and Tuesdays (open on public holidays)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 143,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJIVFjag7uGGAREGvBa-9G1Yc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13044291-641d57f595581ce5aca983e28c1c59ce5c72e2701a72b61b0cf3b731e3bd04c8.jpg",
+    "place_id": "ChIJIVFjag7uGGAREGvBa-9G1Yc",
+    "g_name": "喜田屋",
+    "g_rating": 4.3,
+    "g_reviews": 143,
+    "g_address": "日本、〒167-0042 東京都杉並区西荻北３丁目３１−１５",
+    "lat": 35.7055562,
+    "lng": 139.6007984
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "かりんとう ゆしま花月",
+    "name_en": "Karinto Yushima Kagetsu",
+    "area": "東京都 上野広小路駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131101/13008524/",
+    "rating": 3.76,
+    "review_count_tabelog": 930,
+    "price_dinner": "～￥999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese traditional sweets",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "09:30 - 20:00",
+        "dtl_text": "09:30 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "10:00 - 17:00",
+        "dtl_text": "10:00 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 245,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJA5bLlwuNGGAReTiReq6Obvg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13008524-34d7c6a5f59c2eae7685e99119c8f39ea93d0793c2b6e27105b074da380375d3.jpg",
+    "place_id": "ChIJA5bLlwuNGGAReTiReq6Obvg",
+    "g_name": "かりんとう ゆしま花月",
+    "g_rating": 4.3,
+    "g_reviews": 245,
+    "g_address": "日本、〒113-0034 東京都文京区湯島３丁目３９−６",
+    "lat": 35.7077061,
+    "lng": 139.7716676
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "日本橋 錦豊琳 かりんとう専門店",
+    "name_en": "Nihonbashi Nishikihorin Karinto Senmonten",
+    "area": "東京都 東京駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130201/13045125/",
+    "rating": 3.73,
+    "review_count_tabelog": 841,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Japanese traditional sweets",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "08:00 - 22:00",
+        "dtl_text": "08:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "08:00 - 21:00",
+        "dtl_text": "08:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 98,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGeYlX_mLGGARtYdB9saZp9o",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13045125-9cf6cc44ff9414987891f8ae6167a2752862ca4d7f57d6ea80dab6a004ee36f9.jpg",
+    "place_id": "ChIJGeYlX_mLGGARtYdB9saZp9o",
+    "g_name": "日本橋 錦豊琳 グランスタ店",
+    "g_rating": 4.2,
+    "g_reviews": 98,
+    "g_address": "JR東日本東京駅構内「グランスタ」内 地下 1階, １丁目-９-１ 丸の内 千代田区 東京都 100-0005 日本",
+    "lat": 35.6813175,
+    "lng": 139.7673559
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "あんや",
+    "name_en": "Anya",
+    "area": "東京都 成城学園前駅",
+    "url": "https://tabelog.com/tokyo/A1318/A131814/13007428/",
+    "rating": 3.72,
+    "review_count_tabelog": 636,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafe featuring Japanese sweets, Japanese traditional sweets, Kakigori (Shaved ice)",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Only on New Year's Day and approximately two maintenance days per year."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 342,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJze4ulWjxGGARpcVVa0fAhtY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13007428-ce45881cc56fb4bdc8d693b6df568907a1dbb754e1c767931f7ce5163401e356.jpg",
+    "place_id": "ChIJze4ulWjxGGARpcVVa0fAhtY",
+    "g_name": "成城あんや",
+    "g_rating": 4.2,
+    "g_reviews": 342,
+    "g_address": "日本、〒157-0066 東京都世田谷区成城６丁目５−２７",
+    "lat": 35.6402314,
+    "lng": 139.5982265
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "麻布 昇月堂",
+    "name_en": "Azabu Shogetsudo",
+    "area": "東京都 広尾駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130703/13036997/",
+    "rating": 3.69,
+    "review_count_tabelog": 296,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese traditional sweets",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "10:00 - 17:00",
+        "dtl_text": "10:00 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 135,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-XUYY2-LGGARUnOUjh5kg8w",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13036997-e829aadd97acd3a285cb370759b138e0351a99219f9b0ccdc7a178f58158b129.jpg",
+    "place_id": "ChIJ-XUYY2-LGGARUnOUjh5kg8w",
+    "g_name": "麻布昇月堂",
+    "g_rating": 4.3,
+    "g_reviews": 135,
+    "g_address": "日本、〒106-0031 東京都港区西麻布４丁目２２−１２",
+    "lat": 35.6575806,
+    "lng": 139.7184958
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "桃太郎",
+    "name_en": "Momotaro",
+    "area": "東京都 浅草（つくばＥＸＰ）駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131102/13008578/",
+    "rating": 3.69,
+    "review_count_tabelog": 473,
+    "price_dinner": "～￥999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese traditional sweets",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "09:30 - 18:00",
+        "dtl_text": "09:30 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 5,
+    "google_reviews": 3,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1ysRKeuOGGARi6_kjpCzdrw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13008578-32abfe7af3d7da41391da08651966bfa303bda00f245544c34d7d7bca8bf9a1b.jpg",
+    "place_id": "ChIJ1ysRKeuOGGARi6_kjpCzdrw",
+    "g_name": "桃太郎",
+    "g_rating": 5,
+    "g_reviews": 3,
+    "g_address": "日本、〒111-0032 東京都台東区浅草３丁目４０−２",
+    "lat": 35.7178833,
+    "lng": 139.7937702
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "一元屋",
+    "name_en": "Ichigenya",
+    "area": "東京都 半蔵門駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130803/13006404/",
+    "rating": 3.71,
+    "review_count_tabelog": 295,
+    "price_dinner": "～￥999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese traditional sweets",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays and public holidays"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 186,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJwbDvpHqMGGARoXI74Ukqm1s",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13006404-1269ccef605542b1675bdcfe0ad75292462344c12e934554593b455135912613.jpg",
+    "place_id": "ChIJwbDvpHqMGGARoXI74Ukqm1s",
+    "g_name": "江戸銘菓 一元屋",
+    "g_rating": 4.5,
+    "g_reviews": 186,
+    "g_address": "日本、〒132-0021 東京都江戸川区中央２丁目１８−１７",
+    "lat": 35.7081382,
+    "lng": 139.8735867
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "石田屋",
+    "name_en": "Ishida Ya",
+    "area": "東京都 上板橋駅",
+    "url": "https://tabelog.com/tokyo/A1322/A132203/13003807/",
+    "rating": 3.69,
+    "review_count_tabelog": 546,
+    "price_dinner": "～￥999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese traditional sweets, Cake, Dorayaki (Japanese sweet pancake)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "08:45 - 17:45",
+        "dtl_text": "08:45 - 17:45",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 807,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJhymByN7sGGAR9VJQXnGYA9Q",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13003807-64ebf74bbcc54e34fff2cea27fdad5f95dc0f63a96a3e7e7eccde7fe2b7d1888.jpg",
+    "place_id": "ChIJhymByN7sGGAR9VJQXnGYA9Q",
+    "g_name": "ひと本 石田屋",
+    "g_rating": 4.3,
+    "g_reviews": 807,
+    "g_address": "日本、〒174-0076 東京都板橋区上板橋２丁目３２−１６",
+    "lat": 35.7629083,
+    "lng": 139.6753683
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "かりんとう 小桜",
+    "name_en": "Karinto Kozakura",
+    "area": "東京都 浅草（つくばＥＸＰ）駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131102/13009553/",
+    "rating": 3.71,
+    "review_count_tabelog": 433,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Japanese traditional sweets",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "10:00 - 17:30",
+        "dtl_text": "10:00 - 17:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 213,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJP9NBUeqOGGAR7EqRLio3S80",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13009553-8436bf5edaacf886bb60b3926b3a6baac3ca1c3ce3ac8aaba44fc18f80525648.jpg",
+    "place_id": "ChIJP9NBUeqOGGAR7EqRLio3S80",
+    "g_name": "かりんとう小桜",
+    "g_rating": 4.2,
+    "g_reviews": 213,
+    "g_address": "日本、〒111-0032 東京都台東区浅草４丁目１４−１０",
+    "lat": 35.7184502,
+    "lng": 139.7964283
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "言問団子",
+    "name_en": "Kototoi Dango",
+    "area": "東京都 曳舟駅",
+    "url": "https://tabelog.com/tokyo/A1312/A131203/13002945/",
+    "rating": 3.74,
+    "review_count_tabelog": 639,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Japanese traditional sweets, Cafe featuring Japanese sweets",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "09:00 - 17:00",
+        "dtl_text": "09:00 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Last Wednesday of each month"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 672,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJryVNmt6OGGARDgDQ4rXh6gI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13002945-37e4ef4ed0dcf605175ccf3434b7a4ec1f9d23f7142a68c0a18ead4a7b7a516e.jpg",
+    "place_id": "ChIJryVNmt6OGGARDgDQ4rXh6gI",
+    "g_name": "向島 言問団子(ことといだんご)",
+    "g_rating": 4.2,
+    "g_reviews": 672,
+    "g_address": "日本、〒131-0033 東京都墨田区向島５丁目５−２２",
+    "lat": 35.7184633,
+    "lng": 139.8090969
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "すずめや",
+    "name_en": "Suzumeya",
+    "area": "東京都 池袋駅",
+    "url": "https://tabelog.com/tokyo/A1305/A130501/13009255/",
+    "rating": 3.79,
+    "review_count_tabelog": 1679,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Japanese traditional sweets, Dorayaki (Japanese sweet pancake)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Thu, Fri, Sat",
+        "dtl": "11:00 - 18:00",
+        "dtl_text": "11:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.5,
+    "google_reviews": 535,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-xtirWmNGGARfsAdsvw3fW8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13009255-853e756bf839c074ad96c4da4b341f3ce8e36eec188a7c01bcd92f96b7a2fcd1.jpg",
+    "place_id": "ChIJ-xtirWmNGGARfsAdsvw3fW8",
+    "g_name": "すずめや",
+    "g_rating": 4.5,
+    "g_reviews": 535,
+    "g_address": "日本、〒171-0022 東京都豊島区南池袋２丁目１８−５",
+    "lat": 35.7267095,
+    "lng": 139.7134324
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "鳴門金時本舗 栗尾商店 グランスタ店",
+    "name_en": "Naruto Kintoki Honpo Kurio Shoten Gransta Ten",
+    "area": "東京都 東京駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130201/13143553/",
+    "rating": 3.72,
+    "review_count_tabelog": 634,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Japanese traditional sweets, Sweets, Sweets (Western style)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "08:00 - 22:00",
+        "dtl_text": "08:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "08:00 - 21:00",
+        "dtl_text": "08:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 90,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ40jEfPmLGGARqVB7DAR9-1o",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13143553-78539c6caf79340e1c3ebe4dc425a9ec5fb58a30313c0dbddc80a3a6495d1fbc.jpg",
+    "place_id": "ChIJ40jEfPmLGGARqVB7DAR9-1o",
+    "g_name": "鳴門金時本舗 栗尾商店",
+    "g_rating": 4.1,
+    "g_reviews": 90,
+    "g_address": "日本、〒100-0005 東京都千代田区丸の内１丁目９−１ ＪＲ東日本東京駅",
+    "lat": 35.6814714,
+    "lng": 139.7657823
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "森乃園",
+    "name_en": "Morinoen",
+    "area": "東京都 人形町駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130204/13041947/",
+    "rating": 3.72,
+    "review_count_tabelog": 942,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Soft serve ice cream",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "10:00 - 19:00",
+        "dtl_text": "10:00 - 19:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 615,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJT_Ud20-JGGARRJLcQ7IRIjM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13041947-7ff274168cb3183836201eeed0524fc913eb32c29850c3b326f0e6f88ab3a92f.jpg",
+    "place_id": "ChIJT_Ud20-JGGARRJLcQ7IRIjM",
+    "g_name": "森乃園",
+    "g_rating": 4.1,
+    "g_reviews": 615,
+    "g_address": "日本、〒103-0013 東京都中央区日本橋人形町２丁目４−９",
+    "lat": 35.6853499,
+    "lng": 139.7836358
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "浪花家 江戸川橋",
+    "name_en": "Naniwaya Edogawabashi",
+    "area": "東京都 江戸川橋駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13006453/",
+    "rating": 3.69,
+    "review_count_tabelog": 512,
+    "price_dinner": "～￥999",
+    "price_lunch": "-",
+    "sub_categories": "Taiyaki, Obanyaki",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 18:00",
+        "dtl_text": "10:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 541,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJIQcUV6CLGGARKY6ThCLydeY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13006453-b22a54aae8fd4cba117ed3c1aa7ef65e1acbed60696c951279ca3e79ed8cc799.jpg",
+    "place_id": "ChIJIQcUV6CLGGARKY6ThCLydeY",
+    "g_name": "スーパー ナニワヤ",
+    "g_rating": 4.2,
+    "g_reviews": 541,
+    "g_address": "日本、〒106-0045 東京都港区麻布十番３丁目９−５",
+    "lat": 35.6525968,
+    "lng": 139.7341941
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "御菓子処 さゝま",
+    "name_en": "Okashi Dokoro Sasama",
+    "area": "東京都 神保町駅",
+    "url": "https://tabelog.com/tokyo/A1310/A131003/13000627/",
+    "rating": 3.81,
+    "review_count_tabelog": 1064,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Japanese traditional sweets",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "09:30 - 18:00",
+        "dtl_text": "09:30 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 278,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJny5QWhCMGGARv2yf6ZR9mGI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13000627-3d3bad9341d20033b44d84e04d4313b5af535b4fbd813e50a281595ae8add633.jpg",
+    "place_id": "ChIJny5QWhCMGGARv2yf6ZR9mGI",
+    "g_name": "御菓子処 さゝま",
+    "g_rating": 4.3,
+    "g_reviews": 278,
+    "g_address": "日本、〒101-0051 東京都千代田区神田神保町１丁目２３",
+    "lat": 35.6950699,
+    "lng": 139.7611146
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "羽二重団子 本店",
+    "name_en": "Habutae Dango Hon Ten",
+    "area": "東京都 日暮里駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131105/13003775/",
+    "rating": 3.71,
+    "review_count_tabelog": 820,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Japanese traditional sweets, Cafe featuring Japanese sweets",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "09:30 - 16:30 L.O. 16:15",
+        "dtl_text": "09:30 - 16:30 L.O. 16:15",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "10:00 - 16:30 L.O. 16:15",
+        "dtl_text": "10:00 - 16:30 L.O. 16:15",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Public Holiday",
+        "dtl": "10:00 - 16:30",
+        "dtl_text": "10:00 - 16:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.1,
+    "google_reviews": 295,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJk-QQjdWNGGARZZelzLaMMiU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13003775-66629c032a06a3b7ad0b16f529170a043ff5af5afbe66da98cfbb67a18133e4e.jpg",
+    "place_id": "ChIJk-QQjdWNGGARZZelzLaMMiU",
+    "g_name": "羽二重団子 日暮里駅前店",
+    "g_rating": 4.1,
+    "g_reviews": 295,
+    "g_address": "日本、〒116-0014 東京都荒川区東日暮里６丁目６０−６−１０３",
+    "lat": 35.7285161,
+    "lng": 139.7722527
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "ちもと",
+    "name_en": "Chimoto",
+    "area": "東京都 都立大学駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131702/13003218/",
+    "rating": 3.78,
+    "review_count_tabelog": 922,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Japanese traditional sweets, Cafe featuring Japanese sweets, Kakigori (Shaved ice)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri, Sat, Sun",
+        "dtl": "10:00 - 16:00",
+        "dtl_text": "10:00 - 16:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "As of February 21, 2025, the sweet shop is currently closed."
+    },
+    "google_rating": 4.4,
+    "google_reviews": 292,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJU39SEtz0GGARFB9WZ-cqQww",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13003218-18fa9f77990cd01e6b0a9655ad075cca5030666b38da65aae69c13cbc5a54424.jpg",
+    "place_id": "ChIJU39SEtz0GGARFB9WZ-cqQww",
+    "g_name": "御菓子所 ちもと",
+    "g_rating": 4.4,
+    "g_reviews": 292,
+    "g_address": "日本、〒152-0023 東京都目黒区八雲１丁目４−６",
+    "lat": 35.6181774,
+    "lng": 139.674877
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "初音",
+    "name_en": "Hatsune",
+    "area": "東京都 水天宮前駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130204/13003045/",
+    "rating": 3.69,
+    "review_count_tabelog": 880,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafe featuring Japanese sweets, Cafe, Japanese traditional sweets",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 17:30",
+        "dtl_text": "11:30 - 17:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "From January 16, 2024 onwards"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 649,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJnyTC-k-JGGARm69TMK-EaFA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13003045-85d8e17fec9ef7550303aaea9b1d428fe0dfa6f54543c68e8606b8c6a59eb270.jpg",
+    "place_id": "ChIJnyTC-k-JGGARm69TMK-EaFA",
+    "g_name": "甘味処 初音",
+    "g_rating": 4.3,
+    "g_reviews": 649,
+    "g_address": "日本、〒103-0013 東京都中央区日本橋人形町１丁目１５−６",
+    "lat": 35.6843113,
+    "lng": 139.7838729
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "黒松本舗 草月",
+    "name_en": "Kuromatsu Honpo Sogetsu",
+    "area": "東京都 東十条駅",
+    "url": "https://tabelog.com/tokyo/A1323/A132304/13003793/",
+    "rating": 3.79,
+    "review_count_tabelog": 1738,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Japanese traditional sweets, Dorayaki (Japanese sweet pancake)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 18:00",
+        "dtl_text": "10:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 2289,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJIfzR0PSSGGARFpX3S4rWS94",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13003793-14aa49138099d90ee93ee7f235502f93036217c67633e62ed5cb93e3368a7681.jpg",
+    "place_id": "ChIJIfzR0PSSGGARFpX3S4rWS94",
+    "g_name": "黒松本舗 草月",
+    "g_rating": 4.3,
+    "g_reviews": 2289,
+    "g_address": "日本、〒114-0001 東京都北区東十条２丁目１５−１６",
+    "lat": 35.76329339999999,
+    "lng": 139.7291479
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "時屋 新宿小田急ハルク店",
+    "name_en": "Toki Ya Shinjuku Odakyu Haruku Ten",
+    "area": "東京都 新宿西口駅",
+    "url": "https://tabelog.com/tokyo/A1304/A130401/13006696/",
+    "rating": 3.7,
+    "review_count_tabelog": 1126,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cafe featuring Japanese sweets, Japanese traditional sweets, Kissa (Japanese coffee shop)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 20:00 L.O. 19:30",
+        "dtl_text": "11:00 - 20:00 L.O. 19:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Public Holiday",
+        "dtl": "11:00 - 20:00",
+        "dtl_text": "11:00 - 20:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 545,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_fFg4taMGGARLG1Agid-lKE",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13006696-7f347575567e15a64424dde32a9f66c24af8c8583caf0b4f61f80ea1621dada9.jpg",
+    "place_id": "ChIJ_fFg4taMGGARLG1Agid-lKE",
+    "g_name": "時屋",
+    "g_rating": 4.1,
+    "g_reviews": 545,
+    "g_address": "日本、〒160-0023 東京都新宿区西新宿１丁目５−１",
+    "lat": 35.6925204,
+    "lng": 139.6982744
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "うさぎや 本店",
+    "name_en": "Usagiya Hon Ten",
+    "area": "東京都 日本橋駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130202/13003250/",
+    "rating": 3.79,
+    "review_count_tabelog": 1514,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Japanese traditional sweets, Dorayaki (Japanese sweet pancake)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "09:30 - 18:00",
+        "dtl_text": "09:30 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 491,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGa0O-P2LGGAR1TkJOzTZ63c",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13003250-b89405d9db272e8116fb605c83e15fcd85b91e5f2f616637988f7dbb35ac751e.jpg",
+    "place_id": "ChIJGa0O-P2LGGAR1TkJOzTZ63c",
+    "g_name": "うさぎや 日本橋本店",
+    "g_rating": 4.3,
+    "g_reviews": 491,
+    "g_address": "日本、〒103-0027 東京都中央区日本橋１丁目２−１９ ファーストビル, 1F",
+    "lat": 35.6835405,
+    "lng": 139.7727858
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "志”満ん草餅",
+    "name_en": "Jiman Kusamochi",
+    "area": "東京都 東向島駅",
+    "url": "https://tabelog.com/tokyo/A1312/A131203/13002934/",
+    "rating": 3.82,
+    "review_count_tabelog": 942,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Japanese traditional sweets, Cafe featuring Japanese sweets, Dorayaki (Japanese sweet pancake)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "09:00 - 16:00",
+        "dtl_text": "09:00 - 16:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 813,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJn3UeceCOGGARCVeyboMxBS8",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13002934-7cfe714d71ee6ea1c395db3d2491a10872c660624bcfd9f2c1e6236bf8e8dcb6.jpg",
+    "place_id": "ChIJn3UeceCOGGARCVeyboMxBS8",
+    "g_name": "志ﾞ満ん草餅",
+    "g_rating": 4.4,
+    "g_reviews": 813,
+    "g_address": "日本、〒131-0034 東京都墨田区堤通１丁目５−９",
+    "lat": 35.723182,
+    "lng": 139.8123314
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "しろいくろ",
+    "name_en": "Shiroi Kuro",
+    "area": "東京都 麻布十番駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130702/13151089/",
+    "rating": 3.69,
+    "review_count_tabelog": 606,
+    "price_dinner": "～￥999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese traditional sweets, Gelato, Ice cream",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 18:00",
+        "dtl_text": "10:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Roll cakes are not available by the slice."
+    },
+    "google_rating": 3.6,
+    "google_reviews": 191,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJy0tSmJ-LGGARSOpcjWfnPF0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13151089-c4fd26438c15dfa74ff9ea1ac6f7d684ab8abe29bd3a58f6d8a7dedfde971170.jpg",
+    "place_id": "ChIJy0tSmJ-LGGARSOpcjWfnPF0",
+    "g_name": "しろいくろ",
+    "g_rating": 3.6,
+    "g_reviews": 191,
+    "g_address": "日本、〒106-0045 東京都港区麻布十番２丁目８−１",
+    "lat": 35.6557963,
+    "lng": 139.734034
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "茶庭 然花抄院 渋谷ヒカリエ ShinQs店",
+    "name_en": "Satei Zenkashoin Shibuya Hikarie Shinkyu Esu Ten",
+    "area": "東京都 渋谷駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130301/13140148/",
+    "rating": 3.69,
+    "review_count_tabelog": 853,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafe featuring Japanese sweets, Kakigori (Shaved ice), Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 21:00 L.O. 20:30",
+        "dtl_text": "11:00 - 21:00 L.O. 20:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 364,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJa41vTliLGGARTI0a-NRIjdI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13140148-6c20555abaff9d083251d2bfc5d160d30de82a73a9ca8b6d94d03b876dc9bfce.jpg",
+    "place_id": "ChIJa41vTliLGGARTI0a-NRIjdI",
+    "g_name": "茶庭 然花抄院",
+    "g_rating": 4.2,
+    "g_reviews": 364,
+    "g_address": "日本、〒150-8509 東京都渋谷区渋谷２丁目２１−１",
+    "lat": 35.6587825,
+    "lng": 139.7031435
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "目白 志むら",
+    "name_en": "Mejiro Shimura",
+    "area": "東京都 目白駅",
+    "url": "https://tabelog.com/tokyo/A1305/A130502/13003855/",
+    "rating": 3.76,
+    "review_count_tabelog": 1705,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafe featuring Japanese sweets, Kakigori (Shaved ice), Japanese traditional sweets",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "09:30 - 18:00 L.O. 17:30",
+        "dtl_text": "09:30 - 18:00 L.O. 17:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays and approximately two irregular days each month. Please check our restaurant or our Instagram calendar for updates, as these days may vary."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 881,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJwSIcE0SNGGAR4Nfu2GEffnw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13003855-c76eeace6c68cc1c89c1dc035e70dc201a95cf6d6b769f49b41ebc0e63944aae.jpg",
+    "place_id": "ChIJwSIcE0SNGGAR4Nfu2GEffnw",
+    "g_name": "目白 志むら",
+    "g_rating": 4.2,
+    "g_reviews": 881,
+    "g_address": "日本、〒171-0031 東京都豊島区目白３丁目１３−３",
+    "lat": 35.7223324,
+    "lng": 139.7056175
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "雅庵",
+    "name_en": "Miyabi An",
+    "area": "東京都 中目黒駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13073813/",
+    "rating": 3.82,
+    "review_count_tabelog": 627,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Japanese traditional sweets",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat",
+        "dtl": "10:00 - 18:00",
+        "dtl_text": "10:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "10:00 - 17:00",
+        "dtl_text": "10:00 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 197,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJT9J0pFKLGGARiWoX0gScOPk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13073813-5cdc2e8bd3e8ef7c433bcce183c8eee051a6faca83cb20fea0be46bb044c4fe5.jpg",
+    "place_id": "ChIJT9J0pFKLGGARiWoX0gScOPk",
+    "g_name": "菓匠 みやび庵（雅庵）",
+    "g_rating": 4.3,
+    "g_reviews": 197,
+    "g_address": "日本、〒153-0043 東京都目黒区東山１丁目１３−４",
+    "lat": 35.6475618,
+    "lng": 139.692141
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "玉英堂彦九郎",
+    "name_en": "Gyokueido Hikokuro",
+    "area": "東京都 人形町駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130204/13006478/",
+    "rating": 3.73,
+    "review_count_tabelog": 810,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Japanese traditional sweets, Dorayaki (Japanese sweet pancake)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "09:00 - 19:00",
+        "dtl_text": "09:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "09:00 - 18:00",
+        "dtl_text": "09:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "09:30 - 17:00",
+        "dtl_text": "09:30 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 240,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJjewY3U-JGGARoBZQjulTWXU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13006478-211a4643e72b2a41095a110d4629edee7b61aed00bcfee077e454db39578c296.jpg",
+    "place_id": "ChIJjewY3U-JGGARoBZQjulTWXU",
+    "g_name": "菓子司 玉英堂彦九郎 人形町 京菓子",
+    "g_rating": 4.1,
+    "g_reviews": 240,
+    "g_address": "日本、〒103-0013 東京都中央区日本橋人形町２丁目３−２ 玉英堂ビル 1F",
+    "lat": 35.6850983,
+    "lng": 139.7835837
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "天まめ",
+    "name_en": "Ten mame",
+    "area": "東京都 築地駅",
+    "url": "https://tabelog.com/tokyo/A1313/A131301/13168055/",
+    "rating": 3.73,
+    "review_count_tabelog": 452,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Japanese traditional sweets, Cafe, Cafe featuring Japanese sweets",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "07:00 - 15:00",
+        "dtl_text": "07:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Public Holiday",
+        "dtl": "07:00 - 13:00",
+        "dtl_text": "07:00 - 13:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 94,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ32ljZCuLGGARyarCcXR1Czk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13168055-11eb1dbfd4477db03225dd7c4f3860a71b954c337cfe343d7b16d1efa0a7e333.jpg",
+    "place_id": "ChIJ32ljZCuLGGARyarCcXR1Czk",
+    "g_name": "天まめ",
+    "g_rating": 4.5,
+    "g_reviews": 94,
+    "g_address": "日本、〒104-0045 東京都中央区築地２丁目８−１ 築地永谷タウンプラザ 107",
+    "lat": 35.6694555,
+    "lng": 139.7724914
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "うさぎや 中央通り店",
+    "name_en": "Usagiya Chuo Tori Ten",
+    "area": "東京都 日本橋駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130202/13041161/",
+    "rating": 3.78,
+    "review_count_tabelog": 1068,
+    "price_dinner": "～￥999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese traditional sweets, Dorayaki (Japanese sweet pancake)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "09:30 - 18:00",
+        "dtl_text": "09:30 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 491,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGa0O-P2LGGAR1TkJOzTZ63c",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13041161-0dee2c0e5dbbc64481729fceaa55ea664733a0ae391b2d8d24461b4ba3519ccc.jpg",
+    "place_id": "ChIJGa0O-P2LGGAR1TkJOzTZ63c",
+    "g_name": "うさぎや 日本橋本店",
+    "g_rating": 4.3,
+    "g_reviews": 491,
+    "g_address": "日本、〒103-0027 東京都中央区日本橋１丁目２−１９ ファーストビル, 1F",
+    "lat": 35.6835405,
+    "lng": 139.7727858
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "HIGASHIYA man",
+    "name_en": "HIGASHIYA man",
+    "area": "東京都 表参道駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130602/13050885/",
+    "rating": 3.69,
+    "review_count_tabelog": 674,
+    "price_dinner": "～￥999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese traditional sweets, Daifuku (Red bean paste rice cake)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 19:00",
+        "dtl_text": "11:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 219,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDW3qLWCLGGARSU8mz-wgQVU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13050885-ef331dc5894869518cabfae55f6326658f8fc94748614b9b23da73bcb3a7fda3.jpg",
+    "place_id": "ChIJDW3qLWCLGGARSU8mz-wgQVU",
+    "g_name": "HIGASHIYA man",
+    "g_rating": 4.1,
+    "g_reviews": 219,
+    "g_address": "日本、〒107-0062 東京都港区南青山３丁目１７−１４",
+    "lat": 35.6645278,
+    "lng": 139.7138611
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "小ざさ",
+    "name_en": "Ozasa",
+    "area": "東京都 吉祥寺駅",
+    "url": "https://tabelog.com/tokyo/A1320/A132001/13005817/",
+    "rating": 3.76,
+    "review_count_tabelog": 1191,
+    "price_dinner": "～￥999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese traditional sweets",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 19:30",
+        "dtl_text": "10:00 - 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 560,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJzDG3kfuGGARele8Ej0Qwtc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13005817-e7f7b11e003466d6318ce8318656e87f3be49e7a8434d1f131a74384d01015a2.jpg",
+    "place_id": "ChIJJzDG3kfuGGARele8Ej0Qwtc",
+    "g_name": "小ざさ",
+    "g_rating": 4.3,
+    "g_reviews": 560,
+    "g_address": "日本、〒180-0004 東京都武蔵野市吉祥寺本町１丁目１−８",
+    "lat": 35.7039583,
+    "lng": 139.5791131
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "吉野家",
+    "name_en": "Yoshinoya",
+    "area": "東京都 柴又駅",
+    "url": "https://tabelog.com/tokyo/A1324/A132403/13047535/",
+    "rating": 3.7,
+    "review_count_tabelog": 436,
+    "price_dinner": "～￥999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese traditional sweets, Sweets, Cafe featuring Japanese sweets",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Weekdays, Sat, Sun & Public Holidays": {}
+      },
+      "closed_on": "Not fixed (Closed during summer months of July and August)"
+    },
+    "google_rating": 4.5,
+    "google_reviews": 158,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJb2eOzKKFGGARxbQ07LxJnoQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13047535-35b8021f30d32f87ce8b9bc0e1fb3c019c73e92b53ff7fdd3cc6f51ee7b2294d.jpg",
+    "place_id": "ChIJb2eOzKKFGGARxbQ07LxJnoQ",
+    "g_name": "吉野家",
+    "g_rating": 4.5,
+    "g_reviews": 158,
+    "g_address": "日本、〒125-0052 東京都葛飾区柴又７丁目６−１８",
+    "lat": 35.7579509,
+    "lng": 139.8768973
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "福尾商店",
+    "name_en": "Fukuo Shoten",
+    "area": "東京都 淡路町駅",
+    "url": "https://tabelog.com/tokyo/A1310/A131002/13044318/",
+    "rating": 3.7,
+    "review_count_tabelog": 376,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cafe featuring Japanese sweets",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri",
+        "dtl": "10:00 - 18:00",
+        "dtl_text": "10:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "10:00 - 17:00",
+        "dtl_text": "10:00 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 146,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4b6GBwOMGGARABOPGPVVKe4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13044318-bb90321545e08683fa17016e11486b74a4679c4f90678cc7f49175f5a6a2423f.jpg",
+    "place_id": "ChIJ4b6GBwOMGGARABOPGPVVKe4",
+    "g_name": "福尾商店",
+    "g_rating": 4.4,
+    "g_reviews": 146,
+    "g_address": "日本、〒101-0041 東京都千代田区神田須田町１丁目３４−４",
+    "lat": 35.6941226,
+    "lng": 139.7698798
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "浅草浪花家",
+    "name_en": "Asakusa Naniwaya",
+    "area": "東京都 浅草（つくばＥＸＰ）駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131102/13120735/",
+    "rating": 3.76,
+    "review_count_tabelog": 1466,
+    "price_dinner": "～￥999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Taiyaki, Obanyaki, Cafe featuring Japanese sweets, Kakigori (Shaved ice)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri",
+        "dtl": "11:00 - 19:00",
+        "dtl_text": "11:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "10:00 - 18:00",
+        "dtl_text": "10:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 727,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJiX-V_L-OGGARrT2dapfesOA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13120735-67f9f1b4f4ad0dafdaf33d99316e591a232ab3391861ac00131ee347ed0313f9.jpg",
+    "place_id": "ChIJiX-V_L-OGGARrT2dapfesOA",
+    "g_name": "浅草浪花家",
+    "g_rating": 4.2,
+    "g_reviews": 727,
+    "g_address": "日本、〒111-0032 東京都台東区浅草２丁目１２−４",
+    "lat": 35.7148096,
+    "lng": 139.7927384
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "今川焼 かしわや",
+    "name_en": "Imagawayaki Kashiwaya",
+    "area": "東京都 三軒茶屋駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131706/13114710/",
+    "rating": 3.69,
+    "review_count_tabelog": 630,
+    "price_dinner": "～￥999",
+    "price_lunch": "-",
+    "sub_categories": "Taiyaki, Obanyaki",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 19:00",
+        "dtl_text": "11:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.9,
+    "google_reviews": 365,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJraNbEp_0GGARPFvmTZB3MnM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13114710-72cd1ec4c4eb5ca9323edb90f9ec7793cf3a6f378f952459b230db63d01d07b4.jpg",
+    "place_id": "ChIJraNbEp_0GGARPFvmTZB3MnM",
+    "g_name": "かしわや 三軒茶屋店",
+    "g_rating": 3.9,
+    "g_reviews": 365,
+    "g_address": "日本、〒154-0004 東京都世田谷区太子堂４丁目１−１",
+    "lat": 35.6440073,
+    "lng": 139.6695241
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "かどや",
+    "name_en": "Kadoya",
+    "area": "東京都 北千住駅",
+    "url": "https://tabelog.com/tokyo/A1324/A132402/13008735/",
+    "rating": 3.72,
+    "review_count_tabelog": 633,
+    "price_dinner": "～￥999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese traditional sweets",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 286,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJx1SWd0iOGGAR79fRdFe_V9M",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13008735-3e003c46929666c9d89b276822ead950657567597c73e31b8440bf6f496a9a3c.jpg",
+    "place_id": "ChIJx1SWd0iOGGAR79fRdFe_V9M",
+    "g_name": "かどや（槍かけだんご）",
+    "g_rating": 4.2,
+    "g_reviews": 286,
+    "g_address": "日本、〒120-0034 東京都足立区千住５丁目５−１０",
+    "lat": 35.7541109,
+    "lng": 139.8042474
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "つ久し",
+    "name_en": "Tsukushi",
+    "area": "東京都 都立大学駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131702/13035752/",
+    "rating": 3.68,
+    "review_count_tabelog": 321,
+    "price_dinner": "-",
+    "price_lunch": "-",
+    "sub_categories": "Japanese traditional sweets, Daifuku (Red bean paste rice cake)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "08:30 - 19:00",
+        "dtl_text": "08:30 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.9,
+    "google_reviews": 91,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ4o5HsP0GGARiGCrrYCyC58",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13035752-05215cf3fa51d7dea3a28c283113facc29a0be67ce9e37c610a06f9638813668.jpg",
+    "place_id": "ChIJZ4o5HsP0GGARiGCrrYCyC58",
+    "g_name": "つ久し",
+    "g_rating": 3.9,
+    "g_reviews": 91,
+    "g_address": "日本、〒152-0023 東京都目黒区八雲４丁目５−６",
+    "lat": 35.62248,
+    "lng": 139.6734502
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "追分だんご本舗 新宿本店",
+    "name_en": "Oiwake Dango Honpo Shinjuku Hon Ten",
+    "area": "東京都 新宿三丁目駅",
+    "url": "https://tabelog.com/tokyo/A1304/A130401/13000836/",
+    "rating": 3.73,
+    "review_count_tabelog": 1799,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafe featuring Japanese sweets, Japanese traditional sweets, Kakigori (Shaved ice)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "12:00 - 18:00 L.O. 17:30",
+        "dtl_text": "12:00 - 18:00 L.O. 17:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 18:00 L.O. 17:30",
+        "dtl_text": "11:30 - 18:00 L.O. 17:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 1307,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJc-M6a9uMGGAR_UrjKdpOtCQ",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13000836-8e3e6e710a512301ebc98ea4be4fd07299878c80dab821f79efa1bf9bd7a57f4.jpg",
+    "place_id": "ChIJc-M6a9uMGGAR_UrjKdpOtCQ",
+    "g_name": "追分(おいわけ)だんご本舗 新宿本店",
+    "g_rating": 4.3,
+    "g_reviews": 1307,
+    "g_address": "日本、〒160-0022 東京都新宿区新宿３丁目１−２２",
+    "lat": 35.6905059,
+    "lng": 139.7053658
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "中里",
+    "name_en": "Nakazato",
+    "area": "東京都 駒込駅",
+    "url": "https://tabelog.com/tokyo/A1323/A132301/13022864/",
+    "rating": 3.67,
+    "review_count_tabelog": 441,
+    "price_dinner": "～￥999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese traditional sweets",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "10:00 - 17:00",
+        "dtl_text": "10:00 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Public Holiday",
+        "dtl": "10:00 - 16:00",
+        "dtl_text": "10:00 - 16:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4,
+    "google_reviews": 253,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJyUsLVJSNGGARmOH1hbxtCtA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13022864-dfef86259000cc852d40a1930723a0386fc07cf89e5ceaa86b4f637f503039a3.jpg",
+    "place_id": "ChIJyUsLVJSNGGARmOH1hbxtCtA",
+    "g_name": "御菓子司中里",
+    "g_rating": 4,
+    "g_reviews": 253,
+    "g_address": "日本、〒114-0015 東京都北区中里１丁目６−１１",
+    "lat": 35.7368727,
+    "lng": 139.7496078
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "根津のたいやき",
+    "name_en": "Nezu no Taiyaki",
+    "area": "東京都 根津駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131106/13003570/",
+    "rating": 3.72,
+    "review_count_tabelog": 682,
+    "price_dinner": "-",
+    "price_lunch": "-",
+    "sub_categories": "Taiyaki, Obanyaki",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "10:00 - 14:00",
+        "dtl_text": "10:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Other irregular holidays."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 602,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJTJGoDKMGGAR9Y8KAcox3HY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13003570-40420f29f529dfb78f7eda7b062f7481858fe71bfc29d80c8005d89908da271d.jpg",
+    "place_id": "ChIJJTJGoDKMGGAR9Y8KAcox3HY",
+    "g_name": "根津のたいやき",
+    "g_rating": 4.3,
+    "g_reviews": 602,
+    "g_address": "日本、〒113-0031 東京都文京区根津１丁目２３−９ 104",
+    "lat": 35.7202954,
+    "lng": 139.7626473
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "甘味おかめ 交通会館店",
+    "name_en": "Kanmi Okame Kotsukan Ten",
+    "area": "東京都 有楽町駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130102/13042986/",
+    "rating": 3.72,
+    "review_count_tabelog": 798,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cafe featuring Japanese sweets, Noodles, Oden",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 19:00 L.O. 18:30",
+        "dtl_text": "11:00 - 19:00 L.O. 18:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:00 - 19:00",
+        "dtl_text": "11:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 270,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJSW2PPeWLGGAROZlzyXo2ySI",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13042986-073061f8c688209323cb62b3fd43fa65bd8135e5c3d86181bd4d4b77ca4f9394.jpg",
+    "place_id": "ChIJSW2PPeWLGGAROZlzyXo2ySI",
+    "g_name": "甘味おかめ 東京交通会館店",
+    "g_rating": 4.3,
+    "g_reviews": 270,
+    "g_address": "日本、〒100-0006 東京都千代田区有楽町２丁目１０−１ 東京交通会館B1",
+    "lat": 35.6746544,
+    "lng": 139.7643617
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "い志い",
+    "name_en": "Ishii",
+    "area": "東京都 柴又駅",
+    "url": "https://tabelog.com/tokyo/A1324/A132403/13098265/",
+    "rating": 3.73,
+    "review_count_tabelog": 651,
+    "price_dinner": "～￥999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese traditional sweets, Sweets (Western style), Dorayaki (Japanese sweet pancake)",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Weekdays": {},
+        "Weekends & Public Holidays": {}
+      },
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 149,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ72Eey6KFGGARBlYBLKKK1GU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13098265-3daaeed14966e675be5775f0c4385e0cd246823828fd3d470e6580e3dce2a45f.jpg",
+    "place_id": "ChIJ72Eey6KFGGARBlYBLKKK1GU",
+    "g_name": "い志ゐ",
+    "g_rating": 4.4,
+    "g_reviews": 149,
+    "g_address": "日本、〒125-0052 東京都葛飾区柴又７丁目６−２０ い志い",
+    "lat": 35.7578439,
+    "lng": 139.8766774
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "天野屋",
+    "name_en": "Amanoya",
+    "area": "東京都 御茶ノ水駅",
+    "url": "https://tabelog.com/tokyo/A1310/A131002/13006339/",
+    "rating": 3.71,
+    "review_count_tabelog": 639,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cafe featuring Japanese sweets, Kakigori (Shaved ice)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 16:00",
+        "dtl_text": "10:00 - 16:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Café": {},
+        "Shop": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 493,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJjT_4NxmMGGARyGH15zO2qG0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13006339-1cc1c80ea9fbfdf0b80160ee58e96e61955e37452df5c0770af27f8da68d9e77.jpg",
+    "place_id": "ChIJjT_4NxmMGGARyGH15zO2qG0",
+    "g_name": "天野屋",
+    "g_rating": 4.3,
+    "g_reviews": 493,
+    "g_address": "日本、〒101-0021 東京都千代田区外神田２丁目１８−１５",
+    "lat": 35.7011405,
+    "lng": 139.7670783
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "甘味おかめ 有楽町店",
+    "name_en": "Kanmi Okame Yurakucho Ten",
+    "area": "東京都 有楽町駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130102/13011479/",
+    "rating": 3.72,
+    "review_count_tabelog": 1085,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cafe featuring Japanese sweets, Kakigori (Shaved ice)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 20:00",
+        "dtl_text": "11:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (Open on public holidays, closed the following Tuesday)"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 404,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJtyvrbOWLGGAROAmev7oHK_k",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13011479-413bb1209093f2bd4bd09dc555c1090d65fd138068d19c4e35a8360a265bb058.jpg",
+    "place_id": "ChIJtyvrbOWLGGAROAmev7oHK_k",
+    "g_name": "甘味おかめ 有楽町店",
+    "g_rating": 4.1,
+    "g_reviews": 404,
+    "g_address": "日本、〒100-0006 東京都千代田区有楽町２丁目７−１ イトシアプラザ",
+    "lat": 35.6741697,
+    "lng": 139.7633792
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "浪花家総本店",
+    "name_en": "Naniwaya Sohonten",
+    "area": "東京都 麻布十番駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130702/13002775/",
+    "rating": 3.78,
+    "review_count_tabelog": 2533,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cafe featuring Japanese sweets, Taiyaki, Obanyaki, Stir-fried noodles",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 19:00",
+        "dtl_text": "11:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays and Wednesdays"
+    },
+    "google_rating": 4.1,
+    "google_reviews": 1991,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVV0cp-LGGARbCCtcK-Ds4E",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13002775-fa9e9870f9bba21644e16e42363bc970748486d9fdc552c24cd61f586265b1d2.jpg",
+    "place_id": "ChIJVVV0cp-LGGARbCCtcK-Ds4E",
+    "g_name": "元祖たいやき 浪花家総本店",
+    "g_rating": 4.1,
+    "g_reviews": 1991,
+    "g_address": "日本、〒106-0045 東京都港区麻布十番１丁目８−１４",
+    "lat": 35.6561898,
+    "lng": 139.7351081
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "竹むら",
+    "name_en": "Takemura",
+    "area": "東京都 淡路町駅",
+    "url": "https://tabelog.com/tokyo/A1310/A131002/13000342/",
+    "rating": 3.76,
+    "review_count_tabelog": 1376,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cafe featuring Japanese sweets, Kakigori (Shaved ice), Japanese traditional sweets",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:00 - 20:00 L.O. 19:40",
+        "dtl_text": "11:00 - 20:00 L.O. 19:40",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.5,
+    "google_reviews": 1505,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJY9sxthyMGGARLrj2juFzCrw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13000342-7c13af295134e733a92f734a2515d7a10d655989bf3522dbfd00f58a023315a4.jpg",
+    "place_id": "ChIJY9sxthyMGGARLrj2juFzCrw",
+    "g_name": "竹むら",
+    "g_rating": 4.5,
+    "g_reviews": 1505,
+    "g_address": "日本、〒101-0041 東京都千代田区神田須田町１丁目１９",
+    "lat": 35.6966627,
+    "lng": 139.7690656
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "越後鶴屋",
+    "name_en": "Echigo Tsuruy",
+    "area": "東京都 西荻窪駅",
+    "url": "https://tabelog.com/tokyo/A1319/A131907/13006656/",
+    "rating": 3.72,
+    "review_count_tabelog": 706,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Japanese traditional sweets, Daifuku (Red bean paste rice cake)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "09:00 - 18:00",
+        "dtl_text": "09:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (open on holidays, with a substitute day off on the following Tuesday)."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 372,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJy2hs4Q_uGGARU_-t8bM-v5I",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13006656-0872b346839df3f86648e9308d74105972d5d99890981376f902c371df996edf.jpg",
+    "place_id": "ChIJy2hs4Q_uGGARU_-t8bM-v5I",
+    "g_name": "越後鶴屋",
+    "g_rating": 4.3,
+    "g_reviews": 372,
+    "g_address": "日本、〒167-0054 東京都杉並区松庵３丁目３８−２０",
+    "lat": 35.7024788,
+    "lng": 139.5995769
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "いり江",
+    "name_en": "Kanmidokoro Irie",
+    "area": "東京都 門前仲町駅",
+    "url": "https://tabelog.com/tokyo/A1313/A131303/13008019/",
+    "rating": 3.71,
+    "review_count_tabelog": 672,
+    "price_dinner": "～￥999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafe featuring Japanese sweets, Kakigori (Shaved ice)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 18:30 L.O. 18:00",
+        "dtl_text": "11:00 - 18:30 L.O. 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 514,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJj365qhOJGGARamBtNjqXB88",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13008019-ab9650178897123a57018fe0a7cd17f06f7ca8b3deff3e17c97b441ad93c6364.jpg",
+    "place_id": "ChIJj365qhOJGGARamBtNjqXB88",
+    "g_name": "甘味処 いり江",
+    "g_rating": 4.4,
+    "g_reviews": 514,
+    "g_address": "日本、〒135-0048 東京都江東区門前仲町２丁目６−６",
+    "lat": 35.6727494,
+    "lng": 139.795954
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "元祖塩大福 みずの",
+    "name_en": "Ganso Shio Daifuku Mizuno",
+    "area": "東京都 巣鴨駅",
+    "url": "https://tabelog.com/tokyo/A1323/A132301/13044660/",
+    "rating": 3.7,
+    "review_count_tabelog": 1223,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Japanese traditional sweets, Cafe featuring Japanese sweets, Cafeteria",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "09:00 - 18:30",
+        "dtl_text": "09:00 - 18:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4,
+    "google_reviews": 736,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJu1xMaZyNGGARvRv_VJx9PbU",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13044660-9518ef5776d5d4e042e83a0673f1bcd9cd8d004f9fa0eee99ab1d5de563d5477.jpg",
+    "place_id": "ChIJu1xMaZyNGGARvRv_VJx9PbU",
+    "g_name": "元祖塩大福 みずの",
+    "g_rating": 4,
+    "g_reviews": 736,
+    "g_address": "日本、〒170-0002 東京都豊島区巣鴨３丁目３３−３",
+    "lat": 35.7351143,
+    "lng": 139.7360838
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "銀座甘楽 銀座本店",
+    "name_en": "Ginza Kanra Ginza Hon Ten",
+    "area": "東京都 日比谷駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13051031/",
+    "rating": 3.7,
+    "review_count_tabelog": 727,
+    "price_dinner": "～￥999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese traditional sweets, Daifuku (Red bean paste rice cake), Dorayaki (Japanese sweet pancake)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "10:00 - 20:00",
+        "dtl_text": "10:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 19:00",
+        "dtl_text": "11:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "New Year Holidays"
+    },
+    "google_rating": 4.2,
+    "google_reviews": 205,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJO-7sHO-LGGARBHPo4bzN0OA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13051031-2211f7ffd7f3990c614a46997df23d55107fac5e702f316e6e4d380b3c01e47f.jpg",
+    "place_id": "ChIJO-7sHO-LGGARBHPo4bzN0OA",
+    "g_name": "銀座甘楽 銀座コリドー街本店",
+    "g_rating": 4.2,
+    "g_reviews": 205,
+    "g_address": "日本、〒104-0061 東京都中央区銀座６丁目２−２",
+    "lat": 35.671513,
+    "lng": 139.7602471
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "うさぎや",
+    "name_en": "Usagiya",
+    "area": "東京都 上野広小路駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131101/13003599/",
+    "rating": 3.84,
+    "review_count_tabelog": 3509,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Japanese traditional sweets, Dorayaki (Japanese sweet pancake)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "09:00 - 18:00",
+        "dtl_text": "09:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 3173,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2zdQ8x-MGGARevmtQEbnfWo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13003599-064777b3130ae837159ab5127da20caaa2a7d47551e7f1553e7dfa69b687328e.jpg",
+    "place_id": "ChIJ2zdQ8x-MGGARevmtQEbnfWo",
+    "g_name": "うさぎや",
+    "g_rating": 4.4,
+    "g_reviews": 3173,
+    "g_address": "日本、〒110-0005 東京都台東区上野１丁目１０−１０",
+    "lat": 35.7061495,
+    "lng": 139.7718239
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "柳屋",
+    "name_en": "Yanagiya",
+    "area": "東京都 人形町駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130204/13003065/",
+    "rating": 3.78,
+    "review_count_tabelog": 2297,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Taiyaki, Obanyaki, Gelato, Ice cream",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "12:30 - 18:00",
+        "dtl_text": "12:30 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 1831,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZydcwU-JGGARNlskm8knDjw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13003065-e4dc3f8d998cde152287683babe7229fa4c754ce9a501387d7aebb02e5a36af5.jpg",
+    "place_id": "ChIJZydcwU-JGGARNlskm8knDjw",
+    "g_name": "高級鯛焼本舗 柳屋 創業大正五年",
+    "g_rating": 4.3,
+    "g_reviews": 1831,
+    "g_address": "日本、〒103-0013 東京都中央区日本橋人形町２丁目１１−３",
+    "lat": 35.6853728,
+    "lng": 139.7840273
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "甘味処 みつばち 本店",
+    "name_en": "Kanmidokoro Mitsubachi Hon Ten",
+    "area": "東京都 湯島駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131101/13003590/",
+    "rating": 3.73,
+    "review_count_tabelog": 1106,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cafe featuring Japanese sweets, Kakigori (Shaved ice), Gelato, Ice cream",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Weekdays": {},
+        "Saturday, Sunday & Public Holidays": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": 4,
+    "google_reviews": 519,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJOdPiTyCMGGARwWG58srJkKo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13003590-e6dee4edf885742dc0c9f8011fad2092de8c3da8f5572c24d4e341a5a439f534.jpg",
+    "place_id": "ChIJOdPiTyCMGGARwWG58srJkKo",
+    "g_name": "甘味処 みつばち",
+    "g_rating": 4,
+    "g_reviews": 519,
+    "g_address": "日本、〒113-0034 東京都文京区湯島３丁目３８−１０",
+    "lat": 35.7080695,
+    "lng": 139.7710899
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "京菓子 岬屋",
+    "name_en": "Kyogashi Misakiya",
+    "area": "東京都 駒場東大前駅",
+    "url": "https://tabelog.com/tokyo/A1318/A131801/13007329/",
+    "rating": 3.68,
+    "review_count_tabelog": 202,
+    "price_dinner": "-",
+    "price_lunch": "-",
+    "sub_categories": "Japanese traditional sweets",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "10:00 - 16:00",
+        "dtl_text": "10:00 - 16:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 78,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ9o_FE7zGGARSVqlIvdAXMc",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13007329-85af6b43e6e2db7680a4b851c833b6c335c4e8ef83bacd0595270d625f489dac.jpg",
+    "place_id": "ChIJZ9o_FE7zGGARSVqlIvdAXMc",
+    "g_name": "岬屋",
+    "g_rating": 4.4,
+    "g_reviews": 78,
+    "g_address": "日本、〒151-0063 東京都渋谷区富ケ谷２丁目１７−７",
+    "lat": 35.6635148,
+    "lng": 139.6849759
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "うさぎや",
+    "name_en": "Usagiya",
+    "area": "東京都 阿佐ケ谷駅",
+    "url": "https://tabelog.com/tokyo/A1319/A131905/13000731/",
+    "rating": 3.77,
+    "review_count_tabelog": 838,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Japanese traditional sweets, Dorayaki (Japanese sweet pancake), Cafe featuring Japanese sweets",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Sun",
+        "dtl": "09:00 - 17:00",
+        "dtl_text": "09:00 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Fri, Sat",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "January 1"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13000731-9f6ddb473894eddca3b328863db0339a0347a12f9eb3bb71af14115bc01290f3.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "甘いっ子",
+    "name_en": "Amai Ko",
+    "area": "東京都 西荻窪駅",
+    "url": "https://tabelog.com/tokyo/A1319/A131907/13006646/",
+    "rating": 3.71,
+    "review_count_tabelog": 528,
+    "price_dinner": "～￥999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Cafe featuring Japanese sweets, Kakigori (Shaved ice)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 16:00",
+        "dtl_text": "11:00 - 16:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "* Lunchtime from 12:00 to 13:00 tends to be relatively quiet."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 230,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ92KPrhruGGAR9T0m7_UhT-s",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13006646-fa880a11fdc11d20ca397fd9296c227189480280aa3f41b50799cca9b9074cc7.jpg",
+    "place_id": "ChIJ92KPrhruGGAR9T0m7_UhT-s",
+    "g_name": "甘いっ子",
+    "g_rating": 4.3,
+    "g_reviews": 230,
+    "g_address": "日本、〒167-0053 東京都杉並区西荻南２丁目２０−４ 恵荘",
+    "lat": 35.70103539999999,
+    "lng": 139.5989948
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "芋甚",
+    "name_en": "Imojin",
+    "area": "東京都 根津駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131106/13003559/",
+    "rating": 3.71,
+    "review_count_tabelog": 641,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Cafe featuring Japanese sweets, Cafe, Kakigori (Shaved ice)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 18:00 L.O. 17:40",
+        "dtl_text": "11:00 - 18:00 L.O. 17:40"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays and Tuesdays from October to March"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 410,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_5Cnbi2MGGART-vbKcvY2ok",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13003559-fa886653f233f193565e0531d7b4e7fea69f36c2eaac9bf3e94e4b275e4ec612.jpg",
+    "place_id": "ChIJ_5Cnbi2MGGART-vbKcvY2ok",
+    "g_name": "芋甚",
+    "g_rating": 4.4,
+    "g_reviews": 410,
+    "g_address": "日本、〒113-0031 東京都文京区根津２丁目３０−４",
+    "lat": 35.7202361,
+    "lng": 139.7636075
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "日本橋 長門",
+    "name_en": "Nihonbashi Nagato",
+    "area": "東京都 日本橋駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130202/13011481/",
+    "rating": 3.88,
+    "review_count_tabelog": 1366,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Japanese traditional sweets",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "10:00 - 18:00",
+        "dtl_text": "10:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 385,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJgyRcc_2LGGARTSmvXOx358g",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13011481-6ba0918d5c166125f018d9ec89fa433b5d97a9887dec5a62041a77f95ac1a7a3.jpg",
+    "place_id": "ChIJgyRcc_2LGGARTSmvXOx358g",
+    "g_name": "江戸風御菓子司 日本橋 長門",
+    "g_rating": 4.4,
+    "g_reviews": 385,
+    "g_address": "日本、〒103-0027 東京都中央区日本橋３丁目１−３ 日本橋長門ビル",
+    "lat": 35.6810642,
+    "lng": 139.7716235
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "五十鈴",
+    "name_en": "Isuzu",
+    "area": "東京都 牛込神楽坂駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13023132/",
+    "rating": 3.73,
+    "review_count_tabelog": 651,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Japanese traditional sweets, Dorayaki (Japanese sweet pancake), Senbei (Rice cracker)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "09:00 - 19:30",
+        "dtl_text": "09:00 - 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 3.6,
+    "google_reviews": 72,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJddBb3VmMGGARglcUD510m14",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13023132-ba5f34c32f840be15dc1842337c2574346970f598cc9733607f534c67aa044d6.jpg",
+    "place_id": "ChIJddBb3VmMGGARglcUD510m14",
+    "g_name": "牛込神楽坂駅",
+    "g_rating": 3.6,
+    "g_reviews": 72,
+    "g_address": "日本、〒162-0833 東京都新宿区箪笥町",
+    "lat": 35.7008576,
+    "lng": 139.7358743
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "清寿軒",
+    "name_en": "Seijuken",
+    "area": "東京都 小伝馬町駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130204/13213772/",
+    "rating": 3.77,
+    "review_count_tabelog": 1195,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Japanese traditional sweets, Dorayaki (Japanese sweet pancake)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "09:00 - 17:00",
+        "dtl_text": "09:00 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 684,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJvQijZFGJGGARcvNlqzuMFos",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13213772-44b7f01c22bd3a13205bd9aec07618d0b0f2dc6661a4f8aa6d48b9e6365d883c.jpg",
+    "place_id": "ChIJvQijZFGJGGARcvNlqzuMFos",
+    "g_name": "清寿軒",
+    "g_rating": 4.3,
+    "g_reviews": 684,
+    "g_address": "日本、〒103-0012 東京都中央区日本橋堀留町１丁目４−１６ ピーコス日本橋ビル 1F",
+    "lat": 35.6880039,
+    "lng": 139.7794307
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "たいやき ひいらぎ",
+    "name_en": "Taiyaki Hiiragi",
+    "area": "東京都 恵比寿駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130302/13026096/",
+    "rating": 3.79,
+    "review_count_tabelog": 2124,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Taiyaki, Obanyaki, Soft serve ice cream",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "10:00 - 18:00",
+        "dtl_text": "10:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 1125,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJIUoGgmqLGGARyIUX7kCvFVM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13026096-75052f1b3fb60bf12ec50383d55986de59c4c728a69e527a8a233e2b8f7619da.jpg",
+    "place_id": "ChIJIUoGgmqLGGARyIUX7kCvFVM",
+    "g_name": "ひいらぎ",
+    "g_rating": 4.3,
+    "g_reviews": 1125,
+    "g_address": "日本、〒150-0013 東京都渋谷区恵比寿１丁目４−１ 恵比寿アーバンハウス 107",
+    "lat": 35.6476838,
+    "lng": 139.7116577
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "たい焼 写楽",
+    "name_en": "Taiyaki Sharaku",
+    "area": "東京都 浅草（つくばＥＸＰ）駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131102/13045299/",
+    "rating": 3.71,
+    "review_count_tabelog": 688,
+    "price_dinner": "～￥999",
+    "price_lunch": "-",
+    "sub_categories": "Taiyaki, Obanyaki",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:30 - 17:00",
+        "dtl_text": "10:30 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every Monday and the second and fourth Tuesday of each month."
+    },
+    "google_rating": 4.3,
+    "google_reviews": 401,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5yt_lOqOGGARh4OWfZaW4i4",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13045299-c9b6a1bd154b3828cde50d019987d0ff662f4ef723d99a033d1a43be3a9e7402.jpg",
+    "place_id": "ChIJ5yt_lOqOGGARh4OWfZaW4i4",
+    "g_name": "たい焼 写楽 (しゃらく)",
+    "g_rating": 4.3,
+    "g_reviews": 401,
+    "g_address": "日本、〒111-0032 東京都台東区浅草３丁目９−１０ キャピタルプラザ浅草",
+    "lat": 35.7169495,
+    "lng": 139.7949375
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "たちばな",
+    "name_en": "Tachibana",
+    "area": "東京都 新橋駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130103/13022189/",
+    "rating": 3.78,
+    "review_count_tabelog": 1112,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Japanese traditional sweets",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 16:30",
+        "dtl_text": "11:00 - 16:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.3,
+    "google_reviews": 464,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJewh77uiLGGARk9kwH56p1jY",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13022189-017a5593d38207cfafd8b3f913f6a5bddc1ab8691be8ae99b300b324f52e1998.jpg",
+    "place_id": "ChIJewh77uiLGGARk9kwH56p1jY",
+    "g_name": "たちばな かりんとう",
+    "g_rating": 4.3,
+    "g_reviews": 464,
+    "g_address": "日本、〒104-0061 東京都中央区銀座８丁目７−１９",
+    "lat": 35.6685521,
+    "lng": 139.7609667
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "空也",
+    "name_en": "Kuya",
+    "area": "東京都 銀座駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130101/13002591/",
+    "rating": 3.79,
+    "review_count_tabelog": 2031,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese traditional sweets",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "10:00 - 17:00",
+        "dtl_text": "10:00 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "10:00 - 16:00",
+        "dtl_text": "10:00 - 16:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.9,
+    "google_reviews": 4405,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJB5FLUACLGGARTMeHgJ01zDw",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13002591-8fadf6ef86624a710f1d74317beee3a2288edfd23160fa5b38ade2c6c4806f87.jpg",
+    "place_id": "ChIJB5FLUACLGGARTMeHgJ01zDw",
+    "g_name": "月島もんじゃ くうや 東京駅",
+    "g_rating": 4.9,
+    "g_reviews": 4405,
+    "g_address": "日本、〒100-0005 東京都千代田区丸の内１丁目９−１ Ｂ1Ｆ 東京駅グランスタ八重洲",
+    "lat": 35.6798702,
+    "lng": 139.7675145
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "徳太樓",
+    "name_en": "Tokutaro",
+    "area": "東京都 浅草（つくばＥＸＰ）駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131102/13008704/",
+    "rating": 3.8,
+    "review_count_tabelog": 432,
+    "price_dinner": "-",
+    "price_lunch": "-",
+    "sub_categories": "Japanese traditional sweets",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday",
+        "dtl": "10:00 - 17:00",
+        "dtl_text": "10:00 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 272,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJi4KX8eqOGGAR0EGqioouhSk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13008704-600d92e05f9bc2fa5f6f6d0d5c9a10894bf4cd2dde5433dc39df71444ff2bbdd.jpg",
+    "place_id": "ChIJi4KX8eqOGGAR0EGqioouhSk",
+    "g_name": "徳太樓",
+    "g_rating": 4.2,
+    "g_reviews": 272,
+    "g_address": "日本、〒111-0032 東京都台東区浅草３丁目３６−２",
+    "lat": 35.7175547,
+    "lng": 139.795314
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "虎ノ門 岡埜榮泉 新宿タカシマヤ店",
+    "name_en": "Toranomon Okanoeisen Shinjukuku Takashimaya Ten",
+    "area": "東京都 新宿駅",
+    "url": "https://tabelog.com/tokyo/A1304/A130401/13056538/",
+    "rating": 3.73,
+    "review_count_tabelog": 517,
+    "price_dinner": "～￥999",
+    "price_lunch": "-",
+    "sub_categories": "Japanese traditional sweets, Daifuku (Red bean paste rice cake), Dorayaki (Japanese sweet pancake)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 19:30",
+        "dtl_text": "10:00 - 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 520,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQy0O35OLGGAR0bcp0DUqF4E",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13056538-05dbbb585cdea2b016110ba03be3a4079669e5fa16729844f3f72053c0baf0e5.jpg",
+    "place_id": "ChIJQy0O35OLGGAR0bcp0DUqF4E",
+    "g_name": "岡埜栄泉 虎ノ門本店",
+    "g_rating": 4.3,
+    "g_reviews": 520,
+    "g_address": "日本、〒105-0001 東京都港区虎ノ門３丁目８−２４ 岡埜栄泉ビル",
+    "lat": 35.6660861,
+    "lng": 139.7473689
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "虎ノ門 岡埜榮泉",
+    "name_en": "Toranomon Okanoeisen",
+    "area": "東京都 虎ノ門ヒルズ駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130802/13001513/",
+    "rating": 3.74,
+    "review_count_tabelog": 919,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Japanese traditional sweets, Daifuku (Red bean paste rice cake), Dorayaki (Japanese sweet pancake)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "09:00 - 17:00",
+        "dtl_text": "09:00 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "09:00 - 12:00",
+        "dtl_text": "09:00 - 12:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 520,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQy0O35OLGGAR0bcp0DUqF4E",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13001513-84ef053b85cb9323917b185a46cf01b5cd814a23f635422e7d6cfd539ba31eb5.jpg",
+    "place_id": "ChIJQy0O35OLGGAR0bcp0DUqF4E",
+    "g_name": "岡埜栄泉 虎ノ門本店",
+    "g_rating": 4.3,
+    "g_reviews": 520,
+    "g_address": "日本、〒105-0001 東京都港区虎ノ門３丁目８−２４ 岡埜栄泉ビル",
+    "lat": 35.6660861,
+    "lng": 139.7473689
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "和菓子処 大角玉屋 銀座店",
+    "name_en": "Wagashi Dokoro Oosumi Tamaya Ginza Ten",
+    "area": "東京都 有楽町駅",
+    "url": "https://tabelog.com/tokyo/A1301/A130102/13060712/",
+    "rating": 3.73,
+    "review_count_tabelog": 894,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Japanese traditional sweets, Daifuku (Red bean paste rice cake), Dorayaki (Japanese sweet pancake)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "10:00 - 20:00",
+        "dtl_text": "10:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 297,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ59h_CuWLGGARMv6XgVcPAUo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13060712-4479cf2f4aeb5d1488c6c06e1ae6c4bb1a8da57581a69199d69ca7a79225a4ec.jpg",
+    "place_id": "ChIJ59h_CuWLGGARMv6XgVcPAUo",
+    "g_name": "大角玉屋 銀座店",
+    "g_rating": 4.2,
+    "g_reviews": 297,
+    "g_address": "日本、〒100-0006 東京都中央区銀座西3−１ 銀座INZ1",
+    "lat": 35.6737805,
+    "lng": 139.7640954
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "松島屋",
+    "name_en": "Matsushimaya",
+    "area": "東京都 泉岳寺駅",
+    "url": "https://tabelog.com/tokyo/A1314/A131403/13007137/",
+    "rating": 3.8,
+    "review_count_tabelog": 1251,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Japanese traditional sweets, Daifuku (Red bean paste rice cake)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "09:30 - 15:00",
+        "dtl_text": "09:30 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Closed twice a month"
+    },
+    "google_rating": 4.4,
+    "google_reviews": 856,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJn_o6d6yLGGARBA_5LhwuB0s",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13007137-11d208b3636ebae18cfe9057c73ab3898c16554140d9854dad1d55ba8169c37b.jpg",
+    "place_id": "ChIJn_o6d6yLGGARBA_5LhwuB0s",
+    "g_name": "松島屋",
+    "g_rating": 4.4,
+    "g_reviews": 856,
+    "g_address": "日本、〒108-0074 東京都港区高輪１丁目５−２５",
+    "lat": 35.6405672,
+    "lng": 139.7373767
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "たいやき わかば",
+    "name_en": "Taiyaki Wakaba",
+    "area": "東京都 四ツ谷駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130902/13000848/",
+    "rating": 3.79,
+    "review_count_tabelog": 2626,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Taiyaki, Obanyaki, Cafe, Japanese traditional sweets",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Public Holiday",
+        "dtl": "09:00 - 17:00",
+        "dtl_text": "09:00 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.4,
+    "google_reviews": 3092,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-3E8eoyMGGAR2HbKsH_9L2M",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13000848-1869d714201af761a5978442f28bb6f6930a13dbdbb0ea6e3387b653cc113a33.jpg",
+    "place_id": "ChIJ-3E8eoyMGGAR2HbKsH_9L2M",
+    "g_name": "たいやき わかば",
+    "g_rating": 4.4,
+    "g_reviews": 3092,
+    "g_address": "日本、〒160-0011 東京都新宿区若葉１丁目１０ 小沢ビル 1F",
+    "lat": 35.6859898,
+    "lng": 139.7268599
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "千葉屋",
+    "name_en": "Chiba Ya",
+    "area": "東京都 浅草（つくばＥＸＰ）駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131102/13008691/",
+    "rating": 3.79,
+    "review_count_tabelog": 1366,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Roasted sweet potato, Daigakuimo, Japanese traditional sweets, Sweets",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat",
+        "dtl": "10:00 - 18:00",
+        "dtl_text": "10:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "10:00 - 17:00",
+        "dtl_text": "10:00 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 934,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJL7znlOqOGGARZX0NgHxLKYA",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13008691-7298a33ebd6ec1ee0fc67c15f721d8c38002de13d96abd8b4c9ca72c9d305d82.jpg",
+    "place_id": "ChIJL7znlOqOGGARZX0NgHxLKYA",
+    "g_name": "大学いも 千葉屋",
+    "g_rating": 4.4,
+    "g_reviews": 934,
+    "g_address": "日本、〒111-0032 東京都台東区浅草３丁目９−１０ キャピタルプラザ浅草",
+    "lat": 35.7168669,
+    "lng": 139.794896
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "瑞穂",
+    "name_en": "Mizuho",
+    "area": "東京都 明治神宮前駅",
+    "url": "https://tabelog.com/tokyo/A1306/A130601/13001154/",
+    "rating": 3.79,
+    "review_count_tabelog": 1202,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Japanese traditional sweets, Daifuku (Red bean paste rice cake)",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays and Sundays"
+    },
+    "google_rating": 3,
+    "google_reviews": 1,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJk04UMaWMGGAR-22dNmWoPvk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13001154-0338a9732b7a463de340d8ffadf72dccec58c4870cc945a5a8d8129a431bf13f.jpg",
+    "place_id": "ChIJk04UMaWMGGAR-22dNmWoPvk",
+    "g_name": "みずほ銀行ATM 千代田線明治神宮前駅出張所",
+    "g_rating": 3,
+    "g_reviews": 1,
+    "g_address": "日本、〒150-0001 東京都渋谷区神宮前１丁目１８−２２",
+    "lat": 35.6694915,
+    "lng": 139.7030319
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "宝来屋本店",
+    "name_en": "Houraiya Honten",
+    "area": "東京都 九段下駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130906/13006396/",
+    "rating": 3.69,
+    "review_count_tabelog": 337,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Japanese traditional sweets, Cafe, Senbei (Rice cracker)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "09:00 - 18:00",
+        "dtl_text": "09:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "10:00 - 16:00",
+        "dtl_text": "10:00 - 16:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 135,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJjy0wVWiMGGARjpbwtjgucmo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13006396-efb663556284477684d8529ab30dda3c9c1c26184b37d0c12c16daa77ec08f2a.jpg",
+    "place_id": "ChIJjy0wVWiMGGARjpbwtjgucmo",
+    "g_name": "宝来屋本店",
+    "g_rating": 4.4,
+    "g_reviews": 135,
+    "g_address": "日本、〒102-0074 東京都千代田区九段南２丁目４−１５ 坂の上テラス",
+    "lat": 35.6936622,
+    "lng": 139.7448678
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "廚 くろぎ",
+    "name_en": "Kuriya Kurogi",
+    "area": "東京都 上野広小路駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131101/13214654/",
+    "rating": 3.74,
+    "review_count_tabelog": 1429,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "-",
+    "sub_categories": "Cafe featuring Japanese sweets, Kakigori (Shaved ice), Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 21:00 L.O. 20:00",
+        "dtl_text": "10:00 - 21:00 L.O. 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 3.8,
+    "google_reviews": 690,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJa-yR_R-MGGARlS8BrH_T7Zs",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13214654-2103b4c670518c33e0489a735cc3e66a7c8c0883b0017032d8f69b3e4ad90cc7.jpg",
+    "place_id": "ChIJa-yR_R-MGGARlS8BrH_T7Zs",
+    "g_name": "廚 くろぎ",
+    "g_rating": 3.8,
+    "g_reviews": 690,
+    "g_address": "日本、〒110-0005 東京都台東区上野３丁目２４−６ パルコヤ上野 1F",
+    "lat": 35.7068096,
+    "lng": 139.7729185
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "長命寺 桜もち",
+    "name_en": "Chomeiji Sakura Mochi",
+    "area": "東京都 曳舟駅",
+    "url": "https://tabelog.com/tokyo/A1312/A131203/13002949/",
+    "rating": 3.74,
+    "review_count_tabelog": 848,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Japanese traditional sweets, Cafe featuring Japanese sweets, Cafe",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun",
+        "dtl": "08:30 - 18:00",
+        "dtl_text": "08:30 - 18:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Please note that changes may occur due to substitute holidays. For the latest updates, kindly check our website, social media, or contact us by phone."
+    },
+    "google_rating": 4.2,
+    "google_reviews": 881,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJf0yMn96OGGARxyA6-BrxTys",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13002949-cde9cd8fbb877992fe04b534a51e0e7238bbf5332c223d20d73d1fe84b04029b.jpg",
+    "place_id": "ChIJf0yMn96OGGARxyA6-BrxTys",
+    "g_name": "長命寺桜もち 山本や",
+    "g_rating": 4.2,
+    "g_reviews": 881,
+    "g_address": "日本、〒131-0033 東京都墨田区向島５丁目１−１４",
+    "lat": 35.7180489,
+    "lng": 139.8086966
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "高木屋老舗",
+    "name_en": "Takagiya Roho",
+    "area": "東京都 柴又駅",
+    "url": "https://tabelog.com/tokyo/A1324/A132403/13018079/",
+    "rating": 3.7,
+    "review_count_tabelog": 1002,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Japanese traditional sweets, Cafe featuring Japanese sweets",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "09:00 - 17:00",
+        "dtl_text": "09:00 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": 4.2,
+    "google_reviews": 637,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3fZjtqKFGGARoxgtibQ8baM",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13018079-90ce2dcb92e1aa7ee004c7a4b5c261555619f8b7da16d3ec3350cccad5427d89.jpg",
+    "place_id": "ChIJ3fZjtqKFGGARoxgtibQ8baM",
+    "g_name": "髙木屋老舗",
+    "g_rating": 4.2,
+    "g_reviews": 637,
+    "g_address": "日本、〒125-0052 東京都葛飾区柴又７丁目７−４",
+    "lat": 35.7577516,
+    "lng": 139.8765326
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "亀澤堂",
+    "name_en": "Kamezawa Do",
+    "area": "東京都 神保町駅",
+    "url": "https://tabelog.com/tokyo/A1310/A131003/13021812/",
+    "rating": 3.7,
+    "review_count_tabelog": 681,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Japanese traditional sweets, Dorayaki (Japanese sweet pancake), Daifuku (Red bean paste rice cake)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "09:00 - 18:00",
+        "dtl_text": "09:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "10:00 - 18:00",
+        "dtl_text": "10:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.1,
+    "google_reviews": 135,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-ZwOThGMGGARjup-1Xwamsk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13021812-c9e35243c607d6c5f9e55539e52e9a89e860860282e39f3cb8a6abd79e868b34.jpg",
+    "place_id": "ChIJ-ZwOThGMGGARjup-1Xwamsk",
+    "g_name": "亀澤堂",
+    "g_rating": 4.1,
+    "g_reviews": 135,
+    "g_address": "日本、〒101-0051 東京都千代田区神田神保町１丁目１２−１ 帆刈ビル 1F",
+    "lat": 35.6962941,
+    "lng": 139.7582302
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "赤坂青野 本店",
+    "name_en": "Akasaka Aono Hon Ten",
+    "area": "東京都 赤坂駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130801/13002803/",
+    "rating": 3.72,
+    "review_count_tabelog": 822,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Japanese traditional sweets",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "09:00 - 18:00",
+        "dtl_text": "09:00 - 18:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "09:00 - 17:00",
+        "dtl_text": "09:00 - 17:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.3,
+    "google_reviews": 332,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJIynUWJaLGGARqryZk02wjHg",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13002803-fc84fece36366e9fa3ed28dfffe7340ab613762a15329398e4f9e81efd394175.jpg",
+    "place_id": "ChIJIynUWJaLGGARqryZk02wjHg",
+    "g_name": "赤坂青野 赤坂本店",
+    "g_rating": 4.3,
+    "g_reviews": 332,
+    "g_address": "日本、〒107-0052 東京都港区赤坂７丁目１１−９ 赤坂三基ビル 1階",
+    "lat": 35.6690793,
+    "lng": 139.7320821
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "目黒ひいらぎ 碑文谷公園通り店",
+    "name_en": "Meguro Hiiragi Himonya Koendori Ten",
+    "area": "東京都 学芸大学駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131702/13135121/",
+    "rating": 3.7,
+    "review_count_tabelog": 540,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Taiyaki, Obanyaki, Kakigori (Shaved ice), Japanese traditional sweets",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 17:00",
+        "dtl_text": "11:00 - 17:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round (except for Year-end & New Year Holidays)"
+    },
+    "google_rating": 4.3,
+    "google_reviews": 233,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ603QIM_0GGARnnwCF5Y1gfo",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13135121-c4ea62310dfe6c456c677125036cf9da7dc9ac38eb99f9c2ea2efddc17f2dfc1.jpg",
+    "place_id": "ChIJ603QIM_0GGARnnwCF5Y1gfo",
+    "g_name": "目黒ひいらぎ 碑文谷公園通り店",
+    "g_rating": 4.3,
+    "g_reviews": 233,
+    "g_address": "日本、〒152-0004 東京都目黒区鷹番３丁目１８−３",
+    "lat": 35.62895719999999,
+    "lng": 139.6833833
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "浅田家",
+    "name_en": "Asada Ya",
+    "area": "東京都 溜池山王駅",
+    "url": "https://tabelog.com/tokyo/A1308/A130802/13024135/",
+    "rating": 3.73,
+    "review_count_tabelog": 582,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Japanese traditional sweets, Daifuku (Red bean paste rice cake)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "09:00 - 16:00",
+        "dtl_text": "09:00 - 16:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.4,
+    "google_reviews": 165,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZdyC84WLGGARFWwDPkN6wZk",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13024135-507d4cda06e8058a3b84cf28b3859d9dc389b03d90874b32828e0e95d848fd36.jpg",
+    "place_id": "ChIJZdyC84WLGGARFWwDPkN6wZk",
+    "g_name": "浅田家和菓子店",
+    "g_rating": 4.4,
+    "g_reviews": 165,
+    "g_address": "日本、〒107-0052 東京都港区赤坂２丁目１０−４",
+    "lat": 35.6706746,
+    "lng": 139.7418691
+  },
+  {
+    "category_jp": "和菓子・甘味処",
+    "category_en": "Wagashi",
+    "region": "TOKYO",
+    "name": "梅花亭 神楽坂本店",
+    "name_en": "Baika Tei Kagurazaka Honten",
+    "area": "東京都 神楽坂駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130905/13040265/",
+    "rating": 3.74,
+    "review_count_tabelog": 767,
+    "price_dinner": "～￥999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Japanese traditional sweets, Daifuku (Red bean paste rice cake), Dorayaki (Japanese sweet pancake)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "10:00 - 19:00",
+        "dtl_text": "10:00 - 19:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": 4.2,
+    "google_reviews": 257,
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJublbNVeMGGAR0zzvHxPP3V0",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/wagashi_tokyo/13040265-928be9b829354ab2a9b044460d825873be9ccc4b8db4cf278c86b1beed6cd7cb.jpg",
+    "place_id": "ChIJublbNVeMGGAR0zzvHxPP3V0",
+    "g_name": "梅花亭 神楽坂本店",
+    "g_rating": 4.2,
+    "g_reviews": 257,
+    "g_address": "日本、〒162-0825 東京都新宿区神楽坂６丁目１５",
+    "lat": 35.7030214,
+    "lng": 139.736971
+  }
+]

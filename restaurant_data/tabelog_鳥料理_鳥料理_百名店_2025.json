@@ -1,0 +1,4493 @@
+[
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "鶏らぼ",
+    "name_en": "TORILABO",
+    "area": "大阪府 藤井寺駅",
+    "url": "https://tabelog.com/osaka/A2708/A270801/27141087/",
+    "rating": 3.57,
+    "review_count_tabelog": 55,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:30 - 23:00",
+        "dtl_text": "17:30 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/27141087-f6bf993b24cdb1c3867542016e52f383e4dc3434719519270abba85bdab7954a.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "地鶏食堂 曲渕店",
+    "name_en": "Jidori Shokudo Magaribuchi Ten",
+    "area": "福岡県 福岡市早良区",
+    "url": "https://tabelog.com/fukuoka/A4001/A400203/40003698/",
+    "rating": 3.59,
+    "review_count_tabelog": 173,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Chicken dishes, Yakiniku (BBQ Beef)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 20:00",
+        "dtl_text": "11:00 - 20:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Year-end & New Year Holidays and Not fixed."
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/40003698-0a723678087bdc6fa97654dbd8c3365f325fa1183558be457176ce2faf7b287f.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "鳥めし 鳥藤 豊洲市場",
+    "name_en": "Torimeshi Torito Toyosu Shijo",
+    "area": "東京都 市場前駅",
+    "url": "https://tabelog.com/tokyo/A1313/A131307/13117868/",
+    "rating": 3.57,
+    "review_count_tabelog": 292,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chicken dishes, Oyako-don (Chicken and egg bowl), Ramen",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "07:00 - 14:00",
+        "dtl_text": "07:00 - 14:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (in accordance with Toyosu Market)"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/13117868-f11dd7b6078e173cf8e395f11d8a9f6f4cd20c03e6cbc0e8d030ccbc53e0d726.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "若鳥焼き もばら",
+    "name_en": "Wakadori Yaki Mobara",
+    "area": "東京都 大井町駅",
+    "url": "https://tabelog.com/tokyo/A1315/A131501/13230305/",
+    "rating": 3.63,
+    "review_count_tabelog": 247,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays, Public Holidays, and Not fixed"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/13230305-1e98c98674ce0882a407ec9909df84811d6a934123502913dd13b5d4f5fdcd37.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "小林 地鶏の里",
+    "name_en": "Kobayashi Jidori no Sato",
+    "area": "宮崎県 小林市",
+    "url": "https://tabelog.com/miyazaki/A4503/A450304/45000391/",
+    "rating": 3.64,
+    "review_count_tabelog": 247,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Chicken dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 20:00 L.O. 19:30",
+        "dtl_text": "11:00 - 20:00 L.O. 19:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/45000391-4674b824d23670302798abea488562b9ee192e6afbf35a35fac09be66a8ec553.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "やまさ和",
+    "name_en": "Yamasa Wa",
+    "area": "北海道 中央区役所前駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010102/1069668/",
+    "rating": 3.6,
+    "review_count_tabelog": 41,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/1069668-db42f50e01643df8ce9f5b5d6d265ce02d00377c513d5bd13127e4abc58e57ef.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "一鳥目 とり松",
+    "name_en": "Ichiyome Torimatsu",
+    "area": "東京都 麻布十番駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130702/13289604/",
+    "rating": 3.65,
+    "review_count_tabelog": 303,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 23:00 L.O. 22:30",
+        "dtl_text": "17:00 - 23:00 L.O. 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Year-end & New Year Holidays"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/13289604-3a8e42128e6ca8cc3e73f1e509e40c8e49623a8355035289e486848fb3a5f420.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "あひ鴨一品 鳥安",
+    "name_en": "Aigamo Ippin Toriyasu",
+    "area": "東京都 東日本橋駅",
+    "url": "https://tabelog.com/tokyo/A1302/A130204/13003728/",
+    "rating": 3.6,
+    "review_count_tabelog": 140,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Sukiyaki",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:00 - 21:00",
+        "dtl_text": "17:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Saturdays (open only in December and January), Sundays, and public holidays (seasonal closures may apply)"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/13003728-b92a639a60b6ec95d841855b78e1541a272ef74949f3a7313fb05eb183baa84a.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "Na Camo guro",
+    "name_en": "Na Camo guro",
+    "area": "東京都 中目黒駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13188190/",
+    "rating": 3.61,
+    "review_count_tabelog": 1174,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Chicken dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:00 - 22:30 L.O. 22:00",
+        "dtl_text": "17:00 - 22:30 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "12:00 - 15:00 L.O. 14:00 17:00 - 22:30 L.O. 22:00",
+        "dtl_text": "17:00 - 22:30 L.O. 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Year-end & New Year Holidays"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/13188190-0696754b877c76c544ba2127b982326e3d8a8f3f5e92eec1b5f83b831f2e5aad.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "小野木",
+    "name_en": "Onoki",
+    "area": "北海道 旭川市",
+    "url": "https://tabelog.com/hokkaido/A0104/A010401/1000796/",
+    "rating": 3.58,
+    "review_count_tabelog": 272,
+    "price_dinner": "-",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chicken dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "11:00 - 20:00",
+        "dtl_text": "11:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays and the first and third Mondays of each month"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/1000796-9323a329973d24b91f4cbf417ccc0bc8584ae886a040d2e69f3d1e62983438fc.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "るこっく",
+    "name_en": "Le Coq",
+    "area": "北海道 豊水すすきの駅",
+    "url": "https://tabelog.com/hokkaido/A0101/A010103/1044227/",
+    "rating": 3.63,
+    "review_count_tabelog": 151,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Shochu (Japanese spirits)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 23:00 L.O. 22:30",
+        "dtl_text": "18:00 - 23:00 L.O. 22:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays (subject to change on public holidays)"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/1044227-6e56d2ce2d346583fd78ec9039186d1ecc4da932d9cc66a97cff7860d2ddfa7d.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "ふれあいの里 梅北本店",
+    "name_en": "Fureai no Sato Umekitahonten",
+    "area": "宮崎県 都城市",
+    "url": "https://tabelog.com/miyazaki/A4503/A450301/45000076/",
+    "rating": 3.62,
+    "review_count_tabelog": 123,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Chicken dishes, Regional Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 22:00",
+        "dtl_text": "11:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Mondays (the following day if a holiday)"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/45000076-a85446784e573bc5ed353a05c196b16a36b7d2ded8a04cfe372f00fd2d4e4279.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "きじや",
+    "name_en": "Kijiya",
+    "area": "熊本県 人吉市",
+    "url": "https://tabelog.com/kumamoto/A4304/A430403/43000187/",
+    "rating": 3.61,
+    "review_count_tabelog": 61,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chicken dishes, Regional Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 22:00",
+        "dtl_text": "11:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays (Open on public holidays)"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/43000187-612f8c7ac5b27136693f165733247478af35f3994dcf213e327fc0951d31d431.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "とり焼き さじ",
+    "name_en": "Tori Yaki Saji",
+    "area": "大阪府 北新地駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27085777/",
+    "rating": 3.58,
+    "review_count_tabelog": 50,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "18:00 - 02:00",
+        "dtl_text": "18:00 - 02:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/27085777-42f89872e4f7e56c2d33b75ba94ab8d3074480512be4349429b1339c1c1dad04.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "とり焼肉鳥壱 栄女子大店",
+    "name_en": "Tori Yakiniku Toriichi Sakae Joshidai Ten",
+    "area": "愛知県 矢場町駅",
+    "url": "https://tabelog.com/aichi/A2301/A230103/23082426/",
+    "rating": 3.55,
+    "review_count_tabelog": 203,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:00 - 05:00 L.O. Food 04:00 Drinks 04:30",
+        "dtl_text": "17:00 - 05:00 L.O. Food 04:00 Drinks 04:30"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/23082426-90f6053132aedcf9a7d37c05f816f3e14f5967af13d0f1c024b253a07ffc5b56.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "鶏焼き肉 囲",
+    "name_en": "Tori Yakiniku Kakoi",
+    "area": "東京都 乃木坂駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13289352/",
+    "rating": 3.54,
+    "review_count_tabelog": 233,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Izakaya (Tavern), Hot Pot",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "17:00 - 23:30 L.O. Food 22:30 Drinks 23:00",
+        "dtl_text": "17:00 - 23:30 L.O. Food 22:30 Drinks 23:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon - Sun": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/13289352-f29052b3bdd78b207d3c59240ac169e6fcb239fad8506212e1d9af1a179aa230.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "ろばたやき山ろく",
+    "name_en": "Robatayaki Sanroku",
+    "area": "熊本県 山鹿市",
+    "url": "https://tabelog.com/kumamoto/A4303/A430301/43001156/",
+    "rating": 4.31,
+    "review_count_tabelog": 662,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥6,000～￥7,999",
+    "sub_categories": "Chicken dishes, Meat dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri",
+        "dtl": "11:30 - 15:00",
+        "dtl_text": "11:30 - 15:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun",
+        "dtl": "11:00 - 15:00",
+        "dtl_text": "11:00 - 15:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every Wednesday, the second Thursday, and the fourth Thursday of the month."
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/43001156-b44e1905dc9d1ab4b681352f0af22e97e76da54413ef1b7e22f1f6a8e507502c.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "鳥やす",
+    "name_en": "Tori Yasu",
+    "area": "新潟県 新潟市中央区",
+    "url": "https://tabelog.com/niigata/A1501/A150101/15011511/",
+    "rating": 3.57,
+    "review_count_tabelog": 64,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Yakitori (Grilled chicken skewers), Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:00 - 22:30 L.O. 22:00",
+        "dtl_text": "17:00 - 22:30 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays and the third Thursday of each month"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/15011511-c466bc4e50482b5bf39ac88bc331b4a14a0fee7d8f94941e794141c1eeac9df7.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "丸万元祖焼鳥",
+    "name_en": "Maruman Ganso Yakitori",
+    "area": "鹿児島県 鹿児島市",
+    "url": "https://tabelog.com/kagoshima/A4601/A460101/46003588/",
+    "rating": 3.69,
+    "review_count_tabelog": 276,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/46003588-8d2bfceb691cf73be00ff15204b65b931b69286423f6382f1c4ee113bea64c28.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "骨付鳥 蘭丸",
+    "name_en": "Honetsukidori Ranmaru",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37005271/",
+    "rating": 3.61,
+    "review_count_tabelog": 908,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Izakaya (Tavern), Seafood",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 22:00 L.O. 21:30",
+        "dtl_text": "17:00 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/37005271-3977a89dba95588ae130a5dbb93fd78ad5cea2caf408617f76599b07c529c380.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "鳥名子",
+    "name_en": "Torinago",
+    "area": "京都府 福知山駅",
+    "url": "https://tabelog.com/kyoto/A2608/A260802/26013202/",
+    "rating": 3.63,
+    "review_count_tabelog": 221,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Hot Pot, Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/26013202-577163859e0c1ce98886df408c772eabffc0a076a52e4e949941e54a1f5bcb5a.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "河島",
+    "name_en": "Kawashima",
+    "area": "山形県 山形市",
+    "url": "https://tabelog.com/yamagata/A0601/A060101/6000145/",
+    "rating": 3.56,
+    "review_count_tabelog": 30,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/6000145-3196cbde5dc31ee8278818256f7261ffeafd32ff6effd3014cb906637631b30a.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "鶏料理 らんぷ",
+    "name_en": "Toriryori Ranpu",
+    "area": "兵庫県 三ノ宮（ＪＲ）駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280101/28058989/",
+    "rating": 3.54,
+    "review_count_tabelog": 86,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "16:00 - 23:00",
+        "dtl_text": "16:00 - 23:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/28058989-7387b7207aabb5be50da7ca659294acdd0808912bc42da7e92b4d9b4ba3f1cf8.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "粋仙",
+    "name_en": "Suisen",
+    "area": "宮崎県 宮崎市",
+    "url": "https://tabelog.com/miyazaki/A4501/A450101/45009703/",
+    "rating": 3.64,
+    "review_count_tabelog": 373,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu",
+        "dtl": "17:00 - 22:00 L.O. 21:20",
+        "dtl_text": "17:00 - 22:00 L.O. 21:20"
+      },
+      {
+        "list_context": "main",
+        "title": "Fri, Sat, Day before public holiday",
+        "dtl": "17:00 - 23:00 L.O. 22:20",
+        "dtl_text": "17:00 - 23:00 L.O. 22:20"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/45009703-7484b6309043f742d113b8a4af4362a2d0b15a06d65990ec5c0fc27e15eaa0e9.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "鶏や。やまぐち",
+    "name_en": "Toriya Yamaguchi",
+    "area": "鹿児島県 鹿児島市",
+    "url": "https://tabelog.com/kagoshima/A4601/A460101/46014180/",
+    "rating": 3.64,
+    "review_count_tabelog": 15,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/46014180-b6c5c2cf184a1708548cfa16f6fc545f12c6499488afc6f7e8bd9f0fa0db7e85.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "らくだ山 地鶏の店",
+    "name_en": "Rakuda Yama Jidori no Mise",
+    "area": "熊本県 阿蘇郡高森町",
+    "url": "https://tabelog.com/kumamoto/A4302/A430202/43000153/",
+    "rating": 3.73,
+    "review_count_tabelog": 360,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Chicken dishes, Regional Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri",
+        "dtl": "11:00 - 16:00",
+        "dtl_text": "11:00 - 16:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "10:30 - 16:00",
+        "dtl_text": "10:30 - 16:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/43000153-104b03967a8f0d17dfd98dd3caa3a9c2d56ad0b56999174962c2103e8eebbac7.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "石川商店",
+    "name_en": "Ishikawa Shoten",
+    "area": "徳島県 徳島市",
+    "url": "https://tabelog.com/tokushima/A3601/A360101/36005323/",
+    "rating": 3.53,
+    "review_count_tabelog": 65,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 00:00",
+        "dtl_text": "18:00 - 00:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/36005323-99da09e0b129828894487f4df4d5c2b03b6ae6761a388f44246ac6d496acc1e7.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "おおむら",
+    "name_en": "Oomura",
+    "area": "静岡県 静岡市葵区",
+    "url": "https://tabelog.com/shizuoka/A2201/A220101/22009660/",
+    "rating": 3.58,
+    "review_count_tabelog": 82,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Oden, Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 23:00 L.O. 22:00",
+        "dtl_text": "17:00 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "16:30 - 23:00 L.O. 22:00",
+        "dtl_text": "16:30 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The third Wednesday of each month"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/22009660-0c6f191aa87c4d89203c5e3c7f03c20320cbdd9294a0353091db37173893e738.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "とよ田",
+    "name_en": "Toyoda",
+    "area": "東京都 自由が丘駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131703/13278985/",
+    "rating": 3.63,
+    "review_count_tabelog": 165,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Kara-age (Deep-fried chicken)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "16:30 - 21:30",
+        "dtl_text": "16:30 - 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/13278985-7d3ab63a1a1552cac3646b8c03f8bbbae8a786e55e8bb940c40f407e88116d16.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "とり料理ふじ",
+    "name_en": "Tori Ryori Fuji",
+    "area": "東京都 五反田駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131603/13155948/",
+    "rating": 3.58,
+    "review_count_tabelog": 381,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Sukiyaki, Mizutaki",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/13155948-34b67c17f7704b991187aa0dcfd96486d857e3b908efc183622f08d8fc0f33a4.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "鷹匠壽",
+    "name_en": "Takajo Kotobuki",
+    "area": "東京都 浅草（東武・都営・メトロ）駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131102/13003661/",
+    "rating": 4.22,
+    "review_count_tabelog": 188,
+    "price_dinner": "￥30,000～￥39,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes",
+    "hours_raw": [],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/13003661-396bfc1ba989565aa1d464eefba2798c2ed3b067c42e3557c33ef0420246f1e4.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "地どり庵 三蔵",
+    "name_en": "Jidori An Sanzou",
+    "area": "熊本県 山鹿市",
+    "url": "https://tabelog.com/kumamoto/A4303/A430301/43006219/",
+    "rating": 3.76,
+    "review_count_tabelog": 147,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Chicken dishes, Tofu dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri",
+        "dtl": "11:30 - 15:00 L.O. 14:30 17:00 - 21:30 L.O. 21:00",
+        "dtl_text": "17:00 - 21:30 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 21:30 L.O. 21:00",
+        "dtl_text": "11:30 - 21:30 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Sat, Sun & Public Holidays": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/43006219-eff16e588056faba0ab1105f4e630020b45676645be352398dc6c5481647b6d5.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "鳥とみ",
+    "name_en": "Tori Tomi",
+    "area": "東京都 三軒茶屋駅",
+    "url": "https://tabelog.com/tokyo/A1317/A131705/13228923/",
+    "rating": 3.58,
+    "review_count_tabelog": 116,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Mizutaki, Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/13228923-287a2e443d939709b6c27fb7b57f3cb30669b62696aa85218589cf91926c810d.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "とぶ",
+    "name_en": "Tobu",
+    "area": "秋田県 横手市",
+    "url": "https://tabelog.com/akita/A0505/A050501/5006730/",
+    "rating": 3.64,
+    "review_count_tabelog": 29,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Chicken dishes",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays (occasional openings) and some public holidays"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/5006730-2e3c2cb0aba206ccaad6ba8fa381ba64e90b4b72a7a89c376415db53a09fd5e2.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "泰然",
+    "name_en": "TAIZEN",
+    "area": "東京都 新宿御苑前駅",
+    "url": "https://tabelog.com/tokyo/A1304/A130402/13146085/",
+    "rating": 3.62,
+    "review_count_tabelog": 319,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chicken dishes, Japanese Cuisine, Oyako-don (Chicken and egg bowl)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Public Holiday",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/13146085-ce18de83e1e76763d5a05773e01f3ee673b3f0fe89a0d194ba9a81dd557c05b8.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "秋田比内や 大館本店",
+    "name_en": "Akita Hinaiya Oodate Honten",
+    "area": "秋田県 大館市",
+    "url": "https://tabelog.com/akita/A0502/A050201/5000030/",
+    "rating": 3.56,
+    "review_count_tabelog": 491,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chicken dishes, Yakitori (Grilled chicken skewers), Oyako-don (Chicken and egg bowl)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat",
+        "dtl": "11:00 - 14:00 17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "11:00 - 14:00 17:00 - 21:00 L.O. 20:00",
+        "dtl_text": "17:00 - 21:00 L.O. 20:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/5000030-8f31b9c04fb44d6fcf8672e4fc931f9c169c937d610fc8c733e8285f9ea2fe51.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "地土里",
+    "name_en": "Chidori",
+    "area": "東京都 六本木一丁目駅",
+    "url": "https://tabelog.com/tokyo/A1307/A130701/13303122/",
+    "rating": 3.96,
+    "review_count_tabelog": 55,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 20:00 20:15 - 23:15",
+        "dtl_text": "20:15 - 23:15"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/13303122-0b983ca0500fe1143f0f402ae80ef91737de3ad49da5f0cfd072875a7d3826aa.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "かも料理 まりも本店",
+    "name_en": "Kamoryori Marimo Honten",
+    "area": "福岡県 呉服町駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400101/40005230/",
+    "rating": 3.67,
+    "review_count_tabelog": 258,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "～￥999",
+    "sub_categories": "Chicken dishes, Shabu shabu (Japanese hotpot), Hot Pot",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "11:00 - 13:15 18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Lunch": {},
+        "Dinner": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/40005230-2106979035c4200cb4f7dcc7de3c88c9a72fefb40518fa01115c460e392482b3.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "鬼亭",
+    "name_en": "Oni Tei",
+    "area": "東京都 渋谷駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130301/13003491/",
+    "rating": 3.65,
+    "review_count_tabelog": 515,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/13003491-80a23d713ffda246e46eb2ad675c446cdb007303eaebd26ec7633b853bda2b69.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "水づき",
+    "name_en": "Mizuki",
+    "area": "東京都 白金台駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131602/13303865/",
+    "rating": 3.99,
+    "review_count_tabelog": 135,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Yakitori (Grilled chicken skewers), Regional Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri, Sat",
+        "dtl": "17:30 - 20:00 20:30 - 23:00",
+        "dtl_text": "20:30 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "18:30 - 21:00",
+        "dtl_text": "18:30 - 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Mon, Tue, Fri, Sat": {},
+        "Sun": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/13303865-09a64cd39935d15ebd8f78653c28a39f1de0683b112614539aabbfa1d2c15ed6.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "鳥めし 鳥藤分店",
+    "name_en": "Torimeshi Torito Bunten",
+    "area": "東京都 築地駅",
+    "url": "https://tabelog.com/tokyo/A1313/A131301/13037973/",
+    "rating": 3.54,
+    "review_count_tabelog": 1175,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Chicken dishes, Oyako-don (Chicken and egg bowl)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "07:30 - 14:00",
+        "dtl_text": "07:30 - 14:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/13037973-d2ab3f95ab1a3ab2381d2dd3ce3230f58fafda3f8b3c251905f8f4064abce7eb.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "じどりや 穏座",
+    "name_en": "Jidoriya Onza",
+    "area": "滋賀県 大津市",
+    "url": "https://tabelog.com/shiga/A2501/A250101/25000920/",
+    "rating": 4.03,
+    "review_count_tabelog": 322,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Fri, Sat, Sun",
+        "dtl": "18:00 - 21:00",
+        "dtl_text": "18:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed (please refer to the restaurant's website for updates)"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/25000920-dde21a861761aa1986a86246c0855f6573ed4fbdd0354cc4a56b9eb2c65cf052.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "鳥の里",
+    "name_en": "Tori no Sato",
+    "area": "宮崎県 宮崎市",
+    "url": "https://tabelog.com/miyazaki/A4501/A450101/45000577/",
+    "rating": 3.62,
+    "review_count_tabelog": 128,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Izakaya (Tavern), Regional Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Weekdays & Saturday": {}
+      },
+      "closed_on": "Not fixed"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/45000577-d380bfbeb9b5f8270a775c2140bd5397b8eeadcf485ddf51c1ab06c9a79a7cbe.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "炭火焼 山空",
+    "name_en": "Sumibi Yaki Sanku",
+    "area": "宮崎県 日南市",
+    "url": "https://tabelog.com/miyazaki/A4502/A450201/45009069/",
+    "rating": 3.64,
+    "review_count_tabelog": 35,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Meat dishes, Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Closed every Sunday (not fixed on other days). Reservations are available for groups of 4 or more."
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/45009069-1be184d06fd4a0570a728ca75f48a1f2c6fecb4bfa54300e43f28eeecf1d65ad.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "にんにく鶏焼肉サン",
+    "name_en": "Ninniku Tori Yakiniku San",
+    "area": "大阪府 天王寺駅",
+    "url": "https://tabelog.com/osaka/A2701/A270203/27139409/",
+    "rating": 3.61,
+    "review_count_tabelog": 233,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:00 - 02:00",
+        "dtl_text": "17:00 - 02:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/27139409-3e1ccedc168bdacb06b506d3890a1ff33103e408fc5c1484571278930ed0def2.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "美好野",
+    "name_en": "Miyoshino",
+    "area": "福岡県 北九州市小倉北区",
+    "url": "https://tabelog.com/fukuoka/A4004/A400401/40003287/",
+    "rating": 3.64,
+    "review_count_tabelog": 125,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Yakitori (Grilled chicken skewers), Kara-age (Deep-fried chicken)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "17:30 - 22:00",
+        "dtl_text": "17:30 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/40003287-eb7dc20e23b42195c1ea3645443c972804abf1b87363a20f34140fc22055e8d2.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "亀甲苑",
+    "name_en": "Kikkou En",
+    "area": "愛知県 豊田市",
+    "url": "https://tabelog.com/aichi/A2305/A230501/23036344/",
+    "rating": 3.66,
+    "review_count_tabelog": 60,
+    "price_dinner": "-",
+    "price_lunch": "￥5,000～￥5,999",
+    "sub_categories": "Chicken dishes, Yakiniku (BBQ Beef)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:00",
+        "dtl_text": "11:00 - 14:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/23036344-91cea947d497966333607db9175f3a8bebe12e6867577bb435f626e203392fc8.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "酒の酉",
+    "name_en": "Sake no Tori",
+    "area": "岐阜県 岐阜市",
+    "url": "https://tabelog.com/gifu/A2101/A210101/21000166/",
+    "rating": 3.59,
+    "review_count_tabelog": 18,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Shochu (Japanese spirits)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/21000166-da826f6e3a7d826642aff646299c8da52438777cf7d121368ffc4027b4489732.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "地鶏屋 亜門",
+    "name_en": "Jidoriya Amon",
+    "area": "福岡県 櫛田神社前駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400102/40025366/",
+    "rating": 3.62,
+    "review_count_tabelog": 278,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Izakaya (Tavern), Shabu shabu (Japanese hotpot)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:30 - 03:00 L.O. 02:30",
+        "dtl_text": "17:30 - 03:00 L.O. 02:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/40025366-f3ee266590d70438e5ef997044dd6bf51e2ce3a73090ada02616abf1acb693c3.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "古里庵 霧島店",
+    "name_en": "Korean Kirishima Ten",
+    "area": "鹿児島県 霧島市",
+    "url": "https://tabelog.com/kagoshima/A4603/A460301/46008013/",
+    "rating": 3.57,
+    "review_count_tabelog": 35,
+    "price_dinner": "-",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Chicken dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 15:30",
+        "dtl_text": "11:30 - 15:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/46008013-a8aa3a5494f1014b07cffed560fe6ba1dcafeb546b1b7b019f329d3cb3a9965d.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "とり乃屋",
+    "name_en": "Tori Noya",
+    "area": "福岡県 赤坂駅",
+    "url": "https://tabelog.com/fukuoka/A4001/A400104/40037785/",
+    "rating": 3.62,
+    "review_count_tabelog": 90,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Izakaya (Tavern), Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:30 - 00:00",
+        "dtl_text": "17:30 - 00:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/40037785-d335fffc2fb22a292d93aedf147318203dfdae7844a1a5a4ad39d49b249e7daa.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "鴨亭",
+    "name_en": "Kamo Tei",
+    "area": "茨城県 桜川市",
+    "url": "https://tabelog.com/ibaraki/A0802/A080201/8000369/",
+    "rating": 3.64,
+    "review_count_tabelog": 83,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Chicken dishes, Soba (Buckwheat noodles)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 21:00",
+        "dtl_text": "11:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays (open on public holidays)"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/8000369-7288f97ac3fa2dada3f2f49577470fd653524d57880159c11917186848aa545a.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "割箸",
+    "name_en": "Waribashi",
+    "area": "宮崎県 宮崎市",
+    "url": "https://tabelog.com/miyazaki/A4501/A450101/45002895/",
+    "rating": 3.7,
+    "review_count_tabelog": 144,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes",
+    "hours_raw": [
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/45002895-c2b4e7e9c53b06b23250e6215c4ffecf72cc444829e30318cfaa92fd2e0f1b50.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "一番どり",
+    "name_en": "Ichiban Dori",
+    "area": "大分県 日田市",
+    "url": "https://tabelog.com/oita/A4404/A440403/44003283/",
+    "rating": 3.62,
+    "review_count_tabelog": 50,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 22:00 L.O. 21:30",
+        "dtl_text": "17:00 - 22:00 L.O. 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/44003283-a937ef4c9c2de6656e0ddeca529ddb5d0f141adb4e387fadb8a1850fbddfc9df.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "焼肉鳥ｇｇ",
+    "name_en": "Yakiniku Dori gg",
+    "area": "東京都 恵比寿駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130302/13195809/",
+    "rating": 3.59,
+    "review_count_tabelog": 334,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 23:00 L.O. Food 22:00 Drinks 22:30",
+        "dtl_text": "17:00 - 23:00 L.O. Food 22:00 Drinks 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "17:00 - 23:00 L.O. Food 22:00 Drinks 23:00",
+        "dtl_text": "17:00 - 23:00 L.O. Food 22:00 Drinks 23:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/13195809-37ec253df18f3c36fb1f8348c84b79c87a0ec4ed5b9e6f316916ba73772b4a20.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "ひな鳥 そのだ",
+    "name_en": "Hinadori Sonoda",
+    "area": "東京都 鮫洲駅",
+    "url": "https://tabelog.com/tokyo/A1315/A131501/13137722/",
+    "rating": 3.6,
+    "review_count_tabelog": 232,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Kara-age (Deep-fried chicken), Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/13137722-02ff55231b9fa83856401ac0951b194836d90b967d12820c6cad4ec7514a4faa.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "鶏焼将軍 永和",
+    "name_en": "Toriyaki Shogun Eiwa",
+    "area": "大阪府 河内永和駅",
+    "url": "https://tabelog.com/osaka/A2707/A270703/27051055/",
+    "rating": 3.54,
+    "review_count_tabelog": 144,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Izakaya (Tavern), Hot Pot",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 00:00",
+        "dtl_text": "17:00 - 00:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/27051055-af816c2a32322997f43511ae705fbd8095f8bae828754a5ad946925a71ae5e1f.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "鳥浜",
+    "name_en": "Torihama",
+    "area": "静岡県 浜松市中央区",
+    "url": "https://tabelog.com/shizuoka/A2202/A220201/22000094/",
+    "rating": 3.56,
+    "review_count_tabelog": 30,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Hot Pot",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "18:00 - 21:30",
+        "dtl_text": "18:00 - 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/22000094-c05f2265d02e1970a50a31069797fe949c1e5438c39b0c0f55510f74b4dbbb78.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "咲鶏や",
+    "name_en": "Sakitori Ya",
+    "area": "大阪府 谷町四丁目駅",
+    "url": "https://tabelog.com/osaka/A2701/A270104/27058871/",
+    "rating": 3.63,
+    "review_count_tabelog": 166,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Regional Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:00 - 01:00 L.O. 00:00",
+        "dtl_text": "17:00 - 01:00 L.O. 00:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat",
+        "dtl": "17:00 - 00:00 L.O. 23:00",
+        "dtl_text": "17:00 - 00:00 L.O. 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/27058871-ccdf587bbe4d07e262d562f457c288d0c48c3500486b95d0fbcfce376a00455f.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "鳥焼き 小花",
+    "name_en": "Toriyaki Ohana",
+    "area": "東京都 恵比寿駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130302/13265540/",
+    "rating": 3.76,
+    "review_count_tabelog": 279,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 22:30",
+        "dtl_text": "17:00 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/13265540-c0f7c57fafd982fdf5d817121da6ebe9d2328bcc7ec1304f083d2a38e8b94e24.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "とりまんま",
+    "name_en": "Tori Manma",
+    "area": "山口県 宇部市",
+    "url": "https://tabelog.com/yamaguchi/A3504/A350401/35000270/",
+    "rating": 3.58,
+    "review_count_tabelog": 65,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chicken dishes, Izakaya (Tavern), Oyako-don (Chicken and egg bowl)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Sat, Sun",
+        "dtl": "17:30 - 23:00 L.O. Food 22:30 Drinks 22:45",
+        "dtl_text": "17:30 - 23:00 L.O. Food 22:30 Drinks 22:45"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri",
+        "dtl": "11:30 - 14:00 L.O. Food 13:40 17:30 - 23:00 L.O. Food 22:30 Drinks 22:45",
+        "dtl_text": "17:30 - 23:00 L.O. Food 22:30 Drinks 22:45"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/35000270-0a64374999958acc9890a268ef2b2c66ea26c4df1d8372701d42044c6f25be20.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "弥満喜",
+    "name_en": "Yamaki",
+    "area": "茨城県 久慈郡大子町",
+    "url": "https://tabelog.com/ibaraki/A0805/A080503/8001341/",
+    "rating": 3.57,
+    "review_count_tabelog": 296,
+    "price_dinner": "￥2,000～￥2,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Chicken dishes, Unagi (Eel), Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 15:00 L.O. 14:30 17:00 - 20:00",
+        "dtl_text": "17:00 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/8001341-a6e3884eeffe53eb7439a22dca52d4dc0af7ee9cd5d3a48f6b3e63c7c84ff33f.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "地鶏焼 ふかせ",
+    "name_en": "Jidori Yaki Fukase",
+    "area": "愛媛県 大洲市",
+    "url": "https://tabelog.com/ehime/A3803/A380301/38000956/",
+    "rating": 3.64,
+    "review_count_tabelog": 135,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Chicken dishes, Yakitori (Grilled chicken skewers), Oyako-don (Chicken and egg bowl)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 14:00 L.O. 13:30",
+        "dtl_text": "11:30 - 14:00 L.O. 13:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Tuesdays"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/38000956-a18bb56420cee61698aa02ec01866ed63d519aeec1f842400d9b17b67d722ec1.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "鳥料理 鳥勝",
+    "name_en": "Toriryori Torishou",
+    "area": "東京都 曙橋駅",
+    "url": "https://tabelog.com/tokyo/A1309/A130903/13193026/",
+    "rating": 3.98,
+    "review_count_tabelog": 97,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:30 - 22:30 L.O. 21:30",
+        "dtl_text": "17:30 - 22:30 L.O. 21:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/13193026-f295d1af7f9999aaa2b3536738ce237eda5d21de1a4b8cb82b759cd22a54ad9b.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "鳥つね自然洞",
+    "name_en": "Tori Tsune Shizen Do",
+    "area": "東京都 末広町駅",
+    "url": "https://tabelog.com/tokyo/A1311/A131101/13005547/",
+    "rating": 3.74,
+    "review_count_tabelog": 1308,
+    "price_dinner": "￥15,000～￥19,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Chicken dishes, Oyako-don (Chicken and egg bowl)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 13:30 17:30 - 22:00 L.O. 21:00",
+        "dtl_text": "17:30 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/13005547-cc92dee82f359638b961f3d443e73eb8dec61caaa8215d12db663528f136cfc2.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "はち八",
+    "name_en": "Hachihachi",
+    "area": "愛媛県 今治市",
+    "url": "https://tabelog.com/ehime/A3802/A380201/38000085/",
+    "rating": 3.63,
+    "review_count_tabelog": 58,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/38000085-706e0533a13d2a60a6f76d01615b10b3e1bfec71474f13a5d3f2cf0babf554a7.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "炭火焼き鳥 鴨尽 お初天神店",
+    "name_en": "sumibi yaki tori kamo jin Ohatsu Tenjin Ten",
+    "area": "大阪府 東梅田駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27144553/",
+    "rating": 3.6,
+    "review_count_tabelog": 76,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Hot Pot, Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:00 - 02:00 L.O. Food 01:00 Drinks 01:30",
+        "dtl_text": "17:00 - 02:00 L.O. Food 01:00 Drinks 01:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/27144553-aa4638460c870f4c7824339ab232fde996af5c79bc9304113fc186c03c4117a4.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "比内地鶏 ほっこりや",
+    "name_en": "Hinaijidori Hokkoriya",
+    "area": "滋賀県 彦根市",
+    "url": "https://tabelog.com/shiga/A2503/A250303/25000931/",
+    "rating": 3.65,
+    "review_count_tabelog": 427,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Chicken dishes, Oyako-don (Chicken and egg bowl), Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "11:30 - 15:00 L.O. 14:30 17:30 - 22:00 L.O. 21:00",
+        "dtl_text": "17:30 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/25000931-4b2617fce55e75d95fa1cf7b2a855edcbfab8566128bd04e22738ce2d67dc570.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "矢部野ファーム",
+    "name_en": "Yabeno Farm",
+    "area": "熊本県 上益城郡山都町",
+    "url": "https://tabelog.com/kumamoto/A4301/A430105/43007849/",
+    "rating": 3.61,
+    "review_count_tabelog": 37,
+    "price_dinner": "-",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Chicken dishes, Oyako-don (Chicken and egg bowl), Cafeteria",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 18:00",
+        "dtl_text": "12:00 - 18:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/43007849-81918bda409f399bfd59bd08ab8b5338591937c00034af1a7be86758c888747a.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "鳥樹 蒲田店",
+    "name_en": "Tori Ki Kamata Ten",
+    "area": "東京都 蒲田駅",
+    "url": "https://tabelog.com/tokyo/A1315/A131503/13024227/",
+    "rating": 3.55,
+    "review_count_tabelog": 473,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Yakitori (Grilled chicken skewers), Mizutaki",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/13024227-f3ce1c549294cc5c2968bd4d30dd07209dbc271ab6f42cf47b964aef7d657acf.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "軍鶏丸",
+    "name_en": "Shamo Maru",
+    "area": "東京都 恵比寿駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130302/13003326/",
+    "rating": 3.6,
+    "review_count_tabelog": 290,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Hot Pot",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 22:00 L.O. 21:15",
+        "dtl_text": "17:00 - 22:00 L.O. 21:15",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/13003326-23f244a99aa5e21863e8012d11eed95b3079d01cd45d84a60ae7d3e43705c395.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "とり料理 瀬戸",
+    "name_en": "Tori Ryori Seto",
+    "area": "京都府 市原駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260502/26005179/",
+    "rating": 3.79,
+    "review_count_tabelog": 153,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "￥8,000～￥9,999",
+    "sub_categories": "Chicken dishes, Sukiyaki, Hot Pot",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "12:00 - 21:00",
+        "dtl_text": "12:00 - 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Every Monday (open on public holidays)"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/26005179-bf8df95fee4dc5931644c6382f9eb231bc8265c086091cda7e13796f33aa3efe.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "鳥半・魚半",
+    "name_en": "Torihan Uohan",
+    "area": "千葉県 成田駅",
+    "url": "https://tabelog.com/chiba/A1204/A120401/12019392/",
+    "rating": 3.52,
+    "review_count_tabelog": 135,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Seafood, Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 23:00 L.O. Food 22:00 Drinks 22:30",
+        "dtl_text": "17:00 - 23:00 L.O. Food 22:00 Drinks 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "17:00 - 22:30 L.O. Food 21:30 Drinks 22:00",
+        "dtl_text": "17:00 - 22:30 L.O. Food 21:30 Drinks 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Day before public holiday",
+        "dtl": "17:00 - 23:00 L.O. Food 22:10 Drinks 22:30",
+        "dtl_text": "17:00 - 23:00 L.O. Food 22:10 Drinks 22:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Open year-round (with irregular holidays during year-end, New Year, Golden Week, and Obon)"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/12019392-15e1988acfe6d4b1bc7af30211a07a9c53bba04c4bd8338f476191396b426557.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "とりなご 恵比寿店",
+    "name_en": "Tori Nago Ebisu Ten",
+    "area": "東京都 恵比寿駅",
+    "url": "https://tabelog.com/tokyo/A1303/A130302/13132380/",
+    "rating": 3.62,
+    "review_count_tabelog": 887,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Hot Pot, Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 23:00 L.O. 22:00",
+        "dtl_text": "17:00 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/13132380-b3ed9e4afabf40c98178f71b9c45be3591d368186a5d2f8382c1f7441353bb3a.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "地鶏庵城の平",
+    "name_en": "Jidori Anjo no Hira",
+    "area": "宮崎県 東諸県郡綾町",
+    "url": "https://tabelog.com/miyazaki/A4501/A450102/45006031/",
+    "rating": 3.61,
+    "review_count_tabelog": 17,
+    "price_dinner": "-",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Chicken dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 14:00 18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue, Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/45006031-e5d28073e3b2667719177acc03000fa5624281d16e0270de7ee81ade4cd27bc8.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "炭焼地鶏 山蔵",
+    "name_en": "SANZO",
+    "area": "福岡県 太宰府市",
+    "url": "https://tabelog.com/fukuoka/A4003/A400301/40047981/",
+    "rating": 3.71,
+    "review_count_tabelog": 384,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "￥2,000～￥2,999",
+    "sub_categories": "Chicken dishes, Robatayaki",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Fri, Sat, Sun",
+        "dtl": "11:00 - 22:00 L.O. 21:00",
+        "dtl_text": "11:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/40047981-73589b469fe9974e564a109fcce8052bae60ec403ace4c77e05162f08a145768.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "庭つ鶏",
+    "name_en": "Niwa Tori",
+    "area": "東京都 五反田駅",
+    "url": "https://tabelog.com/tokyo/A1316/A131603/13020732/",
+    "rating": 3.63,
+    "review_count_tabelog": 658,
+    "price_dinner": "￥6,000～￥7,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Yakitori (Grilled chicken skewers), Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 21:30 L.O. Food 20:45",
+        "dtl_text": "17:00 - 21:30 L.O. Food 20:45"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/13020732-69a1d15eb6494017e5c6d2300865e743288f6827d21876cc760677b0fbf2a948.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "鳥芳",
+    "name_en": "Tori Yoshi",
+    "area": "兵庫県 甲南山手駅",
+    "url": "https://tabelog.com/hyogo/A2801/A280105/28005184/",
+    "rating": 3.59,
+    "review_count_tabelog": 50,
+    "price_dinner": "￥4,000～￥4,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Yakitori (Grilled chicken skewers), Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 22:00 L.O. 21:30",
+        "dtl_text": "17:00 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/28005184-f92cb0829171f8b0c4401b02f8ff8630e0a8ae14e4af0fe432b100c3ff1d5422.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "丸万焼鳥 本店",
+    "name_en": "Maruman Yakitori Hon Ten",
+    "area": "宮崎県 宮崎市",
+    "url": "https://tabelog.com/miyazaki/A4501/A450101/45000079/",
+    "rating": 3.71,
+    "review_count_tabelog": 843,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Yakitori (Grilled chicken skewers), Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:00 - 22:00 L.O. Food 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. Food 21:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Sundays (open if Monday is a public holiday)"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/45000079-9ada4391597b1f845b0a9fb52e70a5eecee689e3f33fbc790c1a6f74024d6a1f.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "333",
+    "name_en": "333",
+    "area": "石川県 金沢市",
+    "url": "https://tabelog.com/ishikawa/A1701/A170101/17009093/",
+    "rating": 3.72,
+    "review_count_tabelog": 147,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 23:00",
+        "dtl_text": "17:00 - 23:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/17009093-a6efc71cd642395303f7304009ee86c4de16fed180335b77f285eac2ef96354a.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "とり料理 まさ",
+    "name_en": "Tori Ryori Masa",
+    "area": "愛知県 高岳駅",
+    "url": "https://tabelog.com/aichi/A2301/A230104/23073072/",
+    "rating": 3.58,
+    "review_count_tabelog": 44,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "18:00 - 21:30",
+        "dtl_text": "18:00 - 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/23073072-e4a636185b632888b9ed63b8521ec7bef6852ff3327c4dfef195945e6ddf3232.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "髙峯",
+    "name_en": "Takamime",
+    "area": "宮崎県 宮崎市",
+    "url": "https://tabelog.com/miyazaki/A4501/A450101/45010063/",
+    "rating": 3.62,
+    "review_count_tabelog": 113,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Yakitori (Grilled chicken skewers), Regional Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:30 - 01:00",
+        "dtl_text": "17:30 - 01:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Not fixed"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/45010063-683e7845bb051e7e5ada67e72530b7d9c11a0618265e29fde276a46fd40756b7.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "鶏ん家 名古屋新栄店",
+    "name_en": "Torin Chi Nagoya Shinei Ten",
+    "area": "愛知県 新栄町駅",
+    "url": "https://tabelog.com/aichi/A2301/A230104/23091520/",
+    "rating": 3.56,
+    "review_count_tabelog": 44,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Yakiniku (BBQ Beef), Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri",
+        "dtl": "17:00 - 00:00 L.O. Food 23:00 Drinks 23:30",
+        "dtl_text": "17:00 - 00:00 L.O. Food 23:00 Drinks 23:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "16:00 - 23:00 L.O. Food 22:00 Drinks 22:30",
+        "dtl_text": "16:00 - 23:00 L.O. Food 22:00 Drinks 22:30"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/23091520-5c56eb4accda81a26234f6e156233f38f923fd3e63c566dbcfc3194c2ed13d85.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "鳥一",
+    "name_en": "Tori Ichi",
+    "area": "大阪府 日本橋駅",
+    "url": "https://tabelog.com/osaka/A2701/A270202/27022238/",
+    "rating": 3.69,
+    "review_count_tabelog": 154,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:30 - 22:30",
+        "dtl_text": "17:30 - 22:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/27022238-a07dc6242d8f6b685ffdab5ccffbc77a11395b4bd52e09b6e187cdeabf514cdf.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "市岡45",
+    "name_en": "Ichioka 45",
+    "area": "大阪府 北新地駅",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27112684/",
+    "rating": 3.64,
+    "review_count_tabelog": 113,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Mizutaki, Oyako-don (Chicken and egg bowl)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Day before public holiday, Day after public holiday",
+        "dtl": "17:00 - 23:00 L.O. 22:00",
+        "dtl_text": "17:00 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "We are open on Sundays and public holidays by reservation only."
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/27112684-792b82277da30c9904fd9c3089f8c6e1ea723605cc9d153ad318c35262619431.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "名古屋コーチン割烹 鳥ふく",
+    "name_en": "Nagoya Cochin Kappo Torifuku",
+    "area": "愛知県 高岳駅",
+    "url": "https://tabelog.com/aichi/A2301/A230104/23063622/",
+    "rating": 3.66,
+    "review_count_tabelog": 64,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Mizutaki, Regional Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "17:30 - 22:30",
+        "dtl_text": "17:30 - 22:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/23063622-e86c7797359de34e51eb9be4e2c08c6a9023c930f606176fcc4508be2bb8d1c2.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "唐揚げ 若鳥",
+    "name_en": "Karaage Waka Tori",
+    "area": "静岡県 三島市",
+    "url": "https://tabelog.com/shizuoka/A2205/A220501/22000779/",
+    "rating": 3.62,
+    "review_count_tabelog": 58,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "17:00 - 22:00",
+        "dtl_text": "17:00 - 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Third Monday of each month"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/22000779-389f08909d684e2435e1c781ecec763db766ea0307523496e052b7b9e2643a54.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "骨付鳥 一鶴 丸亀本店",
+    "name_en": "Honetsukidori Ikkaku Marugame Ten",
+    "area": "香川県 丸亀市",
+    "url": "https://tabelog.com/kagawa/A3702/A370202/37000066/",
+    "rating": 3.66,
+    "review_count_tabelog": 1448,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chicken dishes, Kamameshi, Izakaya (Tavern)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri",
+        "dtl": "11:00 - 14:00 L.O. 13:45 17:00 - 22:00 L.O. 21:30",
+        "dtl_text": "17:00 - 22:00 L.O. 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 22:00 L.O. 21:30",
+        "dtl_text": "11:00 - 22:00 L.O. 21:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/37000066-7c7eaff5628ceb35d67bcf285b2c594ff87f069696fe4fbb047bbc0c8fa50831.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "うずら屋 京都・四条",
+    "name_en": "Uzura Ya Kyoto Shijo",
+    "area": "京都府 祇園四条駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260301/26003283/",
+    "rating": 3.66,
+    "review_count_tabelog": 86,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Fri, Sat, Sun",
+        "dtl": "17:30 - 22:00",
+        "dtl_text": "17:30 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Thu",
+        "dtl": "18:00 - 22:00",
+        "dtl_text": "18:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "Wednesdays"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/26003283-d7abbd6b74d61e256bacd97c4f9bc76ae9409b8d713a7497eb1fa2bfcfd09c32.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "鳥専 一保",
+    "name_en": "Torisen Ippo",
+    "area": "鹿児島県 鹿児島市",
+    "url": "https://tabelog.com/kagoshima/A4601/A460101/46000053/",
+    "rating": 3.74,
+    "review_count_tabelog": 169,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 00:00",
+        "dtl_text": "18:00 - 00:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/46000053-19a39000341c0eddf87dfa902f9ca9237a7f974748834a845ed3bbc0c0d6f1ff.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "トリユウ",
+    "name_en": "Tori Yuu",
+    "area": "三重県 松阪市",
+    "url": "https://tabelog.com/mie/A2401/A240102/24003468/",
+    "rating": 3.57,
+    "review_count_tabelog": 170,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chicken dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Wed, Thu, Fri, Sat, Sun, Public Holiday",
+        "dtl": "11:30 - 20:00",
+        "dtl_text": "11:30 - 20:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Mon, Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/24003468-daab6ac40081fa45aa75fea98367e4d97204f70aceb8a5e2e3f682c48def9ef7.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "骨付鳥 一鶴 高松店",
+    "name_en": "Honetsukidori Ikkaku Takamatsu Ten",
+    "area": "香川県 高松市",
+    "url": "https://tabelog.com/kagawa/A3701/A370101/37000546/",
+    "rating": 3.7,
+    "review_count_tabelog": 1735,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Chicken dishes, Izakaya (Tavern), Regional Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri",
+        "dtl": "17:00 - 23:00 L.O. 22:30",
+        "dtl_text": "17:00 - 23:00 L.O. 22:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "11:00 - 23:00 L.O. 22:30",
+        "dtl_text": "11:00 - 23:00 L.O. 22:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/37000546-2673650b99054eaded732195768ab3618d3dec79e37bc6bb9910665324f255d4.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "飛鳥くら田",
+    "name_en": "Hicho Kurata",
+    "area": "東京都 神田駅",
+    "url": "https://tabelog.com/tokyo/A1310/A131002/13281891/",
+    "rating": 3.98,
+    "review_count_tabelog": 202,
+    "price_dinner": "￥20,000～￥29,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Innovative, Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {
+        "Tue - Sat": {},
+        "Sun, Mon": {}
+      },
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/13281891-93489959bca559f1caf3223b812d2bce7ba4022e95581a0d9734e0d6f957d21e.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "骨付鳥かもん",
+    "name_en": "Honetsuki Dori Kamon",
+    "area": "三重県 四日市市",
+    "url": "https://tabelog.com/mie/A2402/A240201/24007296/",
+    "rating": 3.6,
+    "review_count_tabelog": 249,
+    "price_dinner": "-",
+    "price_lunch": "～￥999",
+    "sub_categories": "Chicken dishes, Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:15 - 13:45 L.O. 13:15 17:30 - 22:00 L.O. 21:30",
+        "dtl_text": "17:30 - 22:00 L.O. 21:30"
+      },
+      {
+        "list_context": "main",
+        "title": "Tue",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The third Monday of each month"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/24007296-44de5379de3da35f8154d1273e54933d79f63d3d3c1bdb32a96843c9552afe47.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "焼鳥食堂",
+    "name_en": "Yakitori Shokudo",
+    "area": "大阪府 扇町駅",
+    "url": "https://tabelog.com/osaka/A2701/A270103/27132604/",
+    "rating": 3.59,
+    "review_count_tabelog": 324,
+    "price_dinner": "￥3,000～￥3,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes, Izakaya (Tavern), Yakitori (Grilled chicken skewers)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat, Sun, Public Holiday, Day before public holiday, Day after public holiday",
+        "dtl": "17:00 - 01:00 L.O. 00:00",
+        "dtl_text": "17:00 - 01:00 L.O. 00:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/27132604-34400caa360724e9286788879cdb9a41d22404060ef03ad23d5d0100d023451a.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "前島食堂",
+    "name_en": "Maeshima Shokudo",
+    "area": "三重県 松阪市",
+    "url": "https://tabelog.com/mie/A2401/A240102/24001314/",
+    "rating": 3.66,
+    "review_count_tabelog": 469,
+    "price_dinner": "￥1,000～￥1,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chicken dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu",
+        "dtl": "10:30 - 14:00 15:00 - 18:00 L.O. Food 17:30",
+        "dtl_text": "15:00 - 18:00 L.O. Food 17:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Sat, Sun, Public Holiday",
+        "dtl": "10:30 - 18:00 L.O. Food 17:30",
+        "dtl_text": "10:30 - 18:00 L.O. Food 17:30",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Fri",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "other",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "2nd and 4th Thursdays"
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/24001314-d86342d97e5ce4e56b24c2091b146f9c7666a904c50c514da9be4f8df96519bc.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "柳町",
+    "name_en": "Yanagimachi",
+    "area": "京都府 福知山市",
+    "url": "https://tabelog.com/kyoto/A2608/A260802/26026220/",
+    "rating": 3.63,
+    "review_count_tabelog": 307,
+    "price_dinner": "￥5,000～￥5,999",
+    "price_lunch": "￥1,000～￥1,999",
+    "sub_categories": "Chicken dishes, Hot Pot, Oyako-don (Chicken and egg bowl)",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "11:30 - 14:30 L.O. 14:00 18:00 - 23:00 L.O. 22:00",
+        "dtl_text": "18:00 - 23:00 L.O. 22:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun, Public Holiday",
+        "dtl": "11:30 - 14:30 L.O. 14:00 18:00 - 22:00 L.O. 21:00",
+        "dtl_text": "18:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": null
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/26026220-5c9142478b780a74d76ffec2b7760f33c9ece5062d10f6526ca6b06fd1d433e4.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "割烹 長吉",
+    "name_en": "Kappou Choukichi",
+    "area": "新潟県 新潟市西蒲区",
+    "url": "https://tabelog.com/niigata/A1501/A150101/15009579/",
+    "rating": 3.77,
+    "review_count_tabelog": 80,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥4,000～￥4,999",
+    "sub_categories": "Chicken dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Thu, Fri, Sat, Sun",
+        "dtl": "11:00 - 22:00",
+        "dtl_text": "11:00 - 22:00",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      },
+      {
+        "list_context": "main",
+        "title": "Wed",
+        "dtl": "Closed",
+        "dtl_text": "Closed",
+        "open_closed_notice": "Hours and closed days may change, so please check with the restaurant before visiting."
+      }
+    ],
+    "hours_notes_structured": null,
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/15009579-4eaa596a940d1a8ce18feaa162e41662b6ee1a333dda80c6dd3d21c996571803.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "八起庵 丸太町本店",
+    "name_en": "Hachikian Marutachohonten",
+    "area": "京都府 神宮丸太町駅",
+    "url": "https://tabelog.com/kyoto/A2601/A260202/26001086/",
+    "rating": 3.65,
+    "review_count_tabelog": 223,
+    "price_dinner": "￥10,000～￥14,999",
+    "price_lunch": "￥3,000～￥3,999",
+    "sub_categories": "Chicken dishes, Sukiyaki, Japanese Cuisine",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Tue, Wed, Thu, Fri, Sat, Sun",
+        "dtl": "11:30 - 14:00 L.O. 13:00 17:00 - 22:00 L.O. 21:00",
+        "dtl_text": "17:00 - 22:00 L.O. 21:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Mon",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "If Monday is a public holiday, we will be open and take the following Tuesday as a substitute holiday."
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/26001086-fc5c07c034b5b908e4abe15b82ff487cb402324eee4c0ceb39c778952ba099d8.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "category_jp": "鳥料理",
+    "category_en": "鳥料理",
+    "region": "鳥料理 百名店",
+    "name": "鳥料理 純",
+    "name_en": "Toriryori Jun",
+    "area": "愛知県 高岳駅",
+    "url": "https://tabelog.com/aichi/A2301/A230104/23082371/",
+    "rating": 3.59,
+    "review_count_tabelog": 66,
+    "price_dinner": "￥8,000～￥9,999",
+    "price_lunch": "-",
+    "sub_categories": "Chicken dishes",
+    "hours_raw": [
+      {
+        "list_context": "main",
+        "title": "Mon, Tue, Wed, Thu, Fri, Sat",
+        "dtl": "18:00 - 23:00",
+        "dtl_text": "18:00 - 23:00"
+      },
+      {
+        "list_context": "main",
+        "title": "Sun",
+        "dtl": "Closed",
+        "dtl_text": "Closed"
+      },
+      {
+        "list_context": "other"
+      }
+    ],
+    "hours_notes_structured": {
+      "business_hours": {},
+      "closed_on": "The second and fourth Mondays of each month."
+    },
+    "google_rating": null,
+    "google_reviews": 0,
+    "google_maps_url": "",
+    "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/toriryori/23082371-46c8b4f911a09ad12b2738d63462d8aec101cc64e76c1ffbb5ed47eb5d53da7f.jpg",
+    "place_id": "",
+    "g_name": "",
+    "g_rating": null,
+    "g_reviews": 0,
+    "g_address": "",
+    "lat": null,
+    "lng": null
+  }
+]
