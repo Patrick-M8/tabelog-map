@@ -7,7 +7,6 @@
 
   'use strict';
 
-  // Static, GitHub Pages–friendly client
   const MANIFEST_URL = 'geojson/manifest.json';
   const CENTROIDS_URL = 'geojson/category_centroids.min.json';
   const DEFAULT_RADIUS_KM = 3;
@@ -19,7 +18,7 @@
   let centroids = {};
   let map = null, markersLayer = null, myMarker = null, myRing = null;
   let currentSort = 'closing';
-  let sortDir = 'asc';               // asc | desc
+  let sortDir = 'asc';
   let selectedCats = new Set();
   const catsCache = new Map();
   let featuresAll = [];
@@ -27,16 +26,16 @@
   let units = 'km';
   let radiusKm = DEFAULT_RADIUS_KM;
   let onlyWithinRing = true;
-  const cardIndex = new Map();       // fid -> DOM element
+  const cardIndex = new Map();
 
-  // ---- utils ----
+  // utils
   const $ = sel => document.querySelector(sel);
   const tpl = id => document.getElementById(id).content.firstElementChild.cloneNode(true);
   const toRad = d => d * Math.PI / 180;
   function haversine(lat1, lon1, lat2, lon2){
     const R = 6371000;
     const dLat = toRad(lat2 - lat1), dLon = toRad(lon2 - lon1);
-    const a = Math.sin(dLat/2)**2 + Math.cos(toRad(lat1)) * Math.cos(toRad(lat2)) * Math.sin(dLon/2)**2;
+    const a = Math.sin(dLat/2)**2 + Math.cos(toRad(lat1))*Math.cos(toRad(lat2))*Math.sin(dLon/2)**2;
     return 2 * R * Math.asin(Math.sqrt(a));
   }
   const kmToM = km => km * 1000;
@@ -74,19 +73,18 @@
     }
     el.textContent = msg;
   }
-
   function safeFetchJson(url){
     return fetch(url, { cache: 'no-cache' })
       .then(res => { if(!res.ok) throw new Error(`HTTP ${res.status} for ${url}`); return res.json(); })
       .catch(e => { console.warn('Fetch failed:', url, e); return null; });
   }
 
-  // URL state
+  // hash
   function parseHash() {
     const h = new URLSearchParams(location.hash.slice(1));
     return {
       sort: h.get('sort') || 'closing',
-      sd: (h.get('sd') || ''), // asc|desc
+      sd: (h.get('sd') || ''),
       cats: (h.get('cats') || '').split(',').filter(Boolean),
       lat: parseFloat(h.get('lat')),
       lng: parseFloat(h.get('lng')),
@@ -94,29 +92,27 @@
       r: parseFloat(h.get('r') || String(DEFAULT_RADIUS_KM)),
       u: (h.get('u') || 'km'),
       f: h.get('f') || '1',
-      sb: h.get('sb') || '1' // sort panel open
+      sb: h.get('sb') || '1'
     };
   }
   function writeHash(obj){
     const h = new URLSearchParams(location.hash.slice(1));
     Object.entries(obj).forEach(([k,v]) => {
-      if (v === null || v === undefined || v === '') h.delete(k);
-      else h.set(k, v);
+      if (v === null || v === undefined || v === '') h.delete(k); else h.set(k, v);
     });
     location.hash = h.toString();
   }
 
-  // ---- map init (CARTO Voyager, retina) ----
+  // map
   function initMap(state){
     if (map) return;
-
     const container = document.getElementById('map');
     if (!container) return;
     if (container._leaflet_id) container._leaflet_id = null;
 
     map = L.map('map', {
       zoomControl: true,
-      closePopupOnClick: false // prevent popup close on the initial click propagation
+      closePopupOnClick: false // fixes first-click popup flicker
     });
 
     L.tileLayer(
@@ -136,15 +132,18 @@
       writeHash({ lat: c.lat.toFixed(5), lng: c.lng.toFixed(5), z: map.getZoom() });
       refreshNearbyCounts();
     });
-
-    // Allow clicking empty map to close any open popup
     map.on('click', () => map.closePopup());
   }
 
-  // ---- tray handle (header) ----
+  // tray handle (ensures whole header content is tucked)
   function ensureTrayHandle(){
     const header = document.querySelector('.topbar');
+    const inner  = document.querySelector('.topbar-inner');
     if (!header) return;
+
+    // ensure CSS var for peek height exists (fallback 36px)
+    header.style.setProperty('--tray-peek', getComputedStyle(header).getPropertyValue('--tray-peek') || '36px');
+
     let handle = document.getElementById('tray-handle');
     if (!handle) {
       handle = document.createElement('button');
@@ -153,12 +152,13 @@
       handle.type = 'button';
       handle.title = 'Show/Hide controls';
       handle.setAttribute('aria-expanded', 'true');
-      handle.innerHTML = '▾'; // flips when collapsed
+      handle.innerHTML = '▾';
       header.appendChild(handle);
     }
     const applyState = () => {
       const open = localStorage.getItem('tray_open') !== '0';
       header.classList.toggle('collapsed', !open);
+      if (inner) inner.classList.toggle('tray-hidden', !open); // <-- forces full tuck
       handle.setAttribute('aria-expanded', String(open));
       handle.innerHTML = open ? '▾' : '▴';
     };
@@ -170,7 +170,7 @@
     });
   }
 
-  // ---- boot ----
+  // boot
   async function boot(){
     const s = parseHash();
     currentSort = s.sort || 'closing';
@@ -183,7 +183,6 @@
     bindUI();
     ensureTrayHandle();
 
-    // set ring at hash coords, geolocation, or map center
     if(isFinite(s.lat) && isFinite(s.lng)){
       ensureRingAt(s.lat, s.lng, false);
     } else {
@@ -193,20 +192,17 @@
         map.setView([latitude, longitude], 14);
         writeHash({ lat: latitude.toFixed(5), lng: longitude.toFixed(5), z: map.getZoom() });
       }, () => {
-        const c = map.getCenter();
-        ensureRingAt(c.lat, c.lng, false);
+        const c = map.getCenter(); ensureRingAt(c.lat, c.lng, false);
       });
     }
 
-    // data
     manifest = await safeFetchJson(MANIFEST_URL);
     if(!manifest || !Array.isArray(manifest.categories) || !manifest.categories.length){
       showBanner('Missing or empty geojson/manifest.json. Run your builder to create it.');
       return;
     }
-    centroids = await safeFetchJson(CENTROIDS_URL) || {}; // optional
+    centroids = await safeFetchJson(CENTROIDS_URL) || {};
 
-    // categories: from hash or all
     if(s.cats.length){
       const valid = s.cats.filter(k => manifest.categories.some(c => c.key === k));
       selectedCats = new Set(valid);
@@ -221,7 +217,6 @@
     const ft = $('#filter-toggle'); if(ft) ft.checked = onlyWithinRing;
     setSortUI(currentSort, sortDir);
 
-    // sort-panel open/closed persistence
     const sortPanel = $('#sort-panel');
     if (sortPanel) {
       sortPanel.open = (s.sb !== '0');
@@ -230,7 +225,6 @@
       });
     }
 
-    // back-to-top behavior (list-aware) — show quickly (>= 60px)
     const backTop = document.getElementById('backTop');
     const listEl  = document.getElementById('list');
     if (backTop) {
@@ -253,23 +247,17 @@
   }
 
   function bindUI(){
-    // sort bar
     document.querySelectorAll('.sort-btn').forEach(btn => {
       btn.addEventListener('click', () => {
         const key = btn.dataset.sort;
-        if (currentSort === key) {
-          sortDir = (sortDir === 'asc') ? 'desc' : 'asc';
-        } else {
-          currentSort = key;
-          sortDir = defaultDirFor(key);
-        }
+        if (currentSort === key) sortDir = (sortDir === 'asc') ? 'desc' : 'asc';
+        else { currentSort = key; sortDir = defaultDirFor(key); }
         setSortUI(currentSort, sortDir);
         writeHash({ sort: currentSort, sd: sortDir });
         renderList();
       });
     });
 
-    // locate
     $('#locate')?.addEventListener('click', () => {
       navigator.geolocation?.getCurrentPosition(pos => {
         const { latitude, longitude } = pos.coords;
@@ -279,45 +267,33 @@
         refreshAll();
       }, () => {
         showBanner('Geolocation failed or was denied. Using map center.');
-        const c = map.getCenter();
-        ensureRingAt(c.lat, c.lng, false);
-        refreshAll();
+        const c = map.getCenter(); ensureRingAt(c.lat, c.lng, false); refreshAll();
       });
     });
 
-    // search radius
     $('#radius')?.addEventListener('input', e => {
-      const v = parseFloat(e.target.value);
-      if(!isFinite(v)) return;
+      const v = parseFloat(e.target.value); if(!isFinite(v)) return;
       radiusKm = (units === 'mi') ? miToKm(v) : v;
-      updateRadiusUI();
-      resizeRing();
+      updateRadiusUI(); resizeRing();
       writeHash({ r: (units === 'mi' ? kmToMi(radiusKm) : radiusKm).toFixed(2), u: units });
-      refreshAll();
-      refreshNearbyCounts(); // update category counts live
+      refreshAll(); refreshNearbyCounts();
     });
 
-    // units
     $('#units')?.addEventListener('change', e => {
       const newU = e.target.value === 'mi' ? 'mi' : 'km';
       if(newU !== units){
-        units = newU;
-        updateRadiusUI();
-        resizeRing();
+        units = newU; updateRadiusUI(); resizeRing();
         writeHash({ r: (units === 'mi' ? kmToMi(radiusKm) : radiusKm).toFixed(2), u: units });
-        refreshAll();
-        refreshNearbyCounts();
+        refreshAll(); refreshNearbyCounts();
       }
     });
 
-    // ring filter toggle
     $('#filter-toggle')?.addEventListener('change', (e) => {
       onlyWithinRing = e.target.checked;
       writeHash({ f: onlyWithinRing ? '1' : '0' });
       refreshAll();
     });
 
-    // hash changes
     window.addEventListener('hashchange', () => {
       const s = parseHash();
       if(s.sort && s.sort !== currentSort){ currentSort = s.sort; }
@@ -335,22 +311,18 @@
           selectedCats = next;
           buildCategoriesPanel();
           loadSelectedCategories().then(refreshAll);
-        } else {
-          refreshAll();
-        }
-      } else {
-        refreshAll();
-      }
+        } else { refreshAll(); }
+      } else { refreshAll(); }
     });
   }
 
   function defaultDirFor(key){
     switch(key){
-      case 'closing':  return 'asc';  // soonest first
-      case 'price':    return 'asc';  // cheapest first
-      case 'distance': return 'asc';  // nearest first
-      case 'rating_t': return 'desc'; // highest first
-      case 'rating_g': return 'desc'; // highest first
+      case 'closing':  return 'asc';
+      case 'price':    return 'asc';
+      case 'distance': return 'asc';
+      case 'rating_t': return 'desc';
+      case 'rating_g': return 'desc';
       default:         return 'asc';
     }
   }
@@ -368,7 +340,7 @@
     return false;
   }
 
-  // ---- my location + ring ----
+  // my location + ring
   function ensureRingAt(lat, lng, showMarker=true){
     if(showMarker){
       if(!myMarker) myMarker = L.marker([lat, lng], { title: 'You are here' }).addTo(map);
@@ -377,27 +349,20 @@
     if(!myRing){
       myRing = L.circle([lat, lng], {
         radius: kmToM(radiusKm),
-        color: '#7dd3fc',
-        weight: 1,
-        fillColor: '#7dd3fc',
-        fillOpacity: 0.08
+        color: '#7dd3fc', weight: 1, fillColor: '#7dd3fc', fillOpacity: 0.08
       }).addTo(map);
     } else {
-      myRing.setLatLng([lat,lng]);
-      myRing.setRadius(kmToM(radiusKm));
+      myRing.setLatLng([lat,lng]); myRing.setRadius(kmToM(radiusKm));
     }
   }
   function resizeRing(){ if(myRing) myRing.setRadius(kmToM(radiusKm)); }
   function ringCenter(){ return myRing ? myRing.getLatLng() : map.getCenter(); }
 
-  // ---- categories (multi) ----
+  // categories
   function buildCategoriesPanel(){
-    const wrap = $('#cats-list');
-    if(!wrap){ console.warn('No #cats-list element'); return; }
+    const wrap = $('#cats-list'); if(!wrap){ console.warn('No #cats-list element'); return; }
     wrap.innerHTML = '';
-
-    const center = ringCenter();
-    const radiusM = kmToM(radiusKm);
+    const center = ringCenter(); const radiusM = kmToM(radiusKm);
     const haveCentroids = centroids && typeof centroids === 'object';
 
     manifest.categories.forEach(c => {
@@ -410,52 +375,34 @@
       const right = document.createElement('small');
 
       const cb = document.createElement('input');
-      cb.type = 'checkbox';
-      cb.id = id;
-      cb.value = c.key;
-      cb.checked = selectedCats.has(c.key);
+      cb.type = 'checkbox'; cb.id = id; cb.value = c.key; cb.checked = selectedCats.has(c.key);
       cb.addEventListener('change', async () => {
         if(cb.checked) selectedCats.add(c.key); else selectedCats.delete(c.key);
-        writeHash({ cats: [...selectedCats].join(',') });
-        await loadSelectedCategories();
-        refreshAll();
-        updateCatsSummary();
+        writeHash({ cats: [...selectedCats].join(',') }); await loadSelectedCategories(); refreshAll(); updateCatsSummary();
       });
 
-      left.appendChild(cb);
-      left.appendChild(document.createTextNode(' ' + c.label));
-      right.textContent = `(${n})`;
-
-      label.appendChild(left);
-      label.appendChild(right);
-      wrap.appendChild(label);
+      left.appendChild(cb); left.appendChild(document.createTextNode(' ' + c.label)); right.textContent = `(${n})`;
+      label.appendChild(left); label.appendChild(right); wrap.appendChild(label);
     });
 
     $('#cats-all')?.addEventListener('click', async () => {
       manifest.categories.forEach(c => selectedCats.add(c.key));
-      writeHash({ cats: [...selectedCats].join(',') });
-      buildCategoriesPanel();
-      await loadSelectedCategories();
-      refreshAll();
-      updateCatsSummary();
+      writeHash({ cats: [...selectedCats].join(',') }); buildCategoriesPanel();
+      await loadSelectedCategories(); refreshAll(); updateCatsSummary();
     });
     $('#cats-none')?.addEventListener('click', async () => {
-      selectedCats.clear();
-      writeHash({ cats: '' });
-      buildCategoriesPanel();
-      featuresAll = []; filtered = [];
-      renderMap(); renderList(); updateCatsSummary();
+      selectedCats.clear(); writeHash({ cats: '' }); buildCategoriesPanel();
+      featuresAll = []; filtered = []; renderMap(); renderList(); updateCatsSummary();
     });
 
     updateCatsSummary();
   }
   function updateCatsSummary(){
-    const sum = $('#cats-summary');
-    if(sum) sum.textContent = selectedCats.size ? `Categories (${selectedCats.size} selected)` : 'Categories (none)';
+    const sum = $('#cats-summary'); if(sum) sum.textContent = selectedCats.size ? `Categories (${selectedCats.size} selected)` : 'Categories (none)';
   }
   function refreshNearbyCounts(){ if(manifest) buildCategoriesPanel(); }
 
-  // ---- data loading ----
+  // data
   async function loadSelectedCategories(){
     const keys = [...selectedCats];
     const toFetch = keys.filter(k => !catsCache.has(k));
@@ -470,42 +417,18 @@
     featuresAll = keys.flatMap(k => (catsCache.get(k)?.features || []));
   }
 
-  // ---- custom marker icon with ¥ badge ----
-  function yenBadge(bucket){
-    const n = Math.max(0, Math.min(5, bucket || 0));
-    return n > 0 ? '¥'.repeat(n) : '';
-  }
-  function iconClassByStatus(status){
-    if (status === 'open') return 'is-open';
-    if (status === 'closed') return 'is-closed';
-    return 'is-soon';
-  }
-  function makeIcon(status, bucket){
-    const badge = yenBadge(bucket);
-    const cls = iconClassByStatus(status);
-    return L.divIcon({
-      className: 'm-pin ' + cls,
-      html: `
-        <div class="m-dot"></div>
-        ${badge ? `<div class="m-price" aria-hidden="true">${badge}</div>` : ''}
-      `,
-      iconSize: [24, 24],
-      iconAnchor: [12, 12],
-      popupAnchor: [0, -10]
-    });
-  }
-
-  // ---- filter + render ----
+  // filter + render
   function filterByRing(){
     if(!onlyWithinRing || !myRing){ filtered = featuresAll; return; }
-    const c = myRing.getLatLng();
-    const radiusM = kmToM(radiusKm);
+    const c = myRing.getLatLng(); const radiusM = kmToM(radiusKm);
     filtered = featuresAll.filter(f => {
       const [lng,lat] = f.geometry.coordinates;
       return haversine(c.lat, c.lng, lat, lng) <= radiusM;
     });
   }
   function refreshAll(){ filterByRing(); renderMap(); renderList(); }
+
+  function yenBadge(bucket){ const n = Math.max(0, Math.min(5, bucket || 0)); return n > 0 ? '¥'.repeat(n) : ''; }
 
   function renderMap(){
     markersLayer.clearLayers();
@@ -514,28 +437,23 @@
       const [lng, lat] = f.geometry.coordinates;
       const p = f.properties;
       const status = p.hours?.open_now?.status;
-      const bucket = p.price?.bucket || 0;
+
+      // simple, non-badged circle markers (no ¥ on the map itself)
+      const color = status==='open' ? '#10b981' : (status==='closed' ? '#6b7280' : '#f59e0b');
+      const marker = L.circleMarker([lat, lng], { radius: 7, weight:1, color:'#000', fillColor: color, fillOpacity:0.9 });
 
       const fid = featureId(f);
       const name = p.name || p.name_local || '(no name)';
       const cuisines = (p.sub_categories || []).join(', ');
+      const price = yenBadge(p.price?.bucket);
 
-      const marker = L.marker([lat, lng], {
-        icon: makeIcon(status, bucket),
-        riseOnHover: true
-      });
-
-      // Popup (Name + cuisines). Clicking NAME scrolls to card.
+      // popup shows name + cuisines + (¥…)
       const html =
         `<a href="#" class="popup-name" data-fid="${fid}">${escapeHtml(name)}</a>` +
-        (cuisines ? `<br><small>${escapeHtml(cuisines)}</small>` : '');
+        (cuisines ? `<br><small>${escapeHtml(cuisines)}</small>` : '') +
+        (price ? `<br><small>${price}</small>` : '');
 
-      marker.bindPopup(html, {
-        autoPan: true,
-        closeButton: false,
-        autoClose: true
-      });
-
+      marker.bindPopup(html, { autoPan:true, closeButton:false, autoClose:true });
       marker.on('popupopen', (e) => {
         const el = e.popup.getElement() && e.popup.getElement().querySelector('a.popup-name');
         if(el){
@@ -550,39 +468,34 @@
       markersLayer.addLayer(marker);
     });
 
-    // No auto-fit (prevents snapping on zoom/pan)
+    // No auto-fit
   }
 
   function sortFeatures(arr, key, dir){
     const cmpClosing = (A,B) => {
-      const a = A.properties.sort_keys || {};
-      const b = B.properties.sort_keys || {};
+      const a = A.properties.sort_keys || {}, b = B.properties.sort_keys || {};
       const ao = a.open_rank || 0, bo = b.open_rank || 0;
-      if(bo !== ao) return bo - ao;  // open first
+      if(bo !== ao) return bo - ao;
       const ac = Number.isFinite(a.closes_in_min) ? a.closes_in_min : 1e9;
       const bc = Number.isFinite(b.closes_in_min) ? b.closes_in_min : 1e9;
-      return ac - bc; // soonest first
+      return ac - bc;
     };
     const cmpPrice = (A,B) => {
       const a = A.properties.sort_keys?.price_min ?? 1e9;
       const b = B.properties.sort_keys?.price_min ?? 1e9;
-      return a - b; // cheap first
+      return a - b;
     };
     const cmpRatingT = (A,B) => {
       const a = parseFloat(A.properties.ratings?.tabelog?.score ?? 0) || 0;
       const b = parseFloat(B.properties.ratings?.tabelog?.score ?? 0) || 0;
-      return b - a; // high first
+      return b - a;
     };
     const cmpRatingG = (A,B) => {
       const a = parseFloat(A.properties.ratings?.google?.score ?? 0) || 0;
       const b = parseFloat(B.properties.ratings?.google?.score ?? 0) || 0;
-      return b - a; // high first
+      return b - a;
     };
-    const cmpDistance = (A,B) => {
-      const a = distanceFromUserMeters(A);
-      const b = distanceFromUserMeters(B);
-      return a - b; // near first
-    };
+    const cmpDistance = (A,B) => distanceFromUserMeters(A) - distanceFromUserMeters(B);
 
     const copy = [...arr];
     let cmp;
@@ -599,18 +512,14 @@
   }
 
   function renderList(){
-    const list = $('#list');
-    if(!list) return;
-    list.innerHTML = '';
-    cardIndex.clear();
+    const list = $('#list'); if(!list) return;
+    list.innerHTML = ''; cardIndex.clear();
 
     const sorted = sortFeatures(filtered, currentSort, sortDir);
     if(!sorted.length){
-      const msg = document.createElement('div');
-      msg.style.cssText = 'padding:10px;color:#cbd5e1';
+      const msg = document.createElement('div'); msg.style.cssText = 'padding:10px;color:#cbd5e1';
       msg.textContent = 'No restaurants to show. Increase the radius, select more categories, or disable the radius filter.';
-      list.appendChild(msg);
-      return;
+      list.appendChild(msg); return;
     }
     sorted.forEach(f => {
       const node = renderCard(f);
@@ -636,7 +545,6 @@
     img.setAttribute('aria-label', p.name || p.name_local || '');
     nm.textContent = p.name || p.name_local || '(no name)';
 
-    // status pill
     const on = p.hours?.open_now || {};
     let label = 'Closed', cls='closed';
     if(on.status === 'open'){
@@ -646,12 +554,10 @@
       label = parts.join(' · ') || 'Open';
       cls = (Number.isFinite(on.closes_in_min) && on.closes_in_min <= CLOSING_SOON_M) || (Number.isFinite(on.lo_in_min) && on.lo_in_min <= LO_SOON_M) ? 'soon' : 'open';
     }
-    st.textContent = label;
-    st.classList.add('status', cls);
+    st.textContent = label; st.classList.add('status', cls);
 
     today.textContent = p.hours?.today_compact || '';
 
-    // chips: price / distance / subcats / policy
     const priceBucket = p.price?.bucket;
     if(priceBucket && priceBucket>0){
       const chip = document.createElement('span'); chip.className='chip'; chip.textContent = '¥'.repeat(Math.min(priceBucket,5));
@@ -664,21 +570,13 @@
       chip.textContent = (units === 'mi') ? `${val.toFixed(val<10?1:0)} mi` : `${val.toFixed(val<10?1:0)} km`;
       chips.appendChild(chip);
     }
-    (p.sub_categories||[]).slice(0,2).forEach(sc => {
-      const s = document.createElement('span'); s.className='chip'; s.textContent = sc; chips.appendChild(s);
-    });
-    (p.hours?.policy_chips||[]).forEach(pc => {
-      const s = document.createElement('span'); s.className='chip'; s.textContent = pc; chips.appendChild(s);
-    });
+    (p.sub_categories||[]).slice(0,2).forEach(sc => { const s = document.createElement('span'); s.className='chip'; s.textContent = sc; chips.appendChild(s); });
+    (p.hours?.policy_chips||[]).forEach(pc => { const s = document.createElement('span'); s.className='chip'; s.textContent = pc; chips.appendChild(s); });
 
-    // ratings
     const t = p.ratings?.tabelog, g = p.ratings?.google;
-    const r1 = document.createElement('div'); r1.textContent = `Tabelog ★ ${t?.score ?? '-' } (${t?.reviews ?? '-'})`;
-    ratings.appendChild(r1);
-    const r2 = document.createElement('div'); r2.textContent = `Google ★ ${g?.score ?? '-' } (${g?.reviews ?? '-'})`;
-    ratings.appendChild(r2);
+    const r1 = document.createElement('div'); r1.textContent = `Tabelog ★ ${t?.score ?? '-' } (${t?.reviews ?? '-'})`; ratings.appendChild(r1);
+    const r2 = document.createElement('div'); r2.textContent = `Google ★ ${g?.score ?? '-' } (${g?.reviews ?? '-'})`; ratings.appendChild(r2);
 
-    // directions: English name ONLY
     const qName = encodeURIComponent(p.name || p.name_local || '');
     const gSearch = `https://www.google.com/maps/search/?api=1&query=${qName}`;
     if(p.urls?.tabelog){
@@ -688,28 +586,21 @@
     const b = document.createElement('a'); b.href=gSearch; b.target='_blank'; b.rel='noopener'; b.textContent='Directions';
     links.appendChild(b);
 
-    // click card -> fly to
     const [lng, lat] = f.geometry.coordinates;
-    c.addEventListener('click', () => {
-      map.flyTo([lat, lng], Math.max(MAX_ZOOM_ON_FLY, map.getZoom()));
-    });
+    c.addEventListener('click', () => { map.flyTo([lat, lng], Math.max(MAX_ZOOM_ON_FLY, map.getZoom())); });
 
     return c;
   }
 
-  // map → list jump
   function scrollToCard(fid){
-    const el = cardIndex.get(fid);
-    if(!el) return;
-    el.classList.remove('flash');     // retrigger animation
-    /* reflow */ void el.offsetWidth; // safe in all browsers
+    const el = cardIndex.get(fid); if(!el) return;
+    el.classList.remove('flash'); void el.offsetWidth;
     el.classList.add('flash');
     el.scrollIntoView({ behavior: 'smooth', block: 'start' });
   }
 
   function updateRadiusUI(){
-    const u = $('#units'), r = $('#radius'), rv = $('#radius-val');
-    if(!u || !r || !rv) return;
+    const u = $('#units'), r = $('#radius'), rv = $('#radius-val'); if(!u || !r || !rv) return;
     u.value = units;
     const disp = (units === 'mi') ? kmToMi(radiusKm) : radiusKm;
     rv.textContent = disp.toFixed(disp < 5 ? 1 : 0);
@@ -719,7 +610,6 @@
     r.value = parseFloat(disp.toFixed(2));
   }
 
-  // ---- start (single-boot guard) ----
   document.addEventListener('DOMContentLoaded', () => {
     if (window.__TBLG_APP_STARTED) return;
     window.__TBLG_APP_STARTED = true;
