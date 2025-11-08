@@ -174,6 +174,50 @@
       localStorage.setItem('tray_open', open ? '0' : '1');
       applyState();
     });
+
+  function enableCategoriesOverlay(){
+    const cats = document.getElementById('cats-panel');
+    if(!cats) return;
+    const header = document.querySelector('.topbar');
+    const menu = cats.querySelector('.cats-menu');
+    if(!menu) return;
+  
+    let isOverlay = false;
+  
+    function placeMenu(){
+      // Compute header bottom in viewport coords
+      const rect = header.getBoundingClientRect();
+      const topPx = Math.max(0, Math.round(rect.bottom));
+      // When overlaying, position the menu as a fixed panel under header
+      menu.classList.add('cats-overlay');
+      menu.style.setProperty('--cats-top', `${topPx}px`);
+      if (menu.parentElement !== document.body){
+        document.body.appendChild(menu);
+      }
+      isOverlay = true;
+    }
+    function restoreMenu(){
+      menu.classList.remove('cats-overlay');
+      menu.style.removeProperty('--cats-top');
+      if (menu.parentElement !== cats){
+        cats.appendChild(menu);
+      }
+      isOverlay = false;
+    }
+  
+    // Toggle overlay when details opens/closes
+    cats.addEventListener('toggle', () => {
+      if (cats.open) { placeMenu(); }
+      else { restoreMenu(); }
+    });
+  
+    // Keep overlay aligned if header height changes or viewport resizes
+    ['resize', 'orientationchange'].forEach(ev =>
+      window.addEventListener(ev, () => { if (isOverlay) placeMenu(); })
+    );
+    header.addEventListener('transitionend', () => { if (isOverlay) placeMenu(); });
+  }
+
   }
 
 
@@ -189,6 +233,7 @@
     initMap(s);
     bindUI();
     ensureTrayHandle();
+    enableCategoriesOverlay(); 
 
     if(isFinite(s.lat) && isFinite(s.lng)){
       ensureRingAt(s.lat, s.lng, false);
