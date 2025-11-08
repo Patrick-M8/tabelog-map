@@ -67,7 +67,14 @@
     const base = p.uid || p.id || p.urls?.tabelog || p.name || `${lat},${lng}`;
     return String(base).toLowerCase().replace(/[^a-z0-9]+/g,'_').slice(0,80);
   }
-
+  // Format minutes as "1h 15m" / "2h" / "45m"
+  function fmtHM(min){
+    if (!Number.isFinite(min)) return '';
+    const mm = Math.max(0, Math.round(min));
+    const h = Math.floor(mm / 60);
+    const m = mm % 60;
+    return h ? (m ? `${h}h ${m}m` : `${h}h`) : `${m}m`;
+  }
   function showBanner(msg){
     let el = document.getElementById('banner');
     if(!el){
@@ -720,8 +727,8 @@
     let label = 'Closed', cls='closed';
     if(on.status === 'open'){
       const parts=[];
-      if(Number.isFinite(on.lo_in_min) && on.lo_in_min>0) parts.push(`LO in ${on.lo_in_min}m`);
-      if(Number.isFinite(on.closes_in_min)) parts.push(`Closes in ${on.closes_in_min}m`);
+      if (Number.isFinite(on.lo_in_min) && on.lo_in_min > 0) parts.push(`LO in ${fmtHM(on.lo_in_min)}`);
+      if (Number.isFinite(on.closes_in_min)) parts.push(`Closes in ${fmtHM(on.closes_in_min)}`);
       label = parts.join(' · ') || 'Open';
       cls = (Number.isFinite(on.closes_in_min) && on.closes_in_min <= CLOSING_SOON_M) || (Number.isFinite(on.lo_in_min) && on.lo_in_min <= LO_SOON_M) ? 'soon' : 'open';
     }
