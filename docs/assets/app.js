@@ -238,5 +238,5 @@ function updateRadiusUI(){
   r.value = parseFloat(disp.toFixed(2));
 }
 document.addEventListener('DOMContentLoaded', boot);
-""")
+  """)
 
