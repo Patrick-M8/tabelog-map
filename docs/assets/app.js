@@ -27,6 +27,8 @@
   let radiusKm = DEFAULT_RADIUS_KM;
   let onlyWithinRing = true;
   const cardIndex = new Map();
+  const MAP_DRIFT_M = 60;
+  let anchorCenter = null;
 
   // utils
   const $ = sel => document.querySelector(sel);
@@ -230,22 +232,27 @@
       });
     }
 
+// Back-to-top: show if list scrolled OR map drifted from anchor
     const backTop = document.getElementById('backTop');
     const listEl  = document.getElementById('list');
     if (backTop) {
-      const threshold = 60;
-      const showHide = () => {
-        const scrolled = listEl ? listEl.scrollTop : window.scrollY;
-        backTop.classList.toggle('show', scrolled > threshold);
-      };
       backTop.addEventListener('click', () => {
         if (listEl) listEl.scrollTo({ top: 0, behavior: 'smooth' });
         else window.scrollTo({ top: 0, behavior: 'smooth' });
       });
-      if (listEl) listEl.addEventListener('scroll', showHide);
-      else window.addEventListener('scroll', showHide);
-      showHide();
+    
+      const onListScroll = () => updateBackTopVisibility();
+      if (listEl) listEl.addEventListener('scroll', onListScroll);
+      else window.addEventListener('scroll', onListScroll);
+    
+      // Also react to map moves (fast feedback)
+      map.on('move', updateBackTopVisibility);
+      map.on('moveend', updateBackTopVisibility);
+    
+      // initial state
+      updateBackTopVisibility();
     }
+
 
     await loadSelectedCategories();
     refreshAll();
@@ -357,8 +364,11 @@
         color: '#7dd3fc', weight: 1, fillColor: '#7dd3fc', fillOpacity: 0.08
       }).addTo(map);
     } else {
-      myRing.setLatLng([lat,lng]); myRing.setRadius(kmToM(radiusKm));
+      myRing.setLatLng([lat,lng]);
+      myRing.setRadius(kmToM(radiusKm));
     }
+
+    anchorCenter = myRing.getLatLng();
   }
   function resizeRing(){ if(myRing) myRing.setRadius(kmToM(radiusKm)); }
   function ringCenter(){ return myRing ? myRing.getLatLng() : map.getCenter(); }
@@ -534,7 +544,25 @@
       list.appendChild(node);
     });
   }
-
+  function updateBackTopVisibility(){
+    const btn   = document.getElementById('backTop');
+    if (!btn) return;
+  
+    // list scroll signal
+    const list  = document.getElementById('list');
+    const listScrolled = list ? (list.scrollTop > 60) : (window.scrollY > 60);
+  
+    // map drift signal
+    let mapDrifted = false;
+    if (map && anchorCenter) {
+      const c = map.getCenter();
+      const d = haversine(c.lat, c.lng, anchorCenter.lat, anchorCenter.lng);
+      mapDrifted = d >= MAP_DRIFT_M;
+    }
+  
+    // show if either condition is true
+    btn.classList.toggle('show', listScrolled || mapDrifted);
+  }
   function renderCard(f){
     const p = f.properties;
     const c = tpl('card-tpl');
