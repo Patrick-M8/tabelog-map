@@ -1,3 +1,5 @@
+'use strict';
+
 // Static, GitHub Pages–friendly client
 const MANIFEST_URL = 'geojson/manifest.json';
 const CENTROIDS_URL = 'geojson/category_centroids.min.json';
@@ -8,7 +10,7 @@ const MAX_ZOOM_ON_FLY = 16;
 
 let manifest = null;
 let centroids = {};
-let map, markersLayer, myMarker = null, myRing = null;
+let map = null, markersLayer = null, myMarker = null, myRing = null;
 let currentSort = 'closing';
 let sortDir = 'asc';               // asc | desc
 let selectedCats = new Set();
@@ -99,6 +101,13 @@ function writeHash(obj){
 
 // ---- map init (CARTO Voyager, retina) ----
 function initMap(state){
+  // Prevent "Map container is already initialized."
+  if (map) return;
+
+  // If Leaflet left an id on the container (rare), clear it
+  const container = document.getElementById('map');
+  if (container && container._leaflet_id) container._leaflet_id = null;
+
   map = L.map('map', { zoomControl: true });
   L.tileLayer(
     'https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png',
@@ -307,11 +316,7 @@ function setSortUI(key, dir){
     const active = (b.dataset.sort === key);
     b.setAttribute('aria-pressed', String(active));
     const base = b.textContent.replace(/ ▲| ▼/g,'').trim();
-    if(active){
-      b.textContent = `${base} ${dir === 'asc' ? '▲' : '▼'}`;
-    } else {
-      b.textContent = base;
-    }
+    b.textContent = active ? `${base} ${dir === 'asc' ? '▲' : '▼'}` : base;
   });
 }
 function diffSets(a,b){
@@ -659,10 +664,11 @@ function updateCatsSummary(){
   if(sum) sum.textContent = selectedCats.size ? `Categories (${selectedCats.size} selected)` : 'Categories (none)';
 }
 
-// ---- start ----
+// ---- start (single-boot guard) ----
 document.addEventListener('DOMContentLoaded', () => {
-  initMap(parseHash());
-  // Re-run boot after init to avoid any race on map
+  if (window.__TBLG_APP_STARTED) return;
+  window.__TBLG_APP_STARTED = true;
   boot().catch(e => { console.error(e); showBanner('A runtime error occurred. Open DevTools console for details.'); });
 });
+
 
