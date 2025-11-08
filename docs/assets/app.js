@@ -11,7 +11,8 @@
   const CLOSING_SOON_M = 45;
   const LO_SOON_M = 30;
   const MAX_ZOOM_ON_FLY = 16;
-  const MAP_DRIFT_M = 60; // show back-to-top if map moved >=60m from anchor
+  const MAP_DRIFT_M = 60; // back-to-top shows if map moved >=60m from anchor
+  const MAP_PAST_THRESHOLD_PX = 80; // map considered scrolled past if its bottom < 80px from viewport top
 
   // ---- State ----
   let manifest = null;
@@ -29,6 +30,8 @@
   const cardIndex = new Map();       // fid -> DOM element
   let anchorCenter = null;           // ring center ("home" for back-to-top)
   let backTopManualHide = false;     // hides back-to-top until user scrolls/moves again
+  let catsOverlayOpen = false;
+  let catsOverlayEl = null;
 
   // ---- Utils ----
   const $ = sel => document.querySelector(sel);
@@ -110,14 +113,13 @@
   // ---- Map init (CARTO Voyager, retina) ----
   function initMap(state){
     if (map) return;
-
     const container = document.getElementById('map');
     if (!container) return;
     if (container._leaflet_id) container._leaflet_id = null;
 
     map = L.map('map', {
       zoomControl: true,
-      closePopupOnClick: false // prevents first-click popup flicker
+      closePopupOnClick: false
     });
 
     L.tileLayer(
@@ -136,8 +138,11 @@
       const c = map.getCenter();
       writeHash({ lat: c.lat.toFixed(5), lng: c.lng.toFixed(5), z: map.getZoom() });
       refreshNearbyCounts();
+      updateBackTopVisibility();
     });
     map.on('click', () => map.closePopup());
+    map.on('move', updateBackTopVisibility);
+    map.on('movestart', () => { backTopManualHide = false; updateBackTopVisibility(); });
   }
 
   // ---- Tray handle (height-based; handle at bottom) ----
@@ -178,88 +183,120 @@
     });
   }
 
-  // ---- Categories overlay (robust, no flash; inline styles so no clipping) ----
-  function enableCategoriesOverlay(){
+  // ---- Ensure Categories control sits at very top of header ----
+  function placeCatsFirstInHeader(){
+    const controls = document.querySelector('.topbar .controls');
+    const catsPanel = document.getElementById('cats-panel');
+    if (controls && catsPanel && controls.firstElementChild !== catsPanel) {
+      controls.insertBefore(catsPanel, controls.firstChild);
+    }
+  }
+
+  // ---- Full-screen Categories Overlay (no <details> auto-toggle) ----
+  function initCategoriesOverlay(){
     const cats = document.getElementById('cats-panel');
-    if(!cats) return;
-    const header = document.querySelector('.topbar');
-    const menu = cats.querySelector('.cats-menu');
+    if (!cats) return;
     const summary = cats.querySelector('summary');
-    if(!menu || !summary) return;
+    const legacyMenu = cats.querySelector('.cats-menu');
+    if (legacyMenu) legacyMenu.style.display = 'none';       // hide old clipped menu
+    if (cats.hasAttribute('open')) cats.removeAttribute('open');
 
-    let overlayOpen = false;
+    // build overlay once
+    if (!catsOverlayEl){
+      catsOverlayEl = document.createElement('div');
+      catsOverlayEl.id = 'catsOverlay';
+      catsOverlayEl.style.cssText =
+        'position:fixed;inset:0;z-index:6000;display:none;background:rgba(8,12,20,.96);color:#e5e7eb;';
+      catsOverlayEl.innerHTML = `
+        <div id="catsOvPanel" style="position:absolute;inset:0;display:flex;flex-direction:column;">
+          <div style="display:flex;align-items:center;gap:8px;padding:12px;border-bottom:1px solid rgba(255,255,255,.12)">
+            <button id="catsOvClose" style="font-size:20px;line-height:1;border:none;background:transparent;color:#e5e7eb;cursor:pointer">✕</button>
+            <div style="flex:1;text-align:center;font-weight:700">Categories</div>
+            <div style="display:flex;gap:8px">
+              <button id="catsOvAll"   style="padding:6px 10px;border-radius:8px;border:1px solid #334155;background:#0b1324;color:#e5e7eb;cursor:pointer">Select all</button>
+              <button id="catsOvNone"  style="padding:6px 10px;border-radius:8px;border:1px solid #334155;background:#0b1324;color:#e5e7eb;cursor:pointer">Clear</button>
+            </div>
+          </div>
+          <div id="catsOvList" style="flex:1;overflow:auto;padding:12px;display:grid;grid-template-columns:1fr;gap:8px"></div>
+        </div>
+      `;
+      document.body.appendChild(catsOverlayEl);
 
-    function placeMenu(){
-      // Compute header bottom safely after styles; use rAF to avoid layout thrash
-      const rect = header.getBoundingClientRect();
-      const topPx = Math.max(0, Math.round(rect.bottom));
-      // Inline styles ensure correct overlay even if CSS isn’t loaded yet
-      Object.assign(menu.style, {
-        position: 'fixed',
-        left: '0px',
-        right: '0px',
-        top: `${topPx}px`,
-        maxHeight: `calc(100vh - ${topPx}px)`,
-        overflow: 'auto',
-        background: '#0b1324',
-        color: '#e5e7eb',
-        zIndex: '6000',
-        padding: '10px 12px',
-        borderBottom: '1px solid rgba(255,255,255,.12)',
-        boxShadow: '0 8px 24px rgba(0,0,0,.35)',
-        display: 'block',
+      // actions
+      catsOverlayEl.querySelector('#catsOvClose').addEventListener('click', closeCatsOverlay);
+      catsOverlayEl.addEventListener('click', (e) => {
+        if (e.target === catsOverlayEl) closeCatsOverlay(); // click backdrop
       });
-      if (menu.parentElement !== document.body){
-        document.body.appendChild(menu);
-      }
-    }
-    function restoreMenu(){
-      // Remove inline overlay styling
-      menu.removeAttribute('style');
-      if (menu.parentElement !== cats){
-        cats.appendChild(menu);
-      }
-    }
-    function openCats(){
-      if (overlayOpen) return;
-      cats.setAttribute('open','');
-      placeMenu();
-      overlayOpen = true;
-      summary.setAttribute('aria-expanded','true');
-    }
-    function closeCats(){
-      if (!overlayOpen) return;
-      restoreMenu();
-      cats.removeAttribute('open');
-      overlayOpen = false;
-      summary.setAttribute('aria-expanded','false');
+      catsOverlayEl.querySelector('#catsOvAll').addEventListener('click', async () => {
+        manifest.categories.forEach(c => selectedCats.add(c.key));
+        writeHash({ cats: [...selectedCats].join(',') });
+        buildCatsOverlayList(); // refresh checks
+        await loadSelectedCategories(); refreshAll(); updateCatsSummary();
+      });
+      catsOverlayEl.querySelector('#catsOvNone').addEventListener('click', async () => {
+        selectedCats.clear();
+        writeHash({ cats: '' });
+        buildCatsOverlayList();
+        featuresAll = []; filtered = []; renderMap(); renderList(); updateCatsSummary();
+      });
     }
 
-    // Prevent native <details> toggle; control it ourselves
-    summary.addEventListener('pointerdown', (e) => {
-      e.preventDefault(); e.stopPropagation();
-      overlayOpen ? closeCats() : openCats();
+    // Intercept summary to toggle overlay
+    if (summary && !summary.__boundCats){
+      summary.__boundCats = true;
+      summary.addEventListener('click', (e) => {
+        e.preventDefault(); e.stopPropagation();
+        catsOverlayOpen ? closeCatsOverlay() : openCatsOverlay();
+      });
+    }
+  }
+
+  function openCatsOverlay(){
+    catsOverlayOpen = true;
+    buildCatsOverlayList();
+    catsOverlayEl.style.display = 'block';
+  }
+  function closeCatsOverlay(){
+    catsOverlayOpen = false;
+    catsOverlayEl.style.display = 'none';
+  }
+
+  function buildCatsOverlayList(){
+    const list = document.getElementById('catsOvList');
+    if (!list || !manifest) return;
+    list.innerHTML = '';
+
+    const center = ringCenter();
+    const radiusM = kmToM(radiusKm);
+    const haveCentroids = centroids && typeof centroids === 'object';
+
+    manifest.categories.forEach(c => {
+      const pts = haveCentroids ? (centroids[c.key] || []) : null;
+      const n = pts ? pts.reduce((acc, [lng,lat]) => acc + (haversine(center.lat, center.lng, lat, lng) <= radiusM ? 1 : 0), 0) : '–';
+
+      const row = document.createElement('label');
+      row.style.cssText = 'display:flex;justify-content:space-between;align-items:center;padding:10px;border:1px solid #334155;border-radius:10px;background:#0b1324';
+      const left = document.createElement('span');
+      const right = document.createElement('small'); right.textContent = `(${n})`;
+      right.style.opacity = '0.8';
+
+      const cb = document.createElement('input');
+      cb.type = 'checkbox';
+      cb.checked = selectedCats.has(c.key);
+      cb.style.marginRight = '8px';
+      cb.addEventListener('change', async () => {
+        if (cb.checked) selectedCats.add(c.key); else selectedCats.delete(c.key);
+        writeHash({ cats: [...selectedCats].join(',') });
+        await loadSelectedCategories(); refreshAll(); updateCatsSummary();
+        // Keep counts live as radius changes:
+        buildCatsOverlayList();
+      });
+
+      left.appendChild(cb);
+      left.appendChild(document.createTextNode(' ' + c.label));
+      row.appendChild(left); row.appendChild(right);
+      list.appendChild(row);
     });
-
-    // Click outside to close
-    document.addEventListener('pointerdown', (e) => {
-      if (!overlayOpen) return;
-      if (summary.contains(e.target)) return;
-      if (menu.contains(e.target)) return;
-      closeCats();
-    });
-
-    // ESC to close
-    document.addEventListener('keydown', (e) => {
-      if (!overlayOpen) return;
-      if (e.key === 'Escape') closeCats();
-    });
-
-    // Keep aligned to header on resize/orientation/tray animation
-    ['resize', 'orientationchange'].forEach(ev =>
-      window.addEventListener(ev, () => { if (overlayOpen) placeMenu(); })
-    );
-    header.addEventListener('transitionend', () => { if (overlayOpen) placeMenu(); });
   }
 
   // ---- Boot ----
@@ -274,7 +311,8 @@
     initMap(s);
     bindUI();
     ensureTrayHandle();
-    enableCategoriesOverlay();
+    placeCatsFirstInHeader();
+    initCategoriesOverlay();
 
     // set ring at hash coords, geolocation, or map center
     if(isFinite(s.lat) && isFinite(s.lng)){
@@ -309,30 +347,19 @@
       writeHash({ cats: [...selectedCats].join(',') });
     }
 
-    buildCategoriesPanel();
+    // first build
     updateRadiusUI();
     const ft = $('#filter-toggle'); if(ft) ft.checked = onlyWithinRing;
     setSortUI(currentSort, sortDir);
+    updateCatsSummary();
 
-    // sort-panel open/closed persistence
-    const sortPanel = $('#sort-panel');
-    if (sortPanel) {
-      sortPanel.open = (s.sb !== '0');
-      sortPanel.addEventListener('toggle', () => {
-        writeHash({ sb: sortPanel.open ? '1' : '0' });
-      });
-    }
-
-    // Back-to-top: shows if list scrolled OR map drifted from anchor
+    // back-to-top wiring (list and window scroll)
     const backTop = document.getElementById('backTop');
     const listEl  = document.getElementById('list');
-
     if (backTop){
       backTop.addEventListener('click', () => {
-        // Scroll BOTH so it works regardless of which scroll container is active
         if (listEl) listEl.scrollTo({ top: 0, behavior: 'smooth' });
         window.scrollTo({ top: 0, behavior: 'smooth' });
-        // Hide immediately after click until user scrolls/moves again
         backTopManualHide = true;
         updateBackTopVisibility();
       });
@@ -344,11 +371,7 @@
         updateBackTopVisibility();
       };
       if (listEl) listEl.addEventListener('scroll', onListScroll);
-      else window.addEventListener('scroll', onListScroll);
-
-      map.on('movestart', () => { backTopManualHide = false; updateBackTopVisibility(); });
-      map.on('move', updateBackTopVisibility);
-      map.on('moveend', updateBackTopVisibility);
+      window.addEventListener('scroll', onListScroll);
 
       updateBackTopVisibility();
     }
@@ -400,7 +423,7 @@
       resizeRing();
       writeHash({ r: (units === 'mi' ? kmToMi(radiusKm) : radiusKm).toFixed(2), u: units });
       refreshAll();
-      refreshNearbyCounts(); // update category counts live
+      refreshNearbyCounts(); // update counts in overlay
       updateBackTopVisibility();
     });
 
@@ -442,7 +465,7 @@
         const next = new Set(s.cats);
         if(diffSets(selectedCats, next)){
           selectedCats = next;
-          buildCategoriesPanel();
+          buildCatsOverlayList();
           loadSelectedCategories().then(() => { refreshAll(); updateBackTopVisibility(); });
         } else {
           refreshAll(); updateBackTopVisibility();
@@ -453,7 +476,16 @@
     });
   }
 
-  // ---- Back-to-top visibility (list scroll OR map drift), with manual hide ----
+  // ---- Back-to-top visibility (list scroll OR map drift OR map scrolled past), with manual hide ----
+  function isScrolledPastMap(){
+    const m = document.getElementById('map');
+    if (!m) return false;
+    const rect = m.getBoundingClientRect();
+    // If bottom of map is above top threshold -> past
+    return rect.bottom < MAP_PAST_THRESHOLD_PX;
+    // Works for stacked mobile layout; harmless on split layouts.
+  }
+
   function updateBackTopVisibility(){
     const backTop = document.getElementById('backTop');
     if(!backTop) return;
@@ -469,7 +501,10 @@
       const d = haversine(c.lat, c.lng, anchorCenter.lat, anchorCenter.lng);
       mapDrifted = d >= MAP_DRIFT_M;
     }
-    backTop.classList.toggle('show', listScrolled || mapDrifted);
+
+    const pastMap = isScrolledPastMap();
+
+    backTop.classList.toggle('show', listScrolled || mapDrifted || pastMap);
   }
 
   // ---- Sorting helpers ----
@@ -515,82 +550,21 @@
       myRing.setLatLng([lat,lng]);
       myRing.setRadius(kmToM(radiusKm));
     }
-    // Set "home" anchor to ring center for back-to-top logic
+    // anchor for back-to-top logic
     anchorCenter = myRing.getLatLng();
     updateBackTopVisibility();
   }
   function resizeRing(){ if(myRing) myRing.setRadius(kmToM(radiusKm)); }
   function ringCenter(){ return myRing ? myRing.getLatLng() : map.getCenter(); }
 
-  // ---- Categories (multi) ----
-  function buildCategoriesPanel(){
-    const wrap = $('#cats-list');
-    if(!wrap){ console.warn('No #cats-list element'); return; }
-    wrap.innerHTML = '';
-
-    const center = ringCenter();
-    the_radius: {
-      const radiusM = kmToM(radiusKm);
-      const haveCentroids = centroids && typeof centroids === 'object';
-
-      manifest.categories.forEach(c => {
-        const pts = haveCentroids ? (centroids[c.key] || []) : null;
-        const n = pts ? pts.reduce((acc, [lng,lat]) => acc + (haversine(center.lat, center.lng, lat, lng) <= radiusM ? 1 : 0), 0) : '–';
-
-        const id = `cat_${c.key}`;
-        const label = document.createElement('label');
-        const left = document.createElement('span');
-        const right = document.createElement('small');
-
-        const cb = document.createElement('input');
-        cb.type = 'checkbox';
-        cb.id = id;
-        cb.value = c.key;
-        cb.checked = selectedCats.has(c.key);
-        cb.addEventListener('change', async () => {
-          if(cb.checked) selectedCats.add(c.key); else selectedCats.delete(c.key);
-          writeHash({ cats: [...selectedCats].join(',') });
-          await loadSelectedCategories();
-          refreshAll();
-          updateCatsSummary();
-          updateBackTopVisibility();
-        });
-
-        left.appendChild(cb);
-        left.appendChild(document.createTextNode(' ' + c.label));
-        right.textContent = `(${n})`;
-
-        label.appendChild(left);
-        label.appendChild(right);
-        wrap.appendChild(label);
-      });
-    }
-
-    $('#cats-all')?.addEventListener('click', async () => {
-      manifest.categories.forEach(c => selectedCats.add(c.key));
-      writeHash({ cats: [...selectedCats].join(',') });
-      buildCategoriesPanel();
-      await loadSelectedCategories();
-      refreshAll();
-      updateCatsSummary();
-      updateBackTopVisibility();
-    });
-    $('#cats-none')?.addEventListener('click', async () => {
-      selectedCats.clear();
-      writeHash({ cats: '' });
-      buildCategoriesPanel();
-      featuresAll = []; filtered = [];
-      renderMap(); renderList(); updateCatsSummary();
-      updateBackTopVisibility();
-    });
-
-    updateCatsSummary();
-  }
+  // ---- Categories summary text in header ----
   function updateCatsSummary(){
     const sum = $('#cats-summary');
     if(sum) sum.textContent = selectedCats.size ? `Categories (${selectedCats.size} selected)` : 'Categories (none)';
   }
-  function refreshNearbyCounts(){ if(manifest) buildCategoriesPanel(); }
+  function refreshNearbyCounts(){
+    if (catsOverlayOpen) buildCatsOverlayList();
+  }
 
   // ---- Data loading ----
   async function loadSelectedCategories(){
@@ -635,7 +609,6 @@
       const cuisines = (p.sub_categories || []).join(', ');
       const price = yenBadge(p.price?.bucket);
 
-      // simple circle pins; price only in popup
       const marker = L.circleMarker([lat, lng], { radius: 7, weight:1, color:'#000', fillColor: color, fillOpacity:0.9 });
 
       const html =
