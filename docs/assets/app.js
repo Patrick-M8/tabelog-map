@@ -13,9 +13,11 @@ let currentSort = 'closing';
 let selectedCats = new Set();
 let catsCache = new Map();          // key -> FeatureCollection
 let featuresAll = [];               // union of selected categories
-let filtered = [];                  // inside ring
+let filtered = [];                  // after ring filter (optional)
 let units = 'km';
 let radiusKm = DEFAULT_RADIUS_KM;
+let onlyWithinRing = true;          // <-- new: planning mode toggle
+let hasFitOnce = false;             // <-- new: no repeated snap
 
 // ---- utils ----
 const $ = sel => document.querySelector(sel);
@@ -36,7 +38,18 @@ function escapeHtml(s) {
   const map = { '&':'&amp;', '<':'&lt;', '>':'&gt;', '"':'&quot;', "'":'&#39;' };
   return String(s ?? '').replace(/[&<>"']/g, ch => map[ch]);
 }
+function userPoint(){
+  if (myMarker) return myMarker.getLatLng();
+  if (myRing)   return myRing.getLatLng();
+  return map.getCenter();
+}
+function distanceFromUserMeters(f){
+  const u = userPoint();
+  const [lng, lat] = f.geometry.coordinates;
+  return haversine(u.lat, u.lng, lat, lng);
+}
 
+// URL state
 function parseHash() {
   const h = new URLSearchParams(location.hash.slice(1));
   return {
@@ -46,7 +59,8 @@ function parseHash() {
     lng: parseFloat(h.get('lng')),
     z: parseInt(h.get('z') || '13', 10),
     r: parseFloat(h.get('r') || String(DEFAULT_RADIUS_KM)),
-    u: (h.get('u') || 'km')
+    u: (h.get('u') || 'km'),
+    f: h.get('f') || '1'  // 1 = limit to radius, 0 = show all
   };
 }
 function writeHash(obj){
@@ -57,7 +71,6 @@ function writeHash(obj){
   });
   location.hash = h.toString();
 }
-
 function showBanner(msg){
   let el = document.getElementById('banner');
   if(!el){
@@ -84,15 +97,15 @@ function initMap(state){
 
   markersLayer = L.layerGroup().addTo(map);
 
+  // Do NOT auto-fit on every move; we only write hash and update counts.
   map.on('moveend', () => {
     const c = map.getCenter();
     writeHash({ lat: c.lat.toFixed(5), lng: c.lng.toFixed(5), z: map.getZoom() });
     if(!myMarker){
-      ensureRingAt(c.lat, c.lng);
-      refreshAll();
-    } else {
-      refreshNearbyCounts();
+      // If user hasn't located, ring follows the map center (planning baseline)
+      ensureRingAt(c.lat, c.lng, false);
     }
+    refreshNearbyCounts();
   });
 }
 
@@ -103,13 +116,14 @@ async function boot(){
     currentSort = s.sort || 'closing';
     units = (s.u === 'mi') ? 'mi' : 'km';
     radiusKm = isFinite(s.r) ? (s.u === 'mi' ? miToKm(s.r) : s.r) : DEFAULT_RADIUS_KM;
+    onlyWithinRing = (s.f !== '0');
 
     initMap(s);
     bindUI();
 
     // set ring at hash coords, geolocation, or map center
     if(isFinite(s.lat) && isFinite(s.lng)){
-      ensureRingAt(s.lat, s.lng);
+      ensureRingAt(s.lat, s.lng, false);
     } else {
       navigator.geolocation?.getCurrentPosition(pos => {
         const { latitude, longitude } = pos.coords;
@@ -118,7 +132,7 @@ async function boot(){
         writeHash({ lat: latitude.toFixed(5), lng: longitude.toFixed(5), z: map.getZoom() });
       }, () => {
         const c = map.getCenter();
-        ensureRingAt(c.lat, c.lng);
+        ensureRingAt(c.lat, c.lng, false);
       });
     }
 
@@ -144,6 +158,7 @@ async function boot(){
     buildCategoriesPanel();
     selectSortButton(currentSort);
     updateRadiusUI();
+    $('#filter-toggle').checked = onlyWithinRing;
 
     await loadSelectedCategories();
     refreshAll();
@@ -166,6 +181,7 @@ async function safeFetchJson(url){
 
 // ---- UI ----
 function bindUI(){
+  // sort bar
   document.querySelectorAll('.sort-btn').forEach(btn => {
     btn.addEventListener('click', () => {
       currentSort = btn.dataset.sort;
@@ -175,6 +191,7 @@ function bindUI(){
     });
   });
 
+  // locate
   $('#locate')?.addEventListener('click', () => {
     navigator.geolocation?.getCurrentPosition(pos => {
       const { latitude, longitude } = pos.coords;
@@ -186,12 +203,12 @@ function bindUI(){
       showBanner('Geolocation failed or was denied. Using map center.');
       console.warn(err);
       const c = map.getCenter();
-      ensureRingAt(c.lat, c.lng);
+      ensureRingAt(c.lat, c.lng, false);
       refreshAll();
     });
   });
 
-  // radius slider
+  // search radius
   $('#radius')?.addEventListener('input', e => {
     const v = parseFloat(e.target.value);
     if(!isFinite(v)) return;
@@ -202,7 +219,7 @@ function bindUI(){
     refreshAll();
   });
 
-  // unit toggle
+  // units
   $('#units')?.addEventListener('change', e => {
     const newU = e.target.value === 'mi' ? 'mi' : 'km';
     if(newU !== units){
@@ -214,12 +231,20 @@ function bindUI(){
     }
   });
 
+  // ring filter toggle
+  $('#filter-toggle')?.addEventListener('change', (e) => {
+    onlyWithinRing = e.target.checked;
+    writeHash({ f: onlyWithinRing ? '1' : '0' });
+    refreshAll();
+  });
+
   // hash changes
   window.addEventListener('hashchange', () => {
     const s = parseHash();
     if(s.sort && s.sort !== currentSort){ currentSort = s.sort; selectSortButton(currentSort); renderList(); }
     if(s.u && s.u !== units){ units = s.u; updateRadiusUI(); resizeRing(); refreshAll(); }
     if(isFinite(s.r)){ radiusKm = (units === 'mi') ? miToKm(s.r) : s.r; updateRadiusUI(); resizeRing(); refreshAll(); }
+    if(s.f){ onlyWithinRing = (s.f !== '0'); const t = $('#filter-toggle'); if(t) t.checked = onlyWithinRing; refreshAll(); }
     if(s.cats && s.cats.length){
       const next = new Set(s.cats);
       if(diffSets(selectedCats, next)){
@@ -344,7 +369,7 @@ async function loadSelectedCategories(){
 
 // ---- filter + render ----
 function filterByRing(){
-  if(!myRing){ filtered = featuresAll; return; }
+  if(!onlyWithinRing || !myRing){ filtered = featuresAll; return; }
   const c = myRing.getLatLng();
   const radiusM = kmToM(radiusKm);
   filtered = featuresAll.filter(f => {
@@ -371,11 +396,11 @@ function renderMap(){
     bounds.push([lat, lng]);
   });
 
-  if(bounds.length){
+  // Only auto-fit once (prevents snapping when zooming around)
+  if(!hasFitOnce && bounds.length){
     const b = L.latLngBounds(bounds);
-    if(!map.getBounds().contains(b)){
-      map.fitBounds(b.pad(0.1), { maxZoom: 15 });
-    }
+    map.fitBounds(b.pad(0.1), { maxZoom: 15 });
+    hasFitOnce = true;
   }
 }
 
@@ -394,8 +419,28 @@ function sortFeatures(arr, key){
     const at=(a.properties.ratings.tabelog.score||0), bt=(b.properties.ratings.tabelog.score||0);
     return bt-at;
   };
+  const byRatingT = (a,b) => {
+    const at=(a.properties.ratings.tabelog.score||0), bt=(b.properties.ratings.tabelog.score||0);
+    return bt-at;
+  };
+  const byRatingG = (a,b) => {
+    const ag=(a.properties.ratings.google.score||0), bg=(b.properties.ratings.google.score||0);
+    return bg-ag;
+  };
+  const byDistance = (a,b) => {
+    const da = distanceFromUserMeters(a);
+    const db = distanceFromUserMeters(b);
+    return da - db;
+  };
+
   const copy = [...arr];
-  copy.sort(key==='price' ? byPrice : byClosing);
+  switch(key){
+    case 'price': copy.sort(byPrice); break;
+    case 'rating_t': copy.sort(byRatingT); break;
+    case 'rating_g': copy.sort(byRatingG); break;
+    case 'distance': copy.sort(byDistance); break;
+    default: copy.sort(byClosing);
+  }
   return copy;
 }
 
@@ -408,7 +453,7 @@ function renderList(){
   if(!sorted.length){
     const msg = document.createElement('div');
     msg.style.cssText = 'padding:10px;color:#cbd5e1';
-    msg.textContent = 'No restaurants in range. Try increasing the radius or selecting more categories.';
+    msg.textContent = 'No restaurants to show. Increase the radius, select more categories, or disable the radius filter.';
     list.appendChild(msg);
     return;
   }
@@ -465,11 +510,20 @@ function renderCard(f){
   const r2 = document.createElement('div'); r2.textContent = `Google ★ ${g?.score ?? '-' } (${g?.reviews ?? '-'})`;
   ratings.appendChild(r2);
 
-  // directions: name + coords (no place code)
-  const [lng, lat] = f.geometry.coordinates;
+  // distance chip (if we have a user/ring)
+  const d = distanceFromUserMeters(f);
+  if (isFinite(d)) {
+    const chip = document.createElement('span');
+    chip.className = 'chip';
+    // show in km/mi matching units
+    const val = (units === 'mi') ? (d/1609.344) : (d/1000);
+    chip.textContent = (units === 'mi') ? `${val.toFixed(val<10?1:0)} mi` : `${val.toFixed(val<10?1:0)} km`;
+    chips.appendChild(chip);
+  }
+
+  // directions: English name only (no coordinates)
   const qName = encodeURIComponent(p.name || p.name_local || '');
-  const q = `${qName}%20${lat.toFixed(6)},${lng.toFixed(6)}`;
-  const gSearch = `https://www.google.com/maps/search/?api=1&query=${q}`;
+  const gSearch = `https://www.google.com/maps/search/?api=1&query=${qName}`;
 
   if(p.urls?.tabelog){
     const a = document.createElement('a'); a.href=p.urls.tabelog; a.target='_blank'; a.rel='noopener'; a.textContent='Tabelog';
@@ -479,6 +533,7 @@ function renderCard(f){
   links.appendChild(b);
 
   // click to fly
+  const [lng, lat] = f.geometry.coordinates;
   c.addEventListener('click', () => {
     map.flyTo([lat, lng], Math.max(MAX_ZOOM_ON_FLY, map.getZoom()));
   });
