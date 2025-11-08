@@ -45,3 +45,31 @@ body{margin:0;background:var(--bg);color:var(--txt);font:14px/1.5 system-ui, -ap
   .card{grid-template-columns:100px 1fr}
   .card .img{width:100px;height:80px}
 }
+/* Categories details + menu */
+.cats { position: relative; }
+.cats summary {
+  list-style: none; cursor: pointer; background: var(--panel);
+  border:1px solid #20232b; color:var(--txt); padding:6px 10px; border-radius:8px;
+}
+.cats[open] summary { outline:2px solid var(--accent); }
+.cats-menu {
+  position: absolute; top: calc(100% + 6px); left: 0; z-index: 2000;
+  background: var(--panel); border:1px solid #20232b; border-radius:10px; padding:8px;
+  width: 280px; max-height: 320px; overflow:auto; box-shadow: 0 8px 24px rgba(0,0,0,.35);
+}
+.cats-actions { display:flex; gap:6px; margin-bottom:8px; }
+.cats-actions button {
+  background: var(--card); border:1px solid #20232b; color: var(--txt);
+  padding:4px 8px; border-radius:8px; cursor:pointer;
+}
+.cats-list label { display:flex; justify-content:space-between; gap:8px; padding:4px 2px; }
+.cats-list small { color: var(--muted); }
+
+/* Radius control tweaks */
+.radius { display:flex; align-items:center; gap:6px; background: var(--panel);
+  border:1px solid #20232b; border-radius:8px; padding:4px 8px; }
+.radius input[type=range] { vertical-align: middle; }
+.radius #radius-val { display:inline-block; min-width: 28px; text-align: right; }
+.radius select { background: var(--card); border:1px solid #20232b; color:var(--txt); padding:2px 6px; border-radius:6px; }
+
+
