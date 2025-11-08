@@ -95,3 +95,92 @@ body{margin:0;background:var(--bg);color:var(--txt);font:14px/1.5 system-ui, -ap
   100% { box-shadow: 0 0 0 rgba(255,255,255,0); }
 }
 
+/* Back-to-top: bigger, not flush with corner, opaque + hover */
+.back-to-top {
+  position: fixed;
+  right: 20px;         /* not in the hard corner */
+  bottom: 28px;
+  width: 56px;
+  height: 56px;
+  border-radius: 14px;
+  border: none;
+  background: rgba(30, 41, 59, 0.95); /* slate-800-ish, opaque */
+  color: #fff;
+  font-size: 28px;
+  line-height: 56px;
+  text-align: center;
+  box-shadow: 0 8px 20px rgba(0,0,0,.25);
+  cursor: pointer;
+  opacity: 0;
+  transform: translateY(12px);
+  transition: opacity .18s ease, transform .18s ease, box-shadow .18s ease;
+  z-index: 9999;
+}
+.back-to-top.show {
+  opacity: 1;
+  transform: translateY(0);
+}
+.back-to-top:hover {
+  box-shadow: 0 10px 26px rgba(0,0,0,.35);
+}
+
+/* Header tray: collapsible with centered handle */
+.topbar {
+  position: sticky;
+  top: 0;
+  z-index: 5000;
+  background: #0b1324;
+  color: #e5e7eb;
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+  transform: translateY(0);
+  transition: transform .22s ease;
+}
+.topbar.collapsed {
+  transform: translateY(calc(-100% + 28px)); /* keep just the handle visible */
+}
+.tray-handle {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: -20px;
+  width: 44px;
+  height: 28px;
+  border: none;
+  border-radius: 14px 14px 6px 6px;
+  background: #0b1324;
+  color: #e5e7eb;
+  box-shadow: 0 6px 16px rgba(0,0,0,.25);
+  cursor: pointer;
+  z-index: 5100;
+}
+
+/* Marker pin with ¥ badge */
+.m-pin {
+  position: relative;
+}
+.m-pin .m-dot {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  border: 1px solid #000;
+  background: #6b7280; /* default grey */
+  box-shadow: 0 0 0 2px rgba(0,0,0,.15);
+}
+.m-pin.is-open .m-dot   { background: #10b981; } /* green */
+.m-pin.is-soon .m-dot   { background: #f59e0b; } /* amber */
+.m-pin.is-closed .m-dot { background: #6b7280; } /* grey */
+
+.m-pin .m-price {
+  position: absolute;
+  top: -8px;
+  left: 8px;
+  padding: 2px 4px;
+  border-radius: 6px;
+  background: rgba(11, 19, 36, 0.85);
+  color: #f1f5f9;
+  font: 700 10px/1 system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,'Helvetica Neue','Noto Sans','Apple Color Emoji','Segoe UI Emoji',sans-serif;
+  pointer-events: none;
+  transform: translate(-50%, -50%);
+  white-space: nowrap;
+}
+
