@@ -72,4 +72,19 @@ body{margin:0;background:var(--bg);color:var(--txt);font:14px/1.5 system-ui, -ap
 .radius #radius-val { display:inline-block; min-width: 28px; text-align: right; }
 .radius select { background: var(--card); border:1px solid #20232b; color:var(--txt); padding:2px 6px; border-radius:6px; }
 
+/* Sort bar */
+.sortbar { display:flex; align-items:center; gap:8px; flex-wrap:wrap }
+.sortby { color:#cbd5e1; opacity:.9 }
+
+.toggle { display:flex; align-items:center; gap:6px; margin-left:8px; color:#cbd5e1 }
+
+/* Tighten controls wrapping on small screens */
+@media (max-width: 920px){
+  .controls { gap: 8px }
+  .sortbar { order: 1 }
+  .cats { order: 2 }
+  .radius { order: 3 }
+  #locate { order: 4 }
+}
+
 
