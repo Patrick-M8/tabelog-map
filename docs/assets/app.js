@@ -55,6 +55,23 @@ function featureId(f){
   return String(base).toLowerCase().replace(/[^a-z0-9]+/g,'_').slice(0,80);
 }
 
+function showBanner(msg){
+  let el = document.getElementById('banner');
+  if(!el){
+    el = document.createElement('div');
+    el.id = 'banner';
+    el.style.cssText = 'position:fixed;left:0;right:0;top:0;z-index:20000;background:#7f1d1d;color:#fff;padding:8px 12px;font:14px/1.4 system-ui';
+    document.body.appendChild(el);
+  }
+  el.textContent = msg;
+}
+
+function safeFetchJson(url){
+  return fetch(url, { cache: 'no-cache' })
+    .then(res => { if(!res.ok) throw new Error(`HTTP ${res.status} for ${url}`); return res.json(); })
+    .catch(e => { console.warn('Fetch failed:', url, e); return null; });
+}
+
 // URL state
 function parseHash() {
   const h = new URLSearchParams(location.hash.slice(1));
@@ -78,16 +95,6 @@ function writeHash(obj){
     else h.set(k, v);
   });
   location.hash = h.toString();
-}
-function showBanner(msg){
-  let el = document.getElementById('banner');
-  if(!el){
-    el = document.createElement('div');
-    el.id = 'banner';
-    el.style.cssText = 'position:fixed;left:0;right:0;top:0;z-index:20000;background:#7f1d1d;color:#fff;padding:8px 12px;font:14px/1.4 system-ui';
-    document.body.appendChild(el);
-  }
-  el.textContent = msg;
 }
 
 // ---- map init (CARTO Voyager, retina) ----
@@ -115,101 +122,84 @@ function initMap(state){
 
 // ---- boot ----
 async function boot(){
-  try {
-    const s = parseHash();
-    currentSort = s.sort || 'closing';
-    sortDir = (s.sd === 'asc' || s.sd === 'desc') ? s.sd : defaultDirFor(currentSort);
-    units = (s.u === 'mi') ? 'mi' : 'km';
-    radiusKm = isFinite(s.r) ? (s.u === 'mi' ? miToKm(s.r) : s.r) : DEFAULT_RADIUS_KM;
-    onlyWithinRing = (s.f !== '0');
+  const s = parseHash();
+  currentSort = s.sort || 'closing';
+  sortDir = (s.sd === 'asc' || s.sd === 'desc') ? s.sd : defaultDirFor(currentSort);
+  units = (s.u === 'mi') ? 'mi' : 'km';
+  radiusKm = isFinite(s.r) ? (s.u === 'mi' ? miToKm(s.r) : s.r) : DEFAULT_RADIUS_KM;
+  onlyWithinRing = (s.f !== '0');
 
-    initMap(s);
-    bindUI();
+  initMap(s);
+  bindUI();
 
-    // set ring at hash coords, geolocation, or map center
-    if(isFinite(s.lat) && isFinite(s.lng)){
-      ensureRingAt(s.lat, s.lng, false);
-    } else {
-      navigator.geolocation?.getCurrentPosition(pos => {
-        const { latitude, longitude } = pos.coords;
-        ensureRingAt(latitude, longitude, true);
-        map.setView([latitude, longitude], 14);
-        writeHash({ lat: latitude.toFixed(5), lng: longitude.toFixed(5), z: map.getZoom() });
-      }, () => {
-        const c = map.getCenter();
-        ensureRingAt(c.lat, c.lng, false);
-      });
-    }
-
-    // data
-    manifest = await safeFetchJson(MANIFEST_URL);
-    if(!manifest || !Array.isArray(manifest.categories) || !manifest.categories.length){
-      showBanner('Missing or empty geojson/manifest.json. Run your builder to create it.');
-      return;
-    }
-    centroids = await safeFetchJson(CENTROIDS_URL) || {}; // optional
-
-    // categories: from hash or all
-    if(s.cats.length){
-      const valid = s.cats.filter(k => manifest.categories.some(c => c.key === k));
-      selectedCats = new Set(valid);
-    }
-    if(!selectedCats.size){
-      selectedCats = new Set(manifest.categories.map(c => c.key));
-      writeHash({ cats: [...selectedCats].join(',') });
-    }
-
-    buildCategoriesPanel();
-    updateRadiusUI();
-    $('#filter-toggle').checked = onlyWithinRing;
-    setSortUI(currentSort, sortDir);
-
-    // sort-panel open/closed persistence
-    const sortPanel = $('#sort-panel');
-    if (sortPanel) {
-      sortPanel.open = (s.sb !== '0');
-      sortPanel.addEventListener('toggle', () => {
-        writeHash({ sb: sortPanel.open ? '1' : '0' });
-      });
-    }
-
-    // back-to-top behavior (list-aware)
-    const backTop = document.getElementById('backTop');
-    const listEl  = document.getElementById('list');
-    if (backTop) {
-      const showHide = () => {
-        const scrolled = listEl ? listEl.scrollTop : window.scrollY;
-        backTop.classList.toggle('show', scrolled > 400);
-      };
-      backTop.addEventListener('click', () => {
-        if (listEl) listEl.scrollTo({ top: 0, behavior: 'smooth' });
-        else window.scrollTo({ top: 0, behavior: 'smooth' });
-      });
-      if (listEl) listEl.addEventListener('scroll', showHide);
-      else window.addEventListener('scroll', showHide);
-      showHide();
-    }
-
-    await loadSelectedCategories();
-    refreshAll();
-  } catch (err){
-    showBanner('A runtime error occurred. Open DevTools console for details.');
-    console.error(err);
+  // set ring at hash coords, geolocation, or map center
+  if(isFinite(s.lat) && isFinite(s.lng)){
+    ensureRingAt(s.lat, s.lng, false);
+  } else {
+    navigator.geolocation?.getCurrentPosition(pos => {
+      const { latitude, longitude } = pos.coords;
+      ensureRingAt(latitude, longitude, true);
+      map.setView([latitude, longitude], 14);
+      writeHash({ lat: latitude.toFixed(5), lng: longitude.toFixed(5), z: map.getZoom() });
+    }, () => {
+      const c = map.getCenter();
+      ensureRingAt(c.lat, c.lng, false);
+    });
   }
+
+  // data
+  manifest = await safeFetchJson(MANIFEST_URL);
+  if(!manifest || !Array.isArray(manifest.categories) || !manifest.categories.length){
+    showBanner('Missing or empty geojson/manifest.json. Run your builder to create it.');
+    return;
+  }
+  centroids = await safeFetchJson(CENTROIDS_URL) || {}; // optional
+
+  // categories: from hash or all
+  if(s.cats.length){
+    const valid = s.cats.filter(k => manifest.categories.some(c => c.key === k));
+    selectedCats = new Set(valid);
+  }
+  if(!selectedCats.size){
+    selectedCats = new Set(manifest.categories.map(c => c.key));
+    writeHash({ cats: [...selectedCats].join(',') });
+  }
+
+  buildCategoriesPanel();
+  updateRadiusUI();
+  const ft = $('#filter-toggle'); if(ft) ft.checked = onlyWithinRing;
+  setSortUI(currentSort, sortDir);
+
+  // sort-panel open/closed persistence
+  const sortPanel = $('#sort-panel');
+  if (sortPanel) {
+    sortPanel.open = (s.sb !== '0');
+    sortPanel.addEventListener('toggle', () => {
+      writeHash({ sb: sortPanel.open ? '1' : '0' });
+    });
+  }
+
+  // back-to-top behavior (list-aware)
+  const backTop = document.getElementById('backTop');
+  const listEl  = document.getElementById('list');
+  if (backTop) {
+    const showHide = () => {
+      const scrolled = listEl ? listEl.scrollTop : window.scrollY;
+      backTop.classList.toggle('show', scrolled > 400);
+    };
+    backTop.addEventListener('click', () => {
+      if (listEl) listEl.scrollTo({ top: 0, behavior: 'smooth' });
+      else window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+    if (listEl) listEl.addEventListener('scroll', showHide);
+    else window.addEventListener('scroll', showHide);
+    showHide();
+  }
+
+  await loadSelectedCategories();
+  refreshAll();
 }
 
-async function safeFetchJson(url){
-  try {
-    const res = await fetch(url, { cache: 'no-cache' });
-    if(!res.ok) throw new Error(`HTTP ${res.status} for ${url}`);
-    return await res.json();
-  } catch (e){
-    console.warn('Fetch failed:', url, e);
-    return null;
-  }
-}
-
-// ---- UI ----
 function bindUI(){
   // sort bar
   document.querySelectorAll('.sort-btn').forEach(btn => {
@@ -235,7 +225,7 @@ function bindUI(){
       map.setView([latitude, longitude], 14);
       writeHash({ lat: latitude.toFixed(5), lng: longitude.toFixed(5), z: map.getZoom() });
       refreshAll();
-    }, err => {
+    }, () => {
       showBanner('Geolocation failed or was denied. Using map center.');
       const c = map.getCenter();
       ensureRingAt(c.lat, c.lng, false);
@@ -468,7 +458,7 @@ function renderMap(){
 
     circle.bindPopup(html);
     circle.on('popupopen', (e) => {
-      const el = e.popup.getElement()?.querySelector('a.popup-name');
+      const el = e.popup.getElement() && e.popup.getElement().querySelector('a.popup-name');
       if(el){
         el.addEventListener('click', (ev) => {
           ev.preventDefault();
@@ -632,10 +622,8 @@ function renderCard(f){
 function scrollToCard(fid){
   const el = cardIndex.get(fid);
   if(!el) return;
-  el.classList.remove('flash'); // retrigger animation
-  // force reflow
-  // eslint-disable-next-line no-unused-expressions
-  el.offsetWidth;
+  el.classList.remove('flash');     // retrigger animation
+  /* reflow */ void el.offsetWidth; // safe in all browsers
   el.classList.add('flash');
   el.scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
@@ -652,5 +640,29 @@ function updateRadiusUI(){
   r.value = parseFloat(disp.toFixed(2));
 }
 
+// ---- helpers ----
+function setSortUI(key, dir){
+  document.querySelectorAll('.sort-btn').forEach(b => {
+    const active = (b.dataset.sort === key);
+    b.setAttribute('aria-pressed', String(active));
+    const base = b.textContent.replace(/ ▲| ▼/g,'').trim();
+    b.textContent = active ? `${base} ${dir === 'asc' ? '▲' : '▼'}` : base;
+  });
+}
+function diffSets(a,b){
+  if(a.size !== b.size) return true;
+  for(const v of a) if(!b.has(v)) return true;
+  return false;
+}
+function updateCatsSummary(){
+  const sum = $('#cats-summary');
+  if(sum) sum.textContent = selectedCats.size ? `Categories (${selectedCats.size} selected)` : 'Categories (none)';
+}
+
 // ---- start ----
-document.addEventListener('DOMContentLoaded', boot);
+document.addEventListener('DOMContentLoaded', () => {
+  initMap(parseHash());
+  // Re-run boot after init to avoid any race on map
+  boot().catch(e => { console.error(e); showBanner('A runtime error occurred. Open DevTools console for details.'); });
+});
+
