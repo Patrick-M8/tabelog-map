@@ -4,68 +4,71 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>TabeMap</title>
-  
-  <link rel="icon" href="data:,">
-  
-  <link rel="stylesheet" href="assets/styles.css" />
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 
-  <!-- Leaflet (pinned) -->
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
-        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
-  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
-          integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <!-- Silence favicon 404 -->
+  <link rel="icon" href="data:," />
+
+  <!-- Your styles -->
+  <link rel="stylesheet" href="assets/styles.css" />
+
+  <!-- Leaflet CSS (SRI-pinned, only once) -->
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+    crossorigin
+  />
 </head>
 <body>
   <header class="topbar">
-  <div class="topbar-inner">
-    <div class="controls">
-      <!-- Sort dropdown -->
-      <details class="sort-panel" id="sort-panel" open>
-        <summary>Sort by</summary>
-        <div class="sortbar">
-          <button class="sort-btn" data-sort="closing" aria-pressed="true">Closing time</button>
-          <button class="sort-btn" data-sort="rating_t">Rating (Tabelog)</button>
-          <button class="sort-btn" data-sort="rating_g">Rating (Google)</button>
-          <button class="sort-btn" data-sort="price">Price</button>
-          <button class="sort-btn" data-sort="distance">Distance</button>
-        </div>
-      </details>
-
-      <!-- Categories (multi) -->
-      <details class="cats" id="cats-panel">
-        <summary id="cats-summary">Categories</summary>
-        <div class="cats-menu">
-          <div class="cats-actions">
-            <button type="button" id="cats-all">Select all</button>
-            <button type="button" id="cats-none">Clear</button>
+    <div class="topbar-inner">
+      <div class="controls">
+        <!-- Sort dropdown -->
+        <details class="sort-panel" id="sort-panel" open>
+          <summary>Sort by</summary>
+          <div class="sortbar">
+            <button class="sort-btn" data-sort="closing" aria-pressed="true">Closing time</button>
+            <button class="sort-btn" data-sort="rating_t">Rating (Tabelog)</button>
+            <button class="sort-btn" data-sort="rating_g">Rating (Google)</button>
+            <button class="sort-btn" data-sort="price">Price</button>
+            <button class="sort-btn" data-sort="distance">Distance</button>
           </div>
-          <div id="cats-list" class="cats-list"></div>
+        </details>
+
+        <!-- Categories (multi) -->
+        <details class="cats" id="cats-panel">
+          <summary id="cats-summary">Categories</summary>
+          <div class="cats-menu">
+            <div class="cats-actions">
+              <button type="button" id="cats-all">Select all</button>
+              <button type="button" id="cats-none">Clear</button>
+            </div>
+            <div id="cats-list" class="cats-list"></div>
+          </div>
+        </details>
+
+        <!-- Search radius + units + filter toggle -->
+        <div class="radius">
+          <label>Search Radius
+            <input type="range" id="radius" min="0.5" max="10" step="0.5" value="3">
+            <span id="radius-val">3</span>
+            <select id="units">
+              <option value="km" selected>km</option>
+              <option value="mi">mi</option>
+            </select>
+          </label>
+          <label class="toggle">
+            <input type="checkbox" id="filter-toggle" checked>
+            Limit to radius
+          </label>
         </div>
-      </details>
 
-      <!-- Search radius + units + filter toggle -->
-      <div class="radius">
-        <label>Search Radius
-          <input type="range" id="radius" min="0.5" max="10" step="0.5" value="3">
-          <span id="radius-val">3</span>
-          <select id="units">
-            <option value="km" selected>km</option>
-            <option value="mi">mi</option>
-          </select>
-        </label>
-        <label class="toggle">
-          <input type="checkbox" id="filter-toggle" checked>
-          Limit to radius
-        </label>
+        <!-- Locate -->
+        <button id="locate" title="Use my location">📍</button>
       </div>
-
-      <!-- Locate -->
-      <button id="locate" title="Use my location">📍</button>
     </div>
-  </div>
-</header>
-  
+  </header>
+
   <main id="layout">
     <div id="map"></div>
     <section id="list" aria-live="polite"></section>
@@ -87,10 +90,17 @@
     </article>
   </template>
 
-  <script src="assets/app.js"></script>
-<button id="backTop" class="back-to-top" title="Back to top" aria-label="Back to top">↑</button>
+  <!-- Back-to-top button (thumb-friendly) -->
+  <button id="backTop" class="back-to-top" title="Back to top" aria-label="Back to top">↑</button>
+
+  <!-- Scripts: Leaflet first, then your app (both deferred) -->
+  <script
+    defer
+    src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+    crossorigin
+  ></script>
+  <script defer src="assets/app.js"></script>
 </body>
 </html>
 
-</body>
-</html>
