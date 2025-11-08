@@ -14,43 +14,53 @@
 </head>
 <body>
   <header class="topbar">
-    <div class="topbar-inner">
-      <div class="brand">🍜 where to eat</div>
+  <div class="topbar-inner">
+    <div class="brand">🍜 where to eat</div>
 
-      <div class="controls">
-        <!-- Categories (multi) -->
-        <details class="cats" id="cats-panel">
-          <summary id="cats-summary">Categories</summary>
-          <div class="cats-menu">
-            <div class="cats-actions">
-              <button type="button" id="cats-all">Select all</button>
-              <button type="button" id="cats-none">Clear</button>
-            </div>
-            <div id="cats-list" class="cats-list"><!-- checkboxes injected --></div>
-          </div>
-        </details>
-
-        <!-- Radius + units -->
-        <div class="radius">
-          <label>Radius
-            <input type="range" id="radius" min="0.5" max="10" step="0.5" value="3">
-            <span id="radius-val">3</span>
-            <select id="units">
-              <option value="km" selected>km</option>
-              <option value="mi">mi</option>
-            </select>
-          </label>
-        </div>
-
-        <!-- Sort & locate -->
-        <div class="sorts">
-          <button class="sort-btn" data-sort="closing" aria-pressed="true">Closing soon</button>
-          <button class="sort-btn" data-sort="price">Price</button>
-          <button id="locate" title="Use my location">📍</button>
-        </div>
+    <div class="controls">
+      <!-- Sort bar (left) -->
+      <div class="sortbar">
+        <span class="sortby">Sort by:</span>
+        <button class="sort-btn" data-sort="closing" aria-pressed="true">Closing time</button>
+        <button class="sort-btn" data-sort="rating_t">Rating (Tabelog)</button>
+        <button class="sort-btn" data-sort="rating_g">Rating (Google)</button>
+        <button class="sort-btn" data-sort="price">Price</button>
+        <button class="sort-btn" data-sort="distance">Distance</button>
       </div>
+
+      <!-- Categories (multi) -->
+      <details class="cats" id="cats-panel">
+        <summary id="cats-summary">Categories</summary>
+        <div class="cats-menu">
+          <div class="cats-actions">
+            <button type="button" id="cats-all">Select all</button>
+            <button type="button" id="cats-none">Clear</button>
+          </div>
+          <div id="cats-list" class="cats-list"><!-- checkboxes injected --></div>
+        </div>
+      </details>
+
+      <!-- Search radius + unit + filter toggle -->
+      <div class="radius">
+        <label>Search Radius
+          <input type="range" id="radius" min="0.5" max="10" step="0.5" value="3">
+          <span id="radius-val">3</span>
+          <select id="units">
+            <option value="km" selected>km</option>
+            <option value="mi">mi</option>
+          </select>
+        </label>
+        <label class="toggle">
+          <input type="checkbox" id="filter-toggle" checked>
+          Limit to radius
+        </label>
+      </div>
+
+      <!-- Locate -->
+      <button id="locate" title="Use my location">📍</button>
     </div>
-  </header>
+  </div>
+</header>
 
   <main id="layout">
     <div id="map"></div>
