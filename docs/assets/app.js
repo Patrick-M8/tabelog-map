@@ -108,15 +108,17 @@
 
   // ---- map init (CARTO Voyager, retina) ----
   function initMap(state){
-    // Prevent "Map container is already initialized."
     if (map) return;
 
-    // If Leaflet left an id on the container (rare), clear it
     const container = document.getElementById('map');
     if (!container) return;
     if (container._leaflet_id) container._leaflet_id = null;
 
-    map = L.map('map', { zoomControl: true });
+    map = L.map('map', {
+      zoomControl: true,
+      closePopupOnClick: false // prevent popup close on the initial click propagation
+    });
+
     L.tileLayer(
       'https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png',
       { subdomains: 'abcd', maxZoom: 20, detectRetina: true, attribution: '&copy; OpenStreetMap contributors, © CARTO' }
@@ -129,11 +131,42 @@
 
     markersLayer = L.layerGroup().addTo(map);
 
-    // Persist position/zoom only; NO auto-fit or ring snap.
     map.on('moveend', () => {
       const c = map.getCenter();
       writeHash({ lat: c.lat.toFixed(5), lng: c.lng.toFixed(5), z: map.getZoom() });
       refreshNearbyCounts();
+    });
+
+    // Allow clicking empty map to close any open popup
+    map.on('click', () => map.closePopup());
+  }
+
+  // ---- tray handle (header) ----
+  function ensureTrayHandle(){
+    const header = document.querySelector('.topbar');
+    if (!header) return;
+    let handle = document.getElementById('tray-handle');
+    if (!handle) {
+      handle = document.createElement('button');
+      handle.id = 'tray-handle';
+      handle.className = 'tray-handle';
+      handle.type = 'button';
+      handle.title = 'Show/Hide controls';
+      handle.setAttribute('aria-expanded', 'true');
+      handle.innerHTML = '▾'; // flips when collapsed
+      header.appendChild(handle);
+    }
+    const applyState = () => {
+      const open = localStorage.getItem('tray_open') !== '0';
+      header.classList.toggle('collapsed', !open);
+      handle.setAttribute('aria-expanded', String(open));
+      handle.innerHTML = open ? '▾' : '▴';
+    };
+    applyState();
+    handle.addEventListener('click', () => {
+      const open = localStorage.getItem('tray_open') !== '0';
+      localStorage.setItem('tray_open', open ? '0' : '1');
+      applyState();
     });
   }
 
@@ -148,6 +181,7 @@
 
     initMap(s);
     bindUI();
+    ensureTrayHandle();
 
     // set ring at hash coords, geolocation, or map center
     if(isFinite(s.lat) && isFinite(s.lng)){
@@ -196,13 +230,14 @@
       });
     }
 
-    // back-to-top behavior (list-aware)
+    // back-to-top behavior (list-aware) — show quickly (>= 60px)
     const backTop = document.getElementById('backTop');
     const listEl  = document.getElementById('list');
     if (backTop) {
+      const threshold = 60;
       const showHide = () => {
         const scrolled = listEl ? listEl.scrollTop : window.scrollY;
-        backTop.classList.toggle('show', scrolled > 400);
+        backTop.classList.toggle('show', scrolled > threshold);
       };
       backTop.addEventListener('click', () => {
         if (listEl) listEl.scrollTo({ top: 0, behavior: 'smooth' });
@@ -435,6 +470,31 @@
     featuresAll = keys.flatMap(k => (catsCache.get(k)?.features || []));
   }
 
+  // ---- custom marker icon with ¥ badge ----
+  function yenBadge(bucket){
+    const n = Math.max(0, Math.min(5, bucket || 0));
+    return n > 0 ? '¥'.repeat(n) : '';
+  }
+  function iconClassByStatus(status){
+    if (status === 'open') return 'is-open';
+    if (status === 'closed') return 'is-closed';
+    return 'is-soon';
+  }
+  function makeIcon(status, bucket){
+    const badge = yenBadge(bucket);
+    const cls = iconClassByStatus(status);
+    return L.divIcon({
+      className: 'm-pin ' + cls,
+      html: `
+        <div class="m-dot"></div>
+        ${badge ? `<div class="m-price" aria-hidden="true">${badge}</div>` : ''}
+      `,
+      iconSize: [24, 24],
+      iconAnchor: [12, 12],
+      popupAnchor: [0, -10]
+    });
+  }
+
   // ---- filter + render ----
   function filterByRing(){
     if(!onlyWithinRing || !myRing){ filtered = featuresAll; return; }
@@ -454,14 +514,15 @@
       const [lng, lat] = f.geometry.coordinates;
       const p = f.properties;
       const status = p.hours?.open_now?.status;
-      const color = status==='open' ? '#10b981' : (status==='closed' ? '#6b7280' : '#f59e0b');
+      const bucket = p.price?.bucket || 0;
 
       const fid = featureId(f);
       const name = p.name || p.name_local || '(no name)';
       const cuisines = (p.sub_categories || []).join(', ');
 
-      const circle = L.circleMarker([lat, lng], {
-        radius: 7, weight:1, color: '#000', fillColor: color, fillOpacity:0.9
+      const marker = L.marker([lat, lng], {
+        icon: makeIcon(status, bucket),
+        riseOnHover: true
       });
 
       // Popup (Name + cuisines). Clicking NAME scrolls to card.
@@ -469,8 +530,13 @@
         `<a href="#" class="popup-name" data-fid="${fid}">${escapeHtml(name)}</a>` +
         (cuisines ? `<br><small>${escapeHtml(cuisines)}</small>` : '');
 
-      circle.bindPopup(html);
-      circle.on('popupopen', (e) => {
+      marker.bindPopup(html, {
+        autoPan: true,
+        closeButton: false,
+        autoClose: true
+      });
+
+      marker.on('popupopen', (e) => {
         const el = e.popup.getElement() && e.popup.getElement().querySelector('a.popup-name');
         if(el){
           el.addEventListener('click', (ev) => {
@@ -481,7 +547,7 @@
         }
       });
 
-      circle.addTo(markersLayer);
+      markersLayer.addLayer(marker);
     });
 
     // No auto-fit (prevents snapping on zoom/pan)
