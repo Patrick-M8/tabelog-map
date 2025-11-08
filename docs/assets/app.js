@@ -178,7 +178,7 @@
     });
   }
 
-  // ---- Categories overlay (robust, no flash) ----
+  // ---- Categories overlay (robust, no flash; inline styles so no clipping) ----
   function enableCategoriesOverlay(){
     const cats = document.getElementById('cats-panel');
     if(!cats) return;
@@ -187,55 +187,79 @@
     const summary = cats.querySelector('summary');
     if(!menu || !summary) return;
 
-    let isOverlay = false;
+    let overlayOpen = false;
 
     function placeMenu(){
+      // Compute header bottom safely after styles; use rAF to avoid layout thrash
       const rect = header.getBoundingClientRect();
       const topPx = Math.max(0, Math.round(rect.bottom));
-      menu.classList.add('cats-overlay');
-      menu.style.setProperty('--cats-top', `${topPx}px`);
+      // Inline styles ensure correct overlay even if CSS isn’t loaded yet
+      Object.assign(menu.style, {
+        position: 'fixed',
+        left: '0px',
+        right: '0px',
+        top: `${topPx}px`,
+        maxHeight: `calc(100vh - ${topPx}px)`,
+        overflow: 'auto',
+        background: '#0b1324',
+        color: '#e5e7eb',
+        zIndex: '6000',
+        padding: '10px 12px',
+        borderBottom: '1px solid rgba(255,255,255,.12)',
+        boxShadow: '0 8px 24px rgba(0,0,0,.35)',
+        display: 'block',
+      });
       if (menu.parentElement !== document.body){
         document.body.appendChild(menu);
       }
-      isOverlay = true;
     }
     function restoreMenu(){
-      menu.classList.remove('cats-overlay');
-      menu.style.removeProperty('--cats-top');
+      // Remove inline overlay styling
+      menu.removeAttribute('style');
       if (menu.parentElement !== cats){
         cats.appendChild(menu);
       }
-      isOverlay = false;
+    }
+    function openCats(){
+      if (overlayOpen) return;
+      cats.setAttribute('open','');
+      placeMenu();
+      overlayOpen = true;
+      summary.setAttribute('aria-expanded','true');
+    }
+    function closeCats(){
+      if (!overlayOpen) return;
+      restoreMenu();
+      cats.removeAttribute('open');
+      overlayOpen = false;
+      summary.setAttribute('aria-expanded','false');
     }
 
-    // Intercept summary click: manage open/close ourselves (prevents flash/auto-close)
-    summary.addEventListener('click', (e) => {
-      e.preventDefault();
-      e.stopPropagation();
-      const isOpen = cats.hasAttribute('open');
-      if (isOpen) {
-        cats.removeAttribute('open');
-        restoreMenu();
-      } else {
-        cats.setAttribute('open','');
-        placeMenu();
-      }
+    // Prevent native <details> toggle; control it ourselves
+    summary.addEventListener('pointerdown', (e) => {
+      e.preventDefault(); e.stopPropagation();
+      overlayOpen ? closeCats() : openCats();
     });
 
     // Click outside to close
-    document.addEventListener('click', (e) => {
-      if (!cats.hasAttribute('open')) return;
+    document.addEventListener('pointerdown', (e) => {
+      if (!overlayOpen) return;
       if (summary.contains(e.target)) return;
       if (menu.contains(e.target)) return;
-      cats.removeAttribute('open');
-      restoreMenu();
+      closeCats();
     });
 
-    // Keep overlay aligned if header height changes or viewport resizes
+    // ESC to close
+    document.addEventListener('keydown', (e) => {
+      if (!overlayOpen) return;
+      if (e.key === 'Escape') closeCats();
+    });
+
+    // Keep aligned to header on resize/orientation/tray animation
     ['resize', 'orientationchange'].forEach(ev =>
-      window.addEventListener(ev, () => { if (isOverlay && cats.hasAttribute('open')) placeMenu(); })
+      window.addEventListener(ev, () => { if (overlayOpen) placeMenu(); })
     );
-    header.addEventListener('transitionend', () => { if (isOverlay && cats.hasAttribute('open')) placeMenu(); });
+    header.addEventListener('transitionend', () => { if (overlayOpen) placeMenu(); });
   }
 
   // ---- Boot ----
@@ -314,7 +338,9 @@
       });
 
       const onListScroll = () => {
-        if (listEl && listEl.scrollTop > 5) backTopManualHide = false;
+        if ((listEl && listEl.scrollTop > 5) || (!listEl && window.scrollY > 5)) {
+          backTopManualHide = false;
+        }
         updateBackTopVisibility();
       };
       if (listEl) listEl.addEventListener('scroll', onListScroll);
@@ -503,40 +529,42 @@
     wrap.innerHTML = '';
 
     const center = ringCenter();
-    const radiusM = kmToM(radiusKm);
-    const haveCentroids = centroids && typeof centroids === 'object';
+    the_radius: {
+      const radiusM = kmToM(radiusKm);
+      const haveCentroids = centroids && typeof centroids === 'object';
 
-    manifest.categories.forEach(c => {
-      const pts = haveCentroids ? (centroids[c.key] || []) : null;
-      const n = pts ? pts.reduce((acc, [lng,lat]) => acc + (haversine(center.lat, center.lng, lat, lng) <= radiusM ? 1 : 0), 0) : '–';
+      manifest.categories.forEach(c => {
+        const pts = haveCentroids ? (centroids[c.key] || []) : null;
+        const n = pts ? pts.reduce((acc, [lng,lat]) => acc + (haversine(center.lat, center.lng, lat, lng) <= radiusM ? 1 : 0), 0) : '–';
 
-      const id = `cat_${c.key}`;
-      const label = document.createElement('label');
-      const left = document.createElement('span');
-      const right = document.createElement('small');
+        const id = `cat_${c.key}`;
+        const label = document.createElement('label');
+        const left = document.createElement('span');
+        const right = document.createElement('small');
 
-      const cb = document.createElement('input');
-      cb.type = 'checkbox';
-      cb.id = id;
-      cb.value = c.key;
-      cb.checked = selectedCats.has(c.key);
-      cb.addEventListener('change', async () => {
-        if(cb.checked) selectedCats.add(c.key); else selectedCats.delete(c.key);
-        writeHash({ cats: [...selectedCats].join(',') });
-        await loadSelectedCategories();
-        refreshAll();
-        updateCatsSummary();
-        updateBackTopVisibility();
+        const cb = document.createElement('input');
+        cb.type = 'checkbox';
+        cb.id = id;
+        cb.value = c.key;
+        cb.checked = selectedCats.has(c.key);
+        cb.addEventListener('change', async () => {
+          if(cb.checked) selectedCats.add(c.key); else selectedCats.delete(c.key);
+          writeHash({ cats: [...selectedCats].join(',') });
+          await loadSelectedCategories();
+          refreshAll();
+          updateCatsSummary();
+          updateBackTopVisibility();
+        });
+
+        left.appendChild(cb);
+        left.appendChild(document.createTextNode(' ' + c.label));
+        right.textContent = `(${n})`;
+
+        label.appendChild(left);
+        label.appendChild(right);
+        wrap.appendChild(label);
       });
-
-      left.appendChild(cb);
-      left.appendChild(document.createTextNode(' ' + c.label));
-      right.textContent = `(${n})`;
-
-      label.appendChild(left);
-      label.appendChild(right);
-      wrap.appendChild(label);
-    });
+    }
 
     $('#cats-all')?.addEventListener('click', async () => {
       manifest.categories.forEach(c => selectedCats.add(c.key));
