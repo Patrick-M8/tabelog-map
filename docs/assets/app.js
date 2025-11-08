@@ -10,7 +10,7 @@ let manifest = null;
 let centroids = {};
 let map, markersLayer, myMarker = null, myRing = null;
 let currentSort = 'closing';
-let sortDir = 'asc';               // asc | desc (per sort)
+let sortDir = 'asc';               // asc | desc
 let selectedCats = new Set();
 let catsCache = new Map();
 let featuresAll = [];
@@ -105,7 +105,7 @@ function initMap(state){
 
   markersLayer = L.layerGroup().addTo(map);
 
-  // Persist position/zoom; NO auto-fit or ring snap.
+  // Persist position/zoom only; NO auto-fit or ring snap.
   map.on('moveend', () => {
     const c = map.getCenter();
     writeHash({ lat: c.lat.toFixed(5), lng: c.lng.toFixed(5), z: map.getZoom() });
@@ -176,30 +176,26 @@ async function boot(){
     // back-to-top behavior (list-aware)
     const backTop = document.getElementById('backTop');
     const listEl  = document.getElementById('list');
-    
     if (backTop) {
       const showHide = () => {
         const scrolled = listEl ? listEl.scrollTop : window.scrollY;
         backTop.classList.toggle('show', scrolled > 400);
       };
-    
-      // click → scroll the list (or page) to top
       backTop.addEventListener('click', () => {
         if (listEl) listEl.scrollTo({ top: 0, behavior: 'smooth' });
         else window.scrollTo({ top: 0, behavior: 'smooth' });
       });
-    
-      // listen to the list if it scrolls; otherwise the window
-      if (listEl) {
-        listEl.addEventListener('scroll', showHide);
-      } else {
-        window.addEventListener('scroll', showHide);
-      }
-    
-      // initial state
+      if (listEl) listEl.addEventListener('scroll', showHide);
+      else window.addEventListener('scroll', showHide);
       showHide();
     }
 
+    await loadSelectedCategories();
+    refreshAll();
+  } catch (err){
+    showBanner('A runtime error occurred. Open DevTools console for details.');
+    console.error(err);
+  }
 }
 
 async function safeFetchJson(url){
@@ -256,6 +252,7 @@ function bindUI(){
     resizeRing();
     writeHash({ r: (units === 'mi' ? kmToMi(radiusKm) : radiusKm).toFixed(2), u: units });
     refreshAll();
+    refreshNearbyCounts(); // update category counts live
   });
 
   // units
@@ -267,6 +264,7 @@ function bindUI(){
       resizeRing();
       writeHash({ r: (units === 'mi' ? kmToMi(radiusKm) : radiusKm).toFixed(2), u: units });
       refreshAll();
+      refreshNearbyCounts();
     }
   });
 
@@ -284,8 +282,8 @@ function bindUI(){
     if(s.sd){ sortDir = (s.sd === 'asc' ? 'asc' : 'desc'); }
     setSortUI(currentSort, sortDir);
 
-    if(s.u && s.u !== units){ units = s.u; updateRadiusUI(); resizeRing(); }
-    if(isFinite(s.r)){ radiusKm = (units === 'mi') ? miToKm(s.r) : s.r; updateRadiusUI(); resizeRing(); }
+    if(s.u && s.u !== units){ units = s.u; updateRadiusUI(); resizeRing(); refreshAll(); refreshNearbyCounts(); }
+    if(isFinite(s.r)){ radiusKm = (units === 'mi') ? miToKm(s.r) : s.r; updateRadiusUI(); resizeRing(); refreshAll(); refreshNearbyCounts(); }
     if(s.f){ onlyWithinRing = (s.f !== '0'); const t = $('#filter-toggle'); if(t) t.checked = onlyWithinRing; }
     const sortPanel = $('#sort-panel'); if (sortPanel && s.sb) sortPanel.open = (s.sb !== '0');
 
@@ -463,7 +461,7 @@ function renderMap(){
       radius: 7, weight:1, color: '#000', fillColor: color, fillOpacity:0.9
     });
 
-    // Popup: clicking the NAME inside popup scrolls to the card
+    // Popup (Name + cuisines). Clicking NAME scrolls to card.
     const html =
       `<a href="#" class="popup-name" data-fid="${fid}">${escapeHtml(name)}</a>` +
       (cuisines ? `<br><small>${escapeHtml(cuisines)}</small>` : '');
@@ -483,7 +481,7 @@ function renderMap(){
     circle.addTo(markersLayer);
   });
 
-  // No auto-fit (no snapping on zoom/pan)
+  // No auto-fit (prevents snapping on zoom/pan)
 }
 
 function sortFeatures(arr, key, dir){
@@ -635,7 +633,9 @@ function scrollToCard(fid){
   const el = cardIndex.get(fid);
   if(!el) return;
   el.classList.remove('flash'); // retrigger animation
-  el.offsetWidth;               // force reflow
+  // force reflow
+  // eslint-disable-next-line no-unused-expressions
+  el.offsetWidth;
   el.classList.add('flash');
   el.scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
@@ -654,4 +654,3 @@ function updateRadiusUI(){
 
 // ---- start ----
 document.addEventListener('DOMContentLoaded', boot);
-
