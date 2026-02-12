@@ -224,7 +224,9 @@ def calc_open_now(blocks_for_day, now_local):
     first_future = None
     for b in blocks_for_day:
         st = _to_minutes(b["open"])
-        if st > now_min and not b["crosses_midnight"]:
+        if b.get("carried_from_prev"):
+            continue
+        if st > now_min:
             first_future = st - now_min; break
     return {"status": "closed", "opens_in_min": first_future}
 
@@ -292,8 +294,19 @@ def build_schedule_fixed(hours_raw, notes_structured=None):
 
 def summarize_for_today(weekly, local_now):
     dow = DAY_ORDER[local_now.weekday()]
-    blocks = weekly.get(dow) or "closed"
-    return compact_today(blocks), calc_open_now(blocks, local_now)
+    blocks_today = weekly.get(dow) or "closed"
+    blocks_for_status = [] if blocks_today == "closed" else list(blocks_today)
+
+    prev_dow = DAY_ORDER[(local_now.weekday() - 1) % 7]
+    prev_blocks = weekly.get(prev_dow) or []
+    if prev_blocks != "closed":
+        for b in prev_blocks:
+            if b.get("crosses_midnight"):
+                carried = dict(b)
+                carried["carried_from_prev"] = True
+                blocks_for_status.append(carried)
+
+    return compact_today(blocks_today), calc_open_now(blocks_for_status or "closed", local_now)
 
 # ---------------------- Feature conversion ----------------------
 YEN_NUM = re.compile(r"\d+")
