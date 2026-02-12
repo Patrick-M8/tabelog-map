@@ -75,6 +75,136 @@
     const m = mm % 60;
     return h ? (m ? `${h}h ${m}m` : `${h}h`) : `${m}m`;
   }
+
+  const DAY_ORDER = ['mon','tue','wed','thu','fri','sat','sun'];
+  const WEEKDAY_TO_IDX = { monday:0, tuesday:1, wednesday:2, thursday:3, friday:4, saturday:5, sunday:6 };
+  const SCHEDULE_TIMEZONE = 'Asia/Tokyo';
+
+  function getNowPartsInTz(timeZone = SCHEDULE_TIMEZONE){
+    const parts = new Intl.DateTimeFormat('en-US', {
+      timeZone,
+      weekday: 'long',
+      hour: '2-digit',
+      minute: '2-digit',
+      hourCycle: 'h23'
+    }).formatToParts(new Date());
+    const byType = Object.fromEntries(parts.map(p => [p.type, p.value]));
+    const weekday = String(byType.weekday || '').toLowerCase();
+    return {
+      weekdayIdx: WEEKDAY_TO_IDX[weekday],
+      hour: Number(byType.hour),
+      minute: Number(byType.minute)
+    };
+  }
+
+  function toMinutes(hhmm){
+    if (!hhmm || typeof hhmm !== 'string') return null;
+    const [h, m] = hhmm.split(':').map(Number);
+    if (!Number.isFinite(h) || !Number.isFinite(m)) return null;
+    return (h * 60) + m;
+  }
+
+  function compactTodayFromWeekly(weekly){
+    if (!weekly || typeof weekly !== 'object') return 'Closed';
+    const now = getNowPartsInTz();
+    const todayKey = DAY_ORDER[now.weekdayIdx];
+    const blocks = Array.isArray(weekly[todayKey]) ? weekly[todayKey] : [];
+    if (!blocks.length) return 'Closed';
+
+    const labels = [];
+    blocks.forEach((b, idx) => {
+      let seg = `${b.open}–${b.close}`;
+      const lo = b.last_order;
+      const loParts = [];
+      if (lo){
+        if (lo.food) loParts.push(`Food ${lo.food}`);
+        if (lo.drinks) loParts.push(`Drinks ${lo.drinks}`);
+        if (lo.generic && !loParts.length) loParts.push(lo.generic);
+      }
+      if (loParts.length) seg += ` (LO ${loParts.join(' / ')})`;
+      labels.push(seg);
+
+      const n = blocks[idx + 1];
+      if (n) labels.push(`Break ${b.close}–${n.open}`);
+    });
+
+    return labels.join(' · ');
+  }
+
+  function calcOpenNowFromWeekly(weekly){
+    if (!weekly || typeof weekly !== 'object') return { status:'closed' };
+
+    const now = getNowPartsInTz();
+    if (!Number.isFinite(now.weekdayIdx) || !Number.isFinite(now.hour) || !Number.isFinite(now.minute)) {
+      return { status:'closed' };
+    }
+
+    const dowIdx = now.weekdayIdx;
+    const nowMin = now.hour * 60 + now.minute;
+
+    const todayKey = DAY_ORDER[dowIdx];
+    const prevKey = DAY_ORDER[(dowIdx + 6) % 7];
+
+    const todayBlocks = Array.isArray(weekly[todayKey]) ? weekly[todayKey] : [];
+    const prevBlocks = Array.isArray(weekly[prevKey]) ? weekly[prevKey] : [];
+    const blocks = [
+      ...todayBlocks,
+      ...prevBlocks.filter(b => b && b.crosses_midnight).map(b => ({ ...b, carried_from_prev:true }))
+    ];
+
+    if (!blocks.length) return { status:'closed' };
+
+    for (const b of blocks){
+      const start = toMinutes(b.open);
+      const end = toMinutes(b.close);
+      const crosses = !!b.crosses_midnight;
+      if (!Number.isFinite(start) || !Number.isFinite(end)) continue;
+
+      let inWindow = false;
+      let closesIn = null;
+      if (!crosses){
+        inWindow = (start <= nowMin && nowMin < end);
+        if (inWindow) closesIn = end - nowMin;
+      } else {
+        inWindow = (nowMin >= start) || (nowMin < end);
+        if (inWindow) closesIn = nowMin >= start ? (24*60 - nowMin) + end : (end - nowMin);
+      }
+
+      if (!inWindow) continue;
+
+      let loIn = null;
+      const lo = b.last_order;
+      if (lo && typeof lo === 'object'){
+        const loTimes = ['generic','food','drinks'].map(k => toMinutes(lo[k])).filter(Number.isFinite);
+        if (loTimes.length){
+          const loT = Math.min(...loTimes);
+          if (!crosses){
+            loIn = (nowMin <= loT && loT <= end) ? Math.max(loT - nowMin, 0) : null;
+          } else if (nowMin >= start){
+            loIn = loT >= start ? Math.max(loT - nowMin, 0) : ((24*60 - nowMin) + loT);
+          } else {
+            loIn = loT >= nowMin ? Math.max(loT - nowMin, 0) : null;
+          }
+        }
+      }
+
+      return {
+        status:'open',
+        segment:{ start:b.open, end:b.close, last_order: lo || null },
+        closes_in_min: closesIn,
+        lo_in_min: loIn,
+        crosses_midnight: crosses
+      };
+    }
+
+    let firstFuture = null;
+    for (const b of todayBlocks){
+      const st = toMinutes(b.open);
+      if (!Number.isFinite(st)) continue;
+      if (st > nowMin){ firstFuture = st - nowMin; break; }
+    }
+    return { status:'closed', opens_in_min:firstFuture };
+  }
   function showBanner(msg){
     let el = document.getElementById('banner');
     if(!el){
@@ -608,7 +738,7 @@
     filtered.forEach(f => {
       const [lng, lat] = f.geometry.coordinates;
       const p = f.properties;
-      const status = p.hours?.open_now?.status;
+      const status = calcOpenNowFromWeekly(p.hours?.weekly).status;
       const color = status==='open' ? '#10b981' : (status==='closed' ? '#6b7280' : '#f59e0b');
 
       const fid = featureId(f);
@@ -641,9 +771,10 @@
 
   function sortFeatures(arr, key, dir){
     const cmpClosing = (A,B) => {
-      const a = A.properties.sort_keys || {};
-      const b = B.properties.sort_keys || {};
-      const ao = a.open_rank || 0, bo = b.open_rank || 0;
+      const a = calcOpenNowFromWeekly(A.properties.hours?.weekly);
+      const b = calcOpenNowFromWeekly(B.properties.hours?.weekly);
+      const ao = a.status === 'open' ? 2 : 0;
+      const bo = b.status === 'open' ? 2 : 0;
       if(bo !== ao) return bo - ao;  // open first
       const ac = Number.isFinite(a.closes_in_min) ? a.closes_in_min : 1e9;
       const bc = Number.isFinite(b.closes_in_min) ? b.closes_in_min : 1e9;
@@ -723,7 +854,7 @@
     nm.textContent = p.name || p.name_local || '(no name)';
 
     // status pill
-    const on = p.hours?.open_now || {};
+    const on = calcOpenNowFromWeekly(p.hours?.weekly);
     let label = 'Closed', cls='closed';
     if(on.status === 'open'){
       const parts=[];
@@ -735,7 +866,7 @@
     st.textContent = label;
     st.classList.add('status', cls);
 
-    today.textContent = p.hours?.today_compact || '';
+    today.textContent = compactTodayFromWeekly(p.hours?.weekly);
 
     // chips: price / distance / subcats / policy
     const priceBucket = p.price?.bucket;
