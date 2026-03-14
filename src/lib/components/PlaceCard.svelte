@@ -29,40 +29,33 @@
       <div class="title-row">
         <div>
           <h3>{place.nameEn ?? place.nameJp ?? 'Untitled place'}</h3>
-          <p>{place.nameJp ?? place.nameEn ?? ''}</p>
+          <p>{place.category.label} · {place.station ?? place.area ?? 'Japan'}</p>
         </div>
-        <span class="updated">{formatRelativeUpdate(place.freshnessUpdatedAt)}</span>
-      </div>
-
-      <div class="rating-row">
-        <span class="rating-pill tabelog">Tabelog {place.tabelog.score ?? '-'} · {place.tabelog.reviews}</span>
-        <span class="rating-pill google">Google {place.google.score ?? '-'} · {place.google.reviews}</span>
+        <span class={`status-pill ${place.status.state}`}>{place.status.label}</span>
       </div>
 
       <div class="facts">
         <span>{place.walkMinutes} min walk</span>
         <span>{formatPriceBand(place.priceBand, place.priceBucket)}</span>
-        <span>{place.category.label}</span>
+        <span>{formatDistance(place.distanceMeters)}</span>
+      </div>
+
+      <div class="signal-row">
+        <span class="rating-pill tabelog">Tabelog {place.tabelog.score ?? '-'} · {place.tabelog.reviews.toLocaleString()} reviews</span>
+        <span class="updated">{formatRelativeUpdate(place.freshnessUpdatedAt)}</span>
       </div>
 
       <div class="status-row">
-        <span class={`status-pill ${place.status.state}`}>{place.status.label}</span>
         <span>{place.status.detail}</span>
-        <span>{formatDistance(place.distanceMeters)}</span>
       </div>
     </div>
   </button>
 
   <div class="cta-row">
     <button type="button" on:click|stopPropagation={() => dispatch('directions', { id: place.id })}>Directions</button>
-    <button
-      type="button"
-      class:muted={!place.reserveUrl}
-      disabled={!place.reserveUrl}
-      on:click|stopPropagation={() => dispatch('reserve', { id: place.id })}
-    >
-      Reserve
-    </button>
+    {#if place.reserveUrl}
+      <button type="button" class="secondary" on:click|stopPropagation={() => dispatch('reserve', { id: place.id })}>Reserve</button>
+    {/if}
   </div>
 </article>
 
@@ -71,15 +64,15 @@
     display: grid;
     gap: 12px;
     padding: 14px;
-    border-radius: 20px;
-    background: rgba(255, 255, 255, 0.9);
-    border: 1px solid rgba(31, 42, 47, 0.08);
-    box-shadow: 0 10px 24px rgba(31, 42, 47, 0.06);
+    border-radius: 22px;
+    background: rgba(255, 255, 255, 0.92);
+    border: 1px solid rgba(23, 25, 28, 0.08);
+    box-shadow: 0 14px 28px rgba(17, 24, 39, 0.06);
   }
 
   .card.selected {
-    border-color: rgba(201, 112, 51, 0.45);
-    box-shadow: 0 16px 36px rgba(201, 112, 51, 0.16);
+    border-color: rgba(200, 100, 59, 0.42);
+    box-shadow: 0 18px 40px rgba(200, 100, 59, 0.16);
   }
 
   .card-main-button {
@@ -91,24 +84,24 @@
 
   .card-main {
     display: grid;
-    gap: 10px;
+    gap: 9px;
   }
 
   .preview {
     width: 100%;
     border-radius: 18px;
     overflow: hidden;
-    background: linear-gradient(135deg, rgba(31, 42, 47, 0.08), rgba(201, 112, 51, 0.16));
+    background: linear-gradient(140deg, rgba(23, 25, 28, 0.08), rgba(200, 100, 59, 0.16));
   }
 
   .preview img,
   .preview-placeholder {
     width: 100%;
-    aspect-ratio: 1.8;
+    aspect-ratio: 2.2;
     object-fit: cover;
     display: grid;
     place-items: center;
-    color: rgba(31, 42, 47, 0.62);
+    color: rgba(23, 25, 28, 0.56);
     font-size: 0.84rem;
   }
 
@@ -121,24 +114,23 @@
 
   h3 {
     margin: 0;
-    font-size: 1rem;
-    line-height: 1.15;
+    font-size: 1.02rem;
+    line-height: 1.2;
   }
 
   p {
     margin: 4px 0 0;
-    color: rgba(31, 42, 47, 0.66);
-    font-size: 0.83rem;
+    color: rgba(23, 25, 28, 0.62);
+    font-size: 0.84rem;
   }
 
   .updated {
-    color: rgba(31, 42, 47, 0.54);
-    font-size: 0.72rem;
-    white-space: nowrap;
+    color: rgba(23, 25, 28, 0.52);
+    font-size: 0.76rem;
   }
 
-  .rating-row,
   .facts,
+  .signal-row,
   .status-row,
   .cta-row {
     display: flex;
@@ -150,24 +142,19 @@
   .rating-pill,
   .facts span,
   .status-row span {
-    color: rgba(31, 42, 47, 0.72);
+    color: rgba(23, 25, 28, 0.72);
     font-size: 0.85rem;
   }
 
   .rating-pill {
     border-radius: 999px;
-    padding: 6px 10px;
+    padding: 7px 11px;
     font-weight: 600;
   }
 
   .rating-pill.tabelog {
-    background: rgba(201, 112, 51, 0.14);
-    color: #8d4d21;
-  }
-
-  .rating-pill.google {
-    background: rgba(61, 140, 89, 0.14);
-    color: #215337;
+    background: rgba(200, 100, 59, 0.12);
+    color: #8b4b30;
   }
 
   .status-pill {
@@ -176,36 +163,37 @@
     border-radius: 999px;
     padding: 6px 10px;
     font-weight: 600;
+    white-space: nowrap;
   }
 
   .status-pill.open {
-    background: rgba(61, 140, 89, 0.14);
-    color: #215337 !important;
+    background: rgba(47, 125, 87, 0.12);
+    color: #20583d !important;
   }
 
   .status-pill.closingSoon {
-    background: rgba(201, 112, 51, 0.14);
-    color: #8d4d21 !important;
+    background: rgba(200, 100, 59, 0.14);
+    color: #8b4b30 !important;
   }
 
   .status-pill.closed {
-    background: rgba(123, 123, 116, 0.14);
-    color: #62625e !important;
+    background: rgba(107, 114, 128, 0.14);
+    color: #5a6270 !important;
   }
 
   .cta-row button {
-    flex: 1 1 120px;
+    flex: 1 1 140px;
     min-width: 0;
     border: 0;
-    border-radius: 14px;
-    padding: 11px 12px;
-    background: #1f2a2f;
-    color: #f6f1e8;
+    border-radius: 16px;
+    padding: 12px 14px;
+    background: #17191c;
+    color: #f8f7f4;
     font-weight: 600;
   }
 
-  .cta-row button.muted {
-    background: rgba(31, 42, 47, 0.1);
-    color: rgba(31, 42, 47, 0.44);
+  .cta-row button.secondary {
+    background: rgba(23, 25, 28, 0.08);
+    color: #17191c;
   }
 </style>

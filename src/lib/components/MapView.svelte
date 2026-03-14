@@ -9,6 +9,7 @@
   export let selectedPlaceId: string | null = null;
   export let userLocation: { lat: number; lng: number } | null = null;
   export let focusTarget: { lat: number; lng: number; zoom?: number; token: string } | null = null;
+  export let desktop = false;
 
   const dispatch = createEventDispatcher<{
     moveend: {
@@ -92,10 +93,10 @@
       source: 'places',
       filter: ['has', 'point_count'],
       paint: {
-        'circle-color': '#1f2a2f',
+        'circle-color': '#17191c',
         'circle-radius': ['step', ['get', 'point_count'], 18, 20, 22, 40, 26],
         'circle-stroke-width': 2,
-        'circle-stroke-color': '#f6f1e8'
+        'circle-stroke-color': '#f7f6f3'
       }
     });
 
@@ -110,7 +111,7 @@
         'text-size': 12
       },
       paint: {
-        'text-color': '#f6f1e8'
+        'text-color': '#f7f6f3'
       }
     });
 
@@ -125,13 +126,13 @@
           'match',
           ['get', 'state'],
           'open',
-          '#3d8c59',
+          '#2f7d57',
           'closingSoon',
-          '#c97033',
-          '#7b7b74'
+          '#c8643b',
+          '#8c9199'
         ],
         'circle-stroke-width': 2,
-        'circle-stroke-color': '#f6f1e8'
+        'circle-stroke-color': '#f7f6f3'
       }
     });
 
@@ -142,9 +143,9 @@
       filter: ['==', ['get', 'id'], selectedPlaceId ?? ''],
       paint: {
         'circle-radius': 14,
-        'circle-color': 'rgba(0,0,0,0)',
+        'circle-color': 'rgba(247, 246, 243, 0.95)',
         'circle-stroke-width': 3,
-        'circle-stroke-color': '#1f2a2f'
+        'circle-stroke-color': '#c8643b'
       }
     });
 
@@ -154,9 +155,9 @@
       source: 'user-point',
       paint: {
         'circle-radius': 7,
-        'circle-color': '#1f2a2f',
+        'circle-color': '#17191c',
         'circle-stroke-width': 3,
-        'circle-stroke-color': '#f6f1e8'
+        'circle-stroke-color': '#f7f6f3'
       }
     });
 
@@ -229,11 +230,17 @@
       minZoom: 4.6,
       maxZoom: 18,
       maxBounds: JAPAN_BOUNDS as unknown as [maplibregl.LngLatLike, maplibregl.LngLatLike],
-      attributionControl: false
+      attributionControl: false,
+      dragRotate: false,
+      pitchWithRotate: false,
+      touchPitch: false
     });
 
+    map.touchZoomRotate.disableRotation();
     map.addControl(new maplibregl.AttributionControl({ compact: true }), 'bottom-right');
-    map.addControl(new maplibregl.NavigationControl({ visualizePitch: false, showCompass: false }), 'bottom-right');
+    if (desktop) {
+      map.addControl(new maplibregl.NavigationControl({ visualizePitch: false, showCompass: false }), 'bottom-right');
+    }
 
     map.on('load', () => {
       ensureLayers();
@@ -276,7 +283,7 @@
   }
 
   :global(.maplibregl-ctrl-bottom-right) {
-    bottom: calc(208px + env(safe-area-inset-bottom));
+    bottom: calc(220px + env(safe-area-inset-bottom));
     right: calc(12px + env(safe-area-inset-right));
   }
 

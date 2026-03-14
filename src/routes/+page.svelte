@@ -9,9 +9,10 @@
   import { DEFAULT_CENTER, SEARCH_REDRAW_METERS } from '$lib/config';
   import { loadPlaceDetails, loadPlaceSummary } from '$lib/data/client';
   import type { ActiveFilters, DisplayPlace, PlaceDetail, PlaceSummary, SheetSnap, SortKey } from '$lib/types';
-  import { formatPriceRange, normalizePriceBand } from '$lib/utils/format';
+  import { formatDistance, formatPriceBand, formatPriceRange, normalizePriceBand } from '$lib/utils/format';
   import { haversineDistanceMeters, isInsideBounds, walkMinutesFromDistance } from '$lib/utils/geo';
   import { derivePlaceStatus } from '$lib/utils/hours';
+  import { countActiveFilters, summarizeFilters } from '$lib/utils/discovery';
   import { sortPlaces } from '$lib/utils/sort';
 
   type SearchRecent = {
@@ -47,13 +48,11 @@
   const RECENT_STORAGE_KEY = 'tabemap:recent-searches';
 
   let innerWidth = 390;
-  let sheetSnap: SheetSnap = 'mid';
+  let sheetSnap: SheetSnap = 'peek';
   let sortKey: SortKey = 'best';
   let activeFilters: ActiveFilters = { ...EMPTY_FILTERS };
   let searchOpen = false;
-  let walkMenuOpen = false;
-  let categoryMenuOpen = false;
-  let priceMenuOpen = false;
+  let filterOpen = false;
   let detailOpen = false;
   let selectedPlaceId: string | null = null;
   let searchInput = '';
@@ -74,12 +73,15 @@
   let displayPlaces: DisplayPlace[] = [];
   let sortedPlaces: DisplayPlace[] = [];
   let visiblePlaces: DisplayPlace[] = [];
+  let mobileListPlaces: DisplayPlace[] = [];
   let selectedPlace: DisplayPlace | null = null;
   let selectedDetail: PlaceDetail | null = null;
   let availableCategories: { key: string; label: string; count: number }[] = [];
   let searchResults: PlaceSummary[] = [];
   let showRedoSearch = false;
   let desktop = false;
+  let activeFilterCount = 0;
+  let filterSummary = 'All nearby';
   let MapViewComponent: typeof import('$lib/components/MapView.svelte').default | null = null;
   let DetailSheetComponent: typeof import('$lib/components/PlaceDetailSheet.svelte').default | null = null;
 
@@ -113,32 +115,8 @@
     localStorage.setItem(RECENT_STORAGE_KEY, JSON.stringify(recents));
   }
 
-  function closeMenus() {
-    walkMenuOpen = false;
-    categoryMenuOpen = false;
-    priceMenuOpen = false;
-  }
-
-  function toggleMenu(menu: 'walk' | 'category' | 'price') {
-    const next = {
-      walk: menu === 'walk' ? !walkMenuOpen : false,
-      category: menu === 'category' ? !categoryMenuOpen : false,
-      price: menu === 'price' ? !priceMenuOpen : false
-    };
-
-    closeMenus();
-    walkMenuOpen = next.walk;
-    categoryMenuOpen = next.category;
-    priceMenuOpen = next.price;
-  }
-
-  function walkFilterAriaLabel() {
-    return activeFilters.maxWalkMinutes ? `Walk time within ${activeFilters.maxWalkMinutes} minutes` : 'Walk time filter';
-  }
-
   function priceSortAriaLabel() {
     return sortKey === 'priceDesc' ? 'Price descending' : 'Price ascending';
-    return sortKey === 'priceDesc' ? 'Price ↓' : 'Price ↑';
   }
 
   function togglePriceSort() {
@@ -150,7 +128,42 @@
       ...activeFilters,
       maxWalkMinutes: activeFilters.maxWalkMinutes === minutes ? null : minutes
     };
-    walkMenuOpen = false;
+  }
+
+  function toggleSearch() {
+    searchOpen = !searchOpen;
+    filterOpen = false;
+    detailOpen = false;
+  }
+
+  function openFilters() {
+    filterOpen = true;
+    searchOpen = false;
+    detailOpen = false;
+    if (!desktop) {
+      sheetSnap = 'full';
+    }
+  }
+
+  function closeFilters() {
+    filterOpen = false;
+  }
+
+  function clearFilters() {
+    activeFilters = { ...EMPTY_FILTERS };
+  }
+
+  function openDetail() {
+    if (!selectedPlaceId) {
+      return;
+    }
+
+    detailOpen = true;
+    filterOpen = false;
+    searchOpen = false;
+    if (!desktop) {
+      sheetSnap = 'full';
+    }
   }
 
   function applySearchPlace(place: PlaceSummary) {
@@ -162,6 +175,7 @@
     searchInput = '';
     searchOpen = false;
     detailOpen = false;
+    filterOpen = false;
   }
 
   function openDirections(place: PlaceSummary) {
@@ -243,12 +257,26 @@
 
   function selectPlace(placeId: string, refocus = true) {
     selectedPlaceId = placeId;
+    detailOpen = false;
+    filterOpen = false;
+
     const place =
       candidatePlaces.find((entry) => entry.id === placeId) ?? summaries.find((entry) => entry.id === placeId);
     if (place && refocus) {
       focusTarget = { lat: place.lat, lng: place.lng, zoom: 15, token: randomToken(place.id) };
-      sheetSnap = 'mid';
+      if (!desktop) {
+        sheetSnap = 'mid';
+      }
     }
+  }
+
+  function handlePlaceSelect(placeId: string) {
+    if (selectedPlaceId === placeId) {
+      openDetail();
+      return;
+    }
+
+    selectPlace(placeId);
   }
 
   function useUserLocation() {
@@ -300,6 +328,8 @@
   $: details = $detailQuery.data ?? {};
   $: availableCategories = visibleCategories(summaries);
   $: searchResults = searchMatches(summaries);
+  $: activeFilterCount = countActiveFilters(activeFilters);
+  $: filterSummary = summarizeFilters(activeFilters);
   $: candidatePlaces = summaries
     .map((place) => {
       const distanceMeters = haversineDistanceMeters(searchCenter, { lat: place.lat, lng: place.lng });
@@ -311,6 +341,7 @@
       } satisfies DisplayPlace;
     })
     .filter((place) => (activeFilters.openNow ? place.status.state !== 'closed' : true))
+    .filter((place) => (activeFilters.closingSoon ? place.status.state === 'closingSoon' : true))
     .filter((place) => (activeFilters.maxWalkMinutes ? place.walkMinutes <= activeFilters.maxWalkMinutes : true))
     .filter((place) =>
       activeFilters.priceBands.length
@@ -338,6 +369,7 @@
       visiblePlaces = firstChunk;
     }
   }
+  $: mobileListPlaces = selectedPlace ? visiblePlaces.filter((place) => place.id !== selectedPlace.id) : visiblePlaces;
 </script>
 
 <svelte:window bind:innerWidth />
@@ -351,6 +383,7 @@
         {selectedPlaceId}
         {userLocation}
         {focusTarget}
+        {desktop}
         on:moveend={(event) => {
           mapCenter = event.detail.center;
           mapBounds = event.detail.bounds;
@@ -364,130 +397,38 @@
     <div class="map-gradient"></div>
 
     <div class="top-chrome">
-      <button
-        type="button"
-        class="search-pill"
-        on:click={() => {
-          searchOpen = !searchOpen;
-          closeMenus();
-        }}
-      >
-        {$_('search')}
+      <button type="button" class="search-pill" on:click={toggleSearch}>
+        <span class="search-pill-title">{$_('search')}</span>
+        <small>Stations, areas, landmarks</small>
       </button>
-      <button type="button" class="icon-button icon-button-square" aria-label="Use my location" on:click={useUserLocation}>
-        <svg viewBox="0 0 24 24" aria-hidden="true">
-          <path
-            d="M12 2a6 6 0 0 0-6 6c0 4.26 6 12 6 12s6-7.74 6-12a6 6 0 0 0-6-6Zm0 8.5A2.5 2.5 0 1 1 12 5a2.5 2.5 0 0 1 0 5.5Z"
-          />
-        </svg>
-      </button>
+
+      <div class="top-actions">
+        <button
+          type="button"
+          class="icon-button filter-button"
+          aria-label={activeFilterCount > 0 ? `Open filters, ${activeFilterCount} active` : 'Open filters'}
+          on:click={openFilters}
+        >
+          <span>Filter</span>
+          {#if activeFilterCount > 0}
+            <strong>{activeFilterCount}</strong>
+          {/if}
+        </button>
+
+        <button type="button" class="icon-button icon-button-square" aria-label="Use my location" on:click={useUserLocation}>
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <path
+              d="M12 2a6 6 0 0 0-6 6c0 4.26 6 12 6 12s6-7.74 6-12a6 6 0 0 0-6-6Zm0 8.5A2.5 2.5 0 1 1 12 5a2.5 2.5 0 0 1 0 5.5Z"
+            />
+          </svg>
+        </button>
+      </div>
     </div>
-
-    <div class="chip-row">
-      <button type="button" class:active={activeFilters.openNow} on:click={() => (activeFilters = { ...activeFilters, openNow: !activeFilters.openNow })}>
-        Open
-      </button>
-      <button
-        type="button"
-        aria-label={walkFilterAriaLabel()}
-        class:active={activeFilters.maxWalkMinutes !== null}
-        on:click={() => toggleMenu('walk')}
-      >
-        {#if activeFilters.maxWalkMinutes !== null}
-          <span aria-hidden="true">&le; {activeFilters.maxWalkMinutes} min walk</span>
-        {:else}
-          <span aria-hidden="true">&le; walk time</span>
-        {/if}
-      </button>
-      <button type="button" class:active={activeFilters.categoryKeys.length > 0} on:click={() => toggleMenu('category')}>
-        Categories
-      </button>
-      <button type="button" class:active={activeFilters.priceBands.length > 0} on:click={() => toggleMenu('price')}>
-        Price
-      </button>
-    </div>
-
-    {#if walkMenuOpen}
-      <section class="chip-panel chip-panel-left">
-        <div class="chip-panel-header">
-          <h2>Walk time</h2>
-          <button
-            type="button"
-            class="ghost-chip ghost-chip-icon"
-            aria-label="Close walk time filter"
-            on:click={() => (walkMenuOpen = false)}
-          >
-            <span aria-hidden="true">&times;</span>
-          </button>
-        </div>
-        <div class="token-wrap">
-          {#each WALK_MINUTE_OPTIONS as minutes}
-            <button
-              type="button"
-              aria-label={`Walk within ${minutes} minutes`}
-              class:active={activeFilters.maxWalkMinutes === minutes}
-              on:click={() => setWalkMinutes(minutes)}
-            >
-              &le; {minutes} min
-            </button>
-          {/each}
-        </div>
-      </section>
-    {/if}
-
-    {#if categoryMenuOpen}
-      <section class="chip-panel chip-panel-left">
-        <div class="chip-panel-header">
-          <h2>Categories</h2>
-          <button
-            type="button"
-            class="ghost-chip ghost-chip-icon"
-            aria-label="Close categories filter"
-            on:click={() => (categoryMenuOpen = false)}
-          >
-            <span aria-hidden="true">&times;</span>
-          </button>
-        </div>
-        <div class="token-wrap">
-          {#each availableCategories as category}
-            <button type="button" class:active={activeFilters.categoryKeys.includes(category.key)} on:click={() => toggleCategory(category.key)}>
-              {category.label}
-            </button>
-          {/each}
-        </div>
-      </section>
-    {/if}
-
-    {#if priceMenuOpen}
-      <section class="chip-panel chip-panel-right">
-        <div class="chip-panel-header">
-          <h2>Price</h2>
-          <button
-            type="button"
-            class="ghost-chip ghost-chip-icon"
-            aria-label="Close price filter"
-            on:click={() => (priceMenuOpen = false)}
-          >
-            <span aria-hidden="true">&times;</span>
-          </button>
-        </div>
-        <div class="token-wrap">
-          {#each PRICE_BANDS as band}
-            <button type="button" class:active={activeFilters.priceBands.includes(band)} on:click={() => togglePriceBand(band)}>
-              <span class="filter-token">
-                <strong>{band}</strong>
-                <small>{formatPriceRange(band)}</small>
-              </span>
-            </button>
-          {/each}
-        </div>
-      </section>
-    {/if}
 
     {#if showRedoSearch}
       <button
         type="button"
-        class="redo-chip"
+        class="viewport-chip"
         on:click={() => {
           searchCenter = { ...mapCenter };
           focusTarget = { ...mapCenter, token: randomToken('redo') };
@@ -498,17 +439,26 @@
     {/if}
 
     {#if searchOpen}
+      <button type="button" class="panel-scrim" aria-label="Close search" on:click={() => (searchOpen = false)}></button>
+
       <section class="floating-panel search-panel">
         <div class="panel-header">
-          <h2>Search across Japan</h2>
+          <div>
+            <p class="eyebrow">Discover</p>
+            <h2>Search across Japan</h2>
+          </div>
           <button type="button" class="ghost-chip ghost-chip-icon" aria-label="Close search" on:click={() => (searchOpen = false)}>
-            <span aria-hidden="true">&times;</span>
+            <span aria-hidden="true">x</span>
           </button>
         </div>
+
         <input bind:value={searchInput} type="search" placeholder="Search any restaurant, station, area, or cuisine" />
+
         {#if recents.length > 0}
           <div class="panel-section">
-            <h3>Recent searches</h3>
+            <div class="section-heading">
+              <h3>Recent searches</h3>
+            </div>
             <div class="token-wrap">
               {#each recents as recent}
                 <button
@@ -526,8 +476,11 @@
             </div>
           </div>
         {/if}
+
         <div class="panel-section">
-          <h3>Results</h3>
+          <div class="section-heading">
+            <h3>Results</h3>
+          </div>
           <div class="search-results">
             {#if searchInput.trim().length === 0}
               <div class="empty-search">Start typing to search all restaurants in Japan.</div>
@@ -545,31 +498,254 @@
         </div>
       </section>
     {/if}
+
+    {#if filterOpen && desktop}
+      <button type="button" class="panel-scrim" aria-label="Close filters" on:click={closeFilters}></button>
+
+      <section class="floating-panel filter-panel">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Refine</p>
+            <h2>Filters</h2>
+          </div>
+          <button type="button" class="ghost-chip ghost-chip-icon" aria-label="Close filters" on:click={closeFilters}>
+            <span aria-hidden="true">x</span>
+          </button>
+        </div>
+
+        <p class="filter-summary">{filterSummary}</p>
+
+        <section class="filter-section">
+          <div class="section-heading">
+            <h3>Availability</h3>
+            {#if activeFilters.openNow || activeFilters.closingSoon}
+              <button type="button" class="text-button" on:click={() => (activeFilters = { ...activeFilters, openNow: false, closingSoon: false })}>
+                Reset
+              </button>
+            {/if}
+          </div>
+          <div class="token-wrap">
+            <button type="button" class:active={activeFilters.openNow} on:click={() => (activeFilters = { ...activeFilters, openNow: !activeFilters.openNow })}>
+              Open now
+            </button>
+            <button
+              type="button"
+              class:active={activeFilters.closingSoon}
+              on:click={() => (activeFilters = { ...activeFilters, closingSoon: !activeFilters.closingSoon })}
+            >
+              Closing soon
+            </button>
+          </div>
+        </section>
+
+        <section class="filter-section">
+          <div class="section-heading">
+            <h3>Walk time</h3>
+          </div>
+          <div class="token-wrap">
+            {#each WALK_MINUTE_OPTIONS as minutes}
+              <button type="button" class:active={activeFilters.maxWalkMinutes === minutes} on:click={() => setWalkMinutes(minutes)}>
+                &lt;= {minutes} min
+              </button>
+            {/each}
+          </div>
+        </section>
+
+        <section class="filter-section">
+          <div class="section-heading">
+            <h3>Price</h3>
+          </div>
+          <div class="token-wrap">
+            {#each PRICE_BANDS as band}
+              <button type="button" class:active={activeFilters.priceBands.includes(band)} on:click={() => togglePriceBand(band)}>
+                <span class="filter-token">
+                  <strong>{band}</strong>
+                  <small>{formatPriceRange(band)}</small>
+                </span>
+              </button>
+            {/each}
+          </div>
+        </section>
+
+        <section class="filter-section">
+          <div class="section-heading">
+            <h3>Cuisine</h3>
+          </div>
+          <div class="token-wrap token-wrap-categories">
+            {#each availableCategories as category}
+              <button type="button" class:active={activeFilters.categoryKeys.includes(category.key)} on:click={() => toggleCategory(category.key)}>
+                {category.label}
+              </button>
+            {/each}
+          </div>
+        </section>
+
+        <div class="filter-footer">
+          <button type="button" class="ghost-chip" on:click={clearFilters}>Clear all</button>
+          <button type="button" class="primary-button" on:click={closeFilters}>Show {sortedPlaces.length} places</button>
+        </div>
+      </section>
+    {/if}
   </section>
 
   {#if desktop}
     <section class="side-panel">
-      <BottomSheet title="Places" snap={sheetSnap} desktop={true}>
-        <div class="sheet-header">
-          <div>
-            <p class="eyebrow">{sortedPlaces.length} places in view</p>
-            <h1>{selectedPlace?.station ?? 'Restaurants across Japan'}</h1>
+      <BottomSheet title={detailOpen ? 'Place details' : 'Places'} snap={sheetSnap} desktop={true}>
+        {#if detailOpen && DetailSheetComponent}
+          {#if selectedDetail}
+            <svelte:component
+              this={DetailSheetComponent}
+              detail={selectedDetail}
+              status={selectedPlace?.status ?? null}
+              on:close={() => (detailOpen = false)}
+              on:directions={(event) => {
+                const place = sortedPlaces.find((item) => item.id === event.detail.id);
+                if (place) openDirections(place);
+              }}
+              on:reserve={(event) => {
+                const place = sortedPlaces.find((item) => item.id === event.detail.id);
+                if (place) openReserve(place);
+              }}
+            />
+          {:else}
+            <div class="empty-state">
+              <h3>Loading details</h3>
+              <p>Restaurant detail is being prepared.</p>
+            </div>
+          {/if}
+        {:else}
+          <div class="sheet-header">
+            <div>
+              <p class="eyebrow">{sortedPlaces.length} places in view</p>
+              <h1>{selectedPlace?.station ?? 'Restaurants near the current map'}</h1>
+              <p class="sheet-summary">{filterSummary}</p>
+            </div>
+            <button type="button" class="ghost-chip" on:click={openFilters}>
+              Filters{#if activeFilterCount > 0} {activeFilterCount}{/if}
+            </button>
           </div>
+
           <div class="segment-row">
             <button type="button" class:active={sortKey === 'best'} on:click={() => (sortKey = 'best')}>Best nearby</button>
-            <button type="button" class:active={sortKey === 'distance'} on:click={() => (sortKey = 'distance')}>Distance</button>
+            <button type="button" class:active={sortKey === 'distance'} on:click={() => (sortKey = 'distance')}>Nearest</button>
             <button
               type="button"
               aria-label={priceSortAriaLabel()}
               class:active={sortKey === 'priceAsc' || sortKey === 'priceDesc'}
               on:click={togglePriceSort}
             >
-              Price <span aria-hidden="true">{#if sortKey === 'priceDesc'}&darr;{:else}&uarr;{/if}</span>
+              Price <span aria-hidden="true">{#if sortKey === 'priceDesc'}v{:else}^{/if}</span>
             </button>
           </div>
+
+          {#if $summaryQuery.isLoading}
+            {#each Array.from({ length: 6 }) as _, index (index)}
+              <div class="skeleton" aria-hidden="true"></div>
+            {/each}
+          {:else if !sortedPlaces.length}
+            <div class="empty-state">
+              <h3>No places in this view</h3>
+              <p>Pan, zoom, or search to another area in Japan.</p>
+            </div>
+          {:else}
+            {#if sortedPlaces.length > visiblePlaces.length}
+              <div class="result-limit">Showing {visiblePlaces.length} of {sortedPlaces.length} places in the current viewport.</div>
+            {/if}
+
+            <div class="list-stack">
+              {#each visiblePlaces as place (place.id)}
+                <PlaceCard
+                  {place}
+                  imageUrl={details[place.id]?.imageUrl ?? null}
+                  selected={place.id === selectedPlaceId}
+                  on:select={() => handlePlaceSelect(place.id)}
+                  on:directions={() => openDirections(place)}
+                  on:reserve={() => openReserve(place)}
+                />
+              {/each}
+            </div>
+          {/if}
+        {/if}
+      </BottomSheet>
+    </section>
+  {:else}
+    <BottomSheet bind:snap={sheetSnap} title={filterOpen ? 'Filters' : detailOpen ? 'Place details' : 'Places'}>
+      {#if filterOpen}
+        <div class="sheet-header">
+          <div>
+            <p class="eyebrow">Refine</p>
+            <h1>Filters</h1>
+            <p class="sheet-summary">{filterSummary}</p>
+          </div>
+          <button type="button" class="ghost-chip" on:click={closeFilters}>Done</button>
         </div>
 
-        {#if detailOpen && DetailSheetComponent}
+        <section class="filter-section">
+          <div class="section-heading">
+            <h3>Availability</h3>
+          </div>
+          <div class="token-wrap">
+            <button type="button" class:active={activeFilters.openNow} on:click={() => (activeFilters = { ...activeFilters, openNow: !activeFilters.openNow })}>
+              Open now
+            </button>
+            <button
+              type="button"
+              class:active={activeFilters.closingSoon}
+              on:click={() => (activeFilters = { ...activeFilters, closingSoon: !activeFilters.closingSoon })}
+            >
+              Closing soon
+            </button>
+          </div>
+        </section>
+
+        <section class="filter-section">
+          <div class="section-heading">
+            <h3>Walk time</h3>
+          </div>
+          <div class="token-wrap">
+            {#each WALK_MINUTE_OPTIONS as minutes}
+              <button type="button" class:active={activeFilters.maxWalkMinutes === minutes} on:click={() => setWalkMinutes(minutes)}>
+                &lt;= {minutes} min
+              </button>
+            {/each}
+          </div>
+        </section>
+
+        <section class="filter-section">
+          <div class="section-heading">
+            <h3>Price</h3>
+          </div>
+          <div class="token-wrap">
+            {#each PRICE_BANDS as band}
+              <button type="button" class:active={activeFilters.priceBands.includes(band)} on:click={() => togglePriceBand(band)}>
+                <span class="filter-token">
+                  <strong>{band}</strong>
+                  <small>{formatPriceRange(band)}</small>
+                </span>
+              </button>
+            {/each}
+          </div>
+        </section>
+
+        <section class="filter-section">
+          <div class="section-heading">
+            <h3>Cuisine</h3>
+          </div>
+          <div class="token-wrap token-wrap-categories">
+            {#each availableCategories as category}
+              <button type="button" class:active={activeFilters.categoryKeys.includes(category.key)} on:click={() => toggleCategory(category.key)}>
+                {category.label}
+              </button>
+            {/each}
+          </div>
+        </section>
+
+        <div class="filter-footer">
+          <button type="button" class="ghost-chip" on:click={clearFilters}>Clear all</button>
+          <button type="button" class="primary-button" on:click={closeFilters}>Show {sortedPlaces.length} places</button>
+        </div>
+      {:else if detailOpen && DetailSheetComponent}
+        {#if selectedDetail}
           <svelte:component
             this={DetailSheetComponent}
             detail={selectedDetail}
@@ -584,8 +760,68 @@
               if (place) openReserve(place);
             }}
           />
-        {:else if $summaryQuery.isLoading}
-          {#each Array.from({ length: 6 }) as _, index (index)}
+        {:else}
+          <div class="empty-state">
+            <h3>Loading details</h3>
+            <p>Restaurant detail is being prepared.</p>
+          </div>
+        {/if}
+      {:else}
+        <div class="sheet-header">
+          <div>
+            <p class="eyebrow">{sortedPlaces.length} places in view</p>
+            <h1>Restaurants nearby</h1>
+            <p class="sheet-summary">{filterSummary}</p>
+          </div>
+          <button type="button" class="ghost-chip" on:click={openFilters}>
+            Filters{#if activeFilterCount > 0} {activeFilterCount}{/if}
+          </button>
+        </div>
+
+        {#if selectedPlace}
+          <button type="button" class="selection-hero" on:click={openDetail}>
+            <div class="selection-media">
+              {#if selectedDetail?.imageUrl}
+                <img src={selectedDetail.imageUrl} alt={selectedPlace.nameEn ?? selectedPlace.nameJp ?? 'Restaurant'} loading="lazy" />
+              {:else}
+                <div class="selection-placeholder">Selected place</div>
+              {/if}
+            </div>
+
+            <div class="selection-copy">
+              <div class="selection-topline">
+                <span class={`status-pill ${selectedPlace.status.state}`}>{selectedPlace.status.label}</span>
+                <span>{selectedPlace.walkMinutes} min walk</span>
+              </div>
+              <h2>{selectedPlace.nameEn ?? selectedPlace.nameJp}</h2>
+              <p>{selectedPlace.category.label} · {selectedPlace.station ?? selectedPlace.area ?? 'Japan'}</p>
+              <div class="selection-metrics">
+                <span>Tabelog {selectedPlace.tabelog.score ?? '-'}</span>
+                <span>{formatPriceBand(selectedPlace.priceBand, selectedPlace.priceBucket)}</span>
+                <span>{formatDistance(selectedPlace.distanceMeters)}</span>
+              </div>
+              <small>{selectedPlace.status.detail}</small>
+            </div>
+
+            <span class="selection-cta">View</span>
+          </button>
+        {/if}
+
+        <div class="segment-row segment-row-mobile">
+          <button type="button" class:active={sortKey === 'best'} on:click={() => (sortKey = 'best')}>Best nearby</button>
+          <button type="button" class:active={sortKey === 'distance'} on:click={() => (sortKey = 'distance')}>Nearest</button>
+          <button
+            type="button"
+            aria-label={priceSortAriaLabel()}
+            class:active={sortKey === 'priceAsc' || sortKey === 'priceDesc'}
+            on:click={togglePriceSort}
+          >
+            Price <span aria-hidden="true">{#if sortKey === 'priceDesc'}v{:else}^{/if}</span>
+          </button>
+        </div>
+
+        {#if $summaryQuery.isLoading}
+          {#each Array.from({ length: 4 }) as _, index (index)}
             <div class="skeleton" aria-hidden="true"></div>
           {/each}
         {:else if !sortedPlaces.length}
@@ -597,94 +833,20 @@
           {#if sortedPlaces.length > visiblePlaces.length}
             <div class="result-limit">Showing {visiblePlaces.length} of {sortedPlaces.length} places in the current viewport.</div>
           {/if}
+
           <div class="list-stack">
-            {#each visiblePlaces as place (place.id)}
+            {#each mobileListPlaces as place (place.id)}
               <PlaceCard
                 {place}
                 imageUrl={details[place.id]?.imageUrl ?? null}
                 selected={place.id === selectedPlaceId}
-                on:select={() => {
-                  if (selectedPlaceId === place.id) {
-                    detailOpen = true;
-                  }
-                  selectPlace(place.id);
-                }}
+                on:select={() => handlePlaceSelect(place.id)}
                 on:directions={() => openDirections(place)}
                 on:reserve={() => openReserve(place)}
               />
             {/each}
           </div>
         {/if}
-      </BottomSheet>
-    </section>
-  {:else}
-    <BottomSheet bind:snap={sheetSnap} title="Places">
-      <div class="sheet-header">
-        <div>
-          <p class="eyebrow">{sortedPlaces.length} places in view</p>
-          <h1>Restaurants in the current map view</h1>
-        </div>
-        <button type="button" class="ghost-chip" on:click={() => (detailOpen = !detailOpen)}>{detailOpen ? 'List' : 'Detail'}</button>
-      </div>
-
-      <div class="segment-row segment-row-mobile">
-        <button type="button" class:active={sortKey === 'best'} on:click={() => (sortKey = 'best')}>Best nearby</button>
-        <button type="button" class:active={sortKey === 'distance'} on:click={() => (sortKey = 'distance')}>Distance</button>
-        <button
-          type="button"
-          aria-label={priceSortAriaLabel()}
-          class:active={sortKey === 'priceAsc' || sortKey === 'priceDesc'}
-          on:click={togglePriceSort}
-        >
-          Price <span aria-hidden="true">{#if sortKey === 'priceDesc'}&darr;{:else}&uarr;{/if}</span>
-        </button>
-      </div>
-
-      {#if detailOpen && DetailSheetComponent}
-        <svelte:component
-          this={DetailSheetComponent}
-          detail={selectedDetail}
-          status={selectedPlace?.status ?? null}
-          on:close={() => (detailOpen = false)}
-          on:directions={(event) => {
-            const place = sortedPlaces.find((item) => item.id === event.detail.id);
-            if (place) openDirections(place);
-          }}
-          on:reserve={(event) => {
-            const place = sortedPlaces.find((item) => item.id === event.detail.id);
-            if (place) openReserve(place);
-          }}
-        />
-      {:else if $summaryQuery.isLoading}
-        {#each Array.from({ length: 4 }) as _, index (index)}
-          <div class="skeleton" aria-hidden="true"></div>
-        {/each}
-      {:else if !sortedPlaces.length}
-        <div class="empty-state">
-          <h3>No places in this view</h3>
-          <p>Pan, zoom, or search to another area in Japan.</p>
-        </div>
-      {:else}
-        {#if sortedPlaces.length > visiblePlaces.length}
-          <div class="result-limit">Showing {visiblePlaces.length} of {sortedPlaces.length} places in the current viewport.</div>
-        {/if}
-        <div class="list-stack">
-          {#each visiblePlaces as place (place.id)}
-            <PlaceCard
-              {place}
-              imageUrl={details[place.id]?.imageUrl ?? null}
-              selected={place.id === selectedPlaceId}
-              on:select={() => {
-                if (selectedPlaceId === place.id) {
-                  detailOpen = true;
-                }
-                selectPlace(place.id);
-              }}
-              on:directions={() => openDirections(place)}
-              on:reserve={() => openReserve(place)}
-            />
-          {/each}
-        </div>
       {/if}
     </BottomSheet>
   {/if}
@@ -699,7 +861,7 @@
 
   .app-shell.desktop {
     display: grid;
-    grid-template-columns: minmax(360px, 430px) 1fr;
+    grid-template-columns: minmax(380px, 430px) 1fr;
   }
 
   .map-region {
@@ -718,8 +880,8 @@
     position: absolute;
     inset: 0;
     background:
-      linear-gradient(180deg, rgba(246, 241, 232, 0.48) 0%, rgba(246, 241, 232, 0) 28%),
-      linear-gradient(0deg, rgba(246, 241, 232, 0.58) 0%, rgba(246, 241, 232, 0) 32%);
+      linear-gradient(180deg, rgba(247, 246, 243, 0.24) 0%, rgba(247, 246, 243, 0) 18%),
+      linear-gradient(0deg, rgba(247, 246, 243, 0.14) 0%, rgba(247, 246, 243, 0) 20%);
     pointer-events: none;
     z-index: 2;
   }
@@ -734,31 +896,32 @@
   }
 
   .top-chrome,
-  .chip-row,
-  .redo-chip,
-  .chip-panel {
+  .viewport-chip,
+  .floating-panel,
+  .panel-scrim {
     position: absolute;
     z-index: 24;
   }
 
   .top-chrome {
-    top: calc(16px + env(safe-area-inset-top));
-    left: 16px;
-    right: 16px;
+    top: calc(14px + env(safe-area-inset-top));
+    left: 14px;
+    right: 14px;
     display: flex;
     gap: 10px;
+    align-items: start;
   }
 
   .search-pill,
   .icon-button,
-  .chip-row button,
   .ghost-chip,
   .token-wrap button,
   .segment-row button,
-  .result-row {
+  .result-row,
+  .primary-button {
     border: 0;
     border-radius: 999px;
-    background: rgba(246, 241, 232, 0.92);
+    background: rgba(255, 255, 255, 0.88);
     color: var(--ink);
     box-shadow: var(--shadow-soft);
   }
@@ -766,24 +929,42 @@
   .search-pill {
     flex: 1 1 auto;
     min-width: 0;
-    padding: 14px 18px;
+    display: grid;
+    gap: 2px;
     text-align: left;
-    font-weight: 600;
+    padding: 14px 16px;
+    backdrop-filter: blur(12px);
+  }
+
+  .search-pill-title {
+    font-weight: 700;
+  }
+
+  .search-pill small {
+    color: var(--ink-soft);
+    font-size: 0.78rem;
+  }
+
+  .top-actions {
+    display: flex;
+    gap: 10px;
   }
 
   .icon-button {
-    padding: 14px 16px;
-    white-space: nowrap;
-  }
-
-  .icon-button-square {
-    flex: 0 0 auto;
-    width: 52px;
-    height: 52px;
+    min-height: 52px;
+    padding: 0 16px;
     display: inline-flex;
     align-items: center;
     justify-content: center;
+    gap: 8px;
+    font-weight: 600;
+    backdrop-filter: blur(12px);
+  }
+
+  .icon-button-square {
+    width: 52px;
     padding: 0;
+    flex: 0 0 auto;
   }
 
   .icon-button svg {
@@ -792,38 +973,107 @@
     fill: currentColor;
   }
 
-  .chip-row {
-    left: 16px;
-    right: 16px;
-    bottom: calc(212px + env(safe-area-inset-bottom));
-    display: flex;
-    gap: 8px;
-    overflow-x: auto;
-    scrollbar-width: none;
-    padding-bottom: 4px;
-  }
-
-  .chip-row::-webkit-scrollbar {
-    display: none;
-  }
-
-  .chip-row button,
-  .token-wrap button,
-  .segment-row button {
-    padding: 11px 14px;
-    white-space: nowrap;
-  }
-
-  .chip-row button.active,
-  .token-wrap button.active,
-  .segment-row button.active {
+  .filter-button strong {
+    min-width: 24px;
+    height: 24px;
+    border-radius: 999px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
     background: var(--ink);
-    color: #f6f1e8;
+    color: #f8f7f4;
+    font-size: 0.76rem;
+  }
+
+  .viewport-chip {
+    top: calc(82px + env(safe-area-inset-top));
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 11px 16px;
+    border: 0;
+    border-radius: 999px;
+    background: #17191c;
+    color: #f8f7f4;
+    box-shadow: var(--shadow-strong);
+  }
+
+  .panel-scrim {
+    inset: 0;
+    border: 0;
+    background: rgba(17, 24, 39, 0.16);
+  }
+
+  .floating-panel {
+    left: 14px;
+    right: 14px;
+    top: calc(78px + env(safe-area-inset-top));
+    background: rgba(247, 246, 243, 0.96);
+    backdrop-filter: blur(18px);
+    border-radius: 28px;
+    box-shadow: var(--shadow-strong);
+    padding: 16px;
+    display: grid;
+    gap: 16px;
+    border: 1px solid rgba(255, 255, 255, 0.7);
+    z-index: 30;
+  }
+
+  .search-panel {
+    max-height: min(72vh, 720px);
+    overflow: auto;
+  }
+
+  .filter-panel {
+    width: min(420px, calc(100vw - 28px));
+    right: auto;
+    max-height: min(78vh, 760px);
+    overflow: auto;
+  }
+
+  .panel-header,
+  .sheet-header,
+  .section-heading,
+  .filter-footer {
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+    align-items: center;
+  }
+
+  .sheet-header {
+    align-items: start;
+    margin-bottom: 14px;
+  }
+
+  .sheet-header h1,
+  .panel-header h2,
+  .section-heading h3 {
+    margin: 0;
+  }
+
+  .sheet-header h1 {
+    font-size: clamp(1.18rem, 3vw, 1.6rem);
+    line-height: 1.08;
+  }
+
+  .sheet-summary,
+  .filter-summary {
+    margin: 6px 0 0;
+    color: var(--ink-soft);
+  }
+
+  .eyebrow {
+    margin: 0 0 6px;
+    color: rgba(23, 25, 28, 0.56);
+    font-size: 0.76rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
   }
 
   .ghost-chip {
     padding: 11px 14px;
-    background: rgba(31, 42, 47, 0.08);
+    background: rgba(23, 25, 28, 0.08);
+    box-shadow: none;
   }
 
   .ghost-chip-icon {
@@ -837,104 +1087,50 @@
     line-height: 1;
   }
 
-  .chip-panel {
-    bottom: calc(266px + env(safe-area-inset-bottom));
-    width: min(340px, calc(100vw - 32px));
-    max-height: min(42vh, 360px);
-    overflow: auto;
-    background: var(--panel-bg);
-    border-radius: 22px;
-    box-shadow: var(--shadow-strong);
-    padding: 14px;
-    display: grid;
-    gap: 12px;
+  .primary-button {
+    padding: 12px 16px;
+    background: #17191c;
+    color: #f8f7f4;
+    font-weight: 600;
   }
 
-  .chip-panel-left {
-    left: 16px;
-  }
-
-  .chip-panel-right {
-    right: 16px;
-  }
-
-  .chip-panel-header,
-  .panel-header,
-  .sheet-header {
-    display: flex;
-    justify-content: space-between;
-    gap: 12px;
-    align-items: center;
-  }
-
-  .redo-chip {
-    left: 50%;
-    transform: translateX(-50%);
-    bottom: calc(290px + env(safe-area-inset-bottom));
-    padding: 11px 16px;
+  .text-button {
     border: 0;
-    border-radius: 999px;
-    background: var(--ink);
-    color: #f6f1e8;
-    box-shadow: var(--shadow-strong);
-  }
-
-  .floating-panel {
-    position: absolute;
-    z-index: 30;
-    top: calc(72px + env(safe-area-inset-top));
-    left: 16px;
-    right: 16px;
-    background: var(--panel-bg);
-    border-radius: 24px;
-    box-shadow: var(--shadow-strong);
-    padding: 16px;
-    display: grid;
-    gap: 14px;
-    border: 1px solid var(--line);
-  }
-
-  .search-panel {
-    max-height: min(72vh, 680px);
-    overflow: auto;
-  }
-
-  .sheet-header {
-    align-items: start;
-    margin-bottom: 14px;
-  }
-
-  .sheet-header h1,
-  .panel-header h2,
-  .chip-panel-header h2 {
-    margin: 0;
-  }
-
-  .sheet-header h1 {
-    font-size: clamp(1.2rem, 2.6vw, 1.7rem);
-    line-height: 1.05;
-  }
-
-  .eyebrow {
-    margin: 0 0 6px;
+    background: transparent;
     color: var(--ink-soft);
-    font-size: 0.82rem;
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
+    font: inherit;
+    padding: 0;
   }
 
   .panel-section,
+  .filter-section,
   .search-results,
-  .token-wrap,
-  .segment-row,
-  .list-stack {
+  .list-stack,
+  .segment-row {
     display: grid;
-    gap: 10px;
+    gap: 12px;
   }
 
   .token-wrap {
     display: flex;
     flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  .token-wrap button,
+  .segment-row button {
+    padding: 12px 14px;
+    white-space: nowrap;
+  }
+
+  .token-wrap button.active,
+  .segment-row button.active {
+    background: #17191c;
+    color: #f8f7f4;
+  }
+
+  .token-wrap-categories button {
+    max-width: 100%;
   }
 
   .filter-token {
@@ -950,25 +1146,107 @@
   }
 
   .filter-token small {
-    color: rgba(31, 42, 47, 0.66);
+    color: rgba(23, 25, 28, 0.58);
     font-size: 0.78rem;
   }
 
   .token-wrap button.active .filter-token small {
-    color: rgba(246, 241, 232, 0.82);
+    color: rgba(248, 247, 244, 0.84);
   }
 
   .segment-row {
     display: flex;
     flex-wrap: wrap;
-  }
-
-  .segment-row-mobile {
     margin-bottom: 14px;
   }
 
-  .search-results {
+  .selection-hero {
+    width: 100%;
+    padding: 0;
+    border: 0;
+    border-radius: 24px;
+    background: rgba(255, 255, 255, 0.9);
+    box-shadow: 0 18px 36px rgba(17, 24, 39, 0.08);
+    overflow: hidden;
+    text-align: left;
+    display: grid;
+    grid-template-columns: 108px 1fr auto;
+    gap: 0;
+    margin-bottom: 14px;
+  }
+
+  .selection-media {
+    background: linear-gradient(140deg, rgba(23, 25, 28, 0.08), rgba(200, 100, 59, 0.16));
+  }
+
+  .selection-media img,
+  .selection-placeholder {
+    width: 100%;
+    height: 100%;
+    min-height: 132px;
+    object-fit: cover;
+    display: grid;
+    place-items: center;
+    color: rgba(23, 25, 28, 0.56);
+  }
+
+  .selection-copy {
+    padding: 14px 14px 14px 0;
+    display: grid;
     gap: 8px;
+  }
+
+  .selection-copy h2,
+  .selection-copy p,
+  .selection-copy small {
+    margin: 0;
+  }
+
+  .selection-copy p,
+  .selection-copy small,
+  .selection-metrics span {
+    color: var(--ink-soft);
+  }
+
+  .selection-topline,
+  .selection-metrics {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 10px;
+    align-items: center;
+    font-size: 0.84rem;
+  }
+
+  .selection-cta {
+    display: inline-flex;
+    align-items: center;
+    padding: 16px 14px 0 0;
+    color: #17191c;
+    font-weight: 600;
+  }
+
+  .status-pill {
+    display: inline-flex;
+    align-items: center;
+    border-radius: 999px;
+    padding: 6px 10px;
+    font-size: 0.82rem;
+    font-weight: 700;
+  }
+
+  .status-pill.open {
+    background: rgba(47, 125, 87, 0.12);
+    color: #20583d;
+  }
+
+  .status-pill.closingSoon {
+    background: rgba(200, 100, 59, 0.14);
+    color: #8b4b30;
+  }
+
+  .status-pill.closed {
+    background: rgba(107, 114, 128, 0.14);
+    color: #5a6270;
   }
 
   .result-row {
@@ -984,7 +1262,7 @@
   .empty-state,
   .skeleton {
     border-radius: 18px;
-    background: rgba(255, 255, 255, 0.76);
+    background: rgba(255, 255, 255, 0.8);
     border: 1px solid var(--line);
   }
 
@@ -1005,23 +1283,19 @@
     margin: 0;
   }
 
-  .list-stack {
-    display: grid;
-  }
-
   input[type='search'] {
     width: 100%;
     border: 1px solid var(--line);
     border-radius: 18px;
     padding: 14px 16px;
-    background: rgba(255, 255, 255, 0.84);
+    background: rgba(255, 255, 255, 0.9);
     color: var(--ink);
   }
 
   .skeleton {
     height: 154px;
     background:
-      linear-gradient(90deg, rgba(31, 42, 47, 0.05), rgba(31, 42, 47, 0.12), rgba(31, 42, 47, 0.05));
+      linear-gradient(90deg, rgba(23, 25, 28, 0.05), rgba(23, 25, 28, 0.12), rgba(23, 25, 28, 0.05));
     background-size: 200% 100%;
     animation: shimmer 1.2s linear infinite;
   }
@@ -1030,6 +1304,7 @@
     from {
       background-position: 0% 0;
     }
+
     to {
       background-position: -200% 0;
     }
@@ -1040,58 +1315,65 @@
       order: 2;
     }
 
-    .chip-row {
-      bottom: calc(32px + env(safe-area-inset-bottom));
-      right: 24px;
+    .top-chrome {
       left: 24px;
+      right: 24px;
+      top: calc(18px + env(safe-area-inset-top));
     }
 
-    .chip-panel {
-      bottom: calc(94px + env(safe-area-inset-bottom));
-      max-height: min(48vh, 420px);
-    }
-
-    .redo-chip {
-      bottom: calc(110px + env(safe-area-inset-bottom));
+    .viewport-chip {
+      top: calc(90px + env(safe-area-inset-top));
     }
 
     .floating-panel {
       left: 24px;
       right: auto;
-      width: min(460px, calc(100vw - 40px));
     }
   }
 
   @media (max-width: 640px) {
     .top-chrome {
       gap: 8px;
+      left: 12px;
+      right: 12px;
     }
 
-    .chip-row {
-      bottom: calc(196px + env(safe-area-inset-bottom));
-      flex-wrap: wrap;
-      overflow: visible;
+    .top-actions {
+      gap: 8px;
     }
 
-    .chip-row button {
-      flex: 1 1 calc(50% - 4px);
-      text-align: center;
+    .filter-button {
+      min-width: 52px;
+      padding: 0 14px;
     }
 
-    .chip-panel {
-      bottom: calc(318px + env(safe-area-inset-bottom));
-      width: calc(100vw - 32px);
-    }
-
-    .redo-chip {
-      bottom: calc(344px + env(safe-area-inset-bottom));
+    .filter-button span {
+      display: none;
     }
 
     .floating-panel {
-      top: calc(68px + env(safe-area-inset-top));
       left: 12px;
       right: 12px;
+      top: calc(74px + env(safe-area-inset-top));
       padding: 14px;
+    }
+
+    .selection-hero {
+      grid-template-columns: 92px 1fr auto;
+    }
+
+    .selection-media img,
+    .selection-placeholder {
+      min-height: 124px;
+    }
+
+    .selection-copy {
+      padding-right: 10px;
+    }
+
+    .selection-cta {
+      padding-right: 12px;
+      font-size: 0.84rem;
     }
   }
 </style>

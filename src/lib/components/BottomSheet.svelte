@@ -13,18 +13,17 @@
   let dragStart = 0;
   let startTop = 0;
   let currentTop = 0;
-
   function snapTop(next: SheetSnap) {
     if (desktop) {
       return 0;
     }
     if (next === 'peek') {
-      return Math.max(120, innerHeight - 164);
+      return Math.max(96, innerHeight - 214);
     }
     if (next === 'mid') {
-      return Math.max(84, innerHeight * 0.42);
+      return Math.max(72, innerHeight * 0.4);
     }
-    return 72;
+    return 48;
   }
 
   function applySnap(next: SheetSnap) {
@@ -38,6 +37,7 @@
       return;
     }
 
+    (event.currentTarget as HTMLElement | null)?.setPointerCapture(event.pointerId);
     dragging = true;
     dragStart = event.clientY;
     startTop = currentTop;
@@ -78,6 +78,9 @@
 
 <section
   class:desktop
+  class:snap-peek={snap === 'peek'}
+  class:snap-mid={snap === 'mid'}
+  class:snap-full={snap === 'full'}
   class="sheet"
   style={!desktop ? `transform: translateY(${currentTop}px);` : undefined}
   aria-label={title}
@@ -101,14 +104,16 @@
     position: absolute;
     inset: 0 0 auto 0;
     height: calc(100% - 12px);
-    background: rgba(246, 241, 232, 0.98);
+    background: color-mix(in srgb, var(--sheet-bg) 90%, white 10%);
+    backdrop-filter: blur(18px);
     border-radius: 28px 28px 0 0;
-    box-shadow: 0 -18px 56px rgba(31, 42, 47, 0.2);
-    transition: transform 220ms ease;
+    box-shadow: 0 -20px 52px rgba(17, 24, 39, 0.16);
+    transition: transform 220ms ease, border-radius 220ms ease;
     will-change: transform;
     display: flex;
     flex-direction: column;
     z-index: 18;
+    border-top: 1px solid rgba(255, 255, 255, 0.65);
   }
 
   .sheet.desktop {
@@ -123,19 +128,19 @@
   .sheet-handle {
     display: grid;
     place-items: center;
-    height: 32px;
-    padding-top: 6px;
+    height: 34px;
+    padding-top: 8px;
     background: transparent;
     border: 0;
     cursor: grab;
-    touch-action: none;
+    touch-action: pan-y;
   }
 
   .sheet-handle span {
-    width: 48px;
+    width: 44px;
     height: 5px;
     border-radius: 999px;
-    background: rgba(31, 42, 47, 0.16);
+    background: rgba(23, 25, 28, 0.16);
   }
 
   .sheet-inner {
@@ -144,6 +149,10 @@
     overflow: auto;
     -webkit-overflow-scrolling: touch;
     overscroll-behavior: contain;
-    padding: 0 16px calc(24px + env(safe-area-inset-bottom));
+    padding: 0 16px calc(26px + env(safe-area-inset-bottom));
+  }
+
+  .sheet.snap-full {
+    border-radius: 24px 24px 0 0;
   }
 </style>

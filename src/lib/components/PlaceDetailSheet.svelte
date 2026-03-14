@@ -30,10 +30,10 @@
       <div>
         <p class="eyebrow">{detail.category.label}</p>
         <h2>{detail.nameEn ?? detail.nameJp}</h2>
-        <p class="secondary">{detail.nameJp ?? detail.nameEn}</p>
+        <p class="secondary">{detail.station ?? detail.area ?? detail.address ?? 'Japan'}</p>
       </div>
       <button type="button" class="ghost ghost-icon" aria-label="Close details" on:click={() => dispatch('close')}>
-        <span aria-hidden="true">&times;</span>
+        <span aria-hidden="true">×</span>
       </button>
     </div>
 
@@ -45,29 +45,21 @@
       {/if}
     </div>
 
-    <div class="detail-grid">
-      <section class="panel">
-        <div class="panel-head">
-          <span class={`status-pill ${status.state}`}>{status.label}</span>
-          <span>{status.detail}</span>
-        </div>
-        <p class="quiet">{formatRelativeUpdate(detail.freshnessUpdatedAt)} · Confidence {detail.hoursConfidence}</p>
-        <div class="timeline">
-          {#each dayLabels as [key, label]}
-            <div class="timeline-row">
-              <span>{label}</span>
-              <strong>
-                {#if detail.weeklyTimeline[key].length}
-                  {detail.weeklyTimeline[key].map((window) => `${window.open} - ${window.close}`).join(' · ')}
-                {:else}
-                  Closed
-                {/if}
-              </strong>
-            </div>
-          {/each}
-        </div>
-      </section>
+    <section class="hero-meta panel">
+      <div class="panel-head">
+        <span class={`status-pill ${status.state}`}>{status.label}</span>
+        <span>{status.detail}</span>
+      </div>
+      <p class="quiet">{formatRelativeUpdate(detail.freshnessUpdatedAt)} · Hours confidence {detail.hoursConfidence}</p>
+      <div class="button-row">
+        <button type="button" on:click={() => dispatch('directions', { id: detail.id })}>Directions</button>
+        <button type="button" class:muted={!detail.reserveUrl} disabled={!detail.reserveUrl} on:click={() => dispatch('reserve', { id: detail.id })}>
+          Reserve
+        </button>
+      </div>
+    </section>
 
+    <div class="detail-grid">
       <section class="panel">
         <h3>Ratings</h3>
         <div class="rating-grid">
@@ -86,13 +78,27 @@
 
       <section class="panel">
         <h3>Location</h3>
-        <p>{detail.station ?? 'Area'} · {detail.area ?? detail.address}</p>
-        <p class="quiet">{detail.address}</p>
-        <div class="button-row">
-          <button type="button" on:click={() => dispatch('directions', { id: detail.id })}>Directions</button>
-          <button type="button" class:muted={!detail.reserveUrl} disabled={!detail.reserveUrl} on:click={() => dispatch('reserve', { id: detail.id })}>
-            Reserve
-          </button>
+        <p>{detail.address ?? detail.area ?? 'Address unavailable'}</p>
+        {#if detail.mustOrder}
+          <p class="quiet">Signature: {detail.mustOrder}</p>
+        {/if}
+      </section>
+
+      <section class="panel">
+        <h3>Hours</h3>
+        <div class="timeline">
+          {#each dayLabels as [key, label]}
+            <div class="timeline-row">
+              <span>{label}</span>
+              <strong>
+                {#if detail.weeklyTimeline[key].length}
+                  {detail.weeklyTimeline[key].map((window) => `${window.open} - ${window.close}`).join(' · ')}
+                {:else}
+                  Closed
+                {/if}
+              </strong>
+            </div>
+          {/each}
         </div>
       </section>
     </div>
@@ -101,14 +107,9 @@
 
 <style>
   .detail {
-    position: absolute;
-    inset: 0;
-    background: rgba(246, 241, 232, 0.98);
-    z-index: 25;
-    overflow: auto;
-    padding: 18px 16px calc(28px + env(safe-area-inset-bottom));
     display: grid;
     gap: 16px;
+    padding-bottom: 8px;
   }
 
   .detail-header,
@@ -117,11 +118,14 @@
     display: flex;
     justify-content: space-between;
     gap: 12px;
+    align-items: start;
   }
 
-  .detail-grid {
+  .detail-grid,
+  .rating-grid,
+  .timeline {
     display: grid;
-    gap: 16px;
+    gap: 14px;
   }
 
   .eyebrow,
@@ -131,7 +135,7 @@
   .timeline-row strong,
   .rating-card span,
   .rating-card small {
-    color: rgba(31, 42, 47, 0.7);
+    color: rgba(23, 25, 28, 0.68);
   }
 
   h2,
@@ -143,26 +147,21 @@
   .hero img,
   .placeholder {
     width: 100%;
-    aspect-ratio: 1.6;
+    aspect-ratio: 1.75;
     border-radius: 24px;
     object-fit: cover;
-    background: linear-gradient(135deg, rgba(31, 42, 47, 0.08), rgba(201, 112, 51, 0.16));
+    background: linear-gradient(140deg, rgba(23, 25, 28, 0.08), rgba(200, 100, 59, 0.14));
     display: grid;
     place-items: center;
   }
 
   .panel {
     background: rgba(255, 255, 255, 0.88);
-    border-radius: 22px;
+    border-radius: 24px;
     padding: 16px;
     display: grid;
     gap: 12px;
-    border: 1px solid rgba(31, 42, 47, 0.08);
-  }
-
-  .timeline {
-    display: grid;
-    gap: 8px;
+    border: 1px solid rgba(23, 25, 28, 0.08);
   }
 
   .timeline-row {
@@ -181,23 +180,18 @@
   }
 
   .status-pill.open {
-    background: rgba(61, 140, 89, 0.14);
-    color: #215337;
+    background: rgba(47, 125, 87, 0.12);
+    color: #20583d;
   }
 
   .status-pill.closingSoon {
-    background: rgba(201, 112, 51, 0.14);
-    color: #8d4d21;
+    background: rgba(200, 100, 59, 0.14);
+    color: #8b4b30;
   }
 
   .status-pill.closed {
-    background: rgba(123, 123, 116, 0.14);
-    color: #62625e;
-  }
-
-  .rating-grid {
-    display: grid;
-    gap: 12px;
+    background: rgba(107, 114, 128, 0.14);
+    color: #5a6270;
   }
 
   .rating-card {
@@ -212,35 +206,36 @@
   }
 
   .rating-card.tabelog {
-    background: rgba(201, 112, 51, 0.14);
+    background: rgba(200, 100, 59, 0.12);
   }
 
   .rating-card.google {
-    background: rgba(61, 140, 89, 0.14);
+    background: rgba(47, 125, 87, 0.1);
   }
 
   .button-row button,
   .ghost {
-    border-radius: 14px;
+    border-radius: 16px;
     border: 0;
-    padding: 11px 12px;
+    padding: 12px 14px;
     font: inherit;
   }
 
   .button-row button {
     flex: 1 1 0;
-    background: #1f2a2f;
-    color: #f6f1e8;
+    background: #17191c;
+    color: #f8f7f4;
+    font-weight: 600;
   }
 
   .button-row button.muted {
-    background: rgba(31, 42, 47, 0.1);
-    color: rgba(31, 42, 47, 0.44);
+    background: rgba(23, 25, 28, 0.08);
+    color: rgba(23, 25, 28, 0.44);
   }
 
   .ghost {
-    background: rgba(31, 42, 47, 0.08);
-    color: #1f2a2f;
+    background: rgba(23, 25, 28, 0.08);
+    color: #17191c;
   }
 
   .ghost-icon {
