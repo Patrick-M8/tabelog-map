@@ -1,7 +1,7 @@
 export type HoursConfidence = 'low' | 'medium' | 'high';
 export type ConsensusGrade = 'A' | 'B' | 'C' | 'D' | 'E';
 export type SheetSnap = 'peek' | 'mid' | 'full';
-export type SortKey = 'best' | 'closingSoon' | 'distance' | 'price';
+export type SortKey = 'best' | 'closingSoon' | 'distance' | 'priceAsc' | 'priceDesc';
 
 export interface DailyWindow {
   open: string;

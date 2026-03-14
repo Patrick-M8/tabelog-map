@@ -32,7 +32,9 @@
         <h2>{detail.nameEn ?? detail.nameJp}</h2>
         <p class="secondary">{detail.nameJp ?? detail.nameEn}</p>
       </div>
-      <button type="button" class="ghost" on:click={() => dispatch('close')}>Close</button>
+      <button type="button" class="ghost ghost-icon" aria-label="Close details" on:click={() => dispatch('close')}>
+        <span aria-hidden="true">&times;</span>
+      </button>
     </div>
 
     <div class="hero">
@@ -239,5 +241,16 @@
   .ghost {
     background: rgba(31, 42, 47, 0.08);
     color: #1f2a2f;
+  }
+
+  .ghost-icon {
+    width: 42px;
+    height: 42px;
+    padding: 0;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.3rem;
+    line-height: 1;
   }
 </style>

@@ -68,7 +68,18 @@ describe('sortPlaces', () => {
   });
 
   it('sorts by price ascending', () => {
-    const sorted = sortPlaces([makePlace('high', { priceBucket: 4 }), makePlace('low', { priceBucket: 1 })], 'price');
+    const sorted = sortPlaces(
+      [makePlace('high', { priceBucket: 4 }), makePlace('low', { priceBucket: 1 })],
+      'priceAsc'
+    );
     expect(sorted.map((place) => place.id)).toEqual(['low', 'high']);
+  });
+
+  it('sorts by price descending', () => {
+    const sorted = sortPlaces(
+      [makePlace('high', { priceBucket: 4 }), makePlace('low', { priceBucket: 1 })],
+      'priceDesc'
+    );
+    expect(sorted.map((place) => place.id)).toEqual(['high', 'low']);
   });
 });

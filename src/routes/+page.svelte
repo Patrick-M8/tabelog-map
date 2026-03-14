@@ -9,6 +9,7 @@
   import { DEFAULT_CENTER, SEARCH_REDRAW_METERS } from '$lib/config';
   import { loadPlaceDetails, loadPlaceSummary } from '$lib/data/client';
   import type { ActiveFilters, DisplayPlace, PlaceDetail, PlaceSummary, SheetSnap, SortKey } from '$lib/types';
+  import { formatPriceRange, normalizePriceBand } from '$lib/utils/format';
   import { haversineDistanceMeters, isInsideBounds, walkMinutesFromDistance } from '$lib/utils/geo';
   import { derivePlaceStatus } from '$lib/utils/hours';
   import { sortPlaces } from '$lib/utils/sort';
@@ -41,7 +42,8 @@
     categoryKeys: []
   };
 
-  const PRICE_BANDS = ['¥', '¥¥', '¥¥¥', '¥¥¥¥'];
+  const PRICE_BANDS = Array.from({ length: 5 }, (_, index) => '\u00A5'.repeat(index + 1));
+  const WALK_MINUTE_OPTIONS = [5, 10, 15, 30];
   const RECENT_STORAGE_KEY = 'tabemap:recent-searches';
 
   let innerWidth = 390;
@@ -49,6 +51,7 @@
   let sortKey: SortKey = 'best';
   let activeFilters: ActiveFilters = { ...EMPTY_FILTERS };
   let searchOpen = false;
+  let walkMenuOpen = false;
   let categoryMenuOpen = false;
   let priceMenuOpen = false;
   let detailOpen = false;
@@ -108,6 +111,46 @@
 
     recents = [recent, ...recents.filter((entry) => entry.id !== recent.id)].slice(0, 6);
     localStorage.setItem(RECENT_STORAGE_KEY, JSON.stringify(recents));
+  }
+
+  function closeMenus() {
+    walkMenuOpen = false;
+    categoryMenuOpen = false;
+    priceMenuOpen = false;
+  }
+
+  function toggleMenu(menu: 'walk' | 'category' | 'price') {
+    const next = {
+      walk: menu === 'walk' ? !walkMenuOpen : false,
+      category: menu === 'category' ? !categoryMenuOpen : false,
+      price: menu === 'price' ? !priceMenuOpen : false
+    };
+
+    closeMenus();
+    walkMenuOpen = next.walk;
+    categoryMenuOpen = next.category;
+    priceMenuOpen = next.price;
+  }
+
+  function walkFilterAriaLabel() {
+    return activeFilters.maxWalkMinutes ? `Walk time within ${activeFilters.maxWalkMinutes} minutes` : 'Walk time filter';
+  }
+
+  function priceSortAriaLabel() {
+    return sortKey === 'priceDesc' ? 'Price descending' : 'Price ascending';
+    return sortKey === 'priceDesc' ? 'Price ↓' : 'Price ↑';
+  }
+
+  function togglePriceSort() {
+    sortKey = sortKey === 'priceAsc' ? 'priceDesc' : 'priceAsc';
+  }
+
+  function setWalkMinutes(minutes: number) {
+    activeFilters = {
+      ...activeFilters,
+      maxWalkMinutes: activeFilters.maxWalkMinutes === minutes ? null : minutes
+    };
+    walkMenuOpen = false;
   }
 
   function applySearchPlace(place: PlaceSummary) {
@@ -200,18 +243,24 @@
 
   function selectPlace(placeId: string, refocus = true) {
     selectedPlaceId = placeId;
-    const place = candidatePlaces.find((entry) => entry.id === placeId) ?? summaries.find((entry) => entry.id === placeId);
+    const place =
+      candidatePlaces.find((entry) => entry.id === placeId) ?? summaries.find((entry) => entry.id === placeId);
     if (place && refocus) {
       focusTarget = { lat: place.lat, lng: place.lng, zoom: 15, token: randomToken(place.id) };
       sheetSnap = 'mid';
     }
   }
 
-  function recenter() {
+  function useUserLocation() {
     if (userLocation) {
       searchCenter = { ...userLocation };
       mapCenter = { ...userLocation };
       focusTarget = { ...userLocation, zoom: 14.4, token: randomToken('recenter') };
+      return;
+    }
+
+    requestGeolocation();
+    if (!geolocationDenied) {
       return;
     }
 
@@ -263,7 +312,11 @@
     })
     .filter((place) => (activeFilters.openNow ? place.status.state !== 'closed' : true))
     .filter((place) => (activeFilters.maxWalkMinutes ? place.walkMinutes <= activeFilters.maxWalkMinutes : true))
-    .filter((place) => (activeFilters.priceBands.length ? activeFilters.priceBands.includes(place.priceBand ?? '') : true))
+    .filter((place) =>
+      activeFilters.priceBands.length
+        ? activeFilters.priceBands.includes(normalizePriceBand(place.priceBand, place.priceBucket) ?? '')
+        : true
+    )
     .filter((place) => (activeFilters.categoryKeys.length ? activeFilters.categoryKeys.includes(place.category.key) : true));
   $: displayPlaces = candidatePlaces.filter((place) => isInsideBounds({ lat: place.lat, lng: place.lng }, mapBounds));
   $: sortedPlaces = sortPlaces(displayPlaces, sortKey);
@@ -311,10 +364,23 @@
     <div class="map-gradient"></div>
 
     <div class="top-chrome">
-      <button type="button" class="search-pill" on:click={() => (searchOpen = !searchOpen)}>
+      <button
+        type="button"
+        class="search-pill"
+        on:click={() => {
+          searchOpen = !searchOpen;
+          closeMenus();
+        }}
+      >
         {$_('search')}
       </button>
-      <button type="button" class="icon-button" on:click={recenter}>{$_('recenter')}</button>
+      <button type="button" class="icon-button icon-button-square" aria-label="Use my location" on:click={useUserLocation}>
+        <svg viewBox="0 0 24 24" aria-hidden="true">
+          <path
+            d="M12 2a6 6 0 0 0-6 6c0 4.26 6 12 6 12s6-7.74 6-12a6 6 0 0 0-6-6Zm0 8.5A2.5 2.5 0 1 1 12 5a2.5 2.5 0 0 1 0 5.5Z"
+          />
+        </svg>
+      </button>
     </div>
 
     <div class="chip-row">
@@ -323,30 +389,64 @@
       </button>
       <button
         type="button"
-        class:active={activeFilters.maxWalkMinutes === 10}
-        on:click={() => (activeFilters = { ...activeFilters, maxWalkMinutes: activeFilters.maxWalkMinutes === 10 ? null : 10 })}
+        aria-label={walkFilterAriaLabel()}
+        class:active={activeFilters.maxWalkMinutes !== null}
+        on:click={() => toggleMenu('walk')}
       >
-        &lt;= 10 min walk
+        {#if activeFilters.maxWalkMinutes !== null}
+          <span aria-hidden="true">&le; {activeFilters.maxWalkMinutes} min walk</span>
+        {:else}
+          <span aria-hidden="true">&le; walk time</span>
+        {/if}
       </button>
-      <button type="button" class:active={activeFilters.categoryKeys.length > 0} on:click={() => {
-        categoryMenuOpen = !categoryMenuOpen;
-        priceMenuOpen = false;
-      }}>
+      <button type="button" class:active={activeFilters.categoryKeys.length > 0} on:click={() => toggleMenu('category')}>
         Categories
       </button>
-      <button type="button" class:active={activeFilters.priceBands.length > 0} on:click={() => {
-        priceMenuOpen = !priceMenuOpen;
-        categoryMenuOpen = false;
-      }}>
+      <button type="button" class:active={activeFilters.priceBands.length > 0} on:click={() => toggleMenu('price')}>
         Price
       </button>
     </div>
+
+    {#if walkMenuOpen}
+      <section class="chip-panel chip-panel-left">
+        <div class="chip-panel-header">
+          <h2>Walk time</h2>
+          <button
+            type="button"
+            class="ghost-chip ghost-chip-icon"
+            aria-label="Close walk time filter"
+            on:click={() => (walkMenuOpen = false)}
+          >
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="token-wrap">
+          {#each WALK_MINUTE_OPTIONS as minutes}
+            <button
+              type="button"
+              aria-label={`Walk within ${minutes} minutes`}
+              class:active={activeFilters.maxWalkMinutes === minutes}
+              on:click={() => setWalkMinutes(minutes)}
+            >
+              &le; {minutes} min
+            </button>
+          {/each}
+        </div>
+      </section>
+    {/if}
 
     {#if categoryMenuOpen}
       <section class="chip-panel chip-panel-left">
         <div class="chip-panel-header">
           <h2>Categories</h2>
-          <button type="button" class="ghost-chip" on:click={() => (categoryMenuOpen = false)}>Close</button>
+          <button
+            type="button"
+            class="ghost-chip ghost-chip-icon"
+            aria-label="Close categories filter"
+            on:click={() => (categoryMenuOpen = false)}
+          >
+            <span aria-hidden="true">&times;</span>
+          </button>
         </div>
         <div class="token-wrap">
           {#each availableCategories as category}
@@ -362,12 +462,22 @@
       <section class="chip-panel chip-panel-right">
         <div class="chip-panel-header">
           <h2>Price</h2>
-          <button type="button" class="ghost-chip" on:click={() => (priceMenuOpen = false)}>Close</button>
+          <button
+            type="button"
+            class="ghost-chip ghost-chip-icon"
+            aria-label="Close price filter"
+            on:click={() => (priceMenuOpen = false)}
+          >
+            <span aria-hidden="true">&times;</span>
+          </button>
         </div>
         <div class="token-wrap">
           {#each PRICE_BANDS as band}
             <button type="button" class:active={activeFilters.priceBands.includes(band)} on:click={() => togglePriceBand(band)}>
-              {band}
+              <span class="filter-token">
+                <strong>{band}</strong>
+                <small>{formatPriceRange(band)}</small>
+              </span>
             </button>
           {/each}
         </div>
@@ -391,7 +501,9 @@
       <section class="floating-panel search-panel">
         <div class="panel-header">
           <h2>Search across Japan</h2>
-          <button type="button" class="ghost-chip" on:click={() => (searchOpen = false)}>Close</button>
+          <button type="button" class="ghost-chip ghost-chip-icon" aria-label="Close search" on:click={() => (searchOpen = false)}>
+            <span aria-hidden="true">&times;</span>
+          </button>
         </div>
         <input bind:value={searchInput} type="search" placeholder="Search any restaurant, station, area, or cuisine" />
         {#if recents.length > 0}
@@ -446,7 +558,14 @@
           <div class="segment-row">
             <button type="button" class:active={sortKey === 'best'} on:click={() => (sortKey = 'best')}>Best nearby</button>
             <button type="button" class:active={sortKey === 'distance'} on:click={() => (sortKey = 'distance')}>Distance</button>
-            <button type="button" class:active={sortKey === 'price'} on:click={() => (sortKey = 'price')}>Price</button>
+            <button
+              type="button"
+              aria-label={priceSortAriaLabel()}
+              class:active={sortKey === 'priceAsc' || sortKey === 'priceDesc'}
+              on:click={togglePriceSort}
+            >
+              Price <span aria-hidden="true">{#if sortKey === 'priceDesc'}&darr;{:else}&uarr;{/if}</span>
+            </button>
           </div>
         </div>
 
@@ -482,6 +601,7 @@
             {#each visiblePlaces as place (place.id)}
               <PlaceCard
                 {place}
+                imageUrl={details[place.id]?.imageUrl ?? null}
                 selected={place.id === selectedPlaceId}
                 on:select={() => {
                   if (selectedPlaceId === place.id) {
@@ -510,7 +630,14 @@
       <div class="segment-row segment-row-mobile">
         <button type="button" class:active={sortKey === 'best'} on:click={() => (sortKey = 'best')}>Best nearby</button>
         <button type="button" class:active={sortKey === 'distance'} on:click={() => (sortKey = 'distance')}>Distance</button>
-        <button type="button" class:active={sortKey === 'price'} on:click={() => (sortKey = 'price')}>Price</button>
+        <button
+          type="button"
+          aria-label={priceSortAriaLabel()}
+          class:active={sortKey === 'priceAsc' || sortKey === 'priceDesc'}
+          on:click={togglePriceSort}
+        >
+          Price <span aria-hidden="true">{#if sortKey === 'priceDesc'}&darr;{:else}&uarr;{/if}</span>
+        </button>
       </div>
 
       {#if detailOpen && DetailSheetComponent}
@@ -545,6 +672,7 @@
           {#each visiblePlaces as place (place.id)}
             <PlaceCard
               {place}
+              imageUrl={details[place.id]?.imageUrl ?? null}
               selected={place.id === selectedPlaceId}
               on:select={() => {
                 if (selectedPlaceId === place.id) {
@@ -576,11 +704,13 @@
 
   .map-region {
     position: relative;
+    height: 100%;
     min-height: 0;
   }
 
   .side-panel {
     position: relative;
+    height: 100%;
     min-height: 0;
   }
 
@@ -608,7 +738,7 @@
   .redo-chip,
   .chip-panel {
     position: absolute;
-    z-index: 6;
+    z-index: 24;
   }
 
   .top-chrome {
@@ -635,6 +765,7 @@
 
   .search-pill {
     flex: 1 1 auto;
+    min-width: 0;
     padding: 14px 18px;
     text-align: left;
     font-weight: 600;
@@ -645,6 +776,22 @@
     white-space: nowrap;
   }
 
+  .icon-button-square {
+    flex: 0 0 auto;
+    width: 52px;
+    height: 52px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+  }
+
+  .icon-button svg {
+    width: 22px;
+    height: 22px;
+    fill: currentColor;
+  }
+
   .chip-row {
     left: 16px;
     right: 16px;
@@ -652,7 +799,12 @@
     display: flex;
     gap: 8px;
     overflow-x: auto;
+    scrollbar-width: none;
     padding-bottom: 4px;
+  }
+
+  .chip-row::-webkit-scrollbar {
+    display: none;
   }
 
   .chip-row button,
@@ -674,9 +826,22 @@
     background: rgba(31, 42, 47, 0.08);
   }
 
+  .ghost-chip-icon {
+    width: 42px;
+    height: 42px;
+    padding: 0;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.3rem;
+    line-height: 1;
+  }
+
   .chip-panel {
     bottom: calc(266px + env(safe-area-inset-bottom));
     width: min(340px, calc(100vw - 32px));
+    max-height: min(42vh, 360px);
+    overflow: auto;
     background: var(--panel-bg);
     border-radius: 22px;
     box-shadow: var(--shadow-strong);
@@ -716,7 +881,7 @@
 
   .floating-panel {
     position: absolute;
-    z-index: 10;
+    z-index: 30;
     top: calc(72px + env(safe-area-inset-top));
     left: 16px;
     right: 16px;
@@ -770,6 +935,27 @@
   .token-wrap {
     display: flex;
     flex-wrap: wrap;
+  }
+
+  .filter-token {
+    display: grid;
+    gap: 2px;
+    text-align: left;
+  }
+
+  .filter-token strong,
+  .filter-token small {
+    font: inherit;
+    line-height: 1.2;
+  }
+
+  .filter-token small {
+    color: rgba(31, 42, 47, 0.66);
+    font-size: 0.78rem;
+  }
+
+  .token-wrap button.active .filter-token small {
+    color: rgba(246, 241, 232, 0.82);
   }
 
   .segment-row {
@@ -862,6 +1048,7 @@
 
     .chip-panel {
       bottom: calc(94px + env(safe-area-inset-bottom));
+      max-height: min(48vh, 420px);
     }
 
     .redo-chip {
@@ -872,6 +1059,39 @@
       left: 24px;
       right: auto;
       width: min(460px, calc(100vw - 40px));
+    }
+  }
+
+  @media (max-width: 640px) {
+    .top-chrome {
+      gap: 8px;
+    }
+
+    .chip-row {
+      bottom: calc(196px + env(safe-area-inset-bottom));
+      flex-wrap: wrap;
+      overflow: visible;
+    }
+
+    .chip-row button {
+      flex: 1 1 calc(50% - 4px);
+      text-align: center;
+    }
+
+    .chip-panel {
+      bottom: calc(318px + env(safe-area-inset-bottom));
+      width: calc(100vw - 32px);
+    }
+
+    .redo-chip {
+      bottom: calc(344px + env(safe-area-inset-bottom));
+    }
+
+    .floating-panel {
+      top: calc(68px + env(safe-area-inset-top));
+      left: 12px;
+      right: 12px;
+      padding: 14px;
     }
   }
 </style>

@@ -8,8 +8,12 @@ export function sortPlaces(places: DisplayPlace[], sortKey: SortKey) {
       return left.distanceMeters - right.distanceMeters;
     }
 
-    if (sortKey === 'price') {
+    if (sortKey === 'priceAsc') {
       return left.priceBucket - right.priceBucket;
+    }
+
+    if (sortKey === 'priceDesc') {
+      return right.priceBucket - left.priceBucket;
     }
 
     if (sortKey === 'closingSoon') {

@@ -5,6 +5,7 @@
   import type { DisplayPlace } from '$lib/types';
 
   export let place: DisplayPlace;
+  export let imageUrl: string | null = null;
   export let selected = false;
 
   const dispatch = createEventDispatcher<{
@@ -17,6 +18,14 @@
 <article class:selected class="card">
   <button type="button" class="card-main-button" on:click={() => dispatch('select', { id: place.id })}>
     <div class="card-main">
+      <div class="preview">
+        {#if imageUrl}
+          <img src={imageUrl} alt={place.nameEn ?? place.nameJp ?? 'Restaurant'} loading="lazy" />
+        {:else}
+          <div class="preview-placeholder">No photo yet</div>
+        {/if}
+      </div>
+
       <div class="title-row">
         <div>
           <h3>{place.nameEn ?? place.nameJp ?? 'Untitled place'}</h3>
@@ -32,7 +41,7 @@
 
       <div class="facts">
         <span>{place.walkMinutes} min walk</span>
-        <span>{formatPriceBand(place.priceBand)}</span>
+        <span>{formatPriceBand(place.priceBand, place.priceBucket)}</span>
         <span>{place.category.label}</span>
       </div>
 
@@ -83,6 +92,24 @@
   .card-main {
     display: grid;
     gap: 10px;
+  }
+
+  .preview {
+    width: 100%;
+    border-radius: 18px;
+    overflow: hidden;
+    background: linear-gradient(135deg, rgba(31, 42, 47, 0.08), rgba(201, 112, 51, 0.16));
+  }
+
+  .preview img,
+  .preview-placeholder {
+    width: 100%;
+    aspect-ratio: 1.8;
+    object-fit: cover;
+    display: grid;
+    place-items: center;
+    color: rgba(31, 42, 47, 0.62);
+    font-size: 0.84rem;
   }
 
   .title-row {

@@ -74,7 +74,7 @@
   }
 </script>
 
-<svelte:window bind:innerHeight on:pointermove={handlePointerMove} on:pointerup={handlePointerUp} />
+  <svelte:window bind:innerHeight on:pointermove={handlePointerMove} on:pointerup={handlePointerUp} on:pointercancel={handlePointerUp} />
 
 <section
   class:desktop
@@ -109,7 +109,6 @@
     display: flex;
     flex-direction: column;
     z-index: 18;
-    touch-action: none;
   }
 
   .sheet.desktop {
@@ -129,6 +128,7 @@
     background: transparent;
     border: 0;
     cursor: grab;
+    touch-action: none;
   }
 
   .sheet-handle span {
@@ -143,6 +143,7 @@
     flex: 1;
     overflow: auto;
     -webkit-overflow-scrolling: touch;
+    overscroll-behavior: contain;
     padding: 0 16px calc(24px + env(safe-area-inset-bottom));
   }
 </style>

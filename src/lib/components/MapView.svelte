@@ -276,7 +276,13 @@
   }
 
   :global(.maplibregl-ctrl-bottom-right) {
-    bottom: calc(28px + env(safe-area-inset-bottom));
+    bottom: calc(208px + env(safe-area-inset-bottom));
     right: calc(12px + env(safe-area-inset-right));
+  }
+
+  @media (min-width: 960px) {
+    :global(.maplibregl-ctrl-bottom-right) {
+      bottom: calc(24px + env(safe-area-inset-bottom));
+    }
   }
 </style>
