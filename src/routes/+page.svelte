@@ -16,6 +16,13 @@
   import { sortPlaces } from '$lib/utils/sort';
 
   type FilterSection = 'category' | 'walk' | 'price' | null;
+  type UiView = 'browse' | 'filters' | 'detail';
+  type UiHistoryState = {
+    __tabemapUi: true;
+    view: UiView;
+    selectedPlaceId: string | null;
+    sheetSnap: SheetSnap;
+  };
 
   const summaryQuery = createQuery<PlaceSummary[]>({
     queryKey: ['places-summary'],
@@ -74,6 +81,10 @@
   let categorySectionElement: HTMLElement | null = null;
   let walkSectionElement: HTMLElement | null = null;
   let priceSectionElement: HTMLElement | null = null;
+  let historyReady = false;
+  let restoringHistory = false;
+  let nextHistoryMode: 'replace' | 'push' = 'replace';
+  let lastHistorySignature = '';
   let MapViewComponent: typeof import('$lib/components/MapView.svelte').default | null = null;
   let DetailSheetComponent: typeof import('$lib/components/PlaceDetailSheet.svelte').default | null = null;
 
@@ -83,6 +94,88 @@
 
   function priceSortAriaLabel() {
     return sortKey === 'priceDesc' ? 'Price descending' : 'Price ascending';
+  }
+
+  function currentUiView(): UiView {
+    if (filterOpen) {
+      return 'filters';
+    }
+
+    if (detailOpen) {
+      return 'detail';
+    }
+
+    return 'browse';
+  }
+
+  function buildUiHistoryState(): UiHistoryState {
+    return {
+      __tabemapUi: true,
+      view: currentUiView(),
+      selectedPlaceId,
+      sheetSnap
+    };
+  }
+
+  function isUiHistoryState(value: unknown): value is UiHistoryState {
+    return (
+      typeof value === 'object' &&
+      value !== null &&
+      '__tabemapUi' in value &&
+      (value as UiHistoryState).__tabemapUi === true
+    );
+  }
+
+  function historySignature(state: UiHistoryState) {
+    return `${state.view}:${state.selectedPlaceId ?? 'none'}:${state.sheetSnap}`;
+  }
+
+  function requestHistoryPush() {
+    if (browser && historyReady && !restoringHistory) {
+      nextHistoryMode = 'push';
+    }
+  }
+
+  function syncUiHistory() {
+    if (!browser || !historyReady || restoringHistory) {
+      return;
+    }
+
+    const state = buildUiHistoryState();
+    const signature = historySignature(state);
+    if (signature === lastHistorySignature) {
+      nextHistoryMode = 'replace';
+      return;
+    }
+
+    if (nextHistoryMode === 'push') {
+      window.history.pushState(state, '');
+    } else {
+      window.history.replaceState(state, '');
+    }
+
+    lastHistorySignature = signature;
+    nextHistoryMode = 'replace';
+  }
+
+  function applyUiHistoryState(state: UiHistoryState) {
+    restoringHistory = true;
+    filterOpen = state.view === 'filters';
+    detailOpen = state.view === 'detail';
+    selectedPlaceId = state.selectedPlaceId ?? sortedPlaces[0]?.id ?? null;
+    sheetSnap = state.view === 'browse' ? state.sheetSnap : 'full';
+    pendingFilterSection = null;
+    restoringHistory = false;
+    lastHistorySignature = historySignature(buildUiHistoryState());
+  }
+
+  function closeDetail() {
+    if (browser && historyReady && currentUiView() === 'detail') {
+      window.history.back();
+      return;
+    }
+
+    detailOpen = false;
   }
 
   function togglePriceSort() {
@@ -97,6 +190,7 @@
   }
 
   async function openFilters(section: FilterSection = null) {
+    requestHistoryPush();
     pendingFilterSection = section;
     filterOpen = true;
     detailOpen = false;
@@ -108,6 +202,11 @@
   }
 
   function closeFilters() {
+    if (browser && historyReady && currentUiView() === 'filters') {
+      window.history.back();
+      return;
+    }
+
     filterOpen = false;
   }
 
@@ -149,6 +248,7 @@
       return;
     }
 
+    requestHistoryPush();
     detailOpen = true;
     filterOpen = false;
     if (!desktop) {
@@ -254,7 +354,19 @@
       return;
     }
 
+    requestHistoryPush();
     selectPlace(placeId, false);
+  }
+
+  function handleMapSelect(placeId: string) {
+    if (selectedPlaceId !== placeId) {
+      requestHistoryPush();
+    }
+
+    selectPlace(placeId, false);
+    if (!desktop) {
+      sheetSnap = 'mid';
+    }
   }
 
   function useUserLocation() {
@@ -289,14 +401,41 @@
     pendingFilterSection = null;
   }
 
-  onMount(async () => {
-    const [{ default: mapView }, { default: detailSheet }] = await Promise.all([
-      import('$lib/components/MapView.svelte'),
-      import('$lib/components/PlaceDetailSheet.svelte')
-    ]);
-    MapViewComponent = mapView;
-    DetailSheetComponent = detailSheet;
-    requestGeolocation();
+  onMount(() => {
+    const handlePopState = (event: PopStateEvent) => {
+      if (isUiHistoryState(event.state)) {
+        applyUiHistoryState(event.state);
+        return;
+      }
+
+      restoringHistory = true;
+      filterOpen = false;
+      detailOpen = false;
+      sheetSnap = 'peek';
+      restoringHistory = false;
+      lastHistorySignature = '';
+    };
+
+    window.addEventListener('popstate', handlePopState);
+    historyReady = true;
+    const initialState = buildUiHistoryState();
+    window.history.replaceState(initialState, '');
+    window.history.pushState(initialState, '');
+    lastHistorySignature = historySignature(initialState);
+
+    void (async () => {
+      const [{ default: mapView }, { default: detailSheet }] = await Promise.all([
+        import('$lib/components/MapView.svelte'),
+        import('$lib/components/PlaceDetailSheet.svelte')
+      ]);
+      MapViewComponent = mapView;
+      DetailSheetComponent = detailSheet;
+      requestGeolocation();
+    })();
+
+    return () => {
+      window.removeEventListener('popstate', handlePopState);
+    };
   });
 
   $: desktop = innerWidth >= 960;
@@ -345,6 +484,7 @@
     }
   }
   $: mobileListPlaces = selectedPlace ? visiblePlaces.filter((place) => place.id !== selectedPlace.id) : visiblePlaces;
+  $: syncUiHistory();
 </script>
 
 <svelte:window bind:innerWidth />
@@ -363,7 +503,7 @@
           mapCenter = event.detail.center;
           mapBounds = event.detail.bounds;
         }}
-        on:select={(event) => selectPlace(event.detail.id, false)}
+        on:select={(event) => handleMapSelect(event.detail.id)}
       />
     {:else}
       <div class="map-loading">Loading map</div>
@@ -424,7 +564,7 @@
 
         <p class="filter-summary">{filterSummary}</p>
 
-        <section bind:this={walkSectionElement} class="filter-section">
+        <section class="filter-section">
           <div class="section-heading">
             <h3>Availability</h3>
             {#if activeFilters.openNow || activeFilters.closingSoon}
@@ -447,7 +587,7 @@
           </div>
         </section>
 
-        <section class="filter-section">
+        <section bind:this={walkSectionElement} class="filter-section">
           <div class="section-heading">
             <h3>Walk time</h3>
           </div>
@@ -506,7 +646,7 @@
               this={DetailSheetComponent}
               detail={selectedDetail}
               status={selectedPlace?.status ?? null}
-              on:close={() => (detailOpen = false)}
+              on:close={closeDetail}
               on:directions={(event) => {
                 const place = sortedPlaces.find((item) => item.id === event.detail.id);
                 if (place) openDirections(place);
@@ -600,7 +740,7 @@
           <button type="button" class="ghost-chip" on:click={closeFilters}>Done</button>
         </div>
 
-        <section bind:this={walkSectionElement} class="filter-section">
+        <section class="filter-section">
           <div class="section-heading">
             <h3>Availability</h3>
           </div>
@@ -618,7 +758,7 @@
           </div>
         </section>
 
-        <section class="filter-section">
+        <section bind:this={walkSectionElement} class="filter-section">
           <div class="section-heading">
             <h3>Walk time</h3>
           </div>
@@ -670,7 +810,7 @@
             this={DetailSheetComponent}
             detail={selectedDetail}
             status={selectedPlace?.status ?? null}
-            on:close={() => (detailOpen = false)}
+            on:close={closeDetail}
             on:directions={(event) => {
               const place = sortedPlaces.find((item) => item.id === event.detail.id);
               if (place) openDirections(place);

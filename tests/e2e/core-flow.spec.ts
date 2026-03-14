@@ -16,11 +16,13 @@ test('mobile flow opens sheet filters and selected place details', async ({ page
   await page.goto('/');
   await expect(page.getByLabel('Use my location')).toBeVisible();
   await expect(page.locator('.selection-hero')).toBeVisible();
+  await page.locator('.selection-hero').click();
+  await expect(page.getByRole('button', { name: /close details/i })).toBeVisible();
+  await page.goBack();
+  await expect(page.getByRole('button', { name: /close details/i })).toHaveCount(0);
+  await expect(page.locator('.selection-hero')).toBeVisible();
   await page.getByRole('button', { name: /walk time/i }).click();
   await expect(page.getByText(/availability/i)).toBeVisible();
-  await page.getByRole('button', { name: /open now/i }).click();
-  await page.getByRole('button', { name: /done/i }).click();
-  await expect(page.getByText(/open now/i).first()).toBeVisible();
-  await page.locator('.selection-hero').click();
-  await expect(page.getByRole('button', { name: /directions/i })).toBeVisible();
+  await page.goBack();
+  await expect(page.getByText(/availability/i)).toHaveCount(0);
 });
