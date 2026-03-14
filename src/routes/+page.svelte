@@ -838,8 +838,9 @@
     top: calc(14px + env(safe-area-inset-top));
     left: 14px;
     right: 14px;
-    display: flex;
-    gap: 10px;
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: 12px;
     align-items: start;
     animation: rise-fade 280ms ease both;
   }
@@ -859,13 +860,12 @@
   }
 
   .top-filter-row {
-    flex: 1 1 auto;
     min-width: 0;
     display: flex;
-    gap: 8px;
+    gap: 10px;
     overflow-x: auto;
     scrollbar-width: none;
-    padding-bottom: 2px;
+    padding: 0 2px 2px 0;
   }
 
   .top-filter-row::-webkit-scrollbar {
@@ -874,8 +874,10 @@
 
   .filter-pill {
     flex: 0 0 auto;
+    min-height: 52px;
     padding: 14px 16px;
     font-weight: 600;
+    line-height: 1.1;
     backdrop-filter: blur(12px);
   }
 
@@ -886,7 +888,7 @@
 
   .top-actions {
     display: flex;
-    gap: 10px;
+    gap: 12px;
     flex: 0 0 auto;
   }
 
@@ -966,7 +968,7 @@
   .filter-footer {
     display: flex;
     justify-content: space-between;
-    gap: 12px;
+    gap: 14px;
     align-items: center;
   }
 
@@ -1044,11 +1046,12 @@
   .token-wrap {
     display: flex;
     flex-wrap: wrap;
-    gap: 10px;
+    gap: 12px;
   }
 
   .token-wrap button,
   .segment-row button {
+    min-height: 44px;
     padding: 12px 14px;
     white-space: nowrap;
   }
@@ -1087,6 +1090,7 @@
   .segment-row {
     display: flex;
     flex-wrap: wrap;
+    gap: 10px;
     margin-bottom: 14px;
   }
 
@@ -1297,13 +1301,13 @@
 
   @media (max-width: 640px) {
     .top-chrome {
-      gap: 8px;
       left: 12px;
       right: 12px;
     }
 
     .top-actions {
       gap: 8px;
+      align-self: start;
     }
 
     .top-filter-row {
