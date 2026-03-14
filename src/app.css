@@ -1,0 +1,56 @@
+:root {
+  color-scheme: light;
+  --app-bg: #efe8dc;
+  --panel-bg: rgba(246, 241, 232, 0.94);
+  --panel-strong: rgba(255, 255, 255, 0.92);
+  --ink: #1f2a2f;
+  --ink-soft: rgba(31, 42, 47, 0.7);
+  --line: rgba(31, 42, 47, 0.1);
+  --accent: #c97033;
+  --accent-soft: rgba(201, 112, 51, 0.12);
+  --success: #3d8c59;
+  --shadow-soft: 0 14px 30px rgba(31, 42, 47, 0.08);
+  --shadow-strong: 0 28px 80px rgba(31, 42, 47, 0.14);
+  font-family:
+    -apple-system,
+    BlinkMacSystemFont,
+    "SF Pro Display",
+    "Segoe UI",
+    sans-serif;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100%;
+  min-height: 100%;
+  margin: 0;
+  background:
+    radial-gradient(circle at top left, rgba(246, 193, 119, 0.22), transparent 28%),
+    linear-gradient(180deg, #f7f2ea 0%, #ece3d5 100%);
+  color: var(--ink);
+}
+
+body {
+  overscroll-behavior: none;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+a {
+  color: inherit;
+}
