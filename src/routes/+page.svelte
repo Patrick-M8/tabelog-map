@@ -257,11 +257,16 @@
       return;
     }
 
-    const url = place.placeId
-      ? `https://www.google.com/maps/place/?q=place_id:${place.placeId}`
-      : `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(
-          `${place.nameEn ?? place.nameJp ?? ''} ${place.lat},${place.lng}`
-        )}`;
+    const params = new URLSearchParams({
+      api: '1',
+      destination: `${place.nameEn ?? place.nameJp ?? 'Restaurant'} ${place.lat},${place.lng}`
+    });
+
+    if (place.placeId) {
+      params.set('destination_place_id', place.placeId);
+    }
+
+    const url = `https://www.google.com/maps/dir/?${params.toString()}`;
     window.open(url, '_blank', 'noopener,noreferrer');
   }
 
@@ -330,16 +335,17 @@
   }
 
   function handlePlaceSelect(placeId: string) {
-    if (selectedPlaceId === placeId) {
-      openDetail();
-      return;
-    }
-
-    void navigateUiState(currentBrowseState({ selectedPlaceId: placeId }));
+    void navigateUiState({
+      view: 'detail',
+      selectedPlaceId: placeId,
+      sheetSnap: 'full',
+      section: null
+    });
   }
 
   function handleMapSelect(placeId: string) {
     if (selectedPlaceId === placeId) {
+      openDetail();
       return;
     }
 
@@ -475,15 +481,8 @@
   $: selectedPlace = sortedPlaces.find((place) => place.id === selectedPlaceId) ?? null;
   $: selectedDetail = selectedPlaceId ? details[selectedPlaceId] ?? null : null;
   $: showRedoSearch = haversineDistanceMeters(searchCenter, mapCenter) > SEARCH_REDRAW_METERS;
-  $: {
-    const firstChunk = sortedPlaces.slice(0, 80);
-    if (selectedPlace && !firstChunk.some((place) => place.id === selectedPlace.id)) {
-      visiblePlaces = [selectedPlace, ...firstChunk.slice(0, 79)];
-    } else {
-      visiblePlaces = firstChunk;
-    }
-  }
-  $: mobileListPlaces = selectedPlace ? visiblePlaces.filter((place) => place.id !== selectedPlace.id) : visiblePlaces;
+  $: visiblePlaces = sortedPlaces.slice(0, 80);
+  $: mobileListPlaces = visiblePlaces;
   $: {
     const scrollKey = filterOpen && pendingFilterSection ? `${pendingFilterSection}:${$page.url.search}` : '';
     if (scrollKey && scrollKey !== lastFilterScrollKey) {

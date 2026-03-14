@@ -18,35 +18,39 @@
 <article class:selected class="card">
   <button type="button" class="card-main-button" on:click={() => dispatch('select', { id: place.id })}>
     <div class="card-main">
-      <div class="preview">
-        {#if imageUrl}
-          <img src={imageUrl} alt={place.nameEn ?? place.nameJp ?? 'Restaurant'} loading="lazy" />
-        {:else}
-          <div class="preview-placeholder">No photo yet</div>
-        {/if}
-      </div>
-
-      <div class="title-row">
-        <div>
-          <h3>{place.nameEn ?? place.nameJp ?? 'Untitled place'}</h3>
-          <p>{place.category.label} · {place.station ?? place.area ?? 'Japan'}</p>
+      <div class="card-head">
+        <div class="preview">
+          {#if imageUrl}
+            <img src={imageUrl} alt={place.nameEn ?? place.nameJp ?? 'Restaurant'} loading="lazy" />
+          {:else}
+            <div class="preview-placeholder">No photo yet</div>
+          {/if}
         </div>
-        <span class={`status-pill ${place.status.state}`}>{place.status.label}</span>
-      </div>
 
-      <div class="facts">
-        <span>{place.walkMinutes} min walk</span>
-        <span>{formatPriceBand(place.priceBand, place.priceBucket)}</span>
-        <span>{formatDistance(place.distanceMeters)}</span>
-      </div>
+        <div class="card-copy">
+          <div class="title-row">
+            <div>
+              <h3>{place.nameEn ?? place.nameJp ?? 'Untitled place'}</h3>
+              <p>{place.category.label} &middot; {place.station ?? place.area ?? 'Japan'}</p>
+            </div>
+            <span class={`status-pill ${place.status.state}`}>{place.status.label}</span>
+          </div>
 
-      <div class="signal-row">
-        <span class="rating-pill tabelog">Tabelog {place.tabelog.score ?? '-'} · {place.tabelog.reviews.toLocaleString()} reviews</span>
-        <span class="updated">{formatRelativeUpdate(place.freshnessUpdatedAt)}</span>
-      </div>
+          <div class="facts">
+            <span>{place.walkMinutes} min walk</span>
+            <span>{formatPriceBand(place.priceBand, place.priceBucket)}</span>
+            <span>{formatDistance(place.distanceMeters)}</span>
+          </div>
 
-      <div class="status-row">
-        <span>{place.status.detail}</span>
+          <div class="signal-row">
+            <span class="rating-pill tabelog">Tabelog {place.tabelog.score ?? '-'} &middot; {place.tabelog.reviews.toLocaleString()} reviews</span>
+            <span class="updated">{formatRelativeUpdate(place.freshnessUpdatedAt)}</span>
+          </div>
+
+          <div class="status-row">
+            <span>{place.status.detail}</span>
+          </div>
+        </div>
       </div>
     </div>
   </button>
@@ -84,6 +88,19 @@
 
   .card-main {
     display: grid;
+    gap: 12px;
+  }
+
+  .card-head {
+    display: grid;
+    grid-template-columns: 112px minmax(0, 1fr);
+    gap: 12px;
+    align-items: stretch;
+  }
+
+  .card-copy {
+    min-width: 0;
+    display: grid;
     gap: 9px;
   }
 
@@ -97,7 +114,8 @@
   .preview img,
   .preview-placeholder {
     width: 100%;
-    aspect-ratio: 2.2;
+    height: 100%;
+    min-height: 112px;
     object-fit: cover;
     display: grid;
     place-items: center;
@@ -110,6 +128,10 @@
     justify-content: space-between;
     gap: 12px;
     align-items: start;
+  }
+
+  .title-row > div {
+    min-width: 0;
   }
 
   h3 {
@@ -195,5 +217,16 @@
   .cta-row button.secondary {
     background: rgba(23, 25, 28, 0.08);
     color: #17191c;
+  }
+
+  @media (max-width: 520px) {
+    .card-head {
+      grid-template-columns: 96px minmax(0, 1fr);
+    }
+
+    .preview img,
+    .preview-placeholder {
+      min-height: 104px;
+    }
   }
 </style>

@@ -18,7 +18,11 @@
   let lastPointerTs = 0;
   let dragVelocity = 0;
   let activePointerId: number | null = null;
+  let activePointerElement: HTMLElement | null = null;
+  let contentDragCandidate = false;
   let handleElement: HTMLButtonElement;
+  let sheetInnerElement: HTMLDivElement;
+
   function snapTop(next: SheetSnap) {
     if (desktop) {
       return 0;
@@ -38,16 +42,9 @@
     dispatch('snapchange', { snap: next });
   }
 
-  function handlePointerDown(event: PointerEvent) {
-    if (desktop) {
-      return;
-    }
-
-    event.preventDefault();
+  function primePointer(event: PointerEvent) {
     activePointerId = event.pointerId;
     dragMoved = false;
-    (event.currentTarget as HTMLElement | null)?.setPointerCapture(event.pointerId);
-    dragging = true;
     dragStart = event.clientY;
     startTop = currentTop;
     lastPointerY = event.clientY;
@@ -55,12 +52,29 @@
     dragVelocity = 0;
   }
 
-  function handlePointerMove(event: PointerEvent) {
-    if (!dragging || desktop || event.pointerId !== activePointerId) {
-      return;
+  function releaseActivePointer() {
+    if (activePointerElement && activePointerId !== null) {
+      try {
+        if (activePointerElement.hasPointerCapture(activePointerId)) {
+          activePointerElement.releasePointerCapture(activePointerId);
+        }
+      } catch {
+        // Ignore release errors from browsers that already cleared the capture.
+      }
     }
 
-    event.preventDefault();
+    activePointerElement = null;
+    activePointerId = null;
+    contentDragCandidate = false;
+  }
+
+  function beginDrag(event: PointerEvent, element: HTMLElement) {
+    dragging = true;
+    activePointerElement = element;
+    element.setPointerCapture(event.pointerId);
+  }
+
+  function updateDrag(event: PointerEvent) {
     const deltaY = event.clientY - dragStart;
     const frameDelta = event.clientY - lastPointerY;
     const frameTime = Math.max(1, event.timeStamp - lastPointerTs);
@@ -71,6 +85,59 @@
 
     const nextTop = Math.min(innerHeight - 120, Math.max(48, startTop + deltaY));
     currentTop = nextTop;
+  }
+
+  function handleHandlePointerDown(event: PointerEvent) {
+    if (desktop) {
+      return;
+    }
+
+    event.preventDefault();
+    primePointer(event);
+    beginDrag(event, event.currentTarget as HTMLElement);
+  }
+
+  function handleContentPointerDown(event: PointerEvent) {
+    if (desktop || (sheetInnerElement?.scrollTop ?? 0) > 0) {
+      return;
+    }
+
+    primePointer(event);
+    activePointerElement = event.currentTarget as HTMLElement;
+    contentDragCandidate = true;
+  }
+
+  function handlePointerMove(event: PointerEvent) {
+    if (!dragging || desktop || event.pointerId !== activePointerId) {
+      return;
+    }
+
+    event.preventDefault();
+    updateDrag(event);
+  }
+
+  function handleContentPointerMove(event: PointerEvent) {
+    if (desktop || event.pointerId !== activePointerId || !contentDragCandidate) {
+      return;
+    }
+
+    const deltaY = event.clientY - dragStart;
+    if (!dragging) {
+      if ((sheetInnerElement?.scrollTop ?? 0) > 0 || deltaY < -6) {
+        releaseActivePointer();
+        return;
+      }
+
+      if (deltaY <= 6) {
+        return;
+      }
+
+      event.preventDefault();
+      beginDrag(event, activePointerElement ?? sheetInnerElement);
+    }
+
+    event.preventDefault();
+    updateDrag(event);
   }
 
   function resolveSnap() {
@@ -95,16 +162,19 @@
   }
 
   function handlePointerUp(event?: PointerEvent) {
-    if (!dragging || desktop || (event && event.pointerId !== activePointerId)) {
+    if (desktop || (event && activePointerId !== null && event.pointerId !== activePointerId)) {
       return;
     }
 
-    dragging = false;
-    if (activePointerId !== null) {
-      handleElement?.releasePointerCapture(activePointerId);
+    if (!dragging) {
+      releaseActivePointer();
+      return;
     }
-    activePointerId = null;
-    applySnap(resolveSnap());
+
+    const nextSnap = resolveSnap();
+    dragging = false;
+    releaseActivePointer();
+    applySnap(nextSnap);
   }
 
   function handleHandleClick(event: MouseEvent) {
@@ -126,7 +196,7 @@
   }
 </script>
 
-  <svelte:window bind:innerHeight on:pointerup={handlePointerUp} on:pointercancel={handlePointerUp} />
+<svelte:window bind:innerHeight on:pointerup={handlePointerUp} on:pointercancel={handlePointerUp} />
 
 <section
   class:desktop
@@ -142,7 +212,7 @@
     class="sheet-handle"
     type="button"
     aria-label="Adjust results panel"
-    on:pointerdown={handlePointerDown}
+    on:pointerdown={handleHandlePointerDown}
     on:pointermove={handlePointerMove}
     on:pointerup={handlePointerUp}
     on:pointercancel={handlePointerUp}
@@ -150,7 +220,15 @@
   >
     <span></span>
   </button>
-  <div class="sheet-inner">
+  <!-- svelte-ignore a11y_no_static_element_interactions -->
+  <div
+    bind:this={sheetInnerElement}
+    class="sheet-inner"
+    on:pointerdown={handleContentPointerDown}
+    on:pointermove={handleContentPointerMove}
+    on:pointerup={handlePointerUp}
+    on:pointercancel={handlePointerUp}
+  >
     <slot />
   </div>
 </section>
@@ -210,6 +288,7 @@
     overflow: auto;
     -webkit-overflow-scrolling: touch;
     overscroll-behavior-y: contain;
+    touch-action: pan-y;
     padding: 0 16px calc(26px + env(safe-area-inset-bottom));
   }
 
