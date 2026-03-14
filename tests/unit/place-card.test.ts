@@ -76,8 +76,7 @@ describe('place card formatting', () => {
 
   it('formats Tabelog and Google reputation into a single readable line', () => {
     expect(formatPlaceCardRatings(basePlace)).toEqual({
-      tabelog: 'Tabelog 3.72',
-      tabelogReviews: '206 reviews',
+      tabelog: 'Tabelog 3.72 (206)',
       google: `Google 4.1 ${STAR} (1.2K)`
     });
   });

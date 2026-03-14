@@ -40,8 +40,7 @@ export function formatPlaceCardMeta(
 
 export function formatPlaceCardRatings(place: Pick<DisplayPlace, 'tabelog' | 'google'>) {
   return {
-    tabelog: `Tabelog ${place.tabelog.score ?? '-'}`,
-    tabelogReviews: `${place.tabelog.reviews.toLocaleString()} reviews`,
+    tabelog: `Tabelog ${place.tabelog.score ?? '-'} (${compactReviewCount(place.tabelog.reviews)})`,
     google: `Google ${place.google.score ?? '-'} ${STAR} (${compactReviewCount(place.google.reviews)})`
   };
 }

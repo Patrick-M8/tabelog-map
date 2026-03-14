@@ -82,7 +82,6 @@
 
         <div class="ratings-line" aria-label="Ratings and reviews">
           <span class="ratings-source tabelog">{ratings.tabelog}</span>
-          <span>{ratings.tabelogReviews}</span>
           <span class="ratings-source google">{ratings.google}</span>
         </div>
 
