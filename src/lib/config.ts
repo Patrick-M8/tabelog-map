@@ -10,13 +10,24 @@ export const JAPAN_BOUNDS = [
 export const MAP_STYLE = {
   version: 8,
   sources: {
-    carto: {
+    cartoBase: {
       type: 'raster',
       tiles: [
-        'https://a.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',
-        'https://b.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',
-        'https://c.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',
-        'https://d.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png'
+        'https://a.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png',
+        'https://b.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png',
+        'https://c.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png',
+        'https://d.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png'
+      ],
+      tileSize: 256,
+      attribution: '&copy; OpenStreetMap contributors &copy; CARTO'
+    },
+    cartoLabels: {
+      type: 'raster',
+      tiles: [
+        'https://a.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}{r}.png',
+        'https://b.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}{r}.png',
+        'https://c.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}{r}.png',
+        'https://d.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}{r}.png'
       ],
       tileSize: 256,
       attribution: '&copy; OpenStreetMap contributors &copy; CARTO'
@@ -26,7 +37,18 @@ export const MAP_STYLE = {
     {
       id: 'base',
       type: 'raster',
-      source: 'carto'
+      source: 'cartoBase',
+      paint: {
+        'raster-opacity': 1
+      }
+    },
+    {
+      id: 'labels',
+      type: 'raster',
+      source: 'cartoLabels',
+      paint: {
+        'raster-opacity': 0.86
+      }
     }
   ]
 } as const;

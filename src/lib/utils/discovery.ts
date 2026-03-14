@@ -24,7 +24,7 @@ export function summarizeFilters(filters: ActiveFilters) {
   }
 
   if (filters.maxWalkMinutes !== null) {
-    parts.push(`<=${filters.maxWalkMinutes} min`);
+    parts.push(`\u2264${filters.maxWalkMinutes} min`);
   }
 
   if (filters.priceBands.length > 0) {

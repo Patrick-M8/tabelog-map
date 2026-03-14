@@ -2,7 +2,7 @@
   import { browser } from '$app/environment';
   import { createQuery } from '@tanstack/svelte-query';
   import { _ } from 'svelte-i18n';
-  import { onMount } from 'svelte';
+  import { onMount, tick } from 'svelte';
 
   import BottomSheet from '$lib/components/BottomSheet.svelte';
   import PlaceCard from '$lib/components/PlaceCard.svelte';
@@ -15,13 +15,7 @@
   import { countActiveFilters, summarizeFilters } from '$lib/utils/discovery';
   import { sortPlaces } from '$lib/utils/sort';
 
-  type SearchRecent = {
-    id: string;
-    label: string;
-    subtitle: string;
-    lat: number;
-    lng: number;
-  };
+  type FilterSection = 'category' | 'walk' | 'price' | null;
 
   const summaryQuery = createQuery<PlaceSummary[]>({
     queryKey: ['places-summary'],
@@ -45,17 +39,13 @@
 
   const PRICE_BANDS = Array.from({ length: 5 }, (_, index) => '\u00A5'.repeat(index + 1));
   const WALK_MINUTE_OPTIONS = [5, 10, 15, 30];
-  const RECENT_STORAGE_KEY = 'tabemap:recent-searches';
-
   let innerWidth = 390;
   let sheetSnap: SheetSnap = 'peek';
   let sortKey: SortKey = 'best';
   let activeFilters: ActiveFilters = { ...EMPTY_FILTERS };
-  let searchOpen = false;
   let filterOpen = false;
   let detailOpen = false;
   let selectedPlaceId: string | null = null;
-  let searchInput = '';
   let searchCenter = { ...DEFAULT_CENTER };
   let mapCenter = { ...DEFAULT_CENTER };
   let mapBounds: { north: number; south: number; east: number; west: number } | null = null;
@@ -65,7 +55,6 @@
     zoom: 4.8,
     token: 'initial'
   };
-  let recents: SearchRecent[] = [];
   let geolocationDenied = false;
   let summaries: PlaceSummary[] = [];
   let details: Record<string, PlaceDetail> = {};
@@ -77,42 +66,19 @@
   let selectedPlace: DisplayPlace | null = null;
   let selectedDetail: PlaceDetail | null = null;
   let availableCategories: { key: string; label: string; count: number }[] = [];
-  let searchResults: PlaceSummary[] = [];
   let showRedoSearch = false;
   let desktop = false;
   let activeFilterCount = 0;
   let filterSummary = 'All nearby';
+  let pendingFilterSection: FilterSection = null;
+  let categorySectionElement: HTMLElement | null = null;
+  let walkSectionElement: HTMLElement | null = null;
+  let priceSectionElement: HTMLElement | null = null;
   let MapViewComponent: typeof import('$lib/components/MapView.svelte').default | null = null;
   let DetailSheetComponent: typeof import('$lib/components/PlaceDetailSheet.svelte').default | null = null;
 
   function randomToken(prefix: string) {
     return `${prefix}-${Date.now()}-${Math.random().toString(16).slice(2, 8)}`;
-  }
-
-  function hydrateRecents() {
-    if (!browser) {
-      return;
-    }
-
-    const stored = localStorage.getItem(RECENT_STORAGE_KEY);
-    recents = stored ? (JSON.parse(stored) as SearchRecent[]) : [];
-  }
-
-  function rememberSearch(place: PlaceSummary) {
-    if (!browser) {
-      return;
-    }
-
-    const recent: SearchRecent = {
-      id: place.id,
-      label: place.nameEn ?? place.nameJp ?? 'Unknown',
-      subtitle: place.station ?? place.area ?? place.category.label,
-      lat: place.lat,
-      lng: place.lng
-    };
-
-    recents = [recent, ...recents.filter((entry) => entry.id !== recent.id)].slice(0, 6);
-    localStorage.setItem(RECENT_STORAGE_KEY, JSON.stringify(recents));
   }
 
   function priceSortAriaLabel() {
@@ -130,19 +96,15 @@
     };
   }
 
-  function toggleSearch() {
-    searchOpen = !searchOpen;
-    filterOpen = false;
-    detailOpen = false;
-  }
-
-  function openFilters() {
+  async function openFilters(section: FilterSection = null) {
+    pendingFilterSection = section;
     filterOpen = true;
-    searchOpen = false;
     detailOpen = false;
     if (!desktop) {
       sheetSnap = 'full';
     }
+    await tick();
+    scrollToFilterSection(pendingFilterSection);
   }
 
   function closeFilters() {
@@ -153,6 +115,35 @@
     activeFilters = { ...EMPTY_FILTERS };
   }
 
+  function categoryFilterLabel() {
+    if (activeFilters.categoryKeys.length === 0) {
+      return 'Cuisine';
+    }
+
+    if (activeFilters.categoryKeys.length === 1) {
+      const match = availableCategories.find((category) => category.key === activeFilters.categoryKeys[0]);
+      return match?.label ?? 'Cuisine';
+    }
+
+    return `${activeFilters.categoryKeys.length} cuisines`;
+  }
+
+  function walkFilterLabel() {
+    return activeFilters.maxWalkMinutes === null ? 'Walk time' : `\u2264 ${activeFilters.maxWalkMinutes} min`;
+  }
+
+  function priceFilterLabel() {
+    if (activeFilters.priceBands.length === 0) {
+      return 'Price';
+    }
+
+    if (activeFilters.priceBands.length === 1) {
+      return activeFilters.priceBands[0];
+    }
+
+    return `${activeFilters.priceBands.length} price levels`;
+  }
+
   function openDetail() {
     if (!selectedPlaceId) {
       return;
@@ -160,22 +151,9 @@
 
     detailOpen = true;
     filterOpen = false;
-    searchOpen = false;
     if (!desktop) {
       sheetSnap = 'full';
     }
-  }
-
-  function applySearchPlace(place: PlaceSummary) {
-    searchCenter = { lat: place.lat, lng: place.lng };
-    mapCenter = { lat: place.lat, lng: place.lng };
-    focusTarget = { lat: place.lat, lng: place.lng, zoom: 14.8, token: randomToken(place.id) };
-    rememberSearch(place);
-    selectPlace(place.id, false);
-    searchInput = '';
-    searchOpen = false;
-    detailOpen = false;
-    filterOpen = false;
   }
 
   function openDirections(place: PlaceSummary) {
@@ -276,7 +254,7 @@
       return;
     }
 
-    selectPlace(placeId);
+    selectPlace(placeId, false);
   }
 
   function useUserLocation() {
@@ -297,19 +275,18 @@
     mapCenter = { ...DEFAULT_CENTER };
   }
 
-  function searchMatches(places: PlaceSummary[]) {
-    const query = searchInput.trim().toLowerCase();
-    if (!query) {
-      return [];
-    }
+  function scrollToFilterSection(section: FilterSection) {
+    const target =
+      section === 'category'
+        ? categorySectionElement
+        : section === 'walk'
+          ? walkSectionElement
+          : section === 'price'
+            ? priceSectionElement
+            : null;
 
-    return places
-      .filter((place) =>
-        `${place.nameEn ?? ''} ${place.nameJp ?? ''} ${place.station ?? ''} ${place.area ?? ''} ${place.category.label} ${(place.subCategories ?? []).join(' ')}`
-          .toLowerCase()
-          .includes(query)
-      )
-      .slice(0, 24);
+    target?.scrollIntoView({ block: 'start', behavior: 'smooth' });
+    pendingFilterSection = null;
   }
 
   onMount(async () => {
@@ -319,7 +296,6 @@
     ]);
     MapViewComponent = mapView;
     DetailSheetComponent = detailSheet;
-    hydrateRecents();
     requestGeolocation();
   });
 
@@ -327,7 +303,6 @@
   $: summaries = $summaryQuery.data ?? [];
   $: details = $detailQuery.data ?? {};
   $: availableCategories = visibleCategories(summaries);
-  $: searchResults = searchMatches(summaries);
   $: activeFilterCount = countActiveFilters(activeFilters);
   $: filterSummary = summarizeFilters(activeFilters);
   $: candidatePlaces = summaries
@@ -388,7 +363,7 @@
           mapCenter = event.detail.center;
           mapBounds = event.detail.bounds;
         }}
-        on:select={(event) => selectPlace(event.detail.id)}
+        on:select={(event) => selectPlace(event.detail.id, false)}
       />
     {:else}
       <div class="map-loading">Loading map</div>
@@ -397,24 +372,19 @@
     <div class="map-gradient"></div>
 
     <div class="top-chrome">
-      <button type="button" class="search-pill" on:click={toggleSearch}>
-        <span class="search-pill-title">{$_('search')}</span>
-        <small>Stations, areas, landmarks</small>
-      </button>
+      <div class="top-filter-row" aria-label="Quick filters">
+        <button type="button" class="filter-pill" class:active={activeFilters.categoryKeys.length > 0} on:click={() => openFilters('category')}>
+          {categoryFilterLabel()}
+        </button>
+        <button type="button" class="filter-pill" class:active={activeFilters.maxWalkMinutes !== null} on:click={() => openFilters('walk')}>
+          {walkFilterLabel()}
+        </button>
+        <button type="button" class="filter-pill" class:active={activeFilters.priceBands.length > 0} on:click={() => openFilters('price')}>
+          {priceFilterLabel()}
+        </button>
+      </div>
 
       <div class="top-actions">
-        <button
-          type="button"
-          class="icon-button filter-button"
-          aria-label={activeFilterCount > 0 ? `Open filters, ${activeFilterCount} active` : 'Open filters'}
-          on:click={openFilters}
-        >
-          <span>Filter</span>
-          {#if activeFilterCount > 0}
-            <strong>{activeFilterCount}</strong>
-          {/if}
-        </button>
-
         <button type="button" class="icon-button icon-button-square" aria-label="Use my location" on:click={useUserLocation}>
           <svg viewBox="0 0 24 24" aria-hidden="true">
             <path
@@ -438,67 +408,6 @@
       </button>
     {/if}
 
-    {#if searchOpen}
-      <button type="button" class="panel-scrim" aria-label="Close search" on:click={() => (searchOpen = false)}></button>
-
-      <section class="floating-panel search-panel">
-        <div class="panel-header">
-          <div>
-            <p class="eyebrow">Discover</p>
-            <h2>Search across Japan</h2>
-          </div>
-          <button type="button" class="ghost-chip ghost-chip-icon" aria-label="Close search" on:click={() => (searchOpen = false)}>
-            <span aria-hidden="true">x</span>
-          </button>
-        </div>
-
-        <input bind:value={searchInput} type="search" placeholder="Search any restaurant, station, area, or cuisine" />
-
-        {#if recents.length > 0}
-          <div class="panel-section">
-            <div class="section-heading">
-              <h3>Recent searches</h3>
-            </div>
-            <div class="token-wrap">
-              {#each recents as recent}
-                <button
-                  type="button"
-                  on:click={() => {
-                    searchCenter = { lat: recent.lat, lng: recent.lng };
-                    mapCenter = { lat: recent.lat, lng: recent.lng };
-                    focusTarget = { lat: recent.lat, lng: recent.lng, zoom: 14.8, token: randomToken(recent.id) };
-                    searchOpen = false;
-                  }}
-                >
-                  {recent.label}
-                </button>
-              {/each}
-            </div>
-          </div>
-        {/if}
-
-        <div class="panel-section">
-          <div class="section-heading">
-            <h3>Results</h3>
-          </div>
-          <div class="search-results">
-            {#if searchInput.trim().length === 0}
-              <div class="empty-search">Start typing to search all restaurants in Japan.</div>
-            {:else if searchResults.length === 0}
-              <div class="empty-search">No matches found.</div>
-            {:else}
-              {#each searchResults as place}
-                <button type="button" class="result-row" on:click={() => applySearchPlace(place)}>
-                  <strong>{place.nameEn ?? place.nameJp}</strong>
-                  <span>{place.station ?? place.area ?? place.category.label}</span>
-                </button>
-              {/each}
-            {/if}
-          </div>
-        </div>
-      </section>
-    {/if}
-
     {#if filterOpen && desktop}
       <button type="button" class="panel-scrim" aria-label="Close filters" on:click={closeFilters}></button>
 
@@ -515,7 +424,7 @@
 
         <p class="filter-summary">{filterSummary}</p>
 
-        <section class="filter-section">
+        <section bind:this={walkSectionElement} class="filter-section">
           <div class="section-heading">
             <h3>Availability</h3>
             {#if activeFilters.openNow || activeFilters.closingSoon}
@@ -545,13 +454,13 @@
           <div class="token-wrap">
             {#each WALK_MINUTE_OPTIONS as minutes}
               <button type="button" class:active={activeFilters.maxWalkMinutes === minutes} on:click={() => setWalkMinutes(minutes)}>
-                &lt;= {minutes} min
+                &le; {minutes} min
               </button>
             {/each}
           </div>
         </section>
 
-        <section class="filter-section">
+        <section bind:this={priceSectionElement} class="filter-section">
           <div class="section-heading">
             <h3>Price</h3>
           </div>
@@ -567,7 +476,7 @@
           </div>
         </section>
 
-        <section class="filter-section">
+        <section bind:this={categorySectionElement} class="filter-section">
           <div class="section-heading">
             <h3>Cuisine</h3>
           </div>
@@ -620,7 +529,7 @@
               <h1>{selectedPlace?.station ?? 'Restaurants near the current map'}</h1>
               <p class="sheet-summary">{filterSummary}</p>
             </div>
-            <button type="button" class="ghost-chip" on:click={openFilters}>
+            <button type="button" class="ghost-chip" on:click={() => openFilters()}>
               Filters{#if activeFilterCount > 0} {activeFilterCount}{/if}
             </button>
           </div>
@@ -634,7 +543,18 @@
               class:active={sortKey === 'priceAsc' || sortKey === 'priceDesc'}
               on:click={togglePriceSort}
             >
-              Price <span aria-hidden="true">{#if sortKey === 'priceDesc'}v{:else}^{/if}</span>
+              Price
+              <span class="sort-icon" aria-hidden="true">
+                {#if sortKey === 'priceDesc'}
+                  <svg viewBox="0 0 12 12">
+                    <path d="M6 2.25v7.5M6 9.75 3.75 7.5M6 9.75 8.25 7.5" />
+                  </svg>
+                {:else}
+                  <svg viewBox="0 0 12 12">
+                    <path d="M6 9.75v-7.5M6 2.25 3.75 4.5M6 2.25 8.25 4.5" />
+                  </svg>
+                {/if}
+              </span>
             </button>
           </div>
 
@@ -680,7 +600,7 @@
           <button type="button" class="ghost-chip" on:click={closeFilters}>Done</button>
         </div>
 
-        <section class="filter-section">
+        <section bind:this={walkSectionElement} class="filter-section">
           <div class="section-heading">
             <h3>Availability</h3>
           </div>
@@ -705,13 +625,13 @@
           <div class="token-wrap">
             {#each WALK_MINUTE_OPTIONS as minutes}
               <button type="button" class:active={activeFilters.maxWalkMinutes === minutes} on:click={() => setWalkMinutes(minutes)}>
-                &lt;= {minutes} min
+                &le; {minutes} min
               </button>
             {/each}
           </div>
         </section>
 
-        <section class="filter-section">
+        <section bind:this={priceSectionElement} class="filter-section">
           <div class="section-heading">
             <h3>Price</h3>
           </div>
@@ -727,7 +647,7 @@
           </div>
         </section>
 
-        <section class="filter-section">
+        <section bind:this={categorySectionElement} class="filter-section">
           <div class="section-heading">
             <h3>Cuisine</h3>
           </div>
@@ -773,7 +693,7 @@
             <h1>Restaurants nearby</h1>
             <p class="sheet-summary">{filterSummary}</p>
           </div>
-          <button type="button" class="ghost-chip" on:click={openFilters}>
+          <button type="button" class="ghost-chip" on:click={() => openFilters()}>
             Filters{#if activeFilterCount > 0} {activeFilterCount}{/if}
           </button>
         </div>
@@ -816,7 +736,18 @@
             class:active={sortKey === 'priceAsc' || sortKey === 'priceDesc'}
             on:click={togglePriceSort}
           >
-            Price <span aria-hidden="true">{#if sortKey === 'priceDesc'}v{:else}^{/if}</span>
+            Price
+            <span class="sort-icon" aria-hidden="true">
+              {#if sortKey === 'priceDesc'}
+                <svg viewBox="0 0 12 12">
+                  <path d="M6 2.25v7.5M6 9.75 3.75 7.5M6 9.75 8.25 7.5" />
+                </svg>
+              {:else}
+                <svg viewBox="0 0 12 12">
+                  <path d="M6 9.75v-7.5M6 2.25 3.75 4.5M6 2.25 8.25 4.5" />
+                </svg>
+              {/if}
+            </span>
           </button>
         </div>
 
@@ -910,9 +841,10 @@
     display: flex;
     gap: 10px;
     align-items: start;
+    animation: rise-fade 280ms ease both;
   }
 
-  .search-pill,
+  .filter-pill,
   .icon-button,
   .ghost-chip,
   .token-wrap button,
@@ -926,28 +858,36 @@
     box-shadow: var(--shadow-soft);
   }
 
-  .search-pill {
+  .top-filter-row {
     flex: 1 1 auto;
     min-width: 0;
-    display: grid;
-    gap: 2px;
-    text-align: left;
+    display: flex;
+    gap: 8px;
+    overflow-x: auto;
+    scrollbar-width: none;
+    padding-bottom: 2px;
+  }
+
+  .top-filter-row::-webkit-scrollbar {
+    display: none;
+  }
+
+  .filter-pill {
+    flex: 0 0 auto;
     padding: 14px 16px;
+    font-weight: 600;
     backdrop-filter: blur(12px);
   }
 
-  .search-pill-title {
-    font-weight: 700;
-  }
-
-  .search-pill small {
-    color: var(--ink-soft);
-    font-size: 0.78rem;
+  .filter-pill.active {
+    background: #17191c;
+    color: #f8f7f4;
   }
 
   .top-actions {
     display: flex;
     gap: 10px;
+    flex: 0 0 auto;
   }
 
   .icon-button {
@@ -973,18 +913,6 @@
     fill: currentColor;
   }
 
-  .filter-button strong {
-    min-width: 24px;
-    height: 24px;
-    border-radius: 999px;
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    background: var(--ink);
-    color: #f8f7f4;
-    font-size: 0.76rem;
-  }
-
   .viewport-chip {
     top: calc(82px + env(safe-area-inset-top));
     left: 50%;
@@ -995,6 +923,7 @@
     background: #17191c;
     color: #f8f7f4;
     box-shadow: var(--shadow-strong);
+    animation: viewport-rise 220ms ease both;
   }
 
   .panel-scrim {
@@ -1016,6 +945,7 @@
     gap: 16px;
     border: 1px solid rgba(255, 255, 255, 0.7);
     z-index: 30;
+    animation: rise-fade 220ms ease both;
   }
 
   .search-panel {
@@ -1160,6 +1090,24 @@
     margin-bottom: 14px;
   }
 
+  .sort-icon {
+    width: 14px;
+    height: 14px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .sort-icon svg {
+    width: 14px;
+    height: 14px;
+    fill: none;
+    stroke: currentColor;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-width: 1.5;
+  }
+
   .selection-hero {
     width: 100%;
     padding: 0;
@@ -1173,6 +1121,7 @@
     grid-template-columns: 108px 1fr auto;
     gap: 0;
     margin-bottom: 14px;
+    animation: rise-fade 240ms ease both;
   }
 
   .selection-media {
@@ -1283,15 +1232,6 @@
     margin: 0;
   }
 
-  input[type='search'] {
-    width: 100%;
-    border: 1px solid var(--line);
-    border-radius: 18px;
-    padding: 14px 16px;
-    background: rgba(255, 255, 255, 0.9);
-    color: var(--ink);
-  }
-
   .skeleton {
     height: 154px;
     background:
@@ -1307,6 +1247,30 @@
 
     to {
       background-position: -200% 0;
+    }
+  }
+
+  @keyframes rise-fade {
+    from {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  @keyframes viewport-rise {
+    from {
+      opacity: 0;
+      transform: translateX(-50%) translateY(10px);
+    }
+
+    to {
+      opacity: 1;
+      transform: translateX(-50%) translateY(0);
     }
   }
 
@@ -1342,13 +1306,8 @@
       gap: 8px;
     }
 
-    .filter-button {
-      min-width: 52px;
-      padding: 0 14px;
-    }
-
-    .filter-button span {
-      display: none;
+    .top-filter-row {
+      gap: 6px;
     }
 
     .floating-panel {

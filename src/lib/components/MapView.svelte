@@ -88,6 +88,17 @@
     });
 
     map.addLayer({
+      id: 'cluster-halo',
+      type: 'circle',
+      source: 'places',
+      filter: ['has', 'point_count'],
+      paint: {
+        'circle-color': 'rgba(23, 25, 28, 0.12)',
+        'circle-radius': ['step', ['get', 'point_count'], 28, 20, 32, 40, 38]
+      }
+    });
+
+    map.addLayer({
       id: 'clusters',
       type: 'circle',
       source: 'places',
@@ -116,12 +127,31 @@
     });
 
     map.addLayer({
+      id: 'point-halo',
+      type: 'circle',
+      source: 'places',
+      filter: ['!', ['has', 'point_count']],
+      paint: {
+        'circle-radius': 12,
+        'circle-color': [
+          'match',
+          ['get', 'state'],
+          'open',
+          'rgba(47, 125, 87, 0.18)',
+          'closingSoon',
+          'rgba(200, 100, 59, 0.2)',
+          'rgba(140, 145, 153, 0.18)'
+        ]
+      }
+    });
+
+    map.addLayer({
       id: 'points',
       type: 'circle',
       source: 'places',
       filter: ['!', ['has', 'point_count']],
       paint: {
-        'circle-radius': 8,
+        'circle-radius': 6.5,
         'circle-color': [
           'match',
           ['get', 'state'],
@@ -142,10 +172,23 @@
       source: 'places',
       filter: ['==', ['get', 'id'], selectedPlaceId ?? ''],
       paint: {
-        'circle-radius': 14,
+        'circle-radius': 17,
         'circle-color': 'rgba(247, 246, 243, 0.95)',
         'circle-stroke-width': 3,
         'circle-stroke-color': '#c8643b'
+      }
+    });
+
+    map.addLayer({
+      id: 'selected-point-core',
+      type: 'circle',
+      source: 'places',
+      filter: ['==', ['get', 'id'], selectedPlaceId ?? ''],
+      paint: {
+        'circle-radius': 7.5,
+        'circle-color': '#17191c',
+        'circle-stroke-width': 2,
+        'circle-stroke-color': '#f7f6f3'
       }
     });
 
@@ -203,6 +246,7 @@
     const placeSource = map.getSource('places') as GeoJSONSource | undefined;
     placeSource?.setData(asFeatureCollection());
     map.setFilter('selected-point', ['==', ['get', 'id'], selectedPlaceId ?? '']);
+    map.setFilter('selected-point-core', ['==', ['get', 'id'], selectedPlaceId ?? '']);
 
     const userPointSource = map.getSource('user-point') as GeoJSONSource | undefined;
     userPointSource?.setData(
@@ -280,6 +324,22 @@
   .map-shell {
     position: absolute;
     inset: 0;
+  }
+
+  :global(.maplibregl-canvas) {
+    filter: saturate(0.92) contrast(1.02);
+  }
+
+  :global(.maplibregl-ctrl-group) {
+    border-radius: 18px;
+    overflow: hidden;
+    box-shadow: 0 12px 24px rgba(17, 24, 39, 0.12);
+    border: 1px solid rgba(255, 255, 255, 0.7);
+  }
+
+  :global(.maplibregl-ctrl-group button) {
+    width: 42px;
+    height: 42px;
   }
 
   :global(.maplibregl-ctrl-bottom-right) {
