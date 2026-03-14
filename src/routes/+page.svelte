@@ -1,4 +1,4 @@
-<script lang="ts">
+﻿<script lang="ts">
   import { browser } from '$app/environment';
   import { goto } from '$app/navigation';
   import { page } from '$app/stores';
@@ -11,7 +11,7 @@
   import { DEFAULT_CENTER, SEARCH_REDRAW_METERS } from '$lib/config';
   import { loadPlaceDetails, loadPlaceSummary } from '$lib/data/client';
   import type { ActiveFilters, DisplayPlace, PlaceDetail, PlaceSummary, SheetSnap, SortKey } from '$lib/types';
-  import { formatDistance, formatPriceBand, formatPriceRange, normalizePriceBand } from '$lib/utils/format';
+  import { formatPriceRange, normalizePriceBand } from '$lib/utils/format';
   import { haversineDistanceMeters, isInsideBounds, walkMinutesFromDistance } from '$lib/utils/geo';
   import { derivePlaceStatus } from '$lib/utils/hours';
   import { countActiveFilters, summarizeFilters } from '$lib/utils/discovery';
@@ -851,32 +851,17 @@
         </div>
 
         {#if selectedPlace}
-          <button type="button" class="selection-hero" on:click={openDetail}>
-            <div class="selection-media">
-              {#if selectedDetail?.imageUrl}
-                <img src={selectedDetail.imageUrl} alt={selectedPlace.nameEn ?? selectedPlace.nameJp ?? 'Restaurant'} loading="lazy" />
-              {:else}
-                <div class="selection-placeholder">Selected place</div>
-              {/if}
-            </div>
-
-            <div class="selection-copy">
-              <div class="selection-topline">
-                <span class={`status-pill ${selectedPlace.status.state}`}>{selectedPlace.status.label}</span>
-                <span>{selectedPlace.walkMinutes} min walk</span>
-              </div>
-              <h2>{selectedPlace.nameEn ?? selectedPlace.nameJp}</h2>
-              <p>{selectedPlace.category.label} · {selectedPlace.station ?? selectedPlace.area ?? 'Japan'}</p>
-              <div class="selection-metrics">
-                <span>Tabelog {selectedPlace.tabelog.score ?? '-'}</span>
-                <span>{formatPriceBand(selectedPlace.priceBand, selectedPlace.priceBucket)}</span>
-                <span>{formatDistance(selectedPlace.distanceMeters)}</span>
-              </div>
-              <small>{selectedPlace.status.detail}</small>
-            </div>
-
-            <span class="selection-cta">View</span>
-          </button>
+          <div class="selection-hero">
+            <PlaceCard
+              place={selectedPlace}
+              imageUrl={selectedDetail?.imageUrl ?? null}
+              selected={true}
+              layout="expanded"
+              on:select={openDetail}
+              on:directions={() => openDirections(selectedPlace)}
+              on:reserve={() => openReserve(selectedPlace)}
+            />
+          </div>
         {/if}
 
         <div class="segment-row segment-row-mobile">
@@ -1002,7 +987,6 @@
   .ghost-chip,
   .token-wrap button,
   .segment-row button,
-  .result-row,
   .primary-button {
     border: 0;
     border-radius: 999px;
@@ -1102,11 +1086,6 @@
     animation: rise-fade 220ms ease both;
   }
 
-  .search-panel {
-    max-height: min(72vh, 720px);
-    overflow: auto;
-  }
-
   .filter-panel {
     width: min(420px, calc(100vw - 28px));
     right: auto;
@@ -1186,9 +1165,7 @@
     padding: 0;
   }
 
-  .panel-section,
   .filter-section,
-  .search-results,
   .list-stack,
   .segment-row {
     display: grid;
@@ -1265,104 +1242,10 @@
   }
 
   .selection-hero {
-    width: 100%;
-    padding: 0;
-    border: 0;
-    border-radius: 24px;
-    background: rgba(255, 255, 255, 0.9);
-    box-shadow: 0 18px 36px rgba(17, 24, 39, 0.08);
-    overflow: hidden;
-    text-align: left;
-    display: grid;
-    grid-template-columns: 108px 1fr auto;
-    gap: 0;
     margin-bottom: 14px;
     animation: rise-fade 240ms ease both;
   }
 
-  .selection-media {
-    background: linear-gradient(140deg, rgba(23, 25, 28, 0.08), rgba(200, 100, 59, 0.16));
-  }
-
-  .selection-media img,
-  .selection-placeholder {
-    width: 100%;
-    height: 100%;
-    min-height: 132px;
-    object-fit: cover;
-    display: grid;
-    place-items: center;
-    color: rgba(23, 25, 28, 0.56);
-  }
-
-  .selection-copy {
-    padding: 14px 14px 14px 0;
-    display: grid;
-    gap: 8px;
-  }
-
-  .selection-copy h2,
-  .selection-copy p,
-  .selection-copy small {
-    margin: 0;
-  }
-
-  .selection-copy p,
-  .selection-copy small,
-  .selection-metrics span {
-    color: var(--ink-soft);
-  }
-
-  .selection-topline,
-  .selection-metrics {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px 10px;
-    align-items: center;
-    font-size: 0.84rem;
-  }
-
-  .selection-cta {
-    display: inline-flex;
-    align-items: center;
-    padding: 16px 14px 0 0;
-    color: #17191c;
-    font-weight: 600;
-  }
-
-  .status-pill {
-    display: inline-flex;
-    align-items: center;
-    border-radius: 999px;
-    padding: 6px 10px;
-    font-size: 0.82rem;
-    font-weight: 700;
-  }
-
-  .status-pill.open {
-    background: rgba(47, 125, 87, 0.12);
-    color: #20583d;
-  }
-
-  .status-pill.closingSoon {
-    background: rgba(200, 100, 59, 0.14);
-    color: #8b4b30;
-  }
-
-  .status-pill.closed {
-    background: rgba(107, 114, 128, 0.14);
-    color: #5a6270;
-  }
-
-  .result-row {
-    width: 100%;
-    padding: 12px 14px;
-    text-align: left;
-    display: grid;
-    gap: 4px;
-  }
-
-  .empty-search,
   .result-limit,
   .empty-state,
   .skeleton {
@@ -1371,7 +1254,6 @@
     border: 1px solid var(--line);
   }
 
-  .empty-search,
   .result-limit,
   .empty-state {
     padding: 14px;
@@ -1474,21 +1356,8 @@
     }
 
     .selection-hero {
-      grid-template-columns: 92px 1fr auto;
-    }
-
-    .selection-media img,
-    .selection-placeholder {
-      min-height: 124px;
-    }
-
-    .selection-copy {
-      padding-right: 10px;
-    }
-
-    .selection-cta {
-      padding-right: 12px;
-      font-size: 0.84rem;
+      margin-bottom: 12px;
     }
   }
 </style>
+

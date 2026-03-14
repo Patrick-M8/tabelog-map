@@ -4,6 +4,7 @@ import { CLOSING_SOON_MINUTES } from '$lib/config';
 import type { DailyWindow, PlaceStatus, WeeklyTimeline } from '$lib/types';
 
 const DAY_KEYS = ['mon', 'tue', 'wed', 'thu', 'fri', 'sat', 'sun'] as const;
+const MIDDLE_DOT = '\u00B7';
 
 function minutesFromClock(clock: string) {
   const [hours, minutes] = clock.split(':').map(Number);
@@ -32,6 +33,27 @@ function opensLaterLabel(windows: DailyWindow[], currentMinute: number) {
   return nextWindow?.open ?? null;
 }
 
+function formatStatusDetail({
+  closesAt,
+  opensAt,
+  lastOrderAt,
+  state
+}: Pick<PlaceStatus, 'closesAt' | 'opensAt' | 'lastOrderAt' | 'state'>) {
+  if (state === 'open' || state === 'closingSoon') {
+    if (!closesAt) {
+      return 'Hours unavailable';
+    }
+
+    return lastOrderAt ? `Closes ${closesAt} ${MIDDLE_DOT} L.O. ${lastOrderAt}` : `Closes ${closesAt}`;
+  }
+
+  if (opensAt) {
+    return `Closed ${MIDDLE_DOT} Opens ${opensAt}`;
+  }
+
+  return 'No confirmed hours';
+}
+
 export function derivePlaceStatus(timeline: WeeklyTimeline, now = DateTime.now()): PlaceStatus {
   const { combined, currentMinute, today } = activeWindows(timeline, now);
 
@@ -53,10 +75,16 @@ export function derivePlaceStatus(timeline: WeeklyTimeline, now = DateTime.now()
       : closeMinute - currentMinute;
 
     const closingSoon = minutesUntilClose <= CLOSING_SOON_MINUTES;
+    const state = closingSoon ? 'closingSoon' : 'open';
     return {
-      state: closingSoon ? 'closingSoon' : 'open',
-      label: closingSoon ? `Closing in ${minutesUntilClose}m` : 'Open',
-      detail: `${window.open} - ${window.close}`,
+      state,
+      label: closingSoon ? 'Closing soon' : 'Open',
+      detail: formatStatusDetail({
+        state,
+        closesAt: window.close,
+        opensAt: null,
+        lastOrderAt: window.lastOrder
+      }),
       closesAt: window.close,
       opensAt: null,
       lastOrderAt: window.lastOrder,
@@ -66,8 +94,13 @@ export function derivePlaceStatus(timeline: WeeklyTimeline, now = DateTime.now()
   const nextOpen = opensLaterLabel(today, currentMinute);
   return {
     state: 'closed',
-    label: nextOpen ? `Opens ${nextOpen}` : 'Closed today',
-    detail: nextOpen ? 'Closed now' : 'No confirmed hours',
+    label: 'Closed',
+    detail: formatStatusDetail({
+      state: 'closed',
+      closesAt: null,
+      opensAt: nextOpen,
+      lastOrderAt: null
+    }),
     closesAt: null,
     opensAt: nextOpen,
     lastOrderAt: null,
