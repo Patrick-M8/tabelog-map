@@ -6,14 +6,11 @@
 
   export let place: DisplayPlace;
   export let selected = false;
-  export let saved = false;
 
   const dispatch = createEventDispatcher<{
     select: { id: string };
     directions: { id: string };
     reserve: { id: string };
-    call: { id: string };
-    save: { id: string };
   }>();
 </script>
 
@@ -25,10 +22,15 @@
           <h3>{place.nameEn ?? place.nameJp ?? 'Untitled place'}</h3>
           <p>{place.nameJp ?? place.nameEn ?? ''}</p>
         </div>
+        <span class="updated">{formatRelativeUpdate(place.freshnessUpdatedAt)}</span>
+      </div>
+
+      <div class="rating-row">
+        <span class="rating-pill tabelog">Tabelog {place.tabelog.score ?? '-'} · {place.tabelog.reviews}</span>
+        <span class="rating-pill google">Google {place.google.score ?? '-'} · {place.google.reviews}</span>
       </div>
 
       <div class="facts">
-        <span class="grade">{place.consensusGrade}</span>
         <span>{place.walkMinutes} min walk</span>
         <span>{formatPriceBand(place.priceBand)}</span>
         <span>{place.category.label}</span>
@@ -37,26 +39,12 @@
       <div class="status-row">
         <span class={`status-pill ${place.status.state}`}>{place.status.label}</span>
         <span>{place.status.detail}</span>
-        <span>{formatRelativeUpdate(place.freshnessUpdatedAt)}</span>
-      </div>
-
-      <div class="source-row">
-        <span>Tabelog {place.tabelog.score ?? '-'} ({place.tabelog.reviews})</span>
-        <span>Google {place.google.score ?? '-'} ({place.google.reviews})</span>
         <span>{formatDistance(place.distanceMeters)}</span>
       </div>
     </div>
   </button>
 
   <div class="cta-row">
-    <button
-      type="button"
-      class="save-button"
-      aria-label={saved ? 'Remove from saved places' : 'Save place'}
-      on:click|stopPropagation={() => dispatch('save', { id: place.id })}
-    >
-      {saved ? 'Saved' : 'Save'}
-    </button>
     <button type="button" on:click|stopPropagation={() => dispatch('directions', { id: place.id })}>Directions</button>
     <button
       type="button"
@@ -65,14 +53,6 @@
       on:click|stopPropagation={() => dispatch('reserve', { id: place.id })}
     >
       Reserve
-    </button>
-    <button
-      type="button"
-      class:muted={!place.callPhone}
-      disabled={!place.callPhone}
-      on:click|stopPropagation={() => dispatch('call', { id: place.id })}
-    >
-      Call
     </button>
   </div>
 </article>
@@ -86,7 +66,6 @@
     background: rgba(255, 255, 255, 0.9);
     border: 1px solid rgba(31, 42, 47, 0.08);
     box-shadow: 0 10px 24px rgba(31, 42, 47, 0.06);
-    cursor: pointer;
   }
 
   .card.selected {
@@ -101,10 +80,16 @@
     text-align: left;
   }
 
+  .card-main {
+    display: grid;
+    gap: 10px;
+  }
+
   .title-row {
     display: flex;
     justify-content: space-between;
     gap: 12px;
+    align-items: start;
   }
 
   h3 {
@@ -119,14 +104,15 @@
     font-size: 0.83rem;
   }
 
-  .save-button {
-    background: rgba(31, 42, 47, 0.08) !important;
-    color: #1f2a2f !important;
+  .updated {
+    color: rgba(31, 42, 47, 0.54);
+    font-size: 0.72rem;
+    white-space: nowrap;
   }
 
+  .rating-row,
   .facts,
   .status-row,
-  .source-row,
   .cta-row {
     display: flex;
     flex-wrap: wrap;
@@ -134,22 +120,27 @@
     align-items: center;
   }
 
+  .rating-pill,
   .facts span,
-  .status-row span,
-  .source-row span {
+  .status-row span {
     color: rgba(31, 42, 47, 0.72);
     font-size: 0.85rem;
   }
 
-  .grade {
-    width: 28px;
-    height: 28px;
+  .rating-pill {
     border-radius: 999px;
-    display: grid;
-    place-items: center;
-    background: #1f2a2f;
-    color: #f6f1e8 !important;
-    font-weight: 700;
+    padding: 6px 10px;
+    font-weight: 600;
+  }
+
+  .rating-pill.tabelog {
+    background: rgba(201, 112, 51, 0.14);
+    color: #8d4d21;
+  }
+
+  .rating-pill.google {
+    background: rgba(61, 140, 89, 0.14);
+    color: #215337;
   }
 
   .status-pill {
@@ -176,7 +167,7 @@
   }
 
   .cta-row button {
-    flex: 1 1 96px;
+    flex: 1 1 120px;
     min-width: 0;
     border: 0;
     border-radius: 14px;

@@ -6,28 +6,20 @@
 
   import BottomSheet from '$lib/components/BottomSheet.svelte';
   import PlaceCard from '$lib/components/PlaceCard.svelte';
-  import {
-    DEFAULT_CENTER,
-    DEFAULT_RADIUS_METERS,
-    RADIUS_STEPS,
-    SEARCH_REDRAW_METERS
-  } from '$lib/config';
-  import { loadPlaceDetails, loadPlaceSummary, loadPopularHubs } from '$lib/data/client';
-  import { savesStore } from '$lib/stores/saves';
-  import type {
-    ActiveFilters,
-    DisplayPlace,
-    PlaceDetail,
-    PlaceSummary,
-    PopularHub,
-    SearchState,
-    SheetSnap,
-    SortKey
-  } from '$lib/types';
-  import { formatDistance } from '$lib/utils/format';
+  import { DEFAULT_CENTER, SEARCH_REDRAW_METERS } from '$lib/config';
+  import { loadPlaceDetails, loadPlaceSummary } from '$lib/data/client';
+  import type { ActiveFilters, DisplayPlace, PlaceDetail, PlaceSummary, SheetSnap, SortKey } from '$lib/types';
   import { haversineDistanceMeters, isInsideBounds, walkMinutesFromDistance } from '$lib/utils/geo';
   import { derivePlaceStatus } from '$lib/utils/hours';
   import { sortPlaces } from '$lib/utils/sort';
+
+  type SearchRecent = {
+    id: string;
+    label: string;
+    subtitle: string;
+    lat: number;
+    lng: number;
+  };
 
   const summaryQuery = createQuery<PlaceSummary[]>({
     queryKey: ['places-summary'],
@@ -41,12 +33,6 @@
     enabled: browser
   });
 
-  const hubQuery = createQuery<PopularHub[]>({
-    queryKey: ['popular-hubs'],
-    queryFn: loadPopularHubs,
-    enabled: browser
-  });
-
   const EMPTY_FILTERS: ActiveFilters = {
     openNow: false,
     closingSoon: false,
@@ -55,44 +41,44 @@
     categoryKeys: []
   };
 
+  const PRICE_BANDS = ['¥', '¥¥', '¥¥¥', '¥¥¥¥'];
+  const RECENT_STORAGE_KEY = 'tabemap:recent-searches';
+
   let innerWidth = 390;
   let sheetSnap: SheetSnap = 'mid';
   let sortKey: SortKey = 'best';
   let activeFilters: ActiveFilters = { ...EMPTY_FILTERS };
-  let clustersEnabled = true;
-  let heatmapEnabled = false;
   let searchOpen = false;
-  let filterOpen = false;
-  let layersOpen = false;
+  let categoryMenuOpen = false;
+  let priceMenuOpen = false;
   let detailOpen = false;
-  let radiusMeters = DEFAULT_RADIUS_METERS;
   let selectedPlaceId: string | null = null;
   let searchInput = '';
   let searchCenter = { ...DEFAULT_CENTER };
   let mapCenter = { ...DEFAULT_CENTER };
-  let mapBounds: SearchState['bounds'] = null;
+  let mapBounds: { north: number; south: number; east: number; west: number } | null = null;
   let userLocation: { lat: number; lng: number } | null = null;
-  let focusTarget: { lat: number; lng: number; zoom?: number; token: string } | null = null;
-  let recents: PopularHub[] = [];
-  let issueToast = '';
+  let focusTarget: { lat: number; lng: number; zoom?: number; token: string } | null = {
+    ...DEFAULT_CENTER,
+    zoom: 4.8,
+    token: 'initial'
+  };
+  let recents: SearchRecent[] = [];
   let geolocationDenied = false;
   let summaries: PlaceSummary[] = [];
   let details: Record<string, PlaceDetail> = {};
-  let hubs: PopularHub[] = [];
+  let candidatePlaces: DisplayPlace[] = [];
   let displayPlaces: DisplayPlace[] = [];
   let sortedPlaces: DisplayPlace[] = [];
+  let visiblePlaces: DisplayPlace[] = [];
   let selectedPlace: DisplayPlace | null = null;
   let selectedDetail: PlaceDetail | null = null;
   let availableCategories: { key: string; label: string; count: number }[] = [];
-  let quickCategories: { key: string; label: string; count: number }[] = [];
-  let searchResults: { hubs: PopularHub[]; places: PlaceSummary[] } = { hubs: [], places: [] };
+  let searchResults: PlaceSummary[] = [];
   let showRedoSearch = false;
   let desktop = false;
-  let searchDriftMeters = 0;
   let MapViewComponent: typeof import('$lib/components/MapView.svelte').default | null = null;
   let DetailSheetComponent: typeof import('$lib/components/PlaceDetailSheet.svelte').default | null = null;
-
-  const recentStorageKey = 'tabemap:recents';
 
   function randomToken(prefix: string) {
     return `${prefix}-${Date.now()}-${Math.random().toString(16).slice(2, 8)}`;
@@ -102,22 +88,44 @@
     if (!browser) {
       return;
     }
-    const stored = localStorage.getItem(recentStorageKey);
-    recents = stored ? (JSON.parse(stored) as PopularHub[]) : [];
+
+    const stored = localStorage.getItem(RECENT_STORAGE_KEY);
+    recents = stored ? (JSON.parse(stored) as SearchRecent[]) : [];
   }
 
-  function rememberSearch(hub: PopularHub) {
+  function rememberSearch(place: PlaceSummary) {
     if (!browser) {
       return;
     }
-    recents = [hub, ...recents.filter((entry) => entry.id !== hub.id)].slice(0, 5);
-    localStorage.setItem(recentStorageKey, JSON.stringify(recents));
+
+    const recent: SearchRecent = {
+      id: place.id,
+      label: place.nameEn ?? place.nameJp ?? 'Unknown',
+      subtitle: place.station ?? place.area ?? place.category.label,
+      lat: place.lat,
+      lng: place.lng
+    };
+
+    recents = [recent, ...recents.filter((entry) => entry.id !== recent.id)].slice(0, 6);
+    localStorage.setItem(RECENT_STORAGE_KEY, JSON.stringify(recents));
+  }
+
+  function applySearchPlace(place: PlaceSummary) {
+    searchCenter = { lat: place.lat, lng: place.lng };
+    mapCenter = { lat: place.lat, lng: place.lng };
+    focusTarget = { lat: place.lat, lng: place.lng, zoom: 14.8, token: randomToken(place.id) };
+    rememberSearch(place);
+    selectPlace(place.id, false);
+    searchInput = '';
+    searchOpen = false;
+    detailOpen = false;
   }
 
   function openDirections(place: PlaceSummary) {
     if (!browser) {
       return;
     }
+
     const url = place.placeId
       ? `https://www.google.com/maps/place/?q=place_id:${place.placeId}`
       : `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(
@@ -130,42 +138,6 @@
     if (browser && place.reserveUrl) {
       window.open(place.reserveUrl, '_blank', 'noopener,noreferrer');
     }
-  }
-
-  function openCall(place: PlaceSummary) {
-    if (browser && place.callPhone) {
-      window.location.href = `tel:${place.callPhone}`;
-    }
-  }
-
-  function queueIssue(detail: PlaceDetail, reason: string, notes: string) {
-      const payload = {
-      ...detail.issuePayload,
-      reason,
-      notes,
-      locale: browser ? navigator.language : 'en',
-      submittedAt: new Date().toISOString()
-    };
-
-    if (browser) {
-      const queue = JSON.parse(localStorage.getItem('tabemap:issues') ?? '[]') as unknown[];
-      localStorage.setItem('tabemap:issues', JSON.stringify([payload, ...queue].slice(0, 20)));
-      navigator.clipboard?.writeText(JSON.stringify(payload, null, 2));
-    }
-
-    issueToast = 'Issue payload queued locally and copied to clipboard.';
-    setTimeout(() => {
-      issueToast = '';
-    }, 3000);
-  }
-
-  function applySearchHub(hub: PopularHub) {
-    searchCenter = { lat: hub.lat, lng: hub.lng };
-    mapCenter = { lat: hub.lat, lng: hub.lng };
-    focusTarget = { lat: hub.lat, lng: hub.lng, zoom: 13.8, token: randomToken(hub.id) };
-    rememberSearch(hub);
-    searchInput = '';
-    searchOpen = false;
   }
 
   function requestGeolocation() {
@@ -187,6 +159,7 @@
       },
       () => {
         geolocationDenied = true;
+        focusTarget = { ...DEFAULT_CENTER, zoom: 4.8, token: randomToken('japan-default') };
       },
       { enableHighAccuracy: true, timeout: 6000 }
     );
@@ -216,31 +189,19 @@
     };
   }
 
-  function searchMatches(hubs: PopularHub[], places: PlaceSummary[]) {
-    const query = searchInput.trim().toLowerCase();
-    if (!query) {
-      return {
-        hubs,
-        places: places.slice(0, 10)
-      };
-    }
-
-    return {
-      hubs: hubs.filter(
-        (hub) => hub.label.toLowerCase().includes(query) || hub.nameJp.toLowerCase().includes(query)
-      ),
-      places: places.filter((place) =>
-        `${place.nameEn ?? ''} ${place.nameJp ?? ''} ${place.station ?? ''} ${place.area ?? ''}`
-          .toLowerCase()
-          .includes(query)
-      )
+  function togglePriceBand(band: string) {
+    activeFilters = {
+      ...activeFilters,
+      priceBands: activeFilters.priceBands.includes(band)
+        ? activeFilters.priceBands.filter((value) => value !== band)
+        : [...activeFilters.priceBands, band]
     };
   }
 
-  function selectPlace(placeId: string) {
+  function selectPlace(placeId: string, refocus = true) {
     selectedPlaceId = placeId;
-    const place = displayPlaces.find((entry: DisplayPlace) => entry.id === placeId);
-    if (place) {
+    const place = candidatePlaces.find((entry) => entry.id === placeId) ?? summaries.find((entry) => entry.id === placeId);
+    if (place && refocus) {
       focusTarget = { lat: place.lat, lng: place.lng, zoom: 15, token: randomToken(place.id) };
       sheetSnap = 'mid';
     }
@@ -249,14 +210,29 @@
   function recenter() {
     if (userLocation) {
       searchCenter = { ...userLocation };
+      mapCenter = { ...userLocation };
       focusTarget = { ...userLocation, zoom: 14.4, token: randomToken('recenter') };
       return;
     }
 
-    const hub = hubs[0];
-    if (hub) {
-      applySearchHub(hub);
+    focusTarget = { ...DEFAULT_CENTER, zoom: 4.8, token: randomToken('reset-japan') };
+    searchCenter = { ...DEFAULT_CENTER };
+    mapCenter = { ...DEFAULT_CENTER };
+  }
+
+  function searchMatches(places: PlaceSummary[]) {
+    const query = searchInput.trim().toLowerCase();
+    if (!query) {
+      return [];
     }
+
+    return places
+      .filter((place) =>
+        `${place.nameEn ?? ''} ${place.nameJp ?? ''} ${place.station ?? ''} ${place.area ?? ''} ${place.category.label} ${(place.subCategories ?? []).join(' ')}`
+          .toLowerCase()
+          .includes(query)
+      )
+      .slice(0, 24);
   }
 
   onMount(async () => {
@@ -267,21 +243,17 @@
     MapViewComponent = mapView;
     DetailSheetComponent = detailSheet;
     hydrateRecents();
-    await savesStore.hydrate();
     requestGeolocation();
   });
 
   $: desktop = innerWidth >= 960;
   $: summaries = $summaryQuery.data ?? [];
   $: details = $detailQuery.data ?? {};
-  $: hubs = $hubQuery.data ?? [];
   $: availableCategories = visibleCategories(summaries);
-  $: searchResults = searchMatches(recents.length ? recents : hubs, summaries);
-
-  $: displayPlaces = summaries
+  $: searchResults = searchMatches(summaries);
+  $: candidatePlaces = summaries
     .map((place) => {
-      const anchor = searchCenter;
-      const distanceMeters = haversineDistanceMeters(anchor, { lat: place.lat, lng: place.lng });
+      const distanceMeters = haversineDistanceMeters(searchCenter, { lat: place.lat, lng: place.lng });
       return {
         ...place,
         distanceMeters,
@@ -289,23 +261,30 @@
         status: derivePlaceStatus(place.weeklyTimeline)
       } satisfies DisplayPlace;
     })
-    .filter((place) => place.distanceMeters <= radiusMeters)
-    .filter((place) => isInsideBounds({ lat: place.lat, lng: place.lng }, mapBounds))
     .filter((place) => (activeFilters.openNow ? place.status.state !== 'closed' : true))
-    .filter((place) => (activeFilters.closingSoon ? place.status.state === 'closingSoon' : true))
     .filter((place) => (activeFilters.maxWalkMinutes ? place.walkMinutes <= activeFilters.maxWalkMinutes : true))
     .filter((place) => (activeFilters.priceBands.length ? activeFilters.priceBands.includes(place.priceBand ?? '') : true))
     .filter((place) => (activeFilters.categoryKeys.length ? activeFilters.categoryKeys.includes(place.category.key) : true));
-
+  $: displayPlaces = candidatePlaces.filter((place) => isInsideBounds({ lat: place.lat, lng: place.lng }, mapBounds));
   $: sortedPlaces = sortPlaces(displayPlaces, sortKey);
-  $: if (!selectedPlaceId && sortedPlaces.length) {
+  $: if (sortedPlaces.length && !sortedPlaces.some((place) => place.id === selectedPlaceId)) {
     selectedPlaceId = sortedPlaces[0].id;
+  }
+  $: if (!sortedPlaces.length) {
+    selectedPlaceId = null;
+    detailOpen = false;
   }
   $: selectedPlace = sortedPlaces.find((place) => place.id === selectedPlaceId) ?? null;
   $: selectedDetail = selectedPlaceId ? details[selectedPlaceId] ?? null : null;
-  $: searchDriftMeters = haversineDistanceMeters(searchCenter, mapCenter);
-  $: showRedoSearch = searchDriftMeters > SEARCH_REDRAW_METERS;
-  $: quickCategories = availableCategories.slice(0, 8);
+  $: showRedoSearch = haversineDistanceMeters(searchCenter, mapCenter) > SEARCH_REDRAW_METERS;
+  $: {
+    const firstChunk = sortedPlaces.slice(0, 80);
+    if (selectedPlace && !firstChunk.some((place) => place.id === selectedPlace.id)) {
+      visiblePlaces = [selectedPlace, ...firstChunk.slice(0, 79)];
+    } else {
+      visiblePlaces = firstChunk;
+    }
+  }
 </script>
 
 <svelte:window bind:innerWidth />
@@ -315,13 +294,10 @@
     {#if MapViewComponent}
       <svelte:component
         this={MapViewComponent}
-        places={sortedPlaces}
+        places={candidatePlaces}
         {selectedPlaceId}
         {userLocation}
         {focusTarget}
-        {radiusMeters}
-        {clustersEnabled}
-        {heatmapEnabled}
         on:moveend={(event) => {
           mapCenter = event.detail.center;
           mapBounds = event.detail.bounds;
@@ -336,57 +312,67 @@
 
     <div class="top-chrome">
       <button type="button" class="search-pill" on:click={() => (searchOpen = !searchOpen)}>
-        {#if geolocationDenied}
-          Tokyo hubs, stations, landmarks
-        {:else}
-          {$_('search')}
-        {/if}
+        {$_('search')}
       </button>
-      <div class="chrome-actions">
-        <button type="button" class="icon-button" on:click={() => (layersOpen = !layersOpen)}>{$_('layers')}</button>
-        <button type="button" class="icon-button" on:click={recenter}>{$_('recenter')}</button>
-      </div>
+      <button type="button" class="icon-button" on:click={recenter}>{$_('recenter')}</button>
     </div>
 
     <div class="chip-row">
       <button type="button" class:active={activeFilters.openNow} on:click={() => (activeFilters = { ...activeFilters, openNow: !activeFilters.openNow })}>
-        {$_('openNow')}
-      </button>
-      <button
-        type="button"
-        class:active={activeFilters.closingSoon}
-        on:click={() => (activeFilters = { ...activeFilters, closingSoon: !activeFilters.closingSoon })}
-      >
-        {$_('closingSoon')}
+        Open
       </button>
       <button
         type="button"
         class:active={activeFilters.maxWalkMinutes === 10}
         on:click={() => (activeFilters = { ...activeFilters, maxWalkMinutes: activeFilters.maxWalkMinutes === 10 ? null : 10 })}
       >
-        ≤ 10 min walk
+        &lt;= 10 min walk
       </button>
-      <button
-        type="button"
-        class:active={activeFilters.priceBands.includes('¥¥¥')}
-        on:click={() =>
-          (activeFilters = {
-            ...activeFilters,
-            priceBands: activeFilters.priceBands.includes('¥¥¥')
-              ? activeFilters.priceBands.filter((band) => band !== '¥¥¥')
-              : ['¥¥¥']
-          })
-        }
-      >
-        ¥¥¥
+      <button type="button" class:active={activeFilters.categoryKeys.length > 0} on:click={() => {
+        categoryMenuOpen = !categoryMenuOpen;
+        priceMenuOpen = false;
+      }}>
+        Categories
       </button>
-      {#each quickCategories as category}
-        <button type="button" class:active={activeFilters.categoryKeys.includes(category.key)} on:click={() => toggleCategory(category.key)}>
-          {category.label}
-        </button>
-      {/each}
-      <button type="button" class="ghost-chip" on:click={() => (filterOpen = true)}>{$_('filters')}</button>
+      <button type="button" class:active={activeFilters.priceBands.length > 0} on:click={() => {
+        priceMenuOpen = !priceMenuOpen;
+        categoryMenuOpen = false;
+      }}>
+        Price
+      </button>
     </div>
+
+    {#if categoryMenuOpen}
+      <section class="chip-panel chip-panel-left">
+        <div class="chip-panel-header">
+          <h2>Categories</h2>
+          <button type="button" class="ghost-chip" on:click={() => (categoryMenuOpen = false)}>Close</button>
+        </div>
+        <div class="token-wrap">
+          {#each availableCategories as category}
+            <button type="button" class:active={activeFilters.categoryKeys.includes(category.key)} on:click={() => toggleCategory(category.key)}>
+              {category.label}
+            </button>
+          {/each}
+        </div>
+      </section>
+    {/if}
+
+    {#if priceMenuOpen}
+      <section class="chip-panel chip-panel-right">
+        <div class="chip-panel-header">
+          <h2>Price</h2>
+          <button type="button" class="ghost-chip" on:click={() => (priceMenuOpen = false)}>Close</button>
+        </div>
+        <div class="token-wrap">
+          {#each PRICE_BANDS as band}
+            <button type="button" class:active={activeFilters.priceBands.includes(band)} on:click={() => togglePriceBand(band)}>
+              {band}
+            </button>
+          {/each}
+        </div>
+      </section>
+    {/if}
 
     {#if showRedoSearch}
       <button
@@ -401,116 +387,50 @@
       </button>
     {/if}
 
-    <div class="radius-rail" aria-label="Radius control">
-      {#each RADIUS_STEPS as step}
-        <button type="button" class:active={radiusMeters === step.meters} on:click={() => (radiusMeters = step.meters)}>
-          {step.label}
-        </button>
-      {/each}
-    </div>
-
     {#if searchOpen}
       <section class="floating-panel search-panel">
         <div class="panel-header">
-          <h2>Search</h2>
+          <h2>Search across Japan</h2>
           <button type="button" class="ghost-chip" on:click={() => (searchOpen = false)}>Close</button>
         </div>
-        <input bind:value={searchInput} type="search" placeholder="Shinjuku, Hibiya, ramen, bakery" />
-        <div class="panel-section">
-          <h3>Recent</h3>
-          <div class="token-wrap">
-            {#each (recents.length ? recents : hubs.slice(0, 5)) as hub}
-              <button type="button" on:click={() => applySearchHub(hub)}>{hub.label}</button>
-            {/each}
+        <input bind:value={searchInput} type="search" placeholder="Search any restaurant, station, area, or cuisine" />
+        {#if recents.length > 0}
+          <div class="panel-section">
+            <h3>Recent searches</h3>
+            <div class="token-wrap">
+              {#each recents as recent}
+                <button
+                  type="button"
+                  on:click={() => {
+                    searchCenter = { lat: recent.lat, lng: recent.lng };
+                    mapCenter = { lat: recent.lat, lng: recent.lng };
+                    focusTarget = { lat: recent.lat, lng: recent.lng, zoom: 14.8, token: randomToken(recent.id) };
+                    searchOpen = false;
+                  }}
+                >
+                  {recent.label}
+                </button>
+              {/each}
+            </div>
           </div>
-        </div>
+        {/if}
         <div class="panel-section">
-          <h3>Popular hubs</h3>
+          <h3>Results</h3>
           <div class="search-results">
-            {#each searchResults.hubs.slice(0, 6) as hub}
-              <button type="button" class="result-row" on:click={() => applySearchHub(hub)}>
-                <strong>{hub.label}</strong>
-                <span>{hub.nameJp}</span>
-              </button>
-            {/each}
-            {#each searchResults.places.slice(0, 8) as place}
-              <button
-                type="button"
-                class="result-row"
-                on:click={() => {
-                  selectPlace(place.id);
-                  searchOpen = false;
-                }}
-              >
-                <strong>{place.nameEn ?? place.nameJp}</strong>
-                <span>{place.station ?? place.area}</span>
-              </button>
-            {/each}
+            {#if searchInput.trim().length === 0}
+              <div class="empty-search">Start typing to search all restaurants in Japan.</div>
+            {:else if searchResults.length === 0}
+              <div class="empty-search">No matches found.</div>
+            {:else}
+              {#each searchResults as place}
+                <button type="button" class="result-row" on:click={() => applySearchPlace(place)}>
+                  <strong>{place.nameEn ?? place.nameJp}</strong>
+                  <span>{place.station ?? place.area ?? place.category.label}</span>
+                </button>
+              {/each}
+            {/if}
           </div>
         </div>
-      </section>
-    {/if}
-
-    {#if filterOpen}
-      <section class="floating-panel filter-panel">
-        <div class="panel-header">
-          <h2>Filters</h2>
-          <button type="button" class="ghost-chip" on:click={() => (filterOpen = false)}>Close</button>
-        </div>
-        <div class="segment-row">
-          <button type="button" class:active={sortKey === 'best'} on:click={() => (sortKey = 'best')}>{$_('sortBest')}</button>
-          <button type="button" class:active={sortKey === 'closingSoon'} on:click={() => (sortKey = 'closingSoon')}>{$_('sortClosingSoon')}</button>
-          <button type="button" class:active={sortKey === 'distance'} on:click={() => (sortKey = 'distance')}>{$_('sortDistance')}</button>
-          <button type="button" class:active={sortKey === 'price'} on:click={() => (sortKey = 'price')}>{$_('sortPrice')}</button>
-        </div>
-        <div class="panel-section">
-          <h3>Price</h3>
-          <div class="token-wrap">
-            {#each ['¥', '¥¥', '¥¥¥', '¥¥¥¥'] as band}
-              <button
-                type="button"
-                class:active={activeFilters.priceBands.includes(band)}
-                on:click={() =>
-                  (activeFilters = {
-                    ...activeFilters,
-                    priceBands: activeFilters.priceBands.includes(band)
-                      ? activeFilters.priceBands.filter((value) => value !== band)
-                      : [...activeFilters.priceBands, band]
-                  })
-                }
-              >
-                {band}
-              </button>
-            {/each}
-          </div>
-        </div>
-        <div class="panel-section">
-          <h3>Categories</h3>
-          <div class="token-wrap">
-            {#each availableCategories as category}
-              <button type="button" class:active={activeFilters.categoryKeys.includes(category.key)} on:click={() => toggleCategory(category.key)}>
-                {category.label}
-              </button>
-            {/each}
-          </div>
-        </div>
-      </section>
-    {/if}
-
-    {#if layersOpen}
-      <section class="floating-panel layers-panel">
-        <div class="panel-header">
-          <h2>Layers</h2>
-          <button type="button" class="ghost-chip" on:click={() => (layersOpen = false)}>Close</button>
-        </div>
-        <label class="toggle-row">
-          <span>Cluster pins</span>
-          <input bind:checked={clustersEnabled} type="checkbox" />
-        </label>
-        <label class="toggle-row">
-          <span>Heatmap</span>
-          <input bind:checked={heatmapEnabled} type="checkbox" />
-        </label>
       </section>
     {/if}
   </section>
@@ -521,46 +441,13 @@
         <div class="sheet-header">
           <div>
             <p class="eyebrow">{sortedPlaces.length} places in view</p>
-            <h1>Elite picks near {selectedPlace?.station ?? 'you'}</h1>
+            <h1>{selectedPlace?.station ?? 'Restaurants across Japan'}</h1>
           </div>
-          <button type="button" class="ghost-chip" on:click={() => (detailOpen = !detailOpen)}>
-            {detailOpen ? 'Hide details' : 'View details'}
-          </button>
-        </div>
-
-        {#if issueToast}
-          <div class="toast">{issueToast}</div>
-        {/if}
-
-        <div class="list-stack">
-          {#if $summaryQuery.isLoading}
-            {#each Array.from({ length: 6 }) as _, index (index)}
-              <div class="skeleton" aria-hidden="true"></div>
-            {/each}
-          {:else if !sortedPlaces.length}
-            <div class="empty-state">
-              <h3>{geolocationDenied ? 'Choose a Tokyo hub' : 'No places in this view'}</h3>
-              <p>{geolocationDenied ? 'Location is denied, so the app starts from curated hubs.' : 'Try a wider walk radius or fewer filters.'}</p>
-            </div>
-          {:else}
-            {#each sortedPlaces as place (place.id)}
-              <PlaceCard
-                {place}
-                selected={place.id === selectedPlaceId}
-                saved={$savesStore.has(place.id)}
-                on:select={() => {
-                  if (selectedPlaceId === place.id) {
-                    detailOpen = true;
-                  }
-                  selectPlace(place.id);
-                }}
-                on:directions={() => openDirections(place)}
-                on:reserve={() => openReserve(place)}
-                on:call={() => openCall(place)}
-                on:save={() => savesStore.toggle(place.id)}
-              />
-            {/each}
-          {/if}
+          <div class="segment-row">
+            <button type="button" class:active={sortKey === 'best'} on:click={() => (sortKey = 'best')}>Best nearby</button>
+            <button type="button" class:active={sortKey === 'distance'} on:click={() => (sortKey = 'distance')}>Distance</button>
+            <button type="button" class:active={sortKey === 'price'} on:click={() => (sortKey = 'price')}>Price</button>
+          </div>
         </div>
 
         {#if detailOpen && DetailSheetComponent}
@@ -568,9 +455,7 @@
             this={DetailSheetComponent}
             detail={selectedDetail}
             status={selectedPlace?.status ?? null}
-            saved={selectedPlace ? $savesStore.has(selectedPlace.id) : false}
             on:close={() => (detailOpen = false)}
-            on:save={(event) => savesStore.toggle(event.detail.id)}
             on:directions={(event) => {
               const place = sortedPlaces.find((item) => item.id === event.detail.id);
               if (place) openDirections(place);
@@ -579,16 +464,36 @@
               const place = sortedPlaces.find((item) => item.id === event.detail.id);
               if (place) openReserve(place);
             }}
-            on:call={(event) => {
-              const place = sortedPlaces.find((item) => item.id === event.detail.id);
-              if (place) openCall(place);
-            }}
-            on:issue={(event) => {
-              if (selectedDetail) {
-                queueIssue(selectedDetail, event.detail.reason, event.detail.notes);
-              }
-            }}
           />
+        {:else if $summaryQuery.isLoading}
+          {#each Array.from({ length: 6 }) as _, index (index)}
+            <div class="skeleton" aria-hidden="true"></div>
+          {/each}
+        {:else if !sortedPlaces.length}
+          <div class="empty-state">
+            <h3>No places in this view</h3>
+            <p>Pan, zoom, or search to another area in Japan.</p>
+          </div>
+        {:else}
+          {#if sortedPlaces.length > visiblePlaces.length}
+            <div class="result-limit">Showing {visiblePlaces.length} of {sortedPlaces.length} places in the current viewport.</div>
+          {/if}
+          <div class="list-stack">
+            {#each visiblePlaces as place (place.id)}
+              <PlaceCard
+                {place}
+                selected={place.id === selectedPlaceId}
+                on:select={() => {
+                  if (selectedPlaceId === place.id) {
+                    detailOpen = true;
+                  }
+                  selectPlace(place.id);
+                }}
+                on:directions={() => openDirections(place)}
+                on:reserve={() => openReserve(place)}
+              />
+            {/each}
+          </div>
         {/if}
       </BottomSheet>
     </section>
@@ -597,25 +502,23 @@
       <div class="sheet-header">
         <div>
           <p class="eyebrow">{sortedPlaces.length} places in view</p>
-          <h1>Decision in two taps</h1>
+          <h1>Restaurants in the current map view</h1>
         </div>
-        <button type="button" class="ghost-chip" on:click={() => (detailOpen = !detailOpen)}>
-          {detailOpen ? 'List' : 'Detail'}
-        </button>
+        <button type="button" class="ghost-chip" on:click={() => (detailOpen = !detailOpen)}>{detailOpen ? 'List' : 'Detail'}</button>
       </div>
 
-      {#if issueToast}
-        <div class="toast">{issueToast}</div>
-      {/if}
+      <div class="segment-row segment-row-mobile">
+        <button type="button" class:active={sortKey === 'best'} on:click={() => (sortKey = 'best')}>Best nearby</button>
+        <button type="button" class:active={sortKey === 'distance'} on:click={() => (sortKey = 'distance')}>Distance</button>
+        <button type="button" class:active={sortKey === 'price'} on:click={() => (sortKey = 'price')}>Price</button>
+      </div>
 
       {#if detailOpen && DetailSheetComponent}
         <svelte:component
           this={DetailSheetComponent}
           detail={selectedDetail}
           status={selectedPlace?.status ?? null}
-          saved={selectedPlace ? $savesStore.has(selectedPlace.id) : false}
           on:close={() => (detailOpen = false)}
-          on:save={(event) => savesStore.toggle(event.detail.id)}
           on:directions={(event) => {
             const place = sortedPlaces.find((item) => item.id === event.detail.id);
             if (place) openDirections(place);
@@ -624,15 +527,6 @@
             const place = sortedPlaces.find((item) => item.id === event.detail.id);
             if (place) openReserve(place);
           }}
-          on:call={(event) => {
-            const place = sortedPlaces.find((item) => item.id === event.detail.id);
-            if (place) openCall(place);
-          }}
-          on:issue={(event) => {
-            if (selectedDetail) {
-              queueIssue(selectedDetail, event.detail.reason, event.detail.notes);
-            }
-          }}
         />
       {:else if $summaryQuery.isLoading}
         {#each Array.from({ length: 4 }) as _, index (index)}
@@ -640,21 +534,18 @@
         {/each}
       {:else if !sortedPlaces.length}
         <div class="empty-state">
-          <h3>{geolocationDenied ? 'Choose a Tokyo hub' : 'No places in this view'}</h3>
-          <p>{geolocationDenied ? 'Location is denied, so the app starts from curated hubs like Shinjuku and Ginza.' : 'Try a wider walk radius or fewer filters.'}</p>
-          <div class="token-wrap">
-            {#each hubs.slice(0, 5) as hub}
-              <button type="button" on:click={() => applySearchHub(hub)}>{hub.label}</button>
-            {/each}
-          </div>
+          <h3>No places in this view</h3>
+          <p>Pan, zoom, or search to another area in Japan.</p>
         </div>
       {:else}
+        {#if sortedPlaces.length > visiblePlaces.length}
+          <div class="result-limit">Showing {visiblePlaces.length} of {sortedPlaces.length} places in the current viewport.</div>
+        {/if}
         <div class="list-stack">
-          {#each sortedPlaces as place (place.id)}
+          {#each visiblePlaces as place (place.id)}
             <PlaceCard
               {place}
               selected={place.id === selectedPlaceId}
-              saved={$savesStore.has(place.id)}
               on:select={() => {
                 if (selectedPlaceId === place.id) {
                   detailOpen = true;
@@ -663,8 +554,6 @@
               }}
               on:directions={() => openDirections(place)}
               on:reserve={() => openReserve(place)}
-              on:call={() => openCall(place)}
-              on:save={() => savesStore.toggle(place.id)}
             />
           {/each}
         </div>
@@ -716,8 +605,8 @@
 
   .top-chrome,
   .chip-row,
-  .radius-rail,
-  .redo-chip {
+  .redo-chip,
+  .chip-panel {
     position: absolute;
     z-index: 6;
   }
@@ -733,7 +622,6 @@
   .search-pill,
   .icon-button,
   .chip-row button,
-  .radius-rail button,
   .ghost-chip,
   .token-wrap button,
   .segment-row button,
@@ -750,11 +638,6 @@
     padding: 14px 18px;
     text-align: left;
     font-weight: 600;
-  }
-
-  .chrome-actions {
-    display: flex;
-    gap: 8px;
   }
 
   .icon-button {
@@ -781,8 +664,7 @@
 
   .chip-row button.active,
   .token-wrap button.active,
-  .segment-row button.active,
-  .radius-rail button.active {
+  .segment-row button.active {
     background: var(--ink);
     color: #f6f1e8;
   }
@@ -790,6 +672,34 @@
   .ghost-chip {
     padding: 11px 14px;
     background: rgba(31, 42, 47, 0.08);
+  }
+
+  .chip-panel {
+    bottom: calc(266px + env(safe-area-inset-bottom));
+    width: min(340px, calc(100vw - 32px));
+    background: var(--panel-bg);
+    border-radius: 22px;
+    box-shadow: var(--shadow-strong);
+    padding: 14px;
+    display: grid;
+    gap: 12px;
+  }
+
+  .chip-panel-left {
+    left: 16px;
+  }
+
+  .chip-panel-right {
+    right: 16px;
+  }
+
+  .chip-panel-header,
+  .panel-header,
+  .sheet-header {
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+    align-items: center;
   }
 
   .redo-chip {
@@ -802,18 +712,6 @@
     background: var(--ink);
     color: #f6f1e8;
     box-shadow: var(--shadow-strong);
-  }
-
-  .radius-rail {
-    right: 16px;
-    bottom: calc(214px + env(safe-area-inset-bottom));
-    display: grid;
-    gap: 10px;
-  }
-
-  .radius-rail button {
-    width: 58px;
-    padding: 10px 0;
   }
 
   .floating-panel {
@@ -832,39 +730,19 @@
   }
 
   .search-panel {
-    max-height: min(70vh, 620px);
-    overflow: auto;
-  }
-
-  .layers-panel {
-    right: auto;
-    width: min(320px, calc(100vw - 32px));
-  }
-
-  .filter-panel {
     max-height: min(72vh, 680px);
     overflow: auto;
-  }
-
-  .panel-header,
-  .sheet-header,
-  .toggle-row {
-    display: flex;
-    justify-content: space-between;
-    gap: 12px;
-    align-items: center;
-  }
-
-  .panel-header h2,
-  .sheet-header h1,
-  .panel-section h3,
-  .empty-state h3 {
-    margin: 0;
   }
 
   .sheet-header {
     align-items: start;
     margin-bottom: 14px;
+  }
+
+  .sheet-header h1,
+  .panel-header h2,
+  .chip-panel-header h2 {
+    margin: 0;
   }
 
   .sheet-header h1 {
@@ -880,22 +758,31 @@
     letter-spacing: 0.08em;
   }
 
-  .panel-section {
-    display: grid;
-    gap: 10px;
-  }
-
+  .panel-section,
   .search-results,
   .token-wrap,
   .segment-row,
   .list-stack {
-    display: flex;
-    flex-wrap: wrap;
+    display: grid;
     gap: 10px;
   }
 
+  .token-wrap {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .segment-row {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .segment-row-mobile {
+    margin-bottom: 14px;
+  }
+
   .search-results {
-    flex-direction: column;
+    gap: 8px;
   }
 
   .result-row {
@@ -904,6 +791,36 @@
     text-align: left;
     display: grid;
     gap: 4px;
+  }
+
+  .empty-search,
+  .result-limit,
+  .empty-state,
+  .skeleton {
+    border-radius: 18px;
+    background: rgba(255, 255, 255, 0.76);
+    border: 1px solid var(--line);
+  }
+
+  .empty-search,
+  .result-limit,
+  .empty-state {
+    padding: 14px;
+    color: var(--ink-soft);
+  }
+
+  .empty-state {
+    display: grid;
+    gap: 10px;
+  }
+
+  .empty-state h3,
+  .empty-state p {
+    margin: 0;
+  }
+
+  .list-stack {
+    display: grid;
   }
 
   input[type='search'] {
@@ -915,43 +832,12 @@
     color: var(--ink);
   }
 
-  .list-stack {
-    display: grid;
-  }
-
-  .toast,
-  .empty-state,
-  .skeleton {
-    border-radius: 18px;
-    background: rgba(255, 255, 255, 0.76);
-    border: 1px solid var(--line);
-  }
-
-  .toast,
-  .empty-state {
-    padding: 14px;
-  }
-
-  .empty-state {
-    display: grid;
-    gap: 10px;
-  }
-
-  .empty-state p {
-    margin: 0;
-    color: var(--ink-soft);
-  }
-
   .skeleton {
     height: 154px;
     background:
       linear-gradient(90deg, rgba(31, 42, 47, 0.05), rgba(31, 42, 47, 0.12), rgba(31, 42, 47, 0.05));
     background-size: 200% 100%;
     animation: shimmer 1.2s linear infinite;
-  }
-
-  .toggle-row {
-    padding: 8px 0;
   }
 
   @keyframes shimmer {
@@ -970,23 +856,22 @@
 
     .chip-row {
       bottom: calc(32px + env(safe-area-inset-bottom));
-      right: 94px;
+      right: 24px;
       left: 24px;
     }
 
-    .redo-chip {
-      bottom: calc(104px + env(safe-area-inset-bottom));
+    .chip-panel {
+      bottom: calc(94px + env(safe-area-inset-bottom));
     }
 
-    .radius-rail {
-      bottom: calc(34px + env(safe-area-inset-bottom));
-      right: 22px;
+    .redo-chip {
+      bottom: calc(110px + env(safe-area-inset-bottom));
     }
 
     .floating-panel {
       left: 24px;
       right: auto;
-      width: min(420px, calc(100vw - 40px));
+      width: min(460px, calc(100vw - 40px));
     }
   }
 </style>

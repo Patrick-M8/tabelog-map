@@ -67,7 +67,7 @@ export function derivePlaceStatus(timeline: WeeklyTimeline, now = DateTime.now()
   return {
     state: 'closed',
     label: nextOpen ? `Opens ${nextOpen}` : 'Closed today',
-    detail: nextOpen ? `Next window ${nextOpen}` : 'No confirmed hours',
+    detail: nextOpen ? 'Closed now' : 'No confirmed hours',
     closesAt: null,
     opensAt: nextOpen,
     lastOrderAt: null,

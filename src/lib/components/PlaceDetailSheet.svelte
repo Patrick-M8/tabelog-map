@@ -1,22 +1,16 @@
 <script lang="ts">
   import { createEventDispatcher } from 'svelte';
 
-  import { formatHourLabel, formatRelativeUpdate } from '$lib/utils/format';
+  import { formatRelativeUpdate } from '$lib/utils/format';
   import type { PlaceDetail, PlaceStatus } from '$lib/types';
 
   export let detail: PlaceDetail | null = null;
   export let status: PlaceStatus | null = null;
-  export let saved = false;
-  export let issueReason = 'hours_wrong';
-  export let issueNotes = '';
 
   const dispatch = createEventDispatcher<{
     close: void;
-    save: { id: string };
     directions: { id: string };
     reserve: { id: string };
-    call: { id: string };
-    issue: { id: string; reason: string; notes: string };
   }>();
 
   const dayLabels = [
@@ -73,23 +67,17 @@
       </section>
 
       <section class="panel">
-        <div class="score-row">
-          <div class="grade">{detail.consensusGrade}</div>
-          <div>
-            <h3>Score explainer</h3>
-            <p>Consensus blends Tabelog and Google using rating position plus review volume.</p>
-          </div>
-        </div>
+        <h3>Ratings</h3>
         <div class="rating-grid">
-          <div>
+          <div class="rating-card tabelog">
             <span>Tabelog</span>
             <strong>{detail.tabelog.score ?? '-'}</strong>
-            <small>{detail.tabelog.reviews} reviews</small>
+            <small>{detail.tabelog.reviews.toLocaleString()} reviews</small>
           </div>
-          <div>
+          <div class="rating-card google">
             <span>Google</span>
             <strong>{detail.google.score ?? '-'}</strong>
-            <small>{detail.google.reviews} reviews</small>
+            <small>{detail.google.reviews.toLocaleString()} reviews</small>
           </div>
         </div>
       </section>
@@ -103,46 +91,7 @@
           <button type="button" class:muted={!detail.reserveUrl} disabled={!detail.reserveUrl} on:click={() => dispatch('reserve', { id: detail.id })}>
             Reserve
           </button>
-          <button type="button" class:muted={!detail.callPhone} disabled={!detail.callPhone} on:click={() => dispatch('call', { id: detail.id })}>
-            Call
-          </button>
         </div>
-      </section>
-
-      <section class="panel">
-        <div class="panel-head">
-          <h3>Badges</h3>
-          <button type="button" class="ghost" on:click={() => dispatch('save', { id: detail.id })}>
-            {saved ? 'Saved' : 'Save'}
-          </button>
-        </div>
-        <div class="badge-wrap">
-          {#each detail.badges as badge}
-            <span>{badge}</span>
-          {/each}
-          {#if !detail.badges.length}
-            <span>Source-backed only</span>
-          {/if}
-        </div>
-      </section>
-
-      <section class="panel">
-        <h3>Report an issue</h3>
-        <label>
-          Reason
-          <select bind:value={issueReason}>
-            <option value="hours_wrong">Hours are wrong</option>
-            <option value="closed">Place is closed</option>
-            <option value="moved">Place moved</option>
-          </select>
-        </label>
-        <label>
-          Notes
-          <textarea bind:value={issueNotes} rows="4" placeholder="Optional detail"></textarea>
-        </label>
-        <button type="button" on:click={() => dispatch('issue', { id: detail.id, reason: issueReason, notes: issueNotes })}>
-          Queue report payload
-        </button>
       </section>
     </div>
   </aside>
@@ -162,8 +111,6 @@
 
   .detail-header,
   .panel-head,
-  .score-row,
-  .rating-grid,
   .button-row {
     display: flex;
     justify-content: space-between;
@@ -180,8 +127,8 @@
   .quiet,
   .timeline-row span,
   .timeline-row strong,
-  .rating-grid span,
-  .rating-grid small {
+  .rating-card span,
+  .rating-card small {
     color: rgba(31, 42, 47, 0.7);
   }
 
@@ -222,16 +169,11 @@
     gap: 10px;
   }
 
-  .status-pill,
-  .grade,
-  .badge-wrap span {
+  .status-pill {
     display: inline-flex;
     align-items: center;
     justify-content: center;
     border-radius: 999px;
-  }
-
-  .status-pill {
     padding: 6px 10px;
     font-weight: 600;
   }
@@ -251,36 +193,40 @@
     color: #62625e;
   }
 
-  .grade {
-    width: 56px;
-    height: 56px;
-    background: #1f2a2f;
-    color: #f6f1e8;
-    font-size: 1.3rem;
-    font-weight: 700;
+  .rating-grid {
+    display: grid;
+    gap: 12px;
   }
 
-  .rating-grid > div {
-    flex: 1 1 0;
-    background: rgba(31, 42, 47, 0.04);
+  .rating-card {
     border-radius: 18px;
-    padding: 12px;
+    padding: 14px;
     display: grid;
     gap: 4px;
   }
 
+  .rating-card strong {
+    font-size: 1.4rem;
+  }
+
+  .rating-card.tabelog {
+    background: rgba(201, 112, 51, 0.14);
+  }
+
+  .rating-card.google {
+    background: rgba(61, 140, 89, 0.14);
+  }
+
   .button-row button,
-  .panel button,
-  select,
-  textarea {
+  .ghost {
     border-radius: 14px;
     border: 0;
     padding: 11px 12px;
     font: inherit;
   }
 
-  .button-row button,
-  .panel button {
+  .button-row button {
+    flex: 1 1 0;
     background: #1f2a2f;
     color: #f6f1e8;
   }
@@ -290,24 +236,8 @@
     color: rgba(31, 42, 47, 0.44);
   }
 
-  .badge-wrap {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
-  }
-
-  .badge-wrap span {
-    padding: 8px 10px;
-    background: rgba(31, 42, 47, 0.08);
-  }
-
   .ghost {
-    background: rgba(31, 42, 47, 0.08) !important;
-    color: #1f2a2f !important;
-  }
-
-  label {
-    display: grid;
-    gap: 8px;
+    background: rgba(31, 42, 47, 0.08);
+    color: #1f2a2f;
   }
 </style>

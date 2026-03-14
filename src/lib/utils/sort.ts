@@ -1,15 +1,5 @@
 import type { DisplayPlace, SortKey } from '$lib/types';
 
-function gradeScore(grade: DisplayPlace['consensusGrade']) {
-  return {
-    A: 5,
-    B: 4,
-    C: 3,
-    D: 2,
-    E: 1
-  }[grade];
-}
-
 export function sortPlaces(places: DisplayPlace[], sortKey: SortKey) {
   const next = [...places];
 
@@ -32,8 +22,8 @@ export function sortPlaces(places: DisplayPlace[], sortKey: SortKey) {
       right.status.state === 'open' ? 650 : right.status.state === 'closingSoon' ? 220 : -900;
     const leftStatusWeight =
       left.status.state === 'open' ? 650 : left.status.state === 'closingSoon' ? 220 : -900;
-    const rightBest = (gradeScore(right.consensusGrade) * 900) - right.distanceMeters + rightStatusWeight;
-    const leftBest = (gradeScore(left.consensusGrade) * 900) - left.distanceMeters + leftStatusWeight;
+    const rightBest = (right.consensusScore * 1000) - right.distanceMeters + rightStatusWeight;
+    const leftBest = (left.consensusScore * 1000) - left.distanceMeters + leftStatusWeight;
     return rightBest - leftBest;
   });
 
