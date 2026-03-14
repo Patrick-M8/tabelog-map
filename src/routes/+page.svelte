@@ -1,5 +1,7 @@
 <script lang="ts">
   import { browser } from '$app/environment';
+  import { goto } from '$app/navigation';
+  import { page } from '$app/stores';
   import { createQuery } from '@tanstack/svelte-query';
   import { _ } from 'svelte-i18n';
   import { onMount, tick } from 'svelte';
@@ -17,11 +19,11 @@
 
   type FilterSection = 'category' | 'walk' | 'price' | null;
   type UiView = 'browse' | 'filters' | 'detail';
-  type UiHistoryState = {
-    __tabemapUi: true;
+  type UiRouteState = {
     view: UiView;
     selectedPlaceId: string | null;
     sheetSnap: SheetSnap;
+    section: FilterSection;
   };
 
   const summaryQuery = createQuery<PlaceSummary[]>({
@@ -81,12 +83,15 @@
   let categorySectionElement: HTMLElement | null = null;
   let walkSectionElement: HTMLElement | null = null;
   let priceSectionElement: HTMLElement | null = null;
-  let historyReady = false;
-  let restoringHistory = false;
-  let nextHistoryMode: 'replace' | 'push' = 'replace';
-  let lastHistorySignature = '';
   let MapViewComponent: typeof import('$lib/components/MapView.svelte').default | null = null;
   let DetailSheetComponent: typeof import('$lib/components/PlaceDetailSheet.svelte').default | null = null;
+  let uiRouteState: UiRouteState = {
+    view: 'browse',
+    selectedPlaceId: null,
+    sheetSnap: 'peek',
+    section: null
+  };
+  let lastFilterScrollKey = '';
 
   function randomToken(prefix: string) {
     return `${prefix}-${Date.now()}-${Math.random().toString(16).slice(2, 8)}`;
@@ -96,86 +101,81 @@
     return sortKey === 'priceDesc' ? 'Price descending' : 'Price ascending';
   }
 
-  function currentUiView(): UiView {
-    if (filterOpen) {
-      return 'filters';
-    }
-
-    if (detailOpen) {
-      return 'detail';
-    }
-
-    return 'browse';
+  function parseUiView(value: string | null): UiView {
+    return value === 'filters' || value === 'detail' ? value : 'browse';
   }
 
-  function buildUiHistoryState(): UiHistoryState {
+  function parseSheetSnap(value: string | null): SheetSnap {
+    return value === 'peek' || value === 'mid' || value === 'full' ? value : 'peek';
+  }
+
+  function parseFilterSection(value: string | null): FilterSection {
+    return value === 'category' || value === 'walk' || value === 'price' ? value : null;
+  }
+
+  function readUiRouteState(url: URL): UiRouteState {
+    const view = parseUiView(url.searchParams.get('panel'));
     return {
-      __tabemapUi: true,
-      view: currentUiView(),
-      selectedPlaceId,
-      sheetSnap
+      view,
+      selectedPlaceId: url.searchParams.get('place') || null,
+      sheetSnap: view === 'browse' ? parseSheetSnap(url.searchParams.get('sheet')) : 'full',
+      section: view === 'filters' ? parseFilterSection(url.searchParams.get('section')) : null
     };
   }
 
-  function isUiHistoryState(value: unknown): value is UiHistoryState {
-    return (
-      typeof value === 'object' &&
-      value !== null &&
-      '__tabemapUi' in value &&
-      (value as UiHistoryState).__tabemapUi === true
-    );
-  }
+  function uiRouteHref(state: UiRouteState) {
+    const params = new URLSearchParams();
 
-  function historySignature(state: UiHistoryState) {
-    return `${state.view}:${state.selectedPlaceId ?? 'none'}:${state.sheetSnap}`;
-  }
-
-  function requestHistoryPush() {
-    if (browser && historyReady && !restoringHistory) {
-      nextHistoryMode = 'push';
+    if (state.view !== 'browse') {
+      params.set('panel', state.view);
     }
+
+    if (state.selectedPlaceId) {
+      params.set('place', state.selectedPlaceId);
+    }
+
+    if (state.view === 'browse' && state.sheetSnap !== 'peek') {
+      params.set('sheet', state.sheetSnap);
+    }
+
+    if (state.view === 'filters' && state.section) {
+      params.set('section', state.section);
+    }
+
+    const query = params.toString();
+    return `${$page.url.pathname}${query ? `?${query}` : ''}`;
   }
 
-  function syncUiHistory() {
-    if (!browser || !historyReady || restoringHistory) {
+  async function navigateUiState(state: UiRouteState, options: { replace?: boolean } = {}) {
+    if (!browser) {
       return;
     }
 
-    const state = buildUiHistoryState();
-    const signature = historySignature(state);
-    if (signature === lastHistorySignature) {
-      nextHistoryMode = 'replace';
+    const href = uiRouteHref(state);
+    const currentHref = `${$page.url.pathname}${$page.url.search}`;
+    if (href === currentHref) {
       return;
     }
 
-    if (nextHistoryMode === 'push') {
-      window.history.pushState(state, '');
-    } else {
-      window.history.replaceState(state, '');
-    }
-
-    lastHistorySignature = signature;
-    nextHistoryMode = 'replace';
+    await goto(href, {
+      replaceState: options.replace ?? false,
+      keepFocus: true,
+      noScroll: true
+    });
   }
 
-  function applyUiHistoryState(state: UiHistoryState) {
-    restoringHistory = true;
-    filterOpen = state.view === 'filters';
-    detailOpen = state.view === 'detail';
-    selectedPlaceId = state.selectedPlaceId ?? sortedPlaces[0]?.id ?? null;
-    sheetSnap = state.view === 'browse' ? state.sheetSnap : 'full';
-    pendingFilterSection = null;
-    restoringHistory = false;
-    lastHistorySignature = historySignature(buildUiHistoryState());
+  function currentBrowseState(overrides: Partial<UiRouteState> = {}): UiRouteState {
+    return {
+      view: 'browse',
+      selectedPlaceId,
+      sheetSnap,
+      section: null,
+      ...overrides
+    };
   }
 
   function closeDetail() {
-    if (browser && historyReady && currentUiView() === 'detail') {
-      window.history.back();
-      return;
-    }
-
-    detailOpen = false;
+    void navigateUiState(currentBrowseState({ sheetSnap: desktop ? sheetSnap : 'mid' }), { replace: true });
   }
 
   function togglePriceSort() {
@@ -190,24 +190,20 @@
   }
 
   async function openFilters(section: FilterSection = null) {
-    requestHistoryPush();
     pendingFilterSection = section;
-    filterOpen = true;
-    detailOpen = false;
-    if (!desktop) {
-      sheetSnap = 'full';
-    }
-    await tick();
-    scrollToFilterSection(pendingFilterSection);
+    await navigateUiState(
+      {
+        view: 'filters',
+        selectedPlaceId,
+        sheetSnap: 'full',
+        section
+      },
+      { replace: uiRouteState.view === 'filters' }
+    );
   }
 
   function closeFilters() {
-    if (browser && historyReady && currentUiView() === 'filters') {
-      window.history.back();
-      return;
-    }
-
-    filterOpen = false;
+    void navigateUiState(currentBrowseState({ sheetSnap: desktop ? sheetSnap : 'mid' }), { replace: true });
   }
 
   function clearFilters() {
@@ -248,12 +244,12 @@
       return;
     }
 
-    requestHistoryPush();
-    detailOpen = true;
-    filterOpen = false;
-    if (!desktop) {
-      sheetSnap = 'full';
-    }
+    void navigateUiState({
+      view: 'detail',
+      selectedPlaceId,
+      sheetSnap: 'full',
+      section: null
+    });
   }
 
   function openDirections(place: PlaceSummary) {
@@ -333,40 +329,41 @@
     };
   }
 
-  function selectPlace(placeId: string, refocus = true) {
-    selectedPlaceId = placeId;
-    detailOpen = false;
-    filterOpen = false;
-
-    const place =
-      candidatePlaces.find((entry) => entry.id === placeId) ?? summaries.find((entry) => entry.id === placeId);
-    if (place && refocus) {
-      focusTarget = { lat: place.lat, lng: place.lng, zoom: 15, token: randomToken(place.id) };
-      if (!desktop) {
-        sheetSnap = 'mid';
-      }
-    }
-  }
-
   function handlePlaceSelect(placeId: string) {
     if (selectedPlaceId === placeId) {
       openDetail();
       return;
     }
 
-    requestHistoryPush();
-    selectPlace(placeId, false);
+    void navigateUiState(currentBrowseState({ selectedPlaceId: placeId }));
   }
 
   function handleMapSelect(placeId: string) {
-    if (selectedPlaceId !== placeId) {
-      requestHistoryPush();
+    if (selectedPlaceId === placeId) {
+      return;
     }
 
-    selectPlace(placeId, false);
-    if (!desktop) {
-      sheetSnap = 'mid';
+    void navigateUiState(currentBrowseState({ selectedPlaceId: placeId, sheetSnap: desktop ? sheetSnap : 'mid' }));
+  }
+
+  function handleSheetSnapChange(event: CustomEvent<{ snap: SheetSnap }>) {
+    const nextSnap = event.detail.snap;
+    sheetSnap = nextSnap;
+
+    if (desktop) {
+      return;
     }
+
+    if (filterOpen || detailOpen) {
+      if (nextSnap === 'full') {
+        return;
+      }
+
+      void navigateUiState(currentBrowseState({ sheetSnap: nextSnap }), { replace: true });
+      return;
+    }
+
+    void navigateUiState(currentBrowseState({ sheetSnap: nextSnap }), { replace: true });
   }
 
   function useUserLocation() {
@@ -398,31 +395,9 @@
             : null;
 
     target?.scrollIntoView({ block: 'start', behavior: 'smooth' });
-    pendingFilterSection = null;
   }
 
   onMount(() => {
-    const handlePopState = (event: PopStateEvent) => {
-      if (isUiHistoryState(event.state)) {
-        applyUiHistoryState(event.state);
-        return;
-      }
-
-      restoringHistory = true;
-      filterOpen = false;
-      detailOpen = false;
-      sheetSnap = 'peek';
-      restoringHistory = false;
-      lastHistorySignature = '';
-    };
-
-    window.addEventListener('popstate', handlePopState);
-    historyReady = true;
-    const initialState = buildUiHistoryState();
-    window.history.replaceState(initialState, '');
-    window.history.pushState(initialState, '');
-    lastHistorySignature = historySignature(initialState);
-
     void (async () => {
       const [{ default: mapView }, { default: detailSheet }] = await Promise.all([
         import('$lib/components/MapView.svelte'),
@@ -432,13 +407,15 @@
       DetailSheetComponent = detailSheet;
       requestGeolocation();
     })();
-
-    return () => {
-      window.removeEventListener('popstate', handlePopState);
-    };
   });
 
   $: desktop = innerWidth >= 960;
+  $: uiRouteState = readUiRouteState($page.url);
+  $: filterOpen = uiRouteState.view === 'filters';
+  $: detailOpen = uiRouteState.view === 'detail';
+  $: selectedPlaceId = uiRouteState.selectedPlaceId;
+  $: sheetSnap = uiRouteState.view === 'browse' ? uiRouteState.sheetSnap : 'full';
+  $: pendingFilterSection = filterOpen ? uiRouteState.section : null;
   $: summaries = $summaryQuery.data ?? [];
   $: details = $detailQuery.data ?? {};
   $: availableCategories = visibleCategories(summaries);
@@ -465,12 +442,35 @@
     .filter((place) => (activeFilters.categoryKeys.length ? activeFilters.categoryKeys.includes(place.category.key) : true));
   $: displayPlaces = candidatePlaces.filter((place) => isInsideBounds({ lat: place.lat, lng: place.lng }, mapBounds));
   $: sortedPlaces = sortPlaces(displayPlaces, sortKey);
-  $: if (sortedPlaces.length && !sortedPlaces.some((place) => place.id === selectedPlaceId)) {
-    selectedPlaceId = sortedPlaces[0].id;
+  $: if (browser && sortedPlaces.length) {
+    const fallbackId = sortedPlaces[0].id;
+    const hasSelectedPlace = selectedPlaceId ? sortedPlaces.some((place) => place.id === selectedPlaceId) : false;
+    const nextSelectedPlaceId = hasSelectedPlace ? selectedPlaceId : fallbackId;
+    const nextView = detailOpen && !nextSelectedPlaceId ? 'browse' : uiRouteState.view;
+    const nextSheetSnap = nextView === 'browse' ? uiRouteState.sheetSnap : 'full';
+
+    if (selectedPlaceId !== nextSelectedPlaceId || nextView !== uiRouteState.view) {
+      void navigateUiState(
+        {
+          view: nextView,
+          selectedPlaceId: nextSelectedPlaceId,
+          sheetSnap: nextSheetSnap,
+          section: nextView === 'filters' ? uiRouteState.section : null
+        },
+        { replace: true }
+      );
+    }
   }
-  $: if (!sortedPlaces.length) {
-    selectedPlaceId = null;
-    detailOpen = false;
+  $: if (browser && !sortedPlaces.length && (selectedPlaceId !== null || detailOpen)) {
+    void navigateUiState(
+      {
+        view: filterOpen ? 'filters' : 'browse',
+        selectedPlaceId: null,
+        sheetSnap: 'peek',
+        section: filterOpen ? uiRouteState.section : null
+      },
+      { replace: true }
+    );
   }
   $: selectedPlace = sortedPlaces.find((place) => place.id === selectedPlaceId) ?? null;
   $: selectedDetail = selectedPlaceId ? details[selectedPlaceId] ?? null : null;
@@ -484,7 +484,16 @@
     }
   }
   $: mobileListPlaces = selectedPlace ? visiblePlaces.filter((place) => place.id !== selectedPlace.id) : visiblePlaces;
-  $: syncUiHistory();
+  $: {
+    const scrollKey = filterOpen && pendingFilterSection ? `${pendingFilterSection}:${$page.url.search}` : '';
+    if (scrollKey && scrollKey !== lastFilterScrollKey) {
+      lastFilterScrollKey = scrollKey;
+      void tick().then(() => scrollToFilterSection(pendingFilterSection));
+    }
+    if (!scrollKey) {
+      lastFilterScrollKey = '';
+    }
+  }
 </script>
 
 <svelte:window bind:innerWidth />
@@ -594,7 +603,7 @@
           <div class="token-wrap">
             {#each WALK_MINUTE_OPTIONS as minutes}
               <button type="button" class:active={activeFilters.maxWalkMinutes === minutes} on:click={() => setWalkMinutes(minutes)}>
-                &le; {minutes} min
+                ≤ {minutes} min
               </button>
             {/each}
           </div>
@@ -705,7 +714,7 @@
           {:else if !sortedPlaces.length}
             <div class="empty-state">
               <h3>No places in this view</h3>
-              <p>Pan, zoom, or search to another area in Japan.</p>
+              <p>Pan or zoom to explore another area in Japan.</p>
             </div>
           {:else}
             {#if sortedPlaces.length > visiblePlaces.length}
@@ -729,7 +738,11 @@
       </BottomSheet>
     </section>
   {:else}
-    <BottomSheet bind:snap={sheetSnap} title={filterOpen ? 'Filters' : detailOpen ? 'Place details' : 'Places'}>
+      <BottomSheet
+        snap={sheetSnap}
+        title={filterOpen ? 'Filters' : detailOpen ? 'Place details' : 'Places'}
+        on:snapchange={handleSheetSnapChange}
+      >
       {#if filterOpen}
         <div class="sheet-header">
           <div>
@@ -765,7 +778,7 @@
           <div class="token-wrap">
             {#each WALK_MINUTE_OPTIONS as minutes}
               <button type="button" class:active={activeFilters.maxWalkMinutes === minutes} on:click={() => setWalkMinutes(minutes)}>
-                &le; {minutes} min
+                ≤ {minutes} min
               </button>
             {/each}
           </div>
@@ -898,7 +911,7 @@
         {:else if !sortedPlaces.length}
           <div class="empty-state">
             <h3>No places in this view</h3>
-            <p>Pan, zoom, or search to another area in Japan.</p>
+            <p>Pan or zoom to explore another area in Japan.</p>
           </div>
         {:else}
           {#if sortedPlaces.length > visiblePlaces.length}

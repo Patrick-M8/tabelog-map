@@ -16,13 +16,29 @@ test('mobile flow opens sheet filters and selected place details', async ({ page
   await page.goto('/');
   await expect(page.getByLabel('Use my location')).toBeVisible();
   await expect(page.locator('.selection-hero')).toBeVisible();
-  await page.locator('.selection-hero').click();
-  await expect(page.getByRole('button', { name: /close details/i })).toBeVisible();
-  await page.goBack();
-  await expect(page.getByRole('button', { name: /close details/i })).toHaveCount(0);
-  await expect(page.locator('.selection-hero')).toBeVisible();
+
+   const initialUrl = page.url();
+   await expect.poll(() => new URL(page.url()).searchParams.get('place')).not.toBeNull();
+
+   await page.locator('article').first().click();
+   await expect
+     .poll(() => new URL(page.url()).searchParams.get('place'))
+     .not.toBe(new URL(initialUrl).searchParams.get('place'));
+
+   await page.locator('.selection-hero').click();
+   await expect.poll(() => new URL(page.url()).searchParams.get('panel')).toBe('detail');
+   await expect(page.getByRole('button', { name: /close details/i })).toBeVisible();
+
+   await page.goBack();
+   await expect.poll(() => new URL(page.url()).searchParams.get('panel')).toBeNull();
+   await expect(page.locator('.selection-hero')).toBeVisible();
+
   await page.getByRole('button', { name: /walk time/i }).click();
+   await expect.poll(() => new URL(page.url()).searchParams.get('panel')).toBe('filters');
+   await expect.poll(() => new URL(page.url()).searchParams.get('section')).toBe('walk');
   await expect(page.getByText(/availability/i)).toBeVisible();
-  await page.goBack();
-  await expect(page.getByText(/availability/i)).toHaveCount(0);
+
+   await page.goBack();
+   await expect.poll(() => new URL(page.url()).searchParams.get('panel')).toBeNull();
+   await expect(page.locator('article').first()).toBeVisible();
 });
