@@ -20,6 +20,7 @@
   let activePointerId: number | null = null;
   let activePointerElement: HTMLElement | null = null;
   let contentDragCandidate = false;
+  let topZoneDragCandidate = false;
   let touchActive = false;
   let sheetInnerElement: HTMLDivElement;
 
@@ -82,7 +83,20 @@
   function resetGestureState() {
     releaseActivePointer();
     contentDragCandidate = false;
+    topZoneDragCandidate = false;
     touchActive = false;
+  }
+
+  function shouldUseTopZoneDrag(target: EventTarget | null) {
+    if (!(target instanceof HTMLElement)) {
+      return false;
+    }
+
+    if (target.closest('button, a, input, select, textarea, [role="button"]')) {
+      return false;
+    }
+
+    return target.closest('[data-sheet-drag-zone]') !== null;
   }
 
   function capturePointer(event: PointerEvent, element: HTMLElement) {
@@ -142,6 +156,15 @@
 
   function maybeStartContentDrag(clientY: number) {
     const deltaY = clientY - dragStart;
+    if (topZoneDragCandidate) {
+      if (Math.abs(deltaY) <= 2) {
+        return false;
+      }
+
+      beginDragWithoutPointer();
+      return true;
+    }
+
     if (deltaY < -4) {
       contentDragCandidate = false;
       return false;
@@ -177,6 +200,7 @@
     primeDrag(event.clientY, event.timeStamp);
     capturePointer(event, event.currentTarget as HTMLElement);
     contentDragCandidate = true;
+    topZoneDragCandidate = shouldUseTopZoneDrag(event.target);
   }
 
   function handleWindowPointerMove(event: PointerEvent) {
@@ -230,6 +254,7 @@
     touchActive = true;
     primeDrag(touch.clientY, event.timeStamp);
     contentDragCandidate = true;
+    topZoneDragCandidate = shouldUseTopZoneDrag(event.target);
   }
 
   function handleWindowTouchMove(event: TouchEvent) {

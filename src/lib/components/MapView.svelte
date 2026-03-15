@@ -198,7 +198,7 @@
       source: 'user-point',
       paint: {
         'circle-radius': 7,
-        'circle-color': '#17191c',
+        'circle-color': '#2f7d57',
         'circle-stroke-width': 3,
         'circle-stroke-color': '#f7f6f3'
       }

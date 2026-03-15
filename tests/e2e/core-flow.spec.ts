@@ -9,6 +9,7 @@ test('desktop flow renders filter and tray controls', async ({ page }) => {
   await expect(page.getByRole('button', { name: /^Filters/i }).first()).toBeVisible();
   await expect(page.getByText(/places in view/i)).toBeVisible();
   await expect(page.locator('article .preview img').first()).toBeVisible();
+  await expect(page.getByRole('button', { name: /price ascending/i })).toBeVisible();
 
   await distanceButton.click();
   await expect(distanceButton).toHaveClass(/active/);
@@ -21,18 +22,18 @@ test('desktop flow renders filter and tray controls', async ({ page }) => {
 test('mobile flow uses a single top filters pill and updated tray controls', async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto('/');
-  const openNowButton = page.locator('.segment-row-mobile > button').first();
+  const openButton = page.locator('.segment-row-mobile > button').first();
   const distanceButton = page.locator('.segment-row-mobile > button').nth(1);
+  const priceButton = page.locator('.segment-row-mobile > button').nth(2);
   const googleButton = page.locator('.split-sort-pill-mobile .split-pill-google');
 
   await expect(page.getByLabel('Use my location')).toBeVisible();
   await expect(page.locator('.top-filter-row .filter-pill')).toHaveCount(1);
   await expect(page.getByRole('button', { name: /^Filters/i })).toBeVisible();
-  await expect(openNowButton).toBeVisible();
+  await expect(openButton).toBeVisible();
   await expect(distanceButton).toBeVisible();
+  await expect(priceButton).toBeVisible();
   await expect(googleButton).toBeVisible();
-
-  await expect.poll(() => new URL(page.url()).searchParams.get('place')).not.toBeNull();
 
   const firstCardName = await page.locator('article h3').first().innerText();
   await page.locator('article').first().locator('.card-main-button').dispatchEvent('click');

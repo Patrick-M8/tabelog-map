@@ -12,6 +12,14 @@ export function sortPlaces(places: DisplayPlace[], sortKey: SortKey) {
       return right.distanceMeters - left.distanceMeters;
     }
 
+    if (sortKey === 'priceAsc') {
+      return left.priceBucket - right.priceBucket;
+    }
+
+    if (sortKey === 'priceDesc') {
+      return right.priceBucket - left.priceBucket;
+    }
+
     if (sortKey === 'tabelog') {
       const leftScore = left.tabelog.score ?? -1;
       const rightScore = right.tabelog.score ?? -1;

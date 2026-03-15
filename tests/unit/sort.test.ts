@@ -83,6 +83,14 @@ describe('sortPlaces', () => {
     expect(sorted.map((place) => place.id)).toEqual(['far', 'near']);
   });
 
+  it('sorts by price descending', () => {
+    const sorted = sortPlaces(
+      [makePlace('high', { priceBucket: 4 }), makePlace('low', { priceBucket: 1 })],
+      'priceDesc'
+    );
+    expect(sorted.map((place) => place.id)).toEqual(['high', 'low']);
+  });
+
   it('sorts by tabelog rating before distance', () => {
     const sorted = sortPlaces(
       [
