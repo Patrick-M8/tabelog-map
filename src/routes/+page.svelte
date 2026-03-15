@@ -10,14 +10,32 @@
   import PlaceCard from '$lib/components/PlaceCard.svelte';
   import { DEFAULT_CENTER, SEARCH_REDRAW_METERS } from '$lib/config';
   import { loadPlaceDetails, loadPlaceSummary } from '$lib/data/client';
-  import type { ActiveFilters, DisplayPlace, PlaceDetail, PlaceSummary, SheetSnap, SortKey } from '$lib/types';
+  import type {
+    ActiveFilters,
+    DisplayPlace,
+    PlaceDetail,
+    PlaceSummary,
+    ReviewSource,
+    SheetSnap,
+    SortDirection,
+    SortKey,
+    SortMode
+  } from '$lib/types';
   import { formatPriceRange, normalizePriceBand } from '$lib/utils/format';
   import { haversineDistanceMeters, isInsideBounds, walkMinutesFromDistance } from '$lib/utils/geo';
   import { derivePlaceStatus } from '$lib/utils/hours';
   import { countActiveFilters, summarizeFilters } from '$lib/utils/discovery';
+  import { toAdvancedFilters } from '$lib/utils/filterScope';
   import { sortPlaces } from '$lib/utils/sort';
+  import {
+    DEFAULT_TRAY_SORT_STATE,
+    setReviewSort,
+    setStandardSort,
+    traySortStateToSortKey
+  } from '$lib/utils/traySort';
 
   type FilterSection = 'category' | 'walk' | 'price' | null;
+  type TrayMenu = 'sort' | 'reviews' | null;
   type UiView = 'browse' | 'filters' | 'detail';
   type UiRouteState = {
     view: UiView;
@@ -50,8 +68,12 @@
 
   const PRICE_BANDS = Array.from({ length: 5 }, (_, index) => '\u00A5'.repeat(index + 1));
   const WALK_MINUTE_OPTIONS = [5, 10, 15, 30];
+  const CUISINE_PREVIEW_COUNT = 10;
   let innerWidth = 390;
   let sheetSnap: SheetSnap = 'peek';
+  let sortMode: SortMode = DEFAULT_TRAY_SORT_STATE.sortMode;
+  let sortDirection: SortDirection | null = DEFAULT_TRAY_SORT_STATE.sortDirection;
+  let reviewSource: ReviewSource | null = DEFAULT_TRAY_SORT_STATE.reviewSource;
   let sortKey: SortKey = 'best';
   let activeFilters: ActiveFilters = { ...EMPTY_FILTERS };
   let filterOpen = false;
@@ -80,12 +102,20 @@
   let showRedoSearch = false;
   let redoSearchFading = false;
   let desktop = false;
-  let activeFilterCount = 0;
-  let filterSummary = 'All nearby';
+  let advancedFilters: ActiveFilters = { ...EMPTY_FILTERS };
+  let advancedFilterCount = 0;
+  let advancedFilterSummary = 'All nearby';
+  let sortPillText = 'Best';
+  let reviewsPillText = 'Reviews';
+  let standardSortActive = false;
+  let reviewSortActive = false;
   let pendingFilterSection: FilterSection = null;
   let categorySectionElement: HTMLElement | null = null;
   let walkSectionElement: HTMLElement | null = null;
   let priceSectionElement: HTMLElement | null = null;
+  let cuisineExpanded = false;
+  let visibleCuisineCategories: { key: string; label: string; count: number }[] = [];
+  let trayMenu: TrayMenu = null;
   let MapViewComponent: typeof import('$lib/components/MapView.svelte').default | null = null;
   let DetailSheetComponent: typeof import('$lib/components/PlaceDetailSheet.svelte').default | null = null;
   let uiRouteState: UiRouteState = {
@@ -150,12 +180,48 @@
     queueRefreshPrompt();
   }
 
-  function distanceSortAriaLabel() {
-    return sortKey === 'distanceDesc' ? 'Distance farthest first' : 'Distance nearest first';
+  function currentTraySortState() {
+    return {
+      sortMode,
+      sortDirection,
+      reviewSource
+    };
   }
 
-  function priceSortAriaLabel() {
-    return sortKey === 'priceDesc' ? 'Price descending' : 'Price ascending';
+  function closeTrayMenu() {
+    trayMenu = null;
+  }
+
+  function handleDocumentPointerDown(event: PointerEvent) {
+    const target = event.target;
+
+    if (!(target instanceof Element) || !target.closest('.tray-toolbar')) {
+      closeTrayMenu();
+    }
+  }
+
+  function toggleTrayMenu(nextMenu: Exclude<TrayMenu, null>) {
+    trayMenu = trayMenu === nextMenu ? null : nextMenu;
+  }
+
+  function applyTraySortState(nextState: {
+    sortMode: SortMode;
+    sortDirection: SortDirection | null;
+    reviewSource: ReviewSource | null;
+  }) {
+    sortMode = nextState.sortMode;
+    sortDirection = nextState.sortDirection;
+    reviewSource = nextState.reviewSource;
+    closeTrayMenu();
+    queueRefreshPrompt();
+  }
+
+  function setStandardSortOption(nextMode: Extract<SortMode, 'best' | 'distance' | 'price'>, nextDirection: SortDirection | null = null) {
+    applyTraySortState(setStandardSort(currentTraySortState(), nextMode, nextDirection));
+  }
+
+  function setReviewSourceOption(nextSource: ReviewSource) {
+    applyTraySortState(setReviewSort(currentTraySortState(), nextSource));
   }
 
   function parseUiView(value: string | null): UiView {
@@ -235,16 +301,6 @@
     void navigateUiState(currentBrowseState({ sheetSnap: desktop ? sheetSnap : 'mid' }), { replace: true });
   }
 
-  function toggleDistanceSort() {
-    sortKey = sortKey === 'distanceAsc' ? 'distanceDesc' : 'distanceAsc';
-    queueRefreshPrompt();
-  }
-
-  function togglePriceSort() {
-    sortKey = sortKey === 'priceAsc' ? 'priceDesc' : 'priceAsc';
-    queueRefreshPrompt();
-  }
-
   function setWalkMinutes(minutes: number) {
     updateFilters({
       ...activeFilters,
@@ -253,6 +309,7 @@
   }
 
   async function openFilters(section: FilterSection = null) {
+    closeTrayMenu();
     pendingFilterSection = section;
     await navigateUiState(
       {
@@ -266,11 +323,19 @@
   }
 
   function closeFilters() {
+    closeTrayMenu();
     void navigateUiState(currentBrowseState({ sheetSnap: desktop ? sheetSnap : 'mid' }), { replace: true });
   }
 
-  function clearFilters() {
-    updateFilters({ ...EMPTY_FILTERS });
+  function clearAdvancedFilters() {
+    cuisineExpanded = false;
+    updateFilters({
+      ...activeFilters,
+      closingSoon: false,
+      maxWalkMinutes: null,
+      priceBands: [],
+      categoryKeys: []
+    });
   }
 
   function toggleOpenNowFilter() {
@@ -290,26 +355,8 @@
   function resetAvailabilityFilters() {
     updateFilters({
       ...activeFilters,
-      openNow: false,
       closingSoon: false
     });
-  }
-
-  function setSortKey(nextSortKey: SortKey) {
-    sortKey = nextSortKey;
-    queueRefreshPrompt();
-  }
-
-  function setRatingSort(nextSortKey: 'tabelog' | 'google') {
-    setSortKey(nextSortKey);
-  }
-
-  function isDistanceSortActive() {
-    return sortKey === 'distanceAsc' || sortKey === 'distanceDesc';
-  }
-
-  function isPriceSortActive() {
-    return sortKey === 'priceAsc' || sortKey === 'priceDesc';
   }
 
   function placesInViewLabel(total: number, visible: number) {
@@ -413,6 +460,27 @@
     return [...counts.values()].sort((left, right) => left.label.localeCompare(right.label, 'en', { sensitivity: 'base' }));
   }
 
+  function visibleCuisineOptions(
+    categories: { key: string; label: string; count: number }[],
+    selectedKeys: string[],
+    expanded: boolean
+  ) {
+    if (expanded || categories.length <= CUISINE_PREVIEW_COUNT) {
+      return categories;
+    }
+
+    const selected = new Set(selectedKeys);
+    const next: typeof categories = [];
+
+    for (const category of categories) {
+      if (next.length < CUISINE_PREVIEW_COUNT || selected.has(category.key)) {
+        next.push(category);
+      }
+    }
+
+    return next;
+  }
+
   function toggleCategory(key: string) {
     updateFilters({
       ...activeFilters,
@@ -510,10 +578,15 @@
       DetailSheetComponent = detailSheet;
       requestGeolocation();
     })();
+
+    document.addEventListener('pointerdown', handleDocumentPointerDown);
   });
 
   onDestroy(() => {
     clearRefreshPromptTimers();
+    if (browser) {
+      document.removeEventListener('pointerdown', handleDocumentPointerDown);
+    }
   });
 
   $: desktop = innerWidth >= 960;
@@ -526,8 +599,26 @@
   $: summaries = $summaryQuery.data ?? [];
   $: details = $detailQuery.data ?? {};
   $: availableCategories = visibleCategories(summaries);
-  $: activeFilterCount = countActiveFilters(activeFilters);
-  $: filterSummary = summarizeFilters(activeFilters);
+  $: advancedFilters = toAdvancedFilters(activeFilters);
+  $: advancedFilterCount = countActiveFilters(advancedFilters);
+  $: advancedFilterSummary = summarizeFilters(advancedFilters);
+  $: sortPillText =
+    sortMode === 'distance'
+      ? sortDirection === 'desc'
+        ? 'Distance ↓'
+        : 'Distance ↑'
+      : sortMode === 'price'
+        ? sortDirection === 'desc'
+          ? 'Price ↓'
+          : 'Price ↑'
+        : sortMode === 'best'
+          ? 'Best'
+          : 'Sort';
+  $: reviewsPillText =
+    sortMode === 'reviews' && reviewSource ? `${reviewSource === 'tabelog' ? 'Tabelog' : 'Google'} ★` : 'Reviews';
+  $: standardSortActive = sortMode === 'distance' || sortMode === 'price';
+  $: reviewSortActive = sortMode === 'reviews' && reviewSource !== null;
+  $: sortKey = traySortStateToSortKey({ sortMode, sortDirection, reviewSource });
   $: candidatePlaces = summaries
     .map((place) => {
       const distanceMeters = haversineDistanceMeters(searchCenter, { lat: place.lat, lng: place.lng });
@@ -575,6 +666,7 @@
   $: selectedDetail = selectedPlaceId ? details[selectedPlaceId] ?? null : null;
   $: visiblePlaces = sortedPlaces.slice(0, 80);
   $: mobileListPlaces = selectedPlace ? visiblePlaces.filter((place) => place.id !== selectedPlace.id) : visiblePlaces;
+  $: visibleCuisineCategories = visibleCuisineOptions(availableCategories, activeFilters.categoryKeys, cuisineExpanded);
   $: {
     const scrollKey = filterOpen && pendingFilterSection ? `${pendingFilterSection}:${$page.url.search}` : '';
     if (scrollKey && scrollKey !== lastFilterScrollKey) {
@@ -587,7 +679,14 @@
   }
 </script>
 
-<svelte:window bind:innerWidth />
+<svelte:window
+  bind:innerWidth
+  on:keydown={(event) => {
+    if (event.key === 'Escape') {
+      closeTrayMenu();
+    }
+  }}
+/>
 
 <div class:desktop class="app-shell">
   <section class="map-region">
@@ -629,10 +728,15 @@
 
     <div class="top-chrome">
       <div class="top-filter-row" aria-label="Filters">
-        <button type="button" class="filter-pill filter-pill-filters" class:active={activeFilterCount > 0} on:click={() => openFilters()}>
+        <button
+          type="button"
+          class="filter-pill filter-pill-filters"
+          class:active={advancedFilterCount > 0}
+          on:click={() => openFilters()}
+        >
           <span>Filters</span>
-          {#if activeFilterCount > 0}
-            <span class="filter-count-badge" aria-label={`${activeFilterCount} active filters`}>{activeFilterCount}</span>
+          {#if advancedFilterCount > 0}
+            <span class="filter-count-badge" aria-label={`${advancedFilterCount} active filters`}>{advancedFilterCount}</span>
           {/if}
         </button>
       </div>
@@ -675,21 +779,20 @@
           </button>
         </div>
 
-        <p class="filter-summary">{filterSummary}</p>
+        {#if advancedFilterCount > 0}
+          <p class="filter-summary">{advancedFilterSummary}</p>
+        {/if}
 
         <section class="filter-section">
           <div class="section-heading">
             <h3>Availability</h3>
-            {#if activeFilters.openNow || activeFilters.closingSoon}
+            {#if activeFilters.closingSoon}
               <button type="button" class="text-button" on:click={resetAvailabilityFilters}>
                 Reset
               </button>
             {/if}
           </div>
           <div class="token-wrap">
-            <button type="button" class:active={activeFilters.openNow} on:click={toggleOpenNowFilter}>
-              Open now
-            </button>
             <button
               type="button"
               class:active={activeFilters.closingSoon}
@@ -734,16 +837,23 @@
             <h3>Cuisine</h3>
           </div>
           <div class="token-wrap token-wrap-categories">
-            {#each availableCategories as category}
+            {#each visibleCuisineCategories as category}
               <button type="button" class:active={activeFilters.categoryKeys.includes(category.key)} on:click={() => toggleCategory(category.key)}>
                 {category.label}
               </button>
             {/each}
           </div>
+          {#if cuisineExpanded || availableCategories.length > visibleCuisineCategories.length}
+            <button type="button" class="text-button" on:click={() => (cuisineExpanded = !cuisineExpanded)}>
+              {cuisineExpanded ? 'Show less' : `Show ${availableCategories.length - visibleCuisineCategories.length} more`}
+            </button>
+          {/if}
         </section>
 
-        <div class="filter-footer">
-          <button type="button" class="ghost-chip" on:click={clearFilters}>Clear all</button>
+        <div class="filter-footer" class:with-clear={advancedFilterCount > 0}>
+          {#if advancedFilterCount > 0}
+            <button type="button" class="ghost-chip" on:click={clearAdvancedFilters}>Clear all</button>
+          {/if}
           <button type="button" class="primary-button" on:click={closeFilters}>Show {sortedPlaces.length} places</button>
         </div>
       </section>
@@ -779,79 +889,108 @@
           <div class="sheet-top-zone" data-sheet-drag-zone>
             <div class="sheet-header">
               <div>
-                <p class="eyebrow">{placesInViewLabel(sortedPlaces.length, visiblePlaces.length)}</p>
                 <h1>{selectedPlace?.station ?? 'Restaurants near the current map'}</h1>
-                <p class="sheet-summary">{filterSummary}</p>
+                <p class="sheet-meta">{placesInViewLabel(sortedPlaces.length, visiblePlaces.length)}</p>
+                {#if advancedFilterCount > 0}
+                  <p class="sheet-summary">{advancedFilterSummary}</p>
+                {/if}
               </div>
               <button type="button" class="ghost-chip" on:click={() => openFilters()}>
-                Filters{#if activeFilterCount > 0} {activeFilterCount}{/if}
+                Filters{#if advancedFilterCount > 0} {advancedFilterCount}{/if}
               </button>
             </div>
 
-            <div class="segment-row">
-              <button
-                type="button"
-                class:active={activeFilters.openNow}
-                on:click={toggleOpenNowFilter}
-              >
-                Open
-              </button>
-              <button
-                type="button"
-                aria-label={distanceSortAriaLabel()}
-                class:active={isDistanceSortActive()}
-                on:click={toggleDistanceSort}
-              >
-                Distance
-                <span class="sort-icon" aria-hidden="true">
-                  {#if sortKey === 'distanceDesc'}
-                    <svg viewBox="0 0 12 12">
-                      <path d="M6 2.25v7.5M6 9.75 3.75 7.5M6 9.75 8.25 7.5" />
-                    </svg>
-                  {:else}
-                    <svg viewBox="0 0 12 12">
-                      <path d="M6 9.75v-7.5M6 2.25 3.75 4.5M6 2.25 8.25 4.5" />
-                    </svg>
-                  {/if}
-                </span>
-              </button>
-              <button
-                type="button"
-                aria-label={priceSortAriaLabel()}
-                class:active={isPriceSortActive()}
-                on:click={togglePriceSort}
-              >
-                Price
-                <span class="sort-icon" aria-hidden="true">
-                  {#if sortKey === 'priceDesc'}
-                    <svg viewBox="0 0 12 12">
-                      <path d="M6 2.25v7.5M6 9.75 3.75 7.5M6 9.75 8.25 7.5" />
-                    </svg>
-                  {:else}
-                    <svg viewBox="0 0 12 12">
-                      <path d="M6 9.75v-7.5M6 2.25 3.75 4.5M6 2.25 8.25 4.5" />
-                    </svg>
-                  {/if}
-                </span>
-              </button>
-              <div class="split-sort-pill" role="group" aria-label="Ratings sort">
-                <button
-                  type="button"
-                  class="split-pill-option split-pill-tabelog"
-                  class:active={sortKey === 'tabelog'}
-                  on:click={() => setRatingSort('tabelog')}
-                >
-                  Tabelog
+            <div class="tray-toolbar">
+              <div class="segment-row segment-row-toolbar">
+                <button type="button" class="toolbar-pill" class:active={activeFilters.openNow} on:click={toggleOpenNowFilter}>
+                  <span class="toolbar-pill-label">Open</span>
                 </button>
                 <button
                   type="button"
-                  class="split-pill-option split-pill-google"
-                  class:active={sortKey === 'google'}
-                  on:click={() => setRatingSort('google')}
+                  class="toolbar-pill"
+                  class:active={standardSortActive}
+                  aria-haspopup="menu"
+                  aria-expanded={trayMenu === 'sort'}
+                  on:click={() => toggleTrayMenu('sort')}
                 >
-                  Google
+                  <span class="toolbar-pill-label">{sortPillText}</span>
+                  <span class="toolbar-pill-chevron" aria-hidden="true">
+                    <svg viewBox="0 0 12 12">
+                      <path d="M3.25 4.5 6 7.25 8.75 4.5" />
+                    </svg>
+                  </span>
+                </button>
+                <button
+                  type="button"
+                  class="toolbar-pill toolbar-pill-reviews"
+                  class:active={reviewSortActive}
+                  class:provider-tabelog={sortMode === 'reviews' && reviewSource === 'tabelog'}
+                  class:provider-google={sortMode === 'reviews' && reviewSource === 'google'}
+                  aria-haspopup="menu"
+                  aria-expanded={trayMenu === 'reviews'}
+                  on:click={() => toggleTrayMenu('reviews')}
+                >
+                  <span class="toolbar-pill-label">{reviewsPillText}</span>
+                  <span class="toolbar-pill-chevron" aria-hidden="true">
+                    <svg viewBox="0 0 12 12">
+                      <path d="M3.25 4.5 6 7.25 8.75 4.5" />
+                    </svg>
+                  </span>
                 </button>
               </div>
+
+              {#if trayMenu === 'sort'}
+                <div class="tray-menu tray-menu-sort" role="menu" aria-label="Sort options">
+                  <button type="button" class:active={sortMode === 'best'} on:click={() => setStandardSortOption('best')}>Best</button>
+                  <button
+                    type="button"
+                    class:active={sortMode === 'distance' && sortDirection === 'asc'}
+                    on:click={() => setStandardSortOption('distance', 'asc')}
+                  >
+                    Distance ↑
+                  </button>
+                  <button
+                    type="button"
+                    class:active={sortMode === 'distance' && sortDirection === 'desc'}
+                    on:click={() => setStandardSortOption('distance', 'desc')}
+                  >
+                    Distance ↓
+                  </button>
+                  <button
+                    type="button"
+                    class:active={sortMode === 'price' && sortDirection === 'asc'}
+                    on:click={() => setStandardSortOption('price', 'asc')}
+                  >
+                    Price ↑
+                  </button>
+                  <button
+                    type="button"
+                    class:active={sortMode === 'price' && sortDirection === 'desc'}
+                    on:click={() => setStandardSortOption('price', 'desc')}
+                  >
+                    Price ↓
+                  </button>
+                </div>
+              {:else if trayMenu === 'reviews'}
+                <div class="tray-menu tray-menu-reviews" role="menu" aria-label="Review sort options">
+                  <button
+                    type="button"
+                    class="review-menu-option review-menu-option-tabelog"
+                    class:active={sortMode === 'reviews' && reviewSource === 'tabelog'}
+                    on:click={() => setReviewSourceOption('tabelog')}
+                  >
+                    Tabelog ★
+                  </button>
+                  <button
+                    type="button"
+                    class="review-menu-option review-menu-option-google"
+                    class:active={sortMode === 'reviews' && reviewSource === 'google'}
+                    on:click={() => setReviewSourceOption('google')}
+                  >
+                    Google ★
+                  </button>
+                </div>
+              {/if}
             </div>
           </div>
 
@@ -892,8 +1031,8 @@
           <div class="sheet-header sheet-header-sticky sheet-header-mobile">
             <div>
               <h1>Filters</h1>
-              {#if activeFilterCount > 0}
-                <p class="sheet-summary">{filterSummary}</p>
+              {#if advancedFilterCount > 0}
+                <p class="sheet-summary">{advancedFilterSummary}</p>
               {/if}
             </div>
             <button type="button" class="ghost-chip ghost-chip-compact" on:click={closeFilters}>Done</button>
@@ -905,9 +1044,6 @@
                 <h3>Availability</h3>
               </div>
               <div class="token-wrap">
-                <button type="button" class:active={activeFilters.openNow} on:click={toggleOpenNowFilter}>
-                  Open now
-                </button>
                 <button
                   type="button"
                   class:active={activeFilters.closingSoon}
@@ -952,17 +1088,24 @@
                 <h3>Cuisine</h3>
               </div>
               <div class="token-wrap token-wrap-categories">
-                {#each availableCategories as category}
+                {#each visibleCuisineCategories as category}
                   <button type="button" class:active={activeFilters.categoryKeys.includes(category.key)} on:click={() => toggleCategory(category.key)}>
                     {category.label}
                   </button>
                 {/each}
               </div>
+              {#if cuisineExpanded || availableCategories.length > visibleCuisineCategories.length}
+                <button type="button" class="text-button" on:click={() => (cuisineExpanded = !cuisineExpanded)}>
+                  {cuisineExpanded ? 'Show less' : `Show ${availableCategories.length - visibleCuisineCategories.length} more`}
+                </button>
+              {/if}
             </section>
           </div>
 
-          <div class="filter-footer filter-footer-sticky">
-            <button type="button" class="ghost-chip ghost-chip-compact" on:click={clearFilters}>Clear all</button>
+          <div class="filter-footer filter-footer-sticky" class:with-clear={advancedFilterCount > 0}>
+            {#if advancedFilterCount > 0}
+              <button type="button" class="ghost-chip ghost-chip-compact" on:click={clearAdvancedFilters}>Clear all</button>
+            {/if}
             <button type="button" class="primary-button" on:click={closeFilters}>Show {sortedPlaces.length} places</button>
           </div>
         </div>
@@ -994,76 +1137,103 @@
             <div>
               <h1>Restaurants nearby</h1>
               <p class="sheet-meta">{placesInViewLabel(sortedPlaces.length, visiblePlaces.length)}</p>
-              {#if activeFilterCount > 0}
-                <p class="sheet-summary">{filterSummary}</p>
+              {#if advancedFilterCount > 0}
+                <p class="sheet-summary">{advancedFilterSummary}</p>
               {/if}
             </div>
           </div>
 
-          <div class="segment-row segment-row-mobile">
-            <button
-              type="button"
-              class:active={activeFilters.openNow}
-              on:click={toggleOpenNowFilter}
-            >
-              Open
-            </button>
-            <button
-              type="button"
-              aria-label={distanceSortAriaLabel()}
-              class:active={isDistanceSortActive()}
-              on:click={toggleDistanceSort}
-            >
-              Distance
-              <span class="sort-icon" aria-hidden="true">
-                {#if sortKey === 'distanceDesc'}
-                  <svg viewBox="0 0 12 12">
-                    <path d="M6 2.25v7.5M6 9.75 3.75 7.5M6 9.75 8.25 7.5" />
-                  </svg>
-                {:else}
-                  <svg viewBox="0 0 12 12">
-                    <path d="M6 9.75v-7.5M6 2.25 3.75 4.5M6 2.25 8.25 4.5" />
-                  </svg>
-                {/if}
-              </span>
-            </button>
-            <button
-              type="button"
-              aria-label={priceSortAriaLabel()}
-              class:active={isPriceSortActive()}
-              on:click={togglePriceSort}
-            >
-              Price
-              <span class="sort-icon" aria-hidden="true">
-                {#if sortKey === 'priceDesc'}
-                  <svg viewBox="0 0 12 12">
-                    <path d="M6 2.25v7.5M6 9.75 3.75 7.5M6 9.75 8.25 7.5" />
-                  </svg>
-                {:else}
-                  <svg viewBox="0 0 12 12">
-                    <path d="M6 9.75v-7.5M6 2.25 3.75 4.5M6 2.25 8.25 4.5" />
-                  </svg>
-                {/if}
-              </span>
-            </button>
-            <div class="split-sort-pill split-sort-pill-mobile" role="group" aria-label="Ratings sort">
-              <button
-                type="button"
-                class="split-pill-option split-pill-tabelog"
-                class:active={sortKey === 'tabelog'}
-                on:click={() => setRatingSort('tabelog')}
-              >
-                Tabelog
+          <div class="tray-toolbar">
+            <div class="segment-row segment-row-mobile segment-row-toolbar">
+              <button type="button" class="toolbar-pill" class:active={activeFilters.openNow} on:click={toggleOpenNowFilter}>
+                <span class="toolbar-pill-label">Open</span>
               </button>
               <button
                 type="button"
-                class="split-pill-option split-pill-google"
-                class:active={sortKey === 'google'}
-                on:click={() => setRatingSort('google')}
+                class="toolbar-pill"
+                class:active={standardSortActive}
+                aria-haspopup="menu"
+                aria-expanded={trayMenu === 'sort'}
+                on:click={() => toggleTrayMenu('sort')}
               >
-                Google
+                <span class="toolbar-pill-label">{sortPillText}</span>
+                <span class="toolbar-pill-chevron" aria-hidden="true">
+                  <svg viewBox="0 0 12 12">
+                    <path d="M3.25 4.5 6 7.25 8.75 4.5" />
+                  </svg>
+                </span>
+              </button>
+              <button
+                type="button"
+                class="toolbar-pill toolbar-pill-reviews"
+                class:active={reviewSortActive}
+                class:provider-tabelog={sortMode === 'reviews' && reviewSource === 'tabelog'}
+                class:provider-google={sortMode === 'reviews' && reviewSource === 'google'}
+                aria-haspopup="menu"
+                aria-expanded={trayMenu === 'reviews'}
+                on:click={() => toggleTrayMenu('reviews')}
+              >
+                <span class="toolbar-pill-label">{reviewsPillText}</span>
+                <span class="toolbar-pill-chevron" aria-hidden="true">
+                  <svg viewBox="0 0 12 12">
+                    <path d="M3.25 4.5 6 7.25 8.75 4.5" />
+                  </svg>
+                </span>
               </button>
             </div>
+
+            {#if trayMenu === 'sort'}
+              <div class="tray-menu tray-menu-sort" role="menu" aria-label="Sort options">
+                <button type="button" class:active={sortMode === 'best'} on:click={() => setStandardSortOption('best')}>Best</button>
+                <button
+                  type="button"
+                  class:active={sortMode === 'distance' && sortDirection === 'asc'}
+                  on:click={() => setStandardSortOption('distance', 'asc')}
+                >
+                  Distance ↑
+                </button>
+                <button
+                  type="button"
+                  class:active={sortMode === 'distance' && sortDirection === 'desc'}
+                  on:click={() => setStandardSortOption('distance', 'desc')}
+                >
+                  Distance ↓
+                </button>
+                <button
+                  type="button"
+                  class:active={sortMode === 'price' && sortDirection === 'asc'}
+                  on:click={() => setStandardSortOption('price', 'asc')}
+                >
+                  Price ↑
+                </button>
+                <button
+                  type="button"
+                  class:active={sortMode === 'price' && sortDirection === 'desc'}
+                  on:click={() => setStandardSortOption('price', 'desc')}
+                >
+                  Price ↓
+                </button>
+              </div>
+            {:else if trayMenu === 'reviews'}
+              <div class="tray-menu tray-menu-reviews" role="menu" aria-label="Review sort options">
+                <button
+                  type="button"
+                  class="review-menu-option review-menu-option-tabelog"
+                  class:active={sortMode === 'reviews' && reviewSource === 'tabelog'}
+                  on:click={() => setReviewSourceOption('tabelog')}
+                >
+                  Tabelog ★
+                </button>
+                <button
+                  type="button"
+                  class="review-menu-option review-menu-option-google"
+                  class:active={sortMode === 'reviews' && reviewSource === 'google'}
+                  on:click={() => setReviewSourceOption('google')}
+                >
+                  Google ★
+                </button>
+              </div>
+            {/if}
           </div>
         </div>
 
@@ -1199,9 +1369,9 @@
   }
 
   .filter-pill.active {
-    background: #17191c;
-    color: #f8f7f4;
-    border-color: transparent;
+    background: rgba(23, 25, 28, 0.08);
+    color: var(--ink);
+    border-color: rgba(23, 25, 28, 0.14);
   }
 
   .filter-pill-filters {
@@ -1228,8 +1398,8 @@
   }
 
   .filter-pill.active .filter-count-badge {
-    background: rgba(248, 247, 244, 0.18);
-    color: #f8f7f4;
+    background: rgba(23, 25, 28, 0.12);
+    color: var(--ink);
   }
 
   .top-actions {
@@ -1470,58 +1640,127 @@
     padding-bottom: 4px;
   }
 
-  .segment-row-mobile button {
-    min-height: 36px;
-    padding: 8px 10px;
-    font-size: 0.8rem;
+  .tray-toolbar {
+    position: relative;
+    display: grid;
+    gap: 8px;
   }
 
-  .split-sort-pill {
-    display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+  .segment-row-toolbar {
+    flex-wrap: nowrap;
+    gap: 6px;
+    margin-bottom: 0;
+  }
+
+  .toolbar-pill {
+    min-width: 0;
+    flex: 1 1 0;
+    min-height: 38px;
+    padding: 8px 12px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    white-space: nowrap;
     border-radius: 999px;
-    overflow: hidden;
-    background: rgba(255, 255, 255, 0.88);
     border: 1px solid rgba(23, 25, 28, 0.08);
+    background: rgba(255, 255, 255, 0.84);
     box-shadow: var(--shadow-soft);
   }
 
-  .split-sort-pill .split-pill-option {
-    min-height: 40px;
-    padding: 10px 14px;
-    border: 0;
-    border-radius: 0;
-    box-shadow: none;
-    background: transparent;
-    font-weight: 600;
+  .toolbar-pill.active {
+    background: rgba(23, 25, 28, 0.08);
+    border-color: rgba(23, 25, 28, 0.14);
+    color: var(--ink);
   }
 
-  .split-sort-pill .split-pill-option + .split-pill-option {
-    border-left: 1px solid rgba(23, 25, 28, 0.08);
-  }
-
-  .split-pill-tabelog {
-    color: #7d6148;
-  }
-
-  .split-pill-google {
-    color: #55606f;
-  }
-
-  .split-sort-pill .split-pill-tabelog.active {
+  .toolbar-pill.provider-tabelog.active {
     background: rgba(125, 97, 72, 0.14);
+    border-color: rgba(125, 97, 72, 0.18);
     color: #6f543d;
   }
 
-  .split-sort-pill .split-pill-google.active {
+  .toolbar-pill.provider-google.active {
     background: rgba(85, 96, 111, 0.14);
+    border-color: rgba(85, 96, 111, 0.18);
     color: #485260;
   }
 
-  .split-sort-pill-mobile .split-pill-option {
-    min-height: 36px;
-    padding: 8px 10px;
-    font-size: 0.8rem;
+  .toolbar-pill-label {
+    min-width: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .toolbar-pill-chevron {
+    width: 12px;
+    height: 12px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    flex: 0 0 auto;
+  }
+
+  .toolbar-pill-chevron svg {
+    width: 12px;
+    height: 12px;
+    fill: none;
+    stroke: currentColor;
+    stroke-width: 1.5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+
+  .tray-menu {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: calc(100% + 4px);
+    z-index: 8;
+    display: grid;
+    gap: 6px;
+    padding: 8px;
+    border-radius: 18px;
+    background: rgba(247, 246, 243, 0.96);
+    backdrop-filter: blur(18px);
+    border: 1px solid rgba(255, 255, 255, 0.78);
+    box-shadow: var(--shadow-strong);
+  }
+
+  .tray-menu button {
+    min-height: 38px;
+    padding: 10px 12px;
+    justify-content: flex-start;
+    border-radius: 14px;
+    border: 1px solid rgba(23, 25, 28, 0.08);
+    background: rgba(255, 255, 255, 0.88);
+    box-shadow: none;
+  }
+
+  .tray-menu button.active {
+    background: rgba(23, 25, 28, 0.08);
+    border-color: rgba(23, 25, 28, 0.14);
+    color: var(--ink);
+  }
+
+  .review-menu-option-tabelog {
+    color: #7d6148;
+  }
+
+  .review-menu-option-google {
+    color: #55606f;
+  }
+
+  .tray-menu .review-menu-option-tabelog.active {
+    background: rgba(125, 97, 72, 0.14);
+    border-color: rgba(125, 97, 72, 0.18);
+    color: #6f543d;
+  }
+
+  .tray-menu .review-menu-option-google.active {
+    background: rgba(85, 96, 111, 0.14);
+    border-color: rgba(85, 96, 111, 0.18);
+    color: #485260;
   }
 
   .sheet-meta {
@@ -1582,22 +1821,12 @@
     backdrop-filter: blur(14px);
   }
 
-  .sort-icon {
-    width: 14px;
-    height: 14px;
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
+  .filter-footer {
+    justify-content: flex-end;
   }
 
-  .sort-icon svg {
-    width: 14px;
-    height: 14px;
-    fill: none;
-    stroke: currentColor;
-    stroke-linecap: round;
-    stroke-linejoin: round;
-    stroke-width: 1.5;
+  .filter-footer.with-clear {
+    justify-content: space-between;
   }
 
   .empty-state,
@@ -1723,13 +1952,20 @@
     .segment-row-mobile {
       flex-wrap: nowrap;
       gap: 6px;
-      overflow-x: auto;
-      scrollbar-width: none;
-      padding-bottom: 2px;
+      overflow: visible;
+      padding-bottom: 0;
     }
 
-    .segment-row-mobile::-webkit-scrollbar {
-      display: none;
+    .toolbar-pill {
+      min-height: 36px;
+      padding: 8px 10px;
+      font-size: 0.8rem;
+    }
+
+    .tray-menu button {
+      min-height: 36px;
+      padding: 9px 10px;
+      font-size: 0.82rem;
     }
   }
 </style>

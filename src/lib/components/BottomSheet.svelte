@@ -24,6 +24,10 @@
   let touchActive = false;
   let sheetInnerElement: HTMLDivElement;
 
+  function isInteractiveTarget(target: EventTarget | null) {
+    return target instanceof HTMLElement && target.closest('button, a, input, select, textarea, [role="button"]') !== null;
+  }
+
   function snapTop(next: SheetSnap) {
     if (desktop) {
       return 0;
@@ -92,7 +96,7 @@
       return false;
     }
 
-    if (target.closest('button, a, input, select, textarea, [role="button"]')) {
+    if (isInteractiveTarget(target)) {
       return false;
     }
 
@@ -197,6 +201,10 @@
       return;
     }
 
+    if (isInteractiveTarget(event.target)) {
+      return;
+    }
+
     primeDrag(event.clientY, event.timeStamp);
     capturePointer(event, event.currentTarget as HTMLElement);
     contentDragCandidate = true;
@@ -243,6 +251,10 @@
 
   function handleContentTouchStart(event: TouchEvent) {
     if (desktop) {
+      return;
+    }
+
+    if (isInteractiveTarget(event.target)) {
       return;
     }
 
