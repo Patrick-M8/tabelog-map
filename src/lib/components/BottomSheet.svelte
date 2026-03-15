@@ -68,10 +68,21 @@
     contentDragCandidate = false;
   }
 
+  function capturePointer(event: PointerEvent, element: HTMLElement) {
+    activePointerElement = element;
+
+    try {
+      if (!element.hasPointerCapture(event.pointerId)) {
+        element.setPointerCapture(event.pointerId);
+      }
+    } catch {
+      // Ignore capture errors from browsers that do not support capture on the target.
+    }
+  }
+
   function beginDrag(event: PointerEvent, element: HTMLElement) {
     dragging = true;
-    activePointerElement = element;
-    element.setPointerCapture(event.pointerId);
+    capturePointer(event, element);
   }
 
   function updateDrag(event: PointerEvent) {
@@ -103,8 +114,17 @@
     }
 
     primePointer(event);
-    activePointerElement = event.currentTarget as HTMLElement;
+    capturePointer(event, event.currentTarget as HTMLElement);
     contentDragCandidate = true;
+  }
+
+  function handleWindowPointerMove(event: PointerEvent) {
+    if (dragging) {
+      handlePointerMove(event);
+      return;
+    }
+
+    handleContentPointerMove(event);
   }
 
   function handlePointerMove(event: PointerEvent) {
@@ -123,12 +143,12 @@
 
     const deltaY = event.clientY - dragStart;
     if (!dragging) {
-      if (deltaY < -6) {
+      if (deltaY < -4) {
         releaseActivePointer();
         return;
       }
 
-      if (deltaY <= 6) {
+      if (deltaY <= 2) {
         return;
       }
 
@@ -200,7 +220,12 @@
   }
 </script>
 
-<svelte:window bind:innerHeight on:pointerup={handlePointerUp} on:pointercancel={handlePointerUp} />
+<svelte:window
+  bind:innerHeight
+  on:pointermove={handleWindowPointerMove}
+  on:pointerup={handlePointerUp}
+  on:pointercancel={handlePointerUp}
+/>
 
 <section
   class:desktop
@@ -217,9 +242,6 @@
     type="button"
     aria-label="Adjust results panel"
     on:pointerdown={handleHandlePointerDown}
-    on:pointermove={handlePointerMove}
-    on:pointerup={handlePointerUp}
-    on:pointercancel={handlePointerUp}
     on:click={handleHandleClick}
   >
     <span></span>
@@ -229,9 +251,6 @@
     bind:this={sheetInnerElement}
     class="sheet-inner"
     on:pointerdown={handleContentPointerDown}
-    on:pointermove={handleContentPointerMove}
-    on:pointerup={handlePointerUp}
-    on:pointercancel={handlePointerUp}
   >
     <slot />
   </div>
