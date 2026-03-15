@@ -664,7 +664,9 @@
             <h2>Filters</h2>
           </div>
           <button type="button" class="ghost-chip ghost-chip-icon" aria-label="Close filters" on:click={closeFilters}>
-            <span aria-hidden="true">x</span>
+            <svg viewBox="0 0 14 14" aria-hidden="true">
+              <path d="M3.5 3.5 10.5 10.5M10.5 3.5 3.5 10.5" />
+            </svg>
           </button>
         </div>
 
@@ -1253,8 +1255,15 @@
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    font-size: 1.3rem;
-    line-height: 1;
+  }
+
+  .ghost-chip-icon svg {
+    width: 14px;
+    height: 14px;
+    stroke: currentColor;
+    fill: none;
+    stroke-width: 1.75;
+    stroke-linecap: round;
   }
 
   .primary-button {

@@ -4,6 +4,15 @@ import { CLOSING_SOON_MINUTES } from '$lib/config';
 import type { DailyWindow, PlaceStatus, WeeklyTimeline } from '$lib/types';
 
 const DAY_KEYS = ['mon', 'tue', 'wed', 'thu', 'fri', 'sat', 'sun'] as const;
+const DAY_LABELS: Record<(typeof DAY_KEYS)[number], string> = {
+  mon: 'Mon',
+  tue: 'Tue',
+  wed: 'Wed',
+  thu: 'Thu',
+  fri: 'Fri',
+  sat: 'Sat',
+  sun: 'Sun'
+};
 const MIDDLE_DOT = '\u00B7';
 
 function minutesFromClock(clock: string) {
@@ -25,7 +34,7 @@ function activeWindows(timeline: WeeklyTimeline, now = DateTime.now()) {
   const previous = timeline[previousDayKey] ?? [];
   const combined = [...today, ...previous.filter((window) => window.crossesMidnight)];
 
-  return { combined, currentMinute, today };
+  return { combined, currentMinute, today, dayIndex };
 }
 
 function opensLaterLabel(windows: DailyWindow[], currentMinute: number) {
@@ -33,12 +42,36 @@ function opensLaterLabel(windows: DailyWindow[], currentMinute: number) {
   return nextWindow?.open ?? null;
 }
 
+function nextOpeningLabel(timeline: WeeklyTimeline, dayIndex: number, currentMinute: number) {
+  const todayKey = DAY_KEYS[dayIndex];
+  const sameDayOpening = opensLaterLabel(timeline[todayKey] ?? [], currentMinute);
+  if (sameDayOpening) {
+    return `Opens ${sameDayOpening}`;
+  }
+
+  for (let offset = 1; offset < DAY_KEYS.length; offset += 1) {
+    const nextDayKey = DAY_KEYS[(dayIndex + offset) % DAY_KEYS.length];
+    const nextWindow = timeline[nextDayKey]?.[0];
+    if (!nextWindow) {
+      continue;
+    }
+
+    if (offset === 1) {
+      return `Opens ${nextWindow.open}`;
+    }
+
+    return `${DAY_LABELS[nextDayKey]} ${nextWindow.open}`;
+  }
+
+  return null;
+}
+
 function formatStatusDetail({
   closesAt,
-  opensAt,
   lastOrderAt,
+  nextOpenLabel,
   state
-}: Pick<PlaceStatus, 'closesAt' | 'opensAt' | 'lastOrderAt' | 'state'>) {
+}: Pick<PlaceStatus, 'closesAt' | 'lastOrderAt' | 'state'> & { nextOpenLabel: string | null }) {
   if (state === 'open' || state === 'closingSoon') {
     if (!closesAt) {
       return 'Hours unavailable';
@@ -47,15 +80,11 @@ function formatStatusDetail({
     return lastOrderAt ? `Closes ${closesAt} ${MIDDLE_DOT} L.O. ${lastOrderAt}` : `Closes ${closesAt}`;
   }
 
-  if (opensAt) {
-    return `Closed ${MIDDLE_DOT} Opens ${opensAt}`;
-  }
-
-  return 'No confirmed hours';
+  return nextOpenLabel ?? 'No confirmed hours';
 }
 
 export function derivePlaceStatus(timeline: WeeklyTimeline, now = DateTime.now()): PlaceStatus {
-  const { combined, currentMinute, today } = activeWindows(timeline, now);
+  const { combined, currentMinute, today, dayIndex } = activeWindows(timeline, now);
 
   for (const window of combined) {
     const openMinute = minutesFromClock(window.open);
@@ -82,8 +111,8 @@ export function derivePlaceStatus(timeline: WeeklyTimeline, now = DateTime.now()
       detail: formatStatusDetail({
         state,
         closesAt: window.close,
-        opensAt: null,
-        lastOrderAt: window.lastOrder
+        lastOrderAt: window.lastOrder,
+        nextOpenLabel: null
       }),
       closesAt: window.close,
       opensAt: null,
@@ -98,8 +127,8 @@ export function derivePlaceStatus(timeline: WeeklyTimeline, now = DateTime.now()
     detail: formatStatusDetail({
       state: 'closed',
       closesAt: null,
-      opensAt: nextOpen,
-      lastOrderAt: null
+      lastOrderAt: null,
+      nextOpenLabel: nextOpeningLabel(timeline, dayIndex, currentMinute)
     }),
     closesAt: null,
     opensAt: nextOpen,

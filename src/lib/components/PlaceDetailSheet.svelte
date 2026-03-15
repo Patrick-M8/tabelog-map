@@ -1,7 +1,6 @@
 <script lang="ts">
   import { createEventDispatcher } from 'svelte';
 
-  import { formatRelativeUpdate } from '$lib/utils/format';
   import type { PlaceDetail, PlaceStatus } from '$lib/types';
 
   export let detail: PlaceDetail | null = null;
@@ -22,6 +21,7 @@
     ['sat', 'Sat'],
     ['sun', 'Sun']
   ] as const;
+  const MIDDLE_DOT = '\u00B7';
 </script>
 
 {#if detail && status}
@@ -33,7 +33,9 @@
         <p class="secondary">{detail.station ?? detail.area ?? detail.address ?? 'Japan'}</p>
       </div>
       <button type="button" class="ghost ghost-icon" aria-label="Close details" on:click={() => dispatch('close')}>
-        <span aria-hidden="true">×</span>
+        <svg viewBox="0 0 14 14" aria-hidden="true">
+          <path d="M3.5 3.5 10.5 10.5M10.5 3.5 3.5 10.5" />
+        </svg>
       </button>
     </div>
 
@@ -47,10 +49,11 @@
 
     <section class="hero-meta panel">
       <div class="panel-head">
-        <span class={`status-pill ${status.state}`}>{status.label}</span>
-        <span>{status.detail}</span>
+        <div class="status-summary">
+          <span class={`status-pill ${status.state}`}>{status.label}</span>
+          <span class="status-copy">{status.detail}</span>
+        </div>
       </div>
-      <p class="quiet">{formatRelativeUpdate(detail.freshnessUpdatedAt)} · Hours confidence {detail.hoursConfidence}</p>
       <div class="button-row">
         <button type="button" on:click={() => dispatch('directions', { id: detail.id })}>Directions</button>
         <button type="button" class:muted={!detail.reserveUrl} disabled={!detail.reserveUrl} on:click={() => dispatch('reserve', { id: detail.id })}>
@@ -92,7 +95,7 @@
               <span>{label}</span>
               <strong>
                 {#if detail.weeklyTimeline[key].length}
-                  {detail.weeklyTimeline[key].map((window) => `${window.open} - ${window.close}`).join(' · ')}
+                  {detail.weeklyTimeline[key].map((window) => `${window.open} - ${window.close}`).join(` ${MIDDLE_DOT} `)}
                 {:else}
                   Closed
                 {/if}
@@ -113,12 +116,19 @@
   }
 
   .detail-header,
-  .panel-head,
   .button-row {
     display: flex;
     justify-content: space-between;
     gap: 12px;
     align-items: start;
+  }
+
+  .panel-head,
+  .status-summary {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
   }
 
   .detail-grid,
@@ -131,6 +141,7 @@
   .eyebrow,
   .secondary,
   .quiet,
+  .status-copy,
   .timeline-row span,
   .timeline-row strong,
   .rating-card span,
@@ -245,7 +256,14 @@
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    font-size: 1.3rem;
-    line-height: 1;
+  }
+
+  .ghost-icon svg {
+    width: 14px;
+    height: 14px;
+    stroke: currentColor;
+    fill: none;
+    stroke-width: 1.75;
+    stroke-linecap: round;
   }
 </style>
