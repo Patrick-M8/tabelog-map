@@ -15,6 +15,7 @@
   import { haversineDistanceMeters, isInsideBounds, walkMinutesFromDistance } from '$lib/utils/geo';
   import { derivePlaceStatus } from '$lib/utils/hours';
   import { countActiveFilters, summarizeFilters } from '$lib/utils/discovery';
+  import { isQuickFilterActive, toggleQuickFilter, type QuickFilterKey } from '$lib/utils/quickFilters';
   import { sortPlaces } from '$lib/utils/sort';
 
   type FilterSection = 'category' | 'walk' | 'price' | null;
@@ -50,6 +51,11 @@
 
   const PRICE_BANDS = Array.from({ length: 5 }, (_, index) => '\u00A5'.repeat(index + 1));
   const WALK_MINUTE_OPTIONS = [5, 10, 15, 30];
+  const MOBILE_QUICK_FILTERS: { key: QuickFilterKey; label: string }[] = [
+    { key: 'openNow', label: 'Open now' },
+    { key: 'walk10', label: '\u2264 10 min' },
+    { key: 'priceLite', label: '\u00A5\u00A5 and under' }
+  ];
   let innerWidth = 390;
   let sheetSnap: SheetSnap = 'peek';
   let sortKey: SortKey = 'best';
@@ -241,6 +247,10 @@
       ...activeFilters,
       maxWalkMinutes: activeFilters.maxWalkMinutes === minutes ? null : minutes
     });
+  }
+
+  function toggleQuickPreset(key: QuickFilterKey) {
+    updateFilters(toggleQuickFilter(activeFilters, key));
   }
 
   async function openFilters(section: FilterSection = null) {
@@ -644,17 +654,38 @@
     <div class="map-gradient"></div>
 
     <div class="top-chrome">
-      <div class="top-filter-row" aria-label="Quick filters">
-        <button type="button" class="filter-pill" class:active={activeFilters.categoryKeys.length > 0} on:click={() => openFilters('category')}>
-          {categoryFilterLabel()}
-        </button>
-        <button type="button" class="filter-pill" class:active={activeFilters.maxWalkMinutes !== null} on:click={() => openFilters('walk')}>
-          {walkFilterLabel()}
-        </button>
-        <button type="button" class="filter-pill" class:active={activeFilters.priceBands.length > 0} on:click={() => openFilters('price')}>
-          {priceFilterLabel()}
-        </button>
-      </div>
+      {#if desktop}
+        <div class="top-filter-row" aria-label="Quick filters">
+          <button type="button" class="filter-pill" class:active={activeFilters.categoryKeys.length > 0} on:click={() => openFilters('category')}>
+            {categoryFilterLabel()}
+          </button>
+          <button type="button" class="filter-pill" class:active={activeFilters.maxWalkMinutes !== null} on:click={() => openFilters('walk')}>
+            {walkFilterLabel()}
+          </button>
+          <button type="button" class="filter-pill" class:active={activeFilters.priceBands.length > 0} on:click={() => openFilters('price')}>
+            {priceFilterLabel()}
+          </button>
+        </div>
+      {:else}
+        <div class="top-filter-row" aria-label="Quick filters">
+          {#each MOBILE_QUICK_FILTERS as filter (filter.key)}
+            <button
+              type="button"
+              class="filter-pill filter-pill-quick"
+              class:active={isQuickFilterActive(activeFilters, filter.key)}
+              on:click={() => toggleQuickPreset(filter.key)}
+            >
+              {filter.label}
+            </button>
+          {/each}
+          <button type="button" class="filter-pill filter-pill-quick filter-pill-filters" class:active={activeFilterCount > 0} on:click={() => openFilters()}>
+            <span>Filters</span>
+            {#if activeFilterCount > 0}
+              <span class="filter-count-badge" aria-label={`${activeFilterCount} active filters`}>{activeFilterCount}</span>
+            {/if}
+          </button>
+        </div>
+      {/if}
 
       <div class="top-actions">
         <button type="button" class="icon-button icon-button-square" aria-label="Use my location" on:click={useUserLocation}>
@@ -863,78 +894,83 @@
         on:snapchange={handleSheetSnapChange}
       >
       {#if filterOpen}
-        <div class="sheet-header">
-          <div>
-            <p class="eyebrow">Refine</p>
-            <h1>Filters</h1>
-            <p class="sheet-summary">{filterSummary}</p>
+        <div class="mobile-filter-shell">
+          <div class="sheet-header sheet-header-sticky sheet-header-mobile">
+            <div>
+              <h1>Filters</h1>
+              {#if activeFilterCount > 0}
+                <p class="sheet-summary">{filterSummary}</p>
+              {/if}
+            </div>
+            <button type="button" class="ghost-chip ghost-chip-compact" on:click={closeFilters}>Done</button>
           </div>
-          <button type="button" class="ghost-chip" on:click={closeFilters}>Done</button>
-        </div>
 
-        <section class="filter-section">
-          <div class="section-heading">
-            <h3>Availability</h3>
-          </div>
-          <div class="token-wrap">
-            <button type="button" class:active={activeFilters.openNow} on:click={toggleOpenNowFilter}>
-              Open now
-            </button>
-            <button
-              type="button"
-              class:active={activeFilters.closingSoon}
-              on:click={toggleClosingSoonFilter}
-            >
-              Closing soon
-            </button>
-          </div>
-        </section>
+          <div class="filter-section-stack">
+            <section class="filter-section">
+              <div class="section-heading">
+                <h3>Availability</h3>
+              </div>
+              <div class="token-wrap">
+                <button type="button" class:active={activeFilters.openNow} on:click={toggleOpenNowFilter}>
+                  Open now
+                </button>
+                <button
+                  type="button"
+                  class:active={activeFilters.closingSoon}
+                  on:click={toggleClosingSoonFilter}
+                >
+                  Closing soon
+                </button>
+              </div>
+            </section>
 
-        <section bind:this={walkSectionElement} class="filter-section">
-          <div class="section-heading">
-            <h3>Walk time</h3>
-          </div>
-          <div class="token-wrap">
-            {#each WALK_MINUTE_OPTIONS as minutes}
-              <button type="button" class:active={activeFilters.maxWalkMinutes === minutes} on:click={() => setWalkMinutes(minutes)}>
-                ≤ {minutes} min
-              </button>
-            {/each}
-          </div>
-        </section>
+            <section bind:this={walkSectionElement} class="filter-section">
+              <div class="section-heading">
+                <h3>Walk time</h3>
+              </div>
+              <div class="token-wrap">
+                {#each WALK_MINUTE_OPTIONS as minutes}
+                  <button type="button" class:active={activeFilters.maxWalkMinutes === minutes} on:click={() => setWalkMinutes(minutes)}>
+                    ≤ {minutes} min
+                  </button>
+                {/each}
+              </div>
+            </section>
 
-        <section bind:this={priceSectionElement} class="filter-section">
-          <div class="section-heading">
-            <h3>Price</h3>
-          </div>
-          <div class="token-wrap">
-            {#each PRICE_BANDS as band}
-              <button type="button" class:active={activeFilters.priceBands.includes(band)} on:click={() => togglePriceBand(band)}>
-                <span class="filter-token">
-                  <strong>{band}</strong>
-                  <small>{formatPriceRange(band)}</small>
-                </span>
-              </button>
-            {/each}
-          </div>
-        </section>
+            <section bind:this={priceSectionElement} class="filter-section">
+              <div class="section-heading">
+                <h3>Price</h3>
+              </div>
+              <div class="token-wrap">
+                {#each PRICE_BANDS as band}
+                  <button type="button" class:active={activeFilters.priceBands.includes(band)} on:click={() => togglePriceBand(band)}>
+                    <span class="filter-token">
+                      <strong>{band}</strong>
+                      <small>{formatPriceRange(band)}</small>
+                    </span>
+                  </button>
+                {/each}
+              </div>
+            </section>
 
-        <section bind:this={categorySectionElement} class="filter-section">
-          <div class="section-heading">
-            <h3>Cuisine</h3>
+            <section bind:this={categorySectionElement} class="filter-section">
+              <div class="section-heading">
+                <h3>Cuisine</h3>
+              </div>
+              <div class="token-wrap token-wrap-categories">
+                {#each availableCategories as category}
+                  <button type="button" class:active={activeFilters.categoryKeys.includes(category.key)} on:click={() => toggleCategory(category.key)}>
+                    {category.label}
+                  </button>
+                {/each}
+              </div>
+            </section>
           </div>
-          <div class="token-wrap token-wrap-categories">
-            {#each availableCategories as category}
-              <button type="button" class:active={activeFilters.categoryKeys.includes(category.key)} on:click={() => toggleCategory(category.key)}>
-                {category.label}
-              </button>
-            {/each}
-          </div>
-        </section>
 
-        <div class="filter-footer">
-          <button type="button" class="ghost-chip" on:click={clearFilters}>Clear all</button>
-          <button type="button" class="primary-button" on:click={closeFilters}>Show {sortedPlaces.length} places</button>
+          <div class="filter-footer filter-footer-sticky">
+            <button type="button" class="ghost-chip ghost-chip-compact" on:click={clearFilters}>Clear all</button>
+            <button type="button" class="primary-button" on:click={closeFilters}>Show {sortedPlaces.length} places</button>
+          </div>
         </div>
       {:else if detailOpen && DetailSheetComponent}
         {#if selectedDetail}
@@ -959,15 +995,14 @@
           </div>
         {/if}
       {:else}
-        <div class="sheet-header">
+        <div class="sheet-header sheet-header-mobile-compact">
           <div>
-            <p class="eyebrow">{placesInViewLabel(sortedPlaces.length, visiblePlaces.length)}</p>
             <h1>Restaurants nearby</h1>
-            <p class="sheet-summary">{filterSummary}</p>
+            <p class="sheet-meta">{placesInViewLabel(sortedPlaces.length, visiblePlaces.length)}</p>
+            {#if activeFilterCount > 0}
+              <p class="sheet-summary">{filterSummary}</p>
+            {/if}
           </div>
-          <button type="button" class="ghost-chip" on:click={() => openFilters()}>
-            Filters{#if activeFilterCount > 0} {activeFilterCount}{/if}
-          </button>
         </div>
 
         <div class="segment-row segment-row-mobile">
@@ -1074,12 +1109,12 @@
   }
 
   .top-chrome {
-    top: calc(14px + env(safe-area-inset-top));
-    left: 14px;
-    right: 14px;
+    top: calc(10px + env(safe-area-inset-top));
+    left: 12px;
+    right: 12px;
     display: grid;
     grid-template-columns: minmax(0, 1fr) auto;
-    gap: 10px;
+    gap: 8px;
     align-items: start;
     animation: rise-fade 280ms ease both;
   }
@@ -1095,12 +1130,17 @@
     background: rgba(255, 255, 255, 0.88);
     color: var(--ink);
     box-shadow: var(--shadow-soft);
+    transition:
+      background-color 180ms ease,
+      color 180ms ease,
+      border-color 180ms ease,
+      transform 180ms ease;
   }
 
   .top-filter-row {
     min-width: 0;
     display: flex;
-    gap: 10px;
+    gap: 6px;
     overflow-x: auto;
     scrollbar-width: none;
     padding: 0 2px 2px 0;
@@ -1112,15 +1152,49 @@
 
   .filter-pill {
     flex: 0 0 auto;
-    min-height: 44px;
-    padding: 10px 14px;
+    min-height: 40px;
+    padding: 9px 13px;
     font-weight: 600;
     line-height: 1.1;
     backdrop-filter: blur(12px);
+    border: 1px solid rgba(23, 25, 28, 0.08);
   }
 
   .filter-pill.active {
     background: #17191c;
+    color: #f8f7f4;
+    border-color: transparent;
+  }
+
+  .filter-pill-quick,
+  .filter-pill-filters {
+    min-height: 38px;
+    padding: 8px 12px;
+    font-size: 0.84rem;
+  }
+
+  .filter-pill-filters {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .filter-count-badge {
+    min-width: 18px;
+    height: 18px;
+    padding: 0 5px;
+    border-radius: 999px;
+    display: inline-grid;
+    place-items: center;
+    background: rgba(23, 25, 28, 0.1);
+    color: var(--ink);
+    font-size: 0.72rem;
+    line-height: 1;
+    font-weight: 700;
+  }
+
+  .filter-pill.active .filter-count-badge {
+    background: rgba(248, 247, 244, 0.18);
     color: #f8f7f4;
   }
 
@@ -1131,18 +1205,19 @@
   }
 
   .icon-button {
-    min-height: 44px;
-    padding: 0 14px;
+    min-height: 40px;
+    padding: 0 12px;
     display: inline-flex;
     align-items: center;
     justify-content: center;
     gap: 8px;
     font-weight: 600;
     backdrop-filter: blur(12px);
+    border: 1px solid rgba(23, 25, 28, 0.08);
   }
 
   .icon-button-square {
-    width: 44px;
+    width: 40px;
     padding: 0;
     flex: 0 0 auto;
   }
@@ -1154,7 +1229,7 @@
   }
 
   .viewport-chip {
-    top: calc(82px + env(safe-area-inset-top));
+    top: calc(72px + env(safe-area-inset-top));
     left: 50%;
     transform: translateX(-50%);
     padding: 11px 16px;
@@ -1216,7 +1291,7 @@
 
   .sheet-header {
     align-items: start;
-    margin-bottom: 14px;
+    margin-bottom: 10px;
   }
 
   .sheet-header h1,
@@ -1232,8 +1307,10 @@
 
   .sheet-summary,
   .filter-summary {
-    margin: 6px 0 0;
+    margin: 4px 0 0;
     color: var(--ink-soft);
+    font-size: 0.88rem;
+    line-height: 1.3;
   }
 
   .eyebrow {
@@ -1245,31 +1322,42 @@
   }
 
   .ghost-chip {
-    padding: 11px 14px;
-    background: rgba(23, 25, 28, 0.08);
+    min-height: 40px;
+    padding: 10px 14px;
+    background: rgba(255, 255, 255, 0.78);
+    border: 1px solid rgba(23, 25, 28, 0.08);
     box-shadow: none;
   }
 
   .ghost-chip-icon {
-    width: 42px;
-    height: 42px;
+    width: 40px;
+    height: 40px;
     padding: 0;
     display: inline-flex;
     align-items: center;
     justify-content: center;
+    border-radius: 999px;
   }
 
   .ghost-chip-icon svg {
-    width: 14px;
-    height: 14px;
+    width: 13px;
+    height: 13px;
     stroke: currentColor;
     fill: none;
-    stroke-width: 1.75;
+    stroke-width: 1.5;
     stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+
+  .ghost-chip-compact {
+    min-height: 36px;
+    padding: 8px 12px;
+    font-size: 0.84rem;
   }
 
   .primary-button {
-    padding: 12px 16px;
+    min-height: 40px;
+    padding: 10px 16px;
     background: #17191c;
     color: #f8f7f4;
     font-weight: 600;
@@ -1287,26 +1375,28 @@
   .list-stack,
   .segment-row {
     display: grid;
-    gap: 12px;
+    gap: 10px;
   }
 
   .token-wrap {
     display: flex;
     flex-wrap: wrap;
-    gap: 12px;
+    gap: 10px;
   }
 
   .token-wrap button,
   .segment-row button {
-    min-height: 44px;
-    padding: 12px 14px;
+    min-height: 40px;
+    padding: 10px 13px;
     white-space: nowrap;
+    border: 1px solid rgba(23, 25, 28, 0.08);
   }
 
   .token-wrap button.active,
   .segment-row button.active {
     background: #17191c;
     color: #f8f7f4;
+    border-color: transparent;
   }
 
   .token-wrap-categories button {
@@ -1337,8 +1427,72 @@
   .segment-row {
     display: flex;
     flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 12px;
+  }
+
+  .segment-row-mobile button {
+    min-height: 36px;
+    padding: 8px 12px;
+    font-size: 0.84rem;
+  }
+
+  .sheet-meta {
+    margin: 3px 0 0;
+    color: rgba(23, 25, 28, 0.58);
+    font-size: 0.8rem;
+    line-height: 1.25;
+  }
+
+  .sheet-header-mobile-compact {
+    margin-bottom: 8px;
+  }
+
+  .sheet-header-mobile-compact h1 {
+    font-size: 1.1rem;
+    line-height: 1.08;
+  }
+
+  .mobile-filter-shell {
+    display: grid;
     gap: 10px;
-    margin-bottom: 14px;
+    padding-bottom: 4px;
+  }
+
+  .sheet-header-sticky {
+    position: sticky;
+    top: -1px;
+    z-index: 3;
+    padding: 2px 0 10px;
+    margin-bottom: 0;
+    background: linear-gradient(
+      180deg,
+      color-mix(in srgb, var(--sheet-bg) 96%, white 4%) 0%,
+      color-mix(in srgb, var(--sheet-bg) 90%, white 10%) 78%,
+      rgba(247, 246, 243, 0) 100%
+    );
+    backdrop-filter: blur(14px);
+  }
+
+  .sheet-header-mobile h1 {
+    font-size: 1.14rem;
+    line-height: 1.08;
+  }
+
+  .filter-section-stack {
+    display: grid;
+    gap: 10px;
+    padding-bottom: 86px;
+  }
+
+  .filter-footer-sticky {
+    position: sticky;
+    bottom: calc(-16px - env(safe-area-inset-bottom));
+    z-index: 3;
+    padding: 12px 0 calc(2px + env(safe-area-inset-bottom));
+    margin-top: -72px;
+    background: linear-gradient(180deg, rgba(247, 246, 243, 0) 0%, rgba(247, 246, 243, 0.95) 26%, rgba(247, 246, 243, 0.99) 100%);
+    backdrop-filter: blur(14px);
   }
 
   .sort-icon {
@@ -1445,11 +1599,6 @@
   }
 
   @media (max-width: 640px) {
-    .top-chrome {
-      left: 12px;
-      right: 12px;
-    }
-
     .top-actions {
       gap: 8px;
       align-self: start;
@@ -1474,6 +1623,14 @@
       right: 12px;
       top: calc(74px + env(safe-area-inset-top));
       padding: 14px;
+    }
+
+    .sheet-header-mobile-compact {
+      margin-bottom: 6px;
+    }
+
+    .list-stack {
+      gap: 10px;
     }
   }
 </style>

@@ -323,7 +323,7 @@
   .sheet {
     position: absolute;
     inset: 0 0 auto 0;
-    height: calc(100% - 12px);
+    height: calc(100% - 8px);
     background: color-mix(in srgb, var(--sheet-bg) 90%, white 10%);
     backdrop-filter: blur(18px);
     border-radius: 28px 28px 0 0;
@@ -350,8 +350,8 @@
     display: grid;
     place-items: center;
     width: 100%;
-    height: 44px;
-    padding-top: 10px;
+    height: 30px;
+    padding: 8px 0 6px;
     background: transparent;
     border: 0;
     cursor: grab;
@@ -363,9 +363,12 @@
 
   .sheet-handle span {
     width: 44px;
-    height: 5px;
+    height: 6px;
     border-radius: 999px;
-    background: rgba(23, 25, 28, 0.16);
+    background: rgba(23, 25, 28, 0.18);
+    box-shadow:
+      0 1px 0 rgba(255, 255, 255, 0.5),
+      inset 0 0 0 0.5px rgba(23, 25, 28, 0.04);
   }
 
   .sheet-inner {
@@ -375,10 +378,14 @@
     -webkit-overflow-scrolling: touch;
     overscroll-behavior-y: contain;
     touch-action: pan-y;
-    padding: 0 16px calc(26px + env(safe-area-inset-bottom));
+    padding: 0 14px calc(24px + env(safe-area-inset-bottom));
   }
 
   .sheet.snap-full {
     border-radius: 24px 24px 0 0;
+  }
+
+  .sheet.desktop .sheet-handle {
+    display: none;
   }
 </style>

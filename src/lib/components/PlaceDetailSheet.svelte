@@ -233,17 +233,19 @@
 
   .button-row button,
   .ghost {
-    border-radius: 16px;
-    border: 0;
-    padding: 12px 14px;
+    border-radius: 14px;
+    border: 1px solid rgba(23, 25, 28, 0.08);
+    padding: 11px 14px;
     font: inherit;
   }
 
   .button-row button {
     flex: 1 1 0;
-    background: #17191c;
-    color: #f8f7f4;
+    min-height: 42px;
+    background: rgba(255, 255, 255, 0.92);
+    color: #17191c;
     font-weight: 600;
+    box-shadow: 0 6px 18px rgba(17, 24, 39, 0.06);
   }
 
   .button-row button.muted {
@@ -252,25 +254,29 @@
   }
 
   .ghost {
-    background: rgba(23, 25, 28, 0.08);
+    min-height: 40px;
+    background: rgba(255, 255, 255, 0.78);
     color: #17191c;
+    box-shadow: none;
   }
 
   .ghost-icon {
-    width: 42px;
-    height: 42px;
+    width: 40px;
+    height: 40px;
     padding: 0;
     display: inline-flex;
     align-items: center;
     justify-content: center;
+    border-radius: 999px;
   }
 
   .ghost-icon svg {
-    width: 14px;
-    height: 14px;
+    width: 13px;
+    height: 13px;
     stroke: currentColor;
     fill: none;
-    stroke-width: 1.75;
+    stroke-width: 1.5;
     stroke-linecap: round;
+    stroke-linejoin: round;
   }
 </style>
