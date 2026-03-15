@@ -98,7 +98,7 @@
   }
 
   function handleContentPointerDown(event: PointerEvent) {
-    if (desktop || (sheetInnerElement?.scrollTop ?? 0) > 0) {
+    if (desktop) {
       return;
     }
 
@@ -123,13 +123,17 @@
 
     const deltaY = event.clientY - dragStart;
     if (!dragging) {
-      if ((sheetInnerElement?.scrollTop ?? 0) > 0 || deltaY < -6) {
+      if (deltaY < -6) {
         releaseActivePointer();
         return;
       }
 
       if (deltaY <= 6) {
         return;
+      }
+
+      if ((sheetInnerElement?.scrollTop ?? 0) > 0) {
+        sheetInnerElement.scrollTop = 0;
       }
 
       event.preventDefault();

@@ -582,7 +582,7 @@
   $: selectedPlace = sortedPlaces.find((place) => place.id === selectedPlaceId) ?? null;
   $: selectedDetail = selectedPlaceId ? details[selectedPlaceId] ?? null : null;
   $: visiblePlaces = sortedPlaces.slice(0, 80);
-  $: mobileListPlaces = visiblePlaces;
+  $: mobileListPlaces = selectedPlace ? visiblePlaces.filter((place) => place.id !== selectedPlace.id) : visiblePlaces;
   $: {
     const scrollKey = filterOpen && pendingFilterSection ? `${pendingFilterSection}:${$page.url.search}` : '';
     if (scrollKey && scrollKey !== lastFilterScrollKey) {
@@ -966,20 +966,6 @@
           </button>
         </div>
 
-        {#if selectedPlace}
-          <div class="selection-hero">
-            <PlaceCard
-              place={selectedPlace}
-              imageUrl={selectedDetail?.imageUrl ?? null}
-              selected={true}
-              layout="expanded"
-              on:select={openDetail}
-              on:directions={() => openDirections(selectedPlace)}
-              on:reserve={() => openReserve(selectedPlace)}
-            />
-          </div>
-        {/if}
-
         <div class="segment-row segment-row-mobile">
           <button type="button" class:active={sortKey === 'best'} on:click={() => setSortKey('best')}>Best nearby</button>
           <button type="button" class:active={sortKey === 'distance'} on:click={() => setSortKey('distance')}>Nearest</button>
@@ -1093,7 +1079,7 @@
     right: 14px;
     display: grid;
     grid-template-columns: minmax(0, 1fr) auto;
-    gap: 12px;
+    gap: 10px;
     align-items: start;
     animation: rise-fade 280ms ease both;
   }
@@ -1126,8 +1112,8 @@
 
   .filter-pill {
     flex: 0 0 auto;
-    min-height: 52px;
-    padding: 14px 16px;
+    min-height: 44px;
+    padding: 10px 14px;
     font-weight: 600;
     line-height: 1.1;
     backdrop-filter: blur(12px);
@@ -1140,13 +1126,13 @@
 
   .top-actions {
     display: flex;
-    gap: 12px;
+    gap: 10px;
     flex: 0 0 auto;
   }
 
   .icon-button {
-    min-height: 52px;
-    padding: 0 16px;
+    min-height: 44px;
+    padding: 0 14px;
     display: inline-flex;
     align-items: center;
     justify-content: center;
@@ -1156,14 +1142,14 @@
   }
 
   .icon-button-square {
-    width: 52px;
+    width: 44px;
     padding: 0;
     flex: 0 0 auto;
   }
 
   .icon-button svg {
-    width: 22px;
-    height: 22px;
+    width: 20px;
+    height: 20px;
     fill: currentColor;
   }
 
@@ -1373,11 +1359,6 @@
     stroke-width: 1.5;
   }
 
-  .selection-hero {
-    margin-bottom: 14px;
-    animation: rise-fade 240ms ease both;
-  }
-
   .result-limit,
   .empty-state,
   .skeleton {
@@ -1480,15 +1461,21 @@
       gap: 6px;
     }
 
+    .filter-pill,
+    .icon-button {
+      min-height: 40px;
+      padding-inline: 12px;
+    }
+
+    .icon-button-square {
+      width: 40px;
+    }
+
     .floating-panel {
       left: 12px;
       right: 12px;
       top: calc(74px + env(safe-area-inset-top));
       padding: 14px;
-    }
-
-    .selection-hero {
-      margin-bottom: 12px;
     }
   }
 </style>
