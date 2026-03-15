@@ -14,13 +14,13 @@
   let dragStart = 0;
   let startTop = 0;
   let currentTop = 0;
-  let lastPointerY = 0;
-  let lastPointerTs = 0;
+  let lastInputY = 0;
+  let lastInputTs = 0;
   let dragVelocity = 0;
   let activePointerId: number | null = null;
   let activePointerElement: HTMLElement | null = null;
   let contentDragCandidate = false;
-  let handleElement: HTMLButtonElement;
+  let touchActive = false;
   let sheetInnerElement: HTMLDivElement;
 
   function snapTop(next: SheetSnap) {
@@ -42,14 +42,26 @@
     dispatch('snapchange', { snap: next });
   }
 
-  function primePointer(event: PointerEvent) {
-    activePointerId = event.pointerId;
+  function primeDrag(clientY: number, timeStamp: number) {
     dragMoved = false;
-    dragStart = event.clientY;
+    dragStart = clientY;
     startTop = currentTop;
-    lastPointerY = event.clientY;
-    lastPointerTs = event.timeStamp;
+    lastInputY = clientY;
+    lastInputTs = timeStamp;
     dragVelocity = 0;
+  }
+
+  function updateDrag(clientY: number, timeStamp: number) {
+    const deltaY = clientY - dragStart;
+    const frameDelta = clientY - lastInputY;
+    const frameTime = Math.max(1, timeStamp - lastInputTs);
+    dragVelocity = frameDelta / frameTime;
+    lastInputY = clientY;
+    lastInputTs = timeStamp;
+    dragMoved = dragMoved || Math.abs(deltaY) > 6;
+
+    const nextTop = Math.min(innerHeight - 120, Math.max(48, startTop + deltaY));
+    currentTop = nextTop;
   }
 
   function releaseActivePointer() {
@@ -65,10 +77,16 @@
 
     activePointerElement = null;
     activePointerId = null;
+  }
+
+  function resetGestureState() {
+    releaseActivePointer();
     contentDragCandidate = false;
+    touchActive = false;
   }
 
   function capturePointer(event: PointerEvent, element: HTMLElement) {
+    activePointerId = event.pointerId;
     activePointerElement = element;
 
     try {
@@ -80,88 +98,13 @@
     }
   }
 
-  function beginDrag(event: PointerEvent, element: HTMLElement) {
+  function beginDragWithPointer(event: PointerEvent, element: HTMLElement) {
     dragging = true;
     capturePointer(event, element);
   }
 
-  function updateDrag(event: PointerEvent) {
-    const deltaY = event.clientY - dragStart;
-    const frameDelta = event.clientY - lastPointerY;
-    const frameTime = Math.max(1, event.timeStamp - lastPointerTs);
-    dragVelocity = frameDelta / frameTime;
-    lastPointerY = event.clientY;
-    lastPointerTs = event.timeStamp;
-    dragMoved = dragMoved || Math.abs(deltaY) > 6;
-
-    const nextTop = Math.min(innerHeight - 120, Math.max(48, startTop + deltaY));
-    currentTop = nextTop;
-  }
-
-  function handleHandlePointerDown(event: PointerEvent) {
-    if (desktop) {
-      return;
-    }
-
-    event.preventDefault();
-    primePointer(event);
-    beginDrag(event, event.currentTarget as HTMLElement);
-  }
-
-  function handleContentPointerDown(event: PointerEvent) {
-    if (desktop) {
-      return;
-    }
-
-    primePointer(event);
-    capturePointer(event, event.currentTarget as HTMLElement);
-    contentDragCandidate = true;
-  }
-
-  function handleWindowPointerMove(event: PointerEvent) {
-    if (dragging) {
-      handlePointerMove(event);
-      return;
-    }
-
-    handleContentPointerMove(event);
-  }
-
-  function handlePointerMove(event: PointerEvent) {
-    if (!dragging || desktop || event.pointerId !== activePointerId) {
-      return;
-    }
-
-    event.preventDefault();
-    updateDrag(event);
-  }
-
-  function handleContentPointerMove(event: PointerEvent) {
-    if (desktop || event.pointerId !== activePointerId || !contentDragCandidate) {
-      return;
-    }
-
-    const deltaY = event.clientY - dragStart;
-    if (!dragging) {
-      if (deltaY < -4) {
-        releaseActivePointer();
-        return;
-      }
-
-      if (deltaY <= 2) {
-        return;
-      }
-
-      if ((sheetInnerElement?.scrollTop ?? 0) > 0) {
-        sheetInnerElement.scrollTop = 0;
-      }
-
-      event.preventDefault();
-      beginDrag(event, activePointerElement ?? sheetInnerElement);
-    }
-
-    event.preventDefault();
-    updateDrag(event);
+  function beginDragWithoutPointer() {
+    dragging = true;
   }
 
   function resolveSnap() {
@@ -185,20 +128,136 @@
     );
   }
 
-  function handlePointerUp(event?: PointerEvent) {
-    if (desktop || (event && activePointerId !== null && event.pointerId !== activePointerId)) {
-      return;
-    }
-
+  function finishDrag() {
     if (!dragging) {
-      releaseActivePointer();
+      resetGestureState();
       return;
     }
 
     const nextSnap = resolveSnap();
     dragging = false;
-    releaseActivePointer();
+    resetGestureState();
     applySnap(nextSnap);
+  }
+
+  function maybeStartContentDrag(clientY: number) {
+    const deltaY = clientY - dragStart;
+    if (deltaY < -4) {
+      contentDragCandidate = false;
+      return false;
+    }
+
+    if (deltaY <= 2) {
+      return false;
+    }
+
+    if ((sheetInnerElement?.scrollTop ?? 0) > 0) {
+      return false;
+    }
+
+    beginDragWithoutPointer();
+    return true;
+  }
+
+  function handleHandlePointerDown(event: PointerEvent) {
+    if (desktop || touchActive) {
+      return;
+    }
+
+    event.preventDefault();
+    primeDrag(event.clientY, event.timeStamp);
+    beginDragWithPointer(event, event.currentTarget as HTMLElement);
+  }
+
+  function handleContentPointerDown(event: PointerEvent) {
+    if (desktop || touchActive) {
+      return;
+    }
+
+    primeDrag(event.clientY, event.timeStamp);
+    capturePointer(event, event.currentTarget as HTMLElement);
+    contentDragCandidate = true;
+  }
+
+  function handleWindowPointerMove(event: PointerEvent) {
+    if (desktop || touchActive || activePointerId === null || event.pointerId !== activePointerId) {
+      return;
+    }
+
+    if (!dragging) {
+      if (!contentDragCandidate || !maybeStartContentDrag(event.clientY)) {
+        return;
+      }
+    }
+
+    event.preventDefault();
+    updateDrag(event.clientY, event.timeStamp);
+  }
+
+  function handlePointerUp(event?: PointerEvent) {
+    if (desktop || touchActive || (event && activePointerId !== null && event.pointerId !== activePointerId)) {
+      return;
+    }
+
+    finishDrag();
+  }
+
+  function handleHandleTouchStart(event: TouchEvent) {
+    if (desktop) {
+      return;
+    }
+
+    const touch = event.touches[0];
+    if (!touch) {
+      return;
+    }
+
+    touchActive = true;
+    primeDrag(touch.clientY, event.timeStamp);
+    beginDragWithoutPointer();
+  }
+
+  function handleContentTouchStart(event: TouchEvent) {
+    if (desktop) {
+      return;
+    }
+
+    const touch = event.touches[0];
+    if (!touch) {
+      return;
+    }
+
+    touchActive = true;
+    primeDrag(touch.clientY, event.timeStamp);
+    contentDragCandidate = true;
+  }
+
+  function handleWindowTouchMove(event: TouchEvent) {
+    if (desktop || !touchActive) {
+      return;
+    }
+
+    const touch = event.touches[0];
+    if (!touch) {
+      return;
+    }
+
+    if (!dragging) {
+      if (!contentDragCandidate || !maybeStartContentDrag(touch.clientY)) {
+        return;
+      }
+    }
+
+    event.preventDefault();
+    updateDrag(touch.clientY, event.timeStamp);
+  }
+
+  function handleTouchEnd() {
+    if (desktop || !touchActive) {
+      return;
+    }
+
+    finishDrag();
   }
 
   function handleHandleClick(event: MouseEvent) {
@@ -225,6 +284,9 @@
   on:pointermove={handleWindowPointerMove}
   on:pointerup={handlePointerUp}
   on:pointercancel={handlePointerUp}
+  on:touchmove|nonpassive={handleWindowTouchMove}
+  on:touchend={handleTouchEnd}
+  on:touchcancel={handleTouchEnd}
 />
 
 <section
@@ -237,11 +299,11 @@
   aria-label={title}
 >
   <button
-    bind:this={handleElement}
     class="sheet-handle"
     type="button"
     aria-label="Adjust results panel"
     on:pointerdown={handleHandlePointerDown}
+    on:touchstart|nonpassive={handleHandleTouchStart}
     on:click={handleHandleClick}
   >
     <span></span>
@@ -251,6 +313,7 @@
     bind:this={sheetInnerElement}
     class="sheet-inner"
     on:pointerdown={handleContentPointerDown}
+    on:touchstart|nonpassive={handleContentTouchStart}
   >
     <slot />
   </div>

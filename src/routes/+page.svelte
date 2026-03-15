@@ -320,6 +320,14 @@
     return `${activeFilters.priceBands.length} price levels`;
   }
 
+  function placesInViewLabel(total: number, visible: number) {
+    if (total > visible) {
+      return `${visible} of ${total} places in view`;
+    }
+
+    return `${total} places in view`;
+  }
+
   function openDetail() {
     if (!selectedPlaceId) {
       return;
@@ -789,7 +797,7 @@
         {:else}
           <div class="sheet-header">
             <div>
-              <p class="eyebrow">{sortedPlaces.length} places in view</p>
+              <p class="eyebrow">{placesInViewLabel(sortedPlaces.length, visiblePlaces.length)}</p>
               <h1>{selectedPlace?.station ?? 'Restaurants near the current map'}</h1>
               <p class="sheet-summary">{filterSummary}</p>
             </div>
@@ -832,10 +840,6 @@
               <p>Pan or zoom to explore another area in Japan.</p>
             </div>
           {:else}
-            {#if sortedPlaces.length > visiblePlaces.length}
-              <div class="result-limit">Showing {visiblePlaces.length} of {sortedPlaces.length} places in the current viewport.</div>
-            {/if}
-
             <div class="list-stack">
               {#each visiblePlaces as place (place.id)}
                 <PlaceCard
@@ -957,7 +961,7 @@
       {:else}
         <div class="sheet-header">
           <div>
-            <p class="eyebrow">{sortedPlaces.length} places in view</p>
+            <p class="eyebrow">{placesInViewLabel(sortedPlaces.length, visiblePlaces.length)}</p>
             <h1>Restaurants nearby</h1>
             <p class="sheet-summary">{filterSummary}</p>
           </div>
@@ -1000,10 +1004,6 @@
             <p>Pan or zoom to explore another area in Japan.</p>
           </div>
         {:else}
-          {#if sortedPlaces.length > visiblePlaces.length}
-            <div class="result-limit">Showing {visiblePlaces.length} of {sortedPlaces.length} places in the current viewport.</div>
-          {/if}
-
           <div class="list-stack">
             {#each mobileListPlaces as place (place.id)}
               <PlaceCard
@@ -1359,7 +1359,6 @@
     stroke-width: 1.5;
   }
 
-  .result-limit,
   .empty-state,
   .skeleton {
     border-radius: 18px;
@@ -1367,7 +1366,6 @@
     border: 1px solid var(--line);
   }
 
-  .result-limit,
   .empty-state {
     padding: 14px;
     color: var(--ink-soft);
