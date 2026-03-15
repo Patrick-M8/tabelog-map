@@ -49,10 +49,12 @@
 
     <section class="hero-meta panel">
       <div class="panel-head">
-        <div class="status-summary">
-          <span class={`status-pill ${status.state}`}>{status.label}</span>
+        <span class={`status-pill ${status.state}`}>{status.label}</span>
+        {#if status.state === 'closed'}
+          <span class="status-copy status-next-open">{status.detail}</span>
+        {:else}
           <span class="status-copy">{status.detail}</span>
-        </div>
+        {/if}
       </div>
       <div class="button-row">
         <button type="button" on:click={() => dispatch('directions', { id: detail.id })}>Directions</button>
@@ -123,12 +125,12 @@
     align-items: start;
   }
 
-  .panel-head,
-  .status-summary {
+  .panel-head {
     display: flex;
     align-items: center;
     gap: 10px;
     flex-wrap: wrap;
+    justify-content: space-between;
   }
 
   .detail-grid,
@@ -147,6 +149,11 @@
   .rating-card span,
   .rating-card small {
     color: rgba(23, 25, 28, 0.68);
+  }
+
+  .status-next-open {
+    text-align: right;
+    margin-left: auto;
   }
 
   h2,

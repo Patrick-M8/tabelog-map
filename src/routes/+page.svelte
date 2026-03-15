@@ -383,6 +383,22 @@
   }
 
   function visibleCategories(places: PlaceSummary[]) {
+    const categoryFilterLabel = (label: string) => {
+      if (label === '中国料理') {
+        return 'Chinese';
+      }
+
+      if (label === 'Creative Cuisine/Innovative') {
+        return 'Creative/Innovative';
+      }
+
+      if (label === 'Shokudo (Japanese Diner)') {
+        return 'Shokudo';
+      }
+
+      return label;
+    };
+
     const counts = new Map<string, { key: string; label: string; count: number }>();
     for (const place of places) {
       const key = place.category.key;
@@ -390,11 +406,11 @@
       if (existing) {
         existing.count += 1;
       } else {
-        counts.set(key, { key, label: place.category.label, count: 1 });
+        counts.set(key, { key, label: categoryFilterLabel(place.category.label), count: 1 });
       }
     }
 
-    return [...counts.values()].sort((left, right) => right.count - left.count);
+    return [...counts.values()].sort((left, right) => left.label.localeCompare(right.label, 'en', { sensitivity: 'base' }));
   }
 
   function toggleCategory(key: string) {
