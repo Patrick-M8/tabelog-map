@@ -4,7 +4,7 @@
   import { page } from '$app/stores';
   import { createQuery } from '@tanstack/svelte-query';
   import { _ } from 'svelte-i18n';
-  import { onMount, tick } from 'svelte';
+  import { onDestroy, onMount, tick } from 'svelte';
 
   import BottomSheet from '$lib/components/BottomSheet.svelte';
   import PlaceCard from '$lib/components/PlaceCard.svelte';
@@ -45,6 +45,8 @@
     priceBands: [],
     categoryKeys: []
   };
+  const REFRESH_PROMPT_VISIBLE_MS = 2200;
+  const REFRESH_PROMPT_FADE_MS = 320;
 
   const PRICE_BANDS = Array.from({ length: 5 }, (_, index) => '\u00A5'.repeat(index + 1));
   const WALK_MINUTE_OPTIONS = [5, 10, 15, 30];
@@ -76,6 +78,7 @@
   let selectedDetail: PlaceDetail | null = null;
   let availableCategories: { key: string; label: string; count: number }[] = [];
   let showRedoSearch = false;
+  let redoSearchFading = false;
   let desktop = false;
   let activeFilterCount = 0;
   let filterSummary = 'All nearby';
@@ -92,9 +95,59 @@
     section: null
   };
   let lastFilterScrollKey = '';
+  let refreshPromptFadeTimer: ReturnType<typeof setTimeout> | null = null;
+  let refreshPromptHideTimer: ReturnType<typeof setTimeout> | null = null;
+  let mapHasInitialized = false;
+  let suppressNextMoveRefreshPrompt = false;
 
   function randomToken(prefix: string) {
     return `${prefix}-${Date.now()}-${Math.random().toString(16).slice(2, 8)}`;
+  }
+
+  function clearRefreshPromptTimers() {
+    if (refreshPromptFadeTimer) {
+      clearTimeout(refreshPromptFadeTimer);
+      refreshPromptFadeTimer = null;
+    }
+
+    if (refreshPromptHideTimer) {
+      clearTimeout(refreshPromptHideTimer);
+      refreshPromptHideTimer = null;
+    }
+  }
+
+  function hideRefreshPrompt() {
+    clearRefreshPromptTimers();
+    redoSearchFading = false;
+    showRedoSearch = false;
+  }
+
+  function queueRefreshPrompt() {
+    if (!browser) {
+      return;
+    }
+
+    clearRefreshPromptTimers();
+    showRedoSearch = true;
+    redoSearchFading = false;
+    refreshPromptFadeTimer = setTimeout(() => {
+      redoSearchFading = true;
+    }, REFRESH_PROMPT_VISIBLE_MS);
+    refreshPromptHideTimer = setTimeout(() => {
+      hideRefreshPrompt();
+    }, REFRESH_PROMPT_VISIBLE_MS + REFRESH_PROMPT_FADE_MS);
+  }
+
+  function applyRefreshPrompt() {
+    suppressNextMoveRefreshPrompt = true;
+    searchCenter = { ...mapCenter };
+    focusTarget = { ...mapCenter, token: randomToken('refresh') };
+    hideRefreshPrompt();
+  }
+
+  function updateFilters(nextFilters: ActiveFilters) {
+    activeFilters = nextFilters;
+    queueRefreshPrompt();
   }
 
   function priceSortAriaLabel() {
@@ -180,13 +233,14 @@
 
   function togglePriceSort() {
     sortKey = sortKey === 'priceAsc' ? 'priceDesc' : 'priceAsc';
+    queueRefreshPrompt();
   }
 
   function setWalkMinutes(minutes: number) {
-    activeFilters = {
+    updateFilters({
       ...activeFilters,
       maxWalkMinutes: activeFilters.maxWalkMinutes === minutes ? null : minutes
-    };
+    });
   }
 
   async function openFilters(section: FilterSection = null) {
@@ -207,7 +261,34 @@
   }
 
   function clearFilters() {
-    activeFilters = { ...EMPTY_FILTERS };
+    updateFilters({ ...EMPTY_FILTERS });
+  }
+
+  function toggleOpenNowFilter() {
+    updateFilters({
+      ...activeFilters,
+      openNow: !activeFilters.openNow
+    });
+  }
+
+  function toggleClosingSoonFilter() {
+    updateFilters({
+      ...activeFilters,
+      closingSoon: !activeFilters.closingSoon
+    });
+  }
+
+  function resetAvailabilityFilters() {
+    updateFilters({
+      ...activeFilters,
+      openNow: false,
+      closingSoon: false
+    });
+  }
+
+  function setSortKey(nextSortKey: SortKey) {
+    sortKey = nextSortKey;
+    queueRefreshPrompt();
   }
 
   function categoryFilterLabel() {
@@ -317,21 +398,21 @@
   }
 
   function toggleCategory(key: string) {
-    activeFilters = {
+    updateFilters({
       ...activeFilters,
       categoryKeys: activeFilters.categoryKeys.includes(key)
         ? activeFilters.categoryKeys.filter((value) => value !== key)
         : [...activeFilters.categoryKeys, key]
-    };
+    });
   }
 
   function togglePriceBand(band: string) {
-    activeFilters = {
+    updateFilters({
       ...activeFilters,
       priceBands: activeFilters.priceBands.includes(band)
         ? activeFilters.priceBands.filter((value) => value !== band)
         : [...activeFilters.priceBands, band]
-    };
+    });
   }
 
   function handlePlaceSelect(placeId: string) {
@@ -415,6 +496,10 @@
     })();
   });
 
+  onDestroy(() => {
+    clearRefreshPromptTimers();
+  });
+
   $: desktop = innerWidth >= 960;
   $: uiRouteState = readUiRouteState($page.url);
   $: filterOpen = uiRouteState.view === 'filters';
@@ -480,7 +565,6 @@
   }
   $: selectedPlace = sortedPlaces.find((place) => place.id === selectedPlaceId) ?? null;
   $: selectedDetail = selectedPlaceId ? details[selectedPlaceId] ?? null : null;
-  $: showRedoSearch = haversineDistanceMeters(searchCenter, mapCenter) > SEARCH_REDRAW_METERS;
   $: visiblePlaces = sortedPlaces.slice(0, 80);
   $: mobileListPlaces = visiblePlaces;
   $: {
@@ -508,8 +592,24 @@
         {focusTarget}
         {desktop}
         on:moveend={(event) => {
+          const nextCenter = event.detail.center;
+          const movedDistance = haversineDistanceMeters(mapCenter, nextCenter);
           mapCenter = event.detail.center;
           mapBounds = event.detail.bounds;
+
+          if (!mapHasInitialized) {
+            mapHasInitialized = true;
+            return;
+          }
+
+          if (suppressNextMoveRefreshPrompt) {
+            suppressNextMoveRefreshPrompt = false;
+            return;
+          }
+
+          if (movedDistance > SEARCH_REDRAW_METERS) {
+            queueRefreshPrompt();
+          }
         }}
         on:select={(event) => handleMapSelect(event.detail.id)}
       />
@@ -547,10 +647,8 @@
       <button
         type="button"
         class="viewport-chip"
-        on:click={() => {
-          searchCenter = { ...mapCenter };
-          focusTarget = { ...mapCenter, token: randomToken('redo') };
-        }}
+        class:fading={redoSearchFading}
+        on:click={applyRefreshPrompt}
       >
         {$_('searchArea')}
       </button>
@@ -576,19 +674,19 @@
           <div class="section-heading">
             <h3>Availability</h3>
             {#if activeFilters.openNow || activeFilters.closingSoon}
-              <button type="button" class="text-button" on:click={() => (activeFilters = { ...activeFilters, openNow: false, closingSoon: false })}>
+              <button type="button" class="text-button" on:click={resetAvailabilityFilters}>
                 Reset
               </button>
             {/if}
           </div>
           <div class="token-wrap">
-            <button type="button" class:active={activeFilters.openNow} on:click={() => (activeFilters = { ...activeFilters, openNow: !activeFilters.openNow })}>
+            <button type="button" class:active={activeFilters.openNow} on:click={toggleOpenNowFilter}>
               Open now
             </button>
             <button
               type="button"
               class:active={activeFilters.closingSoon}
-              on:click={() => (activeFilters = { ...activeFilters, closingSoon: !activeFilters.closingSoon })}
+              on:click={toggleClosingSoonFilter}
             >
               Closing soon
             </button>
@@ -683,8 +781,8 @@
           </div>
 
           <div class="segment-row">
-            <button type="button" class:active={sortKey === 'best'} on:click={() => (sortKey = 'best')}>Best nearby</button>
-            <button type="button" class:active={sortKey === 'distance'} on:click={() => (sortKey = 'distance')}>Nearest</button>
+            <button type="button" class:active={sortKey === 'best'} on:click={() => setSortKey('best')}>Best nearby</button>
+            <button type="button" class:active={sortKey === 'distance'} on:click={() => setSortKey('distance')}>Nearest</button>
             <button
               type="button"
               aria-label={priceSortAriaLabel()}
@@ -757,13 +855,13 @@
             <h3>Availability</h3>
           </div>
           <div class="token-wrap">
-            <button type="button" class:active={activeFilters.openNow} on:click={() => (activeFilters = { ...activeFilters, openNow: !activeFilters.openNow })}>
+            <button type="button" class:active={activeFilters.openNow} on:click={toggleOpenNowFilter}>
               Open now
             </button>
             <button
               type="button"
               class:active={activeFilters.closingSoon}
-              on:click={() => (activeFilters = { ...activeFilters, closingSoon: !activeFilters.closingSoon })}
+              on:click={toggleClosingSoonFilter}
             >
               Closing soon
             </button>
@@ -865,8 +963,8 @@
         {/if}
 
         <div class="segment-row segment-row-mobile">
-          <button type="button" class:active={sortKey === 'best'} on:click={() => (sortKey = 'best')}>Best nearby</button>
-          <button type="button" class:active={sortKey === 'distance'} on:click={() => (sortKey = 'distance')}>Nearest</button>
+          <button type="button" class:active={sortKey === 'best'} on:click={() => setSortKey('best')}>Best nearby</button>
+          <button type="button" class:active={sortKey === 'distance'} on:click={() => setSortKey('distance')}>Nearest</button>
           <button
             type="button"
             aria-label={priceSortAriaLabel()}
@@ -1062,6 +1160,15 @@
     color: #f8f7f4;
     box-shadow: var(--shadow-strong);
     animation: viewport-rise 220ms ease both;
+    transition:
+      opacity 320ms ease,
+      transform 320ms ease;
+  }
+
+  .viewport-chip.fading {
+    opacity: 0;
+    transform: translateX(-50%) translateY(-4px);
+    pointer-events: none;
   }
 
   .panel-scrim {
