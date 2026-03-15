@@ -43,6 +43,6 @@ describe('summarizeFilters', () => {
         priceBands: ['\u00A5', '\u00A5\u00A5'],
         categoryKeys: ['sushi']
       })
-    ).toBe('Open now, \u226415 min, \u00A5\u00A5 and under');
+    ).toBe('Open now, \u226415 min, 2 price levels');
   });
 });

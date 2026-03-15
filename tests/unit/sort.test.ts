@@ -69,17 +69,39 @@ describe('sortPlaces', () => {
 
   it('sorts by price ascending', () => {
     const sorted = sortPlaces(
-      [makePlace('high', { priceBucket: 4 }), makePlace('low', { priceBucket: 1 })],
-      'priceAsc'
+      [makePlace('far', { distanceMeters: 1400 }), makePlace('near', { distanceMeters: 200 })],
+      'distanceAsc'
     );
-    expect(sorted.map((place) => place.id)).toEqual(['low', 'high']);
+    expect(sorted.map((place) => place.id)).toEqual(['near', 'far']);
   });
 
-  it('sorts by price descending', () => {
+  it('sorts by distance descending', () => {
     const sorted = sortPlaces(
-      [makePlace('high', { priceBucket: 4 }), makePlace('low', { priceBucket: 1 })],
-      'priceDesc'
+      [makePlace('far', { distanceMeters: 1400 }), makePlace('near', { distanceMeters: 200 })],
+      'distanceDesc'
     );
-    expect(sorted.map((place) => place.id)).toEqual(['high', 'low']);
+    expect(sorted.map((place) => place.id)).toEqual(['far', 'near']);
+  });
+
+  it('sorts by tabelog rating before distance', () => {
+    const sorted = sortPlaces(
+      [
+        makePlace('closer', { distanceMeters: 200, tabelog: { score: 3.7, reviews: 100 } }),
+        makePlace('higher-rated', { distanceMeters: 800, tabelog: { score: 4.1, reviews: 40 } })
+      ],
+      'tabelog'
+    );
+    expect(sorted.map((place) => place.id)).toEqual(['higher-rated', 'closer']);
+  });
+
+  it('sorts by google rating before distance', () => {
+    const sorted = sortPlaces(
+      [
+        makePlace('closer', { distanceMeters: 200, google: { score: 4.1, reviews: 100 } }),
+        makePlace('higher-rated', { distanceMeters: 800, google: { score: 4.7, reviews: 40 } })
+      ],
+      'google'
+    );
+    expect(sorted.map((place) => place.id)).toEqual(['higher-rated', 'closer']);
   });
 });

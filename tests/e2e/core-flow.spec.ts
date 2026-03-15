@@ -1,29 +1,36 @@
 import { expect, test } from '@playwright/test';
 
-test('desktop flow renders filters and price sorting controls', async ({ page }) => {
+test('desktop flow renders filter and tray controls', async ({ page }) => {
   await page.goto('/');
-  await expect(page.getByRole('button', { name: /cuisine/i }).first()).toBeVisible();
-  await expect(page.getByRole('button', { name: /walk time/i }).first()).toBeVisible();
-  await expect(page.getByRole('button', { name: /price/i }).first()).toBeVisible();
+  const distanceButton = page.locator('.segment-row').first().locator('button').nth(1);
+  const tabelogButton = page.locator('.split-sort-pill .split-pill-tabelog').first();
+
+  await expect(page.locator('.top-filter-row .filter-pill')).toHaveCount(1);
+  await expect(page.getByRole('button', { name: /^Filters/i }).first()).toBeVisible();
   await expect(page.getByText(/places in view/i)).toBeVisible();
   await expect(page.locator('article .preview img').first()).toBeVisible();
-  await page.getByRole('button', { name: /price ascending/i }).click();
-  await expect(page.getByRole('button', { name: /price ascending/i })).toHaveClass(/active/);
+
+  await distanceButton.click();
+  await expect(distanceButton).toHaveClass(/active/);
+  await expect(distanceButton).toHaveAttribute('aria-label', /distance nearest first/i);
+
+  await tabelogButton.click();
+  await expect(tabelogButton).toHaveClass(/active/);
 });
 
-test('mobile flow opens sheet filters and selected place details', async ({ page }) => {
+test('mobile flow uses a single top filters pill and updated tray controls', async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto('/');
-  await expect(page.getByLabel('Use my location')).toBeVisible();
-  await expect(page.getByRole('button', { name: 'Open now' })).toBeVisible();
-  await expect(page.getByRole('button', { name: '≤ 10 min' })).toBeVisible();
-  await expect(page.getByRole('button', { name: '¥¥ and under' })).toBeVisible();
-  await expect(page.getByRole('button', { name: /^Filters/i })).toBeVisible();
+  const openNowButton = page.locator('.segment-row-mobile > button').first();
+  const distanceButton = page.locator('.segment-row-mobile > button').nth(1);
+  const googleButton = page.locator('.split-sort-pill-mobile .split-pill-google');
 
-  await page.getByRole('button', { name: 'Open now' }).click();
-  await expect.poll(() => new URL(page.url()).searchParams.get('panel')).toBeNull();
-  await expect(page.getByRole('button', { name: 'Open now' })).toHaveClass(/active/);
-  await expect(page.locator('.sheet-summary').first()).toContainText('Open now');
+  await expect(page.getByLabel('Use my location')).toBeVisible();
+  await expect(page.locator('.top-filter-row .filter-pill')).toHaveCount(1);
+  await expect(page.getByRole('button', { name: /^Filters/i })).toBeVisible();
+  await expect(openNowButton).toBeVisible();
+  await expect(distanceButton).toBeVisible();
+  await expect(googleButton).toBeVisible();
 
   await expect.poll(() => new URL(page.url()).searchParams.get('place')).not.toBeNull();
 
@@ -43,11 +50,6 @@ test('mobile flow opens sheet filters and selected place details', async ({ page
   await page.getByRole('button', { name: 'Done' }).dispatchEvent('click');
 
   await expect.poll(() => new URL(page.url()).searchParams.get('panel')).toBeNull();
-  await expect(page.locator('.filter-count-badge')).toHaveText('2');
+  await expect(page.locator('.filter-count-badge')).toHaveText('1');
   await expect(page.locator('.sheet-summary').first()).toContainText('Closing soon');
-
-  await page.locator('article').first().locator('.card-main-button').dispatchEvent('click');
-  await expect.poll(() => new URL(page.url()).searchParams.get('panel')).toBe('detail');
-  await page.getByRole('button', { name: /close details/i }).dispatchEvent('click');
-  await expect.poll(() => new URL(page.url()).searchParams.get('panel')).toBeNull();
 });

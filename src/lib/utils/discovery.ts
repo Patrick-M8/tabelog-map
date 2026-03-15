@@ -1,5 +1,4 @@
 import type { ActiveFilters } from '$lib/types';
-import { usesQuickPriceBands } from '$lib/utils/quickFilters';
 
 export function countActiveFilters(filters: ActiveFilters) {
   let total = 0;
@@ -29,9 +28,7 @@ export function summarizeFilters(filters: ActiveFilters) {
   }
 
   if (filters.priceBands.length > 0) {
-    parts.push(
-      usesQuickPriceBands(filters) ? '\u00A5\u00A5 and under' : `${filters.priceBands.length} price level${filters.priceBands.length === 1 ? '' : 's'}`
-    );
+    parts.push(`${filters.priceBands.length} price level${filters.priceBands.length === 1 ? '' : 's'}`);
   }
 
   if (filters.categoryKeys.length > 0) {

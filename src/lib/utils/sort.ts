@@ -4,22 +4,40 @@ export function sortPlaces(places: DisplayPlace[], sortKey: SortKey) {
   const next = [...places];
 
   next.sort((left, right) => {
-    if (sortKey === 'distance') {
+    if (sortKey === 'distanceAsc') {
       return left.distanceMeters - right.distanceMeters;
     }
 
-    if (sortKey === 'priceAsc') {
-      return left.priceBucket - right.priceBucket;
+    if (sortKey === 'distanceDesc') {
+      return right.distanceMeters - left.distanceMeters;
     }
 
-    if (sortKey === 'priceDesc') {
-      return right.priceBucket - left.priceBucket;
+    if (sortKey === 'tabelog') {
+      const leftScore = left.tabelog.score ?? -1;
+      const rightScore = right.tabelog.score ?? -1;
+      if (leftScore !== rightScore) {
+        return rightScore - leftScore;
+      }
+
+      if (left.tabelog.reviews !== right.tabelog.reviews) {
+        return right.tabelog.reviews - left.tabelog.reviews;
+      }
+
+      return left.distanceMeters - right.distanceMeters;
     }
 
-    if (sortKey === 'closingSoon') {
-      const leftClose = left.status.closesAt ?? '99:99';
-      const rightClose = right.status.closesAt ?? '99:99';
-      return leftClose.localeCompare(rightClose);
+    if (sortKey === 'google') {
+      const leftScore = left.google.score ?? -1;
+      const rightScore = right.google.score ?? -1;
+      if (leftScore !== rightScore) {
+        return rightScore - leftScore;
+      }
+
+      if (left.google.reviews !== right.google.reviews) {
+        return right.google.reviews - left.google.reviews;
+      }
+
+      return left.distanceMeters - right.distanceMeters;
     }
 
     const rightStatusWeight =

@@ -15,7 +15,6 @@
   import { haversineDistanceMeters, isInsideBounds, walkMinutesFromDistance } from '$lib/utils/geo';
   import { derivePlaceStatus } from '$lib/utils/hours';
   import { countActiveFilters, summarizeFilters } from '$lib/utils/discovery';
-  import { isQuickFilterActive, toggleQuickFilter, type QuickFilterKey } from '$lib/utils/quickFilters';
   import { sortPlaces } from '$lib/utils/sort';
 
   type FilterSection = 'category' | 'walk' | 'price' | null;
@@ -51,11 +50,6 @@
 
   const PRICE_BANDS = Array.from({ length: 5 }, (_, index) => '\u00A5'.repeat(index + 1));
   const WALK_MINUTE_OPTIONS = [5, 10, 15, 30];
-  const MOBILE_QUICK_FILTERS: { key: QuickFilterKey; label: string }[] = [
-    { key: 'openNow', label: 'Open now' },
-    { key: 'walk10', label: '\u2264 10 min' },
-    { key: 'priceLite', label: '\u00A5\u00A5 and under' }
-  ];
   let innerWidth = 390;
   let sheetSnap: SheetSnap = 'peek';
   let sortKey: SortKey = 'best';
@@ -156,8 +150,8 @@
     queueRefreshPrompt();
   }
 
-  function priceSortAriaLabel() {
-    return sortKey === 'priceDesc' ? 'Price descending' : 'Price ascending';
+  function distanceSortAriaLabel() {
+    return sortKey === 'distanceDesc' ? 'Distance farthest first' : 'Distance nearest first';
   }
 
   function parseUiView(value: string | null): UiView {
@@ -237,8 +231,8 @@
     void navigateUiState(currentBrowseState({ sheetSnap: desktop ? sheetSnap : 'mid' }), { replace: true });
   }
 
-  function togglePriceSort() {
-    sortKey = sortKey === 'priceAsc' ? 'priceDesc' : 'priceAsc';
+  function toggleDistanceSort() {
+    sortKey = sortKey === 'distanceAsc' ? 'distanceDesc' : 'distanceAsc';
     queueRefreshPrompt();
   }
 
@@ -247,10 +241,6 @@
       ...activeFilters,
       maxWalkMinutes: activeFilters.maxWalkMinutes === minutes ? null : minutes
     });
-  }
-
-  function toggleQuickPreset(key: QuickFilterKey) {
-    updateFilters(toggleQuickFilter(activeFilters, key));
   }
 
   async function openFilters(section: FilterSection = null) {
@@ -301,33 +291,12 @@
     queueRefreshPrompt();
   }
 
-  function categoryFilterLabel() {
-    if (activeFilters.categoryKeys.length === 0) {
-      return 'Cuisine';
-    }
-
-    if (activeFilters.categoryKeys.length === 1) {
-      const match = availableCategories.find((category) => category.key === activeFilters.categoryKeys[0]);
-      return match?.label ?? 'Cuisine';
-    }
-
-    return `${activeFilters.categoryKeys.length} cuisines`;
+  function setRatingSort(nextSortKey: 'tabelog' | 'google') {
+    setSortKey(nextSortKey);
   }
 
-  function walkFilterLabel() {
-    return activeFilters.maxWalkMinutes === null ? 'Walk time' : `\u2264 ${activeFilters.maxWalkMinutes} min`;
-  }
-
-  function priceFilterLabel() {
-    if (activeFilters.priceBands.length === 0) {
-      return 'Price';
-    }
-
-    if (activeFilters.priceBands.length === 1) {
-      return activeFilters.priceBands[0];
-    }
-
-    return `${activeFilters.priceBands.length} price levels`;
+  function isDistanceSortActive() {
+    return sortKey === 'distanceAsc' || sortKey === 'distanceDesc';
   }
 
   function placesInViewLabel(total: number, visible: number) {
@@ -654,38 +623,14 @@
     <div class="map-gradient"></div>
 
     <div class="top-chrome">
-      {#if desktop}
-        <div class="top-filter-row" aria-label="Quick filters">
-          <button type="button" class="filter-pill" class:active={activeFilters.categoryKeys.length > 0} on:click={() => openFilters('category')}>
-            {categoryFilterLabel()}
-          </button>
-          <button type="button" class="filter-pill" class:active={activeFilters.maxWalkMinutes !== null} on:click={() => openFilters('walk')}>
-            {walkFilterLabel()}
-          </button>
-          <button type="button" class="filter-pill" class:active={activeFilters.priceBands.length > 0} on:click={() => openFilters('price')}>
-            {priceFilterLabel()}
-          </button>
-        </div>
-      {:else}
-        <div class="top-filter-row" aria-label="Quick filters">
-          {#each MOBILE_QUICK_FILTERS as filter (filter.key)}
-            <button
-              type="button"
-              class="filter-pill filter-pill-quick"
-              class:active={isQuickFilterActive(activeFilters, filter.key)}
-              on:click={() => toggleQuickPreset(filter.key)}
-            >
-              {filter.label}
-            </button>
-          {/each}
-          <button type="button" class="filter-pill filter-pill-quick filter-pill-filters" class:active={activeFilterCount > 0} on:click={() => openFilters()}>
-            <span>Filters</span>
-            {#if activeFilterCount > 0}
-              <span class="filter-count-badge" aria-label={`${activeFilterCount} active filters`}>{activeFilterCount}</span>
-            {/if}
-          </button>
-        </div>
-      {/if}
+      <div class="top-filter-row" aria-label="Filters">
+        <button type="button" class="filter-pill filter-pill-filters" class:active={activeFilterCount > 0} on:click={() => openFilters()}>
+          <span>Filters</span>
+          {#if activeFilterCount > 0}
+            <span class="filter-count-badge" aria-label={`${activeFilterCount} active filters`}>{activeFilterCount}</span>
+          {/if}
+        </button>
+      </div>
 
       <div class="top-actions">
         <button type="button" class="icon-button icon-button-square" aria-label="Use my location" on:click={useUserLocation}>
@@ -838,17 +783,22 @@
           </div>
 
           <div class="segment-row">
-            <button type="button" class:active={sortKey === 'best'} on:click={() => setSortKey('best')}>Best nearby</button>
-            <button type="button" class:active={sortKey === 'distance'} on:click={() => setSortKey('distance')}>Nearest</button>
             <button
               type="button"
-              aria-label={priceSortAriaLabel()}
-              class:active={sortKey === 'priceAsc' || sortKey === 'priceDesc'}
-              on:click={togglePriceSort}
+              class:active={activeFilters.openNow}
+              on:click={toggleOpenNowFilter}
             >
-              Price
+              Open now
+            </button>
+            <button
+              type="button"
+              aria-label={distanceSortAriaLabel()}
+              class:active={isDistanceSortActive()}
+              on:click={toggleDistanceSort}
+            >
+              Distance
               <span class="sort-icon" aria-hidden="true">
-                {#if sortKey === 'priceDesc'}
+                {#if sortKey === 'distanceDesc'}
                   <svg viewBox="0 0 12 12">
                     <path d="M6 2.25v7.5M6 9.75 3.75 7.5M6 9.75 8.25 7.5" />
                   </svg>
@@ -859,6 +809,24 @@
                 {/if}
               </span>
             </button>
+            <div class="split-sort-pill" role="group" aria-label="Ratings sort">
+              <button
+                type="button"
+                class="split-pill-option split-pill-tabelog"
+                class:active={sortKey === 'tabelog'}
+                on:click={() => setRatingSort('tabelog')}
+              >
+                Tabelog
+              </button>
+              <button
+                type="button"
+                class="split-pill-option split-pill-google"
+                class:active={sortKey === 'google'}
+                on:click={() => setRatingSort('google')}
+              >
+                Google
+              </button>
+            </div>
           </div>
 
           {#if $summaryQuery.isLoading}
@@ -1006,17 +974,22 @@
         </div>
 
         <div class="segment-row segment-row-mobile">
-          <button type="button" class:active={sortKey === 'best'} on:click={() => setSortKey('best')}>Best nearby</button>
-          <button type="button" class:active={sortKey === 'distance'} on:click={() => setSortKey('distance')}>Nearest</button>
           <button
             type="button"
-            aria-label={priceSortAriaLabel()}
-            class:active={sortKey === 'priceAsc' || sortKey === 'priceDesc'}
-            on:click={togglePriceSort}
+            class:active={activeFilters.openNow}
+            on:click={toggleOpenNowFilter}
           >
-            Price
+            Open now
+          </button>
+          <button
+            type="button"
+            aria-label={distanceSortAriaLabel()}
+            class:active={isDistanceSortActive()}
+            on:click={toggleDistanceSort}
+          >
+            Distance
             <span class="sort-icon" aria-hidden="true">
-              {#if sortKey === 'priceDesc'}
+              {#if sortKey === 'distanceDesc'}
                 <svg viewBox="0 0 12 12">
                   <path d="M6 2.25v7.5M6 9.75 3.75 7.5M6 9.75 8.25 7.5" />
                 </svg>
@@ -1027,6 +1000,24 @@
               {/if}
             </span>
           </button>
+          <div class="split-sort-pill split-sort-pill-mobile" role="group" aria-label="Ratings sort">
+            <button
+              type="button"
+              class="split-pill-option split-pill-tabelog"
+              class:active={sortKey === 'tabelog'}
+              on:click={() => setRatingSort('tabelog')}
+            >
+              Tabelog
+            </button>
+            <button
+              type="button"
+              class="split-pill-option split-pill-google"
+              class:active={sortKey === 'google'}
+              on:click={() => setRatingSort('google')}
+            >
+              Google
+            </button>
+          </div>
         </div>
 
         {#if $summaryQuery.isLoading}
@@ -1166,17 +1157,13 @@
     border-color: transparent;
   }
 
-  .filter-pill-quick,
-  .filter-pill-filters {
-    min-height: 38px;
-    padding: 8px 12px;
-    font-size: 0.84rem;
-  }
-
   .filter-pill-filters {
     display: inline-flex;
     align-items: center;
     gap: 8px;
+    min-height: 38px;
+    padding: 8px 12px;
+    font-size: 0.84rem;
   }
 
   .filter-count-badge {
@@ -1429,9 +1416,58 @@
     flex-wrap: wrap;
     gap: 8px;
     margin-bottom: 12px;
+    align-items: stretch;
   }
 
   .segment-row-mobile button {
+    min-height: 36px;
+    padding: 8px 12px;
+    font-size: 0.84rem;
+  }
+
+  .split-sort-pill {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    border-radius: 999px;
+    overflow: hidden;
+    background: rgba(255, 255, 255, 0.88);
+    border: 1px solid rgba(23, 25, 28, 0.08);
+    box-shadow: var(--shadow-soft);
+  }
+
+  .split-sort-pill .split-pill-option {
+    min-height: 40px;
+    padding: 10px 14px;
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+    background: transparent;
+    font-weight: 600;
+  }
+
+  .split-sort-pill .split-pill-option + .split-pill-option {
+    border-left: 1px solid rgba(23, 25, 28, 0.08);
+  }
+
+  .split-pill-tabelog {
+    color: #7d6148;
+  }
+
+  .split-pill-google {
+    color: #55606f;
+  }
+
+  .split-sort-pill .split-pill-tabelog.active {
+    background: rgba(125, 97, 72, 0.14);
+    color: #6f543d;
+  }
+
+  .split-sort-pill .split-pill-google.active {
+    background: rgba(85, 96, 111, 0.14);
+    color: #485260;
+  }
+
+  .split-sort-pill-mobile .split-pill-option {
     min-height: 36px;
     padding: 8px 12px;
     font-size: 0.84rem;
