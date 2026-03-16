@@ -338,9 +338,19 @@
     color: #9b6a22;
   }
 
+  .status-pill.temporarilyClosed {
+    background: rgba(200, 100, 59, 0.18);
+    color: #8b4b30;
+  }
+
   .status-pill.closed {
     background: rgba(142, 142, 147, 0.14);
     color: #6b6b73;
+  }
+
+  .status-pill.permanentlyClosed {
+    background: rgba(150, 41, 41, 0.14);
+    color: #8a2d2d;
   }
 
   .cta-row {

@@ -19,6 +19,9 @@ const makePlace = (id: string, overrides: Partial<DisplayPlace>): DisplayPlace =
   priceBucket: 2,
   weeklyTimeline: { mon: [], tue: [], wed: [], thu: [], fri: [], sat: [], sun: [] },
   hoursConfidence: 'medium',
+  hoursDisplay: { today: 'Closed', week: 'Mon-Sun closed' },
+  hoursSpecialDays: { publicHoliday: [], dayBeforePublicHoliday: [], dayAfterPublicHoliday: [] },
+  hoursPolicies: [],
   freshnessUpdatedAt: '2026-03-14T12:00:00+09:00',
   consensusScore: 0.1,
   consensusGrade: 'C',
@@ -29,6 +32,7 @@ const makePlace = (id: string, overrides: Partial<DisplayPlace>): DisplayPlace =
   callPhone: null,
   advisories: [],
   badges: [],
+  closure: { state: 'active', source: 'derived', reason: null, detectedAt: null },
   distanceMeters: 600,
   walkMinutes: 8,
   status: {
@@ -111,5 +115,36 @@ describe('sortPlaces', () => {
       'google'
     );
     expect(sorted.map((place) => place.id)).toEqual(['higher-rated', 'closer']);
+  });
+
+  it('penalizes permanently closed places more than temporarily closed ones', () => {
+    const sorted = sortPlaces(
+      [
+        makePlace('temporary', {
+          closure: { state: 'temporarilyClosed', source: 'google', reason: 'maintenance', detectedAt: null },
+          status: {
+            state: 'temporarilyClosed',
+            label: 'Temporarily closed',
+            detail: 'Temporarily closed',
+            closesAt: null,
+            opensAt: null,
+            lastOrderAt: null
+          }
+        }),
+        makePlace('permanent', {
+          closure: { state: 'permanentlyClosed', source: 'google', reason: 'closed permanently', detectedAt: null },
+          status: {
+            state: 'permanentlyClosed',
+            label: 'Closed permanently',
+            detail: 'No longer operating',
+            closesAt: null,
+            opensAt: null,
+            lastOrderAt: null
+          }
+        })
+      ],
+      'best'
+    );
+    expect(sorted.map((place) => place.id)).toEqual(['temporary', 'permanent']);
   });
 });

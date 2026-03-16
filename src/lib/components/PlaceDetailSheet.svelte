@@ -1,7 +1,7 @@
 <script lang="ts">
   import { createEventDispatcher } from 'svelte';
 
-  import type { PlaceDetail, PlaceStatus } from '$lib/types';
+  import type { DailyWindow, PlaceDetail, PlaceStatus } from '$lib/types';
 
   export let detail: PlaceDetail | null = null;
   export let status: PlaceStatus | null = null;
@@ -21,7 +21,54 @@
     ['sat', 'Sat'],
     ['sun', 'Sun']
   ] as const;
+  const specialDayLabels = [
+    ['publicHoliday', 'Public holiday'],
+    ['dayBeforePublicHoliday', 'Day before holiday'],
+    ['dayAfterPublicHoliday', 'Day after holiday']
+  ] as const;
   const MIDDLE_DOT = '\u00B7';
+
+  function formatLastOrder(window: DailyWindow) {
+    const parts: string[] = [];
+    if (window.lastOrderDetail?.food) {
+      parts.push(`Food ${window.lastOrderDetail.food}`);
+    }
+    if (window.lastOrderDetail?.drinks) {
+      parts.push(`Drinks ${window.lastOrderDetail.drinks}`);
+    }
+    if (window.lastOrderDetail?.generic && parts.length === 0) {
+      parts.push(window.lastOrderDetail.generic);
+    }
+    if (parts.length === 0 && window.lastOrder) {
+      parts.push(window.lastOrder);
+    }
+    return parts.join(` ${MIDDLE_DOT} `);
+  }
+
+  function formatWindow(window: DailyWindow) {
+    if (window.allDay) {
+      const lastOrder = formatLastOrder(window);
+      return lastOrder ? `Open 24 hours (${lastOrder})` : 'Open 24 hours';
+    }
+
+    const base = `${window.open} - ${window.close}`;
+    const lastOrder = formatLastOrder(window);
+    return lastOrder ? `${base} (${lastOrder})` : base;
+  }
+
+  function formatWindowList(windows: DailyWindow[]) {
+    if (!windows.length) {
+      return 'Closed';
+    }
+    return windows.map((window) => formatWindow(window)).join(` ${MIDDLE_DOT} `);
+  }
+
+  $: specialRows =
+    detail == null
+      ? []
+      : specialDayLabels
+          .map(([key, label]) => ({ key, label, windows: detail.hoursSpecialDays[key] }))
+          .filter((row) => row.windows.length > 0);
 </script>
 
 {#if detail && status}
@@ -56,6 +103,9 @@
           <span class="status-copy">{status.detail}</span>
         {/if}
       </div>
+      {#if detail.closure.reason && detail.closure.state !== 'active'}
+        <p class="quiet">Closure note: {detail.closure.reason}</p>
+      {/if}
       <div class="button-row">
         <button type="button" on:click={() => dispatch('directions', { id: detail.id })}>Directions</button>
         <button type="button" class:muted={!detail.reserveUrl} disabled={!detail.reserveUrl} on:click={() => dispatch('reserve', { id: detail.id })}>
@@ -91,20 +141,31 @@
 
       <section class="panel">
         <h3>Hours</h3>
+        <p class="quiet">{detail.hoursDisplay.today}</p>
         <div class="timeline">
           {#each dayLabels as [key, label]}
             <div class="timeline-row">
               <span>{label}</span>
-              <strong>
-                {#if detail.weeklyTimeline[key].length}
-                  {detail.weeklyTimeline[key].map((window) => `${window.open} - ${window.close}`).join(` ${MIDDLE_DOT} `)}
-                {:else}
-                  Closed
-                {/if}
-              </strong>
+              <strong>{formatWindowList(detail.weeklyTimeline[key])}</strong>
+            </div>
+          {/each}
+          {#each specialRows as row}
+            <div class="timeline-row timeline-row-special">
+              <span>{row.label}</span>
+              <strong>{formatWindowList(row.windows)}</strong>
             </div>
           {/each}
         </div>
+        {#if detail.hoursPolicies.length > 0}
+          <div class="policy-stack">
+            <h4>Notes</h4>
+            <ul class="policy-list">
+              {#each detail.hoursPolicies as policy}
+                <li>{policy}</li>
+              {/each}
+            </ul>
+          </div>
+        {/if}
       </section>
     </div>
   </aside>
@@ -135,7 +196,8 @@
 
   .detail-grid,
   .rating-grid,
-  .timeline {
+  .timeline,
+  .policy-stack {
     display: grid;
     gap: 14px;
   }
@@ -147,7 +209,8 @@
   .timeline-row span,
   .timeline-row strong,
   .rating-card span,
-  .rating-card small {
+  .rating-card small,
+  .policy-list {
     color: rgba(23, 25, 28, 0.68);
   }
 
@@ -158,6 +221,7 @@
 
   h2,
   h3,
+  h4,
   p {
     margin: 0;
   }
@@ -184,8 +248,12 @@
 
   .timeline-row {
     display: grid;
-    grid-template-columns: 48px 1fr;
+    grid-template-columns: 112px 1fr;
     gap: 10px;
+  }
+
+  .timeline-row-special span {
+    font-weight: 600;
   }
 
   .status-pill {
@@ -202,7 +270,8 @@
     color: #20583d;
   }
 
-  .status-pill.closingSoon {
+  .status-pill.closingSoon,
+  .status-pill.temporarilyClosed {
     background: rgba(200, 100, 59, 0.14);
     color: #8b4b30;
   }
@@ -210,6 +279,11 @@
   .status-pill.closed {
     background: rgba(107, 114, 128, 0.14);
     color: #5a6270;
+  }
+
+  .status-pill.permanentlyClosed {
+    background: rgba(150, 41, 41, 0.14);
+    color: #8a2d2d;
   }
 
   .rating-card {
@@ -229,6 +303,13 @@
 
   .rating-card.google {
     background: rgba(47, 125, 87, 0.1);
+  }
+
+  .policy-list {
+    margin: 0;
+    padding-left: 18px;
+    display: grid;
+    gap: 8px;
   }
 
   .button-row button,

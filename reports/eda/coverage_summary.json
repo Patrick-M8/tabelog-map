@@ -1,0 +1,69 @@
+{
+  "overview": {
+    "sourceFileCount": 70,
+    "rawRestaurantCount": 6996,
+    "rawUniqueUrlCount": 6996,
+    "webappRestaurantCount": 6571,
+    "webappUniqueUrlCount": 6571,
+    "webappCoveragePct": 93.93,
+    "rawOnlyCount": 425,
+    "webappOnlyCount": 0
+  },
+  "hours": {
+    "missingHoursRawCount": 103,
+    "missingHoursStructuralCount": 601,
+    "hoursNeedReviewCount": 1486,
+    "hoursConfidenceCounts": {
+      "high": 5348,
+      "low": 1486,
+      "medium": 162
+    },
+    "specialDayHoursCount": 1882,
+    "hoursPolicyCount": 3205,
+    "allDayRestaurantCount": 5,
+    "overnightRestaurantCount": 488,
+    "splitServiceRestaurantCount": 2594,
+    "visibleHoursNeedReviewCount": 1403
+  },
+  "google": {
+    "missingGoogleCoreCount": 454,
+    "missingPlaceIdCount": 425,
+    "missingCoordinatesCount": 425,
+    "missingGoogleMapsUrlCount": 425,
+    "missingGoogleRatingCount": 454,
+    "missingGoogleReviewsCount": 0,
+    "missingBusinessStatusCount": 6996,
+    "visibleMissingGoogleCoreCount": 29,
+    "visibleMissingGoogleRatingCount": 29,
+    "visibleMissingBusinessStatusCount": 6571,
+    "rawOnlyMissingCoordinatesCount": 425
+  },
+  "crossReference": {
+    "temporarilyClosedVisibleCount": 73,
+    "permanentlyClosedVisibleCount": 0,
+    "rawOnlyTopCategories": {
+      "Standing Bar": 100,
+      "Chicken": 100,
+      "Yakiniku": 68,
+      "Izakaya": 56,
+      "Steak, Teppanyaki": 49,
+      "Okonomiyaki": 25,
+      "Japanese": 4,
+      "Ramen": 3,
+      "Sweets": 3,
+      "Chinese": 2
+    },
+    "visibleGapTopCategories": {
+      "Japanese": 137,
+      "Sushi": 119,
+      "Italian": 96,
+      "French": 81,
+      "Chinese": 77,
+      "Ramen": 73,
+      "Sweets": 72,
+      "Bakery": 67,
+      "Yakitori": 61,
+      "Creative Cuisine/Innovative": 56
+    }
+  }
+}

@@ -34,6 +34,16 @@ const basePlace: DisplayPlace = {
     sun: []
   },
   hoursConfidence: 'high',
+  hoursDisplay: {
+    today: 'Closed',
+    week: 'Mon-Sun closed'
+  },
+  hoursSpecialDays: {
+    publicHoliday: [],
+    dayBeforePublicHoliday: [],
+    dayAfterPublicHoliday: []
+  },
+  hoursPolicies: [],
   freshnessUpdatedAt: '2026-03-15T01:04:17+09:00',
   consensusScore: 2.1,
   consensusGrade: 'A',
@@ -53,6 +63,12 @@ const basePlace: DisplayPlace = {
   callPhone: null,
   advisories: [],
   badges: [],
+  closure: {
+    state: 'active',
+    source: 'derived',
+    reason: null,
+    detectedAt: null
+  },
   distanceMeters: 9500,
   walkMinutes: 119,
   status: {

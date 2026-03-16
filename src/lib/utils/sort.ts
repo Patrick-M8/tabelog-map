@@ -49,9 +49,25 @@ export function sortPlaces(places: DisplayPlace[], sortKey: SortKey) {
     }
 
     const rightStatusWeight =
-      right.status.state === 'open' ? 650 : right.status.state === 'closingSoon' ? 220 : -900;
+      right.status.state === 'open'
+        ? 650
+        : right.status.state === 'closingSoon'
+          ? 220
+          : right.status.state === 'temporarilyClosed'
+            ? -1400
+            : right.status.state === 'permanentlyClosed'
+              ? -2200
+              : -900;
     const leftStatusWeight =
-      left.status.state === 'open' ? 650 : left.status.state === 'closingSoon' ? 220 : -900;
+      left.status.state === 'open'
+        ? 650
+        : left.status.state === 'closingSoon'
+          ? 220
+          : left.status.state === 'temporarilyClosed'
+            ? -1400
+            : left.status.state === 'permanentlyClosed'
+              ? -2200
+              : -900;
     const rightBest = (right.consensusScore * 1000) - right.distanceMeters + rightStatusWeight;
     const leftBest = (left.consensusScore * 1000) - left.distanceMeters + leftStatusWeight;
     return rightBest - leftBest;

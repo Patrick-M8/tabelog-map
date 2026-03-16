@@ -59,6 +59,7 @@
   const EMPTY_FILTERS: ActiveFilters = {
     openNow: false,
     closingSoon: false,
+    hidePermanentlyClosed: false,
     maxWalkMinutes: null,
     priceBands: [],
     categoryKeys: []
@@ -332,6 +333,7 @@
     updateFilters({
       ...activeFilters,
       closingSoon: false,
+      hidePermanentlyClosed: false,
       maxWalkMinutes: null,
       priceBands: [],
       categoryKeys: []
@@ -352,10 +354,18 @@
     });
   }
 
+  function toggleHidePermanentlyClosedFilter() {
+    updateFilters({
+      ...activeFilters,
+      hidePermanentlyClosed: !activeFilters.hidePermanentlyClosed
+    });
+  }
+
   function resetAvailabilityFilters() {
     updateFilters({
       ...activeFilters,
-      closingSoon: false
+      closingSoon: false,
+      hidePermanentlyClosed: false
     });
   }
 
@@ -626,11 +636,14 @@
         ...place,
         distanceMeters,
         walkMinutes: walkMinutesFromDistance(distanceMeters),
-        status: derivePlaceStatus(place.weeklyTimeline)
+        status: derivePlaceStatus(place.weeklyTimeline, place.closure)
       } satisfies DisplayPlace;
     })
-    .filter((place) => (activeFilters.openNow ? place.status.state !== 'closed' : true))
+    .filter((place) =>
+      activeFilters.openNow ? place.status.state === 'open' || place.status.state === 'closingSoon' : true
+    )
     .filter((place) => (activeFilters.closingSoon ? place.status.state === 'closingSoon' : true))
+    .filter((place) => (activeFilters.hidePermanentlyClosed ? place.closure.state !== 'permanentlyClosed' : true))
     .filter((place) => (activeFilters.maxWalkMinutes ? place.walkMinutes <= activeFilters.maxWalkMinutes : true))
     .filter((place) =>
       activeFilters.priceBands.length
@@ -786,7 +799,7 @@
         <section class="filter-section">
           <div class="section-heading">
             <h3>Availability</h3>
-            {#if activeFilters.closingSoon}
+            {#if activeFilters.closingSoon || activeFilters.hidePermanentlyClosed}
               <button type="button" class="text-button" on:click={resetAvailabilityFilters}>
                 Reset
               </button>
@@ -799,6 +812,13 @@
               on:click={toggleClosingSoonFilter}
             >
               Closing soon
+            </button>
+            <button
+              type="button"
+              class:active={activeFilters.hidePermanentlyClosed}
+              on:click={toggleHidePermanentlyClosedFilter}
+            >
+              Hide permanently closed
             </button>
           </div>
         </section>
@@ -1050,6 +1070,13 @@
                   on:click={toggleClosingSoonFilter}
                 >
                   Closing soon
+                </button>
+                <button
+                  type="button"
+                  class:active={activeFilters.hidePermanentlyClosed}
+                  on:click={toggleHidePermanentlyClosedFilter}
+                >
+                  Hide permanently closed
                 </button>
               </div>
             </section>

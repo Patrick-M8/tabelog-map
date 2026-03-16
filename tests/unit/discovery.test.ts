@@ -7,6 +7,7 @@ import { toAdvancedFilters } from '../../src/lib/utils/filterScope';
 const EMPTY_FILTERS: ActiveFilters = {
   openNow: false,
   closingSoon: false,
+  hidePermanentlyClosed: false,
   maxWalkMinutes: null,
   priceBands: [],
   categoryKeys: []
@@ -22,11 +23,12 @@ describe('countActiveFilters', () => {
       countActiveFilters({
         openNow: true,
         closingSoon: false,
+        hidePermanentlyClosed: true,
         maxWalkMinutes: 10,
-        priceBands: ['\u00A5\u00A5'],
+        priceBands: ['¥¥'],
         categoryKeys: ['sushi', 'ramen']
       })
-    ).toBe(4);
+    ).toBe(5);
   });
 });
 
@@ -40,11 +42,12 @@ describe('summarizeFilters', () => {
       summarizeFilters({
         openNow: true,
         closingSoon: false,
+        hidePermanentlyClosed: true,
         maxWalkMinutes: 15,
-        priceBands: ['\u00A5', '\u00A5\u00A5'],
+        priceBands: ['¥', '¥¥'],
         categoryKeys: ['sushi']
       })
-    ).toBe('Open now, \u226415 min, 2 price levels');
+    ).toBe('Open now, Hide closed, ≤15 min');
   });
 });
 
@@ -53,16 +56,18 @@ describe('toAdvancedFilters', () => {
     const filters: ActiveFilters = {
       openNow: true,
       closingSoon: true,
+      hidePermanentlyClosed: true,
       maxWalkMinutes: 10,
-      priceBands: ['\u00A5\u00A5'],
+      priceBands: ['¥¥'],
       categoryKeys: ['sushi']
     };
 
     expect(toAdvancedFilters(filters)).toEqual({
       openNow: false,
       closingSoon: true,
+      hidePermanentlyClosed: true,
       maxWalkMinutes: 10,
-      priceBands: ['\u00A5\u00A5'],
+      priceBands: ['¥¥'],
       categoryKeys: ['sushi']
     });
     expect(filters.openNow).toBe(true);

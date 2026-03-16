@@ -5,6 +5,7 @@ export function countActiveFilters(filters: ActiveFilters) {
 
   if (filters.openNow) total += 1;
   if (filters.closingSoon) total += 1;
+  if (filters.hidePermanentlyClosed) total += 1;
   if (filters.maxWalkMinutes !== null) total += 1;
   if (filters.priceBands.length > 0) total += 1;
   if (filters.categoryKeys.length > 0) total += 1;
@@ -21,6 +22,10 @@ export function summarizeFilters(filters: ActiveFilters) {
 
   if (filters.closingSoon) {
     parts.push('Closing soon');
+  }
+
+  if (filters.hidePermanentlyClosed) {
+    parts.push('Hide closed');
   }
 
   if (filters.maxWalkMinutes !== null) {
