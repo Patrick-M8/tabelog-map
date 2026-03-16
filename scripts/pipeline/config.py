@@ -23,11 +23,12 @@ def env_value(name: str, cwd: Path | None = None) -> str | None:
         return os.environ[name]
 
     search_root = cwd or Path.cwd()
-    for filename in (".env.local", ".env"):
-        candidate = search_root / filename
-        values = _parse_dotenv(candidate)
-        if name in values:
-            return values[name]
+    for directory in [search_root, *search_root.parents]:
+        for filename in (".env.local", ".env"):
+            candidate = directory / filename
+            values = _parse_dotenv(candidate)
+            if name in values:
+                return values[name]
     return None
 
 

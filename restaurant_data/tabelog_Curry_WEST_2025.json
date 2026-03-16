@@ -1793,15 +1793,20 @@
     "hours_notes_structured": null,
     "google_rating": null,
     "google_reviews": 0,
-    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJyWA0fsfmAGARDAbnrGdXwBM",
+    "google_maps_url": "https://maps.google.com/?cid=1423233585043146252&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
     "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2024/restaurants/curry_west/27004781-71ee28f032169ea4dff548872068425686f5a074a3dd8b401688a318c1f17bcf.jpg",
     "place_id": "ChIJyWA0fsfmAGARDAbnrGdXwBM",
     "g_name": "梨花食堂",
     "g_rating": null,
     "g_reviews": 0,
-    "g_address": "日本、〒530-0033 大阪府大阪市北区池田町８−１１ 天満パールビル",
+    "g_address": "Japan, 〒530-0033 Osaka, Kita Ward, Ikedachō, 8−１１ 天満パールビル",
     "lat": 34.707448,
-    "lng": 135.5132446
+    "lng": 135.5132446,
+    "tabelog_address": "大阪府 大阪市北区 天神橋 4-8-15",
+    "business_status": "CLOSED_PERMANENTLY",
+    "google_match_method": "placeDetails:existingPlaceId",
+    "google_match_confidence": "high",
+    "google_last_updated_at": "2026-03-16T20:16:32Z"
   },
   {
     "category_jp": "カレー",

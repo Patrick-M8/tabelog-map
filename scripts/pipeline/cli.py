@@ -92,8 +92,12 @@ def _phase_stop_condition_failures(phase: str, coverage: dict):
                 f"webappRestaurantCount={overview['webappRestaurantCount']} rawRestaurantCount={overview['rawRestaurantCount']}"
             )
     elif phase == "google-visible-gaps":
-        if google["missingGoogleCoreCount"] != 0:
-            failures.append(f"missingGoogleCoreCount={google['missingGoogleCoreCount']}")
+        if google["missingPlaceIdCount"] != 0:
+            failures.append(f"missingPlaceIdCount={google['missingPlaceIdCount']}")
+        if google["missingCoordinatesCount"] != 0:
+            failures.append(f"missingCoordinatesCount={google['missingCoordinatesCount']}")
+        if google["missingGoogleMapsUrlCount"] != 0:
+            failures.append(f"missingGoogleMapsUrlCount={google['missingGoogleMapsUrlCount']}")
     elif phase == "google-status":
         if google["missingBusinessStatusCount"] != 0:
             failures.append(f"missingBusinessStatusCount={google['missingBusinessStatusCount']}")

@@ -3,10 +3,10 @@
     "sourceFileCount": 70,
     "rawRestaurantCount": 6996,
     "rawUniqueUrlCount": 6996,
-    "webappRestaurantCount": 6571,
-    "webappUniqueUrlCount": 6571,
-    "webappCoveragePct": 93.93,
-    "rawOnlyCount": 425,
+    "webappRestaurantCount": 6996,
+    "webappUniqueUrlCount": 6996,
+    "webappCoveragePct": 100.0,
+    "rawOnlyCount": 0,
     "webappOnlyCount": 0
   },
   "hours": {
@@ -23,47 +23,36 @@
     "allDayRestaurantCount": 5,
     "overnightRestaurantCount": 488,
     "splitServiceRestaurantCount": 2594,
-    "visibleHoursNeedReviewCount": 1403
+    "visibleHoursNeedReviewCount": 1486
   },
   "google": {
-    "missingGoogleCoreCount": 454,
-    "missingPlaceIdCount": 425,
-    "missingCoordinatesCount": 425,
-    "missingGoogleMapsUrlCount": 425,
-    "missingGoogleRatingCount": 454,
+    "missingGoogleCoreCount": 28,
+    "missingPlaceIdCount": 0,
+    "missingCoordinatesCount": 0,
+    "missingGoogleMapsUrlCount": 0,
+    "missingGoogleRatingCount": 28,
     "missingGoogleReviewsCount": 0,
-    "missingBusinessStatusCount": 6996,
-    "visibleMissingGoogleCoreCount": 29,
-    "visibleMissingGoogleRatingCount": 29,
-    "visibleMissingBusinessStatusCount": 6571,
-    "rawOnlyMissingCoordinatesCount": 425
+    "missingBusinessStatusCount": 6562,
+    "visibleMissingGoogleCoreCount": 28,
+    "visibleMissingGoogleRatingCount": 28,
+    "visibleMissingBusinessStatusCount": 6562,
+    "rawOnlyMissingCoordinatesCount": 0
   },
   "crossReference": {
-    "temporarilyClosedVisibleCount": 73,
-    "permanentlyClosedVisibleCount": 0,
-    "rawOnlyTopCategories": {
-      "Standing Bar": 100,
-      "Chicken": 100,
-      "Yakiniku": 68,
-      "Izakaya": 56,
-      "Steak, Teppanyaki": 49,
-      "Okonomiyaki": 25,
-      "Japanese": 4,
-      "Ramen": 3,
-      "Sweets": 3,
-      "Chinese": 2
-    },
+    "temporarilyClosedVisibleCount": 75,
+    "permanentlyClosedVisibleCount": 3,
+    "rawOnlyTopCategories": {},
     "visibleGapTopCategories": {
-      "Japanese": 137,
+      "Japanese": 141,
       "Sushi": 119,
       "Italian": 96,
       "French": 81,
-      "Chinese": 77,
+      "Chinese": 78,
       "Ramen": 73,
       "Sweets": 72,
-      "Bakery": 67,
-      "Yakitori": 61,
-      "Creative Cuisine/Innovative": 56
+      "Yakiniku": 67,
+      "Bakery": 66,
+      "Yakitori": 62
     }
   }
 }

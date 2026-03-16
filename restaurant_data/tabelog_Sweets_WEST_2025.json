@@ -4411,16 +4411,21 @@
       "business_hours": {},
       "closed_on": "Wednesdays + Not fixed"
     },
-    "google_rating": null,
-    "google_reviews": 0,
-    "google_maps_url": "",
+    "google_rating": 4.1,
+    "google_reviews": 4086,
+    "google_maps_url": "https://maps.google.com/?cid=13408397006656631693&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
     "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2023/restaurants/sweets_west/28001965-8543600cf94c8ca7dd6aaefc18f926a5f121357446dedd4a7026a0777534f968.jpg",
-    "place_id": "",
-    "g_name": "",
-    "g_rating": null,
-    "g_reviews": 0,
-    "g_address": "",
-    "lat": null,
-    "lng": null
+    "place_id": "ChIJ7RaCVndlAGARjfMtbQkyFLo",
+    "g_name": "Pâtissier Es Koyama",
+    "g_rating": 4.1,
+    "g_reviews": 4086,
+    "g_address": "Japan, 〒669-1324 Hyogo, Sanda, Yurinokidai, 5-chōme−３２−１",
+    "lat": 34.9177882,
+    "lng": 135.1829203,
+    "tabelog_address": "兵庫県 三田市 ゆりのき台 5-32-1 三田ウッディタウン",
+    "business_status": "OPERATIONAL",
+    "google_match_method": "searchText:パティシエ エス コヤマ Hyogo",
+    "google_match_confidence": "medium",
+    "google_last_updated_at": "2026-03-16T20:10:45Z"
   }
 ]
