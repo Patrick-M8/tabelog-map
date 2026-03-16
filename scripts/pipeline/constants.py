@@ -74,6 +74,30 @@ JP_TO_EN = {
     "喫茶店": "Coffee Shop",
 }
 
+CATEGORY_LABEL_ALIASES = {
+    "Chinese": "Chinese",
+    "\u4e2d\u56fd\u6599\u7406": "Chinese",
+    "Coffee Shop": "Coffee Shop",
+    "\u55ab\u8336\u5e97": "Coffee Shop",
+    "Chicken": "Toriyori",
+    "\u9ce5\u6599\u7406": "Toriyori",
+}
+
+
+def normalize_category_label(name_en: str | None, name_jp: str | None = None, *, fallback: str = "Unknown"):
+    for raw_value in (name_en, name_jp):
+        label = (raw_value or "").strip()
+        if not label:
+            continue
+        if label in CATEGORY_LABEL_ALIASES:
+            return CATEGORY_LABEL_ALIASES[label]
+        translated = JP_TO_EN.get(label)
+        if translated:
+            return CATEGORY_LABEL_ALIASES.get(translated, translated)
+        return label
+    return fallback
+
+
 POPULAR_HUBS = [
     {"id": "shinjuku", "label": "Shinjuku", "nameJp": "新宿", "lat": 35.6900, "lng": 139.7000},
     {"id": "shibuya", "label": "Shibuya", "nameJp": "渋谷", "lat": 35.6595, "lng": 139.7005},

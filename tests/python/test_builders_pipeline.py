@@ -2,10 +2,16 @@ from __future__ import annotations
 
 import unittest
 
-from scripts.pipeline.builders import build_audit_report, derive_closure, google_core_missing
+from scripts.pipeline.builders import build_audit_report, category_info, derive_closure, google_core_missing
 
 
 class BuildersPipelineTests(unittest.TestCase):
+    def test_category_info_normalizes_toriyori_label(self):
+        category = category_info({"category_en": "鳥料理", "category_jp": "鳥料理"})
+
+        self.assertEqual(category["label"], "Toriyori")
+        self.assertEqual(category["key"], "toriyori")
+
     def test_google_business_status_maps_to_explicit_closure_state(self):
         closure = derive_closure(
             {"business_status": "CLOSED_PERMANENTLY", "google_last_updated_at": "2026-03-15T08:00:00Z"},

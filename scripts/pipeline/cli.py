@@ -18,6 +18,7 @@ PHASE_ORDER = [
 ]
 GOOGLE_PRIORITY_CATEGORIES = [
     "Standing Bar",
+    "Toriyori",
     "Chicken",
     "Yakiniku",
     "Izakaya",

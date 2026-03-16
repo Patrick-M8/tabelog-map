@@ -11,7 +11,7 @@ from pathlib import Path
 from statistics import mean, pstdev
 from zoneinfo import ZoneInfo
 
-from .constants import CLOSURE_KEYWORDS, JP_TO_EN, POPULAR_HUBS
+from .constants import CLOSURE_KEYWORDS, POPULAR_HUBS, normalize_category_label
 from .google import missing_google_fields
 from .hours import ALL_DAY_RE, build_hours_payload
 from .records import iter_record_files, read_json_records
@@ -79,7 +79,7 @@ def price_band(record):
 
 def category_info(record):
     name_jp = record.get("category_jp")
-    name_en = record.get("category_en") or JP_TO_EN.get(name_jp) or "Unknown"
+    name_en = normalize_category_label(record.get("category_en"), name_jp)
     return {
         "label": name_en,
         "labelJp": name_jp,
@@ -451,7 +451,7 @@ def build_audit_report(records: list[dict], entries: list[dict]):
         closure_counts[closure["state"]] += 1
 
         if safe_float(record.get("lat")) is None or safe_float(record.get("lng")) is None:
-            category = record.get("category_en") or record.get("category_jp") or "Unknown"
+            category = normalize_category_label(record.get("category_en"), record.get("category_jp"))
             category_missing_coords[category] += 1
 
     return {

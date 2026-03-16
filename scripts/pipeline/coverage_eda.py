@@ -7,6 +7,7 @@ from pathlib import Path
 
 import pandas as pd
 
+from .constants import normalize_category_label as normalize_pipeline_category_label
 from .google import missing_google_fields
 from .hours import build_hours_payload
 from .records import iter_record_files, read_json_records
@@ -41,10 +42,7 @@ def infer_source_category(path: Path):
 
 
 def normalize_category_label(value: str | None, fallback: str):
-    label = (value or "").strip()
-    if not label:
-        label = fallback
-    return CATEGORY_LABEL_OVERRIDES.get(label, label)
+    return normalize_pipeline_category_label(value, None, fallback=fallback)
 
 
 def raw_records_frame(input_root: Path):
