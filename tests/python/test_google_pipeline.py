@@ -9,13 +9,25 @@ class FakeGoogleClient:
     def __init__(self):
         self.queries = []
         self.geocoded_addresses = []
+        self.detail_requests = []
 
     def search_text(self, text_query: str, *, language_code: str = "ja"):
         self.queries.append((text_query, language_code))
         return {"places": []}
 
     def place_details(self, resource_name: str):
-        raise AssertionError("place_details should not run when search_text returns no candidates")
+        self.detail_requests.append(resource_name)
+        return {
+            "id": resource_name.rsplit("/", 1)[-1],
+            "name": resource_name,
+            "displayName": {"text": "Sample Bar"},
+            "formattedAddress": "1-2-3 Example, Tokyo",
+            "location": {"latitude": 35.123456, "longitude": 139.654321},
+            "rating": 4.4,
+            "userRatingCount": 321,
+            "googleMapsUri": "https://www.google.com/maps/place/?q=place_id:abc123",
+            "businessStatus": "OPERATIONAL",
+        }
 
     def geocode(self, address: str):
         self.geocoded_addresses.append(address)
@@ -76,6 +88,27 @@ class GooglePipelineTests(unittest.TestCase):
         self.assertTrue(missing["google_rating"])
         self.assertTrue(missing["google_reviews"])
         self.assertTrue(should_backfill_google(record))
+
+    def test_existing_place_id_uses_place_details_before_search_text(self):
+        client = FakeGoogleClient()
+        enrichment = resolve_google_place(
+            {
+                "place_id": "abc123",
+                "google_maps_url": "",
+                "name": "Sample Bar",
+                "name_en": "Sample Bar",
+                "g_name": "",
+                "area": "Tokyo",
+            },
+            client,
+        )
+
+        self.assertIsNotNone(enrichment)
+        self.assertEqual(client.detail_requests, ["places/abc123"])
+        self.assertEqual(client.queries, [])
+        self.assertEqual(enrichment["business_status"], "OPERATIONAL")
+        self.assertEqual(enrichment["google_match_method"], "placeDetails:existingPlaceId")
+        self.assertEqual(enrichment["google_match_confidence"], "high")
 
     def test_business_status_gap_is_tracked_separately_from_core_google_fields(self):
         record = {

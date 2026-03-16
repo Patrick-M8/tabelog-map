@@ -40,6 +40,7 @@ DETAIL_FIELD_MASK = ",".join(
     ]
 )
 NON_WORD_RE = re.compile(r"[^a-z0-9]+")
+PLACE_ID_FROM_URL_RE = re.compile(r"place_id:([^&/?]+)")
 
 
 def utc_timestamp():
@@ -98,6 +99,15 @@ def place_id_from_details(payload: dict):
     resource_name = payload.get("name")
     if isinstance(resource_name, str) and "/" in resource_name:
         return resource_name.rsplit("/", 1)[-1]
+    return None
+
+
+def place_id_from_maps_url(url: str | None):
+    if not url:
+        return None
+    match = PLACE_ID_FROM_URL_RE.search(url)
+    if match:
+        return match.group(1)
     return None
 
 
@@ -218,7 +228,19 @@ def _normalize_place_payload(place_payload: dict):
     }
 
 
-def resolve_google_place(record: dict, client: GooglePlacesClient):
+def resolve_google_place(record: dict, client: GooglePlacesClient, *, prefer_existing_place_id: bool = True):
+    existing_place_id = record.get("place_id") or place_id_from_maps_url(record.get("google_maps_url"))
+    if prefer_existing_place_id and existing_place_id:
+        try:
+            detailed = client.place_details(f"places/{existing_place_id}")
+        except requests.HTTPError:
+            detailed = None
+        if detailed:
+            normalized = _normalize_place_payload(detailed)
+            normalized["google_match_method"] = "placeDetails:existingPlaceId"
+            normalized["google_match_confidence"] = "high"
+            return normalized
+
     best_candidate = None
     best_score = -1
     best_method = None

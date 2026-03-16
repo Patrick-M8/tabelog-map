@@ -290,6 +290,14 @@ def write_outputs(
     webapp_only.sort_values(["webapp_category", "url"]).to_csv(output_dir / "webapp_only_inventory.csv", index=False)
 
 
+def generate_coverage_report(*, input_root: Path, summary_json_path: Path, output_dir: Path):
+    raw_df, source_file_count = raw_records_frame(input_root)
+    summary_df = summary_frame(summary_json_path)
+    report, merged, category_coverage, raw_only, visible, webapp_only = build_report(raw_df, summary_df, source_file_count)
+    write_outputs(output_dir, report, merged, category_coverage, raw_only, visible, webapp_only)
+    return report
+
+
 def main():
     parser = argparse.ArgumentParser(description="Run pandas coverage EDA against raw restaurant JSON and built app data.")
     parser.add_argument("--in-root", default="restaurant_data")
@@ -297,10 +305,11 @@ def main():
     parser.add_argument("--out-dir", default="reports/eda")
     args = parser.parse_args()
 
-    raw_df, source_file_count = raw_records_frame(Path(args.in_root))
-    summary_df = summary_frame(Path(args.summary_json))
-    report, merged, category_coverage, raw_only, visible, webapp_only = build_report(raw_df, summary_df, source_file_count)
-    write_outputs(Path(args.out_dir), report, merged, category_coverage, raw_only, visible, webapp_only)
+    report = generate_coverage_report(
+        input_root=Path(args.in_root),
+        summary_json_path=Path(args.summary_json),
+        output_dir=Path(args.out_dir),
+    )
     print(json.dumps(report, ensure_ascii=True, indent=2))
 
 

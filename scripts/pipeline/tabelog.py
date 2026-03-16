@@ -30,6 +30,12 @@ def make_session():
     return session
 
 
+def fetch_japanese_page_soup(url: str, session: requests.Session):
+    response = session.get(url, timeout=15)
+    response.raise_for_status()
+    return BeautifulSoup(response.text, "html.parser")
+
+
 def clean_jp_official_name(raw: str):
     if not raw:
         return ""
@@ -125,6 +131,21 @@ def extract_tabelog_address(soup: BeautifulSoup):
     return ""
 
 
+def ensure_tabelog_address(record: dict, session: requests.Session | None = None, *, sleep_seconds: float = 0.0):
+    if (record.get("tabelog_address") or "").strip():
+        return dict(record)
+    if not record.get("url"):
+        return dict(record)
+
+    session = session or make_session()
+    soup_jp = fetch_japanese_page_soup(record["url"], session)
+    updated = dict(record)
+    updated["tabelog_address"] = extract_tabelog_address(soup_jp) or record.get("tabelog_address", "")
+    if sleep_seconds > 0:
+        time.sleep(sleep_seconds)
+    return updated
+
+
 def refresh_restaurant_record(record: dict, session: requests.Session | None = None, *, sleep_seconds: float = 1.0):
     if not record.get("url"):
         raise ValueError("Record is missing a Tabelog URL")
@@ -133,9 +154,7 @@ def refresh_restaurant_record(record: dict, session: requests.Session | None = N
     url = record["url"]
     english_url = urljoin("https://tabelog.com/en/", url.split("tabelog.com/")[1]) if "tabelog.com/" in url else url
 
-    response_jp = session.get(url, timeout=15)
-    response_jp.raise_for_status()
-    soup_jp = BeautifulSoup(response_jp.text, "html.parser")
+    soup_jp = fetch_japanese_page_soup(url, session)
 
     response_en = session.get(english_url, timeout=15)
     response_en.raise_for_status()
