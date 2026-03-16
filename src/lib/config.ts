@@ -1,6 +1,7 @@
 export const DEFAULT_CENTER = { lat: 36.2048, lng: 138.2529 };
 export const WALK_METERS_PER_MINUTE = 80;
 export const CLOSING_SOON_MINUTES = 45;
+export const OPENING_SOON_MINUTES = 15;
 export const SEARCH_REDRAW_METERS = 500;
 export const JAPAN_BOUNDS = [
   [122, 20],

@@ -53,6 +53,20 @@ describe('derivePlaceStatus', () => {
     expect(status.detail).toBe('Opens 09:00');
   });
 
+  it('returns openingSoon when the next opening is within 15 minutes', () => {
+    const status = derivePlaceStatus(timeline, ACTIVE_CLOSURE, DateTime.fromISO('2026-03-16T08:50:00', { zone: 'Asia/Tokyo' }));
+    expect(status.state).toBe('openingSoon');
+    expect(status.label).toBe('Opening soon');
+    expect(status.opensAt).toBe('09:00');
+    expect(status.detail).toBe('Opens 09:00');
+  });
+
+  it('keeps the closed state when the next opening is more than 15 minutes away', () => {
+    const status = derivePlaceStatus(timeline, ACTIVE_CLOSURE, DateTime.fromISO('2026-03-16T08:40:00', { zone: 'Asia/Tokyo' }));
+    expect(status.state).toBe('closed');
+    expect(status.label).toBe('Closed');
+  });
+
   it('includes the next open weekday when the next opening is not tomorrow', () => {
     const sparseTimeline: WeeklyTimeline = {
       mon: [{ open: '09:00', close: '18:00', crossesMidnight: false, allDay: false, lastOrder: null, lastOrderDetail: null }],

@@ -1,6 +1,6 @@
 import { DateTime } from 'luxon';
 
-import { CLOSING_SOON_MINUTES } from '$lib/config';
+import { CLOSING_SOON_MINUTES, OPENING_SOON_MINUTES } from '$lib/config';
 import type { ClosureInfo, DailyWindow, LastOrderDetail, PlaceStatus, WeeklyTimeline } from '$lib/types';
 
 const DAY_KEYS = ['mon', 'tue', 'wed', 'thu', 'fri', 'sat', 'sun'] as const;
@@ -76,6 +76,11 @@ function opensLaterLabel(windows: DailyWindow[], currentMinute: number) {
 
   const nextWindow = windows.find((window) => minutesFromClock(window.open) > currentMinute);
   return nextWindow?.open ?? null;
+}
+
+function nextOpeningMinuteToday(windows: DailyWindow[], currentMinute: number) {
+  const nextWindow = windows.find((window) => !window.allDay && minutesFromClock(window.open) > currentMinute);
+  return nextWindow ? minutesFromClock(nextWindow.open) : null;
 }
 
 function nextOpeningLabel(timeline: WeeklyTimeline, dayIndex: number, currentMinute: number) {
@@ -159,6 +164,29 @@ function formatStatusDetail({
   return nextOpenLabel ?? 'No confirmed hours';
 }
 
+function maybeOpeningSoonStatus(timeline: WeeklyTimeline, dayIndex: number, currentMinute: number) {
+  const todayKey = DAY_KEYS[dayIndex];
+  const nextOpeningMinute = nextOpeningMinuteToday(timeline[todayKey] ?? [], currentMinute);
+
+  if (nextOpeningMinute === null || nextOpeningMinute - currentMinute > OPENING_SOON_MINUTES) {
+    return null;
+  }
+
+  const opensAt = opensLaterLabel(timeline[todayKey] ?? [], currentMinute);
+  if (!opensAt || opensAt === 'Open 24 hours') {
+    return null;
+  }
+
+  return {
+    state: 'openingSoon',
+    label: 'Opening soon',
+    detail: `Opens ${opensAt}`,
+    closesAt: null,
+    opensAt,
+    lastOrderAt: null
+  } satisfies PlaceStatus;
+}
+
 export function derivePlaceStatus(timeline: WeeklyTimeline, closure: ClosureInfo, now = DateTime.now()): PlaceStatus {
   if (closure.state === 'permanentlyClosed') {
     return {
@@ -237,6 +265,11 @@ export function derivePlaceStatus(timeline: WeeklyTimeline, closure: ClosureInfo
       opensAt: null,
       lastOrderAt: window.lastOrder
     };
+  }
+
+  const openingSoonStatus = maybeOpeningSoonStatus(timeline, dayIndex, currentMinute);
+  if (openingSoonStatus) {
+    return openingSoonStatus;
   }
 
   return {

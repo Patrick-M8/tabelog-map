@@ -7,7 +7,7 @@ import { toAdvancedFilters } from '../../src/lib/utils/filterScope';
 const EMPTY_FILTERS: ActiveFilters = {
   openNow: false,
   closingSoon: false,
-  hidePermanentlyClosed: false,
+  openingSoon: false,
   maxWalkMinutes: null,
   priceBands: [],
   categoryKeys: []
@@ -23,7 +23,7 @@ describe('countActiveFilters', () => {
       countActiveFilters({
         openNow: true,
         closingSoon: false,
-        hidePermanentlyClosed: true,
+        openingSoon: true,
         maxWalkMinutes: 10,
         priceBands: ['¥¥'],
         categoryKeys: ['sushi', 'ramen']
@@ -42,12 +42,12 @@ describe('summarizeFilters', () => {
       summarizeFilters({
         openNow: true,
         closingSoon: false,
-        hidePermanentlyClosed: true,
+        openingSoon: true,
         maxWalkMinutes: 15,
         priceBands: ['¥', '¥¥'],
         categoryKeys: ['sushi']
       })
-    ).toBe('Open now, Hide closed, ≤15 min');
+    ).toBe('Open now, Opening soon, ≤15 min');
   });
 });
 
@@ -56,7 +56,7 @@ describe('toAdvancedFilters', () => {
     const filters: ActiveFilters = {
       openNow: true,
       closingSoon: true,
-      hidePermanentlyClosed: true,
+      openingSoon: true,
       maxWalkMinutes: 10,
       priceBands: ['¥¥'],
       categoryKeys: ['sushi']
@@ -65,7 +65,7 @@ describe('toAdvancedFilters', () => {
     expect(toAdvancedFilters(filters)).toEqual({
       openNow: false,
       closingSoon: true,
-      hidePermanentlyClosed: true,
+      openingSoon: true,
       maxWalkMinutes: 10,
       priceBands: ['¥¥'],
       categoryKeys: ['sushi']

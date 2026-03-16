@@ -338,6 +338,11 @@
     color: #9b6a22;
   }
 
+  .status-pill.openingSoon {
+    background: rgba(59, 130, 246, 0.12);
+    color: #215ea8;
+  }
+
   .status-pill.temporarilyClosed {
     background: rgba(200, 100, 59, 0.18);
     color: #8b4b30;

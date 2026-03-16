@@ -1,6 +1,8 @@
 import { describe, expect, it } from 'vitest';
+import { render } from 'svelte/server';
 
 import type { DisplayPlace } from '../../src/lib/types';
+import PlaceCard from '../../src/lib/components/PlaceCard.svelte';
 import { formatPlaceCardMeta, formatPlaceCardRatings, formatPlaceCardSubtitle } from '../../src/lib/utils/placeCard';
 
 const MIDDLE_DOT = '\u00B7';
@@ -106,5 +108,28 @@ describe('place card formatting', () => {
     };
 
     expect(formatPlaceCardSubtitle(place)).toBe(`Sushi ${MIDDLE_DOT} Omakase`);
+  });
+
+  it('renders an Opening soon status pill on the card', () => {
+    const result = render(PlaceCard, {
+      props: {
+        place: {
+          ...basePlace,
+          status: {
+            state: 'openingSoon',
+            label: 'Opening soon',
+            detail: 'Opens 09:00',
+            closesAt: null,
+            opensAt: '09:00',
+            lastOrderAt: null
+          }
+        },
+        imageUrl: null,
+        selected: false
+      }
+    });
+
+    expect(result.body).toContain('Opening soon');
+    expect(result.body).toContain('status-pill openingSoon');
   });
 });

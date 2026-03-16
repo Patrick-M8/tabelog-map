@@ -1,5 +1,63 @@
 import type { DisplayPlace, SortKey } from '$lib/types';
 
+function compareReviewSort(
+  left: DisplayPlace,
+  right: DisplayPlace,
+  sources: Array<'tabelog' | 'google'>,
+  direction: 'asc' | 'desc'
+) {
+  const summarize = (place: DisplayPlace) => {
+    const scores = sources
+      .map((source) => ({
+        score: place[source].score,
+        reviews: place[source].reviews
+      }))
+      .filter((entry) => entry.score !== null);
+
+    if (!scores.length) {
+      return null;
+    }
+
+    const totalScore = scores.reduce((sum, entry) => sum + (entry.score ?? 0), 0);
+    const totalReviews = scores.reduce((sum, entry) => sum + entry.reviews, 0);
+
+    return {
+      averageScore: totalScore / scores.length,
+      totalReviews
+    };
+  };
+
+  const leftSummary = summarize(left);
+  const rightSummary = summarize(right);
+
+  if (!leftSummary && rightSummary) {
+    return 1;
+  }
+
+  if (leftSummary && !rightSummary) {
+    return -1;
+  }
+
+  if (!leftSummary && !rightSummary) {
+    return left.distanceMeters - right.distanceMeters;
+  }
+
+  const safeLeftSummary = leftSummary!;
+  const safeRightSummary = rightSummary!;
+
+  if (safeLeftSummary.averageScore !== safeRightSummary.averageScore) {
+    return direction === 'asc'
+      ? safeLeftSummary.averageScore - safeRightSummary.averageScore
+      : safeRightSummary.averageScore - safeLeftSummary.averageScore;
+  }
+
+  if (safeLeftSummary.totalReviews !== safeRightSummary.totalReviews) {
+    return safeRightSummary.totalReviews - safeLeftSummary.totalReviews;
+  }
+
+  return left.distanceMeters - right.distanceMeters;
+}
+
 export function sortPlaces(places: DisplayPlace[], sortKey: SortKey) {
   const next = [...places];
 
@@ -20,32 +78,28 @@ export function sortPlaces(places: DisplayPlace[], sortKey: SortKey) {
       return right.priceBucket - left.priceBucket;
     }
 
-    if (sortKey === 'tabelog') {
-      const leftScore = left.tabelog.score ?? -1;
-      const rightScore = right.tabelog.score ?? -1;
-      if (leftScore !== rightScore) {
-        return rightScore - leftScore;
-      }
-
-      if (left.tabelog.reviews !== right.tabelog.reviews) {
-        return right.tabelog.reviews - left.tabelog.reviews;
-      }
-
-      return left.distanceMeters - right.distanceMeters;
+    if (sortKey === 'tabelogAsc') {
+      return compareReviewSort(left, right, ['tabelog'], 'asc');
     }
 
-    if (sortKey === 'google') {
-      const leftScore = left.google.score ?? -1;
-      const rightScore = right.google.score ?? -1;
-      if (leftScore !== rightScore) {
-        return rightScore - leftScore;
-      }
+    if (sortKey === 'tabelogDesc') {
+      return compareReviewSort(left, right, ['tabelog'], 'desc');
+    }
 
-      if (left.google.reviews !== right.google.reviews) {
-        return right.google.reviews - left.google.reviews;
-      }
+    if (sortKey === 'googleAsc') {
+      return compareReviewSort(left, right, ['google'], 'asc');
+    }
 
-      return left.distanceMeters - right.distanceMeters;
+    if (sortKey === 'googleDesc') {
+      return compareReviewSort(left, right, ['google'], 'desc');
+    }
+
+    if (sortKey === 'reviewsCombinedAsc') {
+      return compareReviewSort(left, right, ['tabelog', 'google'], 'asc');
+    }
+
+    if (sortKey === 'reviewsCombinedDesc') {
+      return compareReviewSort(left, right, ['tabelog', 'google'], 'desc');
     }
 
     const rightStatusWeight =

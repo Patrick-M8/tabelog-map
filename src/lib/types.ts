@@ -1,10 +1,20 @@
 export type HoursConfidence = 'low' | 'medium' | 'high';
 export type ConsensusGrade = 'A' | 'B' | 'C' | 'D' | 'E';
 export type SheetSnap = 'peek' | 'mid' | 'full';
-export type SortMode = 'best' | 'distance' | 'price' | 'reviews';
 export type SortDirection = 'asc' | 'desc';
 export type ReviewSource = 'tabelog' | 'google';
-export type SortKey = 'best' | 'distanceAsc' | 'distanceDesc' | 'priceAsc' | 'priceDesc' | 'tabelog' | 'google';
+export type SortKey =
+  | 'best'
+  | 'distanceAsc'
+  | 'distanceDesc'
+  | 'priceAsc'
+  | 'priceDesc'
+  | 'tabelogAsc'
+  | 'tabelogDesc'
+  | 'googleAsc'
+  | 'googleDesc'
+  | 'reviewsCombinedAsc'
+  | 'reviewsCombinedDesc';
 export type ClosureState = 'active' | 'temporarilyClosed' | 'permanentlyClosed' | 'unknown';
 
 export interface LastOrderDetail {
@@ -139,7 +149,7 @@ export interface SearchState {
 export interface ActiveFilters {
   openNow: boolean;
   closingSoon: boolean;
-  hidePermanentlyClosed: boolean;
+  openingSoon: boolean;
   maxWalkMinutes: number | null;
   priceBands: string[];
   categoryKeys: string[];
@@ -160,7 +170,7 @@ export interface DisplayPlace extends PlaceSummary {
 }
 
 export interface PlaceStatus {
-  state: 'open' | 'closingSoon' | 'closed' | 'temporarilyClosed' | 'permanentlyClosed';
+  state: 'open' | 'closingSoon' | 'openingSoon' | 'closed' | 'temporarilyClosed' | 'permanentlyClosed';
   label: string;
   detail: string;
   closesAt: string | null;
