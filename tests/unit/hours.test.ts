@@ -100,4 +100,20 @@ describe('derivePlaceStatus', () => {
     expect(status.state).toBe('permanentlyClosed');
     expect(status.label).toBe('Closed permanently');
   });
+
+  it('keeps the temporary-closure styling state while showing the next opening day', () => {
+    const status = derivePlaceStatus(
+      timeline,
+      {
+        state: 'temporarilyClosed',
+        source: 'google',
+        reason: 'temporary closure',
+        detectedAt: null
+      },
+      DateTime.fromISO('2026-03-16T20:00:00', { zone: 'Asia/Tokyo' })
+    );
+    expect(status.state).toBe('temporarilyClosed');
+    expect(status.label).toBe('Open Tuesday');
+    expect(status.detail).toBe('Opens 09:00');
+  });
 });

@@ -13,6 +13,15 @@ const DAY_LABELS: Record<(typeof DAY_KEYS)[number], string> = {
   sat: 'Sat',
   sun: 'Sun'
 };
+const DAY_NAMES: Record<(typeof DAY_KEYS)[number], string> = {
+  mon: 'Monday',
+  tue: 'Tuesday',
+  wed: 'Wednesday',
+  thu: 'Thursday',
+  fri: 'Friday',
+  sat: 'Saturday',
+  sun: 'Sunday'
+};
 const MIDDLE_DOT = '\u00B7';
 
 function minutesFromClock(clock: string, end = false) {
@@ -97,6 +106,23 @@ function nextOpeningLabel(timeline: WeeklyTimeline, dayIndex: number, currentMin
   return null;
 }
 
+function temporarilyClosedLabel(timeline: WeeklyTimeline, dayIndex: number, currentMinute: number) {
+  const todayKey = DAY_KEYS[dayIndex];
+  const sameDayOpening = opensLaterLabel(timeline[todayKey] ?? [], currentMinute);
+  if (sameDayOpening) {
+    return 'Open today';
+  }
+
+  for (let offset = 1; offset < DAY_KEYS.length; offset += 1) {
+    const nextDayKey = DAY_KEYS[(dayIndex + offset) % DAY_KEYS.length];
+    if ((timeline[nextDayKey] ?? []).length > 0) {
+      return `Open ${DAY_NAMES[nextDayKey]}`;
+    }
+  }
+
+  return 'Open soon';
+}
+
 function formatStatusDetail({
   allDay,
   closesAt,
@@ -145,18 +171,19 @@ export function derivePlaceStatus(timeline: WeeklyTimeline, closure: ClosureInfo
     };
   }
 
+  const { combined, currentMinute, today, dayIndex } = activeWindows(timeline, now);
+  const nextOpenLabel = nextOpeningLabel(timeline, dayIndex, currentMinute);
+
   if (closure.state === 'temporarilyClosed') {
     return {
       state: 'temporarilyClosed',
-      label: 'Temporarily closed',
-      detail: closure.reason ? `Temporarily closed ${MIDDLE_DOT} ${closure.reason}` : 'Temporarily closed',
+      label: temporarilyClosedLabel(timeline, dayIndex, currentMinute),
+      detail: nextOpenLabel ?? 'No confirmed hours',
       closesAt: null,
-      opensAt: null,
+      opensAt: nextOpenLabel === 'Open 24 hours' ? null : opensLaterLabel(today, currentMinute),
       lastOrderAt: null
     };
   }
-
-  const { combined, currentMinute, today, dayIndex } = activeWindows(timeline, now);
 
   for (const window of combined) {
     if (window.allDay) {
@@ -212,7 +239,6 @@ export function derivePlaceStatus(timeline: WeeklyTimeline, closure: ClosureInfo
     };
   }
 
-  const nextOpen = opensLaterLabel(today, currentMinute);
   return {
     state: 'closed',
     label: 'Closed',
@@ -222,10 +248,10 @@ export function derivePlaceStatus(timeline: WeeklyTimeline, closure: ClosureInfo
       closesAt: null,
       lastOrderAt: null,
       lastOrderDetail: null,
-      nextOpenLabel: nextOpeningLabel(timeline, dayIndex, currentMinute)
+      nextOpenLabel
     }),
     closesAt: null,
-    opensAt: nextOpen === 'Open 24 hours' ? null : nextOpen,
+    opensAt: nextOpenLabel === 'Open 24 hours' ? null : opensLaterLabel(today, currentMinute),
     lastOrderAt: null
   };
 }
