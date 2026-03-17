@@ -1,6 +1,6 @@
 import { expect, test } from '@playwright/test';
 
-test('desktop flow auto-updates the tray and supports split rating sorting', async ({ page }) => {
+test('desktop flow auto-updates the tray and supports combined rating sorting', async ({ page }) => {
   await page.goto('/');
   const desktopPanel = page.locator('.side-panel');
   await expect(page.getByRole('button', { name: /cuisine/i }).first()).toBeVisible();
@@ -11,10 +11,12 @@ test('desktop flow auto-updates the tray and supports split rating sorting', asy
   await expect(desktopPanel.getByRole('heading', { name: 'Tabelog Hyakumeiten' })).toBeVisible();
   await desktopPanel.getByRole('button', { name: /price ascending/i }).click();
   await expect(desktopPanel.getByRole('button', { name: /price ascending/i })).toHaveClass(/active/);
+  await desktopPanel.getByRole('button', { name: 'Sort by Tabelog rating' }).press('Enter');
   await desktopPanel.getByRole('button', { name: 'Sort by Google rating' }).press('Enter');
+  await expect(desktopPanel.getByRole('button', { name: 'Sort by Tabelog rating' })).toHaveAttribute('aria-pressed', 'true');
   await expect(desktopPanel.getByRole('button', { name: 'Sort by Google rating' })).toHaveAttribute('aria-pressed', 'true');
-  await desktopPanel.getByRole('button', { name: /rating descending/i }).press('Enter');
-  await expect(desktopPanel.getByRole('button', { name: /rating ascending/i })).toHaveClass(/active/);
+  await desktopPanel.getByRole('button', { name: /combined average descending/i }).press('Enter');
+  await expect(desktopPanel.getByRole('button', { name: /combined average ascending/i })).toHaveClass(/active/);
 });
 
 test('mobile flow uses emoji override pills and the shared filter sheet content', async ({ page }) => {

@@ -16,6 +16,7 @@
   import { derivePlaceStatus } from '$lib/utils/hours';
   import { countActiveFilters, summarizeFilters } from '$lib/utils/discovery';
   import { sortPlaces } from '$lib/utils/sort';
+  import { sortKeyToTraySortState, toggleReviewDirection, toggleReviewSource, traySortStateToSortKey } from '$lib/utils/traySort';
 
   type FilterSection = 'category' | 'walk' | 'price' | null;
   type UiView = 'browse' | 'filters' | 'detail';
@@ -55,10 +56,9 @@
   let innerWidth = 390;
   let sheetSnap: SheetSnap = 'peek';
   let sortKey: SortKey = 'best';
-  let reviewSortSource: ReviewSource = 'tabelog';
-  let reviewSortDirectionState: 'asc' | 'desc' = 'desc';
-  let activeReviewSource: ReviewSource | null = null;
+  let activeReviewSources: ReviewSource[] = [];
   let activeReviewDirection: 'asc' | 'desc' = 'desc';
+  let reviewSortActive = false;
   let activeFilters: ActiveFilters = { ...EMPTY_FILTERS };
   let filterOpen = false;
   let detailOpen = false;
@@ -160,39 +160,16 @@
     queueRefreshPrompt();
   }
 
-  function isReviewSortKey(currentSortKey: SortKey) {
-    return (
-      currentSortKey === 'tabelogAsc' ||
-      currentSortKey === 'tabelogDesc' ||
-      currentSortKey === 'googleAsc' ||
-      currentSortKey === 'googleDesc'
-    );
-  }
-
-  function reviewSortKey(source: ReviewSource, direction: 'asc' | 'desc'): SortKey {
-    if (source === 'tabelog') {
-      return direction === 'asc' ? 'tabelogAsc' : 'tabelogDesc';
-    }
-
-    return direction === 'asc' ? 'googleAsc' : 'googleDesc';
-  }
-
   function setReviewSort(source: ReviewSource) {
-    reviewSortSource = source;
-    activeReviewSource = source;
-    activeReviewDirection = reviewSortDirectionState;
-    sortKey = reviewSortKey(source, reviewSortDirectionState);
+    sortKey = traySortStateToSortKey(toggleReviewSource(sortKeyToTraySortState(sortKey), source));
   }
 
   function toggleReviewSortDirection() {
-    const source = activeReviewSource;
-    if (!source) {
+    if (!activeReviewSources.length) {
       return;
     }
 
-    reviewSortDirectionState = reviewSortDirectionState === 'desc' ? 'asc' : 'desc';
-    activeReviewDirection = reviewSortDirectionState;
-    sortKey = reviewSortKey(source, reviewSortDirectionState);
+    sortKey = traySortStateToSortKey(toggleReviewDirection(sortKeyToTraySortState(sortKey)));
   }
 
   function parseUiView(value: string | null): UiView {
@@ -273,8 +250,6 @@
   }
 
   function togglePriceSort() {
-    activeReviewSource = null;
-    activeReviewDirection = reviewSortDirectionState;
     sortKey = sortKey === 'priceAsc' ? 'priceDesc' : 'priceAsc';
   }
 
@@ -336,10 +311,6 @@
   }
 
   function setSortKey(nextSortKey: SortKey) {
-    if (!isReviewSortKey(nextSortKey)) {
-      activeReviewSource = null;
-      activeReviewDirection = reviewSortDirectionState;
-    }
     sortKey = nextSortKey;
   }
 
@@ -571,11 +542,6 @@
       requestGeolocation();
     })();
 
-    if (isReviewSortKey(sortKey)) {
-      activeReviewSource = reviewSortSource;
-      activeReviewDirection = reviewSortDirectionState;
-    }
-
     return () => {
       clearRefreshPromptTimers();
     };
@@ -591,10 +557,19 @@
   $: summaries = $summaryQuery.data ?? [];
   $: details = $detailQuery.data ?? {};
   $: availableCategories = visibleCategories(summaries);
+  $: {
+    const nextReviewState = sortKeyToTraySortState(sortKey).reviewSort;
+    activeReviewSources = [...nextReviewState.sources];
+    activeReviewDirection = nextReviewState.direction;
+    reviewSortActive = activeReviewSources.length > 0;
+  }
   $: activeFilterCount = countActiveFilters(activeFilters);
   $: filterSummary = summarizeFilters(activeFilters);
   $: priceSortLabel = sortKey === 'priceDesc' ? 'Price descending' : 'Price ascending';
-  $: reviewSortLabel = activeReviewDirection === 'asc' ? 'Rating ascending' : 'Rating descending';
+  $: reviewSortLabel =
+    activeReviewSources.length === 2
+      ? `Combined average ${activeReviewDirection === 'asc' ? 'ascending' : 'descending'}`
+      : `Rating ${activeReviewDirection === 'asc' ? 'ascending' : 'descending'}`;
   $: candidatePlaces = summaries
     .map((place) => {
       const distanceMeters = haversineDistanceMeters(searchCenter, { lat: place.lat, lng: place.lng });
@@ -767,7 +742,7 @@
           {#if activeFilterCount > 0}
             <button type="button" class="ghost-chip" on:click={clearAdvancedFilters}>Clear all</button>
           {/if}
-          <button type="button" class="primary-button" on:click={closeFilters}>Show {sortedPlaces.length} places</button>
+          <button type="button" class="primary-button show-places-button" on:click={closeFilters}>Show {sortedPlaces.length} places</button>
         </div>
       </section>
     {/if}
@@ -818,7 +793,7 @@
               on:click={togglePriceSort}
             >
               ¥
-              <span class="sort-icon" aria-hidden="true">
+              <span class="sort-icon sort-icon-tight" aria-hidden="true">
                 {#if sortKey === 'priceDesc'}
                   <svg viewBox="0 0 12 12">
                     <path d="M6 2.25v7.5M6 9.75 3.75 7.5M6 9.75 8.25 7.5" />
@@ -830,17 +805,17 @@
                 {/if}
               </span>
             </button>
-            <div class="tray-ratings" role="group" aria-label="Review rating sort" class:active={activeReviewSource !== null}>
+            <div class="tray-ratings" role="group" aria-label="Review rating sort" class:active={reviewSortActive}>
               <div class="review-segment">
                 {#each REVIEW_SOURCES as source}
                   <button
                     type="button"
                     class="review-segment-option"
-                    class:active={activeReviewSource === source}
+                    class:active={activeReviewSources.includes(source)}
                     class:tabelog={source === 'tabelog'}
                     class:google={source === 'google'}
                     aria-label={`Sort by ${source === 'tabelog' ? 'Tabelog' : 'Google'} rating`}
-                    aria-pressed={activeReviewSource === source ? 'true' : 'false'}
+                    aria-pressed={activeReviewSources.includes(source) ? 'true' : 'false'}
                     on:click={() => setReviewSort(source)}
                   >
                     <img src={source === 'tabelog' ? '/brands/tabelog-mark.svg' : '/brands/google-mark.svg'} alt="" />
@@ -849,12 +824,13 @@
               </div>
               <button
                 type="button"
-                class="tray-pill tray-pill-direction review-direction"
+                class="review-direction"
                 aria-label={reviewSortLabel}
-                class:active={activeReviewSource !== null}
+                class:active={reviewSortActive}
+                disabled={!reviewSortActive}
                 on:click={toggleReviewSortDirection}
               >
-                <span class="sort-icon" aria-hidden="true">
+                <span class="sort-icon sort-icon-tight" aria-hidden="true">
                   {#if activeReviewDirection === 'desc'}
                     <svg viewBox="0 0 12 12">
                       <path d="M6 2.25v7.5M6 9.75 3.75 7.5M6 9.75 8.25 7.5" />
@@ -938,7 +914,7 @@
             {#if activeFilterCount > 0}
               <button type="button" class="ghost-chip ghost-chip-compact" on:click={clearAdvancedFilters}>Clear all</button>
             {/if}
-            <button type="button" class="primary-button" on:click={closeFilters}>Show {sortedPlaces.length} places</button>
+            <button type="button" class="primary-button show-places-button" on:click={closeFilters}>Show {sortedPlaces.length} places</button>
           </div>
         </div>
       {:else if detailOpen && DetailSheetComponent}
@@ -983,7 +959,7 @@
             on:click={togglePriceSort}
           >
             ¥
-            <span class="sort-icon" aria-hidden="true">
+            <span class="sort-icon sort-icon-tight" aria-hidden="true">
               {#if sortKey === 'priceDesc'}
                 <svg viewBox="0 0 12 12">
                   <path d="M6 2.25v7.5M6 9.75 3.75 7.5M6 9.75 8.25 7.5" />
@@ -995,17 +971,17 @@
               {/if}
             </span>
           </button>
-          <div class="tray-ratings" role="group" aria-label="Review rating sort" class:active={activeReviewSource !== null}>
+          <div class="tray-ratings" role="group" aria-label="Review rating sort" class:active={reviewSortActive}>
             <div class="review-segment">
               {#each REVIEW_SOURCES as source}
                 <button
                   type="button"
                   class="review-segment-option"
-                  class:active={activeReviewSource === source}
+                  class:active={activeReviewSources.includes(source)}
                   class:tabelog={source === 'tabelog'}
                   class:google={source === 'google'}
                   aria-label={`Sort by ${source === 'tabelog' ? 'Tabelog' : 'Google'} rating`}
-                  aria-pressed={activeReviewSource === source ? 'true' : 'false'}
+                  aria-pressed={activeReviewSources.includes(source) ? 'true' : 'false'}
                   on:click={() => setReviewSort(source)}
                 >
                   <img src={source === 'tabelog' ? '/brands/tabelog-mark.svg' : '/brands/google-mark.svg'} alt="" />
@@ -1014,12 +990,13 @@
             </div>
             <button
               type="button"
-              class="tray-pill tray-pill-direction review-direction"
+              class="review-direction"
               aria-label={reviewSortLabel}
-              class:active={activeReviewSource !== null}
+              class:active={reviewSortActive}
+              disabled={!reviewSortActive}
               on:click={toggleReviewSortDirection}
             >
-              <span class="sort-icon" aria-hidden="true">
+              <span class="sort-icon sort-icon-tight" aria-hidden="true">
                 {#if activeReviewDirection === 'desc'}
                   <svg viewBox="0 0 12 12">
                     <path d="M6 2.25v7.5M6 9.75 3.75 7.5M6 9.75 8.25 7.5" />
@@ -1244,9 +1221,13 @@
   .sheet-header,
   .filter-footer {
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-end;
     gap: 14px;
     align-items: center;
+  }
+
+  .filter-footer.with-clear {
+    justify-content: space-between;
   }
 
   .sheet-header {
@@ -1324,6 +1305,10 @@
     font-weight: 600;
   }
 
+  .show-places-button {
+    margin-left: auto;
+  }
+
   .list-stack,
   .segment-row {
     display: grid;
@@ -1389,6 +1374,11 @@
     stroke-width: 1.5;
   }
 
+  .sort-icon-tight {
+    padding: 0;
+    width: 12px;
+  }
+
   .tray-row {
     gap: 4px;
   }
@@ -1424,11 +1414,6 @@
   .tray-pill-price {
     min-width: 42px;
     font-weight: 700;
-  }
-
-  .tray-pill-direction {
-    min-width: 34px;
-    padding-inline: 9px;
   }
 
   .tray-ratings {
@@ -1494,12 +1479,19 @@
   }
 
   .review-direction {
+    min-height: 36px;
+    min-width: 34px;
+    padding: 0 10px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
     min-width: 34px;
     border: 0;
     border-left: 1px solid rgba(15, 23, 42, 0.08);
     border-radius: 0;
     background: transparent;
     box-shadow: none;
+    color: #111827;
   }
 
   .review-direction.active {
@@ -1507,6 +1499,10 @@
     color: #111827;
     border-color: rgba(15, 23, 42, 0.08);
     box-shadow: none;
+  }
+
+  .review-direction:disabled {
+    opacity: 0.48;
   }
 
   .empty-state,
@@ -1613,11 +1609,6 @@
       min-height: 34px;
       padding: 0 10px;
       font-size: 0.84rem;
-    }
-
-    .tray-pill-direction {
-      min-width: 32px;
-      padding-inline: 8px;
     }
 
     .review-segment-option {
