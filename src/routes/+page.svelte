@@ -8,23 +8,14 @@
   import BottomSheet from '$lib/components/BottomSheet.svelte';
   import FilterPanelContent from '$lib/components/FilterPanelContent.svelte';
   import PlaceCard from '$lib/components/PlaceCard.svelte';
-  import { DEFAULT_CENTER } from '$lib/config';
+  import { DEFAULT_CENTER, SEARCH_REDRAW_METERS } from '$lib/config';
   import { loadPlaceDetails, loadPlaceSummary } from '$lib/data/client';
   import type { ActiveFilters, DisplayPlace, PlaceDetail, PlaceSummary, ReviewSource, SheetSnap, SortKey } from '$lib/types';
-  import { formatPriceRange, normalizePriceBand } from '$lib/utils/format';
+  import { normalizePriceBand } from '$lib/utils/format';
   import { haversineDistanceMeters, isInsideBounds, walkMinutesFromDistance } from '$lib/utils/geo';
   import { derivePlaceStatus } from '$lib/utils/hours';
   import { countActiveFilters, summarizeFilters } from '$lib/utils/discovery';
-  import { toAdvancedFilters } from '$lib/utils/filterScope';
   import { sortPlaces } from '$lib/utils/sort';
-  import {
-    DEFAULT_TRAY_SORT_STATE,
-    type TraySortState,
-    toggleOverrideSort,
-    toggleReviewDirection,
-    toggleReviewSource,
-    traySortStateToSortKey
-  } from '$lib/utils/traySort';
 
   type FilterSection = 'category' | 'walk' | 'price' | null;
   type UiView = 'browse' | 'filters' | 'detail';
@@ -55,6 +46,9 @@
     priceBands: [],
     categoryKeys: []
   };
+  const REFRESH_PROMPT_VISIBLE_MS = 2200;
+  const REFRESH_PROMPT_FADE_MS = 320;
+  const CUISINE_PREVIEW_COUNT = 10;
   const PRICE_BANDS = Array.from({ length: 5 }, (_, index) => '\u00A5'.repeat(index + 1));
   const WALK_MINUTE_OPTIONS = [5, 10, 15, 30];
   const REVIEW_SOURCES: ReviewSource[] = ['tabelog', 'google'];
@@ -89,6 +83,8 @@
   let selectedPlace: DisplayPlace | null = null;
   let selectedDetail: PlaceDetail | null = null;
   let availableCategories: { key: string; label: string; count: number }[] = [];
+  let showRedoSearch = false;
+  let redoSearchFading = false;
   let desktop = false;
   let activeFilterCount = 0;
   let filterSummary = 'All nearby';
@@ -109,13 +105,59 @@
     section: null
   };
   let lastFilterScrollKey = '';
+  let refreshPromptFadeTimer: ReturnType<typeof setTimeout> | null = null;
+  let refreshPromptHideTimer: ReturnType<typeof setTimeout> | null = null;
+  let mapHasInitialized = false;
+  let suppressNextMoveRefreshPrompt = false;
 
   function randomToken(prefix: string) {
     return `${prefix}-${Date.now()}-${Math.random().toString(16).slice(2, 8)}`;
   }
 
+  function clearRefreshPromptTimers() {
+    if (refreshPromptFadeTimer) {
+      clearTimeout(refreshPromptFadeTimer);
+      refreshPromptFadeTimer = null;
+    }
+
+    if (refreshPromptHideTimer) {
+      clearTimeout(refreshPromptHideTimer);
+      refreshPromptHideTimer = null;
+    }
+  }
+
+  function hideRefreshPrompt() {
+    clearRefreshPromptTimers();
+    redoSearchFading = false;
+    showRedoSearch = false;
+  }
+
+  function queueRefreshPrompt() {
+    if (!browser) {
+      return;
+    }
+
+    clearRefreshPromptTimers();
+    showRedoSearch = true;
+    redoSearchFading = false;
+    refreshPromptFadeTimer = setTimeout(() => {
+      redoSearchFading = true;
+    }, REFRESH_PROMPT_VISIBLE_MS);
+    refreshPromptHideTimer = setTimeout(() => {
+      hideRefreshPrompt();
+    }, REFRESH_PROMPT_VISIBLE_MS + REFRESH_PROMPT_FADE_MS);
+  }
+
+  function applyRefreshPrompt() {
+    suppressNextMoveRefreshPrompt = true;
+    searchCenter = { ...mapCenter };
+    focusTarget = { ...mapCenter, token: randomToken('refresh') };
+    hideRefreshPrompt();
+  }
+
   function updateFilters(nextFilters: ActiveFilters) {
     activeFilters = nextFilters;
+    queueRefreshPrompt();
   }
 
   function isReviewSortKey(currentSortKey: SortKey) {
@@ -289,8 +331,7 @@
   function toggleOpeningSoonFilter() {
     updateFilters({
       ...activeFilters,
-      openNow: false,
-      closingSoon: false
+      openingSoon: !activeFilters.openingSoon
     });
   }
 
@@ -534,6 +575,10 @@
       activeReviewSource = reviewSortSource;
       activeReviewDirection = reviewSortDirectionState;
     }
+
+    return () => {
+      clearRefreshPromptTimers();
+    };
   });
 
   $: desktop = innerWidth >= 960;
@@ -627,9 +672,23 @@
         {desktop}
         on:moveend={(event) => {
           const nextCenter = event.detail.center;
+          const movedDistance = haversineDistanceMeters(mapCenter, nextCenter);
           mapCenter = nextCenter;
-          searchCenter = nextCenter;
           mapBounds = event.detail.bounds;
+
+          if (!mapHasInitialized) {
+            mapHasInitialized = true;
+            return;
+          }
+
+          if (suppressNextMoveRefreshPrompt) {
+            suppressNextMoveRefreshPrompt = false;
+            return;
+          }
+
+          if (movedDistance > SEARCH_REDRAW_METERS) {
+            queueRefreshPrompt();
+          }
         }}
         on:select={(event) => handleMapSelect(event.detail.id)}
       />
@@ -640,20 +699,6 @@
     <div class="map-gradient"></div>
 
     <div class="top-chrome">
-      <div class="top-filter-row" aria-label="Filters">
-        <button
-          type="button"
-          class="filter-pill filter-pill-filters"
-          class:active={advancedFilterCount > 0}
-          on:click={() => openFilters()}
-        >
-          <span>Filters</span>
-          {#if advancedFilterCount > 0}
-            <span class="filter-count-badge" aria-label={`${advancedFilterCount} active filters`}>{advancedFilterCount}</span>
-          {/if}
-        </button>
-      </div>
-
       <div class="top-actions">
         <button type="button" class="filter-pill filter-pill-utility" on:click={() => openFilters()}>
           Filters{#if activeFilterCount > 0} {activeFilterCount}{/if}
@@ -667,6 +712,17 @@
         </button>
       </div>
     </div>
+
+    {#if showRedoSearch}
+      <button
+        type="button"
+        class="viewport-chip"
+        class:fading={redoSearchFading}
+        on:click={applyRefreshPrompt}
+      >
+        Search this area
+      </button>
+    {/if}
 
     {#if filterOpen && desktop}
       <button type="button" class="panel-scrim" aria-label="Close filters" on:click={closeFilters}></button>
@@ -684,8 +740,8 @@
           </button>
         </div>
 
-        {#if advancedFilterCount > 0}
-          <p class="filter-summary">{advancedFilterSummary}</p>
+        {#if activeFilterCount > 0}
+          <p class="filter-summary">{filterSummary}</p>
         {/if}
 
         <FilterPanelContent
@@ -707,8 +763,8 @@
           on:toggleCuisineExpanded={() => (cuisineExpanded = !cuisineExpanded)}
         />
 
-        <div class="filter-footer" class:with-clear={advancedFilterCount > 0}>
-          {#if advancedFilterCount > 0}
+        <div class="filter-footer" class:with-clear={activeFilterCount > 0}>
+          {#if activeFilterCount > 0}
             <button type="button" class="ghost-chip" on:click={clearAdvancedFilters}>Clear all</button>
           {/if}
           <button type="button" class="primary-button" on:click={closeFilters}>Show {sortedPlaces.length} places</button>
@@ -850,8 +906,8 @@
           <div class="sheet-header sheet-header-sticky sheet-header-mobile">
             <div>
               <h1>Filters</h1>
-              {#if advancedFilterCount > 0}
-                <p class="sheet-summary">{advancedFilterSummary}</p>
+              {#if activeFilterCount > 0}
+                <p class="sheet-summary">{filterSummary}</p>
               {/if}
             </div>
             <button type="button" class="ghost-chip ghost-chip-compact" on:click={closeFilters}>Done</button>
@@ -878,8 +934,8 @@
             />
           </div>
 
-          <div class="filter-footer filter-footer-sticky" class:with-clear={advancedFilterCount > 0}>
-            {#if advancedFilterCount > 0}
+          <div class="filter-footer filter-footer-sticky" class:with-clear={activeFilterCount > 0}>
+            {#if activeFilterCount > 0}
               <button type="button" class="ghost-chip ghost-chip-compact" on:click={clearAdvancedFilters}>Clear all</button>
             {/if}
             <button type="button" class="primary-button" on:click={closeFilters}>Show {sortedPlaces.length} places</button>
@@ -1084,14 +1140,6 @@
       transform 180ms ease;
   }
 
-  .top-filter-row {
-    min-width: 0;
-    display: inline-flex;
-    gap: 6px;
-    overflow: visible;
-    padding: 0;
-  }
-
   .filter-pill {
     flex: 0 0 auto;
     min-height: 44px;
@@ -1104,15 +1152,6 @@
       inset 0 1px 0 rgba(255, 255, 255, 0.78),
       0 10px 24px rgba(15, 23, 42, 0.08);
     backdrop-filter: blur(18px) saturate(1.05);
-  }
-
-  .filter-pill.active {
-    background: #17191c;
-    color: #f8f7f4;
-    border-color: transparent;
-    box-shadow:
-      inset 0 1px 0 rgba(255, 255, 255, 0.08),
-      0 14px 28px rgba(15, 23, 42, 0.18);
   }
 
   .filter-pill-utility {
@@ -1147,6 +1186,29 @@
     width: 20px;
     height: 20px;
     fill: currentColor;
+  }
+
+  .viewport-chip {
+    position: absolute;
+    top: calc(72px + env(safe-area-inset-top));
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 24;
+    padding: 11px 16px;
+    border: 0;
+    border-radius: 999px;
+    background: #17191c;
+    color: #f8f7f4;
+    box-shadow: var(--shadow-strong);
+    transition:
+      opacity 320ms ease,
+      transform 320ms ease;
+  }
+
+  .viewport-chip.fading {
+    opacity: 0;
+    transform: translateX(-50%) translateY(-4px);
+    pointer-events: none;
   }
 
   .panel-scrim {
@@ -1289,60 +1351,6 @@
     align-items: stretch;
   }
 
-  .sheet-top-zone {
-    padding-bottom: 4px;
-  }
-
-  .tray-toolbar {
-    display: grid;
-    gap: 10px;
-  }
-
-  .segment-row-toolbar {
-    flex-wrap: nowrap;
-    gap: 4px;
-    margin-bottom: 0;
-    align-items: center;
-  }
-
-  .toolbar-pill {
-    min-width: 0;
-    flex: 0 0 auto;
-    min-height: 36px;
-    padding: 8px 10px;
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    gap: 4px;
-    white-space: nowrap;
-    border-radius: 999px;
-    border: 1px solid rgba(23, 25, 28, 0.08);
-    background: rgba(255, 255, 255, 0.84);
-    box-shadow: var(--shadow-soft);
-  }
-
-  .toolbar-pill.active {
-    background: rgba(23, 25, 28, 0.08);
-    border-color: rgba(23, 25, 28, 0.14);
-    color: var(--ink);
-  }
-
-  .toolbar-pill-label {
-    min-width: 0;
-    overflow: hidden;
-    text-overflow: ellipsis;
-  }
-
-  .toolbar-pill-label-emoji {
-    font-size: 0.95rem;
-    letter-spacing: 0.01em;
-  }
-
-  .toolbar-pill-emoji {
-    min-width: 44px;
-    padding-inline: 10px;
-  }
-
   .review-segment {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -1351,14 +1359,6 @@
     background: rgba(255, 255, 255, 0.84);
     border: 1px solid rgba(23, 25, 28, 0.08);
     box-shadow: var(--shadow-soft);
-  }
-
-  .review-segment-inline {
-    flex: 0 0 auto;
-  }
-
-  .review-segment.active {
-    background: rgba(247, 246, 243, 0.92);
   }
 
   .segment-row {
@@ -1572,6 +1572,10 @@
       top: calc(18px + env(safe-area-inset-top));
     }
 
+    .viewport-chip {
+      top: calc(90px + env(safe-area-inset-top));
+    }
+
     .floating-panel {
       left: 24px;
       right: auto;
@@ -1582,10 +1586,6 @@
     .top-actions {
       gap: 8px;
       align-self: start;
-    }
-
-    .top-filter-row {
-      gap: 6px;
     }
 
     .filter-pill,
