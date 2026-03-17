@@ -202,14 +202,24 @@
     });
 
     map.addLayer({
+      id: 'user-point-halo',
+      type: 'circle',
+      source: 'user-point',
+      paint: {
+        'circle-radius': 14,
+        'circle-color': 'rgba(26, 115, 232, 0.22)'
+      }
+    });
+
+    map.addLayer({
       id: 'user-point-layer',
       type: 'circle',
       source: 'user-point',
       paint: {
-        'circle-radius': 7,
-        'circle-color': '#2f7d57',
-        'circle-stroke-width': 3,
-        'circle-stroke-color': '#f7f6f3'
+        'circle-radius': 8,
+        'circle-color': '#1a73e8',
+        'circle-stroke-width': 4,
+        'circle-stroke-color': 'rgba(255, 255, 255, 0.96)'
       }
     });
 

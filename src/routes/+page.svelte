@@ -902,7 +902,7 @@
           </div>
         {/if}
       {:else}
-        <div class="sheet-header">
+        <div class="sheet-header sheet-header-mobile-browse">
           <div>
             <p class="eyebrow">{placesInViewLabel(sortedPlaces.length, visiblePlaces.length)}</p>
             <h1>Tabelog Hyakumeiten</h1>
@@ -1188,6 +1188,13 @@
   .sheet-header {
     align-items: start;
     margin-bottom: 10px;
+  }
+
+  .sheet-header-mobile-browse {
+    margin-left: -14px;
+    margin-right: -14px;
+    padding-left: 14px;
+    padding-right: 14px;
   }
 
   .sheet-header h1,
@@ -1550,6 +1557,13 @@
       right: 12px;
       top: calc(74px + env(safe-area-inset-top));
       padding: 14px;
+    }
+
+    .sheet-header-mobile-browse {
+      margin-left: -14px;
+      margin-right: -14px;
+      padding-left: 10px;
+      padding-right: 10px;
     }
 
     .tray-row {
