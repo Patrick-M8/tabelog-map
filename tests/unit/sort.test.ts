@@ -92,7 +92,7 @@ describe('sortPlaces', () => {
     expect(sorted.map((place) => place.id)).toEqual(['high', 'low']);
   });
 
-  it('sorts by tabelog rating in descending order', () => {
+  it('sorts by tabelog rating descending before distance', () => {
     const sorted = sortPlaces(
       [
         makePlace('closer', { distanceMeters: 200, tabelog: { score: 3.7, reviews: 100 } }),
@@ -100,10 +100,11 @@ describe('sortPlaces', () => {
       ],
       'tabelogDesc'
     );
+
     expect(sorted.map((place) => place.id)).toEqual(['higher-rated', 'closer']);
   });
 
-  it('sorts by google rating in ascending order', () => {
+  it('sorts by google rating ascending before distance', () => {
     const sorted = sortPlaces(
       [
         makePlace('lower-rated', { distanceMeters: 800, google: { score: 4.1, reviews: 40 } }),
@@ -111,97 +112,7 @@ describe('sortPlaces', () => {
       ],
       'googleAsc'
     );
+
     expect(sorted.map((place) => place.id)).toEqual(['lower-rated', 'higher-rated']);
-  });
-
-  it('sorts by combined average when both review sources are selected', () => {
-    const sorted = sortPlaces(
-      [
-        makePlace('balanced', {
-          tabelog: { score: 3.9, reviews: 100 },
-          google: { score: 4.3, reviews: 150 }
-        }),
-        makePlace('google-heavy', {
-          tabelog: { score: 3.6, reviews: 100 },
-          google: { score: 4.8, reviews: 180 }
-        })
-      ],
-      'reviewsCombinedDesc'
-    );
-
-    expect(sorted.map((place) => place.id)).toEqual(['google-heavy', 'balanced']);
-  });
-
-  it('uses whichever selected score exists and pushes places with no valid scores to the bottom', () => {
-    const sorted = sortPlaces(
-      [
-        makePlace('missing-google', {
-          tabelog: { score: 4.0, reviews: 90 },
-          google: { score: null, reviews: 0 }
-        }),
-        makePlace('both-scores', {
-          tabelog: { score: 3.8, reviews: 120 },
-          google: { score: 4.6, reviews: 240 }
-        }),
-        makePlace('no-scores', {
-          tabelog: { score: null, reviews: 0 },
-          google: { score: null, reviews: 0 }
-        })
-      ],
-      'reviewsCombinedDesc'
-    );
-
-    expect(sorted.map((place) => place.id)).toEqual(['both-scores', 'missing-google', 'no-scores']);
-  });
-
-  it('breaks review-score ties by total reviews and then distance', () => {
-    const sorted = sortPlaces(
-      [
-        makePlace('more-reviews', {
-          distanceMeters: 700,
-          tabelog: { score: 4.0, reviews: 120 },
-          google: { score: 4.0, reviews: 200 }
-        }),
-        makePlace('closer', {
-          distanceMeters: 200,
-          tabelog: { score: 4.0, reviews: 100 },
-          google: { score: 4.0, reviews: 180 }
-        })
-      ],
-      'reviewsCombinedDesc'
-    );
-
-    expect(sorted.map((place) => place.id)).toEqual(['more-reviews', 'closer']);
-  });
-
-  it('penalizes permanently closed places more than temporarily closed ones', () => {
-    const sorted = sortPlaces(
-      [
-        makePlace('temporary', {
-          closure: { state: 'temporarilyClosed', source: 'google', reason: 'maintenance', detectedAt: null },
-          status: {
-            state: 'temporarilyClosed',
-            label: 'Temporarily closed',
-            detail: 'Temporarily closed',
-            closesAt: null,
-            opensAt: null,
-            lastOrderAt: null
-          }
-        }),
-        makePlace('permanent', {
-          closure: { state: 'permanentlyClosed', source: 'google', reason: 'closed permanently', detectedAt: null },
-          status: {
-            state: 'permanentlyClosed',
-            label: 'Closed permanently',
-            detail: 'No longer operating',
-            closesAt: null,
-            opensAt: null,
-            lastOrderAt: null
-          }
-        })
-      ],
-      'best'
-    );
-    expect(sorted.map((place) => place.id)).toEqual(['temporary', 'permanent']);
   });
 });

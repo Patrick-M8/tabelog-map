@@ -78,28 +78,38 @@ export function sortPlaces(places: DisplayPlace[], sortKey: SortKey) {
       return right.priceBucket - left.priceBucket;
     }
 
-    if (sortKey === 'tabelogAsc') {
-      return compareReviewSort(left, right, ['tabelog'], 'asc');
+    if (sortKey === 'tabelogAsc' || sortKey === 'tabelogDesc') {
+      const leftScore = left.tabelog.score ?? (sortKey === 'tabelogAsc' ? Number.POSITIVE_INFINITY : -1);
+      const rightScore = right.tabelog.score ?? (sortKey === 'tabelogAsc' ? Number.POSITIVE_INFINITY : -1);
+      if (leftScore !== rightScore) {
+        return sortKey === 'tabelogAsc' ? leftScore - rightScore : rightScore - leftScore;
+      }
+
+      if (left.tabelog.reviews !== right.tabelog.reviews) {
+        return right.tabelog.reviews - left.tabelog.reviews;
+      }
+
+      return left.distanceMeters - right.distanceMeters;
     }
 
-    if (sortKey === 'tabelogDesc') {
-      return compareReviewSort(left, right, ['tabelog'], 'desc');
+    if (sortKey === 'googleAsc' || sortKey === 'googleDesc') {
+      const leftScore = left.google.score ?? (sortKey === 'googleAsc' ? Number.POSITIVE_INFINITY : -1);
+      const rightScore = right.google.score ?? (sortKey === 'googleAsc' ? Number.POSITIVE_INFINITY : -1);
+      if (leftScore !== rightScore) {
+        return sortKey === 'googleAsc' ? leftScore - rightScore : rightScore - leftScore;
+      }
+
+      if (left.google.reviews !== right.google.reviews) {
+        return right.google.reviews - left.google.reviews;
+      }
+
+      return left.distanceMeters - right.distanceMeters;
     }
 
-    if (sortKey === 'googleAsc') {
-      return compareReviewSort(left, right, ['google'], 'asc');
-    }
-
-    if (sortKey === 'googleDesc') {
-      return compareReviewSort(left, right, ['google'], 'desc');
-    }
-
-    if (sortKey === 'reviewsCombinedAsc') {
-      return compareReviewSort(left, right, ['tabelog', 'google'], 'asc');
-    }
-
-    if (sortKey === 'reviewsCombinedDesc') {
-      return compareReviewSort(left, right, ['tabelog', 'google'], 'desc');
+    if (sortKey === 'closingSoon') {
+      const leftClose = left.status.closesAt ?? '99:99';
+      const rightClose = right.status.closesAt ?? '99:99';
+      return leftClose.localeCompare(rightClose);
     }
 
     const rightStatusWeight =

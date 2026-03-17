@@ -3,24 +3,15 @@
   import { goto } from '$app/navigation';
   import { page } from '$app/stores';
   import { createQuery } from '@tanstack/svelte-query';
-  import { _ } from 'svelte-i18n';
-  import { onDestroy, onMount, tick } from 'svelte';
+  import { onMount, tick } from 'svelte';
 
   import BottomSheet from '$lib/components/BottomSheet.svelte';
   import FilterPanelContent from '$lib/components/FilterPanelContent.svelte';
   import PlaceCard from '$lib/components/PlaceCard.svelte';
-  import { DEFAULT_CENTER, SEARCH_REDRAW_METERS } from '$lib/config';
+  import { DEFAULT_CENTER } from '$lib/config';
   import { loadPlaceDetails, loadPlaceSummary } from '$lib/data/client';
-  import type {
-    ActiveFilters,
-    DisplayPlace,
-    PlaceDetail,
-    PlaceSummary,
-    ReviewSource,
-    SheetSnap,
-    SortKey
-  } from '$lib/types';
-  import { normalizePriceBand } from '$lib/utils/format';
+  import type { ActiveFilters, DisplayPlace, PlaceDetail, PlaceSummary, ReviewSource, SheetSnap, SortKey } from '$lib/types';
+  import { formatPriceRange, normalizePriceBand } from '$lib/utils/format';
   import { haversineDistanceMeters, isInsideBounds, walkMinutesFromDistance } from '$lib/utils/geo';
   import { derivePlaceStatus } from '$lib/utils/hours';
   import { countActiveFilters, summarizeFilters } from '$lib/utils/discovery';
@@ -64,23 +55,16 @@
     priceBands: [],
     categoryKeys: []
   };
-  const REFRESH_PROMPT_VISIBLE_MS = 2200;
-  const REFRESH_PROMPT_FADE_MS = 320;
-
   const PRICE_BANDS = Array.from({ length: 5 }, (_, index) => '\u00A5'.repeat(index + 1));
   const WALK_MINUTE_OPTIONS = [5, 10, 15, 30];
   const REVIEW_SOURCES: ReviewSource[] = ['tabelog', 'google'];
-  const CUISINE_PREVIEW_COUNT = 10;
   let innerWidth = 390;
   let sheetSnap: SheetSnap = 'peek';
-  let traySortState: TraySortState = {
-    ...DEFAULT_TRAY_SORT_STATE,
-    reviewSort: {
-      ...DEFAULT_TRAY_SORT_STATE.reviewSort,
-      sources: [...DEFAULT_TRAY_SORT_STATE.reviewSort.sources]
-    }
-  };
-  let sortKey: SortKey = traySortStateToSortKey(traySortState);
+  let sortKey: SortKey = 'best';
+  let reviewSortSource: ReviewSource = 'tabelog';
+  let reviewSortDirectionState: 'asc' | 'desc' = 'desc';
+  let activeReviewSource: ReviewSource | null = null;
+  let activeReviewDirection: 'asc' | 'desc' = 'desc';
   let activeFilters: ActiveFilters = { ...EMPTY_FILTERS };
   let filterOpen = false;
   let detailOpen = false;
@@ -105,12 +89,11 @@
   let selectedPlace: DisplayPlace | null = null;
   let selectedDetail: PlaceDetail | null = null;
   let availableCategories: { key: string; label: string; count: number }[] = [];
-  let showRedoSearch = false;
-  let redoSearchFading = false;
   let desktop = false;
-  let advancedFilters: ActiveFilters = { ...EMPTY_FILTERS };
-  let advancedFilterCount = 0;
-  let advancedFilterSummary = 'All nearby';
+  let activeFilterCount = 0;
+  let filterSummary = 'All nearby';
+  let priceSortLabel = 'Price ascending';
+  let reviewSortLabel = 'Rating descending';
   let pendingFilterSection: FilterSection = null;
   let categorySectionElement: HTMLElement | null = null;
   let walkSectionElement: HTMLElement | null = null;
@@ -126,82 +109,48 @@
     section: null
   };
   let lastFilterScrollKey = '';
-  let refreshPromptFadeTimer: ReturnType<typeof setTimeout> | null = null;
-  let refreshPromptHideTimer: ReturnType<typeof setTimeout> | null = null;
-  let mapHasInitialized = false;
-  let suppressNextMoveRefreshPrompt = false;
 
   function randomToken(prefix: string) {
     return `${prefix}-${Date.now()}-${Math.random().toString(16).slice(2, 8)}`;
   }
 
-  function clearRefreshPromptTimers() {
-    if (refreshPromptFadeTimer) {
-      clearTimeout(refreshPromptFadeTimer);
-      refreshPromptFadeTimer = null;
-    }
-
-    if (refreshPromptHideTimer) {
-      clearTimeout(refreshPromptHideTimer);
-      refreshPromptHideTimer = null;
-    }
+  function updateFilters(nextFilters: ActiveFilters) {
+    activeFilters = nextFilters;
   }
 
-  function hideRefreshPrompt() {
-    clearRefreshPromptTimers();
-    redoSearchFading = false;
-    showRedoSearch = false;
+  function isReviewSortKey(currentSortKey: SortKey) {
+    return (
+      currentSortKey === 'tabelogAsc' ||
+      currentSortKey === 'tabelogDesc' ||
+      currentSortKey === 'googleAsc' ||
+      currentSortKey === 'googleDesc'
+    );
   }
 
-  function queueRefreshPrompt() {
-    if (!browser) {
+  function reviewSortKey(source: ReviewSource, direction: 'asc' | 'desc'): SortKey {
+    if (source === 'tabelog') {
+      return direction === 'asc' ? 'tabelogAsc' : 'tabelogDesc';
+    }
+
+    return direction === 'asc' ? 'googleAsc' : 'googleDesc';
+  }
+
+  function setReviewSort(source: ReviewSource) {
+    reviewSortSource = source;
+    activeReviewSource = source;
+    activeReviewDirection = reviewSortDirectionState;
+    sortKey = reviewSortKey(source, reviewSortDirectionState);
+  }
+
+  function toggleReviewSortDirection() {
+    const source = activeReviewSource;
+    if (!source) {
       return;
     }
 
-    clearRefreshPromptTimers();
-    showRedoSearch = true;
-    redoSearchFading = false;
-    refreshPromptFadeTimer = setTimeout(() => {
-      redoSearchFading = true;
-    }, REFRESH_PROMPT_VISIBLE_MS);
-    refreshPromptHideTimer = setTimeout(() => {
-      hideRefreshPrompt();
-    }, REFRESH_PROMPT_VISIBLE_MS + REFRESH_PROMPT_FADE_MS);
-  }
-
-  function applyRefreshPrompt() {
-    suppressNextMoveRefreshPrompt = true;
-    searchCenter = { ...mapCenter };
-    focusTarget = { ...mapCenter, token: randomToken('refresh') };
-    hideRefreshPrompt();
-  }
-
-  function updateFilters(nextFilters: ActiveFilters) {
-    activeFilters = nextFilters;
-    queueRefreshPrompt();
-  }
-
-  function applyTraySortState(nextState: TraySortState) {
-    traySortState = {
-      ...nextState,
-      reviewSort: {
-        ...nextState.reviewSort,
-        sources: [...nextState.reviewSort.sources]
-      }
-    };
-    queueRefreshPrompt();
-  }
-
-  function toggleSortOverrideOption(nextMode: 'distance' | 'price') {
-    applyTraySortState(toggleOverrideSort(traySortState, nextMode));
-  }
-
-  function toggleReviewSourceOption(nextSource: ReviewSource) {
-    applyTraySortState(toggleReviewSource(traySortState, nextSource));
-  }
-
-  function toggleReviewDirectionOption() {
-    applyTraySortState(toggleReviewDirection(traySortState));
+    reviewSortDirectionState = reviewSortDirectionState === 'desc' ? 'asc' : 'desc';
+    activeReviewDirection = reviewSortDirectionState;
+    sortKey = reviewSortKey(source, reviewSortDirectionState);
   }
 
   function parseUiView(value: string | null): UiView {
@@ -281,6 +230,12 @@
     void navigateUiState(currentBrowseState({ sheetSnap: desktop ? sheetSnap : 'mid' }), { replace: true });
   }
 
+  function togglePriceSort() {
+    activeReviewSource = null;
+    activeReviewDirection = reviewSortDirectionState;
+    sortKey = sortKey === 'priceAsc' ? 'priceDesc' : 'priceAsc';
+  }
+
   function setWalkMinutes(minutes: number) {
     updateFilters({
       ...activeFilters,
@@ -334,8 +289,17 @@
   function toggleOpeningSoonFilter() {
     updateFilters({
       ...activeFilters,
-      openingSoon: !activeFilters.openingSoon
+      openNow: false,
+      closingSoon: false
     });
+  }
+
+  function setSortKey(nextSortKey: SortKey) {
+    if (!isReviewSortKey(nextSortKey)) {
+      activeReviewSource = null;
+      activeReviewDirection = reviewSortDirectionState;
+    }
+    sortKey = nextSortKey;
   }
 
   function resetAvailabilityFilters() {
@@ -565,10 +529,11 @@
       DetailSheetComponent = detailSheet;
       requestGeolocation();
     })();
-  });
 
-  onDestroy(() => {
-    clearRefreshPromptTimers();
+    if (isReviewSortKey(sortKey)) {
+      activeReviewSource = reviewSortSource;
+      activeReviewDirection = reviewSortDirectionState;
+    }
   });
 
   $: desktop = innerWidth >= 960;
@@ -581,17 +546,10 @@
   $: summaries = $summaryQuery.data ?? [];
   $: details = $detailQuery.data ?? {};
   $: availableCategories = visibleCategories(summaries);
-  $: advancedFilters = toAdvancedFilters(activeFilters);
-  $: advancedFilterCount = countActiveFilters(advancedFilters);
-  $: advancedFilterSummary = summarizeFilters(advancedFilters);
-  $: distanceSortActive = traySortState.overrideMode === 'distance';
-  $: priceSortActive = traySortState.overrideMode === 'price';
-  $: activeReviewSources = traySortState.reviewSort.sources;
-  $: reviewSortActive = activeReviewSources.length > 0;
-  $: distanceSortLabel = distanceSortActive ? `📍 ${traySortState.overrideDirection === 'desc' ? '↓' : '↑'}` : '📍';
-  $: priceSortLabel = priceSortActive ? `¥ ${traySortState.overrideDirection === 'desc' ? '↓' : '↑'}` : '¥';
-  $: reviewDirectionLabel = traySortState.reviewSort.direction === 'asc' ? '↑' : '↓';
-  $: sortKey = traySortStateToSortKey(traySortState);
+  $: activeFilterCount = countActiveFilters(activeFilters);
+  $: filterSummary = summarizeFilters(activeFilters);
+  $: priceSortLabel = sortKey === 'priceDesc' ? 'Price descending' : 'Price ascending';
+  $: reviewSortLabel = activeReviewDirection === 'asc' ? 'Rating ascending' : 'Rating descending';
   $: candidatePlaces = summaries
     .map((place) => {
       const distanceMeters = haversineDistanceMeters(searchCenter, { lat: place.lat, lng: place.lng });
@@ -669,23 +627,9 @@
         {desktop}
         on:moveend={(event) => {
           const nextCenter = event.detail.center;
-          const movedDistance = haversineDistanceMeters(mapCenter, nextCenter);
-          mapCenter = event.detail.center;
+          mapCenter = nextCenter;
+          searchCenter = nextCenter;
           mapBounds = event.detail.bounds;
-
-          if (!mapHasInitialized) {
-            mapHasInitialized = true;
-            return;
-          }
-
-          if (suppressNextMoveRefreshPrompt) {
-            suppressNextMoveRefreshPrompt = false;
-            return;
-          }
-
-          if (movedDistance > SEARCH_REDRAW_METERS) {
-            queueRefreshPrompt();
-          }
         }}
         on:select={(event) => handleMapSelect(event.detail.id)}
       />
@@ -711,6 +655,9 @@
       </div>
 
       <div class="top-actions">
+        <button type="button" class="filter-pill filter-pill-utility" on:click={() => openFilters()}>
+          Filters{#if activeFilterCount > 0} {activeFilterCount}{/if}
+        </button>
         <button type="button" class="icon-button icon-button-square" aria-label="Use my location" on:click={useUserLocation}>
           <svg viewBox="0 0 24 24" aria-hidden="true">
             <path
@@ -720,17 +667,6 @@
         </button>
       </div>
     </div>
-
-    {#if showRedoSearch}
-      <button
-        type="button"
-        class="viewport-chip"
-        class:fading={redoSearchFading}
-        on:click={applyRefreshPrompt}
-      >
-        {$_('searchArea')}
-      </button>
-    {/if}
 
     {#if filterOpen && desktop}
       <button type="button" class="panel-scrim" aria-label="Close filters" on:click={closeFilters}></button>
@@ -807,67 +743,73 @@
             </div>
           {/if}
         {:else}
-          <div class="sheet-top-zone" data-sheet-drag-zone>
-            <div class="sheet-header">
-              <div>
-                <h1>{selectedPlace?.station ?? 'Restaurants near the current map'}</h1>
-                <p class="sheet-meta">{placesInViewLabel(sortedPlaces.length, visiblePlaces.length)}</p>
-                {#if advancedFilterCount > 0}
-                  <p class="sheet-summary">{advancedFilterSummary}</p>
-                {/if}
-              </div>
+          <div class="sheet-header">
+            <div>
+              <p class="eyebrow">{placesInViewLabel(sortedPlaces.length, visiblePlaces.length)}</p>
+              <h1>Tabelog Hyakumeiten</h1>
+              <p class="sheet-summary">{filterSummary}</p>
             </div>
+          </div>
 
-            <div class="tray-toolbar">
-              <div class="segment-row segment-row-toolbar">
-                <button type="button" class="toolbar-pill" class:active={activeFilters.openNow} on:click={toggleOpenNowFilter}>
-                  <span class="toolbar-pill-label">Open</span>
-                </button>
-                <button
-                  type="button"
-                  class="toolbar-pill toolbar-pill-emoji"
-                  class:active={distanceSortActive}
-                  aria-label={`Sort by distance${distanceSortActive ? ` ${traySortState.overrideDirection === 'desc' ? 'descending' : 'ascending'}` : ''}`}
-                  on:click={() => toggleSortOverrideOption('distance')}
-                >
-                  <span class="toolbar-pill-label toolbar-pill-label-emoji">{distanceSortLabel}</span>
-                </button>
-                <button
-                  type="button"
-                  class="toolbar-pill toolbar-pill-emoji"
-                  class:active={priceSortActive}
-                  aria-label={`Sort by price${priceSortActive ? ` ${traySortState.overrideDirection === 'desc' ? 'descending' : 'ascending'}` : ''}`}
-                  on:click={() => toggleSortOverrideOption('price')}
-                >
-                  <span class="toolbar-pill-label toolbar-pill-label-emoji">{priceSortLabel}</span>
-                </button>
-                <div class="review-segment review-segment-inline" class:active={reviewSortActive}>
-                  {#each REVIEW_SOURCES as source}
-                    <button
-                      type="button"
-                      class="review-segment-option"
-                      class:tabelog={source === 'tabelog'}
-                      class:google={source === 'google'}
-                      class:active={activeReviewSources.includes(source)}
-                      aria-pressed={activeReviewSources.includes(source)}
-                      aria-label={`Sort by ${source === 'tabelog' ? 'Tabelog' : 'Google'} rating`}
-                      on:click={() => toggleReviewSourceOption(source)}
-                    >
-                      <img src={source === 'tabelog' ? '/brands/tabelog-mark.svg' : '/brands/google-mark.svg'} alt="" />
-                    </button>
-                  {/each}
-                </div>
-                <button
-                  type="button"
-                  class="review-direction-pill"
-                  class:active={reviewSortActive}
-                  disabled={!reviewSortActive}
-                  aria-label={`Review order ${traySortState.reviewSort.direction === 'desc' ? 'descending' : 'ascending'}`}
-                  on:click={toggleReviewDirectionOption}
-                >
-                  {reviewDirectionLabel}
-                </button>
+          <div class="segment-row tray-row">
+            <button type="button" class="tray-pill" class:active={sortKey === 'best'} on:click={() => setSortKey('best')}>Best</button>
+            <button type="button" class="tray-pill" class:active={sortKey === 'distance'} on:click={() => setSortKey('distance')}>Near</button>
+            <button
+              type="button"
+              class="tray-pill tray-pill-price"
+              aria-label={priceSortLabel}
+              class:active={sortKey === 'priceAsc' || sortKey === 'priceDesc'}
+              on:click={togglePriceSort}
+            >
+              ¥
+              <span class="sort-icon" aria-hidden="true">
+                {#if sortKey === 'priceDesc'}
+                  <svg viewBox="0 0 12 12">
+                    <path d="M6 2.25v7.5M6 9.75 3.75 7.5M6 9.75 8.25 7.5" />
+                  </svg>
+                {:else}
+                  <svg viewBox="0 0 12 12">
+                    <path d="M6 9.75v-7.5M6 2.25 3.75 4.5M6 2.25 8.25 4.5" />
+                  </svg>
+                {/if}
+              </span>
+            </button>
+            <div class="tray-ratings" role="group" aria-label="Review rating sort" class:active={activeReviewSource !== null}>
+              <div class="review-segment">
+                {#each REVIEW_SOURCES as source}
+                  <button
+                    type="button"
+                    class="review-segment-option"
+                    class:active={activeReviewSource === source}
+                    class:tabelog={source === 'tabelog'}
+                    class:google={source === 'google'}
+                    aria-label={`Sort by ${source === 'tabelog' ? 'Tabelog' : 'Google'} rating`}
+                    aria-pressed={activeReviewSource === source ? 'true' : 'false'}
+                    on:click={() => setReviewSort(source)}
+                  >
+                    <img src={source === 'tabelog' ? '/brands/tabelog-mark.svg' : '/brands/google-mark.svg'} alt="" />
+                  </button>
+                {/each}
               </div>
+              <button
+                type="button"
+                class="tray-pill tray-pill-direction review-direction"
+                aria-label={reviewSortLabel}
+                class:active={activeReviewSource !== null}
+                on:click={toggleReviewSortDirection}
+              >
+                <span class="sort-icon" aria-hidden="true">
+                  {#if activeReviewDirection === 'desc'}
+                    <svg viewBox="0 0 12 12">
+                      <path d="M6 2.25v7.5M6 9.75 3.75 7.5M6 9.75 8.25 7.5" />
+                    </svg>
+                  {:else}
+                    <svg viewBox="0 0 12 12">
+                      <path d="M6 9.75v-7.5M6 2.25 3.75 4.5M6 2.25 8.25 4.5" />
+                    </svg>
+                  {/if}
+                </span>
+              </button>
             </div>
           </div>
 
@@ -966,67 +908,73 @@
           </div>
         {/if}
       {:else}
-        <div class="sheet-top-zone sheet-top-zone-mobile" data-sheet-drag-zone>
-          <div class="sheet-header sheet-header-mobile-compact">
-            <div>
-              <h1>Restaurants nearby</h1>
-              <p class="sheet-meta">{placesInViewLabel(sortedPlaces.length, visiblePlaces.length)}</p>
-              {#if advancedFilterCount > 0}
-                <p class="sheet-summary">{advancedFilterSummary}</p>
-              {/if}
-            </div>
+        <div class="sheet-header">
+          <div>
+            <p class="eyebrow">{placesInViewLabel(sortedPlaces.length, visiblePlaces.length)}</p>
+            <h1>Tabelog Hyakumeiten</h1>
+            <p class="sheet-summary">{filterSummary}</p>
           </div>
+        </div>
 
-          <div class="tray-toolbar">
-            <div class="segment-row segment-row-mobile segment-row-toolbar">
-              <button type="button" class="toolbar-pill" class:active={activeFilters.openNow} on:click={toggleOpenNowFilter}>
-                <span class="toolbar-pill-label">Open</span>
-              </button>
-              <button
-                type="button"
-                class="toolbar-pill toolbar-pill-emoji"
-                class:active={distanceSortActive}
-                aria-label={`Sort by distance${distanceSortActive ? ` ${traySortState.overrideDirection === 'desc' ? 'descending' : 'ascending'}` : ''}`}
-                on:click={() => toggleSortOverrideOption('distance')}
-              >
-                <span class="toolbar-pill-label toolbar-pill-label-emoji">{distanceSortLabel}</span>
-              </button>
-              <button
-                type="button"
-                class="toolbar-pill toolbar-pill-emoji"
-                class:active={priceSortActive}
-                aria-label={`Sort by price${priceSortActive ? ` ${traySortState.overrideDirection === 'desc' ? 'descending' : 'ascending'}` : ''}`}
-                on:click={() => toggleSortOverrideOption('price')}
-              >
-                <span class="toolbar-pill-label toolbar-pill-label-emoji">{priceSortLabel}</span>
-              </button>
-              <div class="review-segment review-segment-inline" class:active={reviewSortActive}>
-                {#each REVIEW_SOURCES as source}
-                  <button
-                    type="button"
-                    class="review-segment-option"
-                    class:tabelog={source === 'tabelog'}
-                    class:google={source === 'google'}
-                    class:active={activeReviewSources.includes(source)}
-                    aria-pressed={activeReviewSources.includes(source)}
-                    aria-label={`Sort by ${source === 'tabelog' ? 'Tabelog' : 'Google'} rating`}
-                    on:click={() => toggleReviewSourceOption(source)}
-                  >
-                    <img src={source === 'tabelog' ? '/brands/tabelog-mark.svg' : '/brands/google-mark.svg'} alt="" />
-                  </button>
-                {/each}
-              </div>
-              <button
-                type="button"
-                class="review-direction-pill"
-                class:active={reviewSortActive}
-                disabled={!reviewSortActive}
-                aria-label={`Review order ${traySortState.reviewSort.direction === 'desc' ? 'descending' : 'ascending'}`}
-                on:click={toggleReviewDirectionOption}
-              >
-                {reviewDirectionLabel}
-              </button>
+        <div class="segment-row segment-row-mobile tray-row">
+          <button type="button" class="tray-pill" class:active={sortKey === 'best'} on:click={() => setSortKey('best')}>Best</button>
+          <button type="button" class="tray-pill" class:active={sortKey === 'distance'} on:click={() => setSortKey('distance')}>Near</button>
+          <button
+            type="button"
+            class="tray-pill tray-pill-price"
+            aria-label={priceSortLabel}
+            class:active={sortKey === 'priceAsc' || sortKey === 'priceDesc'}
+            on:click={togglePriceSort}
+          >
+            ¥
+            <span class="sort-icon" aria-hidden="true">
+              {#if sortKey === 'priceDesc'}
+                <svg viewBox="0 0 12 12">
+                  <path d="M6 2.25v7.5M6 9.75 3.75 7.5M6 9.75 8.25 7.5" />
+                </svg>
+              {:else}
+                <svg viewBox="0 0 12 12">
+                  <path d="M6 9.75v-7.5M6 2.25 3.75 4.5M6 2.25 8.25 4.5" />
+                </svg>
+              {/if}
+            </span>
+          </button>
+          <div class="tray-ratings" role="group" aria-label="Review rating sort" class:active={activeReviewSource !== null}>
+            <div class="review-segment">
+              {#each REVIEW_SOURCES as source}
+                <button
+                  type="button"
+                  class="review-segment-option"
+                  class:active={activeReviewSource === source}
+                  class:tabelog={source === 'tabelog'}
+                  class:google={source === 'google'}
+                  aria-label={`Sort by ${source === 'tabelog' ? 'Tabelog' : 'Google'} rating`}
+                  aria-pressed={activeReviewSource === source ? 'true' : 'false'}
+                  on:click={() => setReviewSort(source)}
+                >
+                  <img src={source === 'tabelog' ? '/brands/tabelog-mark.svg' : '/brands/google-mark.svg'} alt="" />
+                </button>
+              {/each}
             </div>
+            <button
+              type="button"
+              class="tray-pill tray-pill-direction review-direction"
+              aria-label={reviewSortLabel}
+              class:active={activeReviewSource !== null}
+              on:click={toggleReviewSortDirection}
+            >
+              <span class="sort-icon" aria-hidden="true">
+                {#if activeReviewDirection === 'desc'}
+                  <svg viewBox="0 0 12 12">
+                    <path d="M6 2.25v7.5M6 9.75 3.75 7.5M6 9.75 8.25 7.5" />
+                  </svg>
+                {:else}
+                  <svg viewBox="0 0 12 12">
+                    <path d="M6 9.75v-7.5M6 2.25 3.75 4.5M6 2.25 8.25 4.5" />
+                  </svg>
+                {/if}
+              </span>
+            </button>
           </div>
         </div>
 
@@ -1102,7 +1050,6 @@
   }
 
   .top-chrome,
-  .viewport-chip,
   .floating-panel,
   .panel-scrim {
     position: absolute;
@@ -1147,46 +1094,29 @@
 
   .filter-pill {
     flex: 0 0 auto;
-    min-height: 40px;
-    padding: 9px 13px;
+    min-height: 44px;
+    padding: 10px 14px;
+    border: 1px solid rgba(15, 23, 42, 0.08);
     font-weight: 600;
+    letter-spacing: -0.01em;
     line-height: 1.1;
-    backdrop-filter: blur(12px);
-    border: 1px solid rgba(23, 25, 28, 0.08);
+    box-shadow:
+      inset 0 1px 0 rgba(255, 255, 255, 0.78),
+      0 10px 24px rgba(15, 23, 42, 0.08);
+    backdrop-filter: blur(18px) saturate(1.05);
   }
 
   .filter-pill.active {
-    background: rgba(23, 25, 28, 0.08);
-    color: var(--ink);
-    border-color: rgba(23, 25, 28, 0.14);
+    background: #17191c;
+    color: #f8f7f4;
+    border-color: transparent;
+    box-shadow:
+      inset 0 1px 0 rgba(255, 255, 255, 0.08),
+      0 14px 28px rgba(15, 23, 42, 0.18);
   }
 
-  .filter-pill-filters {
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-    min-height: 38px;
-    padding: 8px 12px;
-    font-size: 0.84rem;
-  }
-
-  .filter-count-badge {
-    min-width: 18px;
-    height: 18px;
-    padding: 0 5px;
-    border-radius: 999px;
-    display: inline-grid;
-    place-items: center;
-    background: rgba(23, 25, 28, 0.1);
-    color: var(--ink);
-    font-size: 0.72rem;
-    line-height: 1;
-    font-weight: 700;
-  }
-
-  .filter-pill.active .filter-count-badge {
-    background: rgba(23, 25, 28, 0.12);
-    color: var(--ink);
+  .filter-pill-utility {
+    padding-inline: 16px;
   }
 
   .top-actions {
@@ -1217,28 +1147,6 @@
     width: 20px;
     height: 20px;
     fill: currentColor;
-  }
-
-  .viewport-chip {
-    top: calc(72px + env(safe-area-inset-top));
-    left: 50%;
-    transform: translateX(-50%);
-    padding: 11px 16px;
-    border: 0;
-    border-radius: 999px;
-    background: #17191c;
-    color: #f8f7f4;
-    box-shadow: var(--shadow-strong);
-    animation: viewport-rise 220ms ease both;
-    transition:
-      opacity 320ms ease,
-      transform 320ms ease;
-  }
-
-  .viewport-chip.fading {
-    opacity: 0;
-    transform: translateX(-50%) translateY(-4px);
-    pointer-events: none;
   }
 
   .panel-scrim {
@@ -1311,11 +1219,13 @@
   }
 
   .ghost-chip {
-    min-height: 40px;
-    padding: 10px 14px;
-    background: rgba(255, 255, 255, 0.78);
-    border: 1px solid rgba(23, 25, 28, 0.08);
-    box-shadow: none;
+    padding: 11px 14px;
+    background: rgba(255, 255, 255, 0.68);
+    border: 1px solid rgba(15, 23, 42, 0.08);
+    box-shadow:
+      inset 0 1px 0 rgba(255, 255, 255, 0.78),
+      0 10px 24px rgba(15, 23, 42, 0.08);
+    backdrop-filter: blur(18px) saturate(1.05);
   }
 
   .ghost-chip-icon {
@@ -1451,37 +1361,128 @@
     background: rgba(247, 246, 243, 0.92);
   }
 
-  .review-segment-option,
-  .review-direction-pill {
-    min-height: 40px;
-    border: 0;
-    border-radius: 999px;
-    background: transparent;
-    color: var(--ink-soft);
-    transition:
-      background-color 180ms ease,
-      color 180ms ease,
-      transform 180ms ease,
-      opacity 180ms ease;
+  .segment-row {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 4px;
+    margin-bottom: 14px;
+    align-items: center;
+    min-width: 0;
   }
 
-  .review-segment-option {
+  .sort-icon {
+    width: 12px;
+    height: 12px;
     display: inline-flex;
     align-items: center;
     justify-content: center;
     padding: 0 8px;
   }
 
+  .sort-icon svg {
+    width: 12px;
+    height: 12px;
+    fill: none;
+    stroke: currentColor;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-width: 1.5;
+  }
+
+  .tray-row {
+    gap: 4px;
+  }
+
+  .tray-pill {
+    min-width: 0;
+    min-height: 36px;
+    padding: 0 12px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+    flex: 0 0 auto;
+    border: 1px solid rgba(15, 23, 42, 0.08);
+    background: rgba(255, 255, 255, 0.68);
+    color: #111827;
+    box-shadow:
+      inset 0 1px 0 rgba(255, 255, 255, 0.78),
+      0 10px 24px rgba(15, 23, 42, 0.08);
+    backdrop-filter: blur(18px) saturate(1.05);
+    letter-spacing: -0.01em;
+  }
+
+  .tray-pill.active {
+    background: rgba(17, 24, 39, 0.88);
+    color: #f8fafc;
+    border-color: transparent;
+    box-shadow:
+      inset 0 1px 0 rgba(255, 255, 255, 0.08),
+      0 14px 28px rgba(15, 23, 42, 0.18);
+  }
+
+  .tray-pill-price {
+    min-width: 42px;
+    font-weight: 700;
+  }
+
+  .tray-pill-direction {
+    min-width: 34px;
+    padding-inline: 9px;
+  }
+
+  .tray-ratings {
+    display: inline-flex;
+    align-items: stretch;
+    flex: 0 0 auto;
+    overflow: hidden;
+    border-radius: 999px;
+    border: 1px solid rgba(15, 23, 42, 0.08);
+    background: rgba(255, 255, 255, 0.68);
+    box-shadow:
+      inset 0 1px 0 rgba(255, 255, 255, 0.78),
+      0 10px 24px rgba(15, 23, 42, 0.08);
+    backdrop-filter: blur(18px) saturate(1.05);
+  }
+
+  .tray-ratings.active {
+    box-shadow:
+      inset 0 1px 0 rgba(255, 255, 255, 0.78),
+      0 12px 24px rgba(15, 23, 42, 0.1);
+  }
+
+  .review-segment {
+    display: inline-flex;
+    align-items: stretch;
+    background: transparent;
+  }
+
+  .review-segment-option {
+    min-height: 36px;
+    padding: 0 8px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: transparent;
+    border: 0;
+    border-radius: 0;
+    flex: 0 0 auto;
+  }
+
+  .review-segment-option + .review-segment-option {
+    border-left: 1px solid rgba(15, 23, 42, 0.08);
+  }
+
   .review-segment-option img {
-    width: 34px;
-    height: 20px;
+    width: 18px;
+    height: 18px;
     object-fit: contain;
     pointer-events: none;
   }
 
   .review-segment-option.tabelog img {
-    width: 32px;
-    height: 18px;
+    width: 24px;
+    height: 14px;
   }
 
   .review-segment-option.active.tabelog {
@@ -1492,90 +1493,20 @@
     background: rgba(66, 133, 244, 0.12);
   }
 
-  .review-direction-pill {
+  .review-direction {
     min-width: 34px;
-    padding: 0 10px;
-    background: rgba(255, 255, 255, 0.84);
-    border: 1px solid rgba(23, 25, 28, 0.08);
-    box-shadow: var(--shadow-soft);
-    color: var(--ink);
-    font-weight: 700;
-  }
-
-  .review-direction-pill.active {
-    background: #17191c;
-    color: #f8f7f4;
-  }
-
-  .review-direction-pill:disabled {
-    opacity: 0.48;
+    border: 0;
+    border-left: 1px solid rgba(15, 23, 42, 0.08);
+    border-radius: 0;
+    background: transparent;
     box-shadow: none;
   }
 
-  .sheet-meta {
-    margin: 3px 0 0;
-    color: rgba(23, 25, 28, 0.58);
-    font-size: 0.8rem;
-    line-height: 1.25;
-  }
-
-  .sheet-header-mobile-compact {
-    margin-bottom: 8px;
-  }
-
-  .sheet-header-mobile-compact h1 {
-    font-size: 1.1rem;
-    line-height: 1.08;
-  }
-
-  .mobile-filter-shell {
-    display: grid;
-    gap: 12px;
-    padding-bottom: env(safe-area-inset-bottom);
-  }
-
-  .sheet-header-sticky {
-    position: sticky;
-    top: -1px;
-    z-index: 3;
-    padding: 2px 0 10px;
-    margin-bottom: 0;
-    background: linear-gradient(
-      180deg,
-      color-mix(in srgb, var(--sheet-bg) 96%, white 4%) 0%,
-      color-mix(in srgb, var(--sheet-bg) 90%, white 10%) 78%,
-      rgba(247, 246, 243, 0) 100%
-    );
-    backdrop-filter: blur(14px);
-  }
-
-  .sheet-header-mobile h1 {
-    font-size: 1.14rem;
-    line-height: 1.08;
-  }
-
-  .filter-section-stack {
-    display: grid;
-    gap: 12px;
-    padding-bottom: 18px;
-  }
-
-  .filter-footer-sticky {
-    position: sticky;
-    bottom: calc(-1 * env(safe-area-inset-bottom));
-    z-index: 3;
-    padding: 14px 0 calc(6px + env(safe-area-inset-bottom));
-    margin-top: 0;
-    background: linear-gradient(180deg, rgba(247, 246, 243, 0) 0%, rgba(247, 246, 243, 0.94) 18%, rgba(247, 246, 243, 0.99) 100%);
-    backdrop-filter: blur(14px);
-  }
-
-  .filter-footer {
-    justify-content: flex-end;
-  }
-
-  .filter-footer.with-clear {
-    justify-content: space-between;
+  .review-direction.active {
+    background: rgba(15, 23, 42, 0.05);
+    color: #111827;
+    border-color: rgba(15, 23, 42, 0.08);
+    box-shadow: none;
   }
 
   .empty-state,
@@ -1630,18 +1561,6 @@
     }
   }
 
-  @keyframes viewport-rise {
-    from {
-      opacity: 0;
-      transform: translateX(-50%) translateY(10px);
-    }
-
-    to {
-      opacity: 1;
-      transform: translateX(-50%) translateY(0);
-    }
-  }
-
   @media (min-width: 960px) {
     .app-shell.desktop .map-region {
       order: 2;
@@ -1651,10 +1570,6 @@
       left: 24px;
       right: 24px;
       top: calc(18px + env(safe-area-inset-top));
-    }
-
-    .viewport-chip {
-      top: calc(90px + env(safe-area-inset-top));
     }
 
     .floating-panel {
@@ -1690,45 +1605,34 @@
       padding: 14px;
     }
 
-    .sheet-header-mobile-compact {
-      margin-bottom: 6px;
+    .tray-row {
+      gap: 3px;
     }
 
-    .list-stack {
-      gap: 10px;
-    }
-
-    .segment-row-mobile {
-      flex-wrap: nowrap;
-      gap: 4px;
-      overflow: visible;
-      padding-bottom: 0;
-    }
-
-    .toolbar-pill {
+    .tray-pill {
       min-height: 34px;
-      padding: 7px 9px;
-      font-size: 0.78rem;
+      padding: 0 10px;
+      font-size: 0.84rem;
     }
 
-    .toolbar-pill-emoji {
-      min-width: 40px;
+    .tray-pill-direction {
+      min-width: 32px;
       padding-inline: 8px;
     }
 
-    .review-segment-option,
-    .review-direction-pill {
+    .review-segment-option {
       min-height: 34px;
+      padding-inline: 7px;
     }
 
     .review-segment-option img {
-      width: 30px;
-      height: 18px;
+      width: 17px;
+      height: 17px;
     }
 
     .review-segment-option.tabelog img {
-      width: 28px;
-      height: 16px;
+      width: 22px;
+      height: 13px;
     }
   }
 </style>

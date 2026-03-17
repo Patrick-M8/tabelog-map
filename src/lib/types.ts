@@ -1,27 +1,17 @@
 export type HoursConfidence = 'low' | 'medium' | 'high';
 export type ConsensusGrade = 'A' | 'B' | 'C' | 'D' | 'E';
 export type SheetSnap = 'peek' | 'mid' | 'full';
-export type SortDirection = 'asc' | 'desc';
 export type ReviewSource = 'tabelog' | 'google';
 export type SortKey =
   | 'best'
-  | 'distanceAsc'
-  | 'distanceDesc'
+  | 'closingSoon'
+  | 'distance'
   | 'priceAsc'
   | 'priceDesc'
   | 'tabelogAsc'
   | 'tabelogDesc'
   | 'googleAsc'
-  | 'googleDesc'
-  | 'reviewsCombinedAsc'
-  | 'reviewsCombinedDesc';
-export type ClosureState = 'active' | 'temporarilyClosed' | 'permanentlyClosed' | 'unknown';
-
-export interface LastOrderDetail {
-  generic?: string;
-  food?: string;
-  drinks?: string;
-}
+  | 'googleDesc';
 
 export interface DailyWindow {
   open: string;

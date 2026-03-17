@@ -1,0 +1,388 @@
+{
+  "categories": [
+    {
+      "key": "asian-ethnic",
+      "label": "Asian Ethnic",
+      "url": "geojson/asian-ethnic_v2025.min.geojson",
+      "count": 299,
+      "bbox": [
+        127.704725,
+        26.23656,
+        143.183678,
+        43.098635
+      ]
+    },
+    {
+      "key": "bakery",
+      "label": "Bakery",
+      "url": "geojson/bakery_v2025.min.geojson",
+      "count": 299,
+      "bbox": [
+        129.873718,
+        32.748853,
+        143.191711,
+        43.205053
+      ]
+    },
+    {
+      "key": "bar",
+      "label": "Bar",
+      "url": "geojson/bar_v2025.min.geojson",
+      "count": 100,
+      "bbox": [
+        127.678074,
+        26.214786,
+        141.493489,
+        43.056775
+      ]
+    },
+    {
+      "key": "cafe",
+      "label": "Cafe",
+      "url": "geojson/cafe_v2025.min.geojson",
+      "count": 200,
+      "bbox": [
+        127.812378,
+        26.162122,
+        141.318616,
+        43.053293
+      ]
+    },
+    {
+      "key": "creative-cuisine-innovative",
+      "label": "Creative Cuisine/Innovative",
+      "url": "geojson/creative-cuisine-innovative_v2025.min.geojson",
+      "count": 100,
+      "bbox": [
+        127.923002,
+        26.526637,
+        141.353004,
+        43.187179
+      ]
+    },
+    {
+      "key": "curry",
+      "label": "Curry",
+      "url": "geojson/curry_v2025.min.geojson",
+      "count": 298,
+      "bbox": [
+        130.373839,
+        33.581013,
+        142.38946,
+        43.344792
+      ]
+    },
+    {
+      "key": "french",
+      "label": "French",
+      "url": "geojson/french_v2025.min.geojson",
+      "count": 300,
+      "bbox": [
+        125.286032,
+        24.837942,
+        144.962118,
+        43.590749
+      ]
+    },
+    {
+      "key": "gyoza",
+      "label": "Gyoza",
+      "url": "geojson/gyoza_v2025.min.geojson",
+      "count": 100,
+      "bbox": [
+        129.877809,
+        32.580612,
+        141.354513,
+        43.055085
+      ]
+    },
+    {
+      "key": "hamburger",
+      "label": "Hamburger",
+      "url": "geojson/hamburger_v2025.min.geojson",
+      "count": 100,
+      "bbox": [
+        125.286812,
+        24.795736,
+        141.709449,
+        41.771767
+      ]
+    },
+    {
+      "key": "ice-cream-gelato",
+      "label": "Ice Cream & Gelato",
+      "url": "geojson/ice-cream-gelato_v2025.min.geojson",
+      "count": 100,
+      "bbox": [
+        124.122655,
+        24.34058,
+        144.870304,
+        43.95622
+      ]
+    },
+    {
+      "key": "italian",
+      "label": "Italian",
+      "url": "geojson/italian_v2025.min.geojson",
+      "count": 299,
+      "bbox": [
+        127.768698,
+        26.440234,
+        142.514834,
+        43.551624
+      ]
+    },
+    {
+      "key": "izakaya",
+      "label": "Izakaya",
+      "url": "geojson/izakaya_v2025.min.geojson",
+      "count": 144,
+      "bbox": [
+        124.152487,
+        24.339958,
+        142.356471,
+        43.768209
+      ]
+    },
+    {
+      "key": "japanese",
+      "label": "Japanese",
+      "url": "geojson/japanese_v2025.min.geojson",
+      "count": 295,
+      "bbox": [
+        130.067524,
+        31.814477,
+        141.795984,
+        43.06023
+      ]
+    },
+    {
+      "key": "okonomiyaki",
+      "label": "Okonomiyaki",
+      "url": "geojson/okonomiyaki_v2025.min.geojson",
+      "count": 75,
+      "bbox": [
+        130.654167,
+        31.855038,
+        140.461381,
+        37.754317
+      ]
+    },
+    {
+      "key": "pizza",
+      "label": "Pizza",
+      "url": "geojson/pizza_v2025.min.geojson",
+      "count": 100,
+      "bbox": [
+        127.681684,
+        26.215984,
+        143.181849,
+        43.048201
+      ]
+    },
+    {
+      "key": "ramen",
+      "label": "Ramen",
+      "url": "geojson/ramen_v2025.min.geojson",
+      "count": 595,
+      "bbox": [
+        130.260462,
+        31.951199,
+        144.379549,
+        43.775244
+      ]
+    },
+    {
+      "key": "shokudo-japanese-diner",
+      "label": "Shokudo (Japanese Diner)",
+      "url": "geojson/shokudo-japanese-diner_v2025.min.geojson",
+      "count": 100,
+      "bbox": [
+        124.160226,
+        24.353449,
+        145.179226,
+        45.301968
+      ]
+    },
+    {
+      "key": "soba",
+      "label": "Soba",
+      "url": "geojson/soba_v2025.min.geojson",
+      "count": 199,
+      "bbox": [
+        130.105288,
+        31.591658,
+        141.284633,
+        43.076673
+      ]
+    },
+    {
+      "key": "spanish",
+      "label": "Spanish",
+      "url": "geojson/spanish_v2025.min.geojson",
+      "count": 98,
+      "bbox": [
+        130.372782,
+        31.588236,
+        141.35418,
+        43.055983
+      ]
+    },
+    {
+      "key": "steak-teppanyaki",
+      "label": "Steak, Teppanyaki",
+      "url": "geojson/steak-teppanyaki_v2025.min.geojson",
+      "count": 151,
+      "bbox": [
+        124.156919,
+        24.339629,
+        141.354422,
+        43.056095
+      ]
+    },
+    {
+      "key": "sukiyaki-shabushabu",
+      "label": "Sukiyaki, Shabushabu",
+      "url": "geojson/sukiyaki-shabushabu_v2025.min.geojson",
+      "count": 99,
+      "bbox": [
+        127.674481,
+        26.216643,
+        141.356069,
+        43.057465
+      ]
+    },
+    {
+      "key": "sushi",
+      "label": "Sushi",
+      "url": "geojson/sushi_v2025.min.geojson",
+      "count": 300,
+      "bbox": [
+        129.970114,
+        31.544126,
+        142.357156,
+        43.768868
+      ]
+    },
+    {
+      "key": "sweets",
+      "label": "Sweets",
+      "url": "geojson/sweets_v2025.min.geojson",
+      "count": 297,
+      "bbox": [
+        127.794721,
+        26.436274,
+        142.426512,
+        43.479153
+      ]
+    },
+    {
+      "key": "tempura",
+      "label": "Tempura",
+      "url": "geojson/tempura_v2025.min.geojson",
+      "count": 100,
+      "bbox": [
+        130.392659,
+        32.800042,
+        141.353571,
+        43.055451
+      ]
+    },
+    {
+      "key": "tonkatsu",
+      "label": "Tonkatsu",
+      "url": "geojson/tonkatsu_v2025.min.geojson",
+      "count": 99,
+      "bbox": [
+        130.390457,
+        31.582155,
+        141.354801,
+        43.056822
+      ]
+    },
+    {
+      "key": "udon",
+      "label": "Udon",
+      "url": "geojson/udon_v2025.min.geojson",
+      "count": 300,
+      "bbox": [
+        130.391561,
+        31.914835,
+        139.881838,
+        36.678053
+      ]
+    },
+    {
+      "key": "unagi",
+      "label": "Unagi",
+      "url": "geojson/unagi_v2025.min.geojson",
+      "count": 100,
+      "bbox": [
+        129.970327,
+        31.510523,
+        140.869174,
+        38.26633
+      ]
+    },
+    {
+      "key": "wagashi",
+      "label": "Wagashi",
+      "url": "geojson/wagashi_v2025.min.geojson",
+      "count": 298,
+      "bbox": [
+        129.879903,
+        32.746667,
+        141.679861,
+        42.787464
+      ]
+    },
+    {
+      "key": "western-food",
+      "label": "Western Food",
+      "url": "geojson/western-food_v2025.min.geojson",
+      "count": 200,
+      "bbox": [
+        128.841542,
+        31.913966,
+        141.438219,
+        43.074564
+      ]
+    },
+    {
+      "key": "yakiniku",
+      "label": "Yakiniku",
+      "url": "geojson/yakiniku_v2025.min.geojson",
+      "count": 232,
+      "bbox": [
+        124.14975,
+        24.332736,
+        141.354829,
+        43.056297
+      ]
+    },
+    {
+      "key": "yakitori",
+      "label": "Yakitori",
+      "url": "geojson/yakitori_v2025.min.geojson",
+      "count": 198,
+      "bbox": [
+        129.492483,
+        28.379699,
+        141.349964,
+        43.053708
+      ]
+    },
+    {
+      "key": "unknown",
+      "label": "中国料理",
+      "url": "geojson/unknown_v2025.min.geojson",
+      "count": 396,
+      "bbox": [
+        124.189427,
+        24.335794,
+        141.35439,
+        43.06579
+      ]
+    }
+  ]
+}
