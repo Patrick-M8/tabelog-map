@@ -2,7 +2,13 @@ from __future__ import annotations
 
 import unittest
 
-from scripts.pipeline.builders import build_audit_report, category_info, derive_closure, google_core_missing
+from scripts.pipeline.builders import (
+    build_audit_report,
+    category_info,
+    derive_closure,
+    google_core_missing,
+    price_tier,
+)
 
 
 class BuildersPipelineTests(unittest.TestCase):
@@ -84,6 +90,19 @@ class BuildersPipelineTests(unittest.TestCase):
         self.assertEqual(audit["missingGoogleFieldCounts"]["coordinates"], 1)
         self.assertEqual(audit["missingGoogleFieldCounts"]["business_status"], 1)
         self.assertEqual(audit["missingCoordinatesByCategory"]["Standing Bar"], 1)
+
+    def test_price_tier_maps_filter_boundaries(self):
+        self.assertEqual(price_tier("～￥999"), 1)
+        self.assertEqual(price_tier("￥4,000～￥4,999"), 4)
+        self.assertEqual(price_tier("￥8,000～￥9,999"), 4)
+        self.assertEqual(price_tier("￥10,000～￥14,999"), 5)
+        self.assertEqual(price_tier("￥100,000～"), 5)
+
+    def test_price_tier_handles_each_meal_independently_and_missing_values(self):
+        self.assertEqual(price_tier("￥20,000～￥29,999"), 5)
+        self.assertEqual(price_tier("￥1,000～￥1,999"), 2)
+        self.assertEqual(price_tier("-"), 0)
+        self.assertEqual(price_tier(None), 0)
 
 
 if __name__ == "__main__":

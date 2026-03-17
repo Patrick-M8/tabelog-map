@@ -72,6 +72,24 @@ def price_bucket(raw_value: str | None):
     return 5
 
 
+def price_tier(raw_value: str | None):
+    low, high = price_range(raw_value)
+    if low is None and high is None:
+        return 0
+    value = low if low is not None else high or 0
+    if high is not None and low is not None:
+        value = (low + high) // 2
+    if value <= 999:
+        return 1
+    if value <= 1999:
+        return 2
+    if value <= 3999:
+        return 3
+    if value <= 9999:
+        return 4
+    return 5
+
+
 def price_band(record):
     bucket = price_bucket(record.get("price_dinner")) or price_bucket(record.get("price_lunch"))
     return "¥" * bucket if bucket else None
@@ -244,6 +262,8 @@ def base_entry(record, freshness_updated_at: str, seen_ids: dict[str, int], *, n
         "subCategories": [part.strip() for part in (record.get("sub_categories") or "").split(",") if part.strip()],
         "priceBand": price,
         "priceBucket": len(price or ""),
+        "priceTierDinner": price_tier(record.get("price_dinner")),
+        "priceTierLunch": price_tier(record.get("price_lunch")),
         "priceLunch": record.get("price_lunch"),
         "priceDinner": record.get("price_dinner"),
         "weeklyTimeline": hours_payload["weeklyTimeline"],
@@ -360,6 +380,8 @@ def build_outputs(entries):
                     "subCategories",
                     "priceBand",
                     "priceBucket",
+                    "priceTierDinner",
+                    "priceTierLunch",
                     "weeklyTimeline",
                     "hoursConfidence",
                     "hoursDisplay",
@@ -402,6 +424,8 @@ def flatten_eda_row(entry):
         "hours_week": entry["hoursDisplay"]["week"],
         "policy_count": len(entry["hoursPolicies"]),
         "price_band": entry["priceBand"] or "",
+        "price_tier_dinner": entry["priceTierDinner"],
+        "price_tier_lunch": entry["priceTierLunch"],
         "consensus_grade": entry["consensusGrade"],
         "consensus_score": entry["consensusScore"],
         "tabelog_score": entry["tabelog"]["score"] or "",

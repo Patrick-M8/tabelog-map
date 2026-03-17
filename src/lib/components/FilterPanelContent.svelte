@@ -1,12 +1,12 @@
 <script lang="ts">
   import { createEventDispatcher } from 'svelte';
 
-  import type { ActiveFilters } from '$lib/types';
-  import { formatPriceRange } from '$lib/utils/format';
+  import type { ActiveFilters, PriceMeal } from '$lib/types';
+  import { formatPriceTierLabel } from '$lib/utils/priceTier';
 
   export let activeFilters: ActiveFilters;
   export let walkMinuteOptions: number[] = [];
-  export let priceBands: string[] = [];
+  export let priceTiers: number[] = [];
   export let visibleCuisineCategories: { key: string; label: string; count: number }[] = [];
   export let availableCategories: { key: string; label: string; count: number }[] = [];
   export let cuisineExpanded = false;
@@ -19,10 +19,15 @@
     toggleClosingSoon: void;
     toggleOpeningSoon: void;
     setWalkMinutes: { minutes: number };
-    togglePriceBand: { band: string };
+    setPriceMeal: { meal: PriceMeal };
+    togglePriceTier: { tier: number };
     toggleCategory: { key: string };
     toggleCuisineExpanded: void;
   }>();
+  const PRICE_MEAL_OPTIONS: { label: string; value: PriceMeal }[] = [
+    { label: 'Dinner', value: 'dinner' },
+    { label: 'Lunch', value: 'lunch' }
+  ];
 
   $: showAvailabilityReset = activeFilters.closingSoon || activeFilters.openingSoon;
 </script>
@@ -68,17 +73,26 @@
     <div class="section-heading">
       <h3>Price</h3>
     </div>
-    <div class="token-wrap">
-      {#each priceBands as band}
+    <div class="token-wrap price-meal-toggle" role="group" aria-label="Price meal">
+      {#each PRICE_MEAL_OPTIONS as meal}
         <button
           type="button"
-          class:active={activeFilters.priceBands.includes(band)}
-          on:click={() => dispatch('togglePriceBand', { band })}
+          class:active={activeFilters.priceMeal === meal.value}
+          aria-pressed={activeFilters.priceMeal === meal.value}
+          on:click={() => dispatch('setPriceMeal', { meal: meal.value })}
         >
-          <span class="filter-token">
-            <strong>{band}</strong>
-            <small>{formatPriceRange(band)}</small>
-          </span>
+          {meal.label}
+        </button>
+      {/each}
+    </div>
+    <div class="token-wrap">
+      {#each priceTiers as tier}
+        <button
+          type="button"
+          class:active={activeFilters.priceTiers.includes(tier)}
+          on:click={() => dispatch('togglePriceTier', { tier })}
+        >
+          {formatPriceTierLabel(tier)}
         </button>
       {/each}
     </div>
@@ -161,28 +175,12 @@
     border-color: transparent;
   }
 
+  .price-meal-toggle button {
+    min-width: 92px;
+    justify-content: center;
+  }
+
   .token-wrap-categories button {
     max-width: 100%;
-  }
-
-  .filter-token {
-    display: grid;
-    gap: 2px;
-    text-align: left;
-  }
-
-  .filter-token strong,
-  .filter-token small {
-    font: inherit;
-    line-height: 1.2;
-  }
-
-  .filter-token small {
-    color: rgba(23, 25, 28, 0.58);
-    font-size: 0.78rem;
-  }
-
-  .token-wrap button.active .filter-token small {
-    color: rgba(248, 247, 244, 0.84);
   }
 </style>

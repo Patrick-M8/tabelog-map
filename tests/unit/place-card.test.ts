@@ -12,7 +12,7 @@ const basePlace: DisplayPlace = {
   id: 'le-petit-mec',
   placeId: 'abc123',
   nameEn: 'Le Petit Mec Hibiya',
-  nameJp: 'ル・プチメック 日比谷店',
+  nameJp: 'ãƒ«ãƒ»ãƒ—ãƒãƒ¡ãƒƒã‚¯ æ—¥æ¯”è°·åº—',
   lat: 35.0,
   lng: 139.0,
   region: 'TOKYO',
@@ -21,11 +21,13 @@ const basePlace: DisplayPlace = {
   category: {
     key: 'bakery',
     label: 'Bakery',
-    labelJp: 'パン'
+    labelJp: 'ãƒ‘ãƒ³'
   },
   subCategories: ['Bakery'],
-  priceBand: '¥',
+  priceBand: 'Â¥',
   priceBucket: 1,
+  priceTierDinner: 1,
+  priceTierLunch: 1,
   weeklyTimeline: {
     mon: [],
     tue: [],
@@ -86,7 +88,7 @@ const basePlace: DisplayPlace = {
 
 describe('place card formatting', () => {
   it('builds a compact subtitle from the Japanese name when available', () => {
-    expect(formatPlaceCardSubtitle(basePlace)).toBe('ル・プチメック 日比谷店');
+    expect(formatPlaceCardSubtitle(basePlace)).toBe('ãƒ«ãƒ»ãƒ—ãƒãƒ¡ãƒƒã‚¯ æ—¥æ¯”è°·åº—');
   });
 
   it('builds premium metadata copy for the compact line', () => {

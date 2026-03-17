@@ -9,7 +9,8 @@ const EMPTY_FILTERS: ActiveFilters = {
   closingSoon: false,
   openingSoon: false,
   maxWalkMinutes: null,
-  priceBands: [],
+  priceMeal: 'dinner',
+  priceTiers: [],
   categoryKeys: []
 };
 
@@ -25,7 +26,8 @@ describe('countActiveFilters', () => {
         closingSoon: false,
         openingSoon: true,
         maxWalkMinutes: 10,
-        priceBands: ['¥¥'],
+        priceMeal: 'lunch',
+        priceTiers: [2],
         categoryKeys: ['sushi', 'ramen']
       })
     ).toBe(5);
@@ -44,10 +46,25 @@ describe('summarizeFilters', () => {
         closingSoon: false,
         openingSoon: true,
         maxWalkMinutes: 15,
-        priceBands: ['¥', '¥¥'],
+        priceMeal: 'lunch',
+        priceTiers: [1, 2],
         categoryKeys: ['sushi']
       })
     ).toBe('Open now, Opening soon, ≤15 min');
+  });
+
+  it('includes meal context when price tiers are active', () => {
+    expect(
+      summarizeFilters({
+        openNow: false,
+        closingSoon: false,
+        openingSoon: false,
+        maxWalkMinutes: null,
+        priceMeal: 'lunch',
+        priceTiers: [1, 4],
+        categoryKeys: []
+      })
+    ).toBe('Lunch: 2 price levels');
   });
 });
 
@@ -58,7 +75,8 @@ describe('toAdvancedFilters', () => {
       closingSoon: true,
       openingSoon: true,
       maxWalkMinutes: 10,
-      priceBands: ['¥¥'],
+      priceMeal: 'lunch',
+      priceTiers: [2],
       categoryKeys: ['sushi']
     };
 
@@ -67,7 +85,8 @@ describe('toAdvancedFilters', () => {
       closingSoon: true,
       openingSoon: true,
       maxWalkMinutes: 10,
-      priceBands: ['¥¥'],
+      priceMeal: 'lunch',
+      priceTiers: [2],
       categoryKeys: ['sushi']
     });
     expect(filters.openNow).toBe(true);

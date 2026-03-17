@@ -13,6 +13,7 @@
   import type {
     ActiveFilters,
     DisplayPlace,
+    PriceMeal,
     PlaceDetail,
     PlaceDetailSupplement,
     PlaceSummary,
@@ -20,7 +21,7 @@
     SheetSnap,
     SortKey
   } from '$lib/types';
-  import { normalizePriceBand } from '$lib/utils/format';
+  import { matchesPriceFilter, PRICE_TIER_OPTIONS } from '$lib/utils/priceTier';
   import { haversineDistanceMeters, isInsideBounds, walkMinutesFromDistance } from '$lib/utils/geo';
   import { derivePlaceStatus } from '$lib/utils/hours';
   import { countActiveFilters, summarizeFilters } from '$lib/utils/discovery';
@@ -36,7 +37,6 @@
     section: FilterSection;
   };
   type EnrichedPlaceSummary = PlaceSummary & {
-    normalizedPriceBand: string | null;
     status: DisplayPlace['status'];
   };
 
@@ -53,12 +53,12 @@
     closingSoon: false,
     openingSoon: false,
     maxWalkMinutes: null,
-    priceBands: [],
+    priceMeal: 'dinner',
+    priceTiers: [],
     categoryKeys: []
   };
   const CUISINE_PREVIEW_COUNT = 10;
   const DEFAULT_BROWSE_SNAP: SheetSnap = 'mid';
-  const PRICE_BANDS = Array.from({ length: 5 }, (_, index) => '\u00A5'.repeat(index + 1));
   const WALK_MINUTE_OPTIONS = [5, 10, 15, 30];
   const REVIEW_SOURCES: ReviewSource[] = ['tabelog', 'google'];
   const BRAND_MARKS: Record<ReviewSource, string> = {
@@ -273,6 +273,13 @@
     });
   }
 
+  function setPriceMeal(meal: PriceMeal) {
+    updateFilters({
+      ...activeFilters,
+      priceMeal: meal
+    });
+  }
+
   async function openFilters(section: FilterSection = null) {
     pendingFilterSection = section;
     await navigateUiState(
@@ -297,7 +304,8 @@
       closingSoon: false,
       openingSoon: false,
       maxWalkMinutes: null,
-      priceBands: [],
+      priceMeal: 'dinner',
+      priceTiers: [],
       categoryKeys: []
     });
   }
@@ -466,12 +474,12 @@
     });
   }
 
-  function togglePriceBand(band: string) {
+  function togglePriceTier(tier: number) {
     updateFilters({
       ...activeFilters,
-      priceBands: activeFilters.priceBands.includes(band)
-        ? activeFilters.priceBands.filter((value) => value !== band)
-        : [...activeFilters.priceBands, band]
+      priceTiers: activeFilters.priceTiers.includes(tier)
+        ? activeFilters.priceTiers.filter((value) => value !== tier)
+        : [...activeFilters.priceTiers, tier]
     });
   }
 
@@ -566,7 +574,6 @@
   $: summaries = $summaryQuery.data ?? [];
   $: enrichedSummaries = summaries.map((place) => ({
     ...place,
-    normalizedPriceBand: normalizePriceBand(place.priceBand, place.priceBucket),
     status: derivePlaceStatus(place.weeklyTimeline, place.closure)
   }));
   $: availableCategories = visibleCategories(summaries);
@@ -619,7 +626,7 @@
       return next;
     }
 
-    if (activeFilters.priceBands.length && !activeFilters.priceBands.includes(place.normalizedPriceBand ?? '')) {
+    if (!matchesPriceFilter(place, activeFilters.priceMeal, activeFilters.priceTiers)) {
       return next;
     }
 
@@ -749,7 +756,7 @@
           bind:priceSectionElement
           {activeFilters}
           walkMinuteOptions={WALK_MINUTE_OPTIONS}
-          priceBands={PRICE_BANDS}
+          priceTiers={PRICE_TIER_OPTIONS}
           {visibleCuisineCategories}
           {availableCategories}
           bind:cuisineExpanded
@@ -757,7 +764,8 @@
           on:toggleClosingSoon={toggleClosingSoonFilter}
           on:toggleOpeningSoon={toggleOpeningSoonFilter}
           on:setWalkMinutes={(event) => setWalkMinutes(event.detail.minutes)}
-          on:togglePriceBand={(event) => togglePriceBand(event.detail.band)}
+          on:setPriceMeal={(event) => setPriceMeal(event.detail.meal)}
+          on:togglePriceTier={(event) => togglePriceTier(event.detail.tier)}
           on:toggleCategory={(event) => toggleCategory(event.detail.key)}
           on:toggleCuisineExpanded={() => (cuisineExpanded = !cuisineExpanded)}
         />
@@ -920,7 +928,7 @@
               bind:priceSectionElement
               {activeFilters}
               walkMinuteOptions={WALK_MINUTE_OPTIONS}
-              priceBands={PRICE_BANDS}
+              priceTiers={PRICE_TIER_OPTIONS}
               {visibleCuisineCategories}
               {availableCategories}
               bind:cuisineExpanded
@@ -928,7 +936,8 @@
               on:toggleClosingSoon={toggleClosingSoonFilter}
               on:toggleOpeningSoon={toggleOpeningSoonFilter}
               on:setWalkMinutes={(event) => setWalkMinutes(event.detail.minutes)}
-              on:togglePriceBand={(event) => togglePriceBand(event.detail.band)}
+              on:setPriceMeal={(event) => setPriceMeal(event.detail.meal)}
+              on:togglePriceTier={(event) => togglePriceTier(event.detail.tier)}
               on:toggleCategory={(event) => toggleCategory(event.detail.key)}
               on:toggleCuisineExpanded={() => (cuisineExpanded = !cuisineExpanded)}
             />

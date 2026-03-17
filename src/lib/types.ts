@@ -3,6 +3,7 @@ export type ConsensusGrade = 'A' | 'B' | 'C' | 'D' | 'E';
 export type SheetSnap = 'peek' | 'mid' | 'full';
 export type SortDirection = 'asc' | 'desc';
 export type ReviewSource = 'tabelog' | 'google';
+export type PriceMeal = 'dinner' | 'lunch';
 export type SortKey =
   | 'best'
   | 'closingSoon'
@@ -92,6 +93,8 @@ export interface PlaceSummary {
   subCategories: string[];
   priceBand: string | null;
   priceBucket: number;
+  priceTierDinner: number;
+  priceTierLunch: number;
   weeklyTimeline: WeeklyTimeline;
   hoursConfidence: HoursConfidence;
   hoursDisplay: HoursDisplay;
@@ -156,7 +159,8 @@ export interface ActiveFilters {
   closingSoon: boolean;
   openingSoon: boolean;
   maxWalkMinutes: number | null;
-  priceBands: string[];
+  priceMeal: PriceMeal;
+  priceTiers: number[];
   categoryKeys: string[];
 }
 

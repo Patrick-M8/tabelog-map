@@ -7,7 +7,7 @@ export function countActiveFilters(filters: ActiveFilters) {
   if (filters.closingSoon) total += 1;
   if (filters.openingSoon) total += 1;
   if (filters.maxWalkMinutes !== null) total += 1;
-  if (filters.priceBands.length > 0) total += 1;
+  if (filters.priceTiers.length > 0) total += 1;
   if (filters.categoryKeys.length > 0) total += 1;
 
   return total;
@@ -32,8 +32,9 @@ export function summarizeFilters(filters: ActiveFilters) {
     parts.push(`\u2264${filters.maxWalkMinutes} min`);
   }
 
-  if (filters.priceBands.length > 0) {
-    parts.push(`${filters.priceBands.length} price level${filters.priceBands.length === 1 ? '' : 's'}`);
+  if (filters.priceTiers.length > 0) {
+    const mealLabel = filters.priceMeal === 'lunch' ? 'Lunch' : 'Dinner';
+    parts.push(`${mealLabel}: ${filters.priceTiers.length} price level${filters.priceTiers.length === 1 ? '' : 's'}`);
   }
 
   if (filters.categoryKeys.length > 0) {
