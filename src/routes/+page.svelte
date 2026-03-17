@@ -8,7 +8,7 @@
   import BottomSheet from '$lib/components/BottomSheet.svelte';
   import FilterPanelContent from '$lib/components/FilterPanelContent.svelte';
   import PlaceCard from '$lib/components/PlaceCard.svelte';
-  import { DEFAULT_CENTER, SEARCH_REDRAW_METERS } from '$lib/config';
+  import { DEFAULT_CENTER } from '$lib/config';
   import { loadPlaceDetails, loadPlaceSummary } from '$lib/data/client';
   import type { ActiveFilters, DisplayPlace, PlaceDetail, PlaceSummary, ReviewSource, SheetSnap, SortKey } from '$lib/types';
   import { normalizePriceBand } from '$lib/utils/format';
@@ -47,8 +47,6 @@
     priceBands: [],
     categoryKeys: []
   };
-  const REFRESH_PROMPT_VISIBLE_MS = 2200;
-  const REFRESH_PROMPT_FADE_MS = 320;
   const CUISINE_PREVIEW_COUNT = 10;
   const DEFAULT_BROWSE_SNAP: SheetSnap = 'mid';
   const PRICE_BANDS = Array.from({ length: 5 }, (_, index) => '\u00A5'.repeat(index + 1));
@@ -61,6 +59,8 @@
   let innerWidth = 390;
   let sheetSnap: SheetSnap = DEFAULT_BROWSE_SNAP;
   let sortKey: SortKey = 'best';
+  let reviewSelectionSources: ReviewSource[] = ['tabelog'];
+  let reviewSelectionDirection: 'asc' | 'desc' = 'desc';
   let activeReviewSources: ReviewSource[] = [];
   let activeReviewDirection: 'asc' | 'desc' = 'desc';
   let reviewSortActive = false;
@@ -88,8 +88,6 @@
   let selectedPlace: DisplayPlace | null = null;
   let selectedDetail: PlaceDetail | null = null;
   let availableCategories: { key: string; label: string; count: number }[] = [];
-  let showRedoSearch = false;
-  let redoSearchFading = false;
   let desktop = false;
   let activeFilterCount = 0;
   let filterSummary = 'All nearby';
@@ -110,63 +108,33 @@
     section: null
   };
   let lastFilterScrollKey = '';
-  let refreshPromptFadeTimer: ReturnType<typeof setTimeout> | null = null;
-  let refreshPromptHideTimer: ReturnType<typeof setTimeout> | null = null;
-  let mapHasInitialized = false;
-  let suppressNextMoveRefreshPrompt = false;
 
   function randomToken(prefix: string) {
     return `${prefix}-${Date.now()}-${Math.random().toString(16).slice(2, 8)}`;
   }
 
-  function clearRefreshPromptTimers() {
-    if (refreshPromptFadeTimer) {
-      clearTimeout(refreshPromptFadeTimer);
-      refreshPromptFadeTimer = null;
-    }
-
-    if (refreshPromptHideTimer) {
-      clearTimeout(refreshPromptHideTimer);
-      refreshPromptHideTimer = null;
-    }
-  }
-
-  function hideRefreshPrompt() {
-    clearRefreshPromptTimers();
-    redoSearchFading = false;
-    showRedoSearch = false;
-  }
-
-  function queueRefreshPrompt() {
-    if (!browser) {
-      return;
-    }
-
-    clearRefreshPromptTimers();
-    showRedoSearch = true;
-    redoSearchFading = false;
-    refreshPromptFadeTimer = setTimeout(() => {
-      redoSearchFading = true;
-    }, REFRESH_PROMPT_VISIBLE_MS);
-    refreshPromptHideTimer = setTimeout(() => {
-      hideRefreshPrompt();
-    }, REFRESH_PROMPT_VISIBLE_MS + REFRESH_PROMPT_FADE_MS);
-  }
-
-  function applyRefreshPrompt() {
-    suppressNextMoveRefreshPrompt = true;
-    searchCenter = { ...mapCenter };
-    focusTarget = { ...mapCenter, token: randomToken('refresh') };
-    hideRefreshPrompt();
-  }
-
   function updateFilters(nextFilters: ActiveFilters) {
     activeFilters = nextFilters;
-    queueRefreshPrompt();
   }
 
   function setReviewSort(source: ReviewSource) {
-    sortKey = traySortStateToSortKey(toggleReviewSource(sortKeyToTraySortState(sortKey), source));
+    if (!reviewSortActive) {
+      reviewSelectionSources = [source];
+      sortKey = traySortStateToSortKey({
+        overrideMode: null,
+        overrideDirection: null,
+        reviewSort: {
+          sources: [source],
+          direction: reviewSelectionDirection
+        }
+      });
+      return;
+    }
+
+    const nextState = toggleReviewSource(sortKeyToTraySortState(sortKey), source);
+    reviewSelectionSources = nextState.reviewSort.sources.length ? [...nextState.reviewSort.sources] : [source];
+    reviewSelectionDirection = nextState.reviewSort.direction;
+    sortKey = traySortStateToSortKey(nextState);
   }
 
   function toggleReviewSortDirection() {
@@ -174,7 +142,9 @@
       return;
     }
 
-    sortKey = traySortStateToSortKey(toggleReviewDirection(sortKeyToTraySortState(sortKey)));
+    const nextState = toggleReviewDirection(sortKeyToTraySortState(sortKey));
+    reviewSelectionDirection = nextState.reviewSort.direction;
+    sortKey = traySortStateToSortKey(nextState);
   }
 
   function parseUiView(value: string | null): UiView {
@@ -546,10 +516,6 @@
       DetailSheetComponent = detailSheet;
       requestGeolocation();
     })();
-
-    return () => {
-      clearRefreshPromptTimers();
-    };
   });
 
   $: desktop = innerWidth >= 960;
@@ -564,9 +530,25 @@
   $: availableCategories = visibleCategories(summaries);
   $: {
     const nextReviewState = sortKeyToTraySortState(sortKey).reviewSort;
-    activeReviewSources = [...nextReviewState.sources];
-    activeReviewDirection = nextReviewState.direction;
-    reviewSortActive = activeReviewSources.length > 0;
+    const currentReviewSort =
+      sortKey === 'tabelogAsc' ||
+      sortKey === 'tabelogDesc' ||
+      sortKey === 'googleAsc' ||
+      sortKey === 'googleDesc' ||
+      sortKey === 'reviewsCombinedAsc' ||
+      sortKey === 'reviewsCombinedDesc';
+
+    if (currentReviewSort) {
+      activeReviewSources = [...nextReviewState.sources];
+      activeReviewDirection = nextReviewState.direction;
+      reviewSelectionSources = [...nextReviewState.sources];
+      reviewSelectionDirection = nextReviewState.direction;
+      reviewSortActive = activeReviewSources.length > 0;
+    } else {
+      activeReviewSources = [];
+      activeReviewDirection = reviewSelectionDirection;
+      reviewSortActive = false;
+    }
   }
   $: activeFilterCount = countActiveFilters(activeFilters);
   $: filterSummary = summarizeFilters(activeFilters);
@@ -652,23 +634,9 @@
         {desktop}
         on:moveend={(event) => {
           const nextCenter = event.detail.center;
-          const movedDistance = haversineDistanceMeters(mapCenter, nextCenter);
           mapCenter = nextCenter;
+          searchCenter = nextCenter;
           mapBounds = event.detail.bounds;
-
-          if (!mapHasInitialized) {
-            mapHasInitialized = true;
-            return;
-          }
-
-          if (suppressNextMoveRefreshPrompt) {
-            suppressNextMoveRefreshPrompt = false;
-            return;
-          }
-
-          if (movedDistance > SEARCH_REDRAW_METERS) {
-            queueRefreshPrompt();
-          }
         }}
         on:select={(event) => handleMapSelect(event.detail.id)}
       />
@@ -692,17 +660,6 @@
         </button>
       </div>
     </div>
-
-    {#if showRedoSearch}
-      <button
-        type="button"
-        class="viewport-chip"
-        class:fading={redoSearchFading}
-        on:click={applyRefreshPrompt}
-      >
-        Search this area
-      </button>
-    {/if}
 
     {#if filterOpen && desktop}
       <button type="button" class="panel-scrim" aria-label="Close filters" on:click={closeFilters}></button>
@@ -780,13 +737,10 @@
           {/if}
         {:else}
           <div class="sheet-header">
-            <div class="sheet-header-brand">
-              <div>
-                <p class="eyebrow">{placesInViewLabel(sortedPlaces.length, visiblePlaces.length)}</p>
-                <h1>Tabelog Hyakumeiten</h1>
-                <p class="sheet-summary">{filterSummary}</p>
-              </div>
-              <img class="sheet-brand-mark" src={BRAND_MARKS.tabelog} alt="Tabelog" />
+            <div>
+              <p class="eyebrow">{placesInViewLabel(sortedPlaces.length, visiblePlaces.length)}</p>
+              <h1>Tabelog Hyakumeiten</h1>
+              <p class="sheet-summary">{filterSummary}</p>
             </div>
           </div>
 
@@ -949,13 +903,10 @@
         {/if}
       {:else}
         <div class="sheet-header">
-          <div class="sheet-header-brand">
-            <div>
-              <p class="eyebrow">{placesInViewLabel(sortedPlaces.length, visiblePlaces.length)}</p>
-              <h1>Tabelog Hyakumeiten</h1>
-              <p class="sheet-summary">{filterSummary}</p>
-            </div>
-            <img class="sheet-brand-mark" src={BRAND_MARKS.tabelog} alt="Tabelog" />
+          <div>
+            <p class="eyebrow">{placesInViewLabel(sortedPlaces.length, visiblePlaces.length)}</p>
+            <h1>Tabelog Hyakumeiten</h1>
+            <p class="sheet-summary">{filterSummary}</p>
           </div>
         </div>
 
@@ -1176,29 +1127,6 @@
     fill: currentColor;
   }
 
-  .viewport-chip {
-    position: absolute;
-    top: calc(72px + env(safe-area-inset-top));
-    left: 50%;
-    transform: translateX(-50%);
-    z-index: 24;
-    padding: 11px 16px;
-    border: 0;
-    border-radius: 999px;
-    background: #17191c;
-    color: #f8f7f4;
-    box-shadow: var(--shadow-strong);
-    transition:
-      opacity 320ms ease,
-      transform 320ms ease;
-  }
-
-  .viewport-chip.fading {
-    opacity: 0;
-    transform: translateX(-50%) translateY(-4px);
-    pointer-events: none;
-  }
-
   .panel-scrim {
     inset: 0;
     border: 0;
@@ -1241,6 +1169,14 @@
     justify-content: space-between;
   }
 
+  .sheet-header {
+    justify-content: flex-start;
+  }
+
+  .sheet-header-mobile {
+    justify-content: space-between;
+  }
+
   .filter-footer {
     justify-content: flex-end;
   }
@@ -1252,15 +1188,6 @@
   .sheet-header {
     align-items: start;
     margin-bottom: 10px;
-  }
-
-  .sheet-header-brand {
-    width: 100%;
-    min-width: 0;
-    display: flex;
-    justify-content: space-between;
-    gap: 16px;
-    align-items: flex-start;
   }
 
   .sheet-header h1,
@@ -1331,14 +1258,6 @@
     background: #17191c;
     color: #f8f7f4;
     font-weight: 600;
-  }
-
-  .sheet-brand-mark {
-    width: 42px;
-    height: 42px;
-    flex: 0 0 auto;
-    margin-top: 2px;
-    object-fit: contain;
   }
 
   .show-places-button {
@@ -1604,10 +1523,6 @@
       top: calc(18px + env(safe-area-inset-top));
     }
 
-    .viewport-chip {
-      top: calc(90px + env(safe-area-inset-top));
-    }
-
     .floating-panel {
       left: 24px;
       right: auto;
@@ -1624,11 +1539,6 @@
     .icon-button {
       min-height: 40px;
       padding-inline: 12px;
-    }
-
-    .sheet-brand-mark {
-      width: 38px;
-      height: 38px;
     }
 
     .icon-button-square {

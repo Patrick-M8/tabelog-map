@@ -340,6 +340,7 @@
   });
 
   $: if (map?.isStyleLoaded()) {
+    ensureLayers();
     syncSources();
   }
 
