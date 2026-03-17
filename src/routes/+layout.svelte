@@ -1,7 +1,6 @@
 <script lang="ts">
   import { QueryClient, QueryClientProvider } from '@tanstack/svelte-query';
 
-  import 'maplibre-gl/dist/maplibre-gl.css';
   import '../app.css';
 
   import { setupI18n } from '$lib/i18n';

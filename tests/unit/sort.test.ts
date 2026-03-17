@@ -30,6 +30,7 @@ const makePlace = (id: string, overrides: Partial<DisplayPlace>): DisplayPlace =
   sourceLinks: { tabelog: null, google: null },
   reserveUrl: null,
   callPhone: null,
+  imageUrl: null,
   advisories: [],
   badges: [],
   closure: { state: 'active', source: 'derived', reason: null, detectedAt: null },

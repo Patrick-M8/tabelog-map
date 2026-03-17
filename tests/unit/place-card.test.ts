@@ -63,6 +63,7 @@ const basePlace: DisplayPlace = {
   },
   reserveUrl: 'https://example.com/reserve',
   callPhone: null,
+  imageUrl: null,
   advisories: [],
   badges: [],
   closure: {

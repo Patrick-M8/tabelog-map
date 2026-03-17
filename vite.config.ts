@@ -45,6 +45,27 @@ export default defineConfig({
       }
     })
   ],
+  build: {
+    rollupOptions: {
+      output: {
+        manualChunks(id) {
+          if (id.includes('node_modules/maplibre-gl')) {
+            return 'vendor-maplibre';
+          }
+
+          if (id.includes('node_modules/svelte-i18n') || id.includes('node_modules/@formatjs')) {
+            return 'vendor-i18n';
+          }
+
+          if (id.includes('node_modules/@tanstack')) {
+            return 'vendor-query';
+          }
+
+          return undefined;
+        }
+      }
+    }
+  },
   test: {
     include: ['tests/unit/**/*.test.ts']
   },

@@ -105,6 +105,7 @@ export interface PlaceSummary {
   sourceLinks: SourceLinks;
   reserveUrl: string | null;
   callPhone: string | null;
+  imageUrl: string | null;
   advisories: string[];
   badges: string[];
   closure: ClosureInfo;
@@ -115,7 +116,7 @@ export interface ReservationLink {
   url: string | null;
 }
 
-export interface PlaceDetail extends PlaceSummary {
+export interface PlaceDetailSupplement {
   address: string | null;
   priceLunch: string | null;
   priceDinner: string | null;
@@ -129,6 +130,8 @@ export interface PlaceDetail extends PlaceSummary {
     sources: SourceLinks;
   };
 }
+
+export interface PlaceDetail extends PlaceSummary, PlaceDetailSupplement {}
 
 export interface MapBounds {
   north: number;

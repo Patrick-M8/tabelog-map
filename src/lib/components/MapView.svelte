@@ -1,6 +1,7 @@
 <script lang="ts">
   import { createEventDispatcher, onDestroy, onMount } from 'svelte';
   import maplibregl, { type GeoJSONSource, type Map } from 'maplibre-gl';
+  import 'maplibre-gl/dist/maplibre-gl.css';
 
   import { DEFAULT_CENTER, JAPAN_BOUNDS, MAP_STYLE } from '$lib/config';
   import type { DisplayPlace } from '$lib/types';
@@ -264,11 +265,24 @@
 
     const placeSource = map.getSource('places') as GeoJSONSource | undefined;
     placeSource?.setData(asFeatureCollection());
+  }
+
+  function syncSelectedPlace() {
+    if (!map) {
+      return;
+    }
+
     if (map.getLayer('selected-point')) {
       map.setFilter('selected-point', ['==', ['get', 'id'], selectedPlaceId ?? '']);
     }
     if (map.getLayer('selected-point-core')) {
       map.setFilter('selected-point-core', ['==', ['get', 'id'], selectedPlaceId ?? '']);
+    }
+  }
+
+  function syncUserPoint() {
+    if (!map) {
+      return;
     }
 
     const userPointSource = map.getSource('user-point') as GeoJSONSource | undefined;
@@ -324,6 +338,8 @@
     map.on('load', () => {
       ensureLayers();
       syncSources();
+      syncSelectedPlace();
+      syncUserPoint();
       emitMove();
     });
     map.on('styledata', () => {
@@ -333,6 +349,8 @@
 
       ensureLayers();
       syncSources();
+      syncSelectedPlace();
+      syncUserPoint();
     });
     map.on('moveend', emitMove);
 
@@ -351,7 +369,18 @@
 
   $: if (map?.isStyleLoaded()) {
     ensureLayers();
+  }
+
+  $: if (map?.isStyleLoaded()) {
     syncSources();
+  }
+
+  $: if (map?.isStyleLoaded()) {
+    syncSelectedPlace();
+  }
+
+  $: if (map?.isStyleLoaded()) {
+    syncUserPoint();
   }
 
   $: if (map && focusTarget && focusTarget.token !== lastFocusToken) {

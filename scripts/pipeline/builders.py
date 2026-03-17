@@ -330,6 +330,15 @@ def compute_consensus(entries):
 def build_outputs(entries):
     summary = []
     detail = OrderedDict()
+    detail_keys = {
+        "address",
+        "priceLunch",
+        "priceDinner",
+        "imageUrl",
+        "mustOrder",
+        "reservationLinks",
+        "issuePayload",
+    }
 
     for entry in sorted(entries, key=lambda item: (-item["consensusScore"], item["nameEn"] or item["nameJp"] or "")):
         summary.append(
@@ -364,13 +373,14 @@ def build_outputs(entries):
                     "sourceLinks",
                     "reserveUrl",
                     "callPhone",
+                    "imageUrl",
                     "advisories",
                     "badges",
                     "closure",
                 }
             }
         )
-        detail[entry["id"]] = {key: value for key, value in entry.items() if not key.startswith("_")}
+        detail[entry["id"]] = {key: value for key, value in entry.items() if key in detail_keys}
 
     return summary, detail
 

@@ -1,49 +1,55 @@
 import type { DisplayPlace, SortKey } from '$lib/types';
 
-function compareReviewSort(
-  left: DisplayPlace,
-  right: DisplayPlace,
-  sources: Array<'tabelog' | 'google'>,
-  direction: 'asc' | 'desc'
-) {
-  const summarize = (place: DisplayPlace) => {
-    const scores = sources
-      .map((source) => ({
-        score: place[source].score,
-        reviews: place[source].reviews
-      }))
-      .filter((entry) => entry.score !== null);
+type ReviewSummary = {
+  averageScore: number;
+  totalReviews: number;
+} | null;
 
-    if (!scores.length) {
-      return null;
+function summarizeReviewSort(place: DisplayPlace, sources: Array<'tabelog' | 'google'>): ReviewSummary {
+  let totalScore = 0;
+  let scoreCount = 0;
+  let totalReviews = 0;
+
+  for (const source of sources) {
+    const score = place[source].score;
+    if (score === null) {
+      continue;
     }
 
-    const totalScore = scores.reduce((sum, entry) => sum + (entry.score ?? 0), 0);
-    const totalReviews = scores.reduce((sum, entry) => sum + entry.reviews, 0);
+    totalScore += score;
+    totalReviews += place[source].reviews;
+    scoreCount += 1;
+  }
 
-    return {
-      averageScore: totalScore / scores.length,
-      totalReviews
-    };
+  if (scoreCount === 0) {
+    return null;
+  }
+
+  return {
+    averageScore: totalScore / scoreCount,
+    totalReviews
   };
+}
 
-  const leftSummary = summarize(left);
-  const rightSummary = summarize(right);
-
-  if (!leftSummary && rightSummary) {
+function compareReviewSummary(
+  left: { place: DisplayPlace; reviewSummary: ReviewSummary },
+  right: { place: DisplayPlace; reviewSummary: ReviewSummary },
+  direction: 'asc' | 'desc'
+) {
+  if (!left.reviewSummary && right.reviewSummary) {
     return 1;
   }
 
-  if (leftSummary && !rightSummary) {
+  if (left.reviewSummary && !right.reviewSummary) {
     return -1;
   }
 
-  if (!leftSummary && !rightSummary) {
-    return left.distanceMeters - right.distanceMeters;
+  if (!left.reviewSummary && !right.reviewSummary) {
+    return left.place.distanceMeters - right.place.distanceMeters;
   }
 
-  const safeLeftSummary = leftSummary!;
-  const safeRightSummary = rightSummary!;
+  const safeLeftSummary = left.reviewSummary!;
+  const safeRightSummary = right.reviewSummary!;
 
   if (safeLeftSummary.averageScore !== safeRightSummary.averageScore) {
     return direction === 'asc'
@@ -55,83 +61,84 @@ function compareReviewSort(
     return safeRightSummary.totalReviews - safeLeftSummary.totalReviews;
   }
 
-  return left.distanceMeters - right.distanceMeters;
+  return left.place.distanceMeters - right.place.distanceMeters;
+}
+
+function statusWeight(place: DisplayPlace) {
+  return place.status.state === 'open'
+    ? 650
+    : place.status.state === 'closingSoon'
+      ? 220
+      : place.status.state === 'temporarilyClosed'
+        ? -1400
+        : place.status.state === 'permanentlyClosed'
+          ? -2200
+          : -900;
 }
 
 export function sortPlaces(places: DisplayPlace[], sortKey: SortKey) {
-  const next = [...places];
+  const decorated = places.map((place) => ({
+    place,
+    bestScore: (place.consensusScore * 1000) - place.distanceMeters + statusWeight(place),
+    reviewSummary:
+      sortKey === 'tabelogAsc' || sortKey === 'tabelogDesc'
+        ? summarizeReviewSort(place, ['tabelog'])
+        : sortKey === 'googleAsc' || sortKey === 'googleDesc'
+          ? summarizeReviewSort(place, ['google'])
+          : sortKey === 'reviewsCombinedAsc' || sortKey === 'reviewsCombinedDesc'
+            ? summarizeReviewSort(place, ['tabelog', 'google'])
+            : null
+  }));
 
-  next.sort((left, right) => {
+  decorated.sort((left, right) => {
     if (sortKey === 'distance' || sortKey === 'distanceAsc') {
-      return left.distanceMeters - right.distanceMeters;
+      return left.place.distanceMeters - right.place.distanceMeters;
     }
 
     if (sortKey === 'distanceDesc') {
-      return right.distanceMeters - left.distanceMeters;
+      return right.place.distanceMeters - left.place.distanceMeters;
     }
 
     if (sortKey === 'priceAsc') {
-      return left.priceBucket - right.priceBucket;
+      return left.place.priceBucket - right.place.priceBucket;
     }
 
     if (sortKey === 'priceDesc') {
-      return right.priceBucket - left.priceBucket;
+      return right.place.priceBucket - left.place.priceBucket;
     }
 
     if (sortKey === 'tabelogAsc') {
-      return compareReviewSort(left, right, ['tabelog'], 'asc');
+      return compareReviewSummary(left, right, 'asc');
     }
 
     if (sortKey === 'tabelogDesc') {
-      return compareReviewSort(left, right, ['tabelog'], 'desc');
+      return compareReviewSummary(left, right, 'desc');
     }
 
     if (sortKey === 'googleAsc') {
-      return compareReviewSort(left, right, ['google'], 'asc');
+      return compareReviewSummary(left, right, 'asc');
     }
 
     if (sortKey === 'googleDesc') {
-      return compareReviewSort(left, right, ['google'], 'desc');
+      return compareReviewSummary(left, right, 'desc');
     }
 
     if (sortKey === 'reviewsCombinedAsc') {
-      return compareReviewSort(left, right, ['tabelog', 'google'], 'asc');
+      return compareReviewSummary(left, right, 'asc');
     }
 
     if (sortKey === 'reviewsCombinedDesc') {
-      return compareReviewSort(left, right, ['tabelog', 'google'], 'desc');
+      return compareReviewSummary(left, right, 'desc');
     }
 
     if (sortKey === 'closingSoon') {
-      const leftClose = left.status.closesAt ?? '99:99';
-      const rightClose = right.status.closesAt ?? '99:99';
+      const leftClose = left.place.status.closesAt ?? '99:99';
+      const rightClose = right.place.status.closesAt ?? '99:99';
       return leftClose.localeCompare(rightClose);
     }
 
-    const rightStatusWeight =
-      right.status.state === 'open'
-        ? 650
-        : right.status.state === 'closingSoon'
-          ? 220
-          : right.status.state === 'temporarilyClosed'
-            ? -1400
-            : right.status.state === 'permanentlyClosed'
-              ? -2200
-              : -900;
-    const leftStatusWeight =
-      left.status.state === 'open'
-        ? 650
-        : left.status.state === 'closingSoon'
-          ? 220
-          : left.status.state === 'temporarilyClosed'
-            ? -1400
-            : left.status.state === 'permanentlyClosed'
-              ? -2200
-              : -900;
-    const rightBest = (right.consensusScore * 1000) - right.distanceMeters + rightStatusWeight;
-    const leftBest = (left.consensusScore * 1000) - left.distanceMeters + leftStatusWeight;
-    return rightBest - leftBest;
+    return right.bestScore - left.bestScore;
   });
 
-  return next;
+  return decorated.map((entry) => entry.place);
 }

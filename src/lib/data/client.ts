@@ -1,4 +1,4 @@
-import type { PlaceDetail, PlaceSummary, PopularHub } from '$lib/types';
+import type { PlaceDetailSupplement, PlaceSummary, PopularHub } from '$lib/types';
 
 async function fetchJson<T>(url: string): Promise<T> {
   const response = await fetch(url, { credentials: 'same-origin' });
@@ -14,7 +14,7 @@ export function loadPlaceSummary() {
 }
 
 export function loadPlaceDetails() {
-  return fetchJson<Record<string, PlaceDetail>>('/data/places-detail.min.json');
+  return fetchJson<Record<string, PlaceDetailSupplement>>('/data/places-detail.min.json');
 }
 
 export function loadPopularHubs() {

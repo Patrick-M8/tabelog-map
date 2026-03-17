@@ -10,7 +10,16 @@
   import PlaceCard from '$lib/components/PlaceCard.svelte';
   import { DEFAULT_CENTER } from '$lib/config';
   import { loadPlaceDetails, loadPlaceSummary } from '$lib/data/client';
-  import type { ActiveFilters, DisplayPlace, PlaceDetail, PlaceSummary, ReviewSource, SheetSnap, SortKey } from '$lib/types';
+  import type {
+    ActiveFilters,
+    DisplayPlace,
+    PlaceDetail,
+    PlaceDetailSupplement,
+    PlaceSummary,
+    ReviewSource,
+    SheetSnap,
+    SortKey
+  } from '$lib/types';
   import { normalizePriceBand } from '$lib/utils/format';
   import { haversineDistanceMeters, isInsideBounds, walkMinutesFromDistance } from '$lib/utils/geo';
   import { derivePlaceStatus } from '$lib/utils/hours';
@@ -26,17 +35,17 @@
     sheetSnap: SheetSnap;
     section: FilterSection;
   };
+  type EnrichedPlaceSummary = PlaceSummary & {
+    normalizedPriceBand: string | null;
+    status: DisplayPlace['status'];
+  };
 
   const summaryQuery = createQuery<PlaceSummary[]>({
     queryKey: ['places-summary'],
     queryFn: loadPlaceSummary,
-    enabled: browser
-  });
-
-  const detailQuery = createQuery<Record<string, PlaceDetail>>({
-    queryKey: ['places-detail'],
-    queryFn: loadPlaceDetails,
-    enabled: browser
+    enabled: browser,
+    staleTime: Infinity,
+    gcTime: Infinity
   });
 
   const EMPTY_FILTERS: ActiveFilters = {
@@ -79,13 +88,18 @@
   };
   let geolocationDenied = false;
   let summaries: PlaceSummary[] = [];
-  let details: Record<string, PlaceDetail> = {};
+  let enrichedSummaries: EnrichedPlaceSummary[] = [];
+  let detailSupplements: Record<string, PlaceDetailSupplement> = {};
+  let detailSupplementsReady = false;
+  let detailSupplementsLoading = false;
+  let detailSupplementsPromise: Promise<void> | null = null;
   let candidatePlaces: DisplayPlace[] = [];
   let displayPlaces: DisplayPlace[] = [];
   let sortedPlaces: DisplayPlace[] = [];
   let visiblePlaces: DisplayPlace[] = [];
   let mobileListPlaces: DisplayPlace[] = [];
   let selectedPlace: DisplayPlace | null = null;
+  let selectedSummary: PlaceSummary | null = null;
   let selectedDetail: PlaceDetail | null = null;
   let availableCategories: { key: string; label: string; count: number }[] = [];
   let desktop = false;
@@ -111,6 +125,30 @@
 
   function randomToken(prefix: string) {
     return `${prefix}-${Date.now()}-${Math.random().toString(16).slice(2, 8)}`;
+  }
+
+  async function ensureDetailSupplements() {
+    if (detailSupplementsReady) {
+      return;
+    }
+
+    if (detailSupplementsPromise) {
+      await detailSupplementsPromise;
+      return;
+    }
+
+    detailSupplementsLoading = true;
+    detailSupplementsPromise = loadPlaceDetails()
+      .then((payload) => {
+        detailSupplements = payload;
+        detailSupplementsReady = true;
+      })
+      .finally(() => {
+        detailSupplementsLoading = false;
+        detailSupplementsPromise = null;
+      });
+
+    await detailSupplementsPromise;
   }
 
   function updateFilters(nextFilters: ActiveFilters) {
@@ -526,7 +564,11 @@
   $: sheetSnap = uiRouteState.view === 'browse' ? uiRouteState.sheetSnap : 'full';
   $: pendingFilterSection = filterOpen ? uiRouteState.section : null;
   $: summaries = $summaryQuery.data ?? [];
-  $: details = $detailQuery.data ?? {};
+  $: enrichedSummaries = summaries.map((place) => ({
+    ...place,
+    normalizedPriceBand: normalizePriceBand(place.priceBand, place.priceBucket),
+    status: derivePlaceStatus(place.weeklyTimeline, place.closure)
+  }));
   $: availableCategories = visibleCategories(summaries);
   $: {
     const nextReviewState = sortKeyToTraySortState(sortKey).reviewSort;
@@ -557,30 +599,46 @@
     activeReviewSources.length === 2
       ? `Combined average ${activeReviewDirection === 'asc' ? 'ascending' : 'descending'}`
       : `Rating ${activeReviewDirection === 'asc' ? 'ascending' : 'descending'}`;
-  $: candidatePlaces = summaries
-    .map((place) => {
-      const distanceMeters = haversineDistanceMeters(searchCenter, { lat: place.lat, lng: place.lng });
-      return {
-        ...place,
-        distanceMeters,
-        walkMinutes: walkMinutesFromDistance(distanceMeters),
-        status: derivePlaceStatus(place.weeklyTimeline, place.closure)
-      } satisfies DisplayPlace;
-    })
-    .filter((place) =>
-      activeFilters.openNow ? place.status.state === 'open' || place.status.state === 'closingSoon' : true
-    )
-    .filter((place) => (activeFilters.closingSoon ? place.status.state === 'closingSoon' : true))
-    .filter((place) => (activeFilters.openingSoon ? place.status.state === 'openingSoon' : true))
-    .filter((place) => (activeFilters.maxWalkMinutes ? place.walkMinutes <= activeFilters.maxWalkMinutes : true))
-    .filter((place) =>
-      activeFilters.priceBands.length
-        ? activeFilters.priceBands.includes(normalizePriceBand(place.priceBand, place.priceBucket) ?? '')
-        : true
-    )
-    .filter((place) => (activeFilters.categoryKeys.length ? activeFilters.categoryKeys.includes(place.category.key) : true));
+  $: candidatePlaces = enrichedSummaries.reduce<DisplayPlace[]>((next, place) => {
+    const distanceMeters = haversineDistanceMeters(searchCenter, { lat: place.lat, lng: place.lng });
+    const walkMinutes = walkMinutesFromDistance(distanceMeters);
+
+    if (activeFilters.openNow && place.status.state !== 'open' && place.status.state !== 'closingSoon') {
+      return next;
+    }
+
+    if (activeFilters.closingSoon && place.status.state !== 'closingSoon') {
+      return next;
+    }
+
+    if (activeFilters.openingSoon && place.status.state !== 'openingSoon') {
+      return next;
+    }
+
+    if (activeFilters.maxWalkMinutes && walkMinutes > activeFilters.maxWalkMinutes) {
+      return next;
+    }
+
+    if (activeFilters.priceBands.length && !activeFilters.priceBands.includes(place.normalizedPriceBand ?? '')) {
+      return next;
+    }
+
+    if (activeFilters.categoryKeys.length && !activeFilters.categoryKeys.includes(place.category.key)) {
+      return next;
+    }
+
+    next.push({
+      ...place,
+      distanceMeters,
+      walkMinutes
+    } as DisplayPlace);
+    return next;
+  }, []);
   $: displayPlaces = candidatePlaces.filter((place) => isInsideBounds({ lat: place.lat, lng: place.lng }, mapBounds));
   $: sortedPlaces = sortPlaces(displayPlaces, sortKey);
+  $: if (browser && detailOpen && selectedPlaceId && !detailSupplementsReady && !detailSupplementsLoading) {
+    void ensureDetailSupplements();
+  }
   $: if (browser && detailOpen && (!selectedPlaceId || !sortedPlaces.some((place) => place.id === selectedPlaceId))) {
     void navigateUiState(
       {
@@ -604,7 +662,11 @@
     );
   }
   $: selectedPlace = sortedPlaces.find((place) => place.id === selectedPlaceId) ?? null;
-  $: selectedDetail = selectedPlaceId ? details[selectedPlaceId] ?? null : null;
+  $: selectedSummary = summaries.find((place) => place.id === selectedPlaceId) ?? null;
+  $: selectedDetail =
+    selectedPlaceId && selectedSummary && detailSupplements[selectedPlaceId]
+      ? { ...selectedSummary, ...detailSupplements[selectedPlaceId] }
+      : null;
   $: visiblePlaces = sortedPlaces.slice(0, 80);
   $: mobileListPlaces = selectedPlace ? visiblePlaces.filter((place) => place.id !== selectedPlace.id) : visiblePlaces;
   $: visibleCuisineCategories = visibleCuisineOptions(availableCategories, activeFilters.categoryKeys, cuisineExpanded);
@@ -821,7 +883,7 @@
               {#each visiblePlaces as place (place.id)}
                 <PlaceCard
                   {place}
-                  imageUrl={details[place.id]?.imageUrl ?? null}
+                  imageUrl={place.imageUrl}
                   selected={place.id === selectedPlaceId}
                   on:select={() => handlePlaceSelect(place.id)}
                   on:directions={() => openDirections(place)}
@@ -987,7 +1049,7 @@
             {#each mobileListPlaces as place (place.id)}
               <PlaceCard
                 {place}
-                imageUrl={details[place.id]?.imageUrl ?? null}
+                imageUrl={place.imageUrl}
                 selected={place.id === selectedPlaceId}
                 on:select={() => handlePlaceSelect(place.id)}
                 on:directions={() => openDirections(place)}
