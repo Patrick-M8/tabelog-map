@@ -211,6 +211,10 @@ def _candidate_score(record: dict, candidate: dict):
     return score
 
 
+def is_valid_google_match(record: dict, candidate: dict, *, minimum_score: int = 4):
+    return _candidate_score(record, candidate) >= minimum_score
+
+
 def _normalize_place_payload(place_payload: dict):
     location = place_payload.get("location") or {}
     place_id = place_id_from_details(place_payload)
@@ -228,18 +232,45 @@ def _normalize_place_payload(place_payload: dict):
     }
 
 
-def resolve_google_place(record: dict, client: GooglePlacesClient, *, prefer_existing_place_id: bool = True):
+def clear_google_match(record: dict, *, reason: str):
+    return {
+        "place_id": "",
+        "g_name": record.get("g_name") or "",
+        "g_address": record.get("g_address") or record.get("tabelog_address") or "",
+        "lat": record.get("lat"),
+        "lng": record.get("lng"),
+        "g_rating": None,
+        "g_reviews": 0,
+        "google_maps_url": "",
+        "business_status": None,
+        "google_match_method": reason,
+        "google_match_confidence": "low",
+        "google_last_updated_at": utc_timestamp(),
+    }
+
+
+def resolve_google_place(
+    record: dict,
+    client: GooglePlacesClient,
+    *,
+    prefer_existing_place_id: bool = True,
+    minimum_match_score: int = 4,
+    clear_invalid_existing_place_id: bool = False,
+):
     existing_place_id = record.get("place_id") or place_id_from_maps_url(record.get("google_maps_url"))
+    invalid_existing_place_id = False
     if prefer_existing_place_id and existing_place_id:
         try:
             detailed = client.place_details(f"places/{existing_place_id}")
         except requests.HTTPError:
             detailed = None
         if detailed:
-            normalized = _normalize_place_payload(detailed)
-            normalized["google_match_method"] = "placeDetails:existingPlaceId"
-            normalized["google_match_confidence"] = "high"
-            return normalized
+            if is_valid_google_match(record, detailed, minimum_score=minimum_match_score):
+                normalized = _normalize_place_payload(detailed)
+                normalized["google_match_method"] = "placeDetails:existingPlaceId"
+                normalized["google_match_confidence"] = "high"
+                return normalized
+            invalid_existing_place_id = True
 
     best_candidate = None
     best_score = -1
@@ -254,7 +285,7 @@ def resolve_google_place(record: dict, client: GooglePlacesClient, *, prefer_exi
                 best_candidate = candidate
                 best_method = f"searchText:{query}"
 
-    if best_candidate:
+    if best_candidate and best_score >= minimum_match_score:
         resource_name = best_candidate.get("name")
         detailed = client.place_details(resource_name) if resource_name else best_candidate
         normalized = _normalize_place_payload(detailed)
@@ -268,7 +299,7 @@ def resolve_google_place(record: dict, client: GooglePlacesClient, *, prefer_exi
         if geocoded.get("results"):
             top = geocoded["results"][0]
             location = (top.get("geometry") or {}).get("location") or {}
-            return {
+            fallback = {
                 "place_id": record.get("place_id") or "",
                 "g_name": record.get("g_name") or record.get("name_en") or record.get("name") or "",
                 "g_address": top.get("formatted_address", ""),
@@ -282,6 +313,17 @@ def resolve_google_place(record: dict, client: GooglePlacesClient, *, prefer_exi
                 "google_match_confidence": "low",
                 "google_last_updated_at": utc_timestamp(),
             }
+            if invalid_existing_place_id and clear_invalid_existing_place_id:
+                fallback["place_id"] = ""
+                fallback["google_maps_url"] = ""
+                fallback["g_rating"] = None
+                fallback["g_reviews"] = 0
+                fallback["business_status"] = None
+                fallback["google_match_method"] = "repair:clearedInvalidExistingPlaceIdAfterGeocode"
+            return fallback
+
+    if invalid_existing_place_id and clear_invalid_existing_place_id:
+        return clear_google_match(record, reason="repair:clearedInvalidExistingPlaceId")
 
     return None
 

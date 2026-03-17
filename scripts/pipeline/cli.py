@@ -179,6 +179,7 @@ def command_backfill_google(args):
         include_business_status=not args.core_only,
         core_only=args.core_only,
         status_only=args.status_only,
+        repair_existing_place_ids=args.repair_existing_place_ids,
         fetch_missing_tabelog_address=args.fetch_missing_tabelog_address,
         tabelog_sleep_seconds=args.tabelog_sleep_seconds,
         limit=args.limit,
@@ -413,6 +414,11 @@ def build_parser():
     backfill_parser.add_argument("--dry-run", action="store_true")
     backfill_parser.add_argument("--core-only", action="store_true", help="Only attempt core Google field gaps.")
     backfill_parser.add_argument("--status-only", action="store_true", help="Only attempt missing business status gaps.")
+    backfill_parser.add_argument(
+        "--repair-existing-place-ids",
+        action="store_true",
+        help="Revalidate existing Google place IDs for selected records and replace or clear invalid matches.",
+    )
     backfill_parser.add_argument(
         "--fetch-missing-tabelog-address",
         action="store_true",

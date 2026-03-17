@@ -42,6 +42,7 @@ def backfill_google_records(
     include_business_status: bool = True,
     core_only: bool = False,
     status_only: bool = False,
+    repair_existing_place_ids: bool = False,
     fetch_missing_tabelog_address: bool = False,
     tabelog_sleep_seconds: float = 0.0,
     limit: int | None = None,
@@ -80,6 +81,8 @@ def backfill_google_records(
                 should_attempt = _core_gap_missing(record)
             elif status_only:
                 should_attempt = missing_google_fields(record)["business_status"]
+            elif repair_existing_place_ids:
+                should_attempt = True
             else:
                 should_attempt = should_backfill_google(record, include_business_status=include_business_status)
 
@@ -107,7 +110,11 @@ def backfill_google_records(
                     sleep_seconds=tabelog_sleep_seconds,
                 )
 
-            enrichment = resolve_google_place(working_record, client)
+            enrichment = resolve_google_place(
+                working_record,
+                client,
+                clear_invalid_existing_place_id=repair_existing_place_ids,
+            )
             if enrichment is None:
                 next_records.append(working_record)
                 summary["unresolvedCount"] += 1
