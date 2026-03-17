@@ -54,6 +54,10 @@
   const PRICE_BANDS = Array.from({ length: 5 }, (_, index) => '\u00A5'.repeat(index + 1));
   const WALK_MINUTE_OPTIONS = [5, 10, 15, 30];
   const REVIEW_SOURCES: ReviewSource[] = ['tabelog', 'google'];
+  const BRAND_MARKS: Record<ReviewSource, string> = {
+    tabelog: '/brands/tabelog.png',
+    google: '/brands/google logo.png'
+  };
   let innerWidth = 390;
   let sheetSnap: SheetSnap = DEFAULT_BROWSE_SNAP;
   let sortKey: SortKey = 'best';
@@ -782,7 +786,7 @@
                 <h1>Tabelog Hyakumeiten</h1>
                 <p class="sheet-summary">{filterSummary}</p>
               </div>
-              <img class="sheet-brand-mark" src="/brands/tabelog-mark.svg" alt="Tabelog" />
+              <img class="sheet-brand-mark" src={BRAND_MARKS.tabelog} alt="Tabelog" />
             </div>
           </div>
 
@@ -822,7 +826,7 @@
                     aria-pressed={activeReviewSources.includes(source) ? 'true' : 'false'}
                     on:click={() => setReviewSort(source)}
                   >
-                    <img src={source === 'tabelog' ? '/brands/tabelog-mark.svg' : '/brands/google-mark.svg'} alt="" />
+                    <img src={BRAND_MARKS[source]} alt="" />
                   </button>
                 {/each}
               </div>
@@ -951,7 +955,7 @@
               <h1>Tabelog Hyakumeiten</h1>
               <p class="sheet-summary">{filterSummary}</p>
             </div>
-            <img class="sheet-brand-mark" src="/brands/tabelog-mark.svg" alt="Tabelog" />
+            <img class="sheet-brand-mark" src={BRAND_MARKS.tabelog} alt="Tabelog" />
           </div>
         </div>
 
@@ -991,7 +995,7 @@
                   aria-pressed={activeReviewSources.includes(source) ? 'true' : 'false'}
                   on:click={() => setReviewSort(source)}
                 >
-                  <img src={source === 'tabelog' ? '/brands/tabelog-mark.svg' : '/brands/google-mark.svg'} alt="" />
+                  <img src={BRAND_MARKS[source]} alt="" />
                 </button>
               {/each}
             </div>
@@ -1330,10 +1334,10 @@
   }
 
   .sheet-brand-mark {
-    width: 68px;
-    height: auto;
+    width: 42px;
+    height: 42px;
     flex: 0 0 auto;
-    margin-top: 4px;
+    margin-top: 2px;
     object-fit: contain;
   }
 
@@ -1491,15 +1495,15 @@
   }
 
   .review-segment-option img {
-    width: 18px;
-    height: 18px;
+    width: 22px;
+    height: 22px;
     object-fit: contain;
     pointer-events: none;
   }
 
   .review-segment-option.tabelog img {
     width: 24px;
-    height: 14px;
+    height: 24px;
   }
 
   .review-segment-option.active.tabelog {
@@ -1623,7 +1627,8 @@
     }
 
     .sheet-brand-mark {
-      width: 58px;
+      width: 38px;
+      height: 38px;
     }
 
     .icon-button-square {
@@ -1653,13 +1658,13 @@
     }
 
     .review-segment-option img {
-      width: 17px;
-      height: 17px;
+      width: 18px;
+      height: 18px;
     }
 
     .review-segment-option.tabelog img {
-      width: 22px;
-      height: 13px;
+      width: 20px;
+      height: 20px;
     }
   }
 </style>
