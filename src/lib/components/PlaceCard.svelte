@@ -117,8 +117,8 @@
 <style>
   .card {
     display: grid;
-    gap: 14px;
-    padding: 16px;
+    gap: 12px;
+    padding: 15px;
     border-radius: 20px;
     background: rgba(255, 255, 255, 0.96);
     border: 1px solid rgba(17, 17, 17, 0.05);
@@ -154,8 +154,8 @@
 
   .card-shell {
     display: grid;
-    grid-template-columns: 112px minmax(0, 1fr);
-    gap: 14px;
+    grid-template-columns: 104px minmax(0, 1fr);
+    gap: 12px;
     align-items: stretch;
   }
 
@@ -167,14 +167,14 @@
   .card-copy {
     min-width: 0;
     display: grid;
-    gap: 9px;
+    gap: 8px;
     align-content: start;
   }
 
   .preview {
     position: relative;
     overflow: hidden;
-    border-radius: 14px;
+    border-radius: 13px;
     background: linear-gradient(145deg, rgba(216, 221, 228, 0.8), rgba(244, 245, 248, 0.96));
     box-shadow:
       inset 0 1px 0 rgba(255, 255, 255, 0.64),
@@ -195,7 +195,7 @@
   .preview-placeholder {
     width: 100%;
     height: 100%;
-    min-height: 118px;
+    min-height: 110px;
     object-fit: cover;
     display: grid;
     place-items: center;
@@ -264,7 +264,7 @@
   .ratings-line,
   .status-line {
     color: #8e8e93;
-    font-size: 0.81rem;
+    font-size: 0.79rem;
     line-height: 1.3;
   }
 
@@ -338,22 +338,37 @@
     color: #9b6a22;
   }
 
+  .status-pill.openingSoon {
+    background: rgba(59, 130, 246, 0.12);
+    color: #215ea8;
+  }
+
+  .status-pill.temporarilyClosed {
+    background: rgba(200, 100, 59, 0.18);
+    color: #8b4b30;
+  }
+
   .status-pill.closed {
     background: rgba(142, 142, 147, 0.14);
     color: #6b6b73;
   }
 
+  .status-pill.permanentlyClosed {
+    background: rgba(150, 41, 41, 0.14);
+    color: #8a2d2d;
+  }
+
   .cta-row {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 10px;
+    gap: 8px;
   }
 
   .cta-row button {
-    min-height: 44px;
+    min-height: 40px;
     border: 0;
-    border-radius: 14px;
-    padding: 12px 14px;
+    border-radius: 13px;
+    padding: 10px 13px;
     font-weight: 600;
     letter-spacing: -0.01em;
     transition:
@@ -377,7 +392,7 @@
   }
 
   .cta-row button.secondary {
-    background: #f2f2f7;
+    background: rgba(23, 25, 28, 0.08);
     color: #17191c;
   }
 
@@ -387,13 +402,13 @@
 
   @media (max-width: 520px) {
     .card {
-      gap: 12px;
-      padding: 15px;
+      gap: 10px;
+      padding: 13px;
     }
 
     .card-shell {
-      grid-template-columns: 98px minmax(0, 1fr);
-      gap: 12px;
+      grid-template-columns: 88px minmax(0, 1fr);
+      gap: 10px;
     }
 
     .card.expanded {
@@ -407,11 +422,27 @@
 
     .preview img,
     .preview-placeholder {
-      min-height: 108px;
+      min-height: 98px;
     }
 
     h3 {
-      font-size: 1.04rem;
+      font-size: 1rem;
+    }
+
+    .subtitle,
+    .meta-row,
+    .ratings-line,
+    .status-line {
+      font-size: 0.77rem;
+    }
+
+    .cta-row {
+      gap: 7px;
+    }
+
+    .cta-row button {
+      min-height: 38px;
+      padding: 9px 12px;
     }
   }
 

@@ -2,10 +2,12 @@ import { describe, expect, it } from 'vitest';
 
 import { countActiveFilters, summarizeFilters } from '../../src/lib/utils/discovery';
 import type { ActiveFilters } from '../../src/lib/types';
+import { toAdvancedFilters } from '../../src/lib/utils/filterScope';
 
 const EMPTY_FILTERS: ActiveFilters = {
   openNow: false,
   closingSoon: false,
+  openingSoon: false,
   maxWalkMinutes: null,
   priceBands: [],
   categoryKeys: []
@@ -21,11 +23,12 @@ describe('countActiveFilters', () => {
       countActiveFilters({
         openNow: true,
         closingSoon: false,
+        openingSoon: true,
         maxWalkMinutes: 10,
-        priceBands: ['\u00A5\u00A5'],
+        priceBands: ['¥¥'],
         categoryKeys: ['sushi', 'ramen']
       })
-    ).toBe(4);
+    ).toBe(5);
   });
 });
 
@@ -39,10 +42,34 @@ describe('summarizeFilters', () => {
       summarizeFilters({
         openNow: true,
         closingSoon: false,
+        openingSoon: true,
         maxWalkMinutes: 15,
-        priceBands: ['\u00A5', '\u00A5\u00A5'],
+        priceBands: ['¥', '¥¥'],
         categoryKeys: ['sushi']
       })
-    ).toBe('Open now, \u226415 min, 2 price levels');
+    ).toBe('Open now, Opening soon, ≤15 min');
+  });
+});
+
+describe('toAdvancedFilters', () => {
+  it('removes tray-only open state without mutating the original filters', () => {
+    const filters: ActiveFilters = {
+      openNow: true,
+      closingSoon: true,
+      openingSoon: true,
+      maxWalkMinutes: 10,
+      priceBands: ['¥¥'],
+      categoryKeys: ['sushi']
+    };
+
+    expect(toAdvancedFilters(filters)).toEqual({
+      openNow: false,
+      closingSoon: true,
+      openingSoon: true,
+      maxWalkMinutes: 10,
+      priceBands: ['¥¥'],
+      categoryKeys: ['sushi']
+    });
+    expect(filters.openNow).toBe(true);
   });
 });

@@ -1,0 +1,58 @@
+{
+  "overview": {
+    "sourceFileCount": 70,
+    "rawRestaurantCount": 6996,
+    "rawUniqueUrlCount": 6996,
+    "webappRestaurantCount": 6996,
+    "webappUniqueUrlCount": 6996,
+    "webappCoveragePct": 100.0,
+    "rawOnlyCount": 0,
+    "webappOnlyCount": 0
+  },
+  "hours": {
+    "missingHoursRawCount": 103,
+    "missingHoursStructuralCount": 601,
+    "hoursNeedReviewCount": 1486,
+    "hoursConfidenceCounts": {
+      "high": 5348,
+      "low": 1486,
+      "medium": 162
+    },
+    "specialDayHoursCount": 1882,
+    "hoursPolicyCount": 3205,
+    "allDayRestaurantCount": 5,
+    "overnightRestaurantCount": 488,
+    "splitServiceRestaurantCount": 2594,
+    "visibleHoursNeedReviewCount": 1486
+  },
+  "google": {
+    "missingGoogleCoreCount": 28,
+    "missingPlaceIdCount": 0,
+    "missingCoordinatesCount": 0,
+    "missingGoogleMapsUrlCount": 0,
+    "missingGoogleRatingCount": 28,
+    "missingGoogleReviewsCount": 0,
+    "missingBusinessStatusCount": 6562,
+    "visibleMissingGoogleCoreCount": 28,
+    "visibleMissingGoogleRatingCount": 28,
+    "visibleMissingBusinessStatusCount": 6562,
+    "rawOnlyMissingCoordinatesCount": 0
+  },
+  "crossReference": {
+    "temporarilyClosedVisibleCount": 75,
+    "permanentlyClosedVisibleCount": 3,
+    "rawOnlyTopCategories": {},
+    "visibleGapTopCategories": {
+      "Japanese": 141,
+      "Sushi": 119,
+      "Italian": 96,
+      "French": 81,
+      "Chinese": 78,
+      "Ramen": 73,
+      "Sweets": 72,
+      "Yakiniku": 67,
+      "Bakery": 66,
+      "Yakitori": 62
+    }
+  }
+}

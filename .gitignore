@@ -3,3 +3,9 @@ node_modules/
 static/data/
 playwright-report/
 test-results/
+.tmp/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+.env
+.env.local

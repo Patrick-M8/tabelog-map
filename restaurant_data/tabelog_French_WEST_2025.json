@@ -1113,15 +1113,20 @@
     },
     "google_rating": null,
     "google_reviews": 0,
-    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJNfZWPQKTQTUR6F4F8_gHs7E",
+    "google_maps_url": "https://maps.google.com/?cid=12804586931354951400&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
     "image_url": "https://d2py3gk9dukd01.cloudfront.net/assets/hyakumeiten2025/restaurants/french_west/40064406-0faf82835b1b05b7f444d2d51f8f3a7e1b0081de95c15754f278c256f53738f8.jpg",
     "place_id": "ChIJNfZWPQKTQTUR6F4F8_gHs7E",
     "g_name": "新教育Vスタ 六本松教室",
     "g_rating": null,
     "g_reviews": 0,
-    "g_address": "日本、〒810-0044 福岡県福岡市中央区六本松４丁目９−１５ 2F",
+    "g_address": "2F, 4-chōme-9-15 Ropponmatsu, Chuo Ward, Fukuoka, 810-0044, Japan",
     "lat": 33.5760556,
-    "lng": 130.3767507
+    "lng": 130.3767507,
+    "tabelog_address": "福岡県 福岡市中央区 草香江 1-5-22 大濠ガーデンBFビル 4F",
+    "business_status": "OPERATIONAL",
+    "google_match_method": "placeDetails:existingPlaceId",
+    "google_match_confidence": "high",
+    "google_last_updated_at": "2026-03-16T20:16:33Z"
   },
   {
     "category_jp": "フレンチ",

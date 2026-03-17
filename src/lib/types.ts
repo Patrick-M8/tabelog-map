@@ -1,13 +1,35 @@
 export type HoursConfidence = 'low' | 'medium' | 'high';
 export type ConsensusGrade = 'A' | 'B' | 'C' | 'D' | 'E';
 export type SheetSnap = 'peek' | 'mid' | 'full';
-export type SortKey = 'best' | 'closingSoon' | 'distance' | 'priceAsc' | 'priceDesc';
+export type SortDirection = 'asc' | 'desc';
+export type ReviewSource = 'tabelog' | 'google';
+export type SortKey =
+  | 'best'
+  | 'distanceAsc'
+  | 'distanceDesc'
+  | 'priceAsc'
+  | 'priceDesc'
+  | 'tabelogAsc'
+  | 'tabelogDesc'
+  | 'googleAsc'
+  | 'googleDesc'
+  | 'reviewsCombinedAsc'
+  | 'reviewsCombinedDesc';
+export type ClosureState = 'active' | 'temporarilyClosed' | 'permanentlyClosed' | 'unknown';
+
+export interface LastOrderDetail {
+  generic?: string;
+  food?: string;
+  drinks?: string;
+}
 
 export interface DailyWindow {
   open: string;
   close: string;
   crossesMidnight: boolean;
+  allDay: boolean;
   lastOrder: string | null;
+  lastOrderDetail: LastOrderDetail | null;
 }
 
 export interface WeeklyTimeline {
@@ -18,6 +40,17 @@ export interface WeeklyTimeline {
   fri: DailyWindow[];
   sat: DailyWindow[];
   sun: DailyWindow[];
+}
+
+export interface HoursDisplay {
+  today: string;
+  week: string;
+}
+
+export interface HoursSpecialDays {
+  publicHoliday: DailyWindow[];
+  dayBeforePublicHoliday: DailyWindow[];
+  dayAfterPublicHoliday: DailyWindow[];
 }
 
 export interface RatingSummary {
@@ -36,6 +69,13 @@ export interface SourceLinks {
   google: string | null;
 }
 
+export interface ClosureInfo {
+  state: ClosureState;
+  source: 'google' | 'tabelog' | 'derived';
+  reason: string | null;
+  detectedAt: string | null;
+}
+
 export interface PlaceSummary {
   id: string;
   placeId: string | null;
@@ -52,6 +92,9 @@ export interface PlaceSummary {
   priceBucket: number;
   weeklyTimeline: WeeklyTimeline;
   hoursConfidence: HoursConfidence;
+  hoursDisplay: HoursDisplay;
+  hoursSpecialDays: HoursSpecialDays;
+  hoursPolicies: string[];
   freshnessUpdatedAt: string;
   consensusScore: number;
   consensusGrade: ConsensusGrade;
@@ -62,6 +105,7 @@ export interface PlaceSummary {
   callPhone: string | null;
   advisories: string[];
   badges: string[];
+  closure: ClosureInfo;
 }
 
 export interface ReservationLink {
@@ -105,6 +149,7 @@ export interface SearchState {
 export interface ActiveFilters {
   openNow: boolean;
   closingSoon: boolean;
+  openingSoon: boolean;
   maxWalkMinutes: number | null;
   priceBands: string[];
   categoryKeys: string[];
@@ -125,7 +170,7 @@ export interface DisplayPlace extends PlaceSummary {
 }
 
 export interface PlaceStatus {
-  state: 'open' | 'closingSoon' | 'closed';
+  state: 'open' | 'closingSoon' | 'openingSoon' | 'closed' | 'temporarilyClosed' | 'permanentlyClosed';
   label: string;
   detail: string;
   closesAt: string | null;

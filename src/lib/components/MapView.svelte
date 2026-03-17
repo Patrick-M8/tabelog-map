@@ -140,6 +140,10 @@
           'rgba(47, 125, 87, 0.18)',
           'closingSoon',
           'rgba(200, 100, 59, 0.2)',
+          'temporarilyClosed',
+          'rgba(200, 100, 59, 0.24)',
+          'permanentlyClosed',
+          'rgba(150, 41, 41, 0.22)',
           'rgba(140, 145, 153, 0.18)'
         ]
       }
@@ -159,6 +163,10 @@
           '#2f7d57',
           'closingSoon',
           '#c8643b',
+          'temporarilyClosed',
+          '#c8643b',
+          'permanentlyClosed',
+          '#962929',
           '#8c9199'
         ],
         'circle-stroke-width': 2,
@@ -198,7 +206,7 @@
       source: 'user-point',
       paint: {
         'circle-radius': 7,
-        'circle-color': '#17191c',
+        'circle-color': '#2f7d57',
         'circle-stroke-width': 3,
         'circle-stroke-color': '#f7f6f3'
       }
