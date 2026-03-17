@@ -38,11 +38,11 @@
       {/if}
     </div>
     <div class="token-wrap">
-      <button type="button" class:active={activeFilters.closingSoon} on:click={() => dispatch('toggleClosingSoon')}>
-        Closing soon
-      </button>
       <button type="button" class:active={activeFilters.openingSoon} on:click={() => dispatch('toggleOpeningSoon')}>
         Opening soon
+      </button>
+      <button type="button" class:active={activeFilters.closingSoon} on:click={() => dispatch('toggleClosingSoon')}>
+        Closing soon
       </button>
     </div>
   </section>

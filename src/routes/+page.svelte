@@ -589,7 +589,7 @@
   $: activeReviewSources = traySortState.reviewSort.sources;
   $: reviewSortActive = activeReviewSources.length > 0;
   $: distanceSortLabel = distanceSortActive ? `📍 ${traySortState.overrideDirection === 'desc' ? '↓' : '↑'}` : '📍';
-  $: priceSortLabel = priceSortActive ? `💴 ${traySortState.overrideDirection === 'desc' ? '↓' : '↑'}` : '💴';
+  $: priceSortLabel = priceSortActive ? `¥ ${traySortState.overrideDirection === 'desc' ? '↓' : '↑'}` : '¥';
   $: reviewDirectionLabel = traySortState.reviewSort.direction === 'asc' ? '↑' : '↓';
   $: sortKey = traySortStateToSortKey(traySortState);
   $: candidatePlaces = summaries
@@ -841,9 +841,7 @@
                 >
                   <span class="toolbar-pill-label toolbar-pill-label-emoji">{priceSortLabel}</span>
                 </button>
-              </div>
-              <div class="review-sort-row">
-                <div class="review-segment" class:active={reviewSortActive}>
+                <div class="review-segment review-segment-inline" class:active={reviewSortActive}>
                   {#each REVIEW_SOURCES as source}
                     <button
                       type="button"
@@ -1002,9 +1000,7 @@
               >
                 <span class="toolbar-pill-label toolbar-pill-label-emoji">{priceSortLabel}</span>
               </button>
-            </div>
-            <div class="review-sort-row">
-              <div class="review-segment" class:active={reviewSortActive}>
+              <div class="review-segment review-segment-inline" class:active={reviewSortActive}>
                 {#each REVIEW_SOURCES as source}
                   <button
                     type="button"
@@ -1143,15 +1139,10 @@
 
   .top-filter-row {
     min-width: 0;
-    display: flex;
+    display: inline-flex;
     gap: 6px;
-    overflow-x: auto;
-    scrollbar-width: none;
-    padding: 0 2px 2px 0;
-  }
-
-  .top-filter-row::-webkit-scrollbar {
-    display: none;
+    overflow: visible;
+    padding: 0;
   }
 
   .filter-pill {
@@ -1399,19 +1390,20 @@
 
   .segment-row-toolbar {
     flex-wrap: nowrap;
-    gap: 6px;
+    gap: 4px;
     margin-bottom: 0;
+    align-items: center;
   }
 
   .toolbar-pill {
     min-width: 0;
-    flex: 1 1 0;
-    min-height: 38px;
-    padding: 8px 12px;
+    flex: 0 0 auto;
+    min-height: 36px;
+    padding: 8px 10px;
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    gap: 6px;
+    gap: 4px;
     white-space: nowrap;
     border-radius: 999px;
     border: 1px solid rgba(23, 25, 28, 0.08);
@@ -1432,21 +1424,13 @@
   }
 
   .toolbar-pill-label-emoji {
-    font-size: 1rem;
+    font-size: 0.95rem;
     letter-spacing: 0.01em;
   }
 
   .toolbar-pill-emoji {
-    flex: 0 0 auto;
-    min-width: 56px;
-    padding-inline: 14px;
-  }
-
-  .review-sort-row {
-    display: grid;
-    grid-template-columns: minmax(0, 1fr) auto;
-    gap: 8px;
-    align-items: center;
+    min-width: 44px;
+    padding-inline: 10px;
   }
 
   .review-segment {
@@ -1457,6 +1441,10 @@
     background: rgba(255, 255, 255, 0.84);
     border: 1px solid rgba(23, 25, 28, 0.08);
     box-shadow: var(--shadow-soft);
+  }
+
+  .review-segment-inline {
+    flex: 0 0 auto;
   }
 
   .review-segment.active {
@@ -1481,19 +1469,19 @@
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    padding: 0 14px;
+    padding: 0 8px;
   }
 
   .review-segment-option img {
-    width: 46px;
-    height: 24px;
+    width: 34px;
+    height: 20px;
     object-fit: contain;
     pointer-events: none;
   }
 
   .review-segment-option.tabelog img {
-    width: 44px;
-    height: 22px;
+    width: 32px;
+    height: 18px;
   }
 
   .review-segment-option.active.tabelog {
@@ -1505,8 +1493,8 @@
   }
 
   .review-direction-pill {
-    min-width: 42px;
-    padding: 0 12px;
+    min-width: 34px;
+    padding: 0 10px;
     background: rgba(255, 255, 255, 0.84);
     border: 1px solid rgba(23, 25, 28, 0.08);
     box-shadow: var(--shadow-soft);
@@ -1712,34 +1700,35 @@
 
     .segment-row-mobile {
       flex-wrap: nowrap;
-      gap: 6px;
+      gap: 4px;
       overflow: visible;
       padding-bottom: 0;
     }
 
     .toolbar-pill {
-      min-height: 36px;
-      padding: 8px 10px;
-      font-size: 0.8rem;
+      min-height: 34px;
+      padding: 7px 9px;
+      font-size: 0.78rem;
     }
 
     .toolbar-pill-emoji {
-      min-width: 52px;
-      padding-inline: 12px;
-    }
-
-    .review-sort-row {
-      gap: 6px;
+      min-width: 40px;
+      padding-inline: 8px;
     }
 
     .review-segment-option,
     .review-direction-pill {
-      min-height: 36px;
+      min-height: 34px;
     }
 
     .review-segment-option img {
-      width: 42px;
-      height: 22px;
+      width: 30px;
+      height: 18px;
+    }
+
+    .review-segment-option.tabelog img {
+      width: 28px;
+      height: 16px;
     }
   }
 </style>

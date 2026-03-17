@@ -29,7 +29,7 @@ test('mobile flow uses emoji override pills and the shared filter sheet content'
 
   await expect(page.locator('.top-filter-row .filter-pill')).toHaveCount(1);
   await expect(distanceButton).toContainText('📍');
-  await expect(priceButton).toContainText('💴');
+  await expect(priceButton).toContainText('¥');
 
   const yPositions = await Promise.all([openButton, distanceButton, priceButton].map(async (button) => (await button.boundingBox())?.y));
   expect(yPositions.every((value) => value !== undefined)).toBe(true);
