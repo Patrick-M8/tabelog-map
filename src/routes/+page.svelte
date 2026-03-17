@@ -776,10 +776,13 @@
           {/if}
         {:else}
           <div class="sheet-header">
-            <div>
-              <p class="eyebrow">{placesInViewLabel(sortedPlaces.length, visiblePlaces.length)}</p>
-              <h1>Tabelog Hyakumeiten</h1>
-              <p class="sheet-summary">{filterSummary}</p>
+            <div class="sheet-header-brand">
+              <div>
+                <p class="eyebrow">{placesInViewLabel(sortedPlaces.length, visiblePlaces.length)}</p>
+                <h1>Tabelog Hyakumeiten</h1>
+                <p class="sheet-summary">{filterSummary}</p>
+              </div>
+              <img class="sheet-brand-mark" src="/brands/tabelog-mark.svg" alt="Tabelog" />
             </div>
           </div>
 
@@ -942,10 +945,13 @@
         {/if}
       {:else}
         <div class="sheet-header">
-          <div>
-            <p class="eyebrow">{placesInViewLabel(sortedPlaces.length, visiblePlaces.length)}</p>
-            <h1>Tabelog Hyakumeiten</h1>
-            <p class="sheet-summary">{filterSummary}</p>
+          <div class="sheet-header-brand">
+            <div>
+              <p class="eyebrow">{placesInViewLabel(sortedPlaces.length, visiblePlaces.length)}</p>
+              <h1>Tabelog Hyakumeiten</h1>
+              <p class="sheet-summary">{filterSummary}</p>
+            </div>
+            <img class="sheet-brand-mark" src="/brands/tabelog-mark.svg" alt="Tabelog" />
           </div>
         </div>
 
@@ -1222,9 +1228,17 @@
   .sheet-header,
   .filter-footer {
     display: flex;
-    justify-content: flex-end;
     gap: 14px;
     align-items: center;
+  }
+
+  .panel-header,
+  .sheet-header {
+    justify-content: space-between;
+  }
+
+  .filter-footer {
+    justify-content: flex-end;
   }
 
   .filter-footer.with-clear {
@@ -1234,6 +1248,15 @@
   .sheet-header {
     align-items: start;
     margin-bottom: 10px;
+  }
+
+  .sheet-header-brand {
+    width: 100%;
+    min-width: 0;
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+    align-items: flex-start;
   }
 
   .sheet-header h1,
@@ -1304,6 +1327,14 @@
     background: #17191c;
     color: #f8f7f4;
     font-weight: 600;
+  }
+
+  .sheet-brand-mark {
+    width: 68px;
+    height: auto;
+    flex: 0 0 auto;
+    margin-top: 4px;
+    object-fit: contain;
   }
 
   .show-places-button {
@@ -1589,6 +1620,10 @@
     .icon-button {
       min-height: 40px;
       padding-inline: 12px;
+    }
+
+    .sheet-brand-mark {
+      width: 58px;
     }
 
     .icon-button-square {

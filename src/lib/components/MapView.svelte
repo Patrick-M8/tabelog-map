@@ -22,6 +22,7 @@
   let container: HTMLDivElement;
   let map: Map | null = null;
   let lastFocusToken = '';
+  let resizeObserver: ResizeObserver | null = null;
 
   function asFeatureCollection() {
     return {
@@ -253,8 +254,12 @@
 
     const placeSource = map.getSource('places') as GeoJSONSource | undefined;
     placeSource?.setData(asFeatureCollection());
-    map.setFilter('selected-point', ['==', ['get', 'id'], selectedPlaceId ?? '']);
-    map.setFilter('selected-point-core', ['==', ['get', 'id'], selectedPlaceId ?? '']);
+    if (map.getLayer('selected-point')) {
+      map.setFilter('selected-point', ['==', ['get', 'id'], selectedPlaceId ?? '']);
+    }
+    if (map.getLayer('selected-point-core')) {
+      map.setFilter('selected-point-core', ['==', ['get', 'id'], selectedPlaceId ?? '']);
+    }
 
     const userPointSource = map.getSource('user-point') as GeoJSONSource | undefined;
     userPointSource?.setData(
@@ -294,20 +299,43 @@
       map.addControl(new maplibregl.NavigationControl({ visualizePitch: false, showCompass: false }), 'bottom-right');
     }
 
+    resizeObserver = new ResizeObserver(() => {
+      if (!map) {
+        return;
+      }
+
+      map.resize();
+      if (map.isStyleLoaded()) {
+        emitMove();
+      }
+    });
+    resizeObserver.observe(container);
+
     map.on('load', () => {
       ensureLayers();
       syncSources();
       emitMove();
     });
+    map.on('styledata', () => {
+      if (!map?.isStyleLoaded()) {
+        return;
+      }
+
+      ensureLayers();
+      syncSources();
+    });
     map.on('moveend', emitMove);
 
     return () => {
+      resizeObserver?.disconnect();
+      resizeObserver = null;
       map?.remove();
       map = null;
     };
   });
 
   onDestroy(() => {
+    resizeObserver?.disconnect();
     map?.remove();
   });
 
