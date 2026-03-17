@@ -50,11 +50,12 @@
   const REFRESH_PROMPT_VISIBLE_MS = 2200;
   const REFRESH_PROMPT_FADE_MS = 320;
   const CUISINE_PREVIEW_COUNT = 10;
+  const DEFAULT_BROWSE_SNAP: SheetSnap = 'mid';
   const PRICE_BANDS = Array.from({ length: 5 }, (_, index) => '\u00A5'.repeat(index + 1));
   const WALK_MINUTE_OPTIONS = [5, 10, 15, 30];
   const REVIEW_SOURCES: ReviewSource[] = ['tabelog', 'google'];
   let innerWidth = 390;
-  let sheetSnap: SheetSnap = 'peek';
+  let sheetSnap: SheetSnap = DEFAULT_BROWSE_SNAP;
   let sortKey: SortKey = 'best';
   let activeReviewSources: ReviewSource[] = [];
   let activeReviewDirection: 'asc' | 'desc' = 'desc';
@@ -101,7 +102,7 @@
   let uiRouteState: UiRouteState = {
     view: 'browse',
     selectedPlaceId: null,
-    sheetSnap: 'peek',
+    sheetSnap: DEFAULT_BROWSE_SNAP,
     section: null
   };
   let lastFilterScrollKey = '';
@@ -177,7 +178,7 @@
   }
 
   function parseSheetSnap(value: string | null): SheetSnap {
-    return value === 'peek' || value === 'mid' || value === 'full' ? value : 'peek';
+    return value === 'peek' || value === 'mid' || value === 'full' ? value : DEFAULT_BROWSE_SNAP;
   }
 
   function parseFilterSection(value: string | null): FilterSection {
@@ -205,7 +206,7 @@
       params.set('place', state.selectedPlaceId);
     }
 
-    if (state.view === 'browse' && state.sheetSnap !== 'peek') {
+    if (state.view === 'browse' && state.sheetSnap !== DEFAULT_BROWSE_SNAP) {
       params.set('sheet', state.sheetSnap);
     }
 
@@ -610,7 +611,7 @@
       {
         view: filterOpen ? 'filters' : 'browse',
         selectedPlaceId: null,
-        sheetSnap: 'peek',
+        sheetSnap: DEFAULT_BROWSE_SNAP,
         section: filterOpen ? uiRouteState.section : null
       },
       { replace: true }
