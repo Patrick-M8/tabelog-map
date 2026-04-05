@@ -13,9 +13,10 @@
     "test:e2e": "playwright test"
   },
   "dependencies": {
-    "@tanstack/svelte-query": "^5.90.2",
     "@sveltejs/adapter-static": "^3.0.8",
     "@sveltejs/kit": "^2.48.1",
+    "@tanstack/svelte-query": "^5.90.2",
+    "@vercel/analytics": "^2.0.1",
     "idb-keyval": "^6.2.2",
     "luxon": "^3.7.2",
     "maplibre-gl": "^5.11.0",
